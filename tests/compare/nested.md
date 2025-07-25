@@ -2,7 +2,7 @@
 
 This is the introduction section that should not be extracted.
 
-@include sections/nested.md
+@include- sections/nested.md
 
 ## Conclusion
 

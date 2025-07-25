@@ -22,19 +22,19 @@ function main {
     declare -a errors=()
     declare -a lines_claimed=()
 
-    while IFS=' ' read -r start_line end_line target_file; do
-        if [[ $start_line -gt $end_line ]]; then
+    while IFS=' ' read -r start_line end_line target_file suppress; do
+        if [ $start_line -gt $end_line ]; then
             errors+=("${start_line}-${end_line} ${target_file} has descending line numbers")
             continue
         fi
 
-        if [[ $end_line -gt $source_line_count ]]; then
+        if [ $end_line -gt $source_line_count ]; then
             errors+=("${start_line}-${end_line} ${target_file} has lines larger than the source file")
             continue
         fi
 
         for ((line_num=start_line; line_num<=end_line; line_num++)); do
-            if [[ -n "${lines_claimed[$line_num]:-}" ]]; then
+            if [ -n "${lines_claimed[$line_num]:-}" ]; then
                 errors+=("${start_line}-${end_line} ${target_file} overlaps with ${lines_claimed[$line_num]}")
                 break
             fi
@@ -44,20 +44,20 @@ function main {
             lines_claimed[$line_num]="$target_file"
         done
 
-        ranges+=("$start_line $end_line $target_file")
+        ranges+=("$start_line $end_line $target_file $suppress")
     done < <(
             # filters, then sorts the file based on start line number
             sed '/^[[:space:]]*#/d; /^[[:space:]]*$/d' "$command_file" \
                 | sort -k1,1n
         )
 
-    if [[ ${#errors[@]} -gt 0 ]]; then
+    if [ ${#errors[@]} -gt 0 ]; then
         printf '%s\n' "${errors[@]}" >&2
         exit 1
     fi
 
     for range in "${ranges[@]}"; do
-        read -r start_line end_line target_file <<< "$range"
+        read -r start_line end_line target_file suppress <<< "$range"
 
         target_path="$source_dir/$target_file"
         target_dir=$(dirname "$target_path")
@@ -71,11 +71,22 @@ function main {
         mapfile -t edited < "$source_file"
 
         for range in "${ranges[@]}"; do
-            read -r start_line end_line target_file <<< "$range"
-            edited[$((start_line-1))]="@include $target_file"
+            read -r start_line end_line target_file suppress <<< "$range"
+
+            if [ -n "$suppress" ]; then
+                edited[$((start_line-1))]="@include- $target_file"
+            else
+                edited[$((start_line-1))]="@include $target_file"
+            fi
+
             for ((line_num=start_line+1; line_num<=end_line; line_num++)); do
                 unset edited[$((line_num-1))]
             done
+
+            if [ -z "$suppress" -a -z "${edited[$end_line]:-}" ]; then
+                # also remove trailing blank
+                unset edited[$end_line]
+            fi
         done
 
         printf '%s\n' "${edited[@]}" > "$source_file"

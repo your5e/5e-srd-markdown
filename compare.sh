@@ -1,19 +1,20 @@
 #!/usr/bin/env -S bash -euo pipefail
 
+temp_file=$(mktemp)
+
 function main {
     [ $# -ne 2 ] && \
         abort "./compare.sh <markdown_with_includes> <comparison>" Usage
 
-    input_file="$1"
-    input_dir=$(dirname "$input_file")
-    comparison="$2"
+    local input_file="$1"
+    local input_dir=$(dirname "$input_file")
+    local comparison="$2"
 
     [ ! -f "$input_file" ] && \
         abort "'$input_file' not found"
     [ ! -f "$comparison" ] && \
         abort "'$comparison' not found"
 
-    temp_file=$(mktemp)
     trap 'cleanup' EXIT
     process_includes "$input_file" "$input_dir" > "$temp_file"
     diff -u "$comparison" "$temp_file" \
@@ -25,14 +26,16 @@ function process_includes {
     local base_dir="$2"
 
     while IFS= read -r line; do
-        if [[ $line =~ ^@include[[:space:]]+(.+)$ ]]; then
-            include_file="${BASH_REMATCH[1]}"
-            full_path="$base_dir/$include_file"
+        if [[ $line =~ ^@include(-)?[[:space:]]+(.+)$ ]]; then
+            local suppress_line="${BASH_REMATCH[1]:-}"
+            local include_file="${BASH_REMATCH[2]}"
+            local full_path="$base_dir/$include_file"
 
             [ ! -f "$full_path" ] && \
                 abort "'$file' includes '$include_file': not found"
 
-            process_includes "$full_path" "$(dirname "$full_path")";
+            process_includes "$full_path" "$(dirname "$full_path")"
+            [ -n "$suppress_line" ] || echo
         else
             echo "$line"
         fi

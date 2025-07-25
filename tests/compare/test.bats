@@ -58,11 +58,10 @@
 
 @test "shows diff" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-        @@ -9,15 +9,6 @@
-         Line 3 of section one.
+        @@ -10,14 +10,6 @@
          Line 4 of section one.
          Line 5 of section one.
-        -
+         
         -## Section Two
         -
         -This is the content of section two.
