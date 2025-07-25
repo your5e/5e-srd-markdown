@@ -16,6 +16,7 @@ to any text.
   - [PDF](dnd/51/SRD_CC_v5.1.pdf)
   - [Markdown (untouched)](dnd/51/SRD_CC_v5.1.untouched.md)
   - [Markdown (whole)](dnd/51/SRD_CC_v5.1.md)
+  - [Markdown (broken into sections)](dnd/51/markdown)
 
   > This work includes material taken from the System Reference Document 5.1
   > ("SRD 5.1") by Wizards of the Coast LLC and available at
@@ -34,3 +35,19 @@ Create the Markdown using [marker](https://github.com/datalab-to/marker):
 Place the resulting Markdown to the right place (`srd/51/SRD_CC_v5.1.md`),
 keep a pristine copy (`srd/51/SRD_CC_v5.1.untouched.md`), and copy it to
 `breakdown.md` for processing into smaller files.
+
+A draft breakdown is made with
+
+```bash
+initial_breakdown.sh dnd/51/SRD_CC_v5.1.md > dnd/51/breakdown.txt
+```
+
+and then refined by hand (as either `marker` detects far too many lines as
+headers, or the PDF was styled poorly). While refining the breakdown, this is
+run repeatedly to spot mistakes:
+
+```
+cp dnd/51/SRD_CC_v5.1.md dnd/51/breakdown.md \
+  && ./breakdown.sh dnd/51/breakdown.md \
+  && ./compare.sh dnd/51/breakdown.md dnd/51/SRD_CC_v5.1.md
+```

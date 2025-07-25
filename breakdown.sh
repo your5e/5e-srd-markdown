@@ -83,7 +83,7 @@ function main {
             if [ -n "$suppress" ]; then
                 edited[$((start_line-1))]="@include- $target_file"
             else
-                edited[$((start_line-1))]="@include $target_file"
+                edited[$((start_line-1))]="@include  $target_file"
             fi
 
             for ((line_num=start_line+1; line_num<=end_line; line_num++)); do
