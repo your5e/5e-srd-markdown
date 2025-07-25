@@ -1,0 +1,36 @@
+5e documents in Markdown
+========================
+
+The fifth edition reference documents that have been released under
+[Creative Commons Attribution 4.0 International License \("CC-BY-4.0"\)][cc],
+reformatted into Markdown.
+
+[cc]: https://creativecommons.org/licenses/by/4.0/
+
+Other than altering the form from PDF to Markdown, no changes have been made
+to any text.
+
+
+- D&D 5th edition 5.1 SRD (2014)
+
+  - [PDF](dnd/51/SRD_CC_v5.1.pdf)
+  - [Markdown (untouched)](dnd/51/SRD_CC_v5.1.untouched.md)
+  - [Markdown (whole)](dnd/51/SRD_CC_v5.1.md)
+
+  > This work includes material taken from the System Reference Document 5.1
+  > ("SRD 5.1") by Wizards of the Coast LLC and available at
+  > <https://dnd.wizards.com/resources/systems-reference-document>.
+  > The SRD 5.1 is licensed under the Creative Commons Attribution 4.0
+  > International License available at
+  > <https://creativecommons.org/licenses/by/4.0/legalcode>.
+
+
+## Workflow for breaking the whole SRD into sections
+
+Create the Markdown using [marker](https://github.com/datalab-to/marker):
+
+    marker_single -output_dir . --output_format markdown SRD_CC_v5.1.pdf
+
+Place the resulting Markdown to the right place (`srd/51/SRD_CC_v5.1.md`),
+keep a pristine copy (`srd/51/SRD_CC_v5.1.untouched.md`), and copy it to
+`breakdown.md` for processing into smaller files.
