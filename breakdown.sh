@@ -47,7 +47,7 @@ function main {
         ranges+=("$start_line $end_line $target_file $suppress")
     done < <(
             # filters, then sorts the file based on start line number
-            sed '/^[[:space:]]*#/d; /^[[:space:]]*$/d' "$command_file" \
+            sed '/^[[:space:]]*#/d; /^[[:space:]]*$/d; s/#.*$//' "$command_file" \
                 | sort -k1,1n
         )
 
@@ -76,7 +76,7 @@ function main {
             if [ -n "$suppress" ]; then
                 edited[$((start_line-1))]="@include- $target_file"
             else
-                edited[$((start_line-1))]="@include $target_file"
+                edited[$((start_line-1))]="@include  $target_file"
             fi
 
             for ((line_num=start_line+1; line_num<=end_line; line_num++)); do
