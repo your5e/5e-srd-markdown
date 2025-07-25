@@ -28,6 +28,8 @@ to any text.
 
 ## Workflow for breaking the whole SRD into sections
 
+### Create Markdown files
+
 Create the Markdown using [marker](https://github.com/datalab-to/marker):
 
     marker_single -output_dir . --output_format markdown SRD_CC_v5.1.pdf
@@ -51,3 +53,20 @@ cp dnd/51/SRD_CC_v5.1.md dnd/51/breakdown.md \
   && ./breakdown.sh dnd/51/breakdown.md \
   && ./compare.sh dnd/51/breakdown.md dnd/51/SRD_CC_v5.1.md
 ```
+
+### Clean the Markdown
+
+Run the cleaning script:
+
+```
+python clean_srd.py dnd/51/SRD_CC_v5.1.md
+```
+
+When changing the source by hand and lines are added/removed, run:
+
+```
+./alter_breakdown.sh dnd/51/breakdown.txt /black_tentacles 2
+```
+
+to add/subtract to all line boundaries from the section matching
+`/black_tentacles`.

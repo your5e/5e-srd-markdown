@@ -6095,7 +6095,9 @@ A *remove curse* spell ends this effect. At the GM's option, you may choose an a
 
 **Casting Time:** 1 action **Range:** 90 feet **Components:** V, S, M (a piece of tentacle from a giant octopus or a giant squid)
 
-**Duration:** Concentration, up to 1 minute Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the
+**Duration:** Concentration, up to 1 minute
+
+Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the
 
 duration, these tentacles turn the ground in the area into difficult terrain.
 
@@ -6173,7 +6175,9 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 **Casting Time:** 1 bonus action **Range:** Self **Components:** V
 
-**Duration:** Concentration, up to 1 minute The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 5-foot radius and can't become invisible until the spell ends.
+**Duration:** Concentration, up to 1 minute
+
+The next time you hit a creature with a weapon attack before this spell ends, the weapon gleams with astral radiance as you strike. The attack deals an extra 2d6 radiant damage to the target, which becomes visible if it's invisible, and the target sheds dim light in a 5-foot radius and can't become invisible until the spell ends.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, the extra damage increases by 1d6 for each slot level above 2nd.
 
@@ -6359,7 +6363,9 @@ If you cast the spell two or more times before finishing your next long rest, th
 
 *5th-level divination (ritual)*
 
-**Casting Time:** 1 minute **Range:** Self **Components:** V, S **Duration:** Instantaneous You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in dungeons and towns.
+**Casting Time:** 1 minute **Range:** Self **Components:** V, S **Duration:** Instantaneous
+
+You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in dungeons and towns.
 
 You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
 
@@ -6387,7 +6393,9 @@ This spell doesn't decode secret messages in a text or a glyph, such as an arcan
 
 **Casting Time:** 1 action **Range:** 30 feet **Components:** V, S
 
-**Duration:** Concentration, up to 1 minute Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to
+**Duration:** Concentration, up to 1 minute
+
+Creatures of your choice that you can see within range and that can hear you must make a Wisdom saving throw. A target automatically succeeds on this saving throw if it can't be charmed. On a failed save, a target is affected by this spell. Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to
 
 you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. It can take its action before it moves. After moving in this way, it can make another Wisdom saving to try to end the effect.
 
@@ -6452,7 +6460,9 @@ The GM has the creatures' statistics.
 
 *7th-level conjuration*
 
-**Casting Time:** 1 minute **Range:** 90 feet **Components:** V, S **Duration:** Concentration, up to 1 hour You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.
+**Casting Time:** 1 minute **Range:** 90 feet **Components:** V, S **Duration:** Concentration, up to 1 hour
+
+You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.
 
 The celestial is friendly to you and your companions for the duration. Roll initiative for the celestial, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.
 
@@ -6757,7 +6767,9 @@ Using any material created by this spell as another spell's material component c
 
 *1st-level evocation*
 
-**Casting Time:** 1 action **Range:** Touch **Components:** V, S **Duration:** Instantaneous A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+**Casting Time:** 1 action **Range:** Touch **Components:** V, S **Duration:** Instantaneous
+
+A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
 
@@ -7084,7 +7096,9 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 *Transmutation cantrip*
 
-**Casting Time:** 1 action **Range:** 30 feet **Components:** V, S **Duration:** Instantaneous Whispering to the spirits of nature, you create one of the following effects within range:
+**Casting Time:** 1 action **Range:** 30 feet **Components:** V, S **Duration:** Instantaneous
+
+Whispering to the spirits of nature, you create one of the following effects within range:
 
 - You create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.
 - You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
@@ -7403,7 +7417,9 @@ The fire spreads around corners. It ignites flammable objects in the area that a
 
 *Evocation cantrip*
 
-**Casting Time:** 1 action **Range:** 120 feet **Components:** V, S **Duration:** Instantaneous You hurl a mote of fire at a creature or object within
+**Casting Time:** 1 action **Range:** 120 feet **Components:** V, S **Duration:** Instantaneous
+
+You hurl a mote of fire at a creature or object within
 
 range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
 
@@ -7944,7 +7960,9 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 **Components:** V, S
 
-**Duration:** Instantaneous You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
+**Duration:** Instantaneous
+
+You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 
@@ -8020,7 +8038,9 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 
 **Casting Time:** 1 bonus action **Range:** 90 feet **Components:** V
 
-**Duration:** Concentration, up to 1 hour You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
+**Duration:** Concentration, up to 1 hour
+
+You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can
 
@@ -8296,7 +8316,9 @@ This spell can't locate a creature if running water at least 10 feet wide blocks
 
 *2nd-level divination*
 
-**Casting Time:** 1 action **Range:** Self **Components:** V, S, M (a forked twig) **Duration:** Concentration, up to 10 minutes Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
+**Casting Time:** 1 action **Range:** Self **Components:** V, S, M (a forked twig) **Duration:** Concentration, up to 10 minutes
+
+Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 
 The spell can locate a specific object known to you, as long as you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
 
@@ -8384,7 +8406,9 @@ When the spell ends, the container is destroyed.
 
 *1st-level evocation*
 
-**Casting Time:** 1 action **Range:** 120 feet **Components:** V, S **Duration:** Instantaneous You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+**Casting Time:** 1 action **Range:** 120 feet **Components:** V, S **Duration:** Instantaneous
+
+You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
 
@@ -8408,7 +8432,9 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 *2nd-level transmutation*
 
-**Casting Time:** 1 bonus action **Range:** Touch **Components:** V, S **Duration:** Concentration, up to 1 hour You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
+**Casting Time:** 1 bonus action **Range:** Touch **Components:** V, S **Duration:** Concentration, up to 1 hour
+
+You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 4th level or higher, the bonus increases to +2. When you use a spell slot of 6th level or higher, the bonus increases to +3.
 
