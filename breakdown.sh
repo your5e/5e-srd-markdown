@@ -21,6 +21,7 @@ function main {
     declare -a ranges=()
     declare -a errors=()
     declare -a lines_claimed=()
+    declare -A files_seen=()
 
     while IFS=' ' read -r start_line end_line target_file suppress; do
         if [ $start_line -gt $end_line ]; then
@@ -32,6 +33,12 @@ function main {
             errors+=("${start_line}-${end_line} ${target_file} has lines larger than the source file")
             continue
         fi
+
+        if [ -n "${files_seen[$target_file]:-}" ]; then
+            errors+=("${start_line}-${end_line} ${target_file} duplicates ${files_seen[$target_file]}")
+            continue
+        fi
+        files_seen[$target_file]="${start_line}-${end_line}"
 
         for ((line_num=start_line; line_num<=end_line; line_num++)); do
             if [ -n "${lines_claimed[$line_num]:-}" ]; then
@@ -76,7 +83,7 @@ function main {
             if [ -n "$suppress" ]; then
                 edited[$((start_line-1))]="@include- $target_file"
             else
-                edited[$((start_line-1))]="@include  $target_file"
+                edited[$((start_line-1))]="@include $target_file"
             fi
 
             for ((line_num=start_line+1; line_num<=end_line; line_num++)); do

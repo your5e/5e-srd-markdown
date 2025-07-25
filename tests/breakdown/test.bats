@@ -101,6 +101,7 @@ teardown() {
     expected=$(sed -e 's/^        //' <<'        EOF'
         9-15 sections/section_overlap.md overlaps with sections/section_one.md
         13-19 sections/section_two.md overlaps with sections/section_overlap.md
+        20-20 sections/section_overlap.md duplicates 9-15
         21-10 reversed.md has descending line numbers
         400-500 out_of_range.md has lines larger than the source file
         EOF
