@@ -11,10 +11,8 @@
 | Goibhniu, god of smiths and healing               | NG          | Knowledge, Life     | Giant mallet over sword            |
 | Lugh, god of arts, travel, and commerce           | CN          | Knowledge, Life     | Pair of long hands                 |
 | Manannan mac Lir, god of oceans and sea creatures | LN          | Nature, Tempest     | Wave of white water on green       |
-
-| Math Mathonwy, god of magic         | NE   | Knowledge   | Staff                           |
-|-------------------------------------|------|-------------|---------------------------------|
-| Morrigan, goddess of battle         | CE   | War         | Two crossed spears              |
-| Nuada, god of war and warriors      | N    | War         | Silver hand on black background |
-| Oghma, god of speech and writing    | NG   | Knowledge   | Unfurled scroll                 |
-| Silvanus, god of nature and forests | N    | Nature      | Summer oak tree                 |
+| Math Mathonwy, god of magic                       | NE          | Knowledge           | Staff                              |
+| Morrigan, goddess of battle                       | CE          | War                 | Two crossed spears                 |
+| Nuada, god of war and warriors                    | N           | War                 | Silver hand on black background    |
+| Oghma, god of speech and writing                  | NG          | Knowledge           | Unfurled scroll                    |
+| Silvanus, god of nature and forests               | N           | Nature              | Summer oak tree                    |

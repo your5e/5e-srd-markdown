@@ -17,7 +17,8 @@ fi
 # only one match allowed
 match_count=$(grep -c "$pattern" "$breakdown" || true)
 if [ "$match_count" -ne 1 ]; then
-    echo "Error: Pattern '$pattern' matches $match_count lines." >&2
+    echo "Error: Pattern '$pattern' matches $match_count lines:" >&2
+    grep -n "$pattern" "$breakdown" >&2
     exit 1
 fi
 

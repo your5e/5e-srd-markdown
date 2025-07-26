@@ -31,18 +31,16 @@ Each ability also has a modifier, derived from the score and ranging from -5 (fo
 | 6–7     |         -2 |
 | 8–9     |         -1 |
 | 10–11   |         +0 |
-
-| 12–13   |   +1 |
-|---------|------|
-| 14–15   |   +2 |
-| 16–17   |   +3 |
-| 18–19   |   +4 |
-| 20–21   |   +5 |
-| 22–23   |   +6 |
-| 24–25   |   +7 |
-| 26–27   |   +8 |
-| 28–29   |   +9 |
-| 30      |  +10 |
+| 12–13   |         +1 |
+| 14–15   |         +2 |
+| 16–17   |         +3 |
+| 18–19   |         +4 |
+| 20–21   |         +5 |
+| 22–23   |         +6 |
+| 24–25   |         +7 |
+| 26–27   |         +8 |
+| 28–29   |         +9 |
+| 30      |        +10 |
 
 To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
 

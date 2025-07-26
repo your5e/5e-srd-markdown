@@ -32,29 +32,28 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a scimitar or (*b*) any simple melee weapon
 - Leather armor, an explorer's pack, and a druidic focus
 
-|       | Proficiency   |                                                   | Cantrips   |     |     |     |     |     | —Spell Slots per Spell Level—   |     |     |     |
-|-------|---------------|---------------------------------------------------|------------|-----|-----|-----|-----|-----|---------------------------------|-----|-----|-----|
-| Level | Bonus         | Features                                          | Known      | 1st | 2nd | 3rd | 4th | 5th | 6th                             | 7th | 8th | 9th |
-| 1st   | +2            | Druidic, Spellcasting                             | 2          | 2   | —   | —   | —   | —   | —                               | —   | —   | —   |
-| 2nd   | +2            | Wild Shape, Druid Circle                          | 2          | 3   | —   | —   | —   | —   | —                               | —   | —   | —   |
-| 3rd   | +2            | —                                                 | 2          | 4   | 2   | —   | —   | —   | —                               | —   | —   | —   |
-| 4th   | +2            | Wild Shape improvement, Ability Score Improvement | 3          | 4   | 3   | —   | —   | —   | —                               | —   | —   | —   |
-| 5th   | +3            | —                                                 | 3          | 4   | 3   | 2   | —   | —   | —                               | —   | —   | —   |
-| 6th   | +3            | Druid Circle feature                              | 3          | 4   | 3   | 3   | —   | —   | —                               | —   | —   | —   |
-| 7th   | +3            | —                                                 | 3          | 4   | 3   | 3   | 1   | —   | —                               | —   | —   | —   |
-| 8th   | +3            | Wild Shape improvement, Ability Score Improvement | 3          | 4   | 3   | 3   | 2   | —   | —                               | —   | —   | —   |
-| 9th   | +4            | —                                                 | 3          | 4   | 3   | 3   | 3   | 1   | —                               | —   | —   | —   |
-| 10th  | +4            | Druid Circle feature                              | 4          | 4   | 3   | 3   | 3   | 2   | —                               | —   | —   | —   |
-| 11th  | +4            | —                                                 | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | —   | —   | —   |
-| 12th  | +4            | Ability Score Improvement                         | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | —   | —   | —   |
-| 13th  | +5            | —                                                 | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | 1   | —   | —   |
-| 14th  | +5            | Druid Circle feature                              | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | 1   | —   | —   |
-| 15th  | +5            | —                                                 | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | 1   | 1   | —   |
-| 16th  | +5            | Ability Score Improvement                         | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | 1   | 1   | —   |
-| 17th  | +6            | —                                                 | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | 1   | 1   | 1   |
-| 18th  | +6            | Timeless Body, Beast Spells                       | 4          | 4   | 3   | 3   | 3   | 3   | 1                               | 1   | 1   | 1   |
-| 19th  | +6            | Ability Score Improvement                         | 4          | 4   | 3   | 3   | 3   | 3   | 2                               | 1   | 1   | 1   |
-| 20th  | +6            | Archdruid                                         | 4          | 4   | 3   | 3   | 3   | 3   | 2                               | 2   | 1   | 1   |
+| Level   |   Proficiency Bonus | Features                                          |   Cantrips Known |   Spell Slots — 1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
+|---------|---------------------|---------------------------------------------------|------------------|---------------------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 1st     |                  +2 | Druidic, Spellcasting                             |                2 |                   2 | —     | —     | —     | —     | —     | —     | —     | —     |
+| 2nd     |                  +2 | Wild Shape, Druid Circle                          |                2 |                   3 | —     | —     | —     | —     | —     | —     | —     | —     |
+| 3rd     |                  +2 | —                                                 |                2 |                   4 | 2     | —     | —     | —     | —     | —     | —     | —     |
+| 4th     |                  +2 | Wild Shape improvement, Ability Score Improvement |                3 |                   4 | 3     | —     | —     | —     | —     | —     | —     | —     |
+| 5th     |                  +3 | —                                                 |                3 |                   4 | 3     | 2     | —     | —     | —     | —     | —     | —     |
+| 6th     |                  +3 | Druid Circle feature                              |                3 |                   4 | 3     | 3     | —     | —     | —     | —     | —     | —     |
+| 7th     |                  +3 | —                                                 |                3 |                   4 | 3     | 3     | 1     | —     | —     | —     | —     | —     |
+| 8th     |                  +3 | Wild Shape improvement, Ability Score Improvement |                3 |                   4 | 3     | 3     | 2     | —     | —     | —     | —     | —     |
+| 9th     |                  +4 | —                                                 |                3 |                   4 | 3     | 3     | 3     | 1     | —     | —     | —     | —     |
+| 10th    |                  +4 | Druid Circle feature                              |                4 |                   4 | 3     | 3     | 3     | 2     | —     | —     | —     | —     |
+| 11th    |                  +4 | —                                                 |                4 |                   4 | 3     | 3     | 3     | 2     | 1     | —     | —     | —     |
+| 12th    |                  +4 | Ability Score Improvement                         |                4 |                   4 | 3     | 3     | 3     | 2     | 1     | —     | —     | —     |
+| 13th    |                  +5 | —                                                 |                4 |                   4 | 3     | 3     | 3     | 2     | 1     | 1     | —     | —     |
+| 14th    |                  +5 | Druid Circle feature                              |                4 |                   4 | 3     | 3     | 3     | 2     | 1     | 1     | —     | —     |
+| 15th    |                  +5 | —                                                 |                4 |                   4 | 3     | 3     | 3     | 2     | 1     | 1     | 1     | —     |
+| 16th    |                  +5 | Ability Score Improvement                         |                4 |                   4 | 3     | 3     | 3     | 2     | 1     | 1     | 1     | —     |
+| 17th    |                  +6 | —                                                 |                4 |                   4 | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
+| 18th    |                  +6 | Timeless Body, Beast Spells                       |                4 |                   4 | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
+| 19th    |                  +6 | Ability Score Improvement                         |                4 |                   4 | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
+| 20th    |                  +6 | Archdruid                                         |                4 |                   4 | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
 
 # **Druidic**
 
