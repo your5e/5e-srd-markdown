@@ -1,3 +1,4 @@
 #                                what it is testing
 
-     1     29  barbarian.md    # table reformatting and runon warning
+     1     28  barbarian.md    # no table runon
+    30     81  bard.md         # table reformatting and runon warning

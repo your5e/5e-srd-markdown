@@ -62,11 +62,15 @@ Run the cleaning script:
 python clean_srd.py dnd/51/SRD_CC_v5.1.md
 ```
 
-When changing the source by hand and lines are added/removed, run:
+If it detects any errors it cannot fix automatically, it will issue errors and
+not process the file further. After reformatting the document, it will also
+scan for problems that might need human intervention. Any automatic changes
+will have updated the breakdown file as necessary.
+
+When changing the source by hand and lines are added/removed, use
+`alter_breakdown.sh` to add/subtract line boundaries from a matching
+section onwards:
 
 ```
-./alter_breakdown.sh dnd/51/breakdown.txt /black_tentacles 2
+./alter_breakdown.sh dnd/51/breakdown.txt /black_tentacles -2
 ```
-
-to add/subtract to all line boundaries from the section matching
-`/black_tentacles`.

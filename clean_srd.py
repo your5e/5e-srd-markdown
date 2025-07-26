@@ -21,62 +21,46 @@ def check_duration_length(line):
 
 
 def check_srd(lines):
-    TESTS_TABLE = {
-        # match on          check with
-        '**Duration':       check_duration_length,
-    }
+    TESTS_TABLE = [
+        check_duration_length,
+    ]
 
     error_messages = []
     for index, line in enumerate(lines):
-        for match, checker in TESTS_TABLE.items():
-            if match in line:
-                message = checker(line)
-                if message:
-                    context = 'file'
-                    for prev in range(index - 1, -1, -1):
-                        if lines[prev].startswith('#'):
-                            context = header_to_text(lines[prev])
-                            break
-                    error_messages.append(f"{context}, {index}:\n{message}\n")
+        for checker in TESTS_TABLE:
+            message = checker(line)
+            if message:
+                context = 'file'
+                for prev in range(index - 1, -1, -1):
+                    if lines[prev].startswith('#'):
+                        context = header_to_text(lines[prev])
+                        break
+                error_messages.append(f"{context}, {index}:\n{message}\n")
     if error_messages:
         raise ValueError('\n'.join(error_messages))
 
 
-def warn_table_runon(lines, index):
-    # for when a table is split across pages in the PDF
-    if (
-            index > 2
-        and lines[index-1] == ''
-        and '|' in lines[index-2]
-    ):
-        return "possible table run-on error"
+def clean_whitespace(lines, index):
+    # why <br>s for the love of...
+    spaces = re.sub(r'[^\S\n]+', ' ', lines[index])
+    linebreaks = spaces.replace('<br>', ' ')
+    if linebreaks != lines[index]:
+        lines[index] = linebreaks
+        return 0
     return None
 
 
-def warn_srd(lines):
-    WARN_TABLE = {
-        # match on          check with
-        '|':                warn_table_runon,
+def clean_unicode_chars(lines, index):
+    # usable characters over clever typographic characters
+    replacements = {
+        '\u0336': '—',  # "combining long stroke overlay" to em-dash
+        '\u2212': '-',  # "minus sign" to hyphen
     }
 
-    for index, line in enumerate(lines):
-        for match, checker in WARN_TABLE.items():
-            if match in line:
-                message = checker(lines, index)
-                if message:
-                    context = 'file'
-                    for prev in range(index - 1, -1, -1):
-                        if lines[prev].startswith('#'):
-                            context = header_to_text(lines[prev])
-                            break
-                    print(f"Warning: {context}, {index + 1}: {message}", file=sys.stderr)
-
-
-def clean_whitespace(lines, index):
-    spaces = re.sub(r'[^\S\n]+', ' ', lines[index])
-    brs = spaces.replace('<br>', ' ')
-    if brs != lines[index]:
-        lines[index] = brs
+    original = lines[index]
+    for old, new in replacements.items():
+        lines[index] = lines[index].replace(old, new)
+    if lines[index] != original:
         return 0
     return None
 
@@ -92,9 +76,24 @@ def clean_table_alignment(lines, index):
     ):                                      # doesn't look like a table
         return None
 
+    headers = [cell.strip() for cell in lines[index].split('|')[1:-1]]
     table_end = index
-    while table_end < len(lines) - 1 and lines[table_end + 1].startswith('|'):
-        table_end += 1
+
+    while True:
+        # find the end of the table
+        while table_end < len(lines) - 1 and lines[table_end + 1].startswith('|'):
+            table_end += 1
+
+        # look for the same table to continue after a page break
+        if table_end+3 < len(lines) and lines[table_end+3].startswith('|'):
+            cells = [cell for cell in lines[table_end+3].split('|')[1:-1]]
+            if len(cells) != len(headers):
+                break
+            if all('--' in cell for cell in cells):
+                break
+            table_end += 3
+        else:
+            break
 
     rows = []
     for line in lines[index+2:table_end+1]:
@@ -102,19 +101,10 @@ def clean_table_alignment(lines, index):
             cell.strip()
                 for cell in line.split('|')[1:-1]
         ]
-        if not cells:
-            continue
-        if any(cell.strip() for cell in cells):
+        if any(cell for cell in cells):
             rows.append(cells)
 
-    aligned = tabulate(
-            rows,
-            headers=[
-                cell.strip()
-                    for cell in lines[index].split('|')[1:-1]
-            ],
-            tablefmt='github'
-        ).split('\n')
+    aligned = tabulate(rows, headers=headers, tablefmt='github').split('\n')
     for i, new_line in enumerate(aligned):
         lines[index + i] = new_line
 
@@ -129,6 +119,7 @@ def clean_table_alignment(lines, index):
 def clean_srd(lines, breakdown_data):
     CONVERSIONS_TABLE = [
         clean_whitespace,
+        clean_unicode_chars,
         clean_table_alignment,
     ]
 
@@ -144,6 +135,47 @@ def clean_srd(lines, breakdown_data):
     if changes > 0:
         return '\n'.join(lines + [''])
     return None
+
+
+def warn_table_runon(lines, index):
+    # probably a table split across pages, but marker gave it new headers
+    if '|' not in lines[index]:
+        return None
+    if (
+            index > 2
+        and lines[index-1] == ''
+        and '|' in lines[index-2]
+    ):
+        if len(lines[index].split('|')[1:-1]) == len(lines[index-2].split('|')[1:-1]):
+            return "possible table run-on"
+
+
+def warn_unusual_unicode(lines, index):
+    # let's not be too clever
+    unusual_chars = set()
+    for char in lines[index]:
+        if ord(char) >= 0x2070:
+            unusual_chars.add(f"U+{ord(char):04X}")
+    if unusual_chars:
+        return f"unusual Unicode characters: {', '.join(sorted(unusual_chars))}"
+
+
+def warn_srd(lines):
+    WARN_TABLE = [
+        warn_table_runon,
+        warn_unusual_unicode,
+    ]
+
+    for index, line in enumerate(lines):
+        for checker in WARN_TABLE:
+            message = checker(lines, index)
+            if message:
+                context = 'file'
+                for prev in range(index - 1, -1, -1):
+                    if lines[prev].startswith('#'):
+                        context = header_to_text(lines[prev])
+                        break
+                print(f"Warning: {context}, {index + 1}: {message}", file=sys.stderr)
 
 
 def load_breakdown_data(breakdown_file):
@@ -201,8 +233,8 @@ def main():
             breakdown_data = load_breakdown_data(args.breakdown_file)
 
         check_srd(lines)
-        warn_srd(lines)
         cleaned = clean_srd(lines, breakdown_data)
+        warn_srd(lines)
 
         if cleaned:
             if args.debug or args.markdown == '-':

@@ -19,7 +19,7 @@ setup() {
 
 @test "processes clean SRD content without errors" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-        Warning: The Barbarian, 19: possible table run-on error
+        Warning: The Barbarian, 18: possible table run-on
         EOF
     )
 
