@@ -10,7 +10,7 @@
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 29	(+9) | 10	(+0) | 27	(+8) | 18	(+4) | 17	(+3) | 21	(+5) |
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
 
 **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
 
@@ -49,7 +49,7 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 #### **Legendary Actions**
 
-The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action  option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
 - **Detect.** The dragon makes a Wisdom (Perception) check.
 - **Tail Attack.** The dragon makes a tail attack.

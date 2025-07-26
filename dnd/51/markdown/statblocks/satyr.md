@@ -6,7 +6,7 @@
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 12	(+1) | 16	(+3) | 11	(+0) | 12	(+1) | 10	(+0) | 14	(+2) |
+| 12 (+1) | 16 (+3) | 11 (+0) | 12 (+1) | 10 (+0) | 14 (+2) |
 
 **Skills** Perception +2, Performance +6, Stealth +5 **Sense**s passive Perception 12 **Languages** Common, Elvish, Sylvan **Challenge** 1/2 (100 XP)
 

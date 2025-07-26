@@ -10,11 +10,11 @@ The duration depends on the object's material. If the object is composed of mult
 
 | Material              | Duration   |
 |-----------------------|------------|
-| Vegetable	matter      | 1	day      |
-| Stone	or	crystal      | 12	hours   |
-| Precious	metals       | 1	hour     |
-| Gems                  | 10	minutes |
-| Adamantine	or	mithral | 1	minute   |
+| Vegetable matter      | 1 day      |
+| Stone or crystal      | 12 hours   |
+| Precious metals       | 1 hour     |
+| Gems                  | 10 minutes |
+| Adamantine or mithral | 1 minute   |
 
 Using any material created by this spell as another spell's material component causes that spell to fail.
 

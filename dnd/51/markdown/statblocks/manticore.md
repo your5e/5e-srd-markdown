@@ -4,9 +4,9 @@
 
 **Armor Class** 14 (natural armor) **Hit Points** 68 (8d10 + 24) **Speed** 30 ft., fly 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 17	(+3) | 16	(+3) | 17	(+3) | 7	(−2) | 12	(+1) | 8	(−1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 17 (+3) | 16 (+3) | 17 (+3) | 7 (-2) | 12 (+1) | 8 (-1) |    |
 
 **Senses** darkvision 60 ft., passive Perception 11 **Languages** Common **Challenge** 3 (700 XP)
 

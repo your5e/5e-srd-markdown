@@ -1,8 +1,8 @@
 ## **Precipitation**
 
-| Stage | Condition |
-|-------|-----------|
-| 1     | Clear     |
+|   Stage | Condition   |
+|---------|-------------|
+|       1 | Clear       |
 
 - 2 Light clouds
 - 3 Overcast or ground fog

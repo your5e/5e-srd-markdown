@@ -8,7 +8,7 @@
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
 |---------|--------|---------|--------|---------|--------|
-| 19	(+4) | 9	(−1) | 18	(+4) | 6	(−2) | 10	(+0) | 5	(−3) |
+| 19 (+4) | 9 (-1) | 18 (+4) | 6 (-2) | 10 (+0) | 5 (-3) |
 
 **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 

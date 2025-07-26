@@ -8,7 +8,7 @@
 
 | STR     | DEX    | CON     | INT     | WIS     | CHA     |
 |---------|--------|---------|---------|---------|---------|
-| 25	(+7) | 9	(−1) | 23	(+6) | 10	(+0) | 14	(+2) | 13	(+1) |
+| 25 (+7) | 9 (-1) | 23 (+6) | 10 (+0) | 14 (+2) | 13 (+1) |
 
 **Saving Throws** Dex +3, Con +10, Cha +5 **Skills** Athletics +11, Perception +6 **Damage Immunities** fire **Senses** passive Perception 16 **Languages** Giant **Challenge** 9 (5,000 XP)
 

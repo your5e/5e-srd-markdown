@@ -10,7 +10,7 @@
 
 | STR    | DEX    | CON     | INT     | WIS     | CHA    |
 |--------|--------|---------|---------|---------|--------|
-| 3 (−4) | 8	(−1) | 11	(+0) | 10	(+0) | 10	(+0) | 6	(−2) |
+| 3 (-4) | 8 (-1) | 11 (+0) | 10 (+0) | 10 (+0) | 6 (-2) |
 
 **Damage Vulnerabilities** fire
 
@@ -24,6 +24,6 @@
 
 #### **Actions**
 
-*Rake. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 − 1) slashing damage.
+*Rake. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 - 1) slashing damage.
 
 An **awakened shrub** is an ordinary shrub given sentience and mobility by the *awaken* spell or similar magic.

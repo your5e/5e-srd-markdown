@@ -20,7 +20,7 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 
 #### **Distance from Origin Damage**
 
-| 10	ft.	away	or	closer | 8	×	the	number	of	charges	in	the	staff |
-|-----------------------|----------------------------------------|
-| 11	to	20	ft.	away     | 6	×	the	number	of	charges	in	the	staff |
-| 21	to	30	ft.	away     | 4	×	the	number	of	charges	in	the	staff |
+| 10 ft. away or closer   | 8 × the number of charges in the staff   |
+|-------------------------|------------------------------------------|
+| 11 to 20 ft. away       | 6 × the number of charges in the staff   |
+| 21 to 30 ft. away       | 4 × the number of charges in the staff   |

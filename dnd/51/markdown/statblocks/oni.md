@@ -10,7 +10,7 @@
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19	(+4) | 11	(+0) | 16	(+3) | 14	(+2) | 12	(+1) | 15	(+2) |
+| 19 (+4) | 11 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Dex +3, Con +6, Wis +4, Cha +5 **Skills** Arcana +5, Deception +8, Perception +4 **Senses** darkvision 60 ft., passive Perception 14
 

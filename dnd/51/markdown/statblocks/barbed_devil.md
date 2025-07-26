@@ -10,7 +10,7 @@
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 17	(+3) | 18	(+4) | 12	(+1) | 14	(+2) | 14	(+2) |
+| 16 (+3) | 17 (+3) | 18 (+4) | 12 (+1) | 14 (+2) | 14 (+2) |
 
 **Saving Throws** Str +6, Con +7, Wis +5, Cha +5
 
@@ -42,4 +42,4 @@
 
 *Tail. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage.
 
-*Hurl Flame. Ranged Spell Attack:* +5 to hit, range 150 ft., one target. *Hit:* 10 (3d6) fire damage. If the target is  a flammable object that isn't being worn or carried, it also catches fire.
+*Hurl Flame. Ranged Spell Attack:* +5 to hit, range 150 ft., one target. *Hit:* 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.

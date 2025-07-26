@@ -10,7 +10,7 @@
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 11	(+0) | 14	(+2) | 12	(+1) | 11	(+0) | 13	(+1) | 11	(+0) |
+| 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
 **Skills** Nature +4, Perception +5, Stealth +6, Survival +5 **Senses** passive Perception 15 **Languages** any one language (usually Common)
 

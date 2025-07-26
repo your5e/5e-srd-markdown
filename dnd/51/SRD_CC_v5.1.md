@@ -178,18 +178,18 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 
 #### **Draconic Ancestry**
 
-| Dragon | Damage	Type | Breath	Weapon                |
-|--------|-------------|------------------------------|
-| Black  | Acid        | 5	by	30	ft.	line	(Dex.	save) |
-| Blue   | Lightning   | 5	by	30	ft.	line	(Dex.	save) |
-| Brass  | Fire        | 5	by	30	ft.	line	(Dex.	save) |
-| Bronze | Lightning   | 5	by	30	ft.	line	(Dex.	save) |
-| Copper | Acid        | 5	by	30	ft.	line	(Dex.	save) |
-| Gold   | Fire        | 15	ft.	cone	(Dex.	save)      |
-| Green  | Poison      | 15	ft.	cone	(Con.	save)      |
-| Red    | Fire        | 15	ft.	cone	(Dex.	save)      |
-| Silver | Cold        | 15	ft.	cone	(Con.	save)      |
-| White  | Cold        | 15	ft.	cone	(Con.	save)      |
+| Dragon   | Damage Type   | Breath Weapon                |
+|----------|---------------|------------------------------|
+| Black    | Acid          | 5 by 30 ft. line (Dex. save) |
+| Blue     | Lightning     | 5 by 30 ft. line (Dex. save) |
+| Brass    | Fire          | 5 by 30 ft. line (Dex. save) |
+| Bronze   | Lightning     | 5 by 30 ft. line (Dex. save) |
+| Copper   | Acid          | 5 by 30 ft. line (Dex. save) |
+| Gold     | Fire          | 15 ft. cone (Dex. save)      |
+| Green    | Poison        | 15 ft. cone (Con. save)      |
+| Red      | Fire          | 15 ft. cone (Dex. save)      |
+| Silver   | Cold          | 15 ft. cone (Con. save)      |
+| White    | Cold          | 15 ft. cone (Con. save)      |
 
 *Draconic Ancestry.* You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
 
@@ -339,33 +339,32 @@ You start with the following equipment, in addition to the equipment granted by 
 
 # **The Barbarian**
 
-|       | Proficiency |                                     |       | Rage   |
-|-------|-------------|-------------------------------------|-------|--------|
-| Level | Bonus       | Features                            | Rages | Damage |
-| 1st   | +2          | Rage,<br>Unarmored<br>Defense       | 2     | +2     |
-| 2nd   | +2          | Reckless<br>Attack,<br>Danger	Sense | 2     | +2     |
-| 3rd   | +2          | Primal	Path                         | 3     | +2     |
-| 4th   | +2          | Ability	Score<br>Improvement        | 3     | +2     |
-| 5th   | +3          | Extra	Attack,<br>Fast<br>Movement   | 3     | +2     |
-| 6th   | +3          | Path	feature                        | 4     | +2     |
-| 7th   | +3          | Feral	Instinct                      | 4     | +2     |
-| 8th   | +3          | Ability	Score<br>Improvement        | 4     | +2     |
-| 9th   | +4          | Brutal	Critical<br>(1	die)          | 4     | +3     |
-| 10th  | +4          | Path	feature                        | 4     | +3     |
-| 11th  | +4          | Relentless                          | 4     | +3     |
-|       |             |                                     |       |        |
+|       | Proficiency   |                               |       | Rage   |
+|-------|---------------|-------------------------------|-------|--------|
+| Level | Bonus         | Features                      | Rages | Damage |
+| 1st   | +2            | Rage, Unarmored Defense       | 2     | +2     |
+| 2nd   | +2            | Reckless Attack, Danger Sense | 2     | +2     |
+| 3rd   | +2            | Primal Path                   | 3     | +2     |
+| 4th   | +2            | Ability Score Improvement     | 3     | +2     |
+| 5th   | +3            | Extra Attack, Fast Movement   | 3     | +2     |
+| 6th   | +3            | Path feature                  | 4     | +2     |
+| 7th   | +3            | Feral Instinct                | 4     | +2     |
+| 8th   | +3            | Ability Score Improvement     | 4     | +2     |
+| 9th   | +4            | Brutal Critical (1 die)       | 4     | +3     |
+| 10th  | +4            | Path feature                  | 4     | +3     |
+| 11th  | +4            | Relentless                    | 4     | +3     |
 
-|      |    | Rage                         |           |    |
-|------|----|------------------------------|-----------|----|
-| 12th | +4 | Ability	Score<br>Improvement | 5         | +3 |
-| 13th | +5 | Brutal	Critical<br>(2	dice)  | 5         | +3 |
-| 14th | +5 | Path	feature                 | 5         | +3 |
-| 15th | +5 | Persistent<br>Rage           | 5         | +3 |
-| 16th | +5 | Ability	Score<br>Improvement | 5         | +4 |
-| 17th | +6 | Brutal	Critical<br>(3	dice)  | 6         | +4 |
-| 18th | +6 | Indomitable<br>Might         | 6         | +4 |
-| 19th | +6 | Ability	Score<br>Improvement | 6         | +4 |
-| 20th | +6 | Primal<br>Champion           | Unlimited | +4 |
+|      |    | Rage                      |           |    |
+|------|----|---------------------------|-----------|----|
+| 12th | +4 | Ability Score Improvement | 5         | +3 |
+| 13th | +5 | Brutal Critical (2 dice)  | 5         | +3 |
+| 14th | +5 | Path feature              | 5         | +3 |
+| 15th | +5 | Persistent Rage           | 5         | +3 |
+| 16th | +5 | Ability Score Improvement | 5         | +4 |
+| 17th | +6 | Brutal Critical (3 dice)  | 6         | +4 |
+| 18th | +6 | Indomitable Might         | 6         | +4 |
+| 19th | +6 | Ability Score Improvement | 6         | +4 |
+| 20th | +6 | Primal Champion           | Unlimited | +4 |
 
 # **Rage**
 
@@ -494,29 +493,29 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a lute or (*b*) any other musical instrument
 - Leather armor and a dagger
 
-|       | Proficiency |                                                         | Cantrips | Spells | —Spell	Slots	per	Spell	Level— |     |     |     |     |     |     |     |     |
-|-------|-------------|---------------------------------------------------------|----------|--------|-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
-| Level | Bonus       | Features                                                | Known    | Known  | 1st                           | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st   | +2          | Spellcasting,	Bardic	Inspiration<br>(d6)                | 2        | 4      | 2                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 2nd   | +2          | Jack	of	All	Trades,	Song	of	Rest<br>(d6)                | 2        | 5      | 3                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 3rd   | +2          | Bard	College,	Expertise                                 | 2        | 6      | 4                             | 2   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 4th   | +2          | Ability	Score	Improvement                               | 3        | 7      | 4                             | 3   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 5th   | +3          | Bardic	Inspiration	(d8), Font	of<br>Inspiration         | 3        | 8      | 4                             | 3   | 2   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 6th   | +3          | Countercharm,	Bard	College<br>feature                   | 3        | 9      | 4                             | 3   | 3   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 7th   | +3          | ̶                                                       | 3        | 10     | 4                             | 3   | 3   | 1   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 8th   | +3          | Ability	Score	Improvement                               | 3        | 11     | 4                             | 3   | 3   | 2   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 9th   | +4          | Song	of	Rest	(d8)                                       | 3        | 12     | 4                             | 3   | 3   | 3   | 1   | ̶   | ̶   | ̶   | ̶   |
-| 10th  | +4          | Bardic	Inspiration	(d10),<br>Expertise, Magical	Secrets | 4        | 14     | 4                             | 3   | 3   | 3   | 2   | ̶   | ̶   | ̶   | ̶   |
-| 11th  | +4          | ̶                                                       | 4        | 15     | 4                             | 3   | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 12th  | +4          | Ability	Score	Improvement                               | 4        | 15     | 4                             | 3   | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 13th  | +5          | Song	of	Rest	(d10)                                      | 4        | 16     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 14th  | +5          | Magical	Secrets,	Bard	College<br>feature                | 4        | 18     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 15th  | +5          | Bardic	Inspiration	(d12)                                | 4        | 19     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 16th  | +5          | Ability	Score	Improvement                               | 4        | 19     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 17th  | +6          | Song	of	Rest	(d12)                                      | 4        | 20     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6          | Magical	Secrets                                         | 4        | 22     | 4                             | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6          | Ability	Score	Improvement                               | 4        | 22     | 4                             | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6          | Superior	Inspiration                                    | 4        | 22     | 4                             | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|       | Proficiency   |                                                      | Cantrips   | Spells   | —Spell Slots per Spell Level—   |     |     |     |     |     |     |     |     |
+|-------|---------------|------------------------------------------------------|------------|----------|---------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| Level | Bonus         | Features                                             | Known      | Known    | 1st                             | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | +2            | Spellcasting, Bardic Inspiration (d6)                | 2          | 4        | 2                               | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +2            | Jack of All Trades, Song of Rest (d6)                | 2          | 5        | 3                               | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +2            | Bard College, Expertise                              | 2          | 6        | 4                               | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +2            | Ability Score Improvement                            | 3          | 7        | 4                               | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +3            | Bardic Inspiration (d8), Font of Inspiration         | 3          | 8        | 4                               | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6th   | +3            | Countercharm, Bard College feature                   | 3          | 9        | 4                               | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7th   | +3            | —                                                    | 3          | 10       | 4                               | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8th   | +3            | Ability Score Improvement                            | 3          | 11       | 4                               | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th   | +4            | Song of Rest (d8)                                    | 3          | 12       | 4                               | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10th  | +4            | Bardic Inspiration (d10), Expertise, Magical Secrets | 4          | 14       | 4                               | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th  | +4            | —                                                    | 4          | 15       | 4                               | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12th  | +4            | Ability Score Improvement                            | 4          | 15       | 4                               | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13th  | +5            | Song of Rest (d10)                                   | 4          | 16       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14th  | +5            | Magical Secrets, Bard College feature                | 4          | 18       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15th  | +5            | Bardic Inspiration (d12)                             | 4          | 19       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16th  | +5            | Ability Score Improvement                            | 4          | 19       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17th  | +6            | Song of Rest (d12)                                   | 4          | 20       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6            | Magical Secrets                                      | 4          | 22       | 4                               | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6            | Ability Score Improvement                            | 4          | 22       | 4                               | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6            | Superior Inspiration                                 | 4          | 22       | 4                               | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # **Spellcasting**
 
@@ -666,29 +665,29 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a priest's pack or (*b*) an explorer's pack
 - A shield and a holy symbol
 
-|       | Proficiency |                                                                            | Cantrips | ̶Spell	Slots	per	Spell	Level̶ |     |     |     |     |     |     |     |     |
-|-------|-------------|----------------------------------------------------------------------------|----------|-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
-| Level | Bonus       | Features                                                                   | Known    | 1st                           | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st   | +2          | Spellcasting,	Divine	Domain                                                | 3        | 2                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 2nd   | +2          | Channel	Divinity	(1/rest),	Divine	Domain<br>feature                        | 3        | 3                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 3rd   | +2          | ̶                                                                          | 3        | 4                             | 2   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 4th   | +2          | Ability	Score	Improvement                                                  | 4        | 4                             | 3   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 5th   | +3          | Destroy	Undead	(CR	1/2)                                                    | 4        | 4                             | 3   | 2   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 6th   | +3          | Channel	Divinity	(2/rest),	Divine	Domain<br>feature                        | 4        | 4                             | 3   | 3   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 7th   | +3          | ̶                                                                          | 4        | 4                             | 3   | 3   | 1   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 8th   | +3          | Ability	Score	Improvement,	Destroy	Undead<br>(CR	1),	Divine	Domain	feature | 4        | 4                             | 3   | 3   | 2   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 9th   | +4          | ̶                                                                          | 4        | 4                             | 3   | 3   | 3   | 1   | ̶   | ̶   | ̶   | ̶   |
-| 10th  | +4          | Divine	Intervention                                                        | 5        | 4                             | 3   | 3   | 3   | 2   | ̶   | ̶   | ̶   | ̶   |
-| 11th  | +4          | Destroy	Undead	(CR	2)                                                      | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 12th  | +4          | Ability	Score	Improvement                                                  | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 13th  | +5          | ̶                                                                          | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 14th  | +5          | Destroy	Undead	(CR	3)                                                      | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 15th  | +5          | ̶                                                                          | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 16th  | +5          | Ability	Score	Improvement                                                  | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 17th  | +6          | Destroy	Undead	(CR	4),	Divine	Domain<br>feature                            | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6          | Channel	Divinity	(3/rest)                                                  | 5        | 4                             | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6          | Ability	Score	Improvement                                                  | 5        | 4                             | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6          | Divine	Intervention	improvement                                            | 5        | 4                             | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|       | Proficiency   |                                                                         | Cantrips   | —Spell Slots per Spell Level—   |     |     |     |     |     |     |     |     |
+|-------|---------------|-------------------------------------------------------------------------|------------|---------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| Level | Bonus         | Features                                                                | Known      | 1st                             | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | +2            | Spellcasting, Divine Domain                                             | 3          | 2                               | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +2            | Channel Divinity (1/rest), Divine Domain feature                        | 3          | 3                               | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +2            | —                                                                       | 3          | 4                               | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +2            | Ability Score Improvement                                               | 4          | 4                               | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +3            | Destroy Undead (CR 1/2)                                                 | 4          | 4                               | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6th   | +3            | Channel Divinity (2/rest), Divine Domain feature                        | 4          | 4                               | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7th   | +3            | —                                                                       | 4          | 4                               | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8th   | +3            | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature | 4          | 4                               | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th   | +4            | —                                                                       | 4          | 4                               | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10th  | +4            | Divine Intervention                                                     | 5          | 4                               | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th  | +4            | Destroy Undead (CR 2)                                                   | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12th  | +4            | Ability Score Improvement                                               | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13th  | +5            | —                                                                       | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14th  | +5            | Destroy Undead (CR 3)                                                   | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15th  | +5            | —                                                                       | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16th  | +5            | Ability Score Improvement                                               | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17th  | +6            | Destroy Undead (CR 4), Divine Domain feature                            | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6            | Channel Divinity (3/rest)                                               | 5          | 4                               | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6            | Ability Score Improvement                                               | 5          | 4                               | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6            | Divine Intervention improvement                                         | 5          | 4                               | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # **Spellcasting**
 
@@ -726,7 +725,7 @@ You can use a holy symbol (see "Equipment") as a spellcasting focus for your cle
 
 # **Divine Domain**
 
-Choose one domain related to your deity, such as Life. Each domain is detailed at the end of the class description, and each one provides examples of gods  associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+Choose one domain related to your deity, such as Life. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 #### **Domain Spells**
 
@@ -760,14 +759,13 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 
 ### **Destroy Undead**
 
-| Destroys	Undead	of	CR |
-|-----------------------|
-| 1/2	or	lower          |
-| 1	or	lower            |
-| 2	or	lower            |
-| 3	or	lower            |
-| 4	or	lower            |
-|                       |
+| Destroys Undead of CR   |
+|-------------------------|
+| 1/2 or lower            |
+| 1 or lower              |
+| 2 or lower              |
+| 3 or lower              |
+| 4 or lower              |
 
 # **Divine Intervention**
 
@@ -787,13 +785,13 @@ endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home a
 
 ## **Life Domain Spells**
 
-| Cleric	Level | Spells                               |
-|--------------|--------------------------------------|
-| 1st          | bless,	cure	wounds                   |
-| 3rd          | lesser	restoration,	spiritual	weapon |
-| 5th          | beacon	of	hope,	revivify             |
-| 7th          | death	ward,	guardian	of	faith        |
-| 9th          | mass	cure	wounds,	raise	dead         |
+| Cleric Level   | Spells                               |
+|----------------|--------------------------------------|
+| 1st            | bless, cure wounds                   |
+| 3rd            | lesser restoration, spiritual weapon |
+| 5th            | beacon of hope, revivify             |
+| 7th            | death ward, guardian of faith        |
+| 9th            | mass cure wounds, raise dead         |
 
 ## **Bonus Proficiency**
 
@@ -857,29 +855,29 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a scimitar or (*b*) any simple melee weapon
 - Leather armor, an explorer's pack, and a druidic focus
 
-|       | Proficiency |                                                      | Cantrips |     |     |     |     |     | ̶Spell	Slots	per	Spell	Level̶ |     |     |     |
-|-------|-------------|------------------------------------------------------|----------|-----|-----|-----|-----|-----|-------------------------------|-----|-----|-----|
-| Level | Bonus       | Features                                             | Known    | 1st | 2nd | 3rd | 4th | 5th | 6th                           | 7th | 8th | 9th |
-| 1st   | +2          | Druidic,	Spellcasting                                | 2        | 2   | ̶   | ̶   | ̶   | ̶   | ̶                             | ̶   | ̶   | ̶   |
-| 2nd   | +2          | Wild	Shape,	Druid	Circle                             | 2        | 3   | ̶   | ̶   | ̶   | ̶   | ̶                             | ̶   | ̶   | ̶   |
-| 3rd   | +2          | ̶                                                    | 2        | 4   | 2   | ̶   | ̶   | ̶   | ̶                             | ̶   | ̶   | ̶   |
-| 4th   | +2          | Wild	Shape	improvement, Ability	Score<br>Improvement | 3        | 4   | 3   | ̶   | ̶   | ̶   | ̶                             | ̶   | ̶   | ̶   |
-| 5th   | +3          | ̶                                                    | 3        | 4   | 3   | 2   | ̶   | ̶   | ̶                             | ̶   | ̶   | ̶   |
-| 6th   | +3          | Druid	Circle	feature                                 | 3        | 4   | 3   | 3   | ̶   | ̶   | ̶                             | ̶   | ̶   | ̶   |
-| 7th   | +3          | ̶                                                    | 3        | 4   | 3   | 3   | 1   | ̶   | ̶                             | ̶   | ̶   | ̶   |
-| 8th   | +3          | Wild	Shape	improvement, Ability	Score<br>Improvement | 3        | 4   | 3   | 3   | 2   | ̶   | ̶                             | ̶   | ̶   | ̶   |
-| 9th   | +4          | ̶                                                    | 3        | 4   | 3   | 3   | 3   | 1   | ̶                             | ̶   | ̶   | ̶   |
-| 10th  | +4          | Druid	Circle	feature                                 | 4        | 4   | 3   | 3   | 3   | 2   | ̶                             | ̶   | ̶   | ̶   |
-| 11th  | +4          | ̶                                                    | 4        | 4   | 3   | 3   | 3   | 2   | 1                             | ̶   | ̶   | ̶   |
-| 12th  | +4          | Ability	Score	Improvement                            | 4        | 4   | 3   | 3   | 3   | 2   | 1                             | ̶   | ̶   | ̶   |
-| 13th  | +5          | ̶                                                    | 4        | 4   | 3   | 3   | 3   | 2   | 1                             | 1   | ̶   | ̶   |
-| 14th  | +5          | Druid	Circle	feature                                 | 4        | 4   | 3   | 3   | 3   | 2   | 1                             | 1   | ̶   | ̶   |
-| 15th  | +5          | ̶                                                    | 4        | 4   | 3   | 3   | 3   | 2   | 1                             | 1   | 1   | ̶   |
-| 16th  | +5          | Ability	Score	Improvement                            | 4        | 4   | 3   | 3   | 3   | 2   | 1                             | 1   | 1   | ̶   |
-| 17th  | +6          | ̶                                                    | 4        | 4   | 3   | 3   | 3   | 2   | 1                             | 1   | 1   | 1   |
-| 18th  | +6          | Timeless	Body,	Beast	Spells                          | 4        | 4   | 3   | 3   | 3   | 3   | 1                             | 1   | 1   | 1   |
-| 19th  | +6          | Ability	Score	Improvement                            | 4        | 4   | 3   | 3   | 3   | 3   | 2                             | 1   | 1   | 1   |
-| 20th  | +6          | Archdruid                                            | 4        | 4   | 3   | 3   | 3   | 3   | 2                             | 2   | 1   | 1   |
+|       | Proficiency   |                                                   | Cantrips   |     |     |     |     |     | —Spell Slots per Spell Level—   |     |     |     |
+|-------|---------------|---------------------------------------------------|------------|-----|-----|-----|-----|-----|---------------------------------|-----|-----|-----|
+| Level | Bonus         | Features                                          | Known      | 1st | 2nd | 3rd | 4th | 5th | 6th                             | 7th | 8th | 9th |
+| 1st   | +2            | Druidic, Spellcasting                             | 2          | 2   | —   | —   | —   | —   | —                               | —   | —   | —   |
+| 2nd   | +2            | Wild Shape, Druid Circle                          | 2          | 3   | —   | —   | —   | —   | —                               | —   | —   | —   |
+| 3rd   | +2            | —                                                 | 2          | 4   | 2   | —   | —   | —   | —                               | —   | —   | —   |
+| 4th   | +2            | Wild Shape improvement, Ability Score Improvement | 3          | 4   | 3   | —   | —   | —   | —                               | —   | —   | —   |
+| 5th   | +3            | —                                                 | 3          | 4   | 3   | 2   | —   | —   | —                               | —   | —   | —   |
+| 6th   | +3            | Druid Circle feature                              | 3          | 4   | 3   | 3   | —   | —   | —                               | —   | —   | —   |
+| 7th   | +3            | —                                                 | 3          | 4   | 3   | 3   | 1   | —   | —                               | —   | —   | —   |
+| 8th   | +3            | Wild Shape improvement, Ability Score Improvement | 3          | 4   | 3   | 3   | 2   | —   | —                               | —   | —   | —   |
+| 9th   | +4            | —                                                 | 3          | 4   | 3   | 3   | 3   | 1   | —                               | —   | —   | —   |
+| 10th  | +4            | Druid Circle feature                              | 4          | 4   | 3   | 3   | 3   | 2   | —                               | —   | —   | —   |
+| 11th  | +4            | —                                                 | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | —   | —   | —   |
+| 12th  | +4            | Ability Score Improvement                         | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | —   | —   | —   |
+| 13th  | +5            | —                                                 | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | 1   | —   | —   |
+| 14th  | +5            | Druid Circle feature                              | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | 1   | —   | —   |
+| 15th  | +5            | —                                                 | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | 1   | 1   | —   |
+| 16th  | +5            | Ability Score Improvement                         | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | 1   | 1   | —   |
+| 17th  | +6            | —                                                 | 4          | 4   | 3   | 3   | 3   | 2   | 1                               | 1   | 1   | 1   |
+| 18th  | +6            | Timeless Body, Beast Spells                       | 4          | 4   | 3   | 3   | 3   | 3   | 1                               | 1   | 1   | 1   |
+| 19th  | +6            | Ability Score Improvement                         | 4          | 4   | 3   | 3   | 3   | 3   | 2                               | 1   | 1   | 1   |
+| 20th  | +6            | Archdruid                                         | 4          | 4   | 3   | 3   | 3   | 3   | 2                               | 2   | 1   | 1   |
 
 # **Druidic**
 
@@ -929,12 +927,12 @@ Your druid level determines the beasts you can transform into, as shown in the B
 
 #### **Beast Shapes**
 
-|       | Max. |                                |                |
-|-------|------|--------------------------------|----------------|
-| Level | CR   | Limitations                    | Example        |
-| 2nd   | 1/4  | No	flying	or	swimming<br>speed | Wolf           |
-| 4th   | 1/2  | No	flying	speed                | Crocodile      |
-| 8th   | 1    | —                              | Giant<br>eagle |
+|       | Max.   |                             |             |
+|-------|--------|-----------------------------|-------------|
+| Level | CR     | Limitations                 | Example     |
+| 2nd   | 1/4    | No flying or swimming speed | Wolf        |
+| 4th   | 1/2    | No flying speed             | Crocodile   |
+| 8th   | 1      | —                           | Giant eagle |
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
@@ -995,68 +993,68 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 #### **Arctic**
 
-| Druid	Level | Circle	Spells                     |
-|-------------|-----------------------------------|
-| 3rd         | hold	person,	spike	growth         |
-| 5th         | sleet	storm,	slow                 |
-| 7th         | freedom	of	movement,	ice	storm    |
-| 9th         | commune	with	nature,	cone	of	cold |
+| Druid Level   | Circle Spells                     |
+|---------------|-----------------------------------|
+| 3rd           | hold person, spike growth         |
+| 5th           | sleet storm, slow                 |
+| 7th           | freedom of movement, ice storm    |
+| 9th           | commune with nature, cone of cold |
 
 ## **Coast**
 
-| Druid	Level | Circle	Spells                      |
-|-------------|------------------------------------|
-| 3rd         | mirror	image,	misty	step           |
-| 5th         | water	breathing,	water	walk        |
-| 7th         | control	water, freedom	of	movement |
-| 9th         | conjure	elemental,	scrying         |
+| Druid Level   | Circle Spells                      |
+|---------------|------------------------------------|
+| 3rd           | mirror image, misty step           |
+| 5th           | water breathing, water walk        |
+| 7th           | control water, freedom of movement |
+| 9th           | conjure elemental, scrying         |
 
 #### **Desert**
 
-| Druid	Level | Circle	Spells                                    |
-|-------------|--------------------------------------------------|
-| 3rd         | blur,	silence                                    |
-| 5th         | create	food	and	water,	protection	from<br>energy |
-| 7th         | blight,	hallucinatory	terrain                    |
-| 9th         | insect	plague,	wall	of	stone                     |
+| Druid Level   | Circle Spells                                 |
+|---------------|-----------------------------------------------|
+| 3rd           | blur, silence                                 |
+| 5th           | create food and water, protection from energy |
+| 7th           | blight, hallucinatory terrain                 |
+| 9th           | insect plague, wall of stone                  |
 
 ## **Forest**
 
-| Druid	Level | Circle	Spells                    |
-|-------------|----------------------------------|
-| 3rd         | barkskin,	spider	climb           |
-| 5th         | call	lightning,	plant	growth     |
-| 7th         | divination,	freedom	of	movement  |
-| 9th         | commune	with	nature,	tree	stride |
+| Druid Level   | Circle Spells                    |
+|---------------|----------------------------------|
+| 3rd           | barkskin, spider climb           |
+| 5th           | call lightning, plant growth     |
+| 7th           | divination, freedom of movement  |
+| 9th           | commune with nature, tree stride |
 
 ## **Grassland**
 
-| Druid	Level | Circle	Spells                    |
-|-------------|----------------------------------|
-| 3rd         | invisibility,	pass	without	trace |
-| 5th         | daylight,	haste                  |
-| 7th         | divination,	freedom	of	movement  |
-| 9th         | dream,	insect	plague             |
+| Druid Level   | Circle Spells                    |
+|---------------|----------------------------------|
+| 3rd           | invisibility, pass without trace |
+| 5th           | daylight, haste                  |
+| 7th           | divination, freedom of movement  |
+| 9th           | dream, insect plague             |
 
 ## **Mountain**
 
-| Druid	Level | Circle	Spells                   |
-|-------------|---------------------------------|
-| 3rd         | spider	climb,	spike	growth      |
-| 5th         | lightning	bolt,	meld	into	stone |
-| 7th         | stone	shape,	stoneskin          |
-| 9th         | passwall,	wall	of	stone         |
+| Druid Level   | Circle Spells                   |
+|---------------|---------------------------------|
+| 3rd           | spider climb, spike growth      |
+| 5th           | lightning bolt, meld into stone |
+| 7th           | stone shape, stoneskin          |
+| 9th           | passwall, wall of stone         |
 
 ## **Swamp**
 
-| Druid	Level | Circle	Spells        |  |
-|-------------|----------------------|--|
-| 3rd         | acid	arrow,	darkness |  |
+| Druid Level   | Circle Spells        |    |
+|---------------|----------------------|----|
+| 3rd           | acid arrow, darkness |    |
 
-| 5th | water	walk,	stinking	cloud           |
-|-----|--------------------------------------|
-| 7th | freedom	of	movement,	locate	creature |
-| 9th | insect	plague,	scrying               |
+| 5th   | water walk, stinking cloud           |
+|-------|--------------------------------------|
+| 7th   | freedom of movement, locate creature |
+| 9th   | insect plague, scrying               |
 
 ## **Land's Stride**
 
@@ -1117,34 +1115,32 @@ You start with the following equipment, in addition to the equipment granted by 
 
 # **The Fighter**
 
-|       | Proficiency |                             |
-|-------|-------------|-----------------------------|
-| Level | Bonus       | Features                    |
-| 1st   | +2          | Fighting	Style,	Second	Wind |
-| 2nd   | +2          | Action	Surge	(one	use)      |
-| 3rd   | +2          | Martial	Archetype           |
-| 4th   | +2          | Ability	Score	Improvement   |
-| 5th   | +3          | Extra	Attack                |
-| 6th   | +3          | Ability	Score	Improvement   |
-| 7th   | +3          | Martial	Archetype	feature   |
-| 8th   | +3          | Ability	Score	Improvement   |
-| 9th   | +4          | Indomitable	(one	use)       |
-| 10th  | +4          | Martial	Archetype	feature   |
-| 11th  | +4          | Extra	Attack	(2)            |
-| 12th  | +4          | Ability	Score	Improvement   |
-| 13th  | +5          | Indomitable	(two	uses)      |
-| 14th  | +5          | Ability	Score	Improvement   |
-| 15th  | +5          | Martial	Archetype	feature   |
-|       |             |                             |
+|       | Proficiency   |                             |
+|-------|---------------|-----------------------------|
+| Level | Bonus         | Features                    |
+| 1st   | +2            | Fighting Style, Second Wind |
+| 2nd   | +2            | Action Surge (one use)      |
+| 3rd   | +2            | Martial Archetype           |
+| 4th   | +2            | Ability Score Improvement   |
+| 5th   | +3            | Extra Attack                |
+| 6th   | +3            | Ability Score Improvement   |
+| 7th   | +3            | Martial Archetype feature   |
+| 8th   | +3            | Ability Score Improvement   |
+| 9th   | +4            | Indomitable (one use)       |
+| 10th  | +4            | Martial Archetype feature   |
+| 11th  | +4            | Extra Attack (2)            |
+| 12th  | +4            | Ability Score Improvement   |
+| 13th  | +5            | Indomitable (two uses)      |
+| 14th  | +5            | Ability Score Improvement   |
+| 15th  | +5            | Martial Archetype feature   |
 
-| +5 | Ability	Score	Improvement |  |  |  |
-|----|---------------------------|--|--|--|
-| +6 | Action	Surge	(two	uses),  |  |  |  |
-|    | Indomitable	(three	uses)  |  |  |  |
-| +6 | Martial	Archetype	feature |  |  |  |
-| +6 | Ability	Score	Improvement |  |  |  |
-| +6 | Extra	Attack	(3)          |  |  |  |
-|    |                           |  |  |  |
+| +5   | Ability Score Improvement   |    |    |    |
+|------|-----------------------------|----|----|----|
+| +6   | Action Surge (two uses),    |    |    |    |
+|      | Indomitable (three uses)    |    |    |    |
+| +6   | Martial Archetype feature   |    |    |    |
+| +6   | Ability Score Improvement   |    |    |    |
+| +6   | Extra Attack (3)            |    |    |    |
 
 # **Fighting Style**
 
@@ -1264,28 +1260,28 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 - 10 darts
 
-| Level | Proficiency	Bonus | Martial	Arts | Ki	Points | Unarmored	Movement | Features                                         |
-|-------|-------------------|--------------|-----------|--------------------|--------------------------------------------------|
-| 1st   | +2                | 1d4          | —         | —                  | Unarmored	Defense,	Martial	Arts                  |
-| 2nd   | +2                | 1d4          | 2         | +10	ft.            | Ki,	Unarmored	Movement                           |
-| 3rd   | +2                | 1d4          | 3         | +10	ft.            | Monastic	Tradition,	Deflect	Missiles             |
-| 4th   | +2                | 1d4          | 4         | +10	ft.            | Ability	Score	Improvement,	Slow	Fall             |
-| 5th   | +3                | 1d6          | 5         | +10	ft.            | Extra	Attack,	Stunning	Strike                    |
-| 6th   | +3                | 1d6          | 6         | +15	ft.            | Ki-Empowered	Strikes,	Monastic	Tradition	feature |
-| 7th   | +3                | 1d6          | 7         | +15	ft.            | Evasion,	Stillness	of	Mind                       |
-| 8th   | +3                | 1d6          | 8         | +15	ft.            | Ability	Score	Improvement                        |
-| 9th   | +4                | 1d6          | 9         | +15	ft.            | Unarmored	Movement	improvement                   |
-| 10th  | +4                | 1d6          | 10        | +20	ft.            | Purity	of	Body                                   |
-| 11th  | +4                | 1d8          | 11        | +20	ft.            | Monastic	Tradition	feature                       |
-| 12th  | +4                | 1d8          | 12        | +20	ft.            | Ability	Score	Improvement                        |
-| 13th  | +5                | 1d8          | 13        | +20	ft.            | Tongue	of	the	Sun	and	Moon                       |
-| 14th  | +5                | 1d8          | 14        | +25	ft.            | Diamond	Soul                                     |
-| 15th  | +5                | 1d8          | 15        | +25	ft.            | Timeless	Body                                    |
-| 16th  | +5                | 1d8          | 16        | +25	ft.            | Ability	Score	Improvement                        |
-| 17th  | +6                | 1d10         | 17        | +25	ft.            | Monastic	Tradition	feature                       |
-| 18th  | +6                | 1d10         | 18        | +30	ft.            | Empty	Body                                       |
-| 19th  | +6                | 1d10         | 19        | +30	ft.            | Ability	Score	Improvement                        |
-| 20th  | +6                | 1d10         | 20        | +30	ft.            | Perfect	Self                                     |
+| Level   |   Proficiency Bonus | Martial Arts   | Ki Points   | Unarmored Movement   | Features                                         |
+|---------|---------------------|----------------|-------------|----------------------|--------------------------------------------------|
+| 1st     |                  +2 | 1d4            | —           | —                    | Unarmored Defense, Martial Arts                  |
+| 2nd     |                  +2 | 1d4            | 2           | +10 ft.              | Ki, Unarmored Movement                           |
+| 3rd     |                  +2 | 1d4            | 3           | +10 ft.              | Monastic Tradition, Deflect Missiles             |
+| 4th     |                  +2 | 1d4            | 4           | +10 ft.              | Ability Score Improvement, Slow Fall             |
+| 5th     |                  +3 | 1d6            | 5           | +10 ft.              | Extra Attack, Stunning Strike                    |
+| 6th     |                  +3 | 1d6            | 6           | +15 ft.              | Ki-Empowered Strikes, Monastic Tradition feature |
+| 7th     |                  +3 | 1d6            | 7           | +15 ft.              | Evasion, Stillness of Mind                       |
+| 8th     |                  +3 | 1d6            | 8           | +15 ft.              | Ability Score Improvement                        |
+| 9th     |                  +4 | 1d6            | 9           | +15 ft.              | Unarmored Movement improvement                   |
+| 10th    |                  +4 | 1d6            | 10          | +20 ft.              | Purity of Body                                   |
+| 11th    |                  +4 | 1d8            | 11          | +20 ft.              | Monastic Tradition feature                       |
+| 12th    |                  +4 | 1d8            | 12          | +20 ft.              | Ability Score Improvement                        |
+| 13th    |                  +5 | 1d8            | 13          | +20 ft.              | Tongue of the Sun and Moon                       |
+| 14th    |                  +5 | 1d8            | 14          | +25 ft.              | Diamond Soul                                     |
+| 15th    |                  +5 | 1d8            | 15          | +25 ft.              | Timeless Body                                    |
+| 16th    |                  +5 | 1d8            | 16          | +25 ft.              | Ability Score Improvement                        |
+| 17th    |                  +6 | 1d10           | 17          | +25 ft.              | Monastic Tradition feature                       |
+| 18th    |                  +6 | 1d10           | 18          | +30 ft.              | Empty Body                                       |
+| 19th    |                  +6 | 1d10           | 19          | +30 ft.              | Ability Score Improvement                        |
+| 20th    |                  +6 | 1d10           | 20          | +30 ft.              | Perfect Self                                     |
 
 # **Unarmored Defense**
 
@@ -1462,33 +1458,33 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a priest's pack or (*b*) an explorer's pack
 - Chain mail and a holy symbol
 
-|       | Proficiency |                                            |     | ̶Spell	Slots	per	Spell	Level̶ |     |     |     |  |
-|-------|-------------|--------------------------------------------|-----|-------------------------------|-----|-----|-----|--|
-| Level | Bonus       | Features                                   | 1st | 2nd                           | 3rd | 4th | 5th |  |
-| 1st   | +2          | Divine	Sense,	Lay	on	Hands                 |     | ̶                             | ̶   | ̶   | ̶   |  |
-| 2nd   | +2          | Fighting	Style,	Spellcasting,	Divine	Smite | 2   | ̶                             | ̶   | ̶   | ̶   |  |
-| 3rd   | +2          | Divine	Health,	Sacred	Oath                 | 3   | ̶                             | ̶   | ̶   | ̶   |  |
-| 4th   | +2          | Ability	Score	Improvement                  | 3   | ̶                             | ̶   | ̶   | ̶   |  |
-| 5th   | +3          | Extra	Attack                               | 4   | 2                             | ̶   | ̶   | ̶   |  |
-| 6th   | +3          | Aura	of	Protection                         | 4   | 2                             | ̶   | ̶   | ̶   |  |
-| 7th   | +3          | Sacred	Oath	feature                        | 4   | 3                             | ̶   | ̶   | ̶   |  |
-| 8th   | +3          | Ability	Score	Improvement                  | 4   | 3                             | ̶   | ̶   | ̶   |  |
-| 9th   | +4          | ̶                                          | 4   | 3                             | 2   | ̶   | ̶   |  |
-| 10th  | +4          | Aura	of	Courage                            | 4   | 3                             | 2   | ̶   | ̶   |  |
-| 11th  | +4          | Improved	Divine	Smite                      |     | 3                             | 3   | ̶   | ̶   |  |
-| 12th  | +4          | Ability	Score	Improvement                  |     | 3                             | 3   | ̶   | ̶   |  |
-| 13th  | +5          | ̶                                          |     | 3                             | 3   | 1   | ̶   |  |
-| 14th  | +5          | Cleansing	Touch                            | 4   | 3                             | 3   | 1   | ̶   |  |
-| 15th  | +5          | Sacred	Oath	feature                        | 4   | 3                             | 3   | 2   | ̶   |  |
-| 16th  | +5          | Ability	Score	Improvement                  | 4   | 3                             | 3   | 2   | ̶   |  |
-| 17th  | +6          | ̶                                          | 4   | 3                             | 3   | 3   | 1   |  |
-| 18th  | +6          | Aura	improvements                          |     | 3                             | 3   | 3   | 1   |  |
-| 19th  | +6          | Ability	Score	Improvement                  |     | 3                             | 3   | 3   | 2   |  |
-| 20th  | +6          | Sacred	Oath	feature                        | 4   | 3                             | 3   | 3   | 2   |  |
+|       | Proficiency   |                                            |     | —Spell Slots per Spell Level—   |     |     |     |    |
+|-------|---------------|--------------------------------------------|-----|---------------------------------|-----|-----|-----|----|
+| Level | Bonus         | Features                                   | 1st | 2nd                             | 3rd | 4th | 5th |    |
+| 1st   | +2            | Divine Sense, Lay on Hands                 |     | —                               | —   | —   | —   |    |
+| 2nd   | +2            | Fighting Style, Spellcasting, Divine Smite | 2   | —                               | —   | —   | —   |    |
+| 3rd   | +2            | Divine Health, Sacred Oath                 | 3   | —                               | —   | —   | —   |    |
+| 4th   | +2            | Ability Score Improvement                  | 3   | —                               | —   | —   | —   |    |
+| 5th   | +3            | Extra Attack                               | 4   | 2                               | —   | —   | —   |    |
+| 6th   | +3            | Aura of Protection                         | 4   | 2                               | —   | —   | —   |    |
+| 7th   | +3            | Sacred Oath feature                        | 4   | 3                               | —   | —   | —   |    |
+| 8th   | +3            | Ability Score Improvement                  | 4   | 3                               | —   | —   | —   |    |
+| 9th   | +4            | —                                          | 4   | 3                               | 2   | —   | —   |    |
+| 10th  | +4            | Aura of Courage                            | 4   | 3                               | 2   | —   | —   |    |
+| 11th  | +4            | Improved Divine Smite                      |     | 3                               | 3   | —   | —   |    |
+| 12th  | +4            | Ability Score Improvement                  |     | 3                               | 3   | —   | —   |    |
+| 13th  | +5            | —                                          |     | 3                               | 3   | 1   | —   |    |
+| 14th  | +5            | Cleansing Touch                            | 4   | 3                               | 3   | 1   | —   |    |
+| 15th  | +5            | Sacred Oath feature                        | 4   | 3                               | 3   | 2   | —   |    |
+| 16th  | +5            | Ability Score Improvement                  | 4   | 3                               | 3   | 2   | —   |    |
+| 17th  | +6            | —                                          | 4   | 3                               | 3   | 3   | 1   |    |
+| 18th  | +6            | Aura improvements                          |     | 3                               | 3   | 3   | 1   |    |
+| 19th  | +6            | Ability Score Improvement                  |     | 3                               | 3   | 3   | 2   |    |
+| 20th  | +6            | Sacred Oath feature                        | 4   | 3                               | 3   | 3   | 2   |    |
 
 # **Divine Sense**
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire  Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -1636,14 +1632,14 @@ You gain oath spells at the paladin levels listed.
 
 #### **Oath of Devotion Spells**
 
-| Paladin |                                          |
-|---------|------------------------------------------|
-| Level   | Spells                                   |
-| 3rd     | protection	from	evil	and	good,	sanctuary |
-| 5th     | lesser	restoration,	zone	of	truth        |
-| 9th     | beacon	of	hope,	dispel	magic             |
-| 13th    | freedom	of	movement,	guardian	of	faith   |
-| 17th    | commune,	flame	strike                    |
+| Paladin   |                                          |
+|-----------|------------------------------------------|
+| Level     | Spells                                   |
+| 3rd       | protection from evil and good, sanctuary |
+| 5th       | lesser restoration, zone of truth        |
+| 9th       | beacon of hope, dispel magic             |
+| 13th      | freedom of movement, guardian of faith   |
+| 17th      | commune, flame strike                    |
 
 ### **Channel Divinity**
 
@@ -1681,7 +1677,7 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
 
-A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an allnight vigil in prayer as a sign of penitence, or undertake a fast  or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
+A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an allnight vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
 
 If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM's discretion, an impenitent paladin might be forced to abandon this class and adopt another.
 
@@ -1718,29 +1714,29 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 - A longbow and a quiver of 20 arrows
 
-|       | Proficiency |                                                   |              | ̶Spell	Slots	per	Spell	Level̶ |     |     |     |     |
-|-------|-------------|---------------------------------------------------|--------------|-------------------------------|-----|-----|-----|-----|
-| Level | Bonus       | Features                                          | Spells	Known | 1st                           | 2nd | 3rd | 4th | 5th |
-| 1st   | +2          | Favored	Enemy,	Natural	Explorer                   | ̶            | ̶                             | ̶   | ̶   | ̶   | ̶   |
-| 2nd   | +2          | Fighting	Style,	Spellcasting                      | 2            | 2                             | ̶   | ̶   | ̶   | ̶   |
-| 3rd   | +2          | Ranger	Archetype,	Primeval	Awareness              | 3            | 3                             | ̶   | ̶   | ̶   | ̶   |
-| 4th   | +2          | Ability	Score	Improvement                         | 3            | 3                             | ̶   | ̶   | ̶   | ̶   |
-| 5th   | +3          | Extra	Attack                                      | 4            | 4                             | 2   | ̶   | ̶   | ̶   |
-| 6th   | +3          | Favored	Enemy	and	Natural	Explorer	improvements   | 4            | 4                             | 2   | ̶   | ̶   | ̶   |
-| 7th   | +3          | Ranger	Archetype	feature                          | 5            | 4                             | 3   | ̶   | ̶   | ̶   |
-| 8th   | +3          | Ability	Score	Improvement,	Land's	Stride          | 5            | 4                             | 3   | ̶   | ̶   | ̶   |
-| 9th   | +4          | ̶                                                 | 6            | 4                             | 3   | 2   | ̶   | ̶   |
-| 10th  | +4          | Natural	Explorer	improvement,	Hide	in	Plain	Sight | 6            | 4                             | 3   | 2   | ̶   | ̶   |
-| 11th  | +4          | Ranger Archetype	feature                          | 7            | 4                             | 3   | 3   | ̶   | ̶   |
-| 12th  | +4          | Ability	Score	Improvement                         | 7            | 4                             | 3   | 3   | ̶   | ̶   |
-| 13th  | +5          | ̶                                                 | 8            | 4                             | 3   | 3   | 1   | ̶   |
-| 14th  | +5          | Favored	Enemy	improvement,	Vanish                 | 8            | 4                             | 3   | 3   | 1   | ̶   |
-| 15th  | +5          | Ranger	Archetype	feature                          | 9            | 4                             | 3   | 3   | 2   | ̶   |
-| 16th  | +5          | Ability	Score	Improvement                         | 9            | 4                             | 3   | 3   | 2   | ̶   |
-| 17th  | +6          | ̶                                                 | 10           | 4                             | 3   | 3   | 3   | 1   |
-| 18th  | +6          | Feral	Senses                                      | 10           | 4                             | 3   | 3   | 3   | 1   |
-| 19th  | +6          | Ability	Score	Improvement                         | 11           | 4                             | 3   | 3   | 3   | 2   |
-| 20th  | +6          | Foe	Slayer                                        | 11           | 4                             | 3   | 3   | 3   | 2   |
+|       | Proficiency   |                                                   |              | —Spell Slots per Spell Level—   |     |     |     |     |
+|-------|---------------|---------------------------------------------------|--------------|---------------------------------|-----|-----|-----|-----|
+| Level | Bonus         | Features                                          | Spells Known | 1st                             | 2nd | 3rd | 4th | 5th |
+| 1st   | +2            | Favored Enemy, Natural Explorer                   | —            | —                               | —   | —   | —   | —   |
+| 2nd   | +2            | Fighting Style, Spellcasting                      | 2            | 2                               | —   | —   | —   | —   |
+| 3rd   | +2            | Ranger Archetype, Primeval Awareness              | 3            | 3                               | —   | —   | —   | —   |
+| 4th   | +2            | Ability Score Improvement                         | 3            | 3                               | —   | —   | —   | —   |
+| 5th   | +3            | Extra Attack                                      | 4            | 4                               | 2   | —   | —   | —   |
+| 6th   | +3            | Favored Enemy and Natural Explorer improvements   | 4            | 4                               | 2   | —   | —   | —   |
+| 7th   | +3            | Ranger Archetype feature                          | 5            | 4                               | 3   | —   | —   | —   |
+| 8th   | +3            | Ability Score Improvement, Land's Stride          | 5            | 4                               | 3   | —   | —   | —   |
+| 9th   | +4            | —                                                 | 6            | 4                               | 3   | 2   | —   | —   |
+| 10th  | +4            | Natural Explorer improvement, Hide in Plain Sight | 6            | 4                               | 3   | 2   | —   | —   |
+| 11th  | +4            | Ranger Archetype feature                          | 7            | 4                               | 3   | 3   | —   | —   |
+| 12th  | +4            | Ability Score Improvement                         | 7            | 4                               | 3   | 3   | —   | —   |
+| 13th  | +5            | —                                                 | 8            | 4                               | 3   | 3   | 1   | —   |
+| 14th  | +5            | Favored Enemy improvement, Vanish                 | 8            | 4                               | 3   | 3   | 1   | —   |
+| 15th  | +5            | Ranger Archetype feature                          | 9            | 4                               | 3   | 3   | 2   | —   |
+| 16th  | +5            | Ability Score Improvement                         | 9            | 4                               | 3   | 3   | 2   | —   |
+| 17th  | +6            | —                                                 | 10           | 4                               | 3   | 3   | 3   | 1   |
+| 18th  | +6            | Feral Senses                                      | 10           | 4                               | 3   | 3   | 3   | 1   |
+| 19th  | +6            | Ability Score Improvement                         | 11           | 4                               | 3   | 3   | 3   | 2   |
+| 20th  | +6            | Foe Slayer                                        | 11           | 4                               | 3   | 3   | 3   | 2   |
 
 # **Favored Enemy**
 
@@ -1945,41 +1941,40 @@ You start with the following equipment, in addition to the equipment granted by 
 
 # **The Rogue**
 
-| Level | Proficiency<br>Bonus | Sneak<br>Attack | Features                 |
-|-------|----------------------|-----------------|--------------------------|
-|       |                      |                 |                          |
-| 1st   | +2                   | 1d6             | Expertise,	Sneak	Attack, |
-|       |                      |                 | Thieves' Cant            |
-| 2nd   | +2                   | 1d6             | Cunning	Action           |
-| 3rd   | +2                   | 2d6             | Roguish	Archetype        |
-| 4th   | +2                   | 2d6             | Ability	Score            |
-|       |                      |                 | Improvement              |
-| 5th   | +3                   | 3d6             | Uncanny	Dodge            |
-| 6th   | +3                   | 3d6             | Expertise                |
-| 7th   | +3                   | 4d6             | Evasion                  |
-| 8th   | +3                   | 4d6             | Ability	Score            |
-|       |                      |                 | Improvement              |
-| 9th   | +4                   | 5d6             | Roguish	Archetype        |
-|       |                      |                 | feature                  |
-| 10th  | +4                   | 5d6             | Ability	Score            |
+| Level   | Proficiency Bonus   | Sneak Attack   | Features                 |
+|---------|---------------------|----------------|--------------------------|
+| 1st     | +2                  | 1d6            | Expertise, Sneak Attack, |
+|         |                     |                | Thieves' Cant            |
+| 2nd     | +2                  | 1d6            | Cunning Action           |
+| 3rd     | +2                  | 2d6            | Roguish Archetype        |
+| 4th     | +2                  | 2d6            | Ability Score            |
+|         |                     |                | Improvement              |
+| 5th     | +3                  | 3d6            | Uncanny Dodge            |
+| 6th     | +3                  | 3d6            | Expertise                |
+| 7th     | +3                  | 4d6            | Evasion                  |
+| 8th     | +3                  | 4d6            | Ability Score            |
+|         |                     |                | Improvement              |
+| 9th     | +4                  | 5d6            | Roguish Archetype        |
+|         |                     |                | feature                  |
+| 10th    | +4                  | 5d6            | Ability Score            |
 
 |      |    |      | Improvement       |
 |------|----|------|-------------------|
-| 11th | +4 | 6d6  | Reliable	Talent   |
-| 12th | +4 | 6d6  | Ability	Score     |
+| 11th | +4 | 6d6  | Reliable Talent   |
+| 12th | +4 | 6d6  | Ability Score     |
 |      |    |      | Improvement       |
-| 13th | +5 | 7d6  | Roguish	Archetype |
+| 13th | +5 | 7d6  | Roguish Archetype |
 |      |    |      | feature           |
 | 14th | +5 | 7d6  | Blindsense        |
-| 15th | +5 | 8d6  | Slippery	Mind     |
-| 16th | +5 | 8d6  | Ability	Score     |
+| 15th | +5 | 8d6  | Slippery Mind     |
+| 16th | +5 | 8d6  | Ability Score     |
 |      |    |      | Improvement       |
-| 17th | +6 | 9d6  | Roguish	Archetype |
+| 17th | +6 | 9d6  | Roguish Archetype |
 |      |    |      | feature           |
 | 18th | +6 | 9d6  | Elusive           |
-| 19th | +6 | 10d6 | Ability	Score     |
+| 19th | +6 | 10d6 | Ability Score     |
 |      |    |      | Improvement       |
-| 20th | +6 | 10d6 | Stroke	of	Luck    |
+| 20th | +6 | 10d6 | Stroke of Luck    |
 
 # **Expertise**
 
@@ -1999,7 +1994,7 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 
 During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages,  such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
 # **Cunning Action**
 
@@ -2053,7 +2048,7 @@ You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and ot
 
 # **Fast Hands**
 
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity  (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
 
 #### **Second-Story Work**
 
@@ -2102,29 +2097,29 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 - Two daggers
 
-|       | Proficiency | Sorcery |                                   | Cantrips | Spells | —Spell	Slots	per	Spell	Level— |     |     |     |     |     |     |     |     |
-|-------|-------------|---------|-----------------------------------|----------|--------|-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
-| Level | Bonus       | Points  | Features                          | Known    | Known  | 1st                           | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st   | +2          | ̶       | Spellcasting,	Sorcerous<br>Origin | 4        | 2      | 2                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 2nd   | +2          | 2       | Font	of	Magic                     | 4        | 3      | 3                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 3rd   | +2          | 3       | Metamagic                         | 4        | 4      | 4                             | 2   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 4th   | +2          | 4       | Ability	Score<br>Improvement      | 5        | 5      | 4                             | 3   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 5th   | +3          | 5       | ̶                                 | 5        | 6      | 4                             | 3   | 2   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 6th   | +3          | 6       | Sorcerous	Origin<br>feature       | 5        | 7      | 4                             | 3   | 3   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 7th   | +3          | 7       | ̶                                 | 5        | 8      | 4                             | 3   | 3   | 1   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 8th   | +3          | 8       | Ability	Score<br>Improvement      | 5        | 9      | 4                             | 3   | 3   | 2   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 9th   | +4          | 9       | ̶                                 | 5        | 10     | 4                             | 3   | 3   | 3   | 1   | ̶   | ̶   | ̶   | ̶   |
-| 10th  | +4          | 10      | Metamagic                         | 6        | 11     | 4                             | 3   | 3   | 3   | 2   | ̶   | ̶   | ̶   | ̶   |
-| 11th  | +4          | 11      | ̶                                 | 6        | 12     | 4                             | 3   | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 12th  | +4          | 12      | Ability	Score<br>Improvement      | 6        | 12     | 4                             | 3   | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 13th  | +5          | 13      | ̶                                 | 6        | 13     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 14th  | +5          | 14      | Sorcerous	Origin<br>feature       | 6        | 13     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 15th  | +5          | 15      | ̶                                 | 6        | 14     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 16th  | +5          | 16      | Ability	Score<br>Improvement      | 6        | 14     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 17th  | +6          | 17      | Metamagic                         | 6        | 15     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6          | 18      | Sorcerous	Origin<br>feature       | 6        | 15     | 4                             | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6          | 19      | Ability	Score<br>Improvement      | 6        | 15     | 4                             | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6          | 20      | Sorcerous	Restoration             | 6        | 15     | 4                             | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|       | Proficiency   | Sorcery   |                                | Cantrips   | Spells   | —Spell Slots per Spell Level—   |     |     |     |     |     |     |     |     |
+|-------|---------------|-----------|--------------------------------|------------|----------|---------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| Level | Bonus         | Points    | Features                       | Known      | Known    | 1st                             | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | +2            | —         | Spellcasting, Sorcerous Origin | 4          | 2        | 2                               | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +2            | 2         | Font of Magic                  | 4          | 3        | 3                               | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +2            | 3         | Metamagic                      | 4          | 4        | 4                               | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +2            | 4         | Ability Score Improvement      | 5          | 5        | 4                               | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +3            | 5         | —                              | 5          | 6        | 4                               | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6th   | +3            | 6         | Sorcerous Origin feature       | 5          | 7        | 4                               | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7th   | +3            | 7         | —                              | 5          | 8        | 4                               | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8th   | +3            | 8         | Ability Score Improvement      | 5          | 9        | 4                               | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th   | +4            | 9         | —                              | 5          | 10       | 4                               | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10th  | +4            | 10        | Metamagic                      | 6          | 11       | 4                               | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th  | +4            | 11        | —                              | 6          | 12       | 4                               | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12th  | +4            | 12        | Ability Score Improvement      | 6          | 12       | 4                               | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13th  | +5            | 13        | —                              | 6          | 13       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14th  | +5            | 14        | Sorcerous Origin feature       | 6          | 13       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15th  | +5            | 15        | —                              | 6          | 14       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16th  | +5            | 16        | Ability Score Improvement      | 6          | 14       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17th  | +6            | 17        | Metamagic                      | 6          | 15       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6            | 18        | Sorcerous Origin feature       | 6          | 15       | 4                               | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6            | 19        | Ability Score Improvement      | 6          | 15       | 4                               | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6            | 20        | Sorcerous Restoration          | 6          | 15       | 4                               | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # **Spellcasting**
 
@@ -2184,15 +2179,15 @@ Any spell slot you create with this feature vanishes when you finish a long rest
 
 #### **Creating Spell Slots**
 
-| Spell	Slot<br>Level | Sorcery<br>Point	Cost |  |  |  |  |  |  |
-|---------------------|-----------------------|--|--|--|--|--|--|
-| 1st                 | 2                     |  |  |  |  |  |  |
-| 2nd                 | 3                     |  |  |  |  |  |  |
-| 3rd                 | 5                     |  |  |  |  |  |  |
-| 4th                 | 6                     |  |  |  |  |  |  |
-| 5th                 | 7                     |  |  |  |  |  |  |
+| Spell Slot Level   |   Sorcery Point Cost |    |    |    |    |    |    |
+|--------------------|----------------------|----|----|----|----|----|----|
+| 1st                |                    2 |    |    |    |    |    |    |
+| 2nd                |                    3 |    |    |    |    |    |    |
+| 3rd                |                    5 |    |    |    |    |    |    |
+| 4th                |                    6 |    |    |    |    |    |    |
+| 5th                |                    7 |    |    |    |    |    |    |
 
-*Converting a Spell Slot to Sorcery Points.* As a bonus action on your turn, you can expend one spell  slot and gain a number of sorcery points equal to the slot's level.
+*Converting a Spell Slot to Sorcery Points.* As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
 # **Metamagic**
 
@@ -2260,20 +2255,20 @@ At 1st level, you choose one type of dragon as your ancestor. The damage type as
 
 ## **Draconic Ancestry**
 
-| Dragon | Damage	Type |
-|--------|-------------|
-| Black  | Acid        |
+| Dragon   | Damage Type   |
+|----------|---------------|
+| Black    | Acid          |
 
-| Blue   | Lightning |  |  |  |  |
-|--------|-----------|--|--|--|--|
-| Brass  | Fire      |  |  |  |  |
-| Bronze | Lightning |  |  |  |  |
-| Copper | Acid      |  |  |  |  |
-| Gold   | Fire      |  |  |  |  |
-| Green  | Poison    |  |  |  |  |
-| Red    | Fire      |  |  |  |  |
-| Silver | Cold      |  |  |  |  |
-| White  | Cold      |  |  |  |  |
+| Blue   | Lightning   |    |    |    |    |
+|--------|-------------|----|----|----|----|
+| Brass  | Fire        |    |    |    |    |
+| Bronze | Lightning   |    |    |    |    |
+| Copper | Acid        |    |    |    |    |
+| Gold   | Fire        |    |    |    |    |
+| Green  | Poison      |    |    |    |    |
+| Red    | Fire        |    |    |    |    |
+| Silver | Cold        |    |    |    |    |
+| White  | Cold        |    |    |    |    |
 
 You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 
@@ -2295,7 +2290,7 @@ You can't manifest your wings while wearing armor unless the armor is made to ac
 
 # **Draconic Presence**
 
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts  its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
 
 # **Warlock**
 
@@ -2330,30 +2325,30 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a scholar's pack or (*b*) a dungeoneer's pack
 - Leather armor, any simple weapon, and two daggers
 
-|       | Proficiency |                             | Cantrips | Spells | Spell | Slot  | Invocations |
-|-------|-------------|-----------------------------|----------|--------|-------|-------|-------------|
-| Level | Bonus       | Features                    | Known    | Known  | Slots | Level | Known       |
-| 1st   | +2          | Otherworldly	Patron,	Pact   | 2        | 2      | 1     | 1st   | ̶           |
-|       |             | Magic                       |          |        |       |       |             |
-| 2nd   | +2          | Eldritch	Invocations        | 2        | 3      | 2     | 1st   | 2           |
-| 3rd   | +2          | Pact	Boon                   | 2        | 4      | 2     | 2nd   | 2           |
-| 4th   | +2          | Ability	Score	Improvement   | 3        | 5      | 2     | 2nd   | 2           |
-| 5th   | +3          | ̶                           | 3        | 6      | 2     | 3rd   | 3           |
-| 6th   | +3          | Otherworldly	Patron	feature | 3        | 7      | 2     | 3rd   | 3           |
-| 7th   | +3          | ̶                           | 3        | 8      | 2     | 4th   | 4           |
-| 8th   | +3          | Ability	Score	Improvement   | 3        | 9      | 2     | 4th   | 4           |
-| 9th   | +4          | ̶                           | 3        | 10     | 2     | 5th   | 5           |
-| 10th  | +4          | Otherworldly	Patron	feature | 4        | 10     | 2     | 5th   | 5           |
-| 11th  | +4          | Mystic	Arcanum	(6th	level)  | 4        | 11     | 3     | 5th   | 5           |
-| 12th  | +4          | Ability	Score	Improvement   | 4        | 11     | 3     | 5th   | 6           |
-| 13th  | +5          | Mystic	Arcanum	(7th	level)  | 4        | 12     | 3     | 5th   | 6           |
-| 14th  | +5          | Otherworldly	Patron	feature | 4        | 12     | 3     | 5th   | 6           |
-| 15th  | +5          | Mystic	Arcanum	(8th	level)  | 4        | 13     | 3     | 5th   | 7           |
-| 16th  | +5          | Ability	Score	Improvement   | 4        | 13     | 3     | 5th   | 7           |
-| 17th  | +6          | Mystic	Arcanum	(9th	level)  | 4        | 14     | 4     | 5th   | 7           |
-| 18th  | +6          | ̶                           | 4        | 14     | 4     | 5th   | 8           |
-| 19th  | +6          | Ability	Score	Improvement   | 4        | 15     | 4     | 5th   | 8           |
-| 20th  | +6          | Eldritch	Master             | 4        | 15     | 4     | 5th   | 8           |
+|       | Proficiency   |                             | Cantrips   | Spells   | Spell   | Slot   | Invocations   |
+|-------|---------------|-----------------------------|------------|----------|---------|--------|---------------|
+| Level | Bonus         | Features                    | Known      | Known    | Slots   | Level  | Known         |
+| 1st   | +2            | Otherworldly Patron, Pact   | 2          | 2        | 1       | 1st    | —             |
+|       |               | Magic                       |            |          |         |        |               |
+| 2nd   | +2            | Eldritch Invocations        | 2          | 3        | 2       | 1st    | 2             |
+| 3rd   | +2            | Pact Boon                   | 2          | 4        | 2       | 2nd    | 2             |
+| 4th   | +2            | Ability Score Improvement   | 3          | 5        | 2       | 2nd    | 2             |
+| 5th   | +3            | —                           | 3          | 6        | 2       | 3rd    | 3             |
+| 6th   | +3            | Otherworldly Patron feature | 3          | 7        | 2       | 3rd    | 3             |
+| 7th   | +3            | —                           | 3          | 8        | 2       | 4th    | 4             |
+| 8th   | +3            | Ability Score Improvement   | 3          | 9        | 2       | 4th    | 4             |
+| 9th   | +4            | —                           | 3          | 10       | 2       | 5th    | 5             |
+| 10th  | +4            | Otherworldly Patron feature | 4          | 10       | 2       | 5th    | 5             |
+| 11th  | +4            | Mystic Arcanum (6th level)  | 4          | 11       | 3       | 5th    | 5             |
+| 12th  | +4            | Ability Score Improvement   | 4          | 11       | 3       | 5th    | 6             |
+| 13th  | +5            | Mystic Arcanum (7th level)  | 4          | 12       | 3       | 5th    | 6             |
+| 14th  | +5            | Otherworldly Patron feature | 4          | 12       | 3       | 5th    | 6             |
+| 15th  | +5            | Mystic Arcanum (8th level)  | 4          | 13       | 3       | 5th    | 7             |
+| 16th  | +5            | Ability Score Improvement   | 4          | 13       | 3       | 5th    | 7             |
+| 17th  | +6            | Mystic Arcanum (9th level)  | 4          | 14       | 4       | 5th    | 7             |
+| 18th  | +6            | —                           | 4          | 14       | 4       | 5th    | 8             |
+| 19th  | +6            | Ability Score Improvement   | 4          | 15       | 4       | 5th    | 8             |
+| 20th  | +6            | Eldritch Master             | 4          | 15       | 4       | 5th    | 8             |
 
 # **Otherworldly Patron**
 
@@ -2365,7 +2360,7 @@ Your arcane research and the magic bestowed on you by your patron have given you
 
 # **Cantrips**
 
-You know two cantrips of your choice from the warlock spell list. You learn additional warlock  cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
 
 #### **Spell Slots**
 
@@ -2421,7 +2416,7 @@ You can use your action to create a pact weapon in your empty hand. You can choo
 
 Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
-You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your  pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
 ## **Pact of the Tome**
 
@@ -2641,12 +2636,12 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 ## **Spell Level Spells**
 
-| 1st | burning	hands,	command            |
-|-----|-----------------------------------|
-| 2nd | blindness/deafness,	scorching	ray |
-| 3rd | fireball,	stinking	cloud          |
-| 4th | fire	shield,	wall	of	fire         |
-| 5th | flame	strike,	hallow              |
+| 1st   | burning hands, command            |
+|-------|-----------------------------------|
+| 2nd   | blindness/deafness, scorching ray |
+| 3rd   | fireball, stinking cloud          |
+| 4th   | fire shield, wall of fire         |
+| 5th   | flame strike, hallow              |
 
 # **Dark One's Blessing**
 
@@ -2654,7 +2649,7 @@ Starting at 1st level, when you reduce a hostile creature to 0 hit points, you g
 
 # **Dark One's Own Luck**
 
-Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to  add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
+Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -2709,29 +2704,29 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a scholar's pack or (*b*) an explorer's pack
 - A spellbook
 
-|       | Proficiency |                               | Cantrips |     | —Spell	Slots	per	Spell	Level— |     |     |     |     |     |     |     |
-|-------|-------------|-------------------------------|----------|-----|-------------------------------|-----|-----|-----|-----|-----|-----|-----|
-| Level | Bonus       | Features                      | Known    | 1st | 2nd                           | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st   | +2          | Spellcasting,	Arcane	Recovery | 3        | 2   | ̶                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 2nd   | +2          | Arcane	Tradition              | 3        | 3   | ̶                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 3rd   | +2          | ̶                             | 3        | 4   | 2                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 4th   | +2          | Ability	Score	Improvement     | 4        | 4   | 3                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 5th   | +3          | ̶                             | 4        | 4   | 3                             | 2   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 6th   | +3          | Arcane	Tradition	feature      | 4        | 4   | 3                             | 3   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 7th   | +3          | ̶                             | 4        | 4   | 3                             | 3   | 1   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 8th   | +3          | Ability	Score	Improvement     | 4        | 4   | 3                             | 3   | 2   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 9th   | +4          | ̶                             | 4        | 4   | 3                             | 3   | 3   | 1   | ̶   | ̶   | ̶   | ̶   |
-| 10th  | +4          | Arcane	Tradition	feature      | 5        | 4   | 3                             | 3   | 3   | 2   | ̶   | ̶   | ̶   | ̶   |
-| 11th  | +4          | ̶                             | 5        | 4   | 3                             | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 12th  | +4          | Ability	Score	Improvement     | 5        | 4   | 3                             | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 13th  | +5          | ̶                             | 5        | 4   | 3                             | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 14th  | +5          | Arcane	Tradition	feature      | 5        | 4   | 3                             | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 15th  | +5          | ̶                             | 5        | 4   | 3                             | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 16th  | +5          | Ability Score	Improvement     | 5        | 4   | 3                             | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 17th  | +6          | ̶                             | 5        | 4   | 3                             | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6          | Spell	Mastery                 | 5        | 4   | 3                             | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6          | Ability	Score	Improvement     | 5        | 4   | 3                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6          | Signature	Spell               | 5        | 4   | 3                             | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|       | Proficiency   |                               | Cantrips   |     | —Spell Slots per Spell Level—   |     |     |     |     |     |     |     |
+|-------|---------------|-------------------------------|------------|-----|---------------------------------|-----|-----|-----|-----|-----|-----|-----|
+| Level | Bonus         | Features                      | Known      | 1st | 2nd                             | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | +2            | Spellcasting, Arcane Recovery | 3          | 2   | —                               | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +2            | Arcane Tradition              | 3          | 3   | —                               | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +2            | —                             | 3          | 4   | 2                               | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +2            | Ability Score Improvement     | 4          | 4   | 3                               | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +3            | —                             | 4          | 4   | 3                               | 2   | —   | —   | —   | —   | —   | —   |
+| 6th   | +3            | Arcane Tradition feature      | 4          | 4   | 3                               | 3   | —   | —   | —   | —   | —   | —   |
+| 7th   | +3            | —                             | 4          | 4   | 3                               | 3   | 1   | —   | —   | —   | —   | —   |
+| 8th   | +3            | Ability Score Improvement     | 4          | 4   | 3                               | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th   | +4            | —                             | 4          | 4   | 3                               | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10th  | +4            | Arcane Tradition feature      | 5          | 4   | 3                               | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th  | +4            | —                             | 5          | 4   | 3                               | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12th  | +4            | Ability Score Improvement     | 5          | 4   | 3                               | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13th  | +5            | —                             | 5          | 4   | 3                               | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14th  | +5            | Arcane Tradition feature      | 5          | 4   | 3                               | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15th  | +5            | —                             | 5          | 4   | 3                               | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16th  | +5            | Ability Score Improvement     | 5          | 4   | 3                               | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17th  | +6            | —                             | 5          | 4   | 3                               | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6            | Spell Mastery                 | 5          | 4   | 3                               | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6            | Ability Score Improvement     | 5          | 4   | 3                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6            | Signature Spell               | 5          | 4   | 3                               | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # **Spellcasting**
 
@@ -2871,30 +2866,30 @@ The Character Advancement table summarizes the XP you need to advance in levels 
 
 ## **Character Advancement**
 
-| Experience	Points | Level | Proficiency	Bonus |
-|-------------------|-------|-------------------|
-| 0                 | 1     | +2                |
-| 300               | 2     | +2                |
-| 900               | 3     | +2                |
-| 2,700             | 4     | +2                |
-| 6,500             | 5     | +3                |
-| 14,000            | 6     | +3                |
-| 23,000            | 7     | +3                |
-| 34,000            | 8     | +3                |
-| 48,000            | 9     | +4                |
-| 64,000            | 10    | +4                |
-| 85,000            | 11    | +4                |
-| 100,000           | 12    | +4                |
-| 120,000           | 13    | +5                |
-| 140,000           | 14    | +5                |
-| 165,000           | 15    | +5                |
+| Experience Points   |   Level |   Proficiency Bonus |
+|---------------------|---------|---------------------|
+| 0                   |       1 |                  +2 |
+| 300                 |       2 |                  +2 |
+| 900                 |       3 |                  +2 |
+| 2,700               |       4 |                  +2 |
+| 6,500               |       5 |                  +3 |
+| 14,000              |       6 |                  +3 |
+| 23,000              |       7 |                  +3 |
+| 34,000              |       8 |                  +3 |
+| 48,000              |       9 |                  +4 |
+| 64,000              |      10 |                  +4 |
+| 85,000              |      11 |                  +4 |
+| 100,000             |      12 |                  +4 |
+| 120,000             |      13 |                  +5 |
+| 140,000             |      14 |                  +5 |
+| 165,000             |      15 |                  +5 |
 
-| 195,000 | 16 | +5 |
-|---------|----|----|
-| 225,000 | 17 | +6 |
-| 265,000 | 18 | +6 |
-| 305,000 | 19 | +6 |
-| 355,000 | 20 | +6 |
+| 195,000   |   16 |   +5 |
+|-----------|------|------|
+| 225,000   |   17 |   +6 |
+| 265,000   |   18 |   +6 |
+| 305,000   |   19 |   +6 |
+| 355,000   |   20 |   +6 |
 
 # **Multiclassing**
 
@@ -2910,20 +2905,20 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 
 ## **Multiclassing Prerequisites**
 
-| Class     | Ability	Score	Minimum       |
+| Class     | Ability Score Minimum       |
 |-----------|-----------------------------|
-| Barbarian | Strength	13                 |
-| Bard      | Charisma	13                 |
-| Cleric    | Wisdom	13                   |
-| Druid     | Wisdom	13                   |
-| Fighter   | Strength	13	or	Dexterity	13 |
-| Monk      | Dexterity	13	and	Wisdom	13  |
-| Paladin   | Strength	13	and	Charisma	13 |
-| Ranger    | Dexterity	13	and	Wisdom	13  |
-| Rogue     | Dexterity	13                |
-| Sorcerer  | Charisma	13                 |
-| Warlock   | Charisma	13                 |
-| Wizard    | Intelligence	13             |
+| Barbarian | Strength 13                 |
+| Bard      | Charisma 13                 |
+| Cleric    | Wisdom 13                   |
+| Druid     | Wisdom 13                   |
+| Fighter   | Strength 13 or Dexterity 13 |
+| Monk      | Dexterity 13 and Wisdom 13  |
+| Paladin   | Strength 13 and Charisma 13 |
+| Ranger    | Dexterity 13 and Wisdom 13  |
+| Rogue     | Dexterity 13                |
+| Sorcerer  | Charisma 13                 |
+| Warlock   | Charisma 13                 |
+| Wizard    | Intelligence 13             |
 
 # **Experience Points**
 
@@ -2945,25 +2940,25 @@ When you gain your first level in a class other than your initial class, you gai
 
 # **Multiclassing Proficiencies**
 
-| Class     | Proficiencies	Gained                               |
+| Class     | Proficiencies Gained                               |
 |-----------|----------------------------------------------------|
-| Barbarian | Shields,	simple	weapons,	martial	weapons           |
-| Bard      | Light	armor,	one	skill	of	your	choice,	one	musical |
-|           | instrument	of	your	choice                          |
-| Cleric    | Light	armor,	medium	armor,	shields                 |
-| Druid     | Light	armor,	medium	armor,	shields	(druids	will    |
-|           | not	wear	armor	or	use	shields	made	of	metal)       |
-| Fighter   | Light	armor,	medium	armor,	shields,	simple         |
-|           | weapons,	martial	weapons                           |
-| Monk      | Simple	weapons,	shortswords                        |
+| Barbarian | Shields, simple weapons, martial weapons           |
+| Bard      | Light armor, one skill of your choice, one musical |
+|           | instrument of your choice                          |
+| Cleric    | Light armor, medium armor, shields                 |
+| Druid     | Light armor, medium armor, shields (druids will    |
+|           | not wear armor or use shields made of metal)       |
+| Fighter   | Light armor, medium armor, shields, simple         |
+|           | weapons, martial weapons                           |
+| Monk      | Simple weapons, shortswords                        |
 
-| Paladin  | Light	armor,	medium	armor,	shields,	simple<br>weapons,	martial	weapons                                           |
-|----------|------------------------------------------------------------------------------------------------------------------|
-| Ranger   | Light	armor,	medium	armor,	shields,	simple<br>weapons,	martial	weapons,	one	skill	from	the<br>class's	skill	list |
-| Rogue    | Light	armor,	one	skill	from	the	class's	skill	list,<br>thieves'	tools                                            |
-| Sorcerer | —                                                                                                                |
-| Warlock  | Light	armor,	simple	weapons                                                                                      |
-| Wizard   | —                                                                                                                |
+| Paladin   | Light armor, medium armor, shields, simple weapons, martial weapons                                        |
+|-----------|------------------------------------------------------------------------------------------------------------|
+| Ranger    | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
+| Rogue     | Light armor, one skill from the class's skill list, thieves' tools                                         |
+| Sorcerer  | —                                                                                                          |
+| Warlock   | Light armor, simple weapons                                                                                |
+| Wizard    | —                                                                                                          |
 
 # **Class Features**
 
@@ -3001,28 +2996,28 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 
 # **Multiclass Spellcaster: Spell Slots per Spell Level**
 
-| Lvl. | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st  | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2nd  | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3rd  | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 4th  | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
-| 5th  | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
-| 6th  | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
-| 7th  | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
-| 8th  | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
-| 9th  | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
-| 10th | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
-| 11th | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 12th | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 13th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 14th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 15th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 16th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 17th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Lvl.   |   1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
+|--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 1st    |     2 | —     | —     | —     | —     | —     | —     | —     | —     |
+| 2nd    |     3 | —     | —     | —     | —     | —     | —     | —     | —     |
+| 3rd    |     4 | 2     | —     | —     | —     | —     | —     | —     | —     |
+| 4th    |     4 | 3     | —     | —     | —     | —     | —     | —     | —     |
+| 5th    |     4 | 3     | 2     | —     | —     | —     | —     | —     | —     |
+| 6th    |     4 | 3     | 3     | —     | —     | —     | —     | —     | —     |
+| 7th    |     4 | 3     | 3     | 1     | —     | —     | —     | —     | —     |
+| 8th    |     4 | 3     | 3     | 2     | —     | —     | —     | —     | —     |
+| 9th    |     4 | 3     | 3     | 3     | 1     | —     | —     | —     | —     |
+| 10th   |     4 | 3     | 3     | 3     | 2     | —     | —     | —     | —     |
+| 11th   |     4 | 3     | 3     | 3     | 2     | 1     | —     | —     | —     |
+| 12th   |     4 | 3     | 3     | 3     | 2     | 1     | —     | —     | —     |
+| 13th   |     4 | 3     | 3     | 3     | 2     | 1     | 1     | —     | —     |
+| 14th   |     4 | 3     | 3     | 3     | 2     | 1     | 1     | —     | —     |
+| 15th   |     4 | 3     | 3     | 3     | 2     | 1     | 1     | 1     | —     |
+| 16th   |     4 | 3     | 3     | 3     | 2     | 1     | 1     | 1     | —     |
+| 17th   |     4 | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
+| 18th   |     4 | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
+| 19th   |     4 | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
+| 20th   |     4 | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |
 
 # **Alignment**
 
@@ -3068,29 +3063,29 @@ Some of these languages are actually families of languages with many dialects. F
 
 ## **Standard Languages**
 
-| Language | Typical	Speakers | Script   |
-|----------|------------------|----------|
-| Common   | Humans           | Common   |
-| Dwarvish | Dwarves          | Dwarvish |
-| Elvish   | Elves            | Elvish   |
-| Giant    | Ogres,	giants    | Dwarvish |
-| Gnomish  | Gnomes           | Dwarvish |
-| Goblin   | Goblinoids       | Dwarvish |
-| Halfling | Halflings        | Common   |
-| Orc      | Orcs             | Dwarvish |
+| Language   | Typical Speakers   | Script   |
+|------------|--------------------|----------|
+| Common     | Humans             | Common   |
+| Dwarvish   | Dwarves            | Dwarvish |
+| Elvish     | Elves              | Elvish   |
+| Giant      | Ogres, giants      | Dwarvish |
+| Gnomish    | Gnomes             | Dwarvish |
+| Goblin     | Goblinoids         | Dwarvish |
+| Halfling   | Halflings          | Common   |
+| Orc        | Orcs               | Dwarvish |
 
 ## **Exotic Languages**
 
-| Language    | Typical	Speakers    | Script    |
+| Language    | Typical Speakers    | Script    |
 |-------------|---------------------|-----------|
 | Abyssal     | Demons              | Infernal  |
 | Celestial   | Celestials          | Celestial |
 | Draconic    | Dragons, dragonborn | Draconic  |
-| Deep	Speech | Aboleths,		cloakers | —         |
+| Deep Speech | Aboleths, cloakers  | —         |
 | Infernal    | Devils              | Infernal  |
 | Primordial  | Elementals          | Dwarvish  |
-| Sylvan      | Fey	creatures       | Elvish    |
-| Undercommon | Underworld	traders  | Elvish    |
+| Sylvan      | Fey creatures       | Elvish    |
+| Undercommon | Underworld traders  | Elvish    |
 
 # **Inspiration**
 
@@ -3182,23 +3177,22 @@ Acolytes are shaped by their experience in temples or other religious communitie
 
 #### **d6 Bond**
 
-| 1 | I	would	die	to	recover	an	ancient	relic	of	my	faith<br>that	was	lost	long	ago.              |
-|---|---------------------------------------------------------------------------------------------|
-| 2 | I	will someday	get	revenge	on	the	corrupt	temple<br>hierarchy	who	branded	me	a	heretic.     |
-| 3 | I	owe	my	life	to	the	priest	who	took	me	in	when	my<br>parents	died.                         |
-| 4 | Everything	I	do	is	for	the	common	people.                                                   |
-| 5 | I	will	do	anything	to	protect	the	temple	where	I<br>served.                                 |
-| 6 | I seek	to	preserve	a	sacred	text	that	my	enemies<br>consider	heretical	and	seek	to	destroy. |
-|   |                                                                                             |
+|   1 | I would die to recover an ancient relic of my faith that was lost long ago.              |
+|-----|------------------------------------------------------------------------------------------|
+|   2 | I will someday get revenge on the corrupt temple hierarchy who branded me a heretic.     |
+|   3 | I owe my life to the priest who took me in when my parents died.                         |
+|   4 | Everything I do is for the common people.                                                |
+|   5 | I will do anything to protect the temple where I served.                                 |
+|   6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |
 
 #### **d6 Flaw**
 
-| 1 | I	judge	others	harshly,	and	myself	even	more<br>severely.                           |
-|---|-------------------------------------------------------------------------------------|
-| 2 | I	put	too	much	trust	in	those	who	wield	power<br>within	my	temple's	hierarchy.      |
-| 3 | My	piety	sometimes leads	me	to	blindly	trust	those<br>that	profess	faith	in	my	god. |
-| 4 | I	am	inflexible	in	my	thinking.                                                     |
-| 5 | I	am	suspicious	of	strangers	and	expect	the	worst	of<br>them.                       |
+|   1 | I judge others harshly, and myself even more severely.                           |
+|-----|----------------------------------------------------------------------------------|
+|   2 | I put too much trust in those who wield power within my temple's hierarchy.      |
+|   3 | My piety sometimes leads me to blindly trust those that profess faith in my god. |
+|   4 | I am inflexible in my thinking.                                                  |
+|   5 | I am suspicious of strangers and expect the worst of them.                       |
 
 6 Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
 
@@ -3220,11 +3214,11 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 | Coin          | CP    | SP   | EP   | GP    | PP      |
 |---------------|-------|------|------|-------|---------|
-| Copper	(cp)   | 1     | 1/10 | 1/50 | 1/100 | 1/1,000 |
-| Silver	(sp)   | 10    | 1    | 1/5  | 1/10  | 1/100   |
-| Electrum	(ep) | 50    | 5    | 1    | 1/2   | 1/20    |
-| Gold	(gp)     | 100   | 10   | 2    | 1     | 1/10    |
-| Platinum	(pp) | 1,000 | 100  | 20   | 10    | 1       |
+| Copper (cp)   | 1     | 1/10 | 1/50 | 1/100 | 1/1,000 |
+| Silver (sp)   | 10    | 1    | 1/5  | 1/10  | 1/100   |
+| Electrum (ep) | 50    | 5    | 1    | 1/2   | 1/20    |
+| Gold (gp)     | 100   | 10   | 2    | 1     | 1/10    |
+| Platinum (pp) | 1,000 | 100  | 20   | 10    | 1       |
 
 # **Selling Treasure**
 
@@ -3296,28 +3290,27 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 
 #### **Armor**
 
-| Armor       | Cost | Armor	Class	(AC)  | Strength | Stealth      | Weight |
-|-------------|------|-------------------|----------|--------------|--------|
-| Light	Armor |      |                   |          |              |        |
-| Padded      | 5	gp | 11	+	Dex	modifier | —        | Disadvantage | 8	lb.  |
+| Armor       | Cost   | Armor Class (AC)   | Strength   | Stealth      | Weight   |
+|-------------|--------|--------------------|------------|--------------|----------|
+| Light Armor |        |                    |            |              |          |
+| Padded      | 5 gp   | 11 + Dex modifier  | —          | Disadvantage | 8 lb.    |
 
-| Leather         | 10	gp    | 11	+	Dex	modifier         | —      | —            | 10	lb. |
-|-----------------|----------|---------------------------|--------|--------------|--------|
-| Studded	leather | 45	gp    | 12	+	Dex	modifier         | —      | —            | 13	lb. |
-| Medium	Armor    |          |                           |        |              |        |
-| Hide            | 10	gp    | 12	+	Dex	modifier	(max	2) | —      | —            | 12	lb. |
-| Chain	shirt     | 50	gp    | 13	+	Dex	modifier	(max	2) | —      | —            | 20	lb. |
-| Scale	mail      | 50	gp    | 14	+	Dex	modifier	(max	2) | —      | Disadvantage | 45	lb. |
-| Breastplate     | 400	gp   | 14	+	Dex	modifier	(max	2) | —      | —            | 20	lb. |
-| Half	plate      | 750	gp   | 15	+	Dex	modifier	(max	2) | —      | Disadvantage | 40	lb. |
-| Heavy	Armor     |          |                           |        |              |        |
-| Ring	mail       | 30	gp    | 14                        | —      | Disadvantage | 40	lb. |
-| Chain	mail      | 75	gp    | 16                        | Str 13 | Disadvantage | 55	lb. |
-| Splint          | 200	gp   | 17                        | Str	15 | Disadvantage | 60	lb. |
-| Plate           | 1,500	gp | 18                        | Str	15 | Disadvantage | 65	lb. |
-| Shield          |          |                           |        |              |        |
-| Shield          | 10	gp    | +2                        | —      | —            | 6	lb.  |
-|                 |          |                           |        |              |        |
+| Leather         | 10 gp    | 11 + Dex modifier         | —      | —            | 10 lb.   |
+|-----------------|----------|---------------------------|--------|--------------|----------|
+| Studded leather | 45 gp    | 12 + Dex modifier         | —      | —            | 13 lb.   |
+| Medium Armor    |          |                           |        |              |          |
+| Hide            | 10 gp    | 12 + Dex modifier (max 2) | —      | —            | 12 lb.   |
+| Chain shirt     | 50 gp    | 13 + Dex modifier (max 2) | —      | —            | 20 lb.   |
+| Scale mail      | 50 gp    | 14 + Dex modifier (max 2) | —      | Disadvantage | 45 lb.   |
+| Breastplate     | 400 gp   | 14 + Dex modifier (max 2) | —      | —            | 20 lb.   |
+| Half plate      | 750 gp   | 15 + Dex modifier (max 2) | —      | Disadvantage | 40 lb.   |
+| Heavy Armor     |          |                           |        |              |          |
+| Ring mail       | 30 gp    | 14                        | —      | Disadvantage | 40 lb.   |
+| Chain mail      | 75 gp    | 16                        | Str 13 | Disadvantage | 55 lb.   |
+| Splint          | 200 gp   | 17                        | Str 15 | Disadvantage | 60 lb.   |
+| Plate           | 1,500 gp | 18                        | Str 15 | Disadvantage | 65 lb.   |
+| Shield          |          |                           |        |              |          |
+| Shield          | 10 gp    | +2                        | —      | —            | 6 lb.    |
 
 # **Getting Into and Out of Armor**
 
@@ -3331,10 +3324,10 @@ The time it takes to don or doff armor depends on the armor's category.
 
 | Category     | Don        | Doff      |
 |--------------|------------|-----------|
-| Light	Armor  | 1	minute   | 1	minute  |
-| Medium	Armor | 5	minutes  | 1	minute  |
-| Heavy	Armor  | 10	minutes | 5	minutes |
-| Shield       | 1	action   | 1	action  |
+| Light Armor  | 1 minute   | 1 minute  |
+| Medium Armor | 5 minutes  | 1 minute  |
+| Heavy Armor  | 10 minutes | 5 minutes |
+| Shield       | 1 action   | 1 action  |
 
 # **Weapons**
 
@@ -3344,7 +3337,7 @@ The Weapons table shows the most common weapons used in the fantasy gaming world
 
 # **Weapon Proficiency**
 
-Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are **simple** and **martial**. Most people  can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
+Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are **simple** and **martial**. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
 
 Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
 
@@ -3402,52 +3395,51 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 #### **Weapons**
 
-| Name                 | Cost | Damage | Weight | Properties |  |
-|----------------------|------|--------|--------|------------|--|
-| Simple	Melee	Weapons |      |        |        |            |  |
+| Name                 | Cost   | Damage   | Weight   | Properties   |    |
+|----------------------|--------|----------|----------|--------------|----|
+| Simple Melee Weapons |        |          |          |              |    |
 
-| Club                   | 1	sp  | 1d4	bludgeoning | 2	lb.   | Light                                                  |
-|------------------------|-------|-----------------|---------|--------------------------------------------------------|
-| Dagger                 | 2	gp  | 1d4	piercing    | 1	lb.   | Finesse,	light,	thrown	(range	20/60)                   |
-| Greatclub              | 2	sp  | 1d8	bludgeoning | 10	lb.  | Two-handed                                             |
-| Handaxe                | 5	gp  | 1d6	slashing    | 2	lb.   | Light,	thrown	(range	20/60)                            |
-| Javelin                | 5	sp  | 1d6	piercing    | 2	lb.   | Thrown	(range	30/120)                                  |
-| Light	hammer           | 2	gp  | 1d4	bludgeoning | 2	lb.   | Light,	thrown	(range	20/60)                            |
-| Mace                   | 5	gp  | 1d6	bludgeoning | 4	lb.   | —                                                      |
-| Quarterstaff           | 2	sp  | 1d6	bludgeoning | 4	lb.   | Versatile	(1d8)                                        |
-| Sickle                 | 1	gp  | 1d4	slashing    | 2	lb.   | Light                                                  |
-| Spear                  | 1	gp  | 1d6	piercing    | 3	lb.   | Thrown	(range	20/60),	versatile	(1d8)                  |
-| Simple	Ranged	Weapons  |       |                 |         |                                                        |
-| Crossbow,	light        | 25	gp | 1d8	piercing    | 5	lb.   | Ammunition	(range	80/320),	loading,	two-handed         |
-| Dart                   | 5	cp  | 1d4	piercing    | 1/4	lb. | Finesse,	thrown	(range	20/60)                          |
-| Shortbow               | 25	gp | 1d6	piercing    | 2	lb.   | Ammunition	(range	80/320),	two-handed                  |
-| Sling                  | 1	sp  | 1d4	bludgeoning | —       | Ammunition	(range	30/120)                              |
-| Martial	Melee	Weapons  |       |                 |         |                                                        |
-| Battleaxe              | 10	gp | 1d8	slashing    | 4	lb.   | Versatile	(1d10)                                       |
-| Flail                  | 10	gp | 1d8	bludgeoning | 2	lb.   | —                                                      |
-| Glaive                 | 20	gp | 1d10	slashing   | 6	lb.   | Heavy,	reach,	two-handed                               |
-| Greataxe               | 30	gp | 1d12	slashing   | 7	lb.   | Heavy,	two-handed                                      |
-| Greatsword             | 50	gp | 2d6	slashing    | 6	lb.   | Heavy,	two-handed                                      |
-| Halberd                | 20	gp | 1d10	slashing   | 6	lb.   | Heavy,	reach,	two-handed                               |
-| Lance                  | 10	gp | 1d12	piercing   | 6	lb.   | Reach,	special                                         |
-| Longsword              | 15	gp | 1d8	slashing    | 3	lb.   | Versatile	(1d10)                                       |
-| Maul                   | 10	gp | 2d6	bludgeoning | 10	lb.  | Heavy,	two-handed                                      |
-| Morningstar            | 15	gp | 1d8	piercing    | 4	lb.   | —                                                      |
-| Pike                   | 5	gp  | 1d10	piercing   | 18	lb.  | Heavy,	reach,	two-handed                               |
-| Rapier                 | 25	gp | 1d8	piercing    | 2	lb.   | Finesse                                                |
-| Scimitar               | 25	gp | 1d6	slashing    | 3	lb.   | Finesse,	light                                         |
-| Shortsword             | 10	gp | 1d6	piercing    | 2	lb.   | Finesse,	light                                         |
-| Trident                | 5	gp  | 1d6	piercing    | 4	lb.   | Thrown	(range	20/60),	versatile	(1d8)                  |
-| War	pick               | 5	gp  | 1d8	piercing    | 2	lb.   | —                                                      |
-| Warhammer              | 15	gp | 1d8	bludgeoning | 2	lb.   | Versatile	(1d10)                                       |
-| Whip                   | 2	gp  | 1d4	slashing    | 3	lb.   | Finesse,	reach                                         |
-| Martial	Ranged	Weapons |       |                 |         |                                                        |
-| Blowgun                | 10	gp | 1	piercing      | 1	lb.   | Ammunition	(range 25/100),	loading                     |
-| Crossbow,	hand         | 75	gp | 1d6	piercing    | 3	lb.   | Ammunition	(range	30/120),	light,	loading              |
-| Crossbow,	heavy        | 50	gp | 1d10	piercing   | 18	lb.  | Ammunition	(range	100/400),	heavy,	loading,	two-handed |
-| Longbow                | 50	gp | 1d8	piercing    | 2	lb.   | Ammunition	(range	150/600),	heavy,	two-handed          |
-| Net                    | 1	gp  | —               | 3	lb.   | Special,	thrown	(range	5/15)                           |
-|                        |       |                 |         |                                                        |
+| Club                   | 1 sp   | 1d4 bludgeoning   | 2 lb.   | Light                                                  |
+|------------------------|--------|-------------------|---------|--------------------------------------------------------|
+| Dagger                 | 2 gp   | 1d4 piercing      | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
+| Greatclub              | 2 sp   | 1d8 bludgeoning   | 10 lb.  | Two-handed                                             |
+| Handaxe                | 5 gp   | 1d6 slashing      | 2 lb.   | Light, thrown (range 20/60)                            |
+| Javelin                | 5 sp   | 1d6 piercing      | 2 lb.   | Thrown (range 30/120)                                  |
+| Light hammer           | 2 gp   | 1d4 bludgeoning   | 2 lb.   | Light, thrown (range 20/60)                            |
+| Mace                   | 5 gp   | 1d6 bludgeoning   | 4 lb.   | —                                                      |
+| Quarterstaff           | 2 sp   | 1d6 bludgeoning   | 4 lb.   | Versatile (1d8)                                        |
+| Sickle                 | 1 gp   | 1d4 slashing      | 2 lb.   | Light                                                  |
+| Spear                  | 1 gp   | 1d6 piercing      | 3 lb.   | Thrown (range 20/60), versatile (1d8)                  |
+| Simple Ranged Weapons  |        |                   |         |                                                        |
+| Crossbow, light        | 25 gp  | 1d8 piercing      | 5 lb.   | Ammunition (range 80/320), loading, two-handed         |
+| Dart                   | 5 cp   | 1d4 piercing      | 1/4 lb. | Finesse, thrown (range 20/60)                          |
+| Shortbow               | 25 gp  | 1d6 piercing      | 2 lb.   | Ammunition (range 80/320), two-handed                  |
+| Sling                  | 1 sp   | 1d4 bludgeoning   | —       | Ammunition (range 30/120)                              |
+| Martial Melee Weapons  |        |                   |         |                                                        |
+| Battleaxe              | 10 gp  | 1d8 slashing      | 4 lb.   | Versatile (1d10)                                       |
+| Flail                  | 10 gp  | 1d8 bludgeoning   | 2 lb.   | —                                                      |
+| Glaive                 | 20 gp  | 1d10 slashing     | 6 lb.   | Heavy, reach, two-handed                               |
+| Greataxe               | 30 gp  | 1d12 slashing     | 7 lb.   | Heavy, two-handed                                      |
+| Greatsword             | 50 gp  | 2d6 slashing      | 6 lb.   | Heavy, two-handed                                      |
+| Halberd                | 20 gp  | 1d10 slashing     | 6 lb.   | Heavy, reach, two-handed                               |
+| Lance                  | 10 gp  | 1d12 piercing     | 6 lb.   | Reach, special                                         |
+| Longsword              | 15 gp  | 1d8 slashing      | 3 lb.   | Versatile (1d10)                                       |
+| Maul                   | 10 gp  | 2d6 bludgeoning   | 10 lb.  | Heavy, two-handed                                      |
+| Morningstar            | 15 gp  | 1d8 piercing      | 4 lb.   | —                                                      |
+| Pike                   | 5 gp   | 1d10 piercing     | 18 lb.  | Heavy, reach, two-handed                               |
+| Rapier                 | 25 gp  | 1d8 piercing      | 2 lb.   | Finesse                                                |
+| Scimitar               | 25 gp  | 1d6 slashing      | 3 lb.   | Finesse, light                                         |
+| Shortsword             | 10 gp  | 1d6 piercing      | 2 lb.   | Finesse, light                                         |
+| Trident                | 5 gp   | 1d6 piercing      | 4 lb.   | Thrown (range 20/60), versatile (1d8)                  |
+| War pick               | 5 gp   | 1d8 piercing      | 2 lb.   | —                                                      |
+| Warhammer              | 15 gp  | 1d8 bludgeoning   | 2 lb.   | Versatile (1d10)                                       |
+| Whip                   | 2 gp   | 1d4 slashing      | 3 lb.   | Finesse, reach                                         |
+| Martial Ranged Weapons |        |                   |         |                                                        |
+| Blowgun                | 10 gp  | 1 piercing        | 1 lb.   | Ammunition (range 25/100), loading                     |
+| Crossbow, hand         | 75 gp  | 1d6 piercing      | 3 lb.   | Ammunition (range 30/120), light, loading              |
+| Crossbow, heavy        | 50 gp  | 1d10 piercing     | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed |
+| Longbow                | 50 gp  | 1d8 piercing      | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          |
+| Net                    | 1 gp   | —                 | 3 lb.   | Special, thrown (range 5/15)                           |
 
 # **Adventuring Gear**
 
@@ -3543,131 +3535,130 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 
 ## **Adventuring Gear**
 
-| Abacus<br>2	gp<br>2	lb.<br>Acid	(vial)<br>25	gp                      |       |
-|----------------------------------------------------------------------|-------|
-|                                                                      |       |
-|                                                                      | 1	lb. |
-| Alchemist's	fire	(flask)<br>50	gp<br>1	lb.                           |       |
-| Ammunition                                                           |       |
-| Arrows	(20)<br>1	gp<br>1	lb.                                         |       |
-| Blowgun	needles	(50)<br>1	gp<br>1	lb.                                |       |
-| Crossbow	bolts	(20)<br>1	gp<br>1½	lb.                                |       |
-| Sling	bullets	(20)<br>4	cp<br>1½	lb.                                 |       |
-| Antitoxin	(vial)<br>50	gp<br>—                                       |       |
-| Arcane	focus                                                         |       |
-| Crystal<br>10	gp<br>1	lb.                                            |       |
-| Orb<br>20	gp<br>3	lb.                                                |       |
-| Rod<br>10	gp<br>2	lb.                                                |       |
-| Staff<br>5	gp<br>4	lb.                                               |       |
-| Wand<br>10	gp<br>1	lb.                                               |       |
-| Backpack<br>2	gp<br>5	lb.                                            |       |
-| Ball	bearings	(bag	of	1,000)<br>1	gp<br>2	lb.                        |       |
-| Barrel<br>2	gp<br>70	lb.                                             |       |
-| Basket<br>4	sp<br>2	lb.                                              |       |
-| Bedroll<br>1	gp<br>7	lb.                                             |       |
-| Bell<br>1	gp<br>—<br>Blanket<br>5	sp<br>3	lb.                        |       |
-| Block	and	tackle<br>1	gp<br>5	lb.                                    |       |
-| Book<br>25	gp<br>5	lb.                                               |       |
-| Bottle,	glass<br>2	gp<br>2	lb.                                       |       |
-| Bucket<br>5	cp<br>2	lb.                                              |       |
-| Caltrops	(bag	of	20)<br>1	gp<br>2	lb.                                |       |
-| Candle<br>1	cp<br>—                                                  |       |
-| Case,	crossbow	bolt<br>1	gp<br>1	lb.                                 |       |
-| Case,	map	or	scroll<br>1	gp<br>1	lb.                                 |       |
-| Chain	(10	feet)<br>5	gp<br>10	lb.                                    |       |
-| Chalk	(1	piece)<br>1	cp<br>—                                         |       |
-| Chest<br>5	gp<br>25	lb.                                              |       |
-| Climber's	kit<br>25	gp<br>12	lb.                                     |       |
-| Clothes,	common<br>5	sp<br>3	lb.                                     |       |
-| Clothes,	costume<br>5	gp<br>4	lb.                                    |       |
-| Clothes,	fine<br>15	gp<br>6	lb.                                      |       |
-| Clothes,	traveler's<br>2	gp<br>4	lb.                                 |       |
-| Component	pouch<br>25	gp<br>2	lb.                                    |       |
-| Crowbar<br>2	gp<br>5	lb.                                             |       |
-| Druidic	focus                                                        |       |
-| Sprig	of	mistletoe<br>1	gp<br>—                                      |       |
-| Totem<br>1	gp<br>—                                                   |       |
-| Wooden	staff<br>5	gp<br>4	lb.                                        |       |
-| Yew	wand<br>10	gp<br>1	lb.                                           |       |
-| Fishing	tackle<br>1	gp<br>4	lb.                                      |       |
-| Flask	or	tankard<br>2	cp<br>1	lb.<br>Grappling	hook<br>2	gp<br>4	lb. |       |
-| Hammer<br>1	gp<br>3	lb.                                              |       |
-| Hammer,	sledge<br>2	gp<br>10	lb.                                     |       |
-| Healer's	kit<br>5	gp<br>3	lb.                                        |       |
-| Holy	symbol                                                          |       |
-| Amulet<br>5	gp<br>1	lb.                                              |       |
-| Emblem<br>5	gp<br>—                                                  |       |
-| Reliquary<br>5	gp<br>2	lb.                                           |       |
-| Holy	water	(flask)<br>25	gp<br>1	lb.                                 |       |
+| Abacus 2 gp 2 lb. Acid (vial) 25 gp                   |       |
+|-------------------------------------------------------|-------|
+|                                                       | 1 lb. |
+| Alchemist's fire (flask) 50 gp 1 lb.                  |       |
+| Ammunition                                            |       |
+| Arrows (20) 1 gp 1 lb.                                |       |
+| Blowgun needles (50) 1 gp 1 lb.                       |       |
+| Crossbow bolts (20) 1 gp 1½ lb.                       |       |
+| Sling bullets (20) 4 cp 1½ lb.                        |       |
+| Antitoxin (vial) 50 gp —                              |       |
+| Arcane focus                                          |       |
+| Crystal 10 gp 1 lb.                                   |       |
+| Orb 20 gp 3 lb.                                       |       |
+| Rod 10 gp 2 lb.                                       |       |
+| Staff 5 gp 4 lb.                                      |       |
+| Wand 10 gp 1 lb.                                      |       |
+| Backpack 2 gp 5 lb.                                   |       |
+| Ball bearings (bag of 1,000) 1 gp 2 lb.               |       |
+| Barrel 2 gp 70 lb.                                    |       |
+| Basket 4 sp 2 lb.                                     |       |
+| Bedroll 1 gp 7 lb.                                    |       |
+| Bell 1 gp — Blanket 5 sp 3 lb.                        |       |
+| Block and tackle 1 gp 5 lb.                           |       |
+| Book 25 gp 5 lb.                                      |       |
+| Bottle, glass 2 gp 2 lb.                              |       |
+| Bucket 5 cp 2 lb.                                     |       |
+| Caltrops (bag of 20) 1 gp 2 lb.                       |       |
+| Candle 1 cp —                                         |       |
+| Case, crossbow bolt 1 gp 1 lb.                        |       |
+| Case, map or scroll 1 gp 1 lb.                        |       |
+| Chain (10 feet) 5 gp 10 lb.                           |       |
+| Chalk (1 piece) 1 cp —                                |       |
+| Chest 5 gp 25 lb.                                     |       |
+| Climber's kit 25 gp 12 lb.                            |       |
+| Clothes, common 5 sp 3 lb.                            |       |
+| Clothes, costume 5 gp 4 lb.                           |       |
+| Clothes, fine 15 gp 6 lb.                             |       |
+| Clothes, traveler's 2 gp 4 lb.                        |       |
+| Component pouch 25 gp 2 lb.                           |       |
+| Crowbar 2 gp 5 lb.                                    |       |
+| Druidic focus                                         |       |
+| Sprig of mistletoe 1 gp —                             |       |
+| Totem 1 gp —                                          |       |
+| Wooden staff 5 gp 4 lb.                               |       |
+| Yew wand 10 gp 1 lb.                                  |       |
+| Fishing tackle 1 gp 4 lb.                             |       |
+| Flask or tankard 2 cp 1 lb. Grappling hook 2 gp 4 lb. |       |
+| Hammer 1 gp 3 lb.                                     |       |
+| Hammer, sledge 2 gp 10 lb.                            |       |
+| Healer's kit 5 gp 3 lb.                               |       |
+| Holy symbol                                           |       |
+| Amulet 5 gp 1 lb.                                     |       |
+| Emblem 5 gp —                                         |       |
+| Reliquary 5 gp 2 lb.                                  |       |
+| Holy water (flask) 25 gp 1 lb.                        |       |
 
-| Hourglass              | 25	gp    | 1	lb.        |
+| Hourglass              | 25 gp    | 1 lb.        |
 |------------------------|----------|--------------|
-| Hunting	trap           | 5	gp     | 25	lb.       |
-| Ink	(1	ounce	bottle)   | 10	gp    | —            |
-| Ink	pen                | 2	cp     | —            |
-| Jug	or	pitcher         | 2	cp     | 4	lb.        |
-| Ladder	(10<br>-foot)   | 1	sp     | 25	lb.       |
-| Lamp                   | 5	sp     | 1	lb.        |
-| Lantern,	bullseye      | 10	gp    | 2	lb.        |
-| Lantern,	hooded        | 5	gp     | 2	lb.        |
-| Lock                   | 10	gp    | 1	lb.        |
-| Magnifying	glass       | 100	gp   | —            |
-| Manacles               | 2	gp     | 6	lb.        |
-| Mess	kit               | 2	sp     | 1	lb.        |
-| Mirror,	steel          | 5	gp     | 1/2	lb.      |
-| Oil	(flask)            | 1	sp     | 1	lb.        |
-| Paper	(one	sheet)      | 2	sp     | —            |
-| Parchment	(one	sheet)  | 1	sp     | —            |
-| Perfume	(vial)         | 5	gp     | —            |
-| Pick,	miner's          | 2	gp     | 10	lb.       |
-| Piton                  | 5	cp     | 1/4	lb.      |
-| Poison,	basic	(vial)   | 100	gp   | —            |
-| Pole	(10<br>-foot)     | 5	cp     | 7	lb.        |
-| Pot,	iron              | 2	gp     | 10	lb.       |
-| Potion	of	healing      | 50	gp    | 1/2	lb.      |
-| Pouch                  | 5	sp     | 1	lb.        |
-| Quiver                 | 1	gp     | 1	lb.        |
-| Ram,	portable          | 4	gp     | 35	lb.       |
-| Rations	(1	day)        | 5	sp     | 2	lb.        |
-| Robes                  | 1	gp     | 4	lb.        |
-| Rope,	hempen	(50	feet) | 1	gp     | 10	lb.       |
-| Rope,	silk	(50	feet)   | 10	gp    | 5	lb.        |
-| Sack                   | 1	cp     | 1/2	lb.      |
-| Scale,	merchant's      | 5	gp     | 3	lb.        |
-| Sealing	wax            | 5	sp     | —            |
-| Shovel                 | 2	gp     | 5	lb.        |
-| Signal	whistle         | 5	cp     | —            |
-| Signet	ring            | 5	gp     | —            |
-| Soap                   | 2	cp     | —            |
-| Spellbook              | 50	gp    | 3	lb.        |
-| Spikes,	iron	(10)      | 1	gp     | 5	lb.        |
-| Spyglass               | 1,000	gp | 1	lb.        |
-| Tent,	two<br>-person   | 2	gp     | 20	lb.       |
-| Tinderbox              | 5	sp     | 1	lb.        |
-| Torch                  | 1	cp     | 1	lb.        |
-| Vial                   | 1	gp     | —            |
-| Waterskin              | 2	sp     | 5	lb.	(full) |
-| Whetstone              | 1	cp     | 1	lb.        |
+| Hunting trap           | 5 gp     | 25 lb.       |
+| Ink (1 ounce bottle)   | 10 gp    | —            |
+| Ink pen                | 2 cp     | —            |
+| Jug or pitcher         | 2 cp     | 4 lb.        |
+| Ladder (10 -foot)      | 1 sp     | 25 lb.       |
+| Lamp                   | 5 sp     | 1 lb.        |
+| Lantern, bullseye      | 10 gp    | 2 lb.        |
+| Lantern, hooded        | 5 gp     | 2 lb.        |
+| Lock                   | 10 gp    | 1 lb.        |
+| Magnifying glass       | 100 gp   | —            |
+| Manacles               | 2 gp     | 6 lb.        |
+| Mess kit               | 2 sp     | 1 lb.        |
+| Mirror, steel          | 5 gp     | 1/2 lb.      |
+| Oil (flask)            | 1 sp     | 1 lb.        |
+| Paper (one sheet)      | 2 sp     | —            |
+| Parchment (one sheet)  | 1 sp     | —            |
+| Perfume (vial)         | 5 gp     | —            |
+| Pick, miner's          | 2 gp     | 10 lb.       |
+| Piton                  | 5 cp     | 1/4 lb.      |
+| Poison, basic (vial)   | 100 gp   | —            |
+| Pole (10 -foot)        | 5 cp     | 7 lb.        |
+| Pot, iron              | 2 gp     | 10 lb.       |
+| Potion of healing      | 50 gp    | 1/2 lb.      |
+| Pouch                  | 5 sp     | 1 lb.        |
+| Quiver                 | 1 gp     | 1 lb.        |
+| Ram, portable          | 4 gp     | 35 lb.       |
+| Rations (1 day)        | 5 sp     | 2 lb.        |
+| Robes                  | 1 gp     | 4 lb.        |
+| Rope, hempen (50 feet) | 1 gp     | 10 lb.       |
+| Rope, silk (50 feet)   | 10 gp    | 5 lb.        |
+| Sack                   | 1 cp     | 1/2 lb.      |
+| Scale, merchant's      | 5 gp     | 3 lb.        |
+| Sealing wax            | 5 sp     | —            |
+| Shovel                 | 2 gp     | 5 lb.        |
+| Signal whistle         | 5 cp     | —            |
+| Signet ring            | 5 gp     | —            |
+| Soap                   | 2 cp     | —            |
+| Spellbook              | 50 gp    | 3 lb.        |
+| Spikes, iron (10)      | 1 gp     | 5 lb.        |
+| Spyglass               | 1,000 gp | 1 lb.        |
+| Tent, two -person      | 2 gp     | 20 lb.       |
+| Tinderbox              | 5 sp     | 1 lb.        |
+| Torch                  | 1 cp     | 1 lb.        |
+| Vial                   | 1 gp     | —            |
+| Waterskin              | 2 sp     | 5 lb. (full) |
+| Whetstone              | 1 cp     | 1 lb.        |
 
 #### **Container Capacity**
 
-| Container | Capacity                               |
-|-----------|----------------------------------------|
-| Backpack* | 1	cubic	foot/30	pounds	of	gear         |
-| Barrel    | 40	gallons	liquid,	4	cubic	feet	solid  |
-| Basket    | 2	cubic	feet/40	pounds	of	gear         |
-| Bottle    | 1½	pints	liquid                        |
-| Bucket    | 3	gallons	liquid,	1/2	cubic	foot	solid |
-| Chest     | 12	cubic	feet/300	pounds	of	gear       |
+| Container   | Capacity                               |
+|-------------|----------------------------------------|
+| Backpack*   | 1 cubic foot/30 pounds of gear         |
+| Barrel      | 40 gallons liquid, 4 cubic feet solid  |
+| Basket      | 2 cubic feet/40 pounds of gear         |
+| Bottle      | 1½ pints liquid                        |
+| Bucket      | 3 gallons liquid, 1/2 cubic foot solid |
+| Chest       | 12 cubic feet/300 pounds of gear       |
 
-| Flask	or	tankard | 1	pint	liquid                   |
-|------------------|---------------------------------|
-| Jug	or	pitcher   | 1	gallon	liquid                 |
-| Pot,	iron        | 1	gallon	liquid                 |
-| Pouch            | 1/5	cubic	foot/6	pounds	of	gear |
-| Sack             | 1	cubic	foot/30	pounds	of	gear  |
-| Vial             | 4	ounces	liquid                 |
-| Waterskin        | 4	pints	liquid                  |
+| Flask or tankard   | 1 pint liquid                   |
+|--------------------|---------------------------------|
+| Jug or pitcher     | 1 gallon liquid                 |
+| Pot, iron          | 1 gallon liquid                 |
+| Pouch              | 1/5 cubic foot/6 pounds of gear |
+| Sack               | 1 cubic foot/30 pounds of gear  |
+| Vial               | 4 ounces liquid                 |
+| Waterskin          | 4 pints liquid                  |
 
 \* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
 
@@ -3697,47 +3688,46 @@ might ask you to make a Dexterity check to carve a fine detail with your woodcar
 
 #### **Tools**
 
-| Item                    | Cost  | Weight |
-|-------------------------|-------|--------|
-| Artisan's	tools         |       |        |
-| Alchemist's	supplies    | 50	gp | 8	lb.  |
-| Brewer's	supplies       | 20	gp | 9	lb.  |
-| Calligrapher's	supplies | 10	gp | 5	lb.  |
-| Carpenter's	tools       | 8	gp  | 6	lb.  |
-| Cartographer's	tools    | 15	gp | 6	lb.  |
-| Cobbler's	tools         | 5	gp  | 5	lb.  |
-| Cook's	utensils         | 1	gp  | 8	lb.  |
-| Glassblower's	tools     | 30	gp | 5	lb.  |
-| Jeweler's	tools         | 25	gp | 2	lb.  |
-| Leatherworker's	tools   | 5	gp  | 5	lb.  |
-| Mason's	tools           | 10	gp | 8	lb.  |
-| Painter's	supplies      | 10	gp | 5	lb.  |
-| Potter's	tools          | 10	gp | 3	lb.  |
-| Smith's	tools           | 20	gp | 8	lb.  |
-| Tinker's	tools          | 50	gp | 10	lb. |
-| Weaver's	tools          | 1	gp  | 5	lb.  |
-| Woodcarver's	tools      | 1	gp  | 5	lb.  |
-| Disguise	kit            | 25	gp | 3	lb.  |
-| Forgery	kit             | 15	gp | 5	lb.  |
-| Gaming	set              |       |        |
-| Dice	set                | 1	sp  | —      |
-| Playing	card	set        | 5	sp  | —      |
-| Herbalism	kit           | 5	gp  | 3	lb.  |
-| Musical	instrument      |       |        |
-| Bagpipes                | 30	gp | 6	lb.  |
-| Drum                    | 6	gp  | 3	lb.  |
-| Dulcimer                | 25	gp | 10	lb. |
-| Flute                   | 2	gp  | 1	lb.  |
-| Lute                    | 35	gp | 2	lb.  |
-| Lyre                    | 30	gp | 2	lb.  |
-| Horn                    | 3	gp  | 2	lb.  |
-| Pan	flute               | 12	gp | 2	lb.  |
-| Shawm                   | 2	gp  | 1	lb.  |
-| Viol                    | 30	gp | 1	lb.  |
-| Navigator's	tools       | 25	gp | 2	lb.  |
-| Poisoner's	kit          | 50	gp | 2	lb.  |
-| Thieves'	tools          | 25	gp | 1	lb.  |
-|                         |       |        |
+| Item                    | Cost   | Weight   |
+|-------------------------|--------|----------|
+| Artisan's tools         |        |          |
+| Alchemist's supplies    | 50 gp  | 8 lb.    |
+| Brewer's supplies       | 20 gp  | 9 lb.    |
+| Calligrapher's supplies | 10 gp  | 5 lb.    |
+| Carpenter's tools       | 8 gp   | 6 lb.    |
+| Cartographer's tools    | 15 gp  | 6 lb.    |
+| Cobbler's tools         | 5 gp   | 5 lb.    |
+| Cook's utensils         | 1 gp   | 8 lb.    |
+| Glassblower's tools     | 30 gp  | 5 lb.    |
+| Jeweler's tools         | 25 gp  | 2 lb.    |
+| Leatherworker's tools   | 5 gp   | 5 lb.    |
+| Mason's tools           | 10 gp  | 8 lb.    |
+| Painter's supplies      | 10 gp  | 5 lb.    |
+| Potter's tools          | 10 gp  | 3 lb.    |
+| Smith's tools           | 20 gp  | 8 lb.    |
+| Tinker's tools          | 50 gp  | 10 lb.   |
+| Weaver's tools          | 1 gp   | 5 lb.    |
+| Woodcarver's tools      | 1 gp   | 5 lb.    |
+| Disguise kit            | 25 gp  | 3 lb.    |
+| Forgery kit             | 15 gp  | 5 lb.    |
+| Gaming set              |        |          |
+| Dice set                | 1 sp   | —        |
+| Playing card set        | 5 sp   | —        |
+| Herbalism kit           | 5 gp   | 3 lb.    |
+| Musical instrument      |        |          |
+| Bagpipes                | 30 gp  | 6 lb.    |
+| Drum                    | 6 gp   | 3 lb.    |
+| Dulcimer                | 25 gp  | 10 lb.   |
+| Flute                   | 2 gp   | 1 lb.    |
+| Lute                    | 35 gp  | 2 lb.    |
+| Lyre                    | 30 gp  | 2 lb.    |
+| Horn                    | 3 gp   | 2 lb.    |
+| Pan flute               | 12 gp  | 2 lb.    |
+| Shawm                   | 2 gp   | 1 lb.    |
+| Viol                    | 30 gp  | 1 lb.    |
+| Navigator's tools       | 25 gp  | 2 lb.    |
+| Poisoner's kit          | 50 gp  | 2 lb.    |
+| Thieves' tools          | 25 gp  | 1 lb.    |
 
 Vehicles (land or water) \* \*
 
@@ -3781,51 +3771,50 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 ### **Mounts and Other Animals**
 
-|                |        |        | Carrying  |
-|----------------|--------|--------|-----------|
-| Item           | Cost   | Speed  | Capacity  |
-| Camel          | 50	gp  | 50	ft. | 480	lb.   |
-| Donkey	or	mule | 8	gp   | 40	ft. | 420	lb.   |
-| Elephant       | 200	gp | 40	ft. | 1,320	lb. |
+|                |        |        | Carrying   |
+|----------------|--------|--------|------------|
+| Item           | Cost   | Speed  | Capacity   |
+| Camel          | 50 gp  | 50 ft. | 480 lb.    |
+| Donkey or mule | 8 gp   | 40 ft. | 420 lb.    |
+| Elephant       | 200 gp | 40 ft. | 1,320 lb.  |
 
-| Horse,	draft  | 50	gp  | 40	ft. | 540	lb. |
-|---------------|--------|--------|---------|
-| Horse,	riding | 75	gp  | 60	ft. | 480	lb. |
-| Mastiff       | 25	gp  | 40	ft. | 195	lb. |
-| Pony          | 30	gp  | 40	ft. | 225	lb. |
-| Warhorse      | 400	gp | 60	ft. | 540	lb. |
+| Horse, draft   | 50 gp   | 40 ft.   | 540 lb.   |
+|----------------|---------|----------|-----------|
+| Horse, riding  | 75 gp   | 60 ft.   | 480 lb.   |
+| Mastiff        | 25 gp   | 40 ft.   | 195 lb.   |
+| Pony           | 30 gp   | 40 ft.   | 225 lb.   |
+| Warhorse       | 400 gp  | 60 ft.   | 540 lb.   |
 
 ## **Tack, Harness, and Drawn Vehicles**
 
-| Item               | Cost   | Weight  |
-|--------------------|--------|---------|
-| Barding            | ×4     | ×2      |
-| Bit	and	bridle     | 2 gp   | 1	lb.   |
-| Carriage           | 100	gp | 600	lb. |
-| Cart               | 15	gp  | 200	lb. |
-| Chariot            | 250	gp | 100	lb. |
-| Feed	(per	day)     | 5	cp   | 10	lb.  |
-| Saddle             |        |         |
-| Exotic             | 60	gp  | 40	lb.  |
-| Military           | 20	gp  | 30	lb.  |
-| Pack               | 5	gp   | 15	lb.  |
-| Riding             | 10	gp  | 25	lb.  |
-| Saddlebags         | 4	gp   | 8	lb.   |
-| Sled               | 20	gp  | 300	lb. |
-| Stabling (per	day) | 5	sp   | —       |
-| Wagon              | 35	gp  | 400	lb. |
-|                    |        |         |
+| Item               | Cost   | Weight   |
+|--------------------|--------|----------|
+| Barding            | ×4     | ×2       |
+| Bit and bridle     | 2 gp   | 1 lb.    |
+| Carriage           | 100 gp | 600 lb.  |
+| Cart               | 15 gp  | 200 lb.  |
+| Chariot            | 250 gp | 100 lb.  |
+| Feed (per day)     | 5 cp   | 10 lb.   |
+| Saddle             |        |          |
+| Exotic             | 60 gp  | 40 lb.   |
+| Military           | 20 gp  | 30 lb.   |
+| Pack               | 5 gp   | 15 lb.   |
+| Riding             | 10 gp  | 25 lb.   |
+| Saddlebags         | 4 gp   | 8 lb.    |
+| Sled               | 20 gp  | 300 lb.  |
+| Stabling (per day) | 5 sp   | —        |
+| Wagon              | 35 gp  | 400 lb.  |
 
 ### **Waterborne Vehicles**
 
-| Item         | Cost      | Speed  |
-|--------------|-----------|--------|
-| Galley       | 30,000	gp | 4	mph  |
-| Keelboat     | 3,000	gp  | 1	mph  |
-| Longship     | 10,000	gp | 3	mph  |
-| Rowboat      | 50	gp     | 1½	mph |
-| Sailing	ship | 10,000	gp | 2	mph  |
-| Warship      | 25,000	gp | 2½	mph |
+| Item         | Cost      | Speed   |
+|--------------|-----------|---------|
+| Galley       | 30,000 gp | 4 mph   |
+| Keelboat     | 3,000 gp  | 1 mph   |
+| Longship     | 10,000 gp | 3 mph   |
+| Rowboat      | 50 gp     | 1½ mph  |
+| Sailing ship | 10,000 gp | 2 mph   |
+| Warship      | 25,000 gp | 2½ mph  |
 
 # **Trade Goods**
 
@@ -3837,19 +3826,19 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 
 | Cost   | Goods                                        |
 |--------|----------------------------------------------|
-| 1	cp   | 1	lb.	of	wheat                               |
-| 2	cp   | 1	lb.	of	flour	or	one	chicken                |
-| 5	cp   | 1	lb.	of	salt                                |
-| 1	sp   | 1	lb.	of	iron	or	1	sq.	yd.	of	canvas         |
-| 5	sp   | 1	lb.	of	copper	or	1 sq.	yd.	of	cotton	cloth |
-| 1	gp   | 1	lb.	of	ginger	or	one	goat                  |
-| 2	gp   | 1	lb.	of	cinnamon	or	pepper,	or	one	sheep    |
-| 3	gp   | 1	lb.	of	cloves	or	one	pig                   |
-| 5	gp   | 1	lb.	of	silver	or	1	sq.	yd.	of	linen        |
-| 10	gp  | 1	sq.	yd.	of	silk	or	one	cow                 |
-| 15	gp  | 1	lb.	of	saffron	or	one	ox                   |
-| 50	gp  | 1	lb.	of	gold                                |
-| 500	gp | 1	lb.	of	platinum                            |
+| 1 cp   | 1 lb. of wheat                               |
+| 2 cp   | 1 lb. of flour or one chicken                |
+| 5 cp   | 1 lb. of salt                                |
+| 1 sp   | 1 lb. of iron or 1 sq. yd. of canvas         |
+| 5 sp   | 1 lb. of copper or 1 sq. yd. of cotton cloth |
+| 1 gp   | 1 lb. of ginger or one goat                  |
+| 2 gp   | 1 lb. of cinnamon or pepper, or one sheep    |
+| 3 gp   | 1 lb. of cloves or one pig                   |
+| 5 gp   | 1 lb. of silver or 1 sq. yd. of linen        |
+| 10 gp  | 1 sq. yd. of silk or one cow                 |
+| 15 gp  | 1 lb. of saffron or one ox                   |
+| 50 gp  | 1 lb. of gold                                |
+| 500 gp | 1 lb. of platinum                            |
 
 # **Expenses**
 
@@ -3865,17 +3854,17 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 #### **Lifestyle Expenses**
 
-| Lifestyle | Price/Day |
-|-----------|-----------|
-| Wretched  | —         |
-| Squalid   | 1	sp      |
+| Lifestyle   | Price/Day   |
+|-------------|-------------|
+| Wretched    | —           |
+| Squalid     | 1 sp        |
 
-| Poor         | 2	sp          |
+| Poor         | 2 sp          |
 |--------------|---------------|
-| Modest       | 1	gp          |
-| Comfortable  | 2	gp          |
-| Wealthy      | 4	gp          |
-| Aristocratic | 10	gp	minimum |
+| Modest       | 1 gp          |
+| Comfortable  | 2 gp          |
+| Wealthy      | 4 gp          |
+| Aristocratic | 10 gp minimum |
 
 *Wretched.* You live in inhumane conditions. With no place to call home, you shelter wherever you can, sneaking into barns, huddling in old crates, and relying on the good graces of people better off than you. A wretched lifestyle presents abundant dangers. Violence, disease, and hunger follow you wherever you go. Other wretched people covet your armor, weapons, and adventuring gear, which represent a fortune by their standards. You are beneath the notice of most people.
 
@@ -3903,34 +3892,34 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 
 #### **Food, Drink, and Lodging**
 
-| Item   | Cost |
-|--------|------|
-| Ale    |      |
-| Gallon | 2	sp |
-| Mug    | 4	cp |
+| Item   | Cost   |
+|--------|--------|
+| Ale    |        |
+| Gallon | 2 sp   |
+| Mug    | 4 cp   |
 
-| Banquet	(per	person) | 10	gp |
-|----------------------|-------|
-| Bread,	loaf          | 2	cp  |
-| Cheese,	hunk         | 1	sp  |
-| Inn	stay	(per	day)   |       |
-| Squalid              | 7	cp  |
-| Poor                 | 1	sp  |
-| Modest               | 5	sp  |
-| Comfortable          | 8	sp  |
-| Wealthy              | 2	gp  |
-| Aristocratic         | 4	gp  |
-| Meals	(per	day)      |       |
-| Squalid              | 3	cp  |
-| Poor                 | 6	cp  |
-| Modest               | 3	sp  |
-| Comfortable          | 5	sp  |
-| Wealthy              | 8	sp  |
-| Aristocratic         | 2	gp  |
-| Meat,	chunk          | 3	sp  |
-| Wine                 |       |
-| Common	(pitcher)     | 2	sp  |
-| Fine	(bottle)        | 10	gp |
+| Banquet (per person)   | 10 gp   |
+|------------------------|---------|
+| Bread, loaf            | 2 cp    |
+| Cheese, hunk           | 1 sp    |
+| Inn stay (per day)     |         |
+| Squalid                | 7 cp    |
+| Poor                   | 1 sp    |
+| Modest                 | 5 sp    |
+| Comfortable            | 8 sp    |
+| Wealthy                | 2 gp    |
+| Aristocratic           | 4 gp    |
+| Meals (per day)        |         |
+| Squalid                | 3 cp    |
+| Poor                   | 6 cp    |
+| Modest                 | 3 sp    |
+| Comfortable            | 5 sp    |
+| Wealthy                | 8 sp    |
+| Aristocratic           | 2 gp    |
+| Meat, chunk            | 3 sp    |
+| Wine                   |         |
+| Common (pitcher)       | 2 sp    |
+| Fine (bottle)          | 10 gp   |
 
 # **Services**
 
@@ -3944,15 +3933,15 @@ Other hirelings provide more expert or dangerous services. Mercenary soldiers pa
 
 | Service           | Pay           |
 |-------------------|---------------|
-| Coach	cab         |               |
-| Between	towns     | 3	cp	per	mile |
-| Within	a	city     | 1	cp          |
+| Coach cab         |               |
+| Between towns     | 3 cp per mile |
+| Within a city     | 1 cp          |
 | Hireling          |               |
-| Skilled           | 2	gp	per	day  |
-| Untrained         | 2	sp	per	day  |
-| Messenger         | 2	cp	per	mile |
-| Road	or	gate	toll | 1	cp          |
-| Ship's	passage    | 1	sp	per	mile |
+| Skilled           | 2 gp per day  |
+| Untrained         | 2 sp per day  |
+| Messenger         | 2 cp per mile |
+| Road or gate toll | 1 cp          |
+| Ship's passage    | 1 sp per mile |
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
 
@@ -4000,30 +3989,30 @@ Each of a creature's abilities has a score, a number that defines the magnitude 
 
 A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
 
-Each ability also has a modifier, derived from the score and ranging from −5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
+Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
 
 ## **Ability Scores and Modifiers**
 
-| Score | Modifier |
-|-------|----------|
-| 1     | −5       |
-| 2–3   | −4       |
-| 4–5   | −3       |
-| 6–7   | −2       |
-| 8–9   | −1       |
-| 10–11 | +0       |
+| Score   |   Modifier |
+|---------|------------|
+| 1       |         -5 |
+| 2–3     |         -4 |
+| 4–5     |         -3 |
+| 6–7     |         -2 |
+| 8–9     |         -1 |
+| 10–11   |         +0 |
 
-| 12–13 | +1  |
-|-------|-----|
-| 14–15 | +2  |
-| 16–17 | +3  |
-| 18–19 | +4  |
-| 20–21 | +5  |
-| 22–23 | +6  |
-| 24–25 | +7  |
-| 26–27 | +8  |
-| 28–29 | +9  |
-| 30    | +10 |
+| 12–13   |   +1 |
+|---------|------|
+| 14–15   |   +2 |
+| 16–17   |   +3 |
+| 18–19   |   +4 |
+| 20–21   |   +5 |
+| 22–23   |   +6 |
+| 24–25   |   +7 |
+| 26–27   |   +8 |
+| 28–29   |   +9 |
+| 30      |  +10 |
 
 To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
 
@@ -4063,14 +4052,14 @@ For every ability check, the GM decides which of the six abilities is relevant t
 
 ## **Typical Difficulty Classes**
 
-| Task	Difficulty   | DC |
-|-------------------|----|
-| Very	easy         | 5  |
-| Easy              | 10 |
-| Medium            | 15 |
-| Hard              | 20 |
-| Very	hard         | 25 |
-| Nearly	impossible | 30 |
+| Task Difficulty   |   DC |
+|-------------------|------|
+| Very easy         |    5 |
+| Easy              |   10 |
+| Medium            |   15 |
+| Hard              |   20 |
+| Very hard         |   25 |
+| Nearly impossible |   30 |
 
 To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
 
@@ -4084,7 +4073,7 @@ If the contest results in a tie, the situation remains the same as it was before
 
 # **Skills**
 
-Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an  ability score, and an individual's proficiency in a skill demonstrates a focus on that aspect. (A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in the monster's stat block.)
+Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual's proficiency in a skill demonstrates a focus on that aspect. (A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in the monster's stat block.)
 
 For example, a Dexterity check might reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: Acrobatics, Sleight of Hand, and Stealth, respectively. So a character who has proficiency in the Stealth skill is particularly good at Dexterity checks related to sneaking and hiding.
 
@@ -4123,7 +4112,7 @@ The skills related to each ability score are shown in the following list. (No sk
 - Performance
 - Persuasion
 
-Sometimes, the GM might ask for an ability check using a specific skill—for example, "Make a Wisdom (Perception) check." At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means  an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
+Sometimes, the GM might ask for an ability check using a specific skill—for example, "Make a Wisdom (Perception) check." At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 
 For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character's proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.
 
@@ -4194,7 +4183,7 @@ You add your Strength modifier to your attack roll and your damage roll when att
 
 Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry.
 
-*Carrying Capacity.* Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough  that most characters don't usually have to worry about it.
+*Carrying Capacity.* Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it.
 
 *Push, Drag, or Lift.* You can push, drag, or lift a weight in pounds up to twice your carrying capacity (or 30 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 5 feet.
 
@@ -4426,15 +4415,15 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
 
 #### **Pace Distance Traveled per . . .**
 
-|        | Minute | Hour  | Day   | Effect                |
-|--------|--------|-------|-------|-----------------------|
-| Fast   | 400    | 4     | 30    | −5	penalty	to	passive |
-|        | feet   | miles | miles | Wisdom	(Perception)   |
-|        |        |       |       | scores                |
-| Normal | 300    | 3     | 24    | —                     |
-|        | feet   | miles | miles |                       |
-| Slow   | 200    | 2     | 18    | Able	to	use	stealth   |
-|        | feet   | miles | miles |                       |
+|        | Minute   | Hour   | Day   | Effect                |
+|--------|----------|--------|-------|-----------------------|
+| Fast   | 400      | 4      | 30    | -5 penalty to passive |
+|        | feet     | miles  | miles | Wisdom (Perception)   |
+|        |          |        |       | scores                |
+| Normal | 300      | 3      | 24    | —                     |
+|        | feet     | miles  | miles |                       |
+| Slow   | 200      | 2      | 18    | Able to use stealth   |
+|        | feet     | miles  | miles |                       |
 
 #### **Difficult Terrain**
 
@@ -4492,7 +4481,7 @@ A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—b
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
-**Bright light** lets most creatures see normally. Even gloomy days provide bright light, as do torches,  lanterns, fires, and other sources of illumination within a specific radius.
+**Bright light** lets most creatures see normally. Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.
 
 **Dim light**, also called shadows, creates a lightly obscured area. An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness. The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.
 
@@ -4630,7 +4619,7 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 #### **Combat Step by Step**
 
 - **1. Determine surprise.** The GM determines whether anyone involved in the combat encounter is surprised.
-- **2. Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are̶how far away and in what direction.
+- **2. Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are—how far away and in what direction.
 - **3. Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.
 - **4. Take turns.** Each participant in the battle takes a turn in initiative order.
 - **5. Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
@@ -4777,12 +4766,12 @@ Each creature takes up a different amount of space. The Size Categories table sh
 
 | Size       | Space                  |
 |------------|------------------------|
-| Tiny       | 2½	by	2½	ft.           |
-| Small      | 5	by	5	ft.             |
-| Medium     | 5	by	5	ft.             |
-| Large      | 10	by	10	ft.           |
-| Huge       | 15	by	15	ft.           |
-| Gargantuan | 20	by	20	ft.	or	larger |
+| Tiny       | 2½ by 2½ ft.           |
+| Small      | 5 by 5 ft.             |
+| Medium     | 5 by 5 ft.             |
+| Large      | 10 by 10 ft.           |
+| Huge       | 15 by 15 ft.           |
+| Gargantuan | 20 by 20 ft. or larger |
 
 # **Space**
 
@@ -4870,7 +4859,7 @@ If there's ever any question whether something you're doing counts as an attack,
 
 # **Attack Rolls**
 
-When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armor Class  (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
+When you make an attack, your attack roll determines whether the attack hits or misses. To make an attack roll, roll a d20 and add the appropriate modifiers. If the total of the roll plus modifiers equals or exceeds the target's Armor Class (AC), the attack hits. The AC of a character is determined at character creation, whereas the AC of a monster is in its stat block.
 
 ## **Modifiers to the Roll**
 
@@ -5074,7 +5063,7 @@ Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A suc
 
 The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn't killed by a failed death saving throw.
 
-You can use your action to administer first aid to an unconscious creature and attempt to stabilize it,  which requires a successful DC 10 Wisdom (Medicine) check.
+You can use your action to administer first aid to an unconscious creature and attempt to stabilize it, which requires a successful DC 10 Wisdom (Medicine) check.
 
 A **stable** creature doesn't make death saving throws, even though it has 0 hit points, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after 1d4 hours.
 
@@ -5098,7 +5087,7 @@ Because temporary hit points are separate from your actual hit points, they can 
 
 Healing can't restore temporary hit points, and they can't be added together. If you have temporary hit points and receive more of them, you decide whether to keep the ones you have or to gain the new ones. For example, if a spell grants you 12 temporary hit points when you already have 10, you can have 12 or 10, not 22.
 
-If you have 0 hit points, receiving temporary hit points doesn't restore you to consciousness or stabilize you. They can still absorb damage directed  at you while you're in that state, but only true healing can save you.
+If you have 0 hit points, receiving temporary hit points doesn't restore you to consciousness or stabilize you. They can still absorb damage directed at you while you're in that state, but only true healing can save you.
 
 Unless a feature that grants you temporary hit points has a duration, they last until they're depleted or you finish a long rest.
 
@@ -5212,7 +5201,7 @@ A spell cast with a bonus action is especially swift. You must use a bonus actio
 
 # **Reactions**
 
-Some spells can be cast as reactions. These spells take a fraction of a second to bring about and are cast in response to some event. If a spell can be cast  as a reaction, the spell description tells you exactly when you can do so.
+Some spells can be cast as reactions. These spells take a fraction of a second to bring about and are cast in response to some event. If a spell can be cast as a reaction, the spell description tells you exactly when you can do so.
 
 # **Longer Casting Times**
 
@@ -5238,7 +5227,7 @@ Most spells require the chanting of mystic words. The words themselves aren't th
 
 # **Somatic (S)**
 
-Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell  requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
+Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
 
 # **Material (M)**
 
@@ -5819,13 +5808,13 @@ particular chamber or corridor. If you issue no commands, the creature only defe
 
 #### **Animated Object Statistics**
 
-| Size   | HP | AC | Attack                        | Str | Dex |
-|--------|----|----|-------------------------------|-----|-----|
-| Tiny   | 20 | 18 | +8	to	hit,	1d4	+	4	damage     | 4   | 18  |
-| Small  | 25 | 16 | +6	to	hit,	1d8	+	2	damage     | 6   | 14  |
-| Medium | 40 | 13 | +5	to	hit,	2d6	+	1	damage     | 10  | 12  |
-| Large  | 50 | 10 | +6	to	hit,	2d10	+	2<br>damage | 14  | 10  |
-| Huge   | 80 | 10 | +8	to	hit,	2d12	+	4<br>damage | 18  | 6   |
+| Size   |   HP |   AC | Attack                     |   Str |   Dex |
+|--------|------|------|----------------------------|-------|-------|
+| Tiny   |   20 |   18 | +8 to hit, 1d4 + 4 damage  |     4 |    18 |
+| Small  |   25 |   16 | +6 to hit, 1d8 + 2 damage  |     6 |    14 |
+| Medium |   40 |   13 | +5 to hit, 2d6 + 1 damage  |    10 |    12 |
+| Large  |   50 |   10 | +6 to hit, 2d10 + 2 damage |    14 |    10 |
+| Huge   |   80 |   10 | +8 to hit, 2d12 + 4 damage |    18 |     6 |
 
 An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determined by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet; if the object lacks legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or a larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it reverts to its original object form, and any remaining damage carries over to its original object form.
 
@@ -6078,7 +6067,7 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 **Casting Time:** 1 action **Range:** Touch **Components:** V, S **Duration:** Concentration, up to 1 minute
 
-You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast  this spell, choose the nature of the curse from the following options:
+You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
 
 - Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
 - While cursed, the target has disadvantage on attack rolls against you.
@@ -6217,7 +6206,7 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 
 You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.
 
-Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any  of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.
+Alternatively, you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it witnesses any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the GM rules otherwise.
 
 ## **Chain Lightning**
 
@@ -6333,7 +6322,7 @@ Starting with the creature that has the lowest current hit points, each creature
 
 You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it.
 
-Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how  the target behaves. If the target can't follow your command, the spell ends.
+Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the GM determines how the target behaves. If the target can't follow your command, the spell ends.
 
 *Approach.* The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
 
@@ -6611,7 +6600,7 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 **Casting Time:** 1 action **Range:** Touch **Components:** V, S, M (ruby dust worth 50 gp, which the spell consumes) **Duration:** Until dispelled
 
-A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks  like a regular flame, but it creates no heat and doesn't use oxygen. A *continual flame* can be covered or hidden but not smothered or quenched.
+A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A *continual flame* can be covered or hidden but not smothered or quenched.
 
 ## **Control Water**
 
@@ -6657,9 +6646,9 @@ When you change the weather conditions, find a current condition on the followin
 
 ## **Precipitation**
 
-| Stage | Condition |
-|-------|-----------|
-| 1     | Clear     |
+|   Stage | Condition   |
+|---------|-------------|
+|       1 | Clear       |
 
 - 2 Light clouds
 - 3 Overcast or ground fog
@@ -6668,24 +6657,24 @@ When you change the weather conditions, find a current condition on the followin
 
 ## **Temperature**
 
-| Stage | Condition       |
-|-------|-----------------|
-| 1     | Unbearable	heat |
-| 2     | Hot             |
-| 3     | Warm            |
-| 4     | Cool            |
-| 5     | Cold            |
-| 6     | Arctic	cold     |
+|   Stage | Condition       |
+|---------|-----------------|
+|       1 | Unbearable heat |
+|       2 | Hot             |
+|       3 | Warm            |
+|       4 | Cool            |
+|       5 | Cold            |
+|       6 | Arctic cold     |
 
 #### **Wind**
 
-| Stage | Condition     |
-|-------|---------------|
-| 1     | Calm          |
-| 2     | Moderate	wind |
-| 3     | Strong	wind   |
-| 4     | Gale          |
-| 5     | Storm         |
+|   Stage | Condition     |
+|---------|---------------|
+|       1 | Calm          |
+|       2 | Moderate wind |
+|       3 | Strong wind   |
+|       4 | Gale          |
+|       5 | Storm         |
 
 # **Counterspell**
 
@@ -6737,7 +6726,7 @@ You can cast this spell only at night. Choose up to three corpses of Medium or S
 
 As a bonus action on each of your turns, you can mentally command any creature you animated with this spell if the creature is within 120 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
-The creature is under your control for 24 hours, after which it stops obeying any command you have  given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
+The creature is under your control for 24 hours, after which it stops obeying any command you have given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
 
 *At Higher Levels.* When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
 
@@ -6753,11 +6742,11 @@ The duration depends on the object's material. If the object is composed of mult
 
 | Material              | Duration   |
 |-----------------------|------------|
-| Vegetable	matter      | 1	day      |
-| Stone	or	crystal      | 12	hours   |
-| Precious	metals       | 1	hour     |
-| Gems                  | 10	minutes |
-| Adamantine	or	mithral | 1	minute   |
+| Vegetable matter      | 1 day      |
+| Stone or crystal      | 12 hours   |
+| Precious metals       | 1 hour     |
+| Gems                  | 10 minutes |
+| Adamantine or mithral | 1 minute   |
 
 Using any material created by this spell as another spell's material component causes that spell to fail.
 
@@ -7237,7 +7226,7 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 *Asleep.* The target falls unconscious. It wakes up if it takes any damage or if another creature uses its action to shake the sleeper awake.
 
-*Panicked.* The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet  away from you where it can no longer see you, this effect ends.
+*Panicked.* The target is frightened of you. On each of its turns, the frightened creature must take the Dash action and move away from you by the safest and shortest available route, unless there is nowhere to move. If the target moves to a place at least 60 feet away from you where it can no longer see you, this effect ends.
 
 *Sickened.* The target has disadvantage on attack rolls and ability checks. At the end of each of its turns, it can make another Wisdom saving throw. If it succeeds, the effect ends.
 
@@ -7501,7 +7490,7 @@ When you move the sphere, you can direct it over barriers up to 5 feet tall and 
 
 You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is restrained as its flesh begins to harden. On a successful save, the creature isn't affected.
 
-A creature restrained by this spell must make another Constitution saving throw at the end of each  of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
+A creature restrained by this spell must make another Constitution saving throw at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and subjected to the petrified condition for the duration. The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
 
 If the creature is physically broken while petrified, it suffers from similar deformities if it reverts to its original state.
 
@@ -8196,7 +8185,7 @@ If another creature is holding or carrying the item, crushing the sapphire doesn
 
 **Duration:** Concentration, up to 1 hour
 
-A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's  person. The spell ends for a target that attacks or casts a spell.
+A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.
 
 *At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
 
@@ -8766,7 +8755,7 @@ Payment can take a variety of forms. A celestial might require a sizable donatio
 
 As a rule of thumb, a task that can be measured in minutes requires a payment worth 100 gp per minute. A task measured in hours requires 1,000 gp per hour. And a task measured in days (up to 10 days) requires 10,000 gp per day. The GM can adjust these payments based on the circumstances under which you cast the spell. If the task is aligned with the creature's ethos, the payment might be halved or even waived. Nonhazardous tasks typically require only half the suggested payment, while especially dangerous tasks might require a greater gift. Creatures rarely accept tasks that seem suicidal.
 
-After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you, if appropriate to the task and if possible.  If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane.
+After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you, if appropriate to the task and if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane.
 
 A creature enlisted to join your group counts as a member of it, receiving a full share of experience points awarded.
 
@@ -8921,7 +8910,7 @@ The wall consists of seven layers, each with a different color. When a creature 
 
 The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. A *rod of cancellation* destroys a *prismatic wall*, but an *antimagic field* has no effect on it.
 
-*1. Red.* The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged  attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
+*1. Red.* The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
 
 *2. Orange.* The creature takes 10d6 acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
 
@@ -9052,7 +9041,7 @@ This spell also neutralizes any poisons and cures nonmagical diseases that affec
 
 This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.
 
-Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
+Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
 # **Ray of Enfeeblement**
 
@@ -9094,22 +9083,22 @@ You touch a dead humanoid or a piece of a dead humanoid. Provided that the creat
 
 The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The GM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the GM chooses a form.
 
-| d100  | Race                |
-|-------|---------------------|
-| 01–04 | Dragonborn          |
-| 05–13 | Dwarf,	hill         |
-| 14–21 | Dwarf,	mountain     |
-| 22–25 | Elf,	dark           |
-| 26–34 | Elf,	high           |
-| 35–42 | Elf,	wood           |
-| 43–46 | Gnome,	forest       |
-| 47–52 | Gnome,	rock         |
-| 53–56 | Half-elf            |
-| 57–60 | Half-orc            |
-| 61–68 | Halfling,	lightfoot |
-| 69–76 | Halfling,	stout     |
-| 77–96 | Human               |
-| 97–00 | Tiefling            |
+| d100   | Race                |
+|--------|---------------------|
+| 01–04  | Dragonborn          |
+| 05–13  | Dwarf, hill         |
+| 14–21  | Dwarf, mountain     |
+| 22–25  | Elf, dark           |
+| 26–34  | Elf, high           |
+| 35–42  | Elf, wood           |
+| 43–46  | Gnome, forest       |
+| 47–52  | Gnome, rock         |
+| 53–56  | Half-elf            |
+| 57–60  | Half-orc            |
+| 61–68  | Halfling, lightfoot |
+| 69–76  | Halfling, stout     |
+| 77–96  | Human               |
+| 97–00  | Tiefling            |
 
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 
@@ -9161,7 +9150,7 @@ This spell neutralizes any poisons and cures normal diseases afflicting the crea
 
 This spell closes all mortal wounds and restores any missing body parts.
 
-Coming back from the dead is an ordeal. The target takes a −4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
+Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
 Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
 
@@ -9243,15 +9232,15 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
-| Knowledge                                         | Save	Modifier |
-|---------------------------------------------------|---------------|
-| Secondhand	(you	have	heard	of	the	target)         | +5            |
-| Firsthand	(you	have	met	the	target)               | +0            |
-| Familiar	(you	know	the	target	well)               | −5            |
-| Connection                                        | Save	Modifier |
-| Likeness	or	picture                               | −2            |
-| Possession	or	garment                             | −4            |
-| Body	part,	lock	of	hair,	bit	of	nail,	or	the	like | −10           |
+| Knowledge                                         | Save Modifier   |
+|---------------------------------------------------|-----------------|
+| Secondhand (you have heard of the target)         | +5              |
+| Firsthand (you have met the target)               | +0              |
+| Familiar (you know the target well)               | -5              |
+| Connection                                        | Save Modifier   |
+| Likeness or picture                               | -2              |
+| Possession or garment                             | -4              |
+| Body part, lock of hair, bit of nail, or the like | -10             |
 
 On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.
 
@@ -9279,7 +9268,7 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 
 **Casting Time:** 1 action **Range:** Self **Components:** V, S, M (a pinch of talc and a small sprinkling of powdered silver) **Duration:** 1 hour
 
-For the duration, you see invisible creatures and objects as if they were visible, and you can see into  the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
+For the duration, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
 #### **Seeming**
 
@@ -9466,7 +9455,7 @@ If a creature is concentrating in the spell's area, the creature must make a suc
 
 You alter time around up to six creatures of your choice in a 40-foot cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
 
-An affected target's speed is halved, it takes a −2 penalty to AC and Dexterity saving throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
+An affected target's speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, and it can't use reactions. On its turn, it can use either an action or a bonus action, not both. Regardless of the creature's abilities or magic items, it can't make more than one melee or ranged attack during its turn.
 
 If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn't take effect until the creature's next turn, and the creature must use its action on that turn to complete the spell. If it can't, the spell is wasted.
 
@@ -9694,7 +9683,7 @@ When you inscribe the glyph, choose one of the options below for its effect. Onc
 
 You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and as your action each round for the duration, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round, or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
 
-*Creature.* You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the  creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is restrained in your telekinetic grip. A creature lifted upward is suspended in mid-air.
+*Creature.* You can try to move a Huge or smaller creature. Make an ability check with your spellcasting ability contested by the creature's Strength check. If you win the contest, you move the creature up to 30 feet in any direction, including upward but not beyond the range of this spell. Until the end of your next turn, the creature is restrained in your telekinetic grip. A creature lifted upward is suspended in mid-air.
 
 On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature by repeating the contest.
 
@@ -9726,16 +9715,16 @@ within range, to a destination you select. If you target an object, it must be a
 
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
 
-|                      |        | Similar | Off    | On     |
-|----------------------|--------|---------|--------|--------|
-| Familiarity          | Mishap | Area    | Target | Target |
-| Permanent<br>circle  | —      | —       | —      | 01–100 |
-| Associated<br>object | —      | —       | —      | 01–100 |
-| Very	familiar        | 01–05  | 06–13   | 14–24  | 25–100 |
-| Seen	casually        | 01–33  | 34–43   | 44–53  | 54–100 |
-| Viewed	once          | 01–43  | 44–53   | 54–73  | 74–100 |
-| Description          | 01–43  | 44–53   | 54–73  | 74–100 |
-| False<br>destination | 01–50  | 51–100  | —      | —      |
+|                   |        | Similar   | Off    | On     |
+|-------------------|--------|-----------|--------|--------|
+| Familiarity       | Mishap | Area      | Target | Target |
+| Permanent circle  | —      | —         | —      | 01–100 |
+| Associated object | —      | —         | —      | 01–100 |
+| Very familiar     | 01–05  | 06–13     | 14–24  | 25–100 |
+| Seen casually     | 01–33  | 34–43     | 44–53  | 54–100 |
+| Viewed once       | 01–43  | 44–53     | 54–73  | 74–100 |
+| Description       | 01–43  | 44–53     | 54–73  | 74–100 |
+| False destination | 01–50  | 51–100    | —      | —      |
 
 *Familiarity.* "Permanent circle" means a permanent teleportation circle whose sigil sequence you know. "Associated object" means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard's library, bed linen from a royal suite, or a chunk of marble from a lich's secret tomb.
 
@@ -10120,7 +10109,7 @@ Alternatively, you can create one of the following effects of your choice:
 - You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich's life drain attack.
 - You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a *wish* spell could undo an opponent's successful save, a foe's critical hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.
 
-You might be able to achieve something beyond the scope of the above examples. State your wish to the  GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item's current owner.
+You might be able to achieve something beyond the scope of the above examples. State your wish to the GM as precisely as possible. The GM has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence as a result of how you worded the wish. For example, wishing that a villain were dead might propel you forward in time to a period when that villain is no longer alive, effectively removing you from the game. Similarly, wishing for a legendary magic item or artifact might instantly transport you to the presence of the item's current owner.
 
 The stress of casting this spell to produce any effect other than duplicating another spell weakens you. After enduring that stress, each time you cast a spell until you finish a long rest, you take 1d10 necrotic damage per level of that spell. This damage can't be reduced or prevented in any way. In addition, your Strength drops to 3, if it isn't 3 or lower already, for 2d4 days. For each of those days that you spend resting and doing nothing more than light activity, your remaining recovery time decreases by 2 days. Finally, there is a 33 percent chance that you are unable to cast *wish* ever again if you suffer this stress.
 
@@ -10186,20 +10175,20 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 
 ### **Trap Save DCs and Attack Bonuses**
 
-| Trap	Danger | Save	DC | Attack	Bonus |
-|-------------|---------|--------------|
-| Setback     | 10–11   | +3	to	+5     |
-| Dangerous   | 12–15   | +6	to	+8     |
-| Deadly      | 16–20   | +9	to	+12    |
+| Trap Danger   | Save DC   | Attack Bonus   |
+|---------------|-----------|----------------|
+| Setback       | 10–11     | +3 to +5       |
+| Dangerous     | 12–15     | +6 to +8       |
+| Deadly        | 16–20     | +9 to +12      |
 
 ## **Damage Severity by Level**
 
-| Character	Level | Setback | Dangerous | Deadly |
-|-----------------|---------|-----------|--------|
-| 1st–4th         | 1d10    | 2d10      | 4d10   |
-| 5th–10th        | 2d10    | 4d10      | 10d10  |
-| 11th–16th       | 4d10    | 10d10     | 18d10  |
-| 17th–20th       | 10d10   | 18d10     | 24d10  |
+| Character Level   | Setback   | Dangerous   | Deadly   |
+|-------------------|-----------|-------------|----------|
+| 1st–4th           | 1d10      | 2d10        | 4d10     |
+| 5th–10th          | 2d10      | 4d10        | 10d10    |
+| 11th–16th         | 4d10      | 10d10       | 18d10    |
+| 17th–20th         | 10d10     | 18d10       | 24d10    |
 
 ## **Complex Traps**
 
@@ -10363,7 +10352,7 @@ At the end of each long rest, an infected creature must make a DC 11 Constitutio
 
 This painful infection causes bleeding from the eyes and eventually blinds the victim.
 
-A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature's vision starts to become blurry. The creature takes a −1 penalty to attack rolls and ability checks that rely on sight. At the end  of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches −5, the victim is blinded until its sight is restored by magic such as *lesser restoration* or *heal*.
+A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature's vision starts to become blurry. The creature takes a -1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches -5, the victim is blinded until its sight is restored by magic such as *lesser restoration* or *heal*.
 
 Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an herbalism kit can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely.
 
@@ -10389,67 +10378,67 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 ## **Short-Term Madness**
 
-| d100  | Effect	(lasts	1d10	minutes)                                                                                                        |
-|-------|------------------------------------------------------------------------------------------------------------------------------------|
-| 01–20 | The	character	retreats	into	his	or	her	mind	and<br>becomes	paralyzed.	The	effect	ends	if	the<br>character	takes	any	damage.        |
-| 21–30 | The	character	becomes	incapacitated	and<br>spends	the	duration	screaming,	laughing,	or<br>weeping.                                 |
-| 31–40 | The	character	becomes	frightened	and	must<br>use	his	or	her	action	and	movement	each<br>round	to	flee	from	the	source	of	the	fear. |
+| d100   | Effect (lasts 1d10 minutes)                                                                                                  |
+|--------|------------------------------------------------------------------------------------------------------------------------------|
+| 01–20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
+| 21–30  | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
+| 31–40  | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear. |
 
 41–50 The character begins babbling and is incapable of normal speech or spellcasting.
 
-|  | 51–60  | The	character	must	use	his	or	her	action	each<br>round	to	attack	the	nearest	creature.                       |
-|--|--------|--------------------------------------------------------------------------------------------------------------|
-|  | 61–70  | The	character	experiences	vivid	hallucinations<br>and	has	disadvantage	on	ability	checks.                    |
-|  | 71–75  | The	character	does	whatever	anyone	tells	him<br>or	her	to	do	that	isn't	obviously	self<br>destructive.       |
-|  | 76–80  | The	character	experiences	an	overpowering<br>urge	to	eat	something	strange	such	as	dirt,<br>slime,	or	offal. |
-|  | 81–90  | The	character	is	stunned.                                                                                    |
-|  | 91–100 | The	character	falls	unconscious.                                                                             |
+|    | 51–60   | The character must use his or her action each round to attack the nearest creature.                    |
+|----|---------|--------------------------------------------------------------------------------------------------------|
+|    | 61–70   | The character experiences vivid hallucinations and has disadvantage on ability checks.                 |
+|    | 71–75   | The character does whatever anyone tells him or her to do that isn't obviously self destructive.       |
+|    | 76–80   | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal. |
+|    | 81–90   | The character is stunned.                                                                              |
+|    | 91–100  | The character falls unconscious.                                                                       |
 
 ## **Long-Term Madness**
 
-| d100   | Effect	(lasts	1d10	×	10	hours)                                                                                                                                                                                                                   |
-|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 01–10  | The	character	feels	compelled	to	repeat	a<br>specific	activity	over	and	over,	such	as	washing<br>hands,	touching	things,	praying,	or	counting<br>coins.                                                                                          |
-| 11–20  | The	character	experiences	vivid	hallucinations<br>and	has	disadvantage	on	ability	checks.                                                                                                                                                        |
-| 21–30  | The	character	suffers	extreme	paranoia.	The<br>character	has	disadvantage	on	Wisdom	and<br>Charisma	checks.                                                                                                                                      |
-| 31–40  | The	character	regards	something	(usually	the<br>source	of	madness)	with	intense	revulsion,	as	if<br>affected	by	the	antipathy	effect	of	the<br>antipathy/sympathy	spell.                                                                         |
-| 41–45  | The	character	experiences	a	powerful	delusion.<br>Choose	a	potion.	The	character	imagines	that<br>he	or	she	is	under	its	effects.                                                                                                                |
-| 46–55  | The	character	becomes	attached	to	a	"lucky<br>charm,"	such	as	a	person	or	an	object,	and	has<br>disadvantage	on	attack	rolls,	ability	checks,	and<br>saving	throws	while	more	than	30	feet	from	it.                                              |
-| 56–65  | The	character	is	blinded	(25%)	or	deafened<br>(75%).                                                                                                                                                                                             |
-| 66–75  | The	character	experiences	uncontrollable<br>tremors	or	tics,	which	impose	disadvantage	on<br>attack	rolls,	ability	checks,	and	saving	throws<br>that	involve	Strength	or	Dexterity.                                                              |
-| 76–85  | The	character	suffers	from	partial	amnesia.	The<br>character	knows	who	he	or	she	is	and	retains<br>racial	traits	and	class	features,	but	doesn't<br>recognize	other	people	or	remember	anything<br>that	happened	before	the	madness	took	effect. |
-| 86–90  | Whenever	the	character	takes	damage,	he	or<br>she	must	succeed	on	a	DC	15	Wisdom	saving<br>throw	or	be	affected	as	though	he	or	she	failed<br>a	saving	throw	against	the	confusion	spell.	The<br>confusion	effect	lasts	for	1	minute.            |
-| 91–95  | The	character	loses	the	ability	to	speak.                                                                                                                                                                                                        |
-| 96–100 | The	character	falls	unconscious.	No	amount	of<br>jostling	or	damage	can	wake	the	character.                                                                                                                                                      |
+| d100   | Effect (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01–10  | The character feels compelled to repeat a specific activity over and over, such as washing hands, touching things, praying, or counting coins.                                                                                       |
+| 11–20  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                                                                                                                               |
+| 21–30  | The character suffers extreme paranoia. The character has disadvantage on Wisdom and Charisma checks.                                                                                                                                |
+| 31–40  | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the antipathy/sympathy spell.                                                                      |
+| 41–45  | The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects.                                                                                                          |
+| 46–55  | The character becomes attached to a "lucky charm," such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it.                                           |
+| 56–65  | The character is blinded (25%) or deafened (75%).                                                                                                                                                                                    |
+| 66–75  | The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity.                                                           |
+| 76–85  | The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn't recognize other people or remember anything that happened before the madness took effect. |
+| 86–90  | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the confusion spell. The confusion effect lasts for 1 minute.            |
+| 91–95  | The character loses the ability to speak.                                                                                                                                                                                            |
+| 96–100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
 
 #### **Indefinite Madness**
 
-| d100   | Flaw	(lasts	until	cured)                             |
+| d100   | Flaw (lasts until cured)                             |
 |--------|------------------------------------------------------|
-| 01–15  | "Being	drunk	keeps	me	sane."                         |
-| 16–25  | "I	keep	whatever	I	find."                            |
-| 26–30  | "I	try	to	become	more	like	someone	else	I            |
-|        | know—adopting	his	or	her	style	of	dress,             |
-|        | mannerisms,	and	name."                               |
-| 31–35  | "I	must	bend	the	truth,	exaggerate,	or	outright      |
-|        | lie	to	be	interesting	to	other	people."              |
-| 36–45  | "Achieving	my	goal	is	the	only	thing	of	interest     |
-|        | to me,	and	I'll	ignore	everything	else	to	pursue     |
+| 01–15  | "Being drunk keeps me sane."                         |
+| 16–25  | "I keep whatever I find."                            |
+| 26–30  | "I try to become more like someone else I            |
+|        | know—adopting his or her style of dress,             |
+|        | mannerisms, and name."                               |
+| 31–35  | "I must bend the truth, exaggerate, or outright      |
+|        | lie to be interesting to other people."              |
+| 36–45  | "Achieving my goal is the only thing of interest     |
+|        | to me, and I'll ignore everything else to pursue     |
 |        | it."                                                 |
-| 46–50  | "I	find	it	hard	to	care	about	anything	that	goes     |
-|        | on	around	me."                                       |
-| 51–55  | "I	don't	like	the	way	people	judge	me	all	the        |
+| 46–50  | "I find it hard to care about anything that goes     |
+|        | on around me."                                       |
+| 51–55  | "I don't like the way people judge me all the        |
 |        | time."                                               |
-| 56–70  | "I	am	the	smartest,	wisest,	strongest,	fastest,      |
-|        | and	most	beautiful person	I	know."                   |
-| 71–80  | "I	am	convinced	that	powerful	enemies	are            |
-|        | hunting	me,	and	their	agents	are	everywhere	I        |
-|        | go.	I	am	sure	they're	watching	me	all	the	time."     |
-| 81–85  | "There's	only	one	person	I	can	trust.	And	only	I     |
-|        | can	see	this	special	friend."                        |
-| 86–95  | "I can't	take	anything	seriously.	The	more           |
-|        | serious	the	situation,	the	funnier	I	find	it."       |
-| 96–100 | "I've	discovered	that	I	really	like	killing	people." |
+| 56–70  | "I am the smartest, wisest, strongest, fastest,      |
+|        | and most beautiful person I know."                   |
+| 71–80  | "I am convinced that powerful enemies are            |
+|        | hunting me, and their agents are everywhere I        |
+|        | go. I am sure they're watching me all the time."     |
+| 81–85  | "There's only one person I can trust. And only I     |
+|        | can see this special friend."                        |
+| 86–95  | "I can't take anything seriously. The more           |
+|        | serious the situation, the funnier I find it."       |
+| 96–100 | "I've discovered that I really like killing people." |
 
 # **Curing Madness**
 
@@ -10469,26 +10458,26 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 #### **Object Armor Class**
 
-| Substance           | AC |
-|---------------------|----|
-| Cloth,	paper,	rope  | 11 |
-| Crystal,	glass,	ice | 13 |
-| Wood,	bone          | 15 |
-| Stone               | 17 |
-| Iron,	steel         | 19 |
-| Mithral             | 21 |
-| Adamantine          | 23 |
+| Substance           |   AC |
+|---------------------|------|
+| Cloth, paper, rope  |   11 |
+| Crystal, glass, ice |   13 |
+| Wood, bone          |   15 |
+| Stone               |   17 |
+| Iron, steel         |   19 |
+| Mithral             |   21 |
+| Adamantine          |   23 |
 
 *Hit Points.* An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
 #### **Object Hit Points**
 
-| Size                                  | Fragile  | Resilient |
-|---------------------------------------|----------|-----------|
-| Tiny	(bottle,	lock)                   | 2	(1d4)  | 5	(2d4)   |
-| Small	(chest,	lute)                   | 3	(1d6)  | 10	(3d6)  |
-| Medium	(barrel,	chandelier)           | 4	(1d8)  | 18	(4d8)  |
-| Large	(cart,	10-ft.-by-10-ft.	window) | 5	(1d10) | 27	(5d10) |
+| Size                                  | Fragile   | Resilient   |
+|---------------------------------------|-----------|-------------|
+| Tiny (bottle, lock)                   | 2 (1d4)   | 5 (2d4)     |
+| Small (chest, lute)                   | 3 (1d6)   | 10 (3d6)    |
+| Medium (barrel, chandelier)           | 4 (1d8)   | 18 (4d8)    |
+| Large (cart, 10-ft.-by-10-ft. window) | 5 (1d10)  | 27 (5d10)   |
 
 *Huge and Gargantuan Objects.* Normal weapons are of little use against many Huge and Gargantuan objects, such as a colossal statue, towering column of stone, or massive boulder. That said, one torch can burn a Huge tapestry, and an *earthquake* spell can reduce a colossus to rubble. You can track a Huge or Gargantuan object's hit points if you like, or you can simply decide how long the object can withstand whatever weapon or force is acting against it. If you track hit points for the object, divide it into Large or smaller sections, and track each section's hit points separately. Destroying one of those sections could ruin the entire object. For example, a Gargantuan statue of a human might topple over when one of its Large legs is reduced to 0 hit points.
 
@@ -10512,22 +10501,22 @@ Poisons come in the following four types.
 
 #### **Poisons**
 
-| Item               | Type     | Price	per	Dose |
-|--------------------|----------|----------------|
-| Assassin's	blood   | Ingested | 150	gp         |
-| Burnt	othur	fumes  | Inhaled  | 500	gp         |
-| Crawler	mucus      | Contact  | 200	gp         |
-| Drow	poison        | Injury   | 200	gp         |
-| Essence	of	ether   | Inhaled  | 300	gp         |
-| Malice             | Inhaled  | 250	gp         |
-| Midnight	tears     | Ingested | 1,500	gp       |
-| Oil	of	taggit      | Contact  | 400	gp         |
-| Pale	tincture      | Ingested | 250	gp         |
-| Purple	worm	poison | Injury   | 2,000	gp       |
-| Serpent	venom      | Injury   | 200	gp         |
-| Torpor             | Ingested | 600	gp         |
-| Truth	serum        | Ingested | 150	gp         |
-| Wyvern	poison      | Injury   | 1,200	gp       |
+| Item               | Type     | Price per Dose   |
+|--------------------|----------|------------------|
+| Assassin's blood   | Ingested | 150 gp           |
+| Burnt othur fumes  | Inhaled  | 500 gp           |
+| Crawler mucus      | Contact  | 200 gp           |
+| Drow poison        | Injury   | 200 gp           |
+| Essence of ether   | Inhaled  | 300 gp           |
+| Malice             | Inhaled  | 250 gp           |
+| Midnight tears     | Ingested | 1,500 gp         |
+| Oil of taggit      | Contact  | 400 gp           |
+| Pale tincture      | Ingested | 250 gp           |
+| Purple worm poison | Injury   | 2,000 gp         |
+| Serpent venom      | Injury   | 200 gp           |
+| Torpor             | Ingested | 600 gp           |
+| Truth serum        | Ingested | 150 gp           |
+| Wyvern poison      | Injury   | 1,200 gp         |
 
 # **Sample Poisons**
 
@@ -10575,7 +10564,7 @@ Attuning to an item requires a creature to spend a short rest focused on only th
 
 An item can be attuned to only one creature at a time, and a creature can be attuned to no more than three magic items at a time. Any attempt to attune to a fourth item fails; the creature must end its attunement to an item first. Additionally, a creature can't attune to more than one copy of an item. For example, a creature can't attune to more than one *ring of protection* at a time.
 
-A creature's attunement to an item ends if the creature no longer satisfies the prerequisites for attunement, if the item has been more than 100 feet away for at least 24 hours, if the creature dies, or if another creature attunes to the item. A creature can  also voluntarily end attunement by spending another short rest focused on the item, unless the item is cursed.
+A creature's attunement to an item ends if the creature no longer satisfies the prerequisites for attunement, if the item has been more than 100 feet away for at least 24 hours, if the creature dies, or if another creature attunes to the item. A creature can also voluntarily end attunement by spending another short rest focused on the item, unless the item is cursed.
 
 # **Wearing and Wielding Items**
 
@@ -10595,7 +10584,7 @@ Items that come in pairs—such as boots, bracers, gauntlets, and gloves—impar
 
 # **Activating an Item**
 
-Activating some magic items requires a user to do something special, such as holding the item and uttering a command word. The description of each  item category or individual item details how an item is activated. Certain items use the following rules for their activation.
+Activating some magic items requires a user to do something special, such as holding the item and uttering a command word. The description of each item category or individual item details how an item is activated. Certain items use the following rules for their activation.
 
 If an item requires an action to activate, that action isn't a function of the Use an Item action, so a feature such as the rogue's Fast Hands can't be used to activate the item.
 
@@ -10683,21 +10672,21 @@ A creature in the compartment can use an action to move as many as two of the ap
 
 #### **Apparatus of the Crab Levers**
 
-| Lever | Up                    | Down                   |
-|-------|-----------------------|------------------------|
-| 1     | Legs	and	tail	extend, | Legs	and	tail	retract, |
+|   Lever | Up                    | Down                   |
+|---------|-----------------------|------------------------|
+|       1 | Legs and tail extend, | Legs and tail retract, |
 
-|    | allowing	the	apparatus<br>to	walk	and	swim.                                                                                                     | reducing	the	apparatus's<br>speed	to	0	and	making	it<br>unable	to	benefit	from<br>bonuses	to	speed.                                                        |
-|----|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2  | Forward	window	shutter<br>opens.                                                                                                                | Forward	window	shutter<br>closes.                                                                                                                          |
-| 3  | Side	window	shutters<br>open	(two	per	side).                                                                                                    | Side	window	shutters<br>close	(two	per	side).                                                                                                              |
-| 4  | Two	claws	extend	from<br>the	front	sides	of	the<br>apparatus.                                                                                   | The	claws	retract.                                                                                                                                         |
-| 5  | Each	extended	claw<br>makes	the	following<br>melee	weapon	attack:<br>+8	to	hit,	reach	5	ft.,	one<br>target.	Hit:	7	(2d6)<br>bludgeoning	damage. | Each	extended	claw<br>makes	the	following<br>melee	weapon	attack: +8<br>to	hit,	reach	5	ft.,	one<br>target.	Hit:	The	target	is<br>grappled	(escape	DC	15). |
-| 6  | The	apparatus	walks	or<br>swims	forward.                                                                                                        | The	apparatus	walks	or<br>swims	backward.                                                                                                                  |
-| 7  | The	apparatus	turns	90<br>degrees	left.                                                                                                         | The	apparatus	turns	90<br>degrees	right.                                                                                                                   |
-| 8  | Eyelike	fixtures	emit<br>bright	light	in	a	30-foot<br>radius	and	dim	light	for<br>an	additional	30	feet.                                        | The	light	turns	off.                                                                                                                                       |
-| 9  | The	apparatus	sinks	as<br>much	as	20	feet	in<br>liquid.                                                                                         | The	apparatus	rises	up<br>to	20	feet	in	liquid.                                                                                                            |
-| 10 | The	rear	hatch	unseals<br>and	opens.                                                                                                            | The	rear	hatch	closes<br>and	seals.                                                                                                                        |
+|    | allowing the apparatus to walk and swim.                                                                                         | reducing the apparatus's speed to 0 and making it unable to benefit from bonuses to speed.                                                  |
+|----|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|  2 | Forward window shutter opens.                                                                                                    | Forward window shutter closes.                                                                                                              |
+|  3 | Side window shutters open (two per side).                                                                                        | Side window shutters close (two per side).                                                                                                  |
+|  4 | Two claws extend from the front sides of the apparatus.                                                                          | The claws retract.                                                                                                                          |
+|  5 | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: 7 (2d6) bludgeoning damage. | Each extended claw makes the following melee weapon attack: +8 to hit, reach 5 ft., one target. Hit: The target is grappled (escape DC 15). |
+|  6 | The apparatus walks or swims forward.                                                                                            | The apparatus walks or swims backward.                                                                                                      |
+|  7 | The apparatus turns 90 degrees left.                                                                                             | The apparatus turns 90 degrees right.                                                                                                       |
+|  8 | Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 feet.                                  | The light turns off.                                                                                                                        |
+|  9 | The apparatus sinks as much as 20 feet in liquid.                                                                                | The apparatus rises up to 20 feet in liquid.                                                                                                |
+| 10 | The rear hatch unseals and opens.                                                                                                | The rear hatch closes and seals.                                                                                                            |
 
 #### **Armor, +1, +2, or +3**
 
@@ -10717,13 +10706,13 @@ You have resistance to nonmagical damage while you wear this armor. Additionally
 
 You have resistance to one type of damage while you wear this armor. The GM chooses the type or determines it randomly from the options below.
 
-| d10 | Damage	Type | d10 | Damage	Type |
-|-----|-------------|-----|-------------|
-| 1   | Acid        | 6   | Necrotic    |
-| 2   | Cold        | 7   | Poison      |
-| 3   | Fire        | 8   | Psychic     |
-| 4   | Force       | 9   | Radiant     |
-| 5   | Lightning   | 10  | Thunder     |
+|   d10 | Damage Type   |   d10 | Damage Type   |
+|-------|---------------|-------|---------------|
+|     1 | Acid          |     6 | Necrotic      |
+|     2 | Cold          |     7 | Poison        |
+|     3 | Fire          |     8 | Psychic       |
+|     4 | Force         |     9 | Radiant       |
+|     5 | Lightning     |    10 | Thunder       |
 
 # **Armor of Vulnerability**
 
@@ -10761,17 +10750,16 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 
 #### **d100 Effect**
 
-|  | 01    | 5d4	toadstools	sprout.	If	a	creature	eats	a<br>toadstool,	roll	any	die.	On	an	odd	roll,	the	eater<br>must	succeed	on	a	DC	15	Constitution	saving<br>throw	or	take	5d6	poison	damage	and	become<br>poisoned	for	1	hour.	On	an	even	roll,	the	eater<br>gains	5d6	temporary	hit	points	for	1	hour.                                                                                            |
-|--|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  | 02–10 | A	geyser	erupts	and	spouts	water,	beer,	berry<br>juice,	tea,	vinegar,	wine,	or	oil	(GM's	choice)	30<br>feet	into	the	air	for	1d12	rounds.                                                                                                                                                                                                                                                  |
-|  | 11–20 | A	treant	sprouts.	There's	a	50	percent	chance<br>that	the	treant	is	chaotic	evil	and	attacks.                                                                                                                                                                                                                                                                                              |
-|  | 21–30 | An	animate,	immobile	stone	statue	in	your<br>likeness	rises.	It	makes	verbal	threats	against<br>you.	If	you	leave	it	and	others	come	near,	it<br>describes	you	as	the	most	heinous	of	villains	and<br>directs	the	newcomers	to	find	and	attack	you.	If<br>you	are	on	the	same	plane	of	existence	as	the<br>statue,	it	knows	where	you	are.	The	statue<br>becomes	inanimate	after	24	hours. |
-|  | 31–40 | A	campfire	with	blue	flames	springs	forth	and<br>burns	for	24	hours	(or	until	it	is	extinguished).                                                                                                                                                                                                                                                                                         |
-|  | 41–50 | 1d6	+	6	shriekers	sprout                                                                                                                                                                                                                                                                                                                                                                   |
-|  | 51–60 | 1d4	+	8 bright	pink	toads	crawl	forth.	Whenever<br>a	toad	is	touched,	it	transforms	into	a	Large	or<br>smaller	monster	of	the	GM's	choice.	The<br>monster	remains	for	1	minute,	then	disappears<br>in	a	puff	of	bright	pink	smoke.                                                                                                                                                         |
-|  | 61–70 | A	hungry	bulette	burrows	up	and	attacks.                                                                                                                                                                                                                                                                                                                                                   |
-|  | 71–80 | A	fruit	tree	grows.	It	has	1d10	+	20	fruit,	1d8	of<br>which	act	as	randomly	determined	magic<br>potions,	while	one	acts	as	an	ingested	poison	of<br>the	GM's	choice.	The	tree	vanishes	after	1	hour.<br>Picked	fruit	remains,	retaining	any	magic	for	30<br>days.                                                                                                                          |
-|  |       |                                                                                                                                                                                                                                                                                                                                                                                            |
+|    | 01    | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 poison damage and become poisoned for 1 hour. On an even roll, the eater gains 5d6 temporary hit points for 1 hour.                                                                                      |
+|----|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    | 02–10 | A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d12 rounds.                                                                                                                                                                                                                                   |
+|    | 11–20 | A treant sprouts. There's a 50 percent chance that the treant is chaotic evil and attacks.                                                                                                                                                                                                                                                                            |
+|    | 21–30 | An animate, immobile stone statue in your likeness rises. It makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours. |
+|    | 31–40 | A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).                                                                                                                                                                                                                                                                       |
+|    | 41–50 | 1d6 + 6 shriekers sprout                                                                                                                                                                                                                                                                                                                                              |
+|    | 51–60 | 1d4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.                                                                                                                                                |
+|    | 61–70 | A hungry bulette burrows up and attacks.                                                                                                                                                                                                                                                                                                                              |
+|    | 71–80 | A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined magic potions, while one acts as an ingested poison of the GM's choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.                                                                                                                    |
 
 81–90 A nest of 1d4 + 3 eggs springs up. Any creature
 
@@ -10826,9 +10814,8 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 - 5 Panther
 - 6 Giant badger
 
-| 7 | Dire	wolf |
-|---|-----------|
-|   |           |
+| 7   | Dire wolf   |
+|-----|-------------|
 
 8 Giant elk
 
@@ -10891,13 +10878,13 @@ While wearing this belt, your Strength score changes to a score granted by the b
 
 Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The *belt of stone giant strength* and the *belt of frost giant strength* look different, but they have the same effect.
 
-| Type              | Strength | Rarity    |
-|-------------------|----------|-----------|
-| Hill	giant        | 21       | Rare      |
-| Stone/frost	giant | 23       | Very	rare |
-| Fire	giant        | 25       | Very	rare |
-| Cloud	giant       | 27       | Legendary |
-| Storm	giant       | 29       | Legendary |
+| Type              |   Strength | Rarity    |
+|-------------------|------------|-----------|
+| Hill giant        |         21 | Rare      |
+| Stone/frost giant |         23 | Very rare |
+| Fire giant        |         25 | Very rare |
+| Cloud giant       |         27 | Legendary |
+| Storm giant       |         29 | Legendary |
 
 # **Berserker Axe**
 
@@ -10945,7 +10932,7 @@ These furred boots are snug and feel quite warm. While you wear them, you gain t
 
 - You have resistance to cold damage.
 - You ignore difficult terrain created by ice or snow.
-- You can tolerate temperatures as low as −50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as −100 degrees Fahrenheit.
+- You can tolerate temperatures as low as -50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as -100 degrees Fahrenheit.
 
 ## **Bowl of Commanding Water Elementals**
 
@@ -10997,15 +10984,15 @@ This slender taper is dedicated to a deity and shares that deity's alignment. Th
 
 | d20   | Alignment       |
 |-------|-----------------|
-| 1–2   | Chaotic	evil    |
-| 3–4   | Chaotic	neutral |
-| 5–7   | Chaotic	good    |
-| 8–9   | Neutral	evil    |
+| 1–2   | Chaotic evil    |
+| 3–4   | Chaotic neutral |
+| 5–7   | Chaotic good    |
+| 8–9   | Neutral evil    |
 | 10–11 | Neutral         |
-| 12–13 | Neutral	good    |
-| 14–15 | Lawful	evil     |
-| 16–17 | Lawful	neutral  |
-| 18–20 | Lawful	good     |
+| 12–13 | Neutral good    |
+| 14–15 | Lawful evil     |
+| 16–17 | Lawful neutral  |
+| 18–20 | Lawful good     |
 
 The candle's magic is activated when the candle is lit, which requires an action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle's total burn time.
 
@@ -11029,12 +11016,12 @@ You can speak the carpet's command word as an action to make the carpet hover an
 
 Four sizes of *carpet of flying* exist. The GM chooses the size of a given carpet or determines it randomly.
 
-| d100   | Size          | Capacity | Flying	Speed |
-|--------|---------------|----------|--------------|
-| 01–20  | 3	ft.	×	5	ft. | 200	lb.  | 80	feet      |
-| 21–55  | 4	ft.	×	6	ft. | 400	lb.  | 60	feet      |
-| 56–80  | 5	ft.	×	7	ft. | 600	lb.  | 40	feet      |
-| 81–100 | 6	ft.	×	9	ft. | 800	lb.  | 30	feet      |
+| d100   | Size          | Capacity   | Flying Speed   |
+|--------|---------------|------------|----------------|
+| 01–20  | 3 ft. × 5 ft. | 200 lb.    | 80 feet        |
+| 21–55  | 4 ft. × 6 ft. | 400 lb.    | 60 feet        |
+| 56–80  | 5 ft. × 7 ft. | 600 lb.    | 40 feet        |
+| 81–100 | 6 ft. × 9 ft. | 800 lb.    | 30 feet        |
 
 A carpet can carry up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity.
 
@@ -11050,7 +11037,7 @@ This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. I
 
 #### *Wondrous item, rare*
 
-This hollow metal tube measures about 1 foot long and weighs 1 pound. You can strike it as an action, pointing it at an object within 120 feet of you that can be opened, such as a door, lid, or lock. The chime  issues a clear tone, and one lock or latch on the object opens unless the sound can't reach the object. If no locks or latches remain, the object itself opens.
+This hollow metal tube measures about 1 foot long and weighs 1 pound. You can strike it as an action, pointing it at an object within 120 feet of you that can be opened, such as a door, lid, or lock. The chime issues a clear tone, and one lock or latch on the object opens unless the sound can't reach the object. If no locks or latches remain, the object itself opens.
 
 The chime can be used ten times. After the tenth time, it cracks and becomes useless.
 
@@ -11134,24 +11121,24 @@ If your movement causes the barrier to come into contact with a solid object tha
 
 #### **Cube of Force Faces**
 
-| Face | Charges | Effect                                                                                                                  |
-|------|---------|-------------------------------------------------------------------------------------------------------------------------|
-| 1    | 1       | Gases,	wind,	and	fog	can't	pass	through<br>the	barrier.                                                                 |
-| 2    | 2       | Nonliving	matter	can't	pass	through	the<br>barrier.	Walls,	floors,	and	ceilings	can	pass<br>through	at	your	discretion. |
-| 3    | 3       | Living	matter	can't	pass	through	the<br>barrier.                                                                        |
-| 4    | 4       | Spell	effects	can't	pass	through	the	barrier.                                                                           |
-| 5    | 5       | Nothing	can	pass	through	the	barrier.<br>Walls,	floors,	and	ceilings	can	pass	through<br>at	your	discretion.            |
-| 6    | 0       | The	barrier	deactivates.                                                                                                |
+|   Face |   Charges | Effect                                                                                                            |
+|--------|-----------|-------------------------------------------------------------------------------------------------------------------|
+|      1 |         1 | Gases, wind, and fog can't pass through the barrier.                                                              |
+|      2 |         2 | Nonliving matter can't pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
+|      3 |         3 | Living matter can't pass through the barrier.                                                                     |
+|      4 |         4 | Spell effects can't pass through the barrier.                                                                     |
+|      5 |         5 | Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.            |
+|      6 |         0 | The barrier deactivates.                                                                                          |
 
 The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
 
-| Spell	or	Item    | Charges	Lost |
-|------------------|--------------|
-| Disintegrate     | 1d12         |
-| Horn	of	blasting | 1d10         |
-| Passwall         | 1d6          |
-| Prismatic	spray  | 1d20         |
-| Wall	of	fire     | 1d4          |
+| Spell or Item    | Charges Lost   |
+|------------------|----------------|
+| Disintegrate     | 1d12           |
+| Horn of blasting | 1d10           |
+| Passwall         | 1d6            |
+| Prismatic spray  | 1d20           |
+| Wall of fire     | 1d4            |
 
 ## **Cubic Gate**
 
@@ -11179,7 +11166,7 @@ You can use a bonus action to toss this magic sword into the air and speak the c
 
 While the sword hovers, you can use a bonus action to cause it to fly up to 30 feet to another spot within 30 feet of you. As part of the same bonus action, you can cause the sword to attack one creature within 5 feet of it.
 
-After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground  at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.
+After the hovering sword attacks for the fourth time, it flies up to 30 feet and tries to return to your hand. If you have no hand free, it falls to the ground at your feet. If the sword has no unobstructed path to you, it moves as close to you as it can and then falls to the ground. It also ceases to hover if you grasp it or move more than 30 feet away from it.
 
 #### **Decanter of Endless Water**
 
@@ -11197,7 +11184,7 @@ You can use an action to remove the stopper and speak one of three command words
 
 #### *Wondrous item, uncommon*
 
-This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 − 1 cards.
+This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 - 1 cards.
 
 The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.
 
@@ -11207,41 +11194,40 @@ with a successful DC 15 Intelligence (Investigation) check. The creature then ap
 
 The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
 
-| Playing	Card      | Illusion                         |
+| Playing Card      | Illusion                         |
 |-------------------|----------------------------------|
-| Ace	of	hearts     | Red	dragon                       |
-| King	of	hearts    | Knight	and	four	guards           |
-| Queen	of	hearts   | Succubus	or	incubus              |
-| Jack	of	hearts    | Druid                            |
-| Ten	of	hearts     | Cloud	giant                      |
-| Nine	of	hearts    | Ettin                            |
-| Eight	of	hearts   | Bugbear                          |
-| Two	of	hearts     | Goblin                           |
-| Ace	of	diamonds   | Beholder                         |
-| King	of	diamonds  | Archmage	and	mage	apprentice     |
-| Queen	of	diamonds | Night	hag                        |
-| Jack	of	diamonds  | Assassin                         |
-| Ten	of	diamonds   | Fire	giant                       |
-| Nine	of	diamonds  | Ogre	mage                        |
-| Eight	of	diamonds | Gnoll                            |
-| Two	of	diamonds   | Kobold                           |
-|                   |                                  |
-| Ace	of	spades     | Lich                             |
-| King	of	spades    | Priest	and	two	acolytes          |
-| Queen	of	spades   | Medusa                           |
-| Jack	of	spades    | Veteran                          |
-| Ten	of	spades     | Frost	giant                      |
-| Nine	of	spades    | Troll                            |
-| Eight	of	spades   | Hobgoblin                        |
-| Two	of	spades     | Goblin                           |
-| Ace	of	clubs      | Iron	golem                       |
-| King	of	clubs     | Bandit	captain	and three	bandits |
-| Queen	of	clubs    | Erinyes                          |
-| Jack	of	clubs     | Berserker                        |
-| Ten	of	clubs      | Hill	giant                       |
-| Nine	of	clubs     | Ogre                             |
-| Eight	of	clubs    | Orc                              |
-| Two	of	clubs      | Kobold                           |
+| Ace of hearts     | Red dragon                       |
+| King of hearts    | Knight and four guards           |
+| Queen of hearts   | Succubus or incubus              |
+| Jack of hearts    | Druid                            |
+| Ten of hearts     | Cloud giant                      |
+| Nine of hearts    | Ettin                            |
+| Eight of hearts   | Bugbear                          |
+| Two of hearts     | Goblin                           |
+| Ace of diamonds   | Beholder                         |
+| King of diamonds  | Archmage and mage apprentice     |
+| Queen of diamonds | Night hag                        |
+| Jack of diamonds  | Assassin                         |
+| Ten of diamonds   | Fire giant                       |
+| Nine of diamonds  | Ogre mage                        |
+| Eight of diamonds | Gnoll                            |
+| Two of diamonds   | Kobold                           |
+| Ace of spades     | Lich                             |
+| King of spades    | Priest and two acolytes          |
+| Queen of spades   | Medusa                           |
+| Jack of spades    | Veteran                          |
+| Ten of spades     | Frost giant                      |
+| Nine of spades    | Troll                            |
+| Eight of spades   | Hobgoblin                        |
+| Two of spades     | Goblin                           |
+| Ace of clubs      | Iron golem                       |
+| King of clubs     | Bandit captain and three bandits |
+| Queen of clubs    | Erinyes                          |
+| Jack of clubs     | Berserker                        |
+| Ten of clubs      | Hill giant                       |
+| Nine of clubs     | Ogre                             |
+| Eight of clubs    | Orc                              |
+| Two of clubs      | Kobold                           |
 
 #### **Deck of Many Things**
 
@@ -11255,30 +11241,30 @@ soon as you draw a card from the deck, its magic takes effect. You must draw eac
 
 Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
 
-| Playing	Card       | Card       |  |
-|--------------------|------------|--|
-| Ace	of	diamonds    | Vizier*    |  |
-| King	of	diamonds   | Sun        |  |
-| Queen	of	diamonds  | Moon       |  |
-| Jack	of	diamonds   | Star       |  |
-| Two	of	diamonds    | Comet*     |  |
-| Ace	of	hearts      | The	Fates* |  |
-| King	of	hearts     | Throne     |  |
-| Queen	of	hearts    | Key        |  |
-| Jack	of	hearts     | Knight     |  |
-| Two	of	hearts      | Gem*       |  |
-| Ace	of	clubs       | Talons*    |  |
-| King	of	clubs      | The	Void   |  |
-| Queen	of	clubs     | Flames     |  |
-| Jack	of	clubs      | Skull      |  |
-| Two	of	clubs       | Idiot*     |  |
-| Ace	of	spades      | Donjon*    |  |
-| King	of	spades     | Ruin       |  |
-| Queen	of	spades    | Euryale    |  |
-| Jack	of	spades     | Rogue      |  |
-| Two	of	spades      | Balance*   |  |
-| Joker	(with	TM)    | Fool*      |  |
-| Joker	(without	TM) | Jester     |  |
+| Playing Card       | Card       |    |
+|--------------------|------------|----|
+| Ace of diamonds    | Vizier*    |    |
+| King of diamonds   | Sun        |    |
+| Queen of diamonds  | Moon       |    |
+| Jack of diamonds   | Star       |    |
+| Two of diamonds    | Comet*     |    |
+| Ace of hearts      | The Fates* |    |
+| King of hearts     | Throne     |    |
+| Queen of hearts    | Key        |    |
+| Jack of hearts     | Knight     |    |
+| Two of hearts      | Gem*       |    |
+| Ace of clubs       | Talons*    |    |
+| King of clubs      | The Void   |    |
+| Queen of clubs     | Flames     |    |
+| Jack of clubs      | Skull      |    |
+| Two of clubs       | Idiot*     |    |
+| Ace of spades      | Donjon*    |    |
+| King of spades     | Ruin       |    |
+| Queen of spades    | Euryale    |    |
+| Jack of spades     | Rogue      |    |
+| Two of spades      | Balance*   |    |
+| Joker (with TM)    | Fool*      |    |
+| Joker (without TM) | Jester     |    |
 
 \*Found only in a deck with twenty-two cards
 
@@ -11288,7 +11274,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 
 *Donjon.* You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you were wearing and carrying stays behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any divination magic, but a *wish* spell can reveal the location of your prison. You draw no more cards.
 
-*Euryale.* The card's medusa-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of The Fates card can end this curse.
+*Euryale.* The card's medusa-like visage curses you. You take a -2 penalty on saving throws while cursed in this way. Only a god or the magic of The Fates card can end this curse.
 
 *The Fates.* Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other time before you die.
 
@@ -11326,7 +11312,7 @@ the GM's choice within 10 feet of you and attacks you, warning all others that y
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 16	(+3) | 16	(+3) | 16	(+3) | 16	(+3) | 16	(+3) |
+| 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) |
 
 **Damage Immunities** necrotic, poison
 
@@ -11350,7 +11336,7 @@ the GM's choice within 10 feet of you and attacks you, warning all others that y
 
 *Talons.* Every magic item you wear or carry disintegrates. Artifacts in your possession aren't destroyed but do vanish.
 
-*Throne.* You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the  world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours.
+*Throne.* You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours.
 
 *Vizier.* At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with wisdom on how to apply it.
 
@@ -11390,13 +11376,13 @@ While wearing this armor, you gain a +1 bonus to AC, you have advantage on savin
 
 Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest dragon within 30 miles of you that is of the same type as the armor. This special action can't be used again until the next dawn.
 
-| Dragon | Resistance | Dragon | Resistance |
-|--------|------------|--------|------------|
-| Black  | Acid       | Gold   | Fire       |
-| Blue   | Lightning  | Green  | Poison     |
-| Brass  | Fire       | Red    | Fire       |
-| Bronze | Lightning  | Silver | Cold       |
-| Copper | Acid       | White  | Cold       |
+| Dragon   | Resistance   | Dragon   | Resistance   |
+|----------|--------------|----------|--------------|
+| Black    | Acid         | Gold     | Fire         |
+| Blue     | Lightning    | Green    | Poison       |
+| Brass    | Fire         | Red      | Fire         |
+| Bronze   | Lightning    | Silver   | Cold         |
+| Copper   | Acid         | White    | Cold         |
 
 ## **Dragon Slayer**
 
@@ -11464,11 +11450,10 @@ The first time the bottle is opened, the GM rolls to determine what happens.
 
 11–90 The efreeti serves you for 1 hour, doing as you command. Then the efreeti returns to the bottle, and a new stopper contains it. The stopper can't be removed for 24 hours. The next two times the bottle is opened, the same effect occurs. If the
 
-| bottle	is	opened	a	fourth	time,	the	efreeti      |
+| bottle is opened a fourth time, the efreeti      |
 |--------------------------------------------------|
-| escapes	and	disappears,	and	the	bottle	loses	its |
+| escapes and disappears, and the bottle loses its |
 | magic.                                           |
-|                                                  |
 
 91–00 The efreeti can cast the wish spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic.
 
@@ -11478,12 +11463,12 @@ The first time the bottle is opened, the GM rolls to determine what happens.
 
 This gem contains a mote of elemental energy. When you use an action to break the gem, an elemental is summoned as if you had cast the *conjure elemental* spell, and the gem's magic is lost. The type of gem determines the elemental summoned by the spell.
 
-| Gem            | Summoned	Elemental |
-|----------------|--------------------|
-| Blue	sapphire  | Air	elemental      |
-| Yellow	diamond | Earth	elemental    |
-| Red	corundum   | Fire	elemental     |
-| Emerald        | Water	elemental    |
+| Gem            | Summoned Elemental   |
+|----------------|----------------------|
+| Blue sapphire  | Air elemental        |
+| Yellow diamond | Earth elemental      |
+| Red corundum   | Fire elemental       |
+| Emerald        | Water elemental      |
 
 # **Elven Chain**
 
@@ -11525,17 +11510,17 @@ These crystal lenses fit over the eyes. While wearing them, you have advantage o
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different singleuse effect. The GM chooses the kind of token or determines it randomly.
 
-| d100  | Feather	Token | d100  | Feather	Token |
-|-------|---------------|-------|---------------|
-| 01–20 | Anchor        | 51–65 | Swan	boat     |
-| 21–35 | Bird          | 66–90 | Tree          |
-| 36–50 | Fan           | 91–00 | Whip          |
+| d100   | Feather Token   | d100   | Feather Token   |
+|--------|-----------------|--------|-----------------|
+| 01–20  | Anchor          | 51–65  | Swan boat       |
+| 21–35  | Bird            | 66–90  | Tree            |
+| 36–50  | Fan             | 91–00  | Whip            |
 
 *Anchor.* You can use an action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
 
 *Bird.* You can use an action to toss the token 5 feet into the air. The token disappears and an enormous, multicolored bird takes its place. The bird has the statistics of a roc, but it obeys your simple commands and can't attack. It can carry up to 500 pounds while flying at its maximum speed (16 miles an hour for a maximum of 144 miles per day, with a one-hour rest for every 3 hours of flying), or 1,000 pounds at half that speed. The bird disappears after flying its maximum distance for a day or if it drops to 0 hit points. You can dismiss the bird as an action.
 
-*Fan.* If you are on a boat or ship, you can use an action to toss the token up to 10 feet in the air. The  token disappears, and a giant flapping fan takes its place. The fan floats and creates a wind strong enough to fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as an action.
+*Fan.* If you are on a boat or ship, you can use an action to toss the token up to 10 feet in the air. The token disappears, and a giant flapping fan takes its place. The fan floats and creates a wind strong enough to fill the sails of one ship, increasing its speed by 5 miles per hour for 8 hours. You can dismiss the fan as an action.
 
 *Swan Boat.* You can use an action to touch the token to a body of water at least 60 feet in diameter. The token disappears, and a 50-foot-long, 20-footwide boat shaped like a swan takes its place. The boat is self-propelled and moves across water at a speed of 6 miles per hour. You can use an action while on the boat to command it to move or to turn up to 90 degrees. The boat can carry up to thirty-two Medium or smaller creatures. A Large creature counts as four Medium creatures, while a Huge creature counts as nine. The boat remains for 24 hours and then disappears. You can dismiss the boat as an action.
 
@@ -11573,7 +11558,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 14	(+2) | 13	(+1) | 13	(+1) | 2	(−4) | 10	(+0) | 3	(−4) |
+| 14 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Senses** darkvision 60 ft., passive Perception 10 **Languages** —
 
@@ -11765,7 +11750,7 @@ This helm has 3 charges. While wearing it, you can use an action and expend 1 ch
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra 2d10 radiant damage.
 
-While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage  on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
+While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
 
 #### **Horn of Blasting**
 
@@ -11783,12 +11768,12 @@ You can use an action to blow this horn. In response, warrior spirits from the V
 
 Four types of *horn of Valhalla* are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.
 
-| d100  | Horn<br>Type | Berserkers<br>Summoned | Requirement                             |
-|-------|--------------|------------------------|-----------------------------------------|
-| 01–40 | Silver       | 2d4	+	2                | None                                    |
-| 41–75 | Brass        | 3d4	+	3                | Proficiency	with	all<br>simple	weapons  |
-| 76–90 | Bronze       | 4d4	+	4                | Proficiency	with	all<br>medium	armor    |
-| 91–00 | Iron         | 5d4	+	5                | Proficiency	with	all<br>martial	weapons |
+| d100   | Horn Type   | Berserkers Summoned   | Requirement                          |
+|--------|-------------|-----------------------|--------------------------------------|
+| 01–40  | Silver      | 2d4 + 2               | None                                 |
+| 41–75  | Brass       | 3d4 + 3               | Proficiency with all simple weapons  |
+| 76–90  | Bronze      | 4d4 + 4               | Proficiency with all medium armor    |
+| 91–00  | Iron        | 5d4 + 5               | Proficiency with all martial weapons |
 
 If you blow the horn without meeting its requirement, the summoned berserkers attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.
 
@@ -11858,7 +11843,7 @@ Once the stone has canceled 50 levels of spells, it burns out and turns dull gra
 
 *Regeneration (Legendary).* You regain 15 hit points at the end of each hour this pearly white spindle orbits your head, provided that you have at least 1 hit point.
 
-*Reserve (Rare).* This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 3 levels worth of spells at a time. When found, it contains 1d4 − 1 levels of stored spells chosen by the GM.
+*Reserve (Rare).* This vibrant purple prism stores spells cast into it, holding them until you use them. The stone can store up to 3 levels worth of spells at a time. When found, it contains 1d4 - 1 levels of stored spells chosen by the GM.
 
 Any creature can cast a spell of 1st through 3rd level into the stone by touching it as the spell is cast. The spell has no effect, other than to be stored in the stone. If the stone can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
 
@@ -11890,28 +11875,28 @@ You can use an action to remove the flask's stopper and release the creature the
 
 An *identify* spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the GM or determined randomly.
 
-| d100  | Contents          |
-|-------|-------------------|
-| 1‒50  | Empty             |
-| 51‒54 | Demon	(type	1)    |
-| 55‒58 | Demon	(type	2)    |
-| 59‒62 | Demon	(type	3)    |
-| 63‒64 | Demon	(type	4)    |
-| 65    | Demon	(type	5)    |
-| 66    | Demon	(type	6)    |
-| 67    | Deva              |
-| 68‒69 | Devil	(greater)   |
-| 70‒73 | Devil	(lesser)    |
-| 74‒75 | Djinni            |
-| 76‒77 | Efreeti           |
-| 78‒83 | Elemental	(any)   |
-| 84‒86 | Invisible	stalker |
-| 87‒90 | Night	hag         |
-| 91    | Planetar          |
-| 92‒95 | Salamander        |
-| 96    | Solar             |
-| 97‒99 | Succubus/incubus  |
-| 100   | Xorn              |
+| d100   | Contents          |
+|--------|-------------------|
+| 1‒50   | Empty             |
+| 51‒54  | Demon (type 1)    |
+| 55‒58  | Demon (type 2)    |
+| 59‒62  | Demon (type 3)    |
+| 63‒64  | Demon (type 4)    |
+| 65     | Demon (type 5)    |
+| 66     | Demon (type 6)    |
+| 67     | Deva              |
+| 68‒69  | Devil (greater)   |
+| 70‒73  | Devil (lesser)    |
+| 74‒75  | Djinni            |
+| 76‒77  | Efreeti           |
+| 78‒83  | Elemental (any)   |
+| 84‒86  | Invisible stalker |
+| 87‒90  | Night hag         |
+| 91     | Planetar          |
+| 92‒95  | Salamander        |
+| 96     | Solar             |
+| 97‒99  | Succubus/incubus  |
+| 100    | Xorn              |
 
 # **Javelin of Lightning**
 
@@ -11987,12 +11972,12 @@ This book describes fitness exercises, and its words are charged with magic. If 
 
 This tome contains information and incantations necessary to make a particular type of golem. The GM chooses the type or determines it randomly. To decipher and use the manual, you must be a spellcaster with at least two 5th-level spell slots. A creature that can't use a *manual of golems* and attempts to read it takes 6d6 psychic damage.
 
-| d20   | Golem | Time     | Cost       |
-|-------|-------|----------|------------|
-| 1–5   | Clay  | 30	days  | 65,000	gp  |
-| 6–17  | Flesh | 60	days  | 50,000	gp  |
-| 18    | Iron  | 120	days | 100,000	gp |
-| 19–20 | Stone | 90	days  | 80,000	gp  |
+| d20   | Golem   | Time     | Cost       |
+|-------|---------|----------|------------|
+| 1–5   | Clay    | 30 days  | 65,000 gp  |
+| 6–17  | Flesh   | 60 days  | 50,000 gp  |
+| 18    | Iron    | 120 days | 100,000 gp |
+| 19–20 | Stone   | 90 days  | 80,000 gp  |
 
 To create a golem, you must spend the time shown on the table, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase supplies.
 
@@ -12074,14 +12059,14 @@ Six types of magic beads exist. The GM decides the type of each bead on the neck
 
 is cast, that bead can't be used again until the next dawn.
 
-| d20   | Bead	of	…       | Spell                                            |
-|-------|-----------------|--------------------------------------------------|
-| 1–6   | Blessing        | Bless                                            |
-| 7–12  | Curing          | Cure wounds (2nd	level)	or	lesser<br>restoration |
-| 13–16 | Favor           | Greater restoration                              |
-| 17–18 | Smiting         | Branding	smite                                   |
-| 19    | Summons         | Planar ally                                      |
-| 20    | Wind<br>walking | Wind walk                                        |
+| d20   | Bead of …    | Spell                                         |
+|-------|--------------|-----------------------------------------------|
+| 1–6   | Blessing     | Bless                                         |
+| 7–12  | Curing       | Cure wounds (2nd level) or lesser restoration |
+| 13–16 | Favor        | Greater restoration                           |
+| 17–18 | Smiting      | Branding smite                                |
+| 19    | Summons      | Planar ally                                   |
+| 20    | Wind walking | Wind walk                                     |
 
 ### **Nine Lives Stealer**
 
@@ -12105,7 +12090,7 @@ While your sworn enemy lives, you have disadvantage on attack rolls with all oth
 
 #### *Potion, rare*
 
-Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional  vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the *etherealness* spell for 1 hour.
+Beads of this cloudy gray oil form on the outside of its container and quickly evaporate. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 10 minutes. The affected creature then gains the effect of the *etherealness* spell for 1 hour.
 
 # **Oil of Sharpness**
 
@@ -12137,7 +12122,7 @@ You are immune to contracting any disease while you wear this pendant. If you ar
 
 ## *Wondrous item, rare*
 
-This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no  effect on you. You are immune to the poisoned condition and have immunity to poison damage.
+This delicate silver chain has a brilliant-cut black gem pendant. While you wear it, poisons have no effect on you. You are immune to the poisoned condition and have immunity to poison damage.
 
 # **Periapt of Wound Closure**
 
@@ -12235,13 +12220,13 @@ When you drink this potion, your Strength score changes for 1 hour. The type of 
 
 This potion's transparent liquid has floating in it a sliver of fingernail from a giant of the appropriate type. The *potion of frost giant strength* and the *potion of stone giant strength* have the same effect.
 
-| Type	of	Giant     | Strength | Rarity    |
-|-------------------|----------|-----------|
-| Hill	giant        | 21       | Uncommon  |
-| Frost/stone	giant | 23       | Rare      |
-| Fire	giant        | 25       | Rare      |
-| Cloud	giant       | 27       | Very	rare |
-| Storm	giant       | 29       | Legendary |
+| Type of Giant     |   Strength | Rarity    |
+|-------------------|------------|-----------|
+| Hill giant        |         21 | Uncommon  |
+| Frost/stone giant |         23 | Rare      |
+| Fire giant        |         25 | Rare      |
+| Cloud giant       |         27 | Very rare |
+| Storm giant       |         29 | Legendary |
 
 # **Potion of Growth**
 
@@ -12259,12 +12244,12 @@ Whatever its potency, the potion's red liquid glimmers when agitated.
 
 # **Potions of Healing**
 
-| Potion	of	…      | Rarity    | HP	Regained |
-|------------------|-----------|-------------|
-| Healing          | Common    | 2d4	+	2     |
-| Greater	healing  | Uncommon  | 4d4	+	4     |
-| Superior	healing | Rare      | 8d4	+	8     |
-| Supreme	healing  | Very	rare | 10d4	+	20   |
+| Potion of …      | Rarity    | HP Regained   |
+|------------------|-----------|---------------|
+| Healing          | Common    | 2d4 + 2       |
+| Greater healing  | Uncommon  | 4d4 + 4       |
+| Superior healing | Rare      | 8d4 + 8       |
+| Supreme healing  | Very rare | 10d4 + 20     |
 
 # **Potion of Heroism**
 
@@ -12298,13 +12283,13 @@ If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 Con
 
 When you drink this potion, you gain resistance to one type of damage for 1 hour. The GM chooses the type or determines it randomly from the options below.
 
-| d10 | Damage	Type | d10 | Damage	Type |
-|-----|-------------|-----|-------------|
-| 1   | Acid        | 6   | Necrotic    |
-| 2   | Cold        | 7   | Poison      |
-| 3   | Fire        | 8   | Psychic     |
-| 4   | Force       | 9   | Radiant     |
-| 5   | Lightning   | 10  | Thunder     |
+|   d10 | Damage Type   |   d10 | Damage Type   |
+|-------|---------------|-------|---------------|
+|     1 | Acid          |     6 | Necrotic      |
+|     2 | Cold          |     7 | Poison        |
+|     3 | Fire          |     8 | Psychic       |
+|     4 | Force         |     9 | Radiant       |
+|     5 | Lightning     |    10 | Thunder       |
 
 ## **Potion of Speed**
 
@@ -12364,7 +12349,7 @@ If you help slay an air elemental while attuned to the ring, you gain access to 
 - You have a flying speed equal to your walking speed and can hover.
 - You can cast the following spells from the ring, expending the necessary number of charges: *chain lightning* (3 charges), *gust of wind* (2 charges), or *wind wall* (1 charge).
 
-*Ring of Earth Elemental Command.* You can expend 2 of the ring's charges to cast *dominate monster* on an earth elemental. In addition, you can move in difficult terrain that is composed of rubble,  rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.
+*Ring of Earth Elemental Command.* You can expend 2 of the ring's charges to cast *dominate monster* on an earth elemental. In addition, you can move in difficult terrain that is composed of rubble, rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.
 
 If you help slay an earth elemental while attuned to the ring, you gain access to the following additional properties:
 
@@ -12446,18 +12431,18 @@ While wearing this ring, you regain 1d6 hit points every 10 minutes, provided th
 
 You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.
 
-| d10 | Damage	Type | Gem        |
-|-----|-------------|------------|
-| 1   | Acid        | Pearl      |
-| 2   | Cold        | Tourmaline |
-| 3   | Fire        | Garnet     |
-| 4   | Force       | Sapphire   |
-| 5   | Lightning   | Citrine    |
-| 6   | Necrotic    | Jet        |
-| 7   | Poison      | Amethyst   |
-| 8   | Psychic     | Jade       |
-| 9   | Radiant     | Topaz      |
-| 10  | Thunder     | Spinel     |
+|   d10 | Damage Type   | Gem        |
+|-------|---------------|------------|
+|     1 | Acid          | Pearl      |
+|     2 | Cold          | Tourmaline |
+|     3 | Fire          | Garnet     |
+|     4 | Force         | Sapphire   |
+|     5 | Lightning     | Citrine    |
+|     6 | Necrotic      | Jet        |
+|     7 | Poison        | Amethyst   |
+|     8 | Psychic       | Jade       |
+|     9 | Radiant       | Topaz      |
+|    10 | Thunder       | Spinel     |
 
 ## **Ring of Shooting Stars**
 
@@ -12475,12 +12460,12 @@ Each sphere appears in an unoccupied space you can see within 120 feet of you. T
 
 As a bonus action, you can move each sphere up to 30 feet, but no farther than 120 feet away from you. When a creature other than you comes within 5 feet of a sphere, the sphere discharges lightning at that creature and disappears. That creature must make a DC 15 Dexterity saving throw. On a failed save, the creature takes lightning damage based on the number of spheres you created.
 
-| Spheres | Lightning	Damage |
-|---------|------------------|
-| 4       | 2d4              |
-| 3       | 2d6              |
-| 2       | 5d4              |
-| 1       | 4d12             |
+|   Spheres | Lightning Damage   |
+|-----------|--------------------|
+|         4 | 2d4                |
+|         3 | 2d6                |
+|         2 | 5d4                |
+|         1 | 4d12               |
 
 *Shooting Stars.* You can expend 1 to 3 charges as an action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of you. Each creature within a 15-foot cube originating from that point is showered in sparks and must make a DC 15 Dexterity saving throw, taking 5d4 fire damage on a failed save, or half as much damage on a successful one.
 
@@ -12488,7 +12473,7 @@ As a bonus action, you can move each sphere up to 30 feet, but no farther than 1
 
 *Ring, rare (requires attunement)*
 
-This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 − 1 levels of stored spells chosen by the GM.
+This ring stores spells cast into it, holding them until the attuned wearer uses them. The ring can store up to 5 levels worth of spells at a time. When found, it contains 1d6 - 1 levels of stored spells chosen by the GM.
 
 Any creature can cast a spell of 1st through 5th level into the ring by touching the ring as the spell is cast. The spell has no effect, other than to be stored in the ring. If the ring can't hold the spell, the spell is expended without effect. The level of the slot used to cast the spell determines how much space it uses.
 
@@ -12530,7 +12515,7 @@ While wearing this ring, you can use an action to expend 1 of its 3 charges to c
 
 *Ring, uncommon (requires attunement)*
 
-While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as −50 degrees Fahrenheit.
+While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as -50 degrees Fahrenheit.
 
 # **Ring of Water Walking**
 
@@ -12542,7 +12527,7 @@ While wearing this ring, you can stand on and move across any liquid surface as 
 
 #### *Ring, rare (requires attunement)*
 
-While wearing this ring, you can use an action to speak its command word. When you do so, you can  see into and through solid matter for 1 minute. This vision has a radius of 30 feet. To you, solid objects within that radius appear transparent and don't prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead.
+While wearing this ring, you can use an action to speak its command word. When you do so, you can see into and through solid matter for 1 minute. This vision has a radius of 30 feet. To you, solid objects within that radius appear transparent and don't prevent light from passing through them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead.
 
 Whenever you use the ring again before taking a long rest, you must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion.
 
@@ -12605,21 +12590,21 @@ The robe has two of each of the following patches:
 
 In addition, the robe has 4d4 other patches. The GM chooses the patches or determines them randomly.
 
-| d100  | Patch                                                                                                                                                                                                         |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 01–08 | Bag	of	100	gp                                                                                                                                                                                                 |
-| 09–15 | Silver	coffer	(1	foot	long,	6	inches	wide	and<br>deep)	worth	500	gp                                                                                                                                           |
-| 16–22 | Iron	door	(up	to	10	feet	wide and	10	feet	high,<br>barred	on	one	side	of	your	choice),	which	you<br>can	place	in	an	opening	you	can	reach;	it<br>conforms	to	fit	the	opening,	attaching	and<br>hinging	itself |
-| 23–30 | 10	gems	worth	100	gp	each                                                                                                                                                                                     |
-| 31–44 | Wooden	ladder	(24	feet	long)                                                                                                                                                                                  |
-| 45–51 | A	riding	horse	with	saddle	bags                                                                                                                                                                               |
-| 52–59 | Pit	(a	cube	10	feet	on	a	side),	which	you	can<br>place	on	the	ground	within	10	feet	of	you                                                                                                                    |
-| 60–68 | 4	potions	of	healing                                                                                                                                                                                          |
-| 69–75 | Rowboat	(12	feet	long)                                                                                                                                                                                        |
-| 76–83 | Spell	scroll	containing	one	spell	of	1st	to	3rd<br>level                                                                                                                                                      |
-| 84–90 | 2	mastiffs                                                                                                                                                                                                    |
-| 91–96 | Window	(2	feet	by	4	feet,	up	to	2	feet	deep),<br>which	you	can	place	on	a	vertical	surface	you<br>can	reach                                                                                                   |
-| 97–00 | Portable	ram                                                                                                                                                                                                  |
+| d100   | Patch                                                                                                                                                                                             |
+|--------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01–08  | Bag of 100 gp                                                                                                                                                                                     |
+| 09–15  | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 gp                                                                                                                                  |
+| 16–22  | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
+| 23–30  | 10 gems worth 100 gp each                                                                                                                                                                         |
+| 31–44  | Wooden ladder (24 feet long)                                                                                                                                                                      |
+| 45–51  | A riding horse with saddle bags                                                                                                                                                                   |
+| 52–59  | Pit (a cube 10 feet on a side), which you can place on the ground within 10 feet of you                                                                                                           |
+| 60–68  | 4 potions of healing                                                                                                                                                                              |
+| 69–75  | Rowboat (12 feet long)                                                                                                                                                                            |
+| 76–83  | Spell scroll containing one spell of 1st to 3rd level                                                                                                                                             |
+| 84–90  | 2 mastiffs                                                                                                                                                                                        |
+| 91–96  | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach                                                                                             |
+| 97–00  | Portable ram                                                                                                                                                                                      |
 
 #### **Rod of Absorption**
 
@@ -12679,7 +12664,7 @@ If you press **button 6**, the rod assumes or remains in its normal form and ind
 
 #### *Rod, rare (requires attunement)*
 
-You can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of you. Each target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 8 hours. While charmed in this way, the creature regards you as its  trusted leader. If harmed by you or your companions, or commanded to do something contrary to its nature, a target ceases to be charmed in this way. The rod can't be used again until the next dawn.
+You can use an action to present the rod and command obedience from each creature of your choice that you can see within 120 feet of you. Each target must succeed on a DC 15 Wisdom saving throw or be charmed by you for 8 hours. While charmed in this way, the creature regards you as its trusted leader. If harmed by you or your companions, or commanded to do something contrary to its nature, a target ceases to be charmed in this way. The rod can't be used again until the next dawn.
 
 #### **Rod of Security**
 
@@ -12768,18 +12753,18 @@ The level of the spell on the scroll determines the spell's saving throw DC and 
 
 #### **Spell Scroll**
 
-| Spell	Level | Rarity    | Save	DC | Attack	Bonus |
-|-------------|-----------|---------|--------------|
-| Cantrip     | Common    | 13      | +5           |
-| 1st         | Common    | 13      | +5           |
-| 2nd         | Uncommon  | 13      | +5           |
-| 3rd         | Uncommon  | 15      | +7           |
-| 4th         | Rare      | 15      | +7           |
-| 5th         | Rare      | 17      | +9           |
-| 6th         | Very	rare | 17      | +9           |
-| 7th         | Very	rare | 18      | +10          |
-| 8th         | Very	rare | 18      | +10          |
-| 9th         | Legendary | 19      | +11          |
+| Spell Level   | Rarity    |   Save DC |   Attack Bonus |
+|---------------|-----------|-----------|----------------|
+| Cantrip       | Common    |        13 |             +5 |
+| 1st           | Common    |        13 |             +5 |
+| 2nd           | Uncommon  |        13 |             +5 |
+| 3rd           | Uncommon  |        15 |             +7 |
+| 4th           | Rare      |        15 |             +7 |
+| 5th           | Rare      |        17 |             +9 |
+| 6th           | Very rare |        17 |             +9 |
+| 7th           | Very rare |        18 |            +10 |
+| 8th           | Very rare |        18 |            +10 |
+| 9th           | Legendary |        19 |            +11 |
 
 A wizard spell on a *spell scroll* can be copied just as spells in spellbooks can be copied. When a spell is copied from a *spell scroll*, the copier must succeed on an Intelligence (Arcana) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the *spell scroll* is destroyed.
 
@@ -12803,14 +12788,14 @@ If you attempt to control a sphere that is under another creature's control, you
 
 If the sphere comes into contact with a planar portal, such as that created by the *gate* spell, or an extradimensional space, such as that within a *portable hole*, the GM determines randomly what happens, using the following table.
 
-| d100  | Result                                        |
-|-------|-----------------------------------------------|
-| 01–50 | The	sphere	is	destroyed.                      |
-| 51–85 | The	sphere	moves	through	the	portal	or	into   |
-|       | the	extradimensional	space.                   |
-| 86–00 | A	spatial	rift	sends	each	creature	and	object |
-|       | within	180	feet	of	the	sphere,	including	the  |
-|       | sphere,	to	a	random	plane	of	existence.       |
+| d100   | Result                                        |
+|--------|-----------------------------------------------|
+| 01–50  | The sphere is destroyed.                      |
+| 51–85  | The sphere moves through the portal or into   |
+|        | the extradimensional space.                   |
+| 86–00  | A spatial rift sends each creature and object |
+|        | within 180 feet of the sphere, including the  |
+|        | sphere, to a random plane of existence.       |
 
 #### **Staff of Charming**
 
@@ -12910,10 +12895,10 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 
 #### **Distance from Origin Damage**
 
-| 10	ft.	away	or	closer | 8	×	the	number	of	charges	in	the	staff |
-|-----------------------|----------------------------------------|
-| 11	to	20	ft.	away     | 6	×	the	number	of	charges	in	the	staff |
-| 21	to	30	ft.	away     | 4	×	the	number	of	charges	in	the	staff |
+| 10 ft. away or closer   | 8 × the number of charges in the staff   |
+|-------------------------|------------------------------------------|
+| 11 to 20 ft. away       | 6 × the number of charges in the staff   |
+| 21 to 30 ft. away       | 4 × the number of charges in the staff   |
 
 #### **Staff of the Python**
 
@@ -13197,26 +13182,26 @@ The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand'
 
 #### **d100 Effect**
 
-| 01–05 | You	cast	slow.                                                                                                                                                                                                                                                                                    |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 06–10 | You	cast	faerie	fire.                                                                                                                                                                                                                                                                             |
-| 11–15 | You	are	stunned	until	the	start	of	your	next	turn,<br>believing	something	awesome	just	happened.                                                                                                                                                                                                  |
-| 16–20 | You	cast	gust	of	wind.                                                                                                                                                                                                                                                                            |
-| 21–25 | You	cast	detect	thoughts	on	the	target	you<br>chose.	If	you	didn't	target	a	creature,	you<br>instead	take	1d6	psychic	damage.                                                                                                                                                                     |
-| 26–30 | You	cast	stinking	cloud.                                                                                                                                                                                                                                                                          |
-| 31–33 | Heavy	rain	falls	in	a	60-foot	radius	centered	on<br>the	target.	The	area	becomes	lightly	obscured.<br>The	rain	falls	until	the	start	of	your	next	turn.                                                                                                                                           |
-| 34–36 | An	animal	appears	in	the	unoccupied	space<br>nearest	the	target.	The	animal	isn't	under	your<br>control	and	acts	as	it	normally	would.	Roll	a	d100<br>to	determine	which	animal	appears.	On	a	01–25,<br>a	rhinoceros	appears;	on	a	26–50,	an	elephant<br>appears;	and	on	a	51–100,	a	rat	appears. |
-| 37–46 | You	cast	lightning	bolt.                                                                                                                                                                                                                                                                          |
-| 47–49 | A	cloud	of	600	oversized	butterflies	fills	a	30-foot<br>radius	centered	on	the	target.	The	area	becomes<br>heavily	obscured.	The	butterflies	remain	for	10<br>minutes.                                                                                                                            |
-| 50–53 | You	enlarge	the	target	as	if	you	had	cast<br>enlarge/reduce.	If	the	target	can't	be	affected	by<br>that	spell,	or	if	you	didn't	target	a	creature,	you<br>become	the	target.                                                                                                                      |
-| 54–58 | You	cast	darkness.                                                                                                                                                                                                                                                                                |
-| 59–62 | Grass	grows	on	the	ground	in	a	60-foot	radius<br>centered	on	the	target.	If	grass	is	already	there,<br>it	grows	to	ten	times	its	normal	size	and	remains<br>overgrown	for	1	minute.                                                                                                               |
-| 63–65 | An	object	of	the	GM's	choice	disappears	into	the<br>Ethereal	Plane.	The	object	must	be	neither	worn<br>nor	carried,	within	120	feet	of	the	target,	and	no<br>larger	than	10	feet	in	any	dimension.                                                                                                |
-| 66–69 | You	shrink	yourself	as	if	you	had	cast<br>enlarge/reduce	on	yourself.                                                                                                                                                                                                                             |
-| 70–79 | You	cast	fireball.                                                                                                                                                                                                                                                                                |
-| 80–84 | You	cast	invisibility	on	yourself.                                                                                                                                                                                                                                                                |
-| 85–87 | Leaves	grow	from	the	target.	If	you	chose	a	point<br>in	space	as	the	target,	leaves	sprout	from	the<br>creature	nearest	to	that	point.	Unless	they	are<br>picked	off,	the	leaves	turn	brown	and	fall	off<br>after	24	hours.                                                                       |
-| 88–90 | A	stream	of	1d4	×	10	gems,	each	worth	1	gp,<br>shoots	from	the	wand's	tip	in	a	line	30	feet	long<br>and	5	feet	wide.	Each	gem	deals	1	bludgeoning<br>damage,	and	the	total	damage	of	the	gems	is                                                                                                  |
+| 01–05   | You cast slow.                                                                                                                                                                                                                                                                     |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 06–10   | You cast faerie fire.                                                                                                                                                                                                                                                              |
+| 11–15   | You are stunned until the start of your next turn, believing something awesome just happened.                                                                                                                                                                                      |
+| 16–20   | You cast gust of wind.                                                                                                                                                                                                                                                             |
+| 21–25   | You cast detect thoughts on the target you chose. If you didn't target a creature, you instead take 1d6 psychic damage.                                                                                                                                                            |
+| 26–30   | You cast stinking cloud.                                                                                                                                                                                                                                                           |
+| 31–33   | Heavy rain falls in a 60-foot radius centered on the target. The area becomes lightly obscured. The rain falls until the start of your next turn.                                                                                                                                  |
+| 34–36   | An animal appears in the unoccupied space nearest the target. The animal isn't under your control and acts as it normally would. Roll a d100 to determine which animal appears. On a 01–25, a rhinoceros appears; on a 26–50, an elephant appears; and on a 51–100, a rat appears. |
+| 37–46   | You cast lightning bolt.                                                                                                                                                                                                                                                           |
+| 47–49   | A cloud of 600 oversized butterflies fills a 30-foot radius centered on the target. The area becomes heavily obscured. The butterflies remain for 10 minutes.                                                                                                                      |
+| 50–53   | You enlarge the target as if you had cast enlarge/reduce. If the target can't be affected by that spell, or if you didn't target a creature, you become the target.                                                                                                                |
+| 54–58   | You cast darkness.                                                                                                                                                                                                                                                                 |
+| 59–62   | Grass grows on the ground in a 60-foot radius centered on the target. If grass is already there, it grows to ten times its normal size and remains overgrown for 1 minute.                                                                                                         |
+| 63–65   | An object of the GM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the target, and no larger than 10 feet in any dimension.                                                                                          |
+| 66–69   | You shrink yourself as if you had cast enlarge/reduce on yourself.                                                                                                                                                                                                                 |
+| 70–79   | You cast fireball.                                                                                                                                                                                                                                                                 |
+| 80–84   | You cast invisibility on yourself.                                                                                                                                                                                                                                                 |
+| 85–87   | Leaves grow from the target. If you chose a point in space as the target, leaves sprout from the creature nearest to that point. Unless they are picked off, the leaves turn brown and fall off after 24 hours.                                                                    |
+| 88–90   | A stream of 1d4 × 10 gems, each worth 1 gp, shoots from the wand's tip in a line 30 feet long and 5 feet wide. Each gem deals 1 bludgeoning damage, and the total damage of the gems is                                                                                            |
 
 divided equally among all creatures in the line.
 
@@ -13283,11 +13268,10 @@ A sentient item has some ability to communicate, either by sharing its emotions,
 
 #### **d100 Communication**
 
-| 01–60 | The	item	communicates	by	transmitting	emotion<br>to	the	creature	carrying	or	wielding	it.                                                                                   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 61–90 | The	item	can	speak,	read,	and	understand	one<br>or	more	languages.                                                                                                          |
-| 91–00 | The	item	can	speak,	read,	and	understand	one<br>or	more	languages.	In	addition,	the	item	can<br>communicate	telepathically	with	any	character<br>that	carries	or	wields	it. |
-|       |                                                                                                                                                                             |
+| 01–60   | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                                             |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 61–90   | The item can speak, read, and understand one or more languages.                                                                                                    |
+| 91–00   | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
 
 #### **Senses**
 
@@ -13304,13 +13288,13 @@ With sentience comes awareness. A sentient item can perceive its surroundings ou
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
-| d100  | Alignment      | d100  | Alignment       |
-|-------|----------------|-------|-----------------|
-| 01–15 | Lawful	good    | 74–85 | Chaotic	neutral |
-| 16–35 | Neutral	good   | 86–89 | Lawful	evil     |
-| 36–50 | Chaotic	good   | 90–96 | Neutral	evil    |
-| 51–63 | Lawful	neutral | 97–00 | Chaotic	evil    |
-| 64–73 | Neutral        |       |                 |
+| d100   | Alignment      | d100   | Alignment       |
+|--------|----------------|--------|-----------------|
+| 01–15  | Lawful good    | 74–85  | Chaotic neutral |
+| 16–35  | Neutral good   | 86–89  | Lawful evil     |
+| 36–50  | Chaotic good   | 90–96  | Neutral evil    |
+| 51–63  | Lawful neutral | 97–00  | Chaotic evil    |
+| 64–73  | Neutral        |        |                 |
 
 ## **Special Purpose**
 
@@ -13346,7 +13330,7 @@ If its wielder refuses to comply with the item's wishes, the item can do any or 
 - Suppress one or more of its activated properties.
 - Attempt to take control of its wielder.
 
-If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving  throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
+If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
 
 # **Artifacts**
 
@@ -13376,7 +13360,7 @@ world, to advance the worship of Tiamat, or something else the GM decides.
 
 *Spells.* The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: *cure wounds* (5th-level version, 3 charges), *daylight* (1 charge), *death ward* (2 charges), or *scrying* (3 charges).
 
-You can also use an action to cast the *detect magic*  spell from the orb without using any charges.
+You can also use an action to cast the *detect magic* spell from the orb without using any charges.
 
 *Call Dragons.* While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
 
@@ -13394,12 +13378,12 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 
 | Size       | Space                  | Examples            |
 |------------|------------------------|---------------------|
-| Tiny       | 2½	by	2½	ft.           | Imp,	sprite         |
-| Small      | 5	by	5	ft.             | Giant	rat,	goblin   |
-| Medium     | 5	by	5	ft.             | Orc,	werewolf       |
-| Large      | 10	by	10	ft.           | Hippogriff,	ogre    |
-| Huge       | 15	by	15	ft.           | Fire	giant,	treant  |
-| Gargantuan | 20	by	20	ft.	or	larger | Kraken,	purple	worm |
+| Tiny       | 2½ by 2½ ft.           | Imp, sprite         |
+| Small      | 5 by 5 ft.             | Giant rat, goblin   |
+| Medium     | 5 by 5 ft.             | Orc, werewolf       |
+| Large      | 10 by 10 ft.           | Hippogriff, ogre    |
+| Huge       | 15 by 15 ft.           | Fire giant, treant  |
+| Gargantuan | 20 by 20 ft. or larger | Kraken, purple worm |
 
 ## **Modifying Creatures**
 
@@ -13413,7 +13397,7 @@ The game includes the following monster types, which have no rules of their own.
 
 **Aberrations** are utterly alien beings. Many of them have innate magical abilities drawn from the creature's alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, beholders, mind flayers, and slaadi.
 
-**Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them  have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
+**Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
 
 **Celestials** are creatures native to the Upper Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include angels, couatls, and pegasi.
 
@@ -13441,7 +13425,7 @@ The game includes the following monster types, which have no rules of their own.
 
 ## **Tags**
 
-A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the *humanoid (orc)* type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the  game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
+A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the *humanoid (orc)* type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
 
 # **Alignment**
 
@@ -13467,14 +13451,14 @@ A monster's size determines the die used to calculate its hit points, as shown i
 
 ### **Hit Dice by Size**
 
-| Monster	Size | Hit	Die | Average	HP	per	Die |
-|--------------|---------|--------------------|
-| Tiny         | d4      | 2½                 |
-| Small        | d6      | 3½                 |
-| Medium       | d8      | 4½                 |
-| Large        | d10     | 5½                 |
-| Huge         | d12     | 6½                 |
-| Gargantuan   | d20     | 10½                |
+| Monster Size   | Hit Die   | Average HP per Die   |
+|----------------|-----------|----------------------|
+| Tiny           | d4        | 2½                   |
+| Small          | d6        | 3½                   |
+| Medium         | d8        | 4½                   |
+| Large          | d10       | 5½                   |
+| Huge           | d12       | 6½                   |
+| Gargantuan     | d20       | 10½                  |
 
 A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8 + 2 hit points (average 11).
 
@@ -13514,25 +13498,25 @@ A saving throw bonus is the sum of a monster's relevant ability modifier and its
 
 # **Proficiency Bonus by Challenge Rating**
 
-| Proficiency<br>Challenge<br>Bonus |    |  | Challenge | Proficiency<br>Bonus |  |
-|-----------------------------------|----|--|-----------|----------------------|--|
-| 0                                 | +2 |  | 14        | +5                   |  |
-| 1/8                               | +2 |  | 15        | +5                   |  |
-| 1/4                               | +2 |  | 16        | +5                   |  |
-| 1/2                               | +2 |  | 17        | +6                   |  |
-| 1                                 | +2 |  | 18        | +6                   |  |
-| 2                                 | +2 |  | 19        | +6                   |  |
-| 3                                 | +2 |  | 20        | +6                   |  |
-| 4                                 | +2 |  | 21        | +7                   |  |
-| 5                                 | +3 |  | 22        | +7                   |  |
-| 6                                 | +3 |  | 23        | +7                   |  |
-| 7                                 | +3 |  | 24        | +7                   |  |
-| 8                                 | +3 |  | 25        | +8                   |  |
-| 9                                 | +4 |  | 26        | +8                   |  |
-| 10                                | +4 |  | 27        | +8                   |  |
-| 11                                | +4 |  | 28        | +8                   |  |
-| 12                                | +4 |  | 29        | +9                   |  |
-| 13                                | +5 |  | 30        | +9                   |  |
+| Proficiency Challenge Bonus   |    |    |   Challenge |   Proficiency Bonus |    |
+|-------------------------------|----|----|-------------|---------------------|----|
+| 0                             | +2 |    |          14 |                  +5 |    |
+| 1/8                           | +2 |    |          15 |                  +5 |    |
+| 1/4                           | +2 |    |          16 |                  +5 |    |
+| 1/2                           | +2 |    |          17 |                  +6 |    |
+| 1                             | +2 |    |          18 |                  +6 |    |
+| 2                             | +2 |    |          19 |                  +6 |    |
+| 3                             | +2 |    |          20 |                  +6 |    |
+| 4                             | +2 |    |          21 |                  +7 |    |
+| 5                             | +3 |    |          22 |                  +7 |    |
+| 6                             | +3 |    |          23 |                  +7 |    |
+| 7                             | +3 |    |          24 |                  +7 |    |
+| 8                             | +3 |    |          25 |                  +8 |    |
+| 9                             | +4 |    |          26 |                  +8 |    |
+| 10                            | +4 |    |          27 |                  +8 |    |
+| 11                            | +4 |    |          28 |                  +8 |    |
+| 12                            | +4 |    |          29 |                  +9 |    |
+| 13                            | +5 |    |          30 |                  +9 |    |
 
 # **Skills**
 
@@ -13606,25 +13590,25 @@ Unless something tells you otherwise, a monster summoned by a spell or other mag
 
 #### **Experience Points by Challenge Rating**
 
-| Challenge | XP      |  | Challenge | XP      |  |
-|-----------|---------|--|-----------|---------|--|
-| 0         | 0	or	10 |  | 14        | 11,500  |  |
-| 1/8       | 25      |  | 15        | 13,000  |  |
-| 1/4       | 50      |  | 16        | 15,000  |  |
-| 1/2       | 100     |  | 17        | 18,000  |  |
-| 1         | 200     |  | 18        | 20,000  |  |
-| 2         | 450     |  | 19        | 22,000  |  |
-| 3         | 700     |  | 20        | 25,000  |  |
-| 4         | 1,100   |  | 21        | 33,000  |  |
-| 5         | 1,800   |  | 22        | 41,000  |  |
-| 6         | 2,300   |  | 23        | 50,000  |  |
-| 7         | 2,900   |  | 24        | 62,000  |  |
-| 8         | 3,900   |  | 25        | 75,000  |  |
-| 9         | 5,000   |  | 26        | 90,000  |  |
-| 10        | 5,900   |  | 27        | 105,000 |  |
-| 11        | 7,200   |  | 28        | 120,000 |  |
-| 12        | 8,400   |  | 29        | 135,000 |  |
-| 13        | 10,000  |  | 30        | 155,000 |  |
+| Challenge   | XP      |    |   Challenge | XP      |    |
+|-------------|---------|----|-------------|---------|----|
+| 0           | 0 or 10 |    |          14 | 11,500  |    |
+| 1/8         | 25      |    |          15 | 13,000  |    |
+| 1/4         | 50      |    |          16 | 15,000  |    |
+| 1/2         | 100     |    |          17 | 18,000  |    |
+| 1           | 200     |    |          18 | 20,000  |    |
+| 2           | 450     |    |          19 | 22,000  |    |
+| 3           | 700     |    |          20 | 25,000  |    |
+| 4           | 1,100   |    |          21 | 33,000  |    |
+| 5           | 1,800   |    |          22 | 41,000  |    |
+| 6           | 2,300   |    |          23 | 50,000  |    |
+| 7           | 2,900   |    |          24 | 62,000  |    |
+| 8           | 3,900   |    |          25 | 75,000  |    |
+| 9           | 5,000   |    |          26 | 90,000  |    |
+| 10          | 5,900   |    |          27 | 105,000 |    |
+| 11          | 7,200   |    |          28 | 120,000 |    |
+| 12          | 8,400   |    |          29 | 135,000 |    |
+| 13          | 10,000  |    |          30 | 155,000 |    |
 
 # **Special Traits**
 
@@ -13724,7 +13708,7 @@ If a legendary creature has lair actions, it can use them to harness the ambient
 
 # **Regional Effects**
 
-The mere presence of a legendary creature can have strange and wondrous effects on its environment, as  noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
+The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
 
 # **Monsters (A)**
 
@@ -13740,7 +13724,7 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 
 | STR     | DEX    | CON     | INT     | WIS     | CHA     |
 |---------|--------|---------|---------|---------|---------|
-| 21	(+5) | 9	(−1) | 15	(+2) | 18	(+4) | 15	(+2) | 18	(+4) |
+| 21 (+5) | 9 (-1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
 
 **Saving Throws** Con +6, Int +8, Wis +6
 
@@ -13792,7 +13776,7 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 18	(+4) | 18	(+4) | 17	(+3) | 20	(+5) | 20	(+5) |
+| 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 20 (+5) | 20 (+5) |
 
 **Saving Throws** Wis +9, Cha +9
 
@@ -13838,7 +13822,7 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 24	(+7) | 20	(+5) | 24	(+7) | 19	(+4) | 22	(+6) | 25	(+7) |
+| 24 (+7) | 20 (+5) | 24 (+7) | 19 (+4) | 22 (+6) | 25 (+7) |
 
 **Saving Throws** Con +12, Wis +11, Cha +12
 
@@ -13880,9 +13864,9 @@ At will: *detect evil and good*, *invisibility* (self only)
 
 **Armor Class** 21 (natural armor) **Hit Points** 243 (18d10 + 144) **Speed** 50 ft., fly 150 ft.
 
-| STR     | DEX     | CON     | INT     | WIS | CHA              |
-|---------|---------|---------|---------|-----|------------------|
-| 26	(+8) | 22	(+6) | 26	(+8) | 25	(+7) |     | 25	(+7) 30	(+10) |
+| STR     | DEX     | CON     | INT     | WIS   | CHA              |
+|---------|---------|---------|---------|-------|------------------|
+| 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) |       | 25 (+7) 30 (+10) |
 
 **Saving Throws** Int +14, Wis +14, Cha +17
 
@@ -13924,7 +13908,7 @@ At will: *detect evil and good*, *invisibility* (self only)
 
 *Flying Sword.* The solar releases its greatsword to hover magically in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar's hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies.
 
-*Healing Touch (4/Day).* The solar touches another creature. The target magically regains 40 (8d8 + 4) hit  points and is freed from any curse, disease, poison, blindness, or deafness.
+*Healing Touch (4/Day).* The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
 #### **Legendary Actions**
 
@@ -13950,7 +13934,7 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
 |---------|---------|---------|--------|--------|--------|
-| 14	(+2) | 11	(+0) | 13	(+1) | 1	(−5) | 3	(−4) | 1	(−5) |
+| 14 (+2) | 11 (+0) | 13 (+1) | 1 (-5) | 3 (-4) | 1 (-5) |
 
 **Damage Immunities** poison, psychic
 
@@ -13984,9 +13968,9 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 **Speed** 0 ft., fly 50 ft. (hover)
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |  |
-|---------|---------|---------|--------|--------|--------|--|
-| 12	(+1) | 15	(+2) | 11	(+0) | 1	(−5) | 5	(−3) | 1	(−5) |  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |    |
+|---------|---------|---------|--------|--------|--------|----|
+| 12 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 5 (-3) | 1 (-5) |    |
 
 #### **Saving Throws** Dex +4
 
@@ -14017,12 +14001,12 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 #### **Hit Points** 33 (6d10)
 
 ```
-Speed 10	ft.
+Speed 10 ft.
 ```
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |  |
-|---------|---------|---------|--------|--------|--------|--|
-| 17	(+3) | 14	(+2) | 10	(+0) | 1	(−5) | 3	(−4) | 1	(−5) |  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |    |
+|---------|---------|---------|--------|--------|--------|----|
+| 17 (+3) | 14 (+2) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |    |
 
 **Damage Immunities** poison, psychic
 
@@ -14054,9 +14038,9 @@ Speed 10	ft.
 
 **Speed** 30 ft., burrow 10 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 17	(+3) | 11	(+0) | 13	(+1) | 1	(−5) | 13	(+1) | 6	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 17 (+3) | 11 (+0) | 13 (+1) | 1 (-5) | 13 (+1) | 6 (-2) |    |
 
 **Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
 
@@ -14082,7 +14066,7 @@ Speed 10	ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 17	(+3) | 12	(+1) | 15	(+2) | 12	(+1) | 13	(+1) | 10	(+0) |
+| 17 (+3) | 12 (+1) | 15 (+2) | 12 (+1) | 13 (+1) | 10 (+0) |
 
 **Saving Throws** Con +4
 
@@ -14118,9 +14102,9 @@ Speed 10	ft.
 
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |  |
-|---------|--------|---------|--------|--------|--------|--|
-| 16	(+3) | 8	(−1) | 15	(+2) | 2	(−4) | 8	(−1) | 7	(−2) |  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |    |
+|---------|--------|---------|--------|--------|--------|----|
+| 16 (+3) | 8 (-1) | 15 (+2) | 2 (-4) | 8 (-1) | 7 (-2) |    |
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -14140,11 +14124,11 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 #### **Behir**
 
-*Huge monstrosity, neutral evil*  **Armor Class** 17 (natural armor) **Hit Points** 168 (16d12 + 64) **Speed** 50 ft., climb 40 ft.
+*Huge monstrosity, neutral evil* **Armor Class** 17 (natural armor) **Hit Points** 168 (16d12 + 64) **Speed** 50 ft., climb 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
 |---------|---------|---------|--------|---------|---------|
-| 23	(+6) | 16	(+3) | 18	(+4) | 7	(−2) | 14	(+2) | 12	(+1) |
+| 23 (+6) | 16 (+3) | 18 (+4) | 7 (-2) | 14 (+2) | 12 (+1) |
 
 **Skills** Perception +6, Stealth +7
 
@@ -14178,7 +14162,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 15	(+2) | 14	(+2) | 13	(+1) | 8	(−1) | 11	(+0) | 9	(−1) |
+| 15 (+2) | 14 (+2) | 13 (+1) | 8 (-1) | 11 (+0) | 9 (-1) |
 
 **Skills** Stealth +6, Survival +2
 
@@ -14204,9 +14188,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Speed** 40 ft., burrow 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 19	(+4) | 11	(+0) | 21	(+5) | 2	(−4) | 10	(+0) | 5	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 19 (+4) | 11 (+0) | 21 (+5) | 2 (-4) | 10 (+0) | 5 (-3) |    |
 
 #### **Skills** Perception +6
 
@@ -14234,7 +14218,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
 |---------|---------|---------|--------|---------|---------|
-| 18	(+4) | 14	(+2) | 14	(+2) | 9	(−1) | 13	(+1) | 11	(+0) |
+| 18 (+4) | 14 (+2) | 14 (+2) | 9 (-1) | 13 (+1) | 11 (+0) |
 
 **Skills** Athletics +6, Perception +3, Survival +3
 
@@ -14262,9 +14246,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 **Armor Class** 14 (natural armor) **Hit Points** 114 (12d10 + 48) **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |  |
-|---------|---------|---------|--------|---------|---------|--|
-| 19	(+4) | 11	(+0) | 19	(+4) | 3	(−4) | 14	(+2) | 10	(+0) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |    |
+|---------|---------|---------|--------|---------|---------|----|
+| 19 (+4) | 11 (+0) | 19 (+4) | 3 (-4) | 14 (+2) | 10 (+0) |    |
 
 **Skills** Perception +8
 
@@ -14294,7 +14278,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 19	(+4) | 10	(+0) | 16	(+3) | 5	(−3) | 11	(+0) | 5	(−3) |
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3) | 11 (+0) | 5 (-3) |
 
 **Skills** Perception +4
 
@@ -14332,7 +14316,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 17	(+3) | 15	(+2) | 12	(+1) | 13	(+1) | 12	(+1) | 14	(+2) |
+| 17 (+3) | 15 (+2) | 12 (+1) | 13 (+1) | 12 (+1) | 14 (+2) |
 
 **Skills** Stealth +5
 
@@ -14372,7 +14356,7 @@ A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
 |--------|---------|---------|--------|---------|--------|
-| 6	(−2) | 12	(+1) | 12	(+1) | 2	(−4) | 13	(+1) | 5	(−3) |
+| 6 (-2) | 12 (+1) | 12 (+1) | 2 (-4) | 13 (+1) | 5 (-3) |
 
 **Senses** darkvision 60 ft., passive Perception 11
 
@@ -14396,7 +14380,7 @@ A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 20	(+5) | 17	(+3) | 18	(+4) | 20	(+5) | 18	(+4) |
+| 16 (+3) | 20 (+5) | 17 (+3) | 18 (+4) | 20 (+5) | 18 (+4) |
 
 **Saving Throws** Con +5, Wis +7, Cha +6
 
@@ -14443,7 +14427,7 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 16	(+3) | 12	(+1) | 13	(+1) | 2	(−4) | 10	(+0) | 5	(−3) |
+| 16 (+3) | 12 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Skills** Stealth +3
 
@@ -14477,7 +14461,7 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 26	(+8) | 15	(+2) | 22	(+6) | 20	(+5) | 16	(+3) | 22	(+6) |
+| 26 (+8) | 15 (+2) | 22 (+6) | 20 (+5) | 16 (+3) | 22 (+6) |
 
 **Saving Throws** Str +14, Con +12, Wis +9, Cha +12
 
@@ -14511,7 +14495,7 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
 |---------|---------|---------|--------|--------|--------|
-| 11	(+0) | 11	(+0) | 12	(+1) | 5	(−3) | 8	(−1) | 3	(−4) |
+| 11 (+0) | 11 (+0) | 12 (+1) | 5 (-3) | 8 (-1) | 3 (-4) |
 
 **Damage Resistances** cold, fire, lightning
 
@@ -14545,9 +14529,9 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 20	(+5) | 15	(+2) | 21	(+5) | 19	(+4) | 17	(+3) | 16	(+3) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 20 (+5) | 15 (+2) | 21 (+5) | 19 (+4) | 17 (+3) | 16 (+3) |    |
 
 **Saving Throws** Str +9, Con +9, Wis +7, Cha +7
 
@@ -14585,9 +14569,9 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 **Armor Class** 16 (natural armor) **Hit Points** 136 (13d10 + 65) **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |  |
-|---------|---------|---------|--------|---------|---------|--|
-| 19	(+4) | 17	(+3) | 20	(+5) | 5	(−3) | 12	(+1) | 13	(+1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |    |
+|---------|---------|---------|--------|---------|---------|----|
+| 19 (+4) | 17 (+3) | 20 (+5) | 5 (-3) | 12 (+1) | 13 (+1) |    |
 
 **Saving Throws** Str +7, Con +8, Wis +4
 
@@ -14627,7 +14611,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 20	(+5) | 20	(+5) | 18	(+4) | 16	(+3) | 20	(+5) |
+| 18 (+4) | 20 (+5) | 20 (+5) | 18 (+4) | 16 (+3) | 20 (+5) |
 
 **Saving Throws** Str +9, Con +10, Wis +8, Cha +10
 
@@ -14675,7 +14659,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 21	(+5) | 10	(+0) | 22	(+6) | 19	(+4) | 12	(+1) | 15	(+2) |
+| 21 (+5) | 10 (+0) | 22 (+6) | 19 (+4) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Con +11, Int +9, Wis +6, Cha +7
 
@@ -14719,7 +14703,7 @@ creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA     |
 |--------|---------|---------|--------|---------|---------|
-| 5	(−3) | 17	(+3) | 10	(+0) | 7	(−2) | 10	(+0) | 10	(+0) |
+| 5 (-3) | 17 (+3) | 10 (+0) | 7 (-2) | 10 (+0) | 10 (+0) |
 
 **Skills** Stealth +5
 
@@ -14759,9 +14743,9 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 **Speed** 40 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 17	(+3) | 15	(+2) | 18	(+4) | 8	(−1) | 13	(+1) | 8	(−1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 17 (+3) | 15 (+2) | 18 (+4) | 8 (-1) | 13 (+1) | 8 (-1) |    |
 
 **Saving Throws** Dex +5, Wis +4, Cha +2
 
@@ -14805,7 +14789,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 17	(+3) | 18	(+4) | 12	(+1) | 14	(+2) | 14	(+2) |
+| 16 (+3) | 17 (+3) | 18 (+4) | 12 (+1) | 14 (+2) | 14 (+2) |
 
 **Saving Throws** Str +6, Con +7, Wis +5, Cha +5
 
@@ -14837,7 +14821,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 *Tail. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage.
 
-*Hurl Flame. Ranged Spell Attack:* +5 to hit, range 150 ft., one target. *Hit:* 10 (3d6) fire damage. If the target is  a flammable object that isn't being worn or carried, it also catches fire.
+*Hurl Flame. Ranged Spell Attack:* +5 to hit, range 150 ft., one target. *Hit:* 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 
 # **Bearded Devil**
 
@@ -14849,9 +14833,9 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |  |
-|---------|---------|---------|--------|---------|---------|--|
-| 16	(+3) | 15	(+2) | 15	(+2) | 9	(−1) | 11	(+0) | 11	(+0) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |    |
+|---------|---------|---------|--------|---------|---------|----|
+| 16 (+3) | 15 (+2) | 15 (+2) | 9 (-1) | 11 (+0) | 11 (+0) |    |
 
 **Saving Throws** Str +5, Con +4, Wis +2
 
@@ -14879,7 +14863,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 *Beard. Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-*Glaive. Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a  successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+*Glaive. Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 
 #### **Bone Devil**
 
@@ -14893,7 +14877,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 16	(+3) | 18	(+4) | 13	(+1) | 14	(+2) | 16	(+3) |
+| 18 (+4) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 16 (+3) |
 
 **Saving Throws** Int +5, Wis +6, Cha +7
 
@@ -14931,7 +14915,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 15	(+2) | 18	(+4) | 11	(+0) | 12	(+1) | 14	(+2) |
+| 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |
 
 **Saving Throws** Con +7, Wis +4, Cha +5
 
@@ -14957,7 +14941,7 @@ turns, with disadvantage if the quasit is within line of sight, ending the effec
 
 *Chain. Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
 
-*Animate Chains (Recharges after a Short or Long Rest).*  Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.
+*Animate Chains (Recharges after a Short or Long Rest).* Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.
 
 Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
 
@@ -14979,7 +14963,7 @@ Wisdom saving throw or be frightened until the end of its turn.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 16	(+3) | 18	(+4) | 14	(+2) | 14	(+2) | 18	(+4) |
+| 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
 
 **Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
 
@@ -15023,7 +15007,7 @@ Wisdom saving throw or be frightened until the end of its turn.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 22	(+6) | 17	(+3) | 21	(+5) | 12	(+1) | 16	(+3) | 17	(+3) |
+| 22 (+6) | 17 (+3) | 21 (+5) | 12 (+1) | 16 (+3) | 17 (+3) |
 
 **Saving Throws** Str +10, Dex +7, Wis +7, Cha +7
 
@@ -15063,7 +15047,7 @@ Wisdom saving throw or be frightened until the end of its turn.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 21	(+5) | 14	(+2) | 18	(+4) | 18	(+4) | 15	(+2) | 18	(+4) |
+| 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |
 
 **Saving Throws** Dex +7, Con +9, Wis +7, Cha +9
 
@@ -15111,9 +15095,9 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 **Speed** 20 ft., fly 40 ft.
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |  |
-|--------|---------|---------|---------|---------|---------|--|
-| 6	(−2) | 17	(+3) | 13	(+1) | 11	(+0) | 12	(+1) | 14	(+2) |  |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |    |
+|--------|---------|---------|---------|---------|---------|----|
+| 6 (-2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) |    |
 
 **Skills** Deception +4, Insight +3, Persuasion +4, Stealth +5
 
@@ -15153,7 +15137,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
 |---------|--------|---------|--------|---------|--------|
-| 10	(+0) | 5	(−3) | 11	(+0) | 1	(−5) | 11	(+0) | 3	(−4) |
+| 10 (+0) | 5 (-3) | 11 (+0) | 1 (-5) | 11 (+0) | 3 (-4) |
 
 **Damage Resistances** cold
 
@@ -15175,7 +15159,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 26	(+8) | 14	(+2) | 24	(+7) | 22	(+6) | 18	(+4) | 24	(+7) |
+| 26 (+8) | 14 (+2) | 24 (+7) | 22 (+6) | 18 (+4) | 24 (+7) |
 
 **Saving Throws** Dex +8, Con +13, Wis +10
 
@@ -15227,7 +15211,7 @@ At will: *detect magic*, *fireball*
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 18	(+4) | 15	(+2) | 16	(+3) | 2	(−4) | 12	(+1) | 5	(−3) |
+| 18 (+4) | 15 (+2) | 16 (+3) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Skills** Perception +3, Stealth +4
 
@@ -15253,9 +15237,9 @@ At will: *detect magic*, *fireball*
 
 **Speed** 50 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |  |
-|---------|--------|---------|--------|---------|--------|--|
-| 22	(+6) | 9	(−1) | 17	(+3) | 2	(−4) | 11	(+0) | 5	(−3) |  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |    |
+|---------|--------|---------|--------|---------|--------|----|
+| 22 (+6) | 9 (-1) | 17 (+3) | 2 (-4) | 11 (+0) | 5 (-3) |    |
 
 **Senses** passive Perception 10
 
@@ -15263,7 +15247,7 @@ At will: *detect magic*, *fireball*
 
 **Challenge** 5 (1,800 XP)
 
-*Trampling Charge.* If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone.  If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
+*Trampling Charge.* If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
 
 #### **Actions**
 
@@ -15281,9 +15265,9 @@ At will: *detect magic*, *fireball*
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 25	(+7) | 10	(+0) | 19	(+4) | 2	(−4) | 12	(+1) | 9	(−1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 25 (+7) | 10 (+0) | 19 (+4) | 2 (-4) | 12 (+1) | 9 (-1) |    |
 
 **Skills** Perception +4
 
@@ -15313,7 +15297,7 @@ At will: *detect magic*, *fireball*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 11	(+0) | 18	(+4) | 14	(+2) | 11	(+0) | 12	(+1) | 14	(+2) |
+| 11 (+0) | 18 (+4) | 14 (+2) | 11 (+0) | 12 (+1) | 14 (+2) |
 
 **Skills** Deception +6, Insight +3 **Condition Immunities** charmed **Senses** darkvision 60 ft., passive Perception 11 **Languages** Common **Challenge** 3 (700 XP)
 
@@ -15391,7 +15375,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 23	(+6) | 14	(+2) | 21	(+5) | 14	(+2) | 13	(+1) | 17	(+3) |
+| 23 (+6) | 14 (+2) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
 
 **Saving Throws** Dex +7, Con +10, Wis +6, Cha +8
 
@@ -15417,7 +15401,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Tail. Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) bludgeoning damage.
 
-*Frightful Presence.* Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat  the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+*Frightful Presence.* Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
 *Acid Breath (Recharge 5–6).* The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 
@@ -15443,7 +15427,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19	(+4) | 14	(+2) | 17	(+3) | 12	(+1) | 11	(+0) | 15	(+2) |
+| 19 (+4) | 14 (+2) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Dex +5, Con +6, Wis +3, Cha +5
 
@@ -15481,7 +15465,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15	(+2) | 14	(+2) | 13	(+1) | 10	(+0) | 11	(+0) | 13	(+1) |
+| 15 (+2) | 14 (+2) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
 
 **Saving Throws** Dex +4, Con +3, Wis +2, Cha +3
 
@@ -15515,10 +15499,10 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
-| STR                                             | DEX     | CON     | INT     | WIS     | CHA     |  |
-|-------------------------------------------------|---------|---------|---------|---------|---------|--|
-| 29	(+9)                                         | 10	(+0) | 27	(+8) | 18	(+4) | 17	(+3) | 21	(+5) |  |
-| Saving	Throws Dex	+7,	Con	+15,	Wis	+10,	Cha	+12 |         |         |         |         |         |  |
+| STR                                             | DEX     | CON     | INT     | WIS     | CHA     |    |
+|-------------------------------------------------|---------|---------|---------|---------|---------|----|
+| 29 (+9)                                         | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |    |
+| Saving Throws Dex +7, Con +15, Wis +10, Cha +12 |         |         |         |         |         |    |
 
 **Skills** Perception +17, Stealth +7
 
@@ -15568,7 +15552,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 25	(+7) | 10	(+0) | 23	(+6) | 16	(+3) | 15	(+2) | 19	(+4) |
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
 
@@ -15618,9 +15602,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 21	(+5) | 10	(+0) | 19	(+4) | 14	(+2) | 13	(+1) | 17	(+3) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |    |
 
 **Saving Throws** Dex +4, Con +8, Wis +5, Cha +7
 
@@ -15654,7 +15638,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 17	(+3) | 10	(+0) | 15	(+2) | 12	(+1) | 11	(+0) | 15	(+2) |
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
 
@@ -15682,9 +15666,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Armor Class** 21 (natural armor) **Hit Points** 385 (22d20 + 154) **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 27	(+8) | 12	(+1) | 25	(+7) | 20	(+5) | 17	(+3) | 19	(+4) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |    |
 
 **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
 
@@ -15736,7 +15720,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 23	(+6) | 12	(+1) | 21	(+5) | 18	(+4) | 15	(+2) | 17	(+3) |
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
 
 **Saving Throws** Dex +6, Con +10, Wis +7, Cha +8
 
@@ -15788,7 +15772,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19	(+4) | 12	(+1) | 17	(+3) | 16	(+3) | 13	(+1) | 15	(+2) |
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
 
 **Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
 
@@ -15826,9 +15810,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 15	(+2) | 12	(+1) | 13	(+1) | 14	(+2) | 11	(+0) | 13	(+1) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |    |
 
 **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
 
@@ -15858,9 +15842,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Armor Class** 22 (natural armor) **Hit Points** 546 (28d20 + 252) **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| STR              | DEX | CON     | INT     | WIS     | CHA     |
-|------------------|-----|---------|---------|---------|---------|
-| 30	(+10) 10	(+0) |     | 29 (+9) | 18	(+4) | 15	(+2) | 23	(+6) |
+| STR              | DEX   | CON     | INT     | WIS     | CHA     |
+|------------------|-------|---------|---------|---------|---------|
+| 30 (+10) 10 (+0) |       | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
 
 **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
 
@@ -15910,7 +15894,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 27	(+8) | 10	(+0) | 25	(+7) | 16	(+3) | 13	(+1) | 21	(+5) |
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
 
 **Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
 
@@ -15960,7 +15944,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 23	(+6) | 10	(+0) | 21	(+5) | 14	(+2) | 11	(+0) | 19	(+4) |
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
 
@@ -15996,7 +15980,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19	(+4) | 10	(+0) | 17	(+3) | 12	(+1) | 11	(+0) | 15	(+2) |
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
 
@@ -16030,7 +16014,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 26	(+8) | 10	(+0) | 26	(+8) | 10	(+0) | 13	(+1) | 14	(+2) |
+| 26 (+8) | 10 (+0) | 26 (+8) | 10 (+0) | 13 (+1) | 14 (+2) |
 
 **Saving Throws** Dex +6, Con +14, Wis +7, Cha +8
 
@@ -16082,7 +16066,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
 |---------|---------|---------|--------|---------|---------|
-| 22	(+6) | 10	(+0) | 22	(+6) | 8	(−1) | 12	(+1) | 12	(+1) |
+| 22 (+6) | 10 (+0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
 
 **Saving Throws** Dex +5, Con +11, Wis +6, Cha +6 **Skills** Perception +11, Stealth +5
 
@@ -16130,7 +16114,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
 |---------|---------|---------|--------|---------|---------|
-| 18	(+4) | 10	(+0) | 18	(+4) | 6	(−2) | 11	(+0) | 12	(+1) |
+| 18 (+4) | 10 (+0) | 18 (+4) | 6 (-2) | 11 (+0) | 12 (+1) |
 
 **Saving Throws** Dex +3, Con +7, Wis +3, Cha +4
 
@@ -16166,7 +16150,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
 |---------|---------|---------|--------|---------|---------|
-| 14	(+2) | 10	(+0) | 14	(+2) | 5	(−3) | 10	(+0) | 11	(+0) |
+| 14 (+2) | 10 (+0) | 14 (+2) | 5 (-3) | 10 (+0) | 11 (+0) |
 
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +2
 
@@ -16202,7 +16186,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 27	(+8) | 10	(+0) | 25	(+7) | 16	(+3) | 15	(+2) | 19	(+4) |
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 **Saving Throws** Dex +6, Con +13, Wis +8, Cha +10
 
@@ -16259,7 +16243,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 23	(+6) | 10	(+0) | 21	(+5) | 14	(+2) | 13	(+1) | 17	(+3) |
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
 
 **Saving Throws** Dex +5, Con +10, Wis +6, Cha +8
 
@@ -16314,7 +16298,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19	(+4) | 10	(+0) | 17	(+3) | 12	(+1) | 11	(+0) | 15	(+2) |
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Dex +3, Con +6, Wis +3, Cha +5
 
@@ -16349,7 +16333,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15	(+2) | 10	(+0) | 13	(+1) | 10	(+0) | 11	(+0) | 13	(+1) |
+| 15 (+2) | 10 (+0) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |
 
 **Saving Throws** Dex +2, Con +3, Wis +2, Cha +3
 
@@ -16384,7 +16368,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 29	(+9) | 10	(+0) | 27	(+8) | 18	(+4) | 17	(+3) | 21	(+5) |
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
 
 **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
 
@@ -16423,7 +16407,7 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 #### **Legendary Actions**
 
-The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action  option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
+The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 
 - **Detect.** The dragon makes a Wisdom (Perception) check.
 - **Tail Attack.** The dragon makes a tail attack.
@@ -16441,7 +16425,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 25	(+7) | 10	(+0) | 23	(+6) | 16	(+3) | 15	(+2) | 19	(+4) |
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 **Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
 
@@ -16465,7 +16449,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 *Tail. Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8 + 7) bludgeoning damage.
 
-*Frightful Presence.* Each creature of the dragon's choice that is within 120 feet of the dragon and aware  of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+*Frightful Presence.* Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
 *Breath Weapons (Recharge 5–6).* The dragon uses one of the following breath weapons.
 
@@ -16498,7 +16482,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 21	(+5) | 10	(+0) | 19	(+4) | 14	(+2) | 13	(+1) | 17	(+3) |
+| 21 (+5) | 10 (+0) | 19 (+4) | 14 (+2) | 13 (+1) | 17 (+3) |
 
 **Saving Throws** Dex +3, Con +7, Wis +4, Cha +6
 
@@ -16570,7 +16554,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 27	(+8) | 12	(+1) | 25	(+7) | 20	(+5) | 17	(+3) | 19	(+4) |
+| 27 (+8) | 12 (+1) | 25 (+7) | 20 (+5) | 17 (+3) | 19 (+4) |
 
 **Saving Throws** Dex +8, Con +14, Wis +10, Cha +11
 
@@ -16624,7 +16608,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 23	(+6) | 12	(+1) | 21	(+5) | 18	(+4) | 15	(+2) | 17	(+3) |
+| 23 (+6) | 12 (+1) | 21 (+5) | 18 (+4) | 15 (+2) | 17 (+3) |
 
 **Saving Throws** Dex +6, Con +10, Wis +7, Cha +8 **Skills** Deception +8, Perception +12, Stealth +6
 
@@ -16676,7 +16660,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19	(+4) | 12	(+1) | 17	(+3) | 16	(+3) | 13	(+1) | 15	(+2) |
+| 19 (+4) | 12 (+1) | 17 (+3) | 16 (+3) | 13 (+1) | 15 (+2) |
 
 **Saving Throws** Dex +4, Con +6, Wis +4, Cha +5
 
@@ -16716,7 +16700,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15	(+2) | 12	(+1) | 13	(+1) | 14	(+2) | 11	(+0) | 13	(+1) |
+| 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 11 (+0) | 13 (+1) |
 
 **Saving Throws** Dex +3, Con +3, Wis +2, Cha +3
 
@@ -16749,9 +16733,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR              | DEX | CON     | INT     | WIS     | CHA     |  |
-|------------------|-----|---------|---------|---------|---------|--|
-| 30	(+10) 14	(+2) |     | 29	(+9) | 18	(+4) | 17	(+3) | 28	(+9) |  |
+| STR              | DEX   | CON     | INT     | WIS     | CHA     |    |
+|------------------|-------|---------|---------|---------|---------|----|
+| 30 (+10) 14 (+2) |       | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |    |
 
 **Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
 
@@ -16808,7 +16792,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 27	(+8) | 14	(+2) | 25	(+7) | 16	(+3) | 15	(+2) | 24	(+7) |
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 24 (+7) |
 
 **Saving Throws** Dex +8, Con +13, Wis +8, Cha +13
 
@@ -16868,7 +16852,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 23	(+6) | 14	(+2) | 21	(+5) | 16	(+3) | 13	(+1) | 20	(+5) |
+| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
 
 **Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
 
@@ -16907,7 +16891,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19	(+4) | 14	(+2) | 17	(+3) | 14	(+2) | 11	(+0) | 16	(+3) |
+| 19 (+4) | 14 (+2) | 17 (+3) | 14 (+2) | 11 (+0) | 16 (+3) |
 
 **Saving Throws** Dex +4, Con +5, Wis +2, Cha +5 **Skills** Perception +4, Stealth +4 **Damage Immunities** fire
 
@@ -16934,9 +16918,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 40 ft., fly 80 ft.
 
-| STR              | DEX | CON     | INT     | WIS     | CHA     |
-|------------------|-----|---------|---------|---------|---------|
-| 30	(+10) 10	(+0) |     | 29	(+9) | 18	(+4) | 15	(+2) | 23	(+6) |
+| STR              | DEX   | CON     | INT     | WIS     | CHA     |
+|------------------|-------|---------|---------|---------|---------|
+| 30 (+10) 10 (+0) |       | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
 
 **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
 
@@ -16995,7 +16979,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 27	(+8) | 10	(+0) | 25	(+7) | 16	(+3) | 13	(+1) | 21	(+5) |
+| 27 (+8) | 10 (+0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
 
 **Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
 
@@ -17054,7 +17038,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 23	(+6) | 10	(+0) | 21	(+5) | 14	(+2) | 11	(+0) | 19	(+4) |
+| 23 (+6) | 10 (+0) | 21 (+5) | 14 (+2) | 11 (+0) | 19 (+4) |
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +8
 
@@ -17091,9 +17075,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 19	(+4) | 10	(+0) | 17	(+3) | 12	(+1) | 11	(+0) | 15	(+2) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 19 (+4) | 10 (+0) | 17 (+3) | 12 (+1) | 11 (+0) | 15 (+2) |    |
 
 **Saving Throws** Dex +2, Con +5, Wis +2, Cha +4
 
@@ -17128,7 +17112,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 25	(+7) | 10	(+0) | 20	(+5) | 10	(+0) | 12	(+1) | 12	(+1) |
+| 25 (+7) | 10 (+0) | 20 (+5) | 10 (+0) | 12 (+1) | 12 (+1) |
 
 **Saving Throws** Dex +6, Con +11, Wis +7
 
@@ -17164,7 +17148,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 16	(+3) | 18	(+4) | 13	(+1) | 14	(+2) | 12	(+1) |
+| 16 (+3) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 12 (+1) |
 
 **Skills** Perception +5, Stealth +9
 
@@ -17208,7 +17192,7 @@ At will: *dancing lights*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 10	(+0) | 12	(+1) | 11	(+0) | 14	(+2) | 15	(+2) | 18	(+4) |
+| 10 (+0) | 12 (+1) | 11 (+0) | 14 (+2) | 15 (+2) | 18 (+4) |
 
 **Skills** Perception +4, Stealth +5
 
@@ -17246,7 +17230,7 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
 |---------|---------|---------|---------|---------|--------|
-| 14	(+2) | 11	(+0) | 14	(+2) | 11	(+0) | 10	(+0) | 9	(−1) |
+| 14 (+2) | 11 (+0) | 14 (+2) | 11 (+0) | 10 (+0) | 9 (-1) |
 
 #### **Damage Resistances** poison
 
@@ -17278,7 +17262,7 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 14	(+2) | 20	(+5) | 14	(+2) | 6	(−2) | 10	(+0) | 6	(−2) |
+| 14 (+2) | 20 (+5) | 14 (+2) | 6 (-2) | 10 (+0) | 6 (-2) |
 
 **Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -17312,9 +17296,9 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 
 **Speed** 30 ft., burrow 30 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |  |
-|---------|--------|---------|--------|---------|--------|--|
-| 20	(+5) | 8	(−1) | 20	(+5) | 5	(−3) | 10	(+0) | 5	(−3) |  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |    |
+|---------|--------|---------|--------|---------|--------|----|
+| 20 (+5) | 8 (-1) | 20 (+5) | 5 (-3) | 10 (+0) | 5 (-3) |    |
 
 **Damage Vulnerabilities** thunder
 
@@ -17348,9 +17332,9 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 10	(+0) | 17	(+3) | 16	(+3) | 6	(−2) | 10	(+0) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 10 (+0) | 17 (+3) | 16 (+3) | 6 (-2) | 10 (+0) | 7 (-2) |    |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -17390,7 +17374,7 @@ takes an action to douse the fire, the creature takes 5 (1d10) fire damage at th
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 18	(+4) | 14	(+2) | 18	(+4) | 5	(−3) | 10	(+0) | 8	(−1) |
+| 18 (+4) | 14 (+2) | 18 (+4) | 5 (-3) | 10 (+0) | 8 (-1) |
 
 **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -17430,7 +17414,7 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 10	(+0) | 14	(+2) | 10	(+0) | 11	(+0) | 11	(+0) | 12	(+1) |
+| 10 (+0) | 14 (+2) | 10 (+0) | 11 (+0) | 11 (+0) | 12 (+1) |
 
 **Skills** Perception +2, Stealth +4
 
@@ -17450,7 +17434,7 @@ At will: *dancing lights*
 
 *Shortsword. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
-*Hand Crossbow. Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing  damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+*Hand Crossbow. Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 
 #### **Ettercap**
 
@@ -17464,7 +17448,7 @@ At will: *dancing lights*
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 14	(+2) | 15	(+2) | 13	(+1) | 7	(−2) | 12	(+1) | 8	(−1) |
+| 14 (+2) | 15 (+2) | 13 (+1) | 7 (-2) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +3, Stealth +4, Survival +3
 
@@ -17502,9 +17486,9 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 **Speed** 40 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |  |
-|---------|--------|---------|--------|---------|--------|--|
-| 21	(+5) | 8	(−1) | 17	(+3) | 6	(−2) | 10	(+0) | 8	(−1) |  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |    |
+|---------|--------|---------|--------|---------|--------|----|
+| 21 (+5) | 8 (-1) | 17 (+3) | 6 (-2) | 10 (+0) | 8 (-1) |    |
 
 **Skills** Perception +4
 
@@ -17542,7 +17526,7 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 | STR    | DEX    | CON     | INT    | WIS    | CHA    |
 |--------|--------|---------|--------|--------|--------|
-| 1	(−5) | 1	(−5) | 10	(+0) | 1	(−5) | 3	(−4) | 1	(−5) |
+| 1 (-5) | 1 (-5) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
 
 **Condition Immunities** blinded, deafened, frightened **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
 
@@ -17568,7 +17552,7 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 | STR    | DEX    | CON     | INT    | WIS    | CHA    |
 |--------|--------|---------|--------|--------|--------|
-| 3	(−4) | 1	(−5) | 10	(+0) | 1	(−5) | 3	(−4) | 1	(−5) |
+| 3 (-4) | 1 (-5) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
 
 **Condition Immunities** blinded, deafened, frightened
 
@@ -17598,9 +17582,9 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 15	(+2) | 11	(+0) | 16	(+3) | 6	(−2) | 11	(+0) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 15 (+2) | 11 (+0) | 16 (+3) | 6 (-2) | 11 (+0) | 7 (-2) |    |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -17632,9 +17616,9 @@ also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vuln
 
 **Armor Class** 17 (natural armor) **Hit Points** 161 (14d10 + 84) **Speed** 30 ft., fly 90 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 21	(+5) | 15	(+2) | 22	(+6) | 15	(+2) | 16	(+3) | 20	(+5) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 21 (+5) | 15 (+2) | 22 (+6) | 15 (+2) | 16 (+3) | 20 (+5) |    |
 
 **Saving Throws** Dex +6, Wis +7, Cha +9
 
@@ -17676,7 +17660,7 @@ A creature can use its action to free a creature restrained by the whirlwind, in
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 22	(+6) | 12	(+1) | 24	(+7) | 16	(+3) | 15	(+2) | 16	(+3) |
+| 22 (+6) | 12 (+1) | 24 (+7) | 16 (+3) | 15 (+2) | 16 (+3) |
 
 **Saving Throws** Int +7, Wis +6, Cha +7
 
@@ -17718,7 +17702,7 @@ At will: *detect magic*
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
 |--------|---------|---------|---------|---------|---------|
-| 7	(−2) | 13	(+1) | 10	(+0) | 10	(+0) | 12	(+1) | 17	(+3) |
+| 7 (-2) | 13 (+1) | 10 (+0) | 10 (+0) | 12 (+1) | 17 (+3) |
 
 **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -17760,9 +17744,9 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |  |
-|---------|---------|---------|---------|---------|--------|--|
-| 16	(+3) | 17	(+3) | 10	(+0) | 11	(+0) | 10	(+0) | 8	(−1) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |    |
+|---------|---------|---------|---------|---------|--------|----|
+| 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (-1) |    |
 
 **Damage Resistances** necrotic
 
@@ -17796,9 +17780,9 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 #### **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 13	(+1) | 15	(+2) | 10	(+0) | 7	(−2) | 10	(+0) | 6	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 13 (+1) | 15 (+2) | 10 (+0) | 7 (-2) | 10 (+0) | 6 (-2) |    |
 
 **Damage Immunities** poison
 
@@ -17826,15 +17810,14 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 
 **Speed** 40 ft.
 
-|                                  | STR                                   | DEX     | CON     | INT     | WIS     | CHA     |  |  |  |
-|----------------------------------|---------------------------------------|---------|---------|---------|---------|---------|--|--|--|
-|                                  | 27	(+8)                               | 10	(+0) | 22	(+6) | 12	(+1) | 16	(+3) | 16	(+3) |  |  |  |
-|                                  | Saving	Throws Con	+10,	Wis	+7,	Cha	+7 |         |         |         |         |         |  |  |  |
-| Skills	Insight	+7,	Perception	+7 |                                       |         |         |         |         |         |  |  |  |
-| Senses	passive	Perception	17     |                                       |         |         |         |         |         |  |  |  |
-| Languages	Common,	Giant          |                                       |         |         |         |         |         |  |  |  |
-|                                  | Challenge	9	(5,000	XP)                |         |         |         |         |         |  |  |  |
-|                                  |                                       |         |         |         |         |         |  |  |  |
+|                                  | STR                                   | DEX     | CON     | INT     | WIS     | CHA     |    |    |    |
+|----------------------------------|---------------------------------------|---------|---------|---------|---------|---------|----|----|----|
+|                                  | 27 (+8)                               | 10 (+0) | 22 (+6) | 12 (+1) | 16 (+3) | 16 (+3) |    |    |    |
+|                                  | Saving Throws Con +10, Wis +7, Cha +7 |         |         |         |         |         |    |    |    |
+| Skills Insight +7, Perception +7 |                                       |         |         |         |         |         |    |    |    |
+| Senses passive Perception 17     |                                       |         |         |         |         |         |    |    |    |
+| Languages Common, Giant          |                                       |         |         |         |         |         |    |    |    |
+|                                  | Challenge 9 (5,000 XP)                |         |         |         |         |         |    |    |    |
 
 *Keen Smell.* The giant has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -17862,7 +17845,7 @@ At will: *detect magic*, *fog cloud*, *light* 3/day each: *feather fall*, *fly*,
 
 | STR     | DEX    | CON     | INT     | WIS     | CHA     |
 |---------|--------|---------|---------|---------|---------|
-| 25	(+7) | 9	(−1) | 23	(+6) | 10	(+0) | 14	(+2) | 13	(+1) |
+| 25 (+7) | 9 (-1) | 23 (+6) | 10 (+0) | 14 (+2) | 13 (+1) |
 
 **Saving Throws** Dex +3, Con +10, Cha +5 **Skills** Athletics +11, Perception +6 **Damage Immunities** fire **Senses** passive Perception 16 **Languages** Giant **Challenge** 9 (5,000 XP)
 
@@ -17880,7 +17863,7 @@ At will: *detect magic*, *fog cloud*, *light* 3/day each: *feather fall*, *fly*,
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA     |
 |---------|--------|---------|--------|---------|---------|
-| 23	(+6) | 9	(−1) | 21	(+5) | 9	(−1) | 10	(+0) | 12	(+1) |
+| 23 (+6) | 9 (-1) | 21 (+5) | 9 (-1) | 10 (+0) | 12 (+1) |
 
 **Saving Throws** Con +8, Wis +3, Cha +4
 
@@ -17914,7 +17897,7 @@ At will: *detect magic*, *fog cloud*, *light* 3/day each: *feather fall*, *fly*,
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
 |---------|--------|---------|--------|--------|--------|
-| 21	(+5) | 8	(−1) | 19	(+4) | 5	(−3) | 9	(−1) | 6	(−2) |
+| 21 (+5) | 8 (-1) | 19 (+4) | 5 (-3) | 9 (-1) | 6 (-2) |
 
 **Skills** Perception +2
 
@@ -17940,7 +17923,7 @@ At will: *detect magic*, *fog cloud*, *light* 3/day each: *feather fall*, *fly*,
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
 |---------|---------|---------|---------|---------|--------|
-| 23	(+6) | 15	(+2) | 20	(+5) | 10	(+0) | 12	(+1) | 9	(−1) |
+| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (-1) |
 
 **Saving Throws** Dex +5, Con +8, Wis +4 **Skills** Athletics +12, Perception +4 **Senses** darkvision 60 ft., passive Perception 14 **Languages** Giant
 
@@ -17970,7 +17953,7 @@ At will: *detect magic*, *fog cloud*, *light* 3/day each: *feather fall*, *fly*,
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 29	(+9) | 14	(+2) | 20	(+5) | 16	(+3) | 18	(+4) | 18	(+4) |
+| 29 (+9) | 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 18 (+4) |
 
 **Saving Throws** Str +14, Con +10, Wis +9, Cha +9
 
@@ -18012,7 +17995,7 @@ At will: *detect magic*, *feather fall*, *levitate*, *light* 3/day each: *contro
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
 |---------|--------|---------|--------|---------|--------|
-| 10	(+0) | 8	(−1) | 16	(+3) | 3	(−4) | 10	(+0) | 6	(−2) |
+| 10 (+0) | 8 (-1) | 16 (+3) | 3 (-4) | 10 (+0) | 6 (-2) |
 
 **Condition Immunities** prone
 
@@ -18040,9 +18023,9 @@ At will: *detect magic*, *feather fall*, *levitate*, *light* 3/day each: *contro
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 14	(+2) | 12	(+1) | 11	(+0) | 6	(−2) | 10	(+0) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 14 (+2) | 12 (+1) | 11 (+0) | 6 (-2) | 10 (+0) | 7 (-2) |    |
 
 **Senses** darkvision 60 ft., passive Perception 10 **Languages** Gnoll **Challenge** 1/2 (100 XP)
 
@@ -18066,9 +18049,9 @@ At will: *detect magic*, *feather fall*, *levitate*, *light* 3/day each: *contro
 
 #### **Speed** 20 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |  |
-|---------|---------|---------|---------|---------|--------|--|
-| 15	(+2) | 14	(+2) | 14	(+2) | 12	(+1) | 10	(+0) | 9	(−1) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |    |
+|---------|---------|---------|---------|---------|--------|----|
+| 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (-1) |    |
 
 **Skills** Investigation +3, Perception +2, Stealth +4 **Senses** darkvision 120 ft., passive Perception 12 **Languages** Gnomish, Terran, Undercommon **Challenge** 1/2 (100 XP)
 
@@ -18098,9 +18081,9 @@ At will: *nondetection* (self only)
 
 **Speed** 30 ft.
 
-| STR    | DEX     | CON     | INT     | WIS    | CHA    |  |
-|--------|---------|---------|---------|--------|--------|--|
-| 8	(−1) | 14	(+2) | 10	(+0) | 10	(+0) | 8	(−1) | 8	(−1) |  |
+| STR    | DEX     | CON     | INT     | WIS    | CHA    |    |
+|--------|---------|---------|---------|--------|--------|----|
+| 8 (-1) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1) | 8 (-1) |    |
 
 **Skills** Stealth +6
 
@@ -18126,9 +18109,9 @@ At will: *nondetection* (self only)
 
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |  |
-|---------|--------|---------|--------|--------|--------|--|
-| 20	(+5) | 9	(−1) | 18	(+4) | 3	(−4) | 8	(−1) | 1	(−5) |  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |    |
+|---------|--------|---------|--------|--------|--------|----|
+| 20 (+5) | 9 (-1) | 18 (+4) | 3 (-4) | 8 (-1) | 1 (-5) |    |
 
 **Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -18168,7 +18151,7 @@ At will: *nondetection* (self only)
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
 |---------|--------|---------|--------|---------|--------|
-| 19	(+4) | 9	(−1) | 18	(+4) | 6	(−2) | 10	(+0) | 5	(−3) |
+| 19 (+4) | 9 (-1) | 18 (+4) | 6 (-2) | 10 (+0) | 5 (-3) |
 
 **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -18210,7 +18193,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
 |---------|--------|---------|--------|---------|--------|
-| 24	(+7) | 9	(−1) | 20	(+5) | 3	(−4) | 11	(+0) | 1	(−5) |
+| 24 (+7) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
 
 **Damage Immunities** fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -18246,7 +18229,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
 |---------|--------|---------|--------|---------|--------|
-| 22	(+6) | 9	(−1) | 20	(+5) | 3	(−4) | 11	(+0) | 1	(−5) |
+| 22 (+6) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
 
 **Damage Immunities** poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
@@ -18278,9 +18261,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Armor Class** 19 (natural armor) **Hit Points** 114 (12d10 + 48) **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 20	(+5) | 11	(+0) | 18	(+4) | 2	(−4) | 12	(+1) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 20 (+5) | 11 (+0) | 18 (+4) | 2 (-4) | 12 (+1) | 7 (-2) |    |
 
 **Skills** Perception +4
 
@@ -18308,9 +18291,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 14	(+2) | 14	(+2) | 11	(+0) | 3	(−4) | 14	(+2) | 5	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 14 (+2) | 14 (+2) | 11 (+0) | 3 (-4) | 14 (+2) | 5 (-3) |    |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -18338,9 +18321,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 18	(+4) | 15	(+2) | 16	(+3) | 2	(−4) | 13	(+1) | 8	(−1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 18 (+4) | 15 (+2) | 16 (+3) | 2 (-4) | 13 (+1) | 8 (-1) |    |
 
 **Skills** Perception +5
 
@@ -18372,7 +18355,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
 |---------|---------|---------|--------|--------|--------|
-| 16	(+3) | 12	(+1) | 12	(+1) | 9	(−1) | 8	(−1) | 6	(−2) |
+| 16 (+3) | 12 (+1) | 12 (+1) | 9 (-1) | 8 (-1) | 6 (-2) |
 
 **Skills** Athletics +5, Perception +3, Stealth +3
 
@@ -18406,9 +18389,9 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 18	(+4) | 12	(+1) | 16	(+3) | 13	(+1) | 14	(+2) | 14	(+2) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |    |
 
 **Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
 
@@ -18446,9 +18429,9 @@ The changes wrought by this effect fail to hold up to physical inspection. For e
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 18	(+4) | 15	(+2) | 16	(+3) | 16	(+3) | 14	(+2) | 16	(+3) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) |    |
 
 **Skills** Deception +7, Insight +6, Perception +6, Stealth +6
 
@@ -18486,7 +18469,7 @@ At will: *detect magic*, *magic missile*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 13	(+1) | 16	(+3) | 12	(+1) | 12	(+1) | 13	(+1) |
+| 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
 
 **Senses** darkvision 60 ft., passive Perception 11 **Languages** Aquan, Common, Giant **Challenge** 2 (450 XP)
 
@@ -18518,27 +18501,26 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 *Resistances.* The half-dragon gains resistance to a type of damage based on its color.
 
-| Color           | Damage	Resistance |
-|-----------------|-------------------|
-| Black	or	copper | Acid              |
-| Blue	or	bronze  | Lightning         |
+| Color           | Damage Resistance   |
+|-----------------|---------------------|
+| Black or copper | Acid                |
+| Blue or bronze  | Lightning           |
 
 | Fire   |
 |--------|
 | Poison |
 | Cold   |
-|        |
 
 *Languages.* The half-dragon speaks Draconic in addition to any other languages it knows.
 
 *New Action: Breath Weapon.* The half-dragon has the breath weapon of its dragon half. The halfdragon's size determines how this action functions.
 
-|                     |                    | Optional              |
-|---------------------|--------------------|-----------------------|
-| Size                | Breath	Weapon      | Prerequisite          |
-| Large	or<br>smaller | As	a	wyrmling      | Challenge	2	or	higher |
-| Huge                | As	a	young	dragon  | Challenge	7	or	higher |
-| Gargantuan          | As	an	adult	dragon | Challenge	8	or	higher |
+|                  |                    | Optional              |
+|------------------|--------------------|-----------------------|
+| Size             | Breath Weapon      | Prerequisite          |
+| Large or smaller | As a wyrmling      | Challenge 2 or higher |
+| Huge             | As a young dragon  | Challenge 7 or higher |
+| Gargantuan       | As an adult dragon | Challenge 8 or higher |
 
 ## **Half-Red Dragon Veteran**
 
@@ -18552,7 +18534,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 13	(+1) | 14	(+2) | 10	(+0) | 11	(+0) | 10	(+0) |
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Athletics +5, Perception +2
 
@@ -18582,13 +18564,12 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Armor Class** 11 **Hit Points** 38 (7d8 + 7) **Speed** 20 ft., fly 40 ft.
 
-| STR                          | DEX     | CON     | INT    | WIS     | CHA     |  |  |
-|------------------------------|---------|---------|--------|---------|---------|--|--|
-| 12	(+1)                      | 13	(+1) | 12	(+1) | 7	(−2) | 10	(+0) | 13	(+1) |  |  |
-| Senses passive	Perception	10 |         |         |        |         |         |  |  |
-| Languages Common             |         |         |        |         |         |  |  |
-| Challenge 1	(200	XP)         |         |         |        |         |         |  |  |
-|                              |         |         |        |         |         |  |  |
+| STR                          | DEX     | CON     | INT    | WIS     | CHA     |    |    |
+|------------------------------|---------|---------|--------|---------|---------|----|----|
+| 12 (+1)                      | 13 (+1) | 12 (+1) | 7 (-2) | 10 (+0) | 13 (+1) |    |    |
+| Senses passive Perception 10 |         |         |        |         |         |    |    |
+| Languages Common             |         |         |        |         |         |    |    |
+| Challenge 1 (200 XP)         |         |         |        |         |         |    |    |
 
 #### **Actions**
 
@@ -18612,7 +18593,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 17	(+3) | 12	(+1) | 14	(+2) | 6	(−2) | 13	(+1) | 6	(−2) |
+| 17 (+3) | 12 (+1) | 14 (+2) | 6 (-2) | 13 (+1) | 6 (-2) |
 
 **Skills** Perception +5
 
@@ -18642,9 +18623,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 40 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 17	(+3) | 13	(+1) | 13	(+1) | 2	(−4) | 12	(+1) | 8	(−1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 17 (+3) | 13 (+1) | 13 (+1) | 2 (-4) | 12 (+1) | 8 (-1) |    |
 
 **Skills** Perception +5
 
@@ -18674,9 +18655,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |  |
-|---------|---------|---------|---------|---------|--------|--|
-| 13	(+1) | 12	(+1) | 12	(+1) | 10	(+0) | 10	(+0) | 9	(−1) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |    |
+|---------|---------|---------|---------|---------|--------|----|
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (-1) |    |
 
 **Senses** darkvision 60 ft., passive Perception 10 **Languages** Common, Goblin **Challenge** 1/2 (100 XP)
 
@@ -18700,7 +18681,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA    |
 |--------|---------|---------|---------|---------|--------|
-| 4	(−3) | 15	(+2) | 11	(+0) | 10	(+0) | 10	(+0) | 7	(−2) |
+| 4 (-3) | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (-2) |
 
 **Damage Immunities** poison
 
@@ -18728,7 +18709,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 20	(+5) | 12	(+1) | 20	(+5) | 2	(−4) | 10	(+0) | 7	(−2) |
+| 20 (+5) | 12 (+1) | 20 (+5) | 2 (-4) | 10 (+0) | 7 (-2) |
 
 **Skills** Perception +6
 
@@ -18770,7 +18751,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 19	(+4) | 14	(+2) | 10	(+0) | 15	(+2) | 11	(+0) |
+| 16 (+3) | 19 (+4) | 14 (+2) | 10 (+0) | 15 (+2) | 11 (+0) |
 
 **Skills** Perception +8, Stealth +10
 
@@ -18804,13 +18785,13 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 #### **Armor Class** 12
 
-**Hit Points** 5 (2d6 − 2)
+**Hit Points** 5 (2d6 - 2)
 
 #### **Speed** 30 ft.
 
-| STR    | DEX     | CON    | INT    | WIS    | CHA    |  |
-|--------|---------|--------|--------|--------|--------|--|
-| 7	(−2) | 15	(+2) | 9	(−1) | 8	(−1) | 7	(−2) | 8	(−1) |  |
+| STR    | DEX     | CON    | INT    | WIS    | CHA    |    |
+|--------|---------|--------|--------|--------|--------|----|
+| 7 (-2) | 15 (+2) | 9 (-1) | 8 (-1) | 7 (-2) | 8 (-1) |    |
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -18838,9 +18819,9 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 **Speed** 20 ft., swim 60 ft.
 
-| STR              | DEX | CON     | INT     | WIS     | CHA     |
-|------------------|-----|---------|---------|---------|---------|
-| 30	(+10) 11	(+0) |     | 25	(+7) | 22	(+6) | 18	(+4) | 20	(+5) |
+| STR              | DEX   | CON     | INT     | WIS     | CHA     |
+|------------------|-------|---------|---------|---------|---------|
+| 30 (+10) 11 (+0) |       | 25 (+7) | 22 (+6) | 18 (+4) | 20 (+5) |
 
 **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
 
@@ -18872,7 +18853,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 *Fling.* One Large or smaller object held or creature grappled by the kraken is thrown up to 60 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 18 Dexterity saving throw or take the same damage and be knocked prone.
 
-*Lightning Storm.* The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10)  lightning damage on a failed save, or half as much damage on a successful one.
+*Lightning Storm.* The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 #### **Legendary Actions**
 
@@ -18895,7 +18876,7 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 13	(+1) | 15	(+2) | 14	(+2) | 15	(+2) | 16	(+3) |
+| 16 (+3) | 13 (+1) | 15 (+2) | 14 (+2) | 15 (+2) | 16 (+3) |
 
 **Skills** Deception +7, Insight +4, Stealth +3 **Senses** darkvision 60 ft., passive Perception 12 **Languages** Abyssal, Common **Challenge** 4 (1,100 XP)
 
@@ -18926,9 +18907,9 @@ At will: *disguise self* (any humanoid form), *major image*
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 11	(+0) | 16	(+3) | 16	(+3) | 20	(+5) | 14	(+2) | 16	(+3) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 11 (+0) | 16 (+3) | 16 (+3) | 20 (+5) | 14 (+2) | 16 (+3) |    |
 
 **Saving Throws** Con +10, Int +12, Wis +9
 
@@ -18945,7 +18926,7 @@ At will: *disguise self* (any humanoid form), *major image*
 
 *Rejuvenation.* If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 
-*Spellcasting.* The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12  to hit with spell attacks). The lich has the following wizard spells prepared:
+*Spellcasting.* The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 
 Cantrips (at will): *mage hand*, *prestidigitation*, *ray of frost*
 
@@ -18995,9 +18976,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Speed** 30 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 15	(+2) | 10	(+0) | 13	(+1) | 7	(−2) | 12	(+1) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 15 (+2) | 10 (+0) | 13 (+1) | 7 (-2) | 12 (+1) | 7 (-2) |    |
 
 **Skills** Perception +3, Stealth +4, Survival +5 **Senses** passive Perception 13 **Languages** Draconic
 
@@ -19031,7 +19012,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19	(+4) | 10	(+0) | 17	(+3) | 11	(+0) | 12	(+1) | 12	(+1) |
+| 19 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 12 (+1) | 12 (+1) |
 
 **Skills** Perception +7
 
@@ -19065,13 +19046,13 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Hit Points** 78 (12d8 + 24)
 
-|  | Speed 30	ft.	(40	ft.	in	boar	form) |  |  |  |  |  |
-|--|------------------------------------|--|--|--|--|--|
-|--|------------------------------------|--|--|--|--|--|
+|    | Speed 30 ft. (40 ft. in boar form)   |    |    |    |    |    |
+|----|--------------------------------------|----|----|----|----|----|
+| -- | ------------------------------------ | -- | -- | -- | -- | -- |
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |  |
-|---------|---------|---------|---------|---------|--------|--|
-| 17	(+3) | 10	(+0) | 15	(+2) | 10	(+0) | 11	(+0) | 8	(−1) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |    |
+|---------|---------|---------|---------|---------|--------|----|
+| 17 (+3) | 10 (+0) | 15 (+2) | 10 (+0) | 11 (+0) | 8 (-1) |    |
 
 #### **Skills** Perception +2
 
@@ -19103,9 +19084,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **STR DEX CON INT WIS CHA**
 
-| 10	(+0)                          | 15	(+2) | 12	(+1) | 11	(+0) | 10	(+0) | 8	(−1) |
-|----------------------------------|---------|---------|---------|---------|--------|
-| Skills Perception	+2,	Stealth	+4 |         |         |         |         |        |
+| 10 (+0)                          | 15 (+2)   | 12 (+1)   | 11 (+0)   | 10 (+0)   | 8 (-1)   |
+|----------------------------------|-----------|-----------|-----------|-----------|----------|
+| Skills Perception +2, Stealth +4 |           |           |           |           |          |
 
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Senses** darkvision 60 ft. (rat form only), passive Perception 12
@@ -19137,7 +19118,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 17	(+3) | 15	(+2) | 16	(+3) | 10	(+0) | 13	(+1) | 11	(+0) |
+| 17 (+3) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 11 (+0) |
 
 **Skills** Perception +5, Stealth +4
 
@@ -19177,7 +19158,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15	(+2) | 13	(+1) | 14	(+2) | 10	(+0) | 11	(+0) | 10	(+0) |
+| 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Perception +4, Stealth +3
 
@@ -19211,9 +19192,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 #### **Speed** 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |  |
-|--------|---------|---------|--------|---------|---------|--|
-| 7	(−2) | 15	(+2) | 12	(+1) | 8	(−1) | 11	(+0) | 10	(+0) |  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA     |    |
+|--------|---------|---------|--------|---------|---------|----|
+| 7 (-2) | 15 (+2) | 12 (+1) | 8 (-1) | 11 (+0) | 10 (+0) |    |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
@@ -19239,9 +19220,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Armor Class** 14 (natural armor) **Hit Points** 68 (8d10 + 24) **Speed** 30 ft., fly 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 17	(+3) | 16	(+3) | 17	(+3) | 7	(−2) | 12	(+1) | 8	(−1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 17 (+3) | 16 (+3) | 17 (+3) | 7 (-2) | 12 (+1) | 8 (-1) |    |
 
 **Senses** darkvision 60 ft., passive Perception 11 **Languages** Common **Challenge** 3 (700 XP)
 
@@ -19269,7 +19250,7 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 10	(+0) | 15	(+2) | 16	(+3) | 12	(+1) | 13	(+1) | 15	(+2) |
+| 10 (+0) | 15 (+2) | 16 (+3) | 12 (+1) | 13 (+1) | 15 (+2) |
 
 **Skills** Deception +5, Insight +4, Perception +4, Stealth +5
 
@@ -19309,9 +19290,9 @@ surface within 30 feet of it and in an area of bright light, the medusa is, due 
 
 **Speed** 30 ft., fly 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA     |  |
-|--------|---------|---------|--------|---------|---------|--|
-| 5	(−3) | 14	(+2) | 10	(+0) | 9	(−1) | 11	(+0) | 10	(+0) |  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA     |    |
+|--------|---------|---------|--------|---------|---------|----|
+| 5 (-3) | 14 (+2) | 10 (+0) | 9 (-1) | 11 (+0) | 10 (+0) |    |
 
 **Skills** Perception +2, Stealth +4 **Damage Vulnerabilities** fire **Damage Immunities** poison **Condition Immunities** poisoned **Senses** darkvision 60 ft., passive Perception 12 **Languages** Auran, Terran **Challenge** 1/2 (100 XP)
 
@@ -19331,18 +19312,17 @@ surface within 30 feet of it and in an area of bright light, the medusa is, due 
 
 **Armor Class** 11 **Hit Points** 21 (6d6) **Speed** 30 ft., fly 30 ft.
 
-| STR                                                 | DEX                              | CON     | INT    | WIS     | CHA     |  |  |  |
-|-----------------------------------------------------|----------------------------------|---------|--------|---------|---------|--|--|--|
-| 7	(−2)                                              | 13	(+1)                          | 10	(+0) | 9	(−1) | 11	(+0) | 12	(+1) |  |  |  |
-|                                                     | Skills Perception	+2,	Stealth	+3 |         |        |         |         |  |  |  |
-| Damage	Vulnerabilities bludgeoning,	fire            |                                  |         |        |         |         |  |  |  |
-| Damage	Immunities cold,	poison                      |                                  |         |        |         |         |  |  |  |
-| Condition	Immunities poisoned                       |                                  |         |        |         |         |  |  |  |
-| Senses darkvision	60	ft.,	passive	Perception	12     |                                  |         |        |         |         |  |  |  |
-| Languages Aquan,	Auran                              |                                  |         |        |         |         |  |  |  |
-| Challenge 1/2	(100	XP)                              |                                  |         |        |         |         |  |  |  |
-|                                                     |                                  |         |        |         |         |  |  |  |
-| Death	Burst.	When	the	mephit	dies,	it	explodes	in	a |                                  |         |        |         |         |  |  |  |
+| STR                                                 | DEX                              | CON     | INT    | WIS     | CHA     |    |    |    |
+|-----------------------------------------------------|----------------------------------|---------|--------|---------|---------|----|----|----|
+| 7 (-2)                                              | 13 (+1)                          | 10 (+0) | 9 (-1) | 11 (+0) | 12 (+1) |    |    |    |
+|                                                     | Skills Perception +2, Stealth +3 |         |        |         |         |    |    |    |
+| Damage Vulnerabilities bludgeoning, fire            |                                  |         |        |         |         |    |    |    |
+| Damage Immunities cold, poison                      |                                  |         |        |         |         |    |    |    |
+| Condition Immunities poisoned                       |                                  |         |        |         |         |    |    |    |
+| Senses darkvision 60 ft., passive Perception 12     |                                  |         |        |         |         |    |    |    |
+| Languages Aquan, Auran                              |                                  |         |        |         |         |    |    |    |
+| Challenge 1/2 (100 XP)                              |                                  |         |        |         |         |    |    |    |
+| Death Burst. When the mephit dies, it explodes in a |                                  |         |        |         |         |    |    |    |
 
 burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
 
@@ -19366,7 +19346,7 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA     |
 |--------|---------|---------|--------|---------|---------|
-| 8	(−1) | 12	(+1) | 12	(+1) | 7	(−2) | 10	(+0) | 10	(+0) |
+| 8 (-1) | 12 (+1) | 12 (+1) | 7 (-2) | 10 (+0) | 10 (+0) |
 
 **Skills** Stealth +3
 
@@ -19396,7 +19376,7 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
 |--------|---------|---------|---------|---------|---------|
-| 5	(−3) | 11	(+0) | 10	(+0) | 11	(+0) | 10	(+0) | 12	(+1) |
+| 5 (-3) | 11 (+0) | 10 (+0) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Damage Immunities** fire, poison
 
@@ -19426,13 +19406,12 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 **Hit Points** 11 (2d8 + 2)
 
-| Speed	10	ft.,	swim	40	ft. |  |  |
-|---------------------------|--|--|
-|                           |  |  |
+| Speed 10 ft., swim 40 ft.   |    |    |
+|-----------------------------|----|----|
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 10	(+0) | 13	(+1) | 12	(+1) | 11	(+0) | 11	(+0) | 12	(+1) |
+| 10 (+0) | 13 (+1) | 12 (+1) | 11 (+0) | 11 (+0) | 12 (+1) |
 
 **Skills** Perception +2
 
@@ -19460,7 +19439,7 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 18	(+4) | 10	(+0) | 15	(+2) | 8	(−1) | 10	(+0) | 9	(−1) |
+| 18 (+4) | 10 (+0) | 15 (+2) | 8 (-1) | 10 (+0) | 9 (-1) |
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -19492,7 +19471,7 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 17	(+3) | 12	(+1) | 15	(+2) | 5	(−3) | 13	(+1) | 8	(−1) |
+| 17 (+3) | 12 (+1) | 15 (+2) | 5 (-3) | 13 (+1) | 8 (-1) |
 
 **Skills** Stealth +5
 
@@ -19530,9 +19509,9 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 18	(+4) | 11	(+0) | 16	(+3) | 6	(−2) | 16	(+3) | 9	(−1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 18 (+4) | 11 (+0) | 16 (+3) | 6 (-2) | 16 (+3) | 9 (-1) |    |
 
 **Skills** Perception +7
 
@@ -19568,9 +19547,9 @@ the same turn, the target takes an extra 9 (2d8) piercing damage. If the target 
 
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA     |  |
-|---------|--------|---------|--------|---------|---------|--|
-| 16	(+3) | 8	(−1) | 15	(+2) | 6	(−2) | 10	(+0) | 12	(+1) |  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA     |    |
+|---------|--------|---------|--------|---------|---------|----|
+| 16 (+3) | 8 (-1) | 15 (+2) | 6 (-2) | 10 (+0) | 12 (+1) |    |
 
 **Saving Throws** Wis +2
 
@@ -19592,7 +19571,7 @@ the same turn, the target takes an extra 9 (2d8) piercing damage. If the target 
 
 *Multiattack.* The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-*Rotting Fist. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed  target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *remove curse* spell or other magic.
+*Rotting Fist. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *remove curse* spell or other magic.
 
 *Dreadful Glare.* The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
@@ -19608,7 +19587,7 @@ the same turn, the target takes an extra 9 (2d8) piercing damage. If the target 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18 (+4) | 10	(+0) | 17	(+3) | 11	(+0) | 18	(+4) | 16	(+3) |
+| 18 (+4) | 10 (+0) | 17 (+3) | 11 (+0) | 18 (+4) | 16 (+3) |
 
 **Saving Throws** Con +8, Int +5, Wis +9, Cha +8
 
@@ -19680,7 +19659,7 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19	(+4) | 18	(+4) | 16	(+3) | 16	(+3) | 19	(+4) | 18	(+4) |
+| 19 (+4) | 18 (+4) | 16 (+3) | 16 (+3) | 19 (+4) | 18 (+4) |
 
 **Saving Throws** Dex +8, Con +7, Int +7, Wis +8, Cha +8
 
@@ -19730,7 +19709,7 @@ Cantrips (at will): *mending*, *sacred flame*, *thaumaturgy*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 17	(+3) | 14	(+2) | 16	(+3) | 15	(+2) | 16	(+3) |
+| 18 (+4) | 17 (+3) | 14 (+2) | 16 (+3) | 15 (+2) | 16 (+3) |
 
 **Saving Throws** Dex +6, Con +5, Wis +5, Cha +6 **Damage Immunities** poison
 
@@ -19768,7 +19747,7 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 15	(+2) | 16	(+3) | 10	(+0) | 13	(+1) | 15	(+2) |
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
 **Damage Immunities** fire
 
@@ -19796,9 +19775,9 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 **Speed** 40 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |  |
-|---------|--------|---------|--------|--------|--------|--|
-| 19	(+4) | 8	(−1) | 16	(+3) | 5	(−3) | 7	(−2) | 7	(−2) |  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |    |
+|---------|--------|---------|--------|--------|--------|----|
+| 19 (+4) | 8 (-1) | 16 (+3) | 5 (-3) | 7 (-2) | 7 (-2) |    |
 
 **Senses** darkvision 60 ft., passive Perception 8 **Languages** Common, Giant **Challenge** 2 (450 XP)
 
@@ -19820,7 +19799,7 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 19	(+4) | 11	(+0) | 16	(+3) | 14	(+2) | 12	(+1) | 15	(+2) |
+| 19 (+4) | 11 (+0) | 16 (+3) | 14 (+2) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Dex +3, Con +6, Wis +4, Cha +5 **Skills** Arcana +5, Deception +8, Perception +4 **Senses** darkvision 60 ft., passive Perception 14
 
@@ -19862,7 +19841,7 @@ At will: *darkness*, *invisibility*
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
 |---------|--------|---------|--------|--------|--------|
-| 16	(+3) | 5	(−3) | 16	(+3) | 1	(−5) | 6	(−2) | 1	(−5) |
+| 16 (+3) | 5 (-3) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 
 **Damage Immunities** acid, cold, lightning, slashing
 
@@ -19876,7 +19855,7 @@ At will: *darkness*, *invisibility*
 
 *Amorphous.* The pudding can move through a space as narrow as 1 inch wide without squeezing.
 
-*Corrosive Form.* A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical
+*Corrosive Form.* A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical
 
 ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.
 
@@ -19886,7 +19865,7 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
 #### **Actions**
 
-*Pseudopod. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+*Pseudopod. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
 #### **Reactions**
 
@@ -19902,9 +19881,9 @@ The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
 **Speed** 15 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |  |
-|---------|--------|---------|--------|--------|--------|--|
-| 14	(+2) | 3	(−4) | 20	(+5) | 1	(−5) | 6	(−2) | 1	(−5) |  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |    |
+|---------|--------|---------|--------|--------|--------|----|
+| 14 (+2) | 3 (-4) | 20 (+5) | 1 (-5) | 6 (-2) | 1 (-5) |    |
 
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
@@ -19948,7 +19927,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
 |---------|--------|---------|--------|--------|--------|
-| 12	(+1) | 6	(−2) | 16	(+3) | 1	(−5) | 6	(−2) | 2	(−4) |
+| 12 (+1) | 6 (-2) | 16 (+3) | 1 (-5) | 6 (-2) | 2 (-4) |
 
 #### **Skills** Stealth +2
 
@@ -19964,7 +19943,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 
 *Amorphous.* The ooze can move through a space as narrow as 1 inch wide without squeezing.
 
-*Corrode Metal.* Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
+*Corrode Metal.* Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
 
 The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
@@ -19972,7 +19951,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 #### **Actions**
 
-*Pseudopod. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+*Pseudopod. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
 #### **Ochre Jelly**
 
@@ -19986,7 +19965,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
 |---------|--------|---------|--------|--------|--------|
-| 15	(+2) | 6	(−2) | 14	(+2) | 2	(−4) | 6	(−2) | 1	(−5) |
+| 15 (+2) | 6 (-2) | 14 (+2) | 2 (-4) | 6 (-2) | 1 (-5) |
 
 **Damage Resistances** acid
 
@@ -20022,9 +20001,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |  |
-|---------|---------|---------|--------|---------|---------|--|
-| 16	(+3) | 12	(+1) | 16	(+3) | 7	(−2) | 11	(+0) | 10	(+0) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |    |
+|---------|---------|---------|--------|---------|---------|----|
+| 16 (+3) | 12 (+1) | 16 (+3) | 7 (-2) | 11 (+0) | 10 (+0) |    |
 
 **Skills** Intimidation +2
 
@@ -20052,7 +20031,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 16	(+3) | 11	(+0) | 19	(+4) | 6	(−2) | 13	(+1) | 6	(−2) |
+| 16 (+3) | 11 (+0) | 19 (+4) | 6 (-2) | 13 (+1) | 6 (-2) |
 
 **Saving Throws** Con +7
 
@@ -20080,9 +20059,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 20	(+5) | 12	(+1) | 17	(+3) | 3	(−4) | 12	(+1) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 20 (+5) | 12 (+1) | 17 (+3) | 3 (-4) | 12 (+1) | 7 (-2) |    |
 
 **Skills** Perception +3
 
@@ -20112,7 +20091,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 15	(+2) | 16	(+3) | 10	(+0) | 15	(+2) | 13	(+1) |
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 15 (+2) | 13 (+1) |
 
 **Saving Throws** Dex +4, Wis +4, Cha +3
 
@@ -20138,9 +20117,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 **Speed** 15 ft., fly 60 ft.
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |  |
-|--------|---------|---------|---------|---------|---------|--|
-| 6	(−2) | 15	(+2) | 13	(+1) | 10	(+0) | 12	(+1) | 10	(+0) |  |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |    |
+|--------|---------|---------|---------|---------|---------|----|
+| 6 (-2) | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) |    |
 
 **Skills** Perception +3, Stealth +4
 
@@ -20174,7 +20153,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
 |---------|--------|---------|--------|--------|--------|
-| 28	(+9) | 7	(−2) | 22	(+6) | 1	(−5) | 8	(−1) | 4	(−3) |
+| 28 (+9) | 7 (-2) | 22 (+6) | 1 (-5) | 8 (-1) | 4 (-3) |
 
 #### **Saving Throws** Con +11, Wis +4
 
@@ -20206,7 +20185,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 14	(+2) | 17	(+3) | 18	(+4) | 13	(+1) | 16	(+3) | 20	(+5) |
+| 14 (+2) | 17 (+3) | 18 (+4) | 13 (+1) | 16 (+3) | 20 (+5) |
 
 **Skills** Deception +10, Insight +8
 
@@ -20241,9 +20220,9 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 **Hit Points** 195 (17d12 + 85) **Speed** 30 ft., burrow 20 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 24	(+7) | 13	(+1) | 21	(+5) | 4	(−3) | 10	(+0) | 5	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 24 (+7) | 13 (+1) | 21 (+5) | 4 (-3) | 10 (+0) | 5 (-3) |    |
 
 #### **Damage Immunities** cold, fire
 
@@ -20273,9 +20252,9 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 **Speed** 20 ft., fly 120 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 28	(+9) | 10	(+0) | 20	(+5) | 3	(−4) | 10	(+0) | 9	(−1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 28 (+9) | 10 (+0) | 20 (+5) | 3 (-4) | 10 (+0) | 9 (-1) |    |
 
 **Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
 
@@ -20307,9 +20286,9 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 **Speed** 10 ft., climb 10 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |  |
-|---------|--------|---------|--------|---------|--------|--|
-| 18	(+4) | 8	(−1) | 17	(+3) | 7	(−2) | 16	(+3) | 6	(−2) |  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |    |
+|---------|--------|---------|--------|---------|--------|----|
+| 18 (+4) | 8 (-1) | 17 (+3) | 7 (-2) | 16 (+3) | 6 (-2) |    |
 
 **Skills** Perception +6, Stealth +5
 
@@ -20347,7 +20326,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 13	(+1) | 12	(+1) | 13	(+1) | 2	(−4) | 13	(+1) | 6	(−2) |
+| 13 (+1) | 12 (+1) | 13 (+1) | 2 (-4) | 13 (+1) | 6 (-2) |
 
 **Senses** darkvision 60 ft., passive Perception 11
 
@@ -20357,7 +20336,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 *Iron Scent.* The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.
 
-*Rust Metal.* Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.
+*Rust Metal.* Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.
 
 #### **Actions**
 
@@ -20367,7 +20346,7 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 If the object touched is either metal armor or a
 
-metal shield being worn or carried, its takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
+metal shield being worn or carried, its takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
 
 # **Monsters (S)**
 
@@ -20381,9 +20360,9 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 **Speed** 30 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |  |
-|---------|---------|---------|---------|---------|--------|--|
-| 13	(+1) | 11	(+0) | 12	(+1) | 12	(+1) | 13	(+1) | 9	(−1) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |    |
+|---------|---------|---------|---------|---------|--------|----|
+| 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (-1) |    |
 
 **Skills** Perception +5
 
@@ -20417,7 +20396,7 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 14	(+2) | 15	(+2) | 11	(+0) | 10	(+0) | 12	(+1) |
+| 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Damage Vulnerabilities** cold
 
@@ -20451,7 +20430,7 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 12	(+1) | 16	(+3) | 11	(+0) | 12	(+1) | 10	(+0) | 14	(+2) |
+| 12 (+1) | 16 (+3) | 11 (+0) | 12 (+1) | 10 (+0) | 14 (+2) |
 
 **Skills** Perception +2, Performance +6, Stealth +5 **Sense**s passive Perception 12 **Languages** Common, Elvish, Sylvan **Challenge** 1/2 (100 XP)
 
@@ -20475,9 +20454,9 @@ metal shield being worn or carried, its takes a permanent and cumulative −1 pe
 
 **Speed** 40 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |  |
-|--------|---------|---------|--------|---------|--------|--|
-| 6	(−2) | 14	(+2) | 13	(+1) | 6	(−2) | 10	(+0) | 8	(−1) |  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |    |
+|--------|---------|---------|--------|---------|--------|----|
+| 6 (-2) | 14 (+2) | 13 (+1) | 6 (-2) | 10 (+0) | 8 (-1) |    |
 
 **Skills** Stealth +4 (+6 in dim light or darkness)
 
@@ -20519,7 +20498,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
 |---------|--------|---------|--------|---------|--------|
-| 18	(+4) | 8	(−1) | 16	(+3) | 5	(−3) | 10	(+0) | 5	(−3) |
+| 18 (+4) | 8 (-1) | 16 (+3) | 5 (-3) | 10 (+0) | 5 (-3) |
 
 **Skills** Stealth +2
 
@@ -20543,7 +20522,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 *Slam. Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
 
-*Engulf.* The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must  succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+*Engulf.* The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 
 #### **Shield Guardian**
 
@@ -20557,7 +20536,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
 |---------|--------|---------|--------|---------|--------|
-| 18	(+4) | 8	(−1) | 18	(+4) | 7	(−2) | 10	(+0) | 3	(−4) |
+| 18 (+4) | 8 (-1) | 18 (+4) | 7 (-2) | 10 (+0) | 3 (-4) |
 
 **Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 10
 
@@ -20599,7 +20578,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
 |---------|---------|---------|--------|--------|--------|
-| 10	(+0) | 14	(+2) | 15	(+2) | 6	(−2) | 8	(−1) | 5	(−3) |
+| 10 (+0) | 14 (+2) | 15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
 
 **Damage Vulnerabilities** bludgeoning
 
@@ -20631,7 +20610,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
 |---------|---------|---------|--------|--------|--------|
-| 18	(+4) | 11	(+0) | 15	(+2) | 6	(−2) | 8	(−1) | 5	(−3) |
+| 18 (+4) | 11 (+0) | 15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
 
 **Damage Vulnerabilities** bludgeoning
 
@@ -20657,9 +20636,9 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 **Speed** 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |  |
-|---------|---------|---------|--------|--------|--------|--|
-| 18	(+4) | 12	(+1) | 15	(+2) | 2	(−4) | 8	(−1) | 5	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |    |
+|---------|---------|---------|--------|--------|--------|----|
+| 18 (+4) | 12 (+1) | 15 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |    |
 
 **Damage Vulnerabilities** bludgeoning
 
@@ -20687,7 +20666,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
 |--------|---------|---------|---------|---------|---------|
-| 1	(−5) | 14	(+2) | 11	(+0) | 10	(+0) | 10	(+0) | 11	(+0) |
+| 1 (-5) | 14 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 11 (+0) |
 
 - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Immunities** necrotic, poison
@@ -20722,7 +20701,7 @@ If a non-evil humanoid dies from this attack, a new shadow rises from the corpse
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 22	(+6) | 10	(+0) | 20	(+5) | 16	(+3) | 18	(+4) | 23	(+6) |
+| 22 (+6) | 10 (+0) | 20 (+5) | 16 (+3) | 18 (+4) | 23 (+6) |
 
 **Saving Throws** Dex +6, Con +11, Int +9, Wis +10
 
@@ -20789,7 +20768,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 15	(+2) | 16	(+3) | 18	(+4) | 18	(+4) | 18	(+4) |
+| 18 (+4) | 15 (+2) | 16 (+3) | 18 (+4) | 18 (+4) | 18 (+4) |
 
 **Skills** Arcana +12, History +12, Perception +8, Religion +8
 
@@ -20842,7 +20821,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
 |--------|---------|---------|---------|---------|---------|
-| 3	(−4) | 18	(+4) | 10	(+0) | 14	(+2) | 13	(+1) | 11	(+0) |
+| 3 (-4) | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 11 (+0) |
 
 **Skills** Perception +3, Stealth +8 **Senses** passive Perception 13 **Languages** Common, Elvish, Sylvan **Challenge** 1/4 (50 XP)
 
@@ -20866,9 +20845,9 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 10 ft., fly 40 ft.
 
-| STR    | DEX     | CON     | INT    | WIS    | CHA    |  |
-|--------|---------|---------|--------|--------|--------|--|
-| 4	(−3) | 16	(+3) | 11	(+0) | 2	(−4) | 8	(−1) | 6	(−2) |  |
+| STR    | DEX     | CON     | INT    | WIS    | CHA    |    |
+|--------|---------|---------|--------|--------|--------|----|
+| 4 (-3) | 16 (+3) | 11 (+0) | 2 (-4) | 8 (-1) | 6 (-2) |    |
 
 **Senses** darkvision 60 ft., passive Perception 9
 
@@ -20892,9 +20871,9 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 
 **Speed** 30 ft., fly 60 ft.
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |  |
-|--------|---------|---------|---------|---------|---------|--|
-| 8	(−1) | 17	(+3) | 13	(+1) | 15	(+2) | 12	(+1) | 20	(+5) |  |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |    |
+|--------|---------|---------|---------|---------|---------|----|
+| 8 (-1) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 20 (+5) |    |
 
 **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
 
@@ -20932,9 +20911,9 @@ Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damag
 
 **Speed** 40 ft.
 
-| STR | DEX | CON                       | INT    | WIS     | CHA     |
-|-----|-----|---------------------------|--------|---------|---------|
-|     |     | 30	(+10) 11	(+0) 30	(+10) | 3	(−4) | 11	(+0) | 11	(+0) |
+| STR   | DEX   | CON                       | INT    | WIS     | CHA     |
+|-------|-------|---------------------------|--------|---------|---------|
+|       |       | 30 (+10) 11 (+0) 30 (+10) | 3 (-4) | 11 (+0) | 11 (+0) |
 
 **Saving Throws** Int +5, Wis +9, Cha +9
 
@@ -20998,7 +20977,7 @@ another creature's turn. The tarrasque regains spent legendary actions at the st
 
 | STR     | DEX    | CON     | INT     | WIS     | CHA     |
 |---------|--------|---------|---------|---------|---------|
-| 23	(+6) | 8	(−1) | 21	(+5) | 12	(+1) | 16	(+3) | 12	(+1) |
+| 23 (+6) | 8 (-1) | 21 (+5) | 12 (+1) | 16 (+3) | 12 (+1) |
 
 **Damage Resistances** bludgeoning, piercing
 
@@ -21034,9 +21013,9 @@ another creature's turn. The tarrasque regains spent legendary actions at the st
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |  |
-|---------|---------|---------|--------|--------|--------|--|
-| 18	(+4) | 13	(+1) | 20	(+5) | 7	(−2) | 9	(−1) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |    |
+|---------|---------|---------|--------|--------|--------|----|
+| 18 (+4) | 13 (+1) | 20 (+5) | 7 (-2) | 9 (-1) | 7 (-2) |    |
 
 **Skills** Perception +2
 
@@ -21068,7 +21047,7 @@ another creature's turn. The tarrasque regains spent legendary actions at the st
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 14	(+2) | 15	(+2) | 11	(+0) | 17	(+3) | 16	(+3) |
+| 18 (+4) | 14 (+2) | 15 (+2) | 11 (+0) | 17 (+3) | 16 (+3) |
 
 #### **Damage Immunities** poison
 
@@ -21124,7 +21103,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 18	(+4) | 18	(+4) | 17	(+3) | 15	(+2) | 18	(+4) |
+| 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 15 (+2) | 18 (+4) |
 
 **Saving Throws** Dex +9, Wis +7, Cha +9
 
@@ -21142,7 +21121,7 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 
 While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
 
-While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution  saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.
+While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.
 
 *Legendary Resistance (3/Day).* If the vampire fails a saving throw, it can choose to succeed instead.
 
@@ -21170,7 +21149,7 @@ While it has 0 hit points in mist form, it can't revert to its vampire form, and
 
 *Unarmed Strike (Vampire Form Only). Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).
 
-*Bite (Bat or Vampire Form Only). Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated,  or restrained. *Hit:* 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
+*Bite (Bat or Vampire Form Only). Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. *Hit:* 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
 
 *Charm.* The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.
 
@@ -21198,7 +21177,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 16	(+3) | 16	(+3) | 11	(+0) | 10	(+0) | 12	(+1) |
+| 16 (+3) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |
 
 **Saving Throws** Dex +6, Wis +3
 
@@ -21248,7 +21227,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 15	(+2) | 14	(+2) | 16	(+3) | 10	(+0) | 13	(+1) | 15	(+2) |
+| 15 (+2) | 14 (+2) | 16 (+3) | 10 (+0) | 13 (+1) | 15 (+2) |
 
 **Skills** Perception +3, Stealth +4
 
@@ -21270,7 +21249,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 *Multiattack.* The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
 
-*Life Drain. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies  if this effect reduces its hit point maximum to 0.
+*Life Drain. Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
 
@@ -21290,7 +21269,7 @@ A humanoid slain by this attack rises 24 hours later as a zombie under the wight
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
 |--------|---------|---------|---------|---------|---------|
-| 1	(−5) | 28	(+9) | 10	(+0) | 13	(+1) | 14	(+2) | 11	(+0) |
+| 1 (-5) | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
 
 **Damage Immunities** lightning, poison
 
@@ -21329,9 +21308,9 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 **Speed** 0 ft., fly 60 ft. (hover)
 
-| STR    | DEX     | CON     | INT     | WIS     | CHA     |  |
-|--------|---------|---------|---------|---------|---------|--|
-| 6	(−2) | 16	(+3) | 16	(+3) | 12	(+1) | 14	(+2) | 15	(+2) |  |
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |    |
+|--------|---------|---------|---------|---------|---------|----|
+| 6 (-2) | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |    |
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
@@ -21361,9 +21340,9 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 **Armor Class** 13 (natural armor) **Hit Points** 110 (13d10 + 39) **Speed** 20 ft., fly 80 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 19	(+4) | 10	(+0) | 16	(+3) | 5	(−3) | 12	(+1) | 6	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 19 (+4) | 10 (+0) | 16 (+3) | 5 (-3) | 12 (+1) | 6 (-2) |    |
 
 **Skills** Perception +4
 
@@ -21393,7 +21372,7 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 17	(+3) | 10	(+0) | 22	(+6) | 11	(+0) | 10	(+0) | 11	(+0) |
+| 17 (+3) | 10 (+0) | 22 (+6) | 11 (+0) | 10 (+0) | 11 (+0) |
 
 **Skills** Perception +6, Stealth +3
 
@@ -21433,9 +21412,9 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |  |
-|---------|--------|---------|--------|--------|--------|--|
-| 13	(+1) | 6	(−2) | 16	(+3) | 3	(−4) | 6	(−2) | 5	(−3) |  |
+| STR     | DEX    | CON     | INT    | WIS    | CHA    |    |
+|---------|--------|---------|--------|--------|--------|----|
+| 13 (+1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) |    |
 
 **Saving Throws** Wis +0
 
@@ -21461,7 +21440,7 @@ additional number of feet equal to the chosen radius. The will-o'-wisp can alter
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
 |---------|--------|---------|--------|--------|--------|
-| 19	(+4) | 6	(−2) | 18	(+4) | 3	(−4) | 6	(−2) | 5	(−3) |
+| 19 (+4) | 6 (-2) | 18 (+4) | 3 (-4) | 6 (-2) | 5 (-3) |
 
 **Saving Throws** Wis +0
 
@@ -21622,94 +21601,94 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 
 ## **Celtic Deities**
 
-| Deity                                             | Alignment | Suggested	Domains | Symbol                             |
-|---------------------------------------------------|-----------|-------------------|------------------------------------|
-| The	Daghdha,	god	of	weather	and	crops             | CG        | Nature,	Trickery  | Bubbling	cauldron	or	shield        |
-| Arawn,	god	of	life	and	death                      | NE        | Life,	Death       | Black	star	on	gray	background      |
-| Belenus,	god	of	sun,	light,	and	warmth            | NG        | Light             | Solar	disk	and	standing	stones     |
-| Brigantia,	goddess	of	rivers	and	livestock        | NG        | Life              | Footbridge                         |
-| Diancecht,	god	of	medicine	and	healing            | LG        | Life              | Crossed	oak	and	mistletoe	branches |
-| Dunatis,	god	of	mountains	and	peaks               | N         | Nature            | Red	sun-capped	mountain	peak       |
-| Goibhniu,	god	of	smiths	and	healing               | NG        | Knowledge,	Life   | Giant	mallet	over	sword            |
-| Lugh,	god	of	arts,	travel,	and	commerce           | CN        | Knowledge,	Life   | Pair	of	long	hands                 |
-| Manannan	mac	Lir,	god	of	oceans	and	sea	creatures | LN        | Nature, Tempest   | Wave	of	white	water	on	green       |
+| Deity                                             | Alignment   | Suggested Domains   | Symbol                             |
+|---------------------------------------------------|-------------|---------------------|------------------------------------|
+| The Daghdha, god of weather and crops             | CG          | Nature, Trickery    | Bubbling cauldron or shield        |
+| Arawn, god of life and death                      | NE          | Life, Death         | Black star on gray background      |
+| Belenus, god of sun, light, and warmth            | NG          | Light               | Solar disk and standing stones     |
+| Brigantia, goddess of rivers and livestock        | NG          | Life                | Footbridge                         |
+| Diancecht, god of medicine and healing            | LG          | Life                | Crossed oak and mistletoe branches |
+| Dunatis, god of mountains and peaks               | N           | Nature              | Red sun-capped mountain peak       |
+| Goibhniu, god of smiths and healing               | NG          | Knowledge, Life     | Giant mallet over sword            |
+| Lugh, god of arts, travel, and commerce           | CN          | Knowledge, Life     | Pair of long hands                 |
+| Manannan mac Lir, god of oceans and sea creatures | LN          | Nature, Tempest     | Wave of white water on green       |
 
-| Math	Mathonwy,	god	of	magic         | NE | Knowledge | Staff                           |
-|-------------------------------------|----|-----------|---------------------------------|
-| Morrigan,	goddess	of	battle         | CE | War       | Two	crossed	spears              |
-| Nuada,	god	of	war	and	warriors      | N  | War       | Silver	hand	on	black	background |
-| Oghma,	god	of	speech	and	writing    | NG | Knowledge | Unfurled	scroll                 |
-| Silvanus,	god	of	nature	and	forests | N  | Nature    | Summer	oak	tree                 |
+| Math Mathonwy, god of magic         | NE   | Knowledge   | Staff                           |
+|-------------------------------------|------|-------------|---------------------------------|
+| Morrigan, goddess of battle         | CE   | War         | Two crossed spears              |
+| Nuada, god of war and warriors      | N    | War         | Silver hand on black background |
+| Oghma, god of speech and writing    | NG   | Knowledge   | Unfurled scroll                 |
+| Silvanus, god of nature and forests | N    | Nature      | Summer oak tree                 |
 
 ## **Greek Deities**
 
-| Deity                                      | Alignment | Suggested	Domains      | Symbol                                |
-|--------------------------------------------|-----------|------------------------|---------------------------------------|
-| Zeus,	god	of	the	sky,	ruler	of	the	gods    | N         | Tempest                | Fist	full	of	lightning	bolts          |
-| Aphrodite,	goddess	of	love	and beauty      | CG        | Light                  | Sea	shell                             |
-| Apollo,	god	of	light,	music,	and	healing   | CG        | Knowledge,	Life,	Light | Lyre                                  |
-| Ares,	god	of	war	and	strife                | CE        | War                    | Spear                                 |
-| Artemis,	goddess	of	hunting	and	childbirth | NG        | Life,	Nature           | Bow	and	arrow	on	lunar	disk           |
-| Athena,	goddess	of	wisdom and	civilization | LG        | Knowledge,	War         | Owl                                   |
-| Demeter,	goddess	of	agriculture            | NG        | Life                   | Mare's	head                           |
-| Dionysus,	god	of	mirth	and	wine            | CN        | Life                   | Thyrsus	(staff	tipped	with	pine	cone) |
-| Hades,	god	of	the	underworld               | LE        | Death                  | Black	ram                             |
-| Hecate,	goddess	of	magic	and	the	moon      | CE        | Knowledge,	Trickery    | Setting	moon                          |
-| Hephaestus,	god	of	smithing	and	craft      | NG        | Knowledge              | Hammer	and	anvil                      |
-| Hera,	goddess	of	marriage	and	intrigue     | CN        | Trickery               | Fan	of	peacock	feathers               |
-| Hercules,	god	of	strength	and	adventure    | CG        | Tempest,	War           | Lion's	head                           |
-| Hermes,	god	of	travel	and	commerce         | CG        | Trickery               | Caduceus	(winged	staff	and	serpents)  |
-| Hestia,	goddess	of	home	and	family         | NG        | Life                   | Hearth                                |
-| Nike,	goddess	of	victory                   | LN        | War                    | Winged	woman                          |
-| Pan,	god	of	nature                         | CN        | Nature                 | Syrinx	(pan	pipes)                    |
-| Poseidon,	god	of	the	sea	and	earthquakes   | CN        | Tempest                | Trident                               |
-| Tyche,	goddess	of	good	fortune             | N         | Trickery               | Red	pentagram                         |
+| Deity                                      | Alignment   | Suggested Domains      | Symbol                                |
+|--------------------------------------------|-------------|------------------------|---------------------------------------|
+| Zeus, god of the sky, ruler of the gods    | N           | Tempest                | Fist full of lightning bolts          |
+| Aphrodite, goddess of love and beauty      | CG          | Light                  | Sea shell                             |
+| Apollo, god of light, music, and healing   | CG          | Knowledge, Life, Light | Lyre                                  |
+| Ares, god of war and strife                | CE          | War                    | Spear                                 |
+| Artemis, goddess of hunting and childbirth | NG          | Life, Nature           | Bow and arrow on lunar disk           |
+| Athena, goddess of wisdom and civilization | LG          | Knowledge, War         | Owl                                   |
+| Demeter, goddess of agriculture            | NG          | Life                   | Mare's head                           |
+| Dionysus, god of mirth and wine            | CN          | Life                   | Thyrsus (staff tipped with pine cone) |
+| Hades, god of the underworld               | LE          | Death                  | Black ram                             |
+| Hecate, goddess of magic and the moon      | CE          | Knowledge, Trickery    | Setting moon                          |
+| Hephaestus, god of smithing and craft      | NG          | Knowledge              | Hammer and anvil                      |
+| Hera, goddess of marriage and intrigue     | CN          | Trickery               | Fan of peacock feathers               |
+| Hercules, god of strength and adventure    | CG          | Tempest, War           | Lion's head                           |
+| Hermes, god of travel and commerce         | CG          | Trickery               | Caduceus (winged staff and serpents)  |
+| Hestia, goddess of home and family         | NG          | Life                   | Hearth                                |
+| Nike, goddess of victory                   | LN          | War                    | Winged woman                          |
+| Pan, god of nature                         | CN          | Nature                 | Syrinx (pan pipes)                    |
+| Poseidon, god of the sea and earthquakes   | CN          | Tempest                | Trident                               |
+| Tyche, goddess of good fortune             | N           | Trickery               | Red pentagram                         |
 
 ## **Egyptian Deities**
 
-| Deity                                          | Alignment | Suggested	Domains        | Symbol                               |
-|------------------------------------------------|-----------|--------------------------|--------------------------------------|
-| Re-Horakhty,	god	of	the	sun,	ruler	of	the	gods | LG        | Life,	Light              | Solar	disk	encircled	by	serpent      |
-| Anubis,	god	of	judgment	and	death              | LN        | Death                    | Black	jackal                         |
-| Apep,	god	of	evil,	fire,	and	serpents          | NE        | Trickery                 | Flaming	snake                        |
-| Bast,	goddess	of	cats	and	vengeance            | CG        | War                      | Cat                                  |
-| Bes,	god	of	luck	and	music                     | CN        | Trickery                 | Image	of	the	misshapen	deity         |
-| Hathor,	goddess	of	love,	music,	and motherhood | NG        | Life,	Light              | Horned	cow's	head	with	lunar	disk    |
-| Imhotep,	god	of	crafts	and	medicine            | NG        | Knowledge                | Step	pyramid                         |
-| Isis,	goddess	of	fertility	and	magic           | NG        | Knowledge,	Life          | Ankh	and	star                        |
-| Nephthys,	goddess	of	death	and	grief           | CG        | Death                    | Horns	around	a	lunar	disk            |
-| Osiris,	god	of	nature	and	the	underworld       | LG        | Life,	Nature             | Crook	and	flail                      |
-| Ptah,	god	of	crafts,	knowledge,	and	secrets    | LN        | Knowledge                | Bull                                 |
-| Set,	god	of	darkness	and	desert	storms         | CE        | Death,	Tempest, Trickery | Coiled	cobra                         |
-| Sobek,	god	of	water	and	crocodiles             | LE        | Nature,	Tempest          | Crocodile	head	with	horns	and	plumes |
-| Thoth,	god	of	knowledge	and	wisdom             | N         | Knowledge                | Ibis                                 |
+| Deity                                          | Alignment   | Suggested Domains        | Symbol                               |
+|------------------------------------------------|-------------|--------------------------|--------------------------------------|
+| Re-Horakhty, god of the sun, ruler of the gods | LG          | Life, Light              | Solar disk encircled by serpent      |
+| Anubis, god of judgment and death              | LN          | Death                    | Black jackal                         |
+| Apep, god of evil, fire, and serpents          | NE          | Trickery                 | Flaming snake                        |
+| Bast, goddess of cats and vengeance            | CG          | War                      | Cat                                  |
+| Bes, god of luck and music                     | CN          | Trickery                 | Image of the misshapen deity         |
+| Hathor, goddess of love, music, and motherhood | NG          | Life, Light              | Horned cow's head with lunar disk    |
+| Imhotep, god of crafts and medicine            | NG          | Knowledge                | Step pyramid                         |
+| Isis, goddess of fertility and magic           | NG          | Knowledge, Life          | Ankh and star                        |
+| Nephthys, goddess of death and grief           | CG          | Death                    | Horns around a lunar disk            |
+| Osiris, god of nature and the underworld       | LG          | Life, Nature             | Crook and flail                      |
+| Ptah, god of crafts, knowledge, and secrets    | LN          | Knowledge                | Bull                                 |
+| Set, god of darkness and desert storms         | CE          | Death, Tempest, Trickery | Coiled cobra                         |
+| Sobek, god of water and crocodiles             | LE          | Nature, Tempest          | Crocodile head with horns and plumes |
+| Thoth, god of knowledge and wisdom             | N           | Knowledge                | Ibis                                 |
 
 # **Norse Deities**
 
-| Deity                                | Alignment | Suggested	Domains | Symbol                       |
-|--------------------------------------|-----------|-------------------|------------------------------|
-| Odin,	god	of	knowledge	and	war       | NG        | Knowledge,	War    | Watching	blue	eye            |
-| Aegir,	god	of	the	sea	and	storms     | NE        | Tempest           | Rough	ocean	waves            |
-| Balder,	god	of	beauty	and	poetry     | NG        | Life,	Light       | Gem-encrusted	silver	chalice |
-| Forseti,	god	of	justice	and	law      | N         | Light             | Head	of	a	bearded	man        |
-| Frey,	god	of	fertility	and	the	sun   | NG        | Life,	Light       | Ice-blue	greatsword          |
-| Freya,	goddess	of	fertility	and	love | NG        | Life              | Falcon                       |
+| Deity                                | Alignment   | Suggested Domains   | Symbol                       |
+|--------------------------------------|-------------|---------------------|------------------------------|
+| Odin, god of knowledge and war       | NG          | Knowledge, War      | Watching blue eye            |
+| Aegir, god of the sea and storms     | NE          | Tempest             | Rough ocean waves            |
+| Balder, god of beauty and poetry     | NG          | Life, Light         | Gem-encrusted silver chalice |
+| Forseti, god of justice and law      | N           | Light               | Head of a bearded man        |
+| Frey, god of fertility and the sun   | NG          | Life, Light         | Ice-blue greatsword          |
+| Freya, goddess of fertility and love | NG          | Life                | Falcon                       |
 
-| Frigga,	goddess	of	birth	and	fertility    | N  | Life,	Light     | Cat                               |
-|-------------------------------------------|----|-----------------|-----------------------------------|
-| Heimdall,	god	of	watchfulness	and	loyalty | LG | Light,	War      | Curling	musical	horn              |
-| Hel,	goddess	of	the	underworld            | NE | Death           | Woman's	face,	rotting	on	one	side |
-| Hermod,	god	of	luck                       | CN | Trickery        | Winged	scroll                     |
-| Loki,	god	of	thieves	and	trickery         | CE | Trickery        | Flame                             |
-| Njord,	god	of	sea	and	wind                | NG | Nature,	Tempest | Gold	coin                         |
-| Odur,	god	of	light	and	the	sun            | CG | Light           | Solar	disk                        |
-| Sif,	goddess of	war                       | CG | War             | Upraised	sword                    |
-| Skadi,	god	of	earth	and	mountains         | N  | Nature          | Mountain	peak                     |
-| Surtur,	god	of	fire	giants	and	war        | LE | War             | Flaming	sword                     |
-| Thor,	god	of	storms	and	thunder           | CG | Tempest,	War    | Hammer                            |
-| Thrym,	god	of	frost	giants	and	cold       | CE | War             | White	double-bladed	axe           |
-| Tyr,	god	of	courage	and	strategy          | LN | Knowledge,	War  | Sword                             |
-| Uller,	god	of	hunting	and	winter          | CN | Nature          | Longbow                           |
+| Frigga, goddess of birth and fertility    | N   | Life, Light     | Cat                               |
+|-------------------------------------------|-----|-----------------|-----------------------------------|
+| Heimdall, god of watchfulness and loyalty | LG  | Light, War      | Curling musical horn              |
+| Hel, goddess of the underworld            | NE  | Death           | Woman's face, rotting on one side |
+| Hermod, god of luck                       | CN  | Trickery        | Winged scroll                     |
+| Loki, god of thieves and trickery         | CE  | Trickery        | Flame                             |
+| Njord, god of sea and wind                | NG  | Nature, Tempest | Gold coin                         |
+| Odur, god of light and the sun            | CG  | Light           | Solar disk                        |
+| Sif, goddess of war                       | CG  | War             | Upraised sword                    |
+| Skadi, god of earth and mountains         | N   | Nature          | Mountain peak                     |
+| Surtur, god of fire giants and war        | LE  | War             | Flaming sword                     |
+| Thor, god of storms and thunder           | CG  | Tempest, War    | Hammer                            |
+| Thrym, god of frost giants and cold       | CE  | War             | White double-bladed axe           |
+| Tyr, god of courage and strategy          | LN  | Knowledge, War  | Sword                             |
+| Uller, god of hunting and winter          | CN  | Nature          | Longbow                           |
 
 # **Appendix PH-C: The Planes of Existence**
 
@@ -21795,7 +21774,7 @@ This appendix contains statistics for various animals, vermin, and other critter
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 16	(+3) | 14	(+2) | 14	(+2) | 6	(−2) | 12	(+1) | 7	(−2) |
+| 16 (+3) | 14 (+2) | 14 (+2) | 6 (-2) | 12 (+1) | 7 (-2) |
 
 **Skills** Athletics +5, Perception +3
 
@@ -21825,7 +21804,7 @@ This appendix contains statistics for various animals, vermin, and other critter
 
 | STR    | DEX    | CON     | INT     | WIS     | CHA    |
 |--------|--------|---------|---------|---------|--------|
-| 3 (−4) | 8	(−1) | 11	(+0) | 10	(+0) | 10	(+0) | 6	(−2) |
+| 3 (-4) | 8 (-1) | 11 (+0) | 10 (+0) | 10 (+0) | 6 (-2) |
 
 **Damage Vulnerabilities** fire
 
@@ -21839,7 +21818,7 @@ This appendix contains statistics for various animals, vermin, and other critter
 
 #### **Actions**
 
-*Rake. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 − 1) slashing damage.
+*Rake. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 - 1) slashing damage.
 
 An **awakened shrub** is an ordinary shrub given sentience and mobility by the *awaken* spell or similar magic.
 
@@ -21853,9 +21832,9 @@ An **awakened shrub** is an ordinary shrub given sentience and mobility by the *
 
 **Speed** 20 ft.
 
-| STR     | DEX    | CON     | INT     | WIS     | CHA    |  |
-|---------|--------|---------|---------|---------|--------|--|
-| 19	(+4) | 6	(−2) | 15	(+2) | 10	(+0) | 10	(+0) | 7	(−2) |  |
+| STR     | DEX    | CON     | INT     | WIS     | CHA    |    |
+|---------|--------|---------|---------|---------|--------|----|
+| 19 (+4) | 6 (-2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (-2) |    |
 
 **Damage Vulnerabilities** fire
 
@@ -21881,7 +21860,7 @@ An **awakened tree** is an ordinary tree given sentience and mobility by the *aw
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 14	(+2) | 12	(+1) | 12	(+1) | 2	(−4) | 10	(+0) | 5	(−3) |
+| 14 (+2) | 12 (+1) | 12 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Senses** passive Perception 10
 
@@ -21905,9 +21884,9 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 30 ft., climb 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |  |
-|--------|---------|---------|--------|---------|--------|--|
-| 8	(−1) | 14	(+2) | 11	(+0) | 4	(−3) | 12	(+1) | 6	(−2) |  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |    |
+|--------|---------|---------|--------|---------|--------|----|
+| 8 (-1) | 14 (+2) | 11 (+0) | 4 (-3) | 12 (+1) | 6 (-2) |    |
 
 **Senses** passive Perception 11
 
@@ -21919,7 +21898,7 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 #### **Actions**
 
-*Bite. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 − 1) piercing damage.
+*Bite. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 - 1) piercing damage.
 
 #### **Badger**
 
@@ -21933,7 +21912,7 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
 |--------|---------|---------|--------|---------|--------|
-| 4	(−3) | 11	(+0) | 12	(+1) | 2	(−4) | 12	(+1) | 5	(−3) |
+| 4 (-3) | 11 (+0) | 12 (+1) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 11 **Languages** —
 
@@ -21951,13 +21930,13 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Armor Class** 12
 
-**Hit Points** 1 (1d4 − 1)
+**Hit Points** 1 (1d4 - 1)
 
 **Speed** 5 ft., fly 30 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
 |--------|---------|--------|--------|---------|--------|
-| 2	(−4) | 15	(+2) | 8	(−1) | 2	(−4) | 12	(+1) | 4	(−3) |
+| 2 (-4) | 15 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Senses** blindsight 60 ft., passive Perception 11
 
@@ -21983,12 +21962,12 @@ An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-sh
 
 **Speed** 40 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 15	(+2) | 10	(+0) | 14	(+2) | 2	(−4) | 12	(+1) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 15 (+2) | 10 (+0) | 14 (+2) | 2 (-4) | 12 (+1) | 7 (-2) |    |
 
 ```
-Skills Perception	+3
+Skills Perception +3
 ```
 **Senses** passive Perception 13
 
@@ -22018,7 +21997,7 @@ Skills Perception	+3
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 12	(+1) | 17	(+3) | 12	(+1) | 10	(+0) | 13	(+1) | 11	(+0) |
+| 12 (+1) | 17 (+3) | 12 (+1) | 10 (+0) | 13 (+1) | 11 (+0) |
 
 **Skills** Perception +3, Stealth +5
 
@@ -22042,14 +22021,14 @@ A **blink dog** takes its name from its ability to blink in and out of existence
 
 *Small beast, unaligned*
 
-| Armor	Class 12           |
+| Armor Class 12           |
 |--------------------------|
-| Hit	Points 7	(2d6)       |
-| Speed 10	ft.,	fly	60	ft. |
+| Hit Points 7 (2d6)       |
+| Speed 10 ft., fly 60 ft. |
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |  |
-|--------|---------|---------|--------|---------|--------|--|
-| 6	(−2) | 14	(+2) | 10	(+0) | 3	(−4) | 14	(+2) | 5	(−3) |  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |    |
+|--------|---------|---------|--------|---------|--------|----|
+| 6 (-2) | 14 (+2) | 10 (+0) | 3 (-4) | 14 (+2) | 5 (-3) |    |
 
 **Skills** Perception +4
 
@@ -22071,9 +22050,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Armor Class** 11 (natural armor) **Hit Points** 11 (2d8 + 2) **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |  |
-|---------|---------|---------|--------|--------|--------|--|
-| 13	(+1) | 11	(+0) | 12	(+1) | 2	(−4) | 9	(−1) | 5	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |    |
+|---------|---------|---------|--------|--------|--------|----|
+| 13 (+1) | 11 (+0) | 12 (+1) | 2 (-4) | 9 (-1) | 5 (-3) |    |
 
 **Senses** passive Perception 9
 
@@ -22081,7 +22060,7 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Challenge** 1/4 (50 XP)
 
-*Charge.* If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on  the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+*Charge.* If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 
 *Relentless (Recharges after a Short or Long Rest).* If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
@@ -22101,7 +22080,7 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 19	(+4) | 10	(+0) | 16	(+3) | 2	(−4) | 13	(+1) | 7	(−2) |
+| 19 (+4) | 10 (+0) | 16 (+3) | 2 (-4) | 13 (+1) | 7 (-2) |
 
 **Skills** Perception +3
 
@@ -22131,7 +22110,7 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
 |---------|--------|---------|--------|--------|--------|
-| 16	(+3) | 8	(−1) | 14	(+2) | 2	(−4) | 8	(−1) | 5	(−3) |
+| 16 (+3) | 8 (-1) | 14 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |
 
 **Senses** passive Perception 9
 
@@ -22153,9 +22132,9 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 **Speed** 40 ft., climb 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |  |
-|--------|---------|---------|--------|---------|--------|--|
-| 3	(−4) | 15	(+2) | 10	(+0) | 3	(−4) | 12	(+1) | 7	(−2) |  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |    |
+|--------|---------|---------|--------|---------|--------|----|
+| 3 (-4) | 15 (+2) | 10 (+0) | 3 (-4) | 12 (+1) | 7 (-2) |    |
 
 **Skills** Perception +3, Stealth +4 **Senses** passive Perception 13 **Languages** —
 
@@ -22175,7 +22154,7 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 15	(+2) | 14	(+2) | 12	(+1) | 1	(−5) | 10	(+0) | 3	(−4) |
+| 15 (+2) | 14 (+2) | 12 (+1) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Senses** blindsight 10 ft., passive Perception 10
 
@@ -22201,7 +22180,7 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 | STR    | DEX     | CON     | INT    | WIS    | CHA    |
 |--------|---------|---------|--------|--------|--------|
-| 2	(−4) | 11	(+0) | 10	(+0) | 1	(−5) | 8	(−1) | 2	(−4) |
+| 2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 2 (-4) |
 
 **Skills** Stealth +2
 
@@ -22229,7 +22208,7 @@ Taking its name from its crimson feathers and aggressive nature, the **blood haw
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 15	(+2) | 10	(+0) | 13	(+1) | 2	(−4) | 10	(+0) | 5	(−3) |
+| 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Skills** Stealth +2
 
@@ -22257,9 +22236,9 @@ target is grappled (escape DC 12). Until this grapple ends, the target is restra
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 15	(+2) | 14	(+2) | 14	(+2) | 3	(−4) | 13	(+1) | 6	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 15 (+2) | 14 (+2) | 14 (+2) | 3 (-4) | 13 (+1) | 6 (-2) |    |
 
 **Skills** Perception +5, Stealth +4
 
@@ -22289,7 +22268,7 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 11	(+0) | 16	(+3) | 11	(+0) | 2	(−4) | 14	(+2) | 5	(−3) |
+| 11 (+0) | 16 (+3) | 11 (+0) | 2 (-4) | 14 (+2) | 5 (-3) |
 
 **Senses** passive Perception 12
 
@@ -22313,7 +22292,7 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 17	(+3) | 15	(+2) | 15	(+2) | 3	(−4) | 12	(+1) | 7	(−2) |
+| 17 (+3) | 15 (+2) | 15 (+2) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3, Stealth +4
 
@@ -22337,7 +22316,7 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 18	(+4) | 10	(+0) | 12	(+1) | 2	(−4) | 11	(+0) | 7	(−2) |
+| 18 (+4) | 10 (+0) | 12 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |
 
 **Senses** passive Perception 10
 
@@ -22359,9 +22338,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 10 ft., fly 60 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |  |
-|--------|---------|---------|--------|---------|--------|--|
-| 6	(−2) | 15	(+2) | 10	(+0) | 2	(−4) | 14	(+2) | 7	(−2) |  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |    |
+|--------|---------|---------|--------|---------|--------|----|
+| 6 (-2) | 15 (+2) | 10 (+0) | 2 (-4) | 14 (+2) | 7 (-2) |    |
 
 **Skills** Perception +4
 
@@ -22387,9 +22366,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Speed** 40 ft.
 
-| STR     | DEX    | CON     | INT    | WIS     | CHA    |  |
-|---------|--------|---------|--------|---------|--------|--|
-| 22	(+6) | 9	(−1) | 17	(+3) | 3	(−4) | 11	(+0) | 6	(−2) |  |
+| STR     | DEX    | CON     | INT    | WIS     | CHA    |    |
+|---------|--------|---------|--------|---------|--------|----|
+| 22 (+6) | 9 (-1) | 17 (+3) | 3 (-4) | 11 (+0) | 6 (-2) |    |
 
 **Senses** passive Perception 10
 
@@ -22415,7 +22394,7 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 16	(+3) | 10	(+0) | 12	(+1) | 2	(−4) | 10	(+0) | 6	(−2) |
+| 16 (+3) | 10 (+0) | 12 (+1) | 2 (-4) | 10 (+0) | 6 (-2) |
 
 **Senses** passive Perception 10
 
@@ -22437,9 +22416,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 **Armor Class** 14 **Hit Points** 5 (2d4) **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |  |
-|--------|---------|---------|--------|---------|--------|--|
-| 4	(−3) | 18	(+4) | 11	(+0) | 2	(−4) | 12	(+1) | 5	(−3) |  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |    |
+|--------|---------|---------|--------|---------|--------|----|
+| 4 (-3) | 18 (+4) | 11 (+0) | 2 (-4) | 12 (+1) | 5 (-3) |    |
 
 **Senses** blindsight 10 ft., passive Perception 11
 
@@ -22459,11 +22438,11 @@ A **flying snake** is a brightly colored, winged serpent found in remote jungles
 
 *Tiny beast, unaligned*
 
-**Armor Class** 11 **Hit Points** 1 (1d4 − 1) **Speed** 20 ft., swim 20 ft.
+**Armor Class** 11 **Hit Points** 1 (1d4 - 1) **Speed** 20 ft., swim 20 ft.
 
-| STR    | DEX     | CON    | INT    | WIS    | CHA    |  |
-|--------|---------|--------|--------|--------|--------|--|
-| 1	(−5) | 13	(+1) | 8	(−1) | 1	(−5) | 8	(−1) | 3	(−4) |  |
+| STR    | DEX     | CON    | INT    | WIS    | CHA    |    |
+|--------|---------|--------|--------|--------|--------|----|
+| 1 (-5) | 13 (+1) | 8 (-1) | 1 (-5) | 8 (-1) | 3 (-4) |    |
 
 **Skills** Perception +1, Stealth +3
 
@@ -22489,7 +22468,7 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 23	(+6) | 14	(+2) | 18	(+4) | 7	(−2) | 12	(+1) | 7	(−2) |
+| 23 (+6) | 14 (+2) | 18 (+4) | 7 (-2) | 12 (+1) | 7 (-2) |
 
 **Skills** Athletics +9, Perception +4
 
@@ -22519,7 +22498,7 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 13	(+1) | 10	(+0) | 15	(+2) | 2	(−4) | 12	(+1) | 5	(−3) |
+| 13 (+1) | 10 (+0) | 15 (+2) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 11
 
@@ -22543,9 +22522,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Armor Class** 13 **Hit Points** 22 (4d10) **Speed** 10 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 15	(+2) | 16	(+3) | 11	(+0) | 2	(−4) | 12	(+1) | 6	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 15 (+2) | 16 (+3) | 11 (+0) | 2 (-4) | 12 (+1) | 6 (-2) |    |
 
 **Senses** blindsight 60 ft., passive Perception 11
 
@@ -22569,9 +22548,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |  |
-|---------|---------|---------|--------|--------|--------|--|
-| 17	(+3) | 10	(+0) | 16	(+3) | 2	(−4) | 7	(−2) | 5	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |    |
+|---------|---------|---------|--------|--------|--------|----|
+| 17 (+3) | 10 (+0) | 16 (+3) | 2 (-4) | 7 (-2) | 5 (-3) |    |
 
 **Senses** passive Perception 8
 
@@ -22597,9 +22576,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 30 ft., climb 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS    | CHA    |  |
-|--------|---------|---------|--------|--------|--------|--|
-| 5	(−3) | 14	(+2) | 12	(+1) | 1	(−5) | 7	(−2) | 3	(−4) |  |
+| STR    | DEX     | CON     | INT    | WIS    | CHA    |    |
+|--------|---------|---------|--------|--------|--------|----|
+| 5 (-3) | 14 (+2) | 12 (+1) | 1 (-5) | 7 (-2) | 3 (-4) |    |
 
 **Senses** blindsight 30 ft., passive Perception 8
 
@@ -22621,9 +22600,9 @@ A **frog** has no effective attacks. It feeds on small insects and typically dwe
 
 **Speed** 30 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 19	(+4) | 14	(+2) | 12	(+1) | 1	(−5) | 10	(+0) | 3	(−4) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 19 (+4) | 14 (+2) | 12 (+1) | 1 (-5) | 10 (+0) | 3 (-4) |    |
 
 **Skills** Perception +2
 
@@ -22651,7 +22630,7 @@ grapple ends, the creature is restrained, and the snake can't constrict another 
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |
 |---------|---------|---------|--------|--------|--------|
-| 13	(+1) | 15	(+2) | 11	(+0) | 1	(−5) | 9	(−1) | 3	(−4) |
+| 13 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 9 (-1) | 3 (-4) |
 
 **Skills** Stealth +4
 
@@ -22675,7 +22654,7 @@ grapple ends, the creature is restrained, and the snake can't constrict another 
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
 |---------|--------|---------|--------|---------|--------|
-| 21	(+5) | 9	(−1) | 17	(+3) | 2	(−4) | 10	(+0) | 7	(−2) |
+| 21 (+5) | 9 (-1) | 17 (+3) | 2 (-4) | 10 (+0) | 7 (-2) |
 
 **Skills** Stealth +5
 
@@ -22703,7 +22682,7 @@ grapple ends, the creature is restrained, and the snake can't constrict another 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
 |---------|---------|---------|--------|---------|---------|
-| 16	(+3) | 17	(+3) | 13	(+1) | 8	(−1) | 14	(+2) | 10	(+0) |
+| 16 (+3) | 17 (+3) | 13 (+1) | 8 (-1) | 14 (+2) | 10 (+0) |
 
 **Skills** Perception +4
 
@@ -22735,9 +22714,9 @@ A **giant eagle** is a noble creature that speaks its own language and understan
 
 **Speed** 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA     |  |
-|---------|---------|---------|--------|---------|---------|--|
-| 19	(+4) | 16	(+3) | 14	(+2) | 7	(−2) | 14	(+2) | 10	(+0) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA     |    |
+|---------|---------|---------|--------|---------|---------|----|
+| 19 (+4) | 16 (+3) | 14 (+2) | 7 (-2) | 14 (+2) | 10 (+0) |    |
 
 **Skills** Perception +4
 
@@ -22767,7 +22746,7 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 
 | STR    | DEX     | CON     | INT    | WIS    | CHA    |
 |--------|---------|---------|--------|--------|--------|
-| 8	(−1) | 10	(+0) | 12	(+1) | 1	(−5) | 7	(−2) | 3	(−4) |
+| 8 (-1) | 10 (+0) | 12 (+1) | 1 (-5) | 7 (-2) | 3 (-4) |
 
 **Senses** blindsight 30 ft., passive Perception 8
 
@@ -22777,7 +22756,7 @@ The majestic **giant elk** is rare to the point that its appearance is often tak
 
 #### **Actions**
 
-*Bite. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6 − 1) slashing damage.
+*Bite. Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6 - 1) slashing damage.
 
 A **giant fire beetle** is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for 1d6 days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
 
@@ -22793,7 +22772,7 @@ A **giant fire beetle** is a nocturnal creature that takes its name from a pair 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 12	(+1) | 13	(+1) | 11	(+0) | 2	(−4) | 10	(+0) | 3	(−4) |
+| 12 (+1) | 13 (+1) | 11 (+0) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Skills** Perception +2, Stealth +3
 
@@ -22813,7 +22792,7 @@ A **giant fire beetle** is a nocturnal creature that takes its name from a pair 
 
 *Swallow.* The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time.
 
-If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5  feet of movement, exiting prone.
+If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
 #### **Giant Goat**
 
@@ -22827,7 +22806,7 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 17	(+3) | 11	(+0) | 12	(+1) | 3	(−4) | 12	(+1) | 6	(−2) |
+| 17 (+3) | 11 (+0) | 12 (+1) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Senses** passive Perception 11
 
@@ -22853,9 +22832,9 @@ If the frog dies, a swallowed creature is no longer restrained by it and can esc
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 16	(+3) | 14	(+2) | 14	(+2) | 2	(−4) | 12	(+1) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 16 (+3) | 14 (+2) | 14 (+2) | 2 (-4) | 12 (+1) | 7 (-2) |    |
 
 **Skills** Perception +3
 
@@ -22885,7 +22864,7 @@ take a bonus action to move up to half its speed and make a bite attack.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 15	(+2) | 12	(+1) | 13	(+1) | 2	(−4) | 10	(+0) | 5	(−3) |
+| 15 (+2) | 12 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 10
 
@@ -22909,9 +22888,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 **Speed** 10 ft., swim 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 17	(+3) | 13	(+1) | 13	(+1) | 4	(−3) | 10	(+0) | 4	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 17 (+3) | 13 (+1) | 13 (+1) | 4 (-3) | 10 (+0) | 4 (-3) |    |
 
 **Skills** Perception +4, Stealth +5
 
@@ -22941,7 +22920,7 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
 |---------|---------|---------|--------|---------|---------|
-| 13	(+1) | 15	(+2) | 12	(+1) | 8	(−1) | 13	(+1) | 10	(+0) |
+| 13 (+1) | 15 (+2) | 12 (+1) | 8 (-1) | 13 (+1) | 10 (+0) |
 
 **Skills** Perception +5, Stealth +4
 
@@ -22971,9 +22950,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 **Speed** 30 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 10	(+0) | 18	(+4) | 13	(+1) | 2	(−4) | 10	(+0) | 3	(−4) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 10 (+0) | 18 (+4) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |    |
 
 **Skills** Perception +2
 
@@ -22997,9 +22976,9 @@ A **giant lizard** can be ridden or used as a draft animal. Lizardfolk also keep
 
 **Speed** 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |  |
-|--------|---------|---------|--------|---------|--------|--|
-| 7	(−2) | 15	(+2) | 11	(+0) | 2	(−4) | 10	(+0) | 4	(−3) |  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |    |
+|--------|---------|---------|--------|---------|--------|----|
+| 7 (-2) | 15 (+2) | 11 (+0) | 2 (-4) | 10 (+0) | 4 (-3) |    |
 
 **Senses** darkvision 60 ft., passive Perception 10
 
@@ -23031,9 +23010,9 @@ Some giant rats carry vile diseases that they spread with their bites. A disease
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS    | CHA    |  |
-|---------|---------|---------|--------|--------|--------|--|
-| 15	(+2) | 13	(+1) | 15	(+2) | 1	(−5) | 9	(−1) | 3	(−4) |  |
+| STR     | DEX     | CON     | INT    | WIS    | CHA    |    |
+|---------|---------|---------|--------|--------|--------|----|
+| 15 (+2) | 13 (+1) | 15 (+2) | 1 (-5) | 9 (-1) | 3 (-4) |    |
 
 **Senses** blindsight 60 ft., passive Perception 9
 
@@ -23059,7 +23038,7 @@ Some giant rats carry vile diseases that they spread with their bites. A disease
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 12	(+1) | 15	(+2) | 11	(+0) | 2	(−4) | 12	(+1) | 5	(−3) |
+| 12 (+1) | 15 (+2) | 11 (+0) | 2 (-4) | 12 (+1) | 5 (-3) |
 
 **Senses** passive Perception 11
 
@@ -23085,9 +23064,9 @@ Like their smaller kin, **giant sea horses** are shy, colorful fish with elongat
 
 **Speed** 0 ft., swim 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 23	(+6) | 11	(+0) | 21	(+5) | 1	(−5) | 10	(+0) | 5	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 23 (+6) | 11 (+0) | 21 (+5) | 1 (-5) | 10 (+0) | 5 (-3) |    |
 
 **Skills** Perception +3
 
@@ -23117,9 +23096,9 @@ A **giant shark** is 30 feet long and normally found in deep oceans. Utterly fea
 
 **Speed** 30 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 14	(+2) | 16	(+3) | 12	(+1) | 2	(−4) | 11	(+0) | 4	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 14 (+2) | 16 (+3) | 12 (+1) | 2 (-4) | 11 (+0) | 4 (-3) |    |
 
 #### **Skills** Stealth +7
 
@@ -23153,9 +23132,9 @@ To snare its prey, a **giant spider** spins elaborate webs or shoots sticky stra
 
 **Speed** 20 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 15	(+2) | 13	(+1) | 13	(+1) | 2	(−4) | 10	(+0) | 3 (−4) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 15 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |    |
 
 **Senses** darkvision 30 ft., passive Perception 10
 
@@ -23181,9 +23160,9 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 **Armor Class** 10 **Hit Points** 22 (3d10 + 6) **Speed** 10 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 15	(+2) | 10	(+0) | 15	(+2) | 6	(−2) | 12	(+1) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 15 (+2) | 10 (+0) | 15 (+2) | 6 (-2) | 12 (+1) | 7 (-2) |    |
 
 **Skills** Perception +3
 
@@ -23213,9 +23192,9 @@ A **giant vulture** has advanced intelligence and a malevolent bent. Unlike its 
 
 **Armor Class** 12 **Hit Points** 13 (3d8) **Speed** 10 ft., fly 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 10	(+0) | 14	(+2) | 10	(+0) | 1	(−5) | 10	(+0) | 3	(−4) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 10 (+0) | 14 (+2) | 10 (+0) | 1 (-5) | 10 (+0) | 3 (-4) |    |
 
 **Senses** passive Perception 10
 
@@ -23241,7 +23220,7 @@ target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damag
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 11	(+0) | 16	(+3) | 10	(+0) | 4	(−3) | 12	(+1) | 5	(−3) |
+| 11 (+0) | 16 (+3) | 10 (+0) | 4 (-3) | 12 (+1) | 5 (-3) |
 
 **Skills** Perception +3, Stealth +5
 
@@ -23269,7 +23248,7 @@ target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damag
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 12	(+1) | 16	(+3) | 13	(+1) | 3	(−4) | 12	(+1) | 4	(−3) |
+| 12 (+1) | 16 (+3) | 13 (+1) | 3 (-4) | 12 (+1) | 4 (-3) |
 
 **Skills** Perception +3, Stealth +7
 
@@ -23299,9 +23278,9 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 12	(+1) | 10	(+0) | 11	(+0) | 2	(−4) | 10	(+0) | 5	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 12 (+1) | 10 (+0) | 11 (+0) | 2 (-4) | 10 (+0) | 5 (-3) |    |
 
 **Senses** passive Perception 10
 
@@ -23323,13 +23302,13 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 
 **Armor Class** 13
 
-**Hit Points** 1 (1d4 − 1)
+**Hit Points** 1 (1d4 - 1)
 
 **Speed** 10 ft., fly 60 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
 |--------|---------|--------|--------|---------|--------|
-| 5	(−3) | 16	(+3) | 8	(−1) | 2	(−4) | 14	(+2) | 6	(−2) |
+| 5 (-3) | 16 (+3) | 8 (-1) | 2 (-4) | 14 (+2) | 6 (-2) |
 
 **Skills** Perception +4
 
@@ -23355,9 +23334,9 @@ Smaller than a giant spider, a **giant wolf spider** hunts prey across open grou
 
 **Speed** 0 ft., swim 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 18	(+4) | 13	(+1) | 15	(+2) | 1	(−5) | 10	(+0) | 4	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 18 (+4) | 13 (+1) | 15 (+2) | 1 (-5) | 10 (+0) | 4 (-3) |    |
 
 **Skills** Perception +2
 
@@ -23387,9 +23366,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 11	(+0) | 13	(+1) | 12	(+1) | 2	(−4) | 12	(+1) | 5	(−3) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 11 (+0) | 13 (+1) | 12 (+1) | 2 (-4) | 12 (+1) | 5 (-3) |    |
 
 **Skills** Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 0 (10 XP)
 
@@ -23409,9 +23388,9 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 **Speed** 40 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |  |
-|--------|---------|---------|--------|---------|--------|--|
-| 8	(−1) | 15	(+2) | 11	(+0) | 3	(−4) | 12	(+1) | 6	(−2) |  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |    |
+|--------|---------|---------|--------|---------|--------|----|
+| 8 (-1) | 15 (+2) | 11 (+0) | 3 (-4) | 12 (+1) | 6 (-2) |    |
 
 **Skills** Perception +3
 
@@ -23441,7 +23420,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 19	(+4) | 10	(+0) | 13	(+1) | 3	(−4) | 12	(+1) | 7	(−2) |
+| 19 (+4) | 10 (+0) | 13 (+1) | 3 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3
 
@@ -23473,7 +23452,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 17	(+3) | 15	(+2) | 13	(+1) | 3	(−4) | 12	(+1) | 8	(−1) |
+| 17 (+3) | 15 (+2) | 13 (+1) | 3 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +3, Stealth +6 **Senses** passive Perception 13 **Languages** — **Challenge** 1 (200 XP)
 
@@ -23501,7 +23480,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 | STR    | DEX     | CON     | INT    | WIS    | CHA    |
 |--------|---------|---------|--------|--------|--------|
-| 2	(−4) | 11	(+0) | 10	(+0) | 1	(−5) | 8	(−1) | 3	(−4) |
+| 2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 3 (-4) |
 
 **Senses** darkvision 30 ft., passive Perception 9
 
@@ -23523,7 +23502,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a **hunter 
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
 |---------|--------|---------|--------|---------|--------|
-| 24	(+7) | 9	(−1) | 21	(+5) | 3	(−4) | 11	(+0) | 6	(−2) |
+| 24 (+7) | 9 (-1) | 21 (+5) | 3 (-4) | 11 (+0) | 6 (-2) |
 
 **Senses** passive Perception 10
 
@@ -23549,9 +23528,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 13	(+1) | 14	(+2) | 12	(+1) | 3	(−4) | 12	(+1) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 13 (+1) | 14 (+2) | 12 (+1) | 3 (-4) | 12 (+1) | 7 (-2) |    |
 
 **Skills** Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 1/8 (25 XP)
 
@@ -23575,7 +23554,7 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 14	(+2) | 10	(+0) | 13	(+1) | 2	(−4) | 10	(+0) | 5	(−3) |
+| 14 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 10 (+0) | 5 (-3) |
 
 **Senses** passive Perception 10
 
@@ -23599,7 +23578,7 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
 |--------|---------|---------|--------|---------|--------|
-| 4	(−3) | 15	(+2) | 11	(+0) | 3	(−4) | 10	(+0) | 4	(−3) |
+| 4 (-3) | 15 (+2) | 11 (+0) | 3 (-4) | 10 (+0) | 4 (-3) |
 
 **Skills** Perception +2, Stealth +4
 
@@ -23627,13 +23606,13 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 #### **Armor Class** 11
 
-**Hit Points** 1 (1d4 − 1)
+**Hit Points** 1 (1d4 - 1)
 
 **Speed** 5 ft., fly 60 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
 |--------|---------|--------|--------|---------|--------|
-| 3	(−4) | 13	(+1) | 8	(−1) | 2	(−4) | 12	(+1) | 7	(−2) |
+| 3 (-4) | 13 (+1) | 8 (-1) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Skills** Perception +3, Stealth +3
 
@@ -23659,9 +23638,9 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Hit Points** 13 (3d8)
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 14	(+2) | 15	(+2) | 10	(+0) | 3	(−4) | 14	(+2) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 14 (+2) | 15 (+2) | 10 (+0) | 3 (-4) | 14 (+2) | 7 (-2) |    |
 
 **Skills** Perception +4, Stealth +6
 
@@ -23689,12 +23668,12 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Speed** 30 ft., climb 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 15	(+2) | 15	(+2) | 12	(+1) | 6	(−2) | 10	(+0) | 6	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 15 (+2) | 15 (+2) | 12 (+1) | 6 (-2) | 10 (+0) | 6 (-2) |    |
 
 ```
-Skills Stealth	+6
+Skills Stealth +6
 ```
 **Senses** darkvision 60 ft., passive Perception 10 **Languages** —
 
@@ -23724,7 +23703,7 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
 |--------|---------|---------|--------|---------|--------|
-| 2	(−4) | 16	(+3) | 11	(+0) | 1	(−5) | 10	(+0) | 3	(−4) |
+| 2 (-4) | 16 (+3) | 11 (+0) | 1 (-5) | 10 (+0) | 3 (-4) |
 
 **Senses** blindsight 10 ft., passive Perception 10
 
@@ -23742,9 +23721,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Armor Class** 12 (natural armor) **Hit Points** 42 (5d10 + 15) **Speed** 40 ft., swim 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 20	(+5) | 10	(+0) | 16	(+3) | 2	(−4) | 13	(+1) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 20 (+5) | 10 (+0) | 16 (+3) | 2 (-4) | 13 (+1) | 7 (-2) |    |
 
 **Skills** Perception +3
 
@@ -23772,9 +23751,9 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 15	(+2) | 10	(+0) | 13	(+1) | 2	(−4) | 11	(+0) | 7	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 15 (+2) | 10 (+0) | 13 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |    |
 
 **Senses** passive Perception 10
 
@@ -23792,13 +23771,13 @@ A **phase spider** possesses the magical ability to phase in and out of the Ethe
 
 **Armor Class** 13
 
-**Hit Points** 1 (1d4 − 1)
+**Hit Points** 1 (1d4 - 1)
 
 **Speed** 0 ft., swim 40 ft.
 
 | STR    | DEX     | CON    | INT    | WIS    | CHA    |
 |--------|---------|--------|--------|--------|--------|
-| 2	(−4) | 16	(+3) | 9	(−1) | 1	(−5) | 7	(−2) | 2	(−4) |
+| 2 (-4) | 16 (+3) | 9 (-1) | 1 (-5) | 7 (-2) | 2 (-4) |
 
 **Senses** darkvision 60 ft., passive Perception 8
 
@@ -23822,13 +23801,13 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 **Armor Class** 10
 
-**Hit Points** 1 (1d4 − 1)
+**Hit Points** 1 (1d4 - 1)
 
 **Speed** 20 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
 |--------|---------|--------|--------|---------|--------|
-| 2	(−4) | 11	(+0) | 9	(−1) | 2	(−4) | 10	(+0) | 4	(−3) |
+| 2 (-4) | 11 (+0) | 9 (-1) | 2 (-4) | 10 (+0) | 4 (-3) |
 
 **Senses** darkvision 30 ft., passive Perception 10
 
@@ -23848,13 +23827,13 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 **Armor Class** 12
 
-**Hit Points** 1 (1d4 − 1)
+**Hit Points** 1 (1d4 - 1)
 
 **Speed** 10 ft., fly 50 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |  |
-|--------|---------|--------|--------|---------|--------|--|
-| 2	(−4) | 14	(+2) | 8	(−1) | 2	(−4) | 12	(+1) | 6	(−2) |  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |    |
+|--------|---------|--------|--------|---------|--------|----|
+| 2 (-4) | 14 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 6 (-2) |    |
 
 **Skills** Perception +3
 
@@ -23882,7 +23861,7 @@ A **quipper** is a carnivorous fish with sharp teeth. Quippers can adapt to any 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 14	(+2) | 13	(+1) | 13	(+1) | 1	(−5) | 10	(+0) | 4	(−3) |
+| 14 (+2) | 13 (+1) | 13 (+1) | 1 (-5) | 10 (+0) | 4 (-3) |
 
 **Skills** Perception +2
 
@@ -23912,7 +23891,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 | STR     | DEX    | CON     | INT    | WIS     | CHA    |
 |---------|--------|---------|--------|---------|--------|
-| 21	(+5) | 8	(−1) | 15	(+2) | 2	(−4) | 12	(+1) | 6	(−2) |
+| 21 (+5) | 8 (-1) | 15 (+2) | 2 (-4) | 12 (+1) | 6 (-2) |
 
 **Senses** passive Perception 11
 
@@ -23938,7 +23917,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 16	(+3) | 10	(+0) | 12 (+1) | 2	(−4) | 11	(+0) | 7	(−2) |
+| 16 (+3) | 10 (+0) | 12 (+1) | 2 (-4) | 11 (+0) | 7 (-2) |
 
 **Senses** passive Perception 10 **Languages** — **Challenge** 1/4 (50 XP)
 
@@ -23956,9 +23935,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 18	(+4) | 14	(+2) | 15	(+2) | 3	(−4) | 12	(+1) | 8	(−1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 18 (+4) | 14 (+2) | 15 (+2) | 3 (-4) | 12 (+1) | 8 (-1) |    |
 
 **Skills** Perception +3, Stealth +6 **Senses** passive Perception 13 **Languages** —
 
@@ -23978,13 +23957,13 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Tiny beast, unaligned*
 
-**Armor Class** 11 (natural armor) **Hit Points** 1 (1d4 − 1)
+**Armor Class** 11 (natural armor) **Hit Points** 1 (1d4 - 1)
 
 **Speed** 10 ft.
 
 | STR    | DEX     | CON    | INT    | WIS    | CHA    |
 |--------|---------|--------|--------|--------|--------|
-| 2	(−4) | 11	(+0) | 8	(−1) | 1	(−5) | 8	(−1) | 2	(−4) |
+| 2 (-4) | 11 (+0) | 8 (-1) | 1 (-5) | 8 (-1) | 2 (-4) |
 
 **Senses** blindsight 10 ft., passive Perception 9
 
@@ -24002,13 +23981,13 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Armor Class** 11
 
-**Hit Points** 1 (1d4 − 1)
+**Hit Points** 1 (1d4 - 1)
 
 **Speed** 0 ft., swim 20 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
 |--------|---------|--------|--------|---------|--------|
-| 1	(−5) | 12	(+1) | 8	(−1) | 1	(−5) | 10	(+0) | 2	(−4) |
+| 1 (-5) | 12 (+1) | 8 (-1) | 1 (-5) | 10 (+0) | 2 (-4) |
 
 **Senses** passive Perception 10
 
@@ -24024,15 +24003,15 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Armor Class** 12
 
-**Hit Points** 1 (1d4 − 1)
+**Hit Points** 1 (1d4 - 1)
 
-| Speed 20	ft.,	climb	20	ft. |  |  |
-|----------------------------|--|--|
-|----------------------------|--|--|
+| Speed 20 ft., climb 20 ft.   |    |    |
+|------------------------------|----|----|
+| ---------------------------- | -- | -- |
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |  |
-|--------|---------|--------|--------|---------|--------|--|
-| 2	(−4) | 14	(+2) | 8	(−1) | 1	(−5) | 10	(+0) | 2	(−4) |  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |    |
+|--------|---------|--------|--------|---------|--------|----|
+| 2 (-4) | 14 (+2) | 8 (-1) | 1 (-5) | 10 (+0) | 2 (-4) |    |
 
 **Skills** Stealth +4
 
@@ -24064,7 +24043,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |
 |--------|---------|---------|--------|---------|--------|
-| 5	(−3) | 15	(+2) | 10	(+0) | 2	(−4) | 12	(+1) | 4	(−3) |
+| 5 (-3) | 15 (+2) | 10 (+0) | 2 (-4) | 12 (+1) | 4 (-3) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
@@ -24096,9 +24075,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 20 ft., climb 20 ft.
 
-| STR    | DEX     | CON     | INT    | WIS    | CHA    |  |
-|--------|---------|---------|--------|--------|--------|--|
-| 3	(−4) | 13	(+1) | 10	(+0) | 1	(−5) | 7	(−2) | 1	(−5) |  |
+| STR    | DEX     | CON     | INT    | WIS    | CHA    |    |
+|--------|---------|---------|--------|--------|--------|----|
+| 3 (-4) | 13 (+1) | 10 (+0) | 1 (-5) | 7 (-2) | 1 (-5) |    |
 
 **Damage Resistances** bludgeoning, piercing, slashing **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
@@ -24124,9 +24103,9 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Speed** 30 ft., swim 30 ft.
 
-| STR    | DEX     | CON     | INT    | WIS     | CHA    |  |
-|--------|---------|---------|--------|---------|--------|--|
-| 8	(−1) | 18	(+4) | 11	(+0) | 1	(−5) | 10	(+0) | 3	(−4) |  |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |    |
+|--------|---------|---------|--------|---------|--------|----|
+| 8 (-1) | 18 (+4) | 11 (+0) | 1 (-5) | 10 (+0) | 3 (-4) |    |
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
@@ -24148,13 +24127,13 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Armor Class** 13
 
-**Hit Points** 28 (8d8 − 8)
+**Hit Points** 28 (8d8 - 8)
 
 **Speed** 0 ft., swim 40 ft.
 
-| STR     | DEX     | CON    | INT    | WIS    | CHA    |  |
-|---------|---------|--------|--------|--------|--------|--|
-| 13	(+1) | 16	(+3) | 9	(−1) | 1	(−5) | 7	(−2) | 2	(−4) |  |
+| STR     | DEX     | CON    | INT    | WIS    | CHA    |    |
+|---------|---------|--------|--------|--------|--------|----|
+| 13 (+1) | 16 (+3) | 9 (-1) | 1 (-5) | 7 (-2) | 2 (-4) |    |
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
@@ -24180,11 +24159,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 *Medium swarm of Tiny beasts, unaligned*
 
-**Armor Class** 10 **Hit Points** 24 (7d8 − 7) **Speed** 30 ft.
+**Armor Class** 10 **Hit Points** 24 (7d8 - 7) **Speed** 30 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
 |--------|---------|--------|--------|---------|--------|
-| 9	(−1) | 11	(+0) | 9	(−1) | 2	(−4) | 10	(+0) | 3	(−4) |
+| 9 (-1) | 11 (+0) | 9 (-1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
@@ -24210,11 +24189,11 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Armor Class** 12
 
-**Hit Points** 24 (7d8 − 7) **Speed** 10 ft., fly 50 ft.
+**Hit Points** 24 (7d8 - 7) **Speed** 10 ft., fly 50 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |
 |--------|---------|--------|--------|---------|--------|
-| 6	(−2) | 14	(+2) | 8	(−1) | 3	(−4) | 12	(+1) | 6	(−2) |
+| 6 (-2) | 14 (+2) | 8 (-1) | 3 (-4) | 12 (+1) | 6 (-2) |
 
 **Skills** Perception +5
 
@@ -24264,7 +24243,7 @@ Different kinds of insects can gather in swarms, and each swarm has the special 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 17	(+3) | 15	(+2) | 14	(+2) | 3	(−4) | 12	(+1) | 8	(−1) |
+| 17 (+3) | 15 (+2) | 14 (+2) | 3 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +3, Stealth +6
 
@@ -24296,10 +24275,10 @@ target is prone, the tiger can make one bite attack against it as a bonus action
 
 **Speed** 10 ft., fly 50 ft.
 
-| STR                  | DEX     | CON     | INT    | WIS     | CHA    |  |
-|----------------------|---------|---------|--------|---------|--------|--|
-| 7	(−2)               | 10	(+0) | 13	(+1) | 2	(−4) | 12	(+1) | 4	(−3) |  |
-| Skills Perception	+3 |         |         |        |         |        |  |
+| STR                  | DEX     | CON     | INT    | WIS     | CHA    |    |
+|----------------------|---------|---------|--------|---------|--------|----|
+| 7 (-2)               | 10 (+0) | 13 (+1) | 2 (-4) | 12 (+1) | 4 (-3) |    |
+| Skills Perception +3 |         |         |        |         |        |    |
 
 **Senses** passive Perception 13
 
@@ -24325,7 +24304,7 @@ target is prone, the tiger can make one bite attack against it as a bonus action
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 18	(+4) | 12	(+1) | 13	(+1) | 2	(−4) | 12	(+1) | 7	(−2) |
+| 18 (+4) | 12 (+1) | 13 (+1) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 **Senses** passive Perception 11
 
@@ -24343,13 +24322,13 @@ target is prone, the tiger can make one bite attack against it as a bonus action
 
 *Tiny beast, unaligned*
 
-**Armor Class** 13 **Hit Points** 1 (1d4 − 1)
+**Armor Class** 13 **Hit Points** 1 (1d4 - 1)
 
 **Speed** 30 ft.
 
-| STR    | DEX     | CON    | INT    | WIS     | CHA    |  |
-|--------|---------|--------|--------|---------|--------|--|
-| 3	(−4) | 16	(+3) | 8	(−1) | 2	(−4) | 12	(+1) | 3	(−4) |  |
+| STR    | DEX     | CON    | INT    | WIS     | CHA    |    |
+|--------|---------|--------|--------|---------|--------|----|
+| 3 (-4) | 16 (+3) | 8 (-1) | 2 (-4) | 12 (+1) | 3 (-4) |    |
 
 **Skills** Perception +3, Stealth +5
 
@@ -24377,7 +24356,7 @@ target is prone, the tiger can make one bite attack against it as a bonus action
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 18	(+4) | 13	(+1) | 14	(+2) | 7	(−2) | 12	(+1) | 8	(−1) |
+| 18 (+4) | 13 (+1) | 14 (+2) | 7 (-2) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +5, Stealth +3
 
@@ -24409,9 +24388,9 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 
 **Speed** 40 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 12	(+1) | 15	(+2) | 12	(+1) | 3	(−4) | 12	(+1) | 6	(−2) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 12 (+1) | 15 (+2) | 12 (+1) | 3 (-4) | 12 (+1) | 6 (-2) |    |
 
 **Skills** Perception +3, Stealth +4
 
@@ -24439,9 +24418,9 @@ The arctic-dwelling **winter wolf** is as large as a dire wolf but has snow-whit
 
 **Speed** 50 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 16	(+3) | 13	(+1) | 13	(+1) | 7	(−2) | 11	(+0) | 8 (−1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 16 (+3) | 13 (+1) | 13 (+1) | 7 (-2) | 11 (+0) | 8 (-1) |    |
 
 **Skills** Perception +4
 
@@ -24483,9 +24462,9 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 
 #### **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 10	(+0) | 10	(+0) | 10	(+0) | 10	(+0) | 14	(+2) | 11	(+0) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 14 (+2) | 11 (+0) |    |
 
 **Skills** Medicine +4, Religion +2
 
@@ -24513,9 +24492,9 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy* 1st level (3 slots): 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 10	(+0) | 14	(+2) | 12	(+1) | 20	(+5) | 15	(+2) | 16	(+3) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |    |
 
 **Saving Throws** Int +9, Wis +6
 
@@ -24564,9 +24543,9 @@ An archmage typically has one or more apprentice mages, and an archmage's abode 
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 11	(+0) | 16	(+3) | 14	(+2) | 13	(+1) | 11	(+0) | 10	(+0) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0) |    |
 
 #### **Saving Throws** Dex +6, Int +4
 
@@ -24608,7 +24587,7 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 11	(+0) | 12	(+1) | 12	(+1) | 10	(+0) | 10	(+0) | 10	(+0) |
+| 11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Senses** passive Perception 10
 
@@ -24634,9 +24613,9 @@ Trained in the use of poison, **assassins** are remorseless killers who work for
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 15	(+2) | 16	(+3) | 14	(+2) | 14	(+2) | 11	(+0) | 14	(+2) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 15 (+2) | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 14 (+2) |    |
 
 **Saving Throws** Str +4, Dex +5, Wis +2
 
@@ -24674,9 +24653,9 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |  |
-|---------|---------|---------|--------|---------|--------|--|
-| 16	(+3) | 12	(+1) | 17	(+3) | 9	(−1) | 11	(+0) | 9	(−1) |  |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
+|---------|---------|---------|--------|---------|--------|----|
+| 16 (+3) | 12 (+1) | 17 (+3) | 9 (-1) | 11 (+0) | 9 (-1) |    |
 
 **Senses** passive Perception 10
 
@@ -24704,7 +24683,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 10	(+0) | 10	(+0) | 10	(+0) | 10	(+0) | 10	(+0) | 10	(+0) |
+| 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+0) |
 
 **Senses** passive Perception 10
 
@@ -24728,7 +24707,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 11	(+0) | 12	(+1) | 10	(+0) | 10	(+0) | 11	(+0) | 10	(+0) |
+| 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Deception +2, Religion +2
 
@@ -24742,7 +24721,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 *Scimitar. Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6 + 1) slashing damage.
 
-**Cultists** swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil  acolytes, cultists often show signs of insanity in their beliefs and practices.
+**Cultists** swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 
 #### **Cult Fanatic**
 
@@ -24756,7 +24735,7 @@ Hailing from uncivilized lands, unpredictable **berserkers** come together in wa
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 11	(+0) | 14	(+2) | 12	(+1) | 10	(+0) | 13	(+1) | 14	(+2) |
+| 11 (+0) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1) | 14 (+2) |
 
 **Skills** Deception +4, Persuasion +4, Religion +2
 
@@ -24792,7 +24771,7 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 10	(+0) | 12	(+1) | 13	(+1) | 12	(+1) | 15	(+2) | 11	(+0) |
+| 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |
 
 **Skills** Medicine +4, Nature +3, Perception +4
 
@@ -24826,7 +24805,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 18	(+4) | 15	(+2) | 16	(+3) | 10	(+0) | 12	(+1) | 15	(+2) |
+| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |
 
 **Saving Throws** Str +7, Dex +5, Con +6 **Skills** Athletics +10, Intimidation +5 **Senses** passive Perception 11 **Languages** any one language (usually Common) **Challenge** 5 (1,800 XP)
 
@@ -24858,9 +24837,9 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 13	(+1) | 12	(+1) | 12	(+1) | 10	(+0) | 11	(+0) | 10	(+0) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 11 (+0) | 10 (+0) |    |
 
 **Skills** Perception +2
 
@@ -24872,7 +24851,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 #### **Actions**
 
-*Spear. Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 +  1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+*Spear. Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 **Guards** include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
 
@@ -24888,7 +24867,7 @@ Cantrips (at will): *druidcraft*, *produce flame*, *shillelagh*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 11	(+0) | 14	(+2) | 11	(+0) | 11	(+0) | 15	(+2) |
+| 16 (+3) | 11 (+0) | 14 (+2) | 11 (+0) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Con +4, Wis +2
 
@@ -24928,7 +24907,7 @@ alignment determines the extent to which a pledge is honored. Whether undertakin
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
 |--------|---------|---------|---------|---------|---------|
-| 9	(−1) | 14	(+2) | 11	(+0) | 17	(+3) | 12	(+1) | 11	(+0) |
+| 9 (-1) | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |
 
 **Saving Throws** Int +6, Wis +4 **Skills** Arcana +6, History +6 **Senses** passive Perception 11 **Languages** any four languages **Challenge** 6 (2,300 XP)
 
@@ -24964,7 +24943,7 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 11	(+0) | 12	(+1) | 11	(+0) | 12	(+1) | 14	(+2) | 16	(+3) |
+| 11 (+0) | 12 (+1) | 11 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +5, Insight +4, Persuasion +5 **Senses** passive Perception 12 **Languages** any two languages **Challenge** 1/8 (25 XP)
 
@@ -24992,7 +24971,7 @@ The noble's statistics can also be used to represent **courtiers** who aren't of
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 10	(+0) | 10	(+0) | 12	(+1) | 13	(+1) | 16	(+3) | 13	(+1) |
+| 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |
 
 **Skills** Medicine +7, Persuasion +3, Religion +4 **Senses** passive Perception 13 **Languages** any two languages **Challenge** 2 (450 XP)
 
@@ -25022,7 +25001,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 11	(+0) | 14	(+2) | 12	(+1) | 11	(+0) | 13	(+1) | 11	(+0) |
+| 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |
 
 **Skills** Nature +4, Perception +5, Stealth +6, Survival +5 **Senses** passive Perception 15 **Languages** any one language (usually Common)
 
@@ -25052,7 +25031,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 10	(+0) | 15	(+2) | 10	(+0) | 12	(+1) | 14	(+2) | 16	(+3) |
+| 10 (+0) | 15 (+2) | 10 (+0) | 12 (+1) | 14 (+2) | 16 (+3) |
 
 **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealth +4
 
@@ -25086,9 +25065,9 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 15	(+2) | 11	(+0) | 14	(+2) | 10	(+0) | 10	(+0) | 11	(+0) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 15 (+2) | 11 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 11 (+0) |    |
 
 **Skills** Intimidation +2
 
@@ -25118,7 +25097,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 13 (+1) | 11	(+0) | 12	(+1) | 8	(−1) | 11	(+0) | 8	(−1) |
+| 13 (+1) | 11 (+0) | 12 (+1) | 8 (-1) | 11 (+0) | 8 (-1) |
 
 **Senses** passive Perception 10
 
@@ -25146,7 +25125,7 @@ Rulers, nobles, merchants, guildmasters, and other wealthy individuals use **spi
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 13	(+1) | 14	(+2) | 10	(+0) | 11	(+0) | 10	(+0) |
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Athletics +5, Perception +2
 

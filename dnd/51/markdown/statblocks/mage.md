@@ -10,7 +10,7 @@
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
 |--------|---------|---------|---------|---------|---------|
-| 9	(−1) | 14	(+2) | 11	(+0) | 17	(+3) | 12	(+1) | 11	(+0) |
+| 9 (-1) | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |
 
 **Saving Throws** Int +6, Wis +4 **Skills** Arcana +6, History +6 **Senses** passive Perception 11 **Languages** any four languages **Challenge** 6 (2,300 XP)
 

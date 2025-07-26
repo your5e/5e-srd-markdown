@@ -10,7 +10,7 @@
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 11	(+0) | 18	(+4) | 14	(+2) | 11	(+0) | 12	(+1) | 14	(+2) |
+| 11 (+0) | 18 (+4) | 14 (+2) | 11 (+0) | 12 (+1) | 14 (+2) |
 
 **Skills** Deception +6, Insight +3 **Condition Immunities** charmed **Senses** darkvision 60 ft., passive Perception 11 **Languages** Common **Challenge** 3 (700 XP)
 

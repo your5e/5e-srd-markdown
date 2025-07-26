@@ -31,30 +31,30 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a scholar's pack or (*b*) a dungeoneer's pack
 - Leather armor, any simple weapon, and two daggers
 
-|       | Proficiency |                             | Cantrips | Spells | Spell | Slot  | Invocations |
-|-------|-------------|-----------------------------|----------|--------|-------|-------|-------------|
-| Level | Bonus       | Features                    | Known    | Known  | Slots | Level | Known       |
-| 1st   | +2          | Otherworldly	Patron,	Pact   | 2        | 2      | 1     | 1st   | ̶           |
-|       |             | Magic                       |          |        |       |       |             |
-| 2nd   | +2          | Eldritch	Invocations        | 2        | 3      | 2     | 1st   | 2           |
-| 3rd   | +2          | Pact	Boon                   | 2        | 4      | 2     | 2nd   | 2           |
-| 4th   | +2          | Ability	Score	Improvement   | 3        | 5      | 2     | 2nd   | 2           |
-| 5th   | +3          | ̶                           | 3        | 6      | 2     | 3rd   | 3           |
-| 6th   | +3          | Otherworldly	Patron	feature | 3        | 7      | 2     | 3rd   | 3           |
-| 7th   | +3          | ̶                           | 3        | 8      | 2     | 4th   | 4           |
-| 8th   | +3          | Ability	Score	Improvement   | 3        | 9      | 2     | 4th   | 4           |
-| 9th   | +4          | ̶                           | 3        | 10     | 2     | 5th   | 5           |
-| 10th  | +4          | Otherworldly	Patron	feature | 4        | 10     | 2     | 5th   | 5           |
-| 11th  | +4          | Mystic	Arcanum	(6th	level)  | 4        | 11     | 3     | 5th   | 5           |
-| 12th  | +4          | Ability	Score	Improvement   | 4        | 11     | 3     | 5th   | 6           |
-| 13th  | +5          | Mystic	Arcanum	(7th	level)  | 4        | 12     | 3     | 5th   | 6           |
-| 14th  | +5          | Otherworldly	Patron	feature | 4        | 12     | 3     | 5th   | 6           |
-| 15th  | +5          | Mystic	Arcanum	(8th	level)  | 4        | 13     | 3     | 5th   | 7           |
-| 16th  | +5          | Ability	Score	Improvement   | 4        | 13     | 3     | 5th   | 7           |
-| 17th  | +6          | Mystic	Arcanum	(9th	level)  | 4        | 14     | 4     | 5th   | 7           |
-| 18th  | +6          | ̶                           | 4        | 14     | 4     | 5th   | 8           |
-| 19th  | +6          | Ability	Score	Improvement   | 4        | 15     | 4     | 5th   | 8           |
-| 20th  | +6          | Eldritch	Master             | 4        | 15     | 4     | 5th   | 8           |
+|       | Proficiency   |                             | Cantrips   | Spells   | Spell   | Slot   | Invocations   |
+|-------|---------------|-----------------------------|------------|----------|---------|--------|---------------|
+| Level | Bonus         | Features                    | Known      | Known    | Slots   | Level  | Known         |
+| 1st   | +2            | Otherworldly Patron, Pact   | 2          | 2        | 1       | 1st    | —             |
+|       |               | Magic                       |            |          |         |        |               |
+| 2nd   | +2            | Eldritch Invocations        | 2          | 3        | 2       | 1st    | 2             |
+| 3rd   | +2            | Pact Boon                   | 2          | 4        | 2       | 2nd    | 2             |
+| 4th   | +2            | Ability Score Improvement   | 3          | 5        | 2       | 2nd    | 2             |
+| 5th   | +3            | —                           | 3          | 6        | 2       | 3rd    | 3             |
+| 6th   | +3            | Otherworldly Patron feature | 3          | 7        | 2       | 3rd    | 3             |
+| 7th   | +3            | —                           | 3          | 8        | 2       | 4th    | 4             |
+| 8th   | +3            | Ability Score Improvement   | 3          | 9        | 2       | 4th    | 4             |
+| 9th   | +4            | —                           | 3          | 10       | 2       | 5th    | 5             |
+| 10th  | +4            | Otherworldly Patron feature | 4          | 10       | 2       | 5th    | 5             |
+| 11th  | +4            | Mystic Arcanum (6th level)  | 4          | 11       | 3       | 5th    | 5             |
+| 12th  | +4            | Ability Score Improvement   | 4          | 11       | 3       | 5th    | 6             |
+| 13th  | +5            | Mystic Arcanum (7th level)  | 4          | 12       | 3       | 5th    | 6             |
+| 14th  | +5            | Otherworldly Patron feature | 4          | 12       | 3       | 5th    | 6             |
+| 15th  | +5            | Mystic Arcanum (8th level)  | 4          | 13       | 3       | 5th    | 7             |
+| 16th  | +5            | Ability Score Improvement   | 4          | 13       | 3       | 5th    | 7             |
+| 17th  | +6            | Mystic Arcanum (9th level)  | 4          | 14       | 4       | 5th    | 7             |
+| 18th  | +6            | —                           | 4          | 14       | 4       | 5th    | 8             |
+| 19th  | +6            | Ability Score Improvement   | 4          | 15       | 4       | 5th    | 8             |
+| 20th  | +6            | Eldritch Master             | 4          | 15       | 4       | 5th    | 8             |
 
 # **Otherworldly Patron**
 
@@ -66,7 +66,7 @@ Your arcane research and the magic bestowed on you by your patron have given you
 
 # **Cantrips**
 
-You know two cantrips of your choice from the warlock spell list. You learn additional warlock  cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
+You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table.
 
 #### **Spell Slots**
 
@@ -122,7 +122,7 @@ You can use your action to create a pact weapon in your empty hand. You can choo
 
 Your pact weapon disappears if it is more than 5 feet away from you for 1 minute or more. It also disappears if you use this feature again, if you dismiss the weapon (no action required), or if you die.
 
-You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your  pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
+You can transform one magic weapon into your pact weapon by performing a special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears whenever you create your pact weapon thereafter. You can't affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 
 ## **Pact of the Tome**
 
@@ -342,12 +342,12 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 ## **Spell Level Spells**
 
-| 1st | burning	hands,	command            |
-|-----|-----------------------------------|
-| 2nd | blindness/deafness,	scorching	ray |
-| 3rd | fireball,	stinking	cloud          |
-| 4th | fire	shield,	wall	of	fire         |
-| 5th | flame	strike,	hallow              |
+| 1st   | burning hands, command            |
+|-------|-----------------------------------|
+| 2nd   | blindness/deafness, scorching ray |
+| 3rd   | fireball, stinking cloud          |
+| 4th   | fire shield, wall of fire         |
+| 5th   | flame strike, hallow              |
 
 # **Dark One's Blessing**
 
@@ -355,7 +355,7 @@ Starting at 1st level, when you reduce a hostile creature to 0 hit points, you g
 
 # **Dark One's Own Luck**
 
-Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to  add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
+Starting at 6th level, you can call on your patron to alter fate in your favor. When you make an ability check or a saving throw, you can use this feature to add a d10 to your roll. You can do so after seeing the initial roll but before any of the roll's effects occur.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 

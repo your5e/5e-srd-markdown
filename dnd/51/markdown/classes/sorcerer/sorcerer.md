@@ -27,29 +27,29 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a dungeoneer's pack or (*b*) an explorer's pack
 - Two daggers
 
-|       | Proficiency | Sorcery |                                   | Cantrips | Spells | —Spell	Slots	per	Spell	Level— |     |     |     |     |     |     |     |     |
-|-------|-------------|---------|-----------------------------------|----------|--------|-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
-| Level | Bonus       | Points  | Features                          | Known    | Known  | 1st                           | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st   | +2          | ̶       | Spellcasting,	Sorcerous<br>Origin | 4        | 2      | 2                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 2nd   | +2          | 2       | Font	of	Magic                     | 4        | 3      | 3                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 3rd   | +2          | 3       | Metamagic                         | 4        | 4      | 4                             | 2   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 4th   | +2          | 4       | Ability	Score<br>Improvement      | 5        | 5      | 4                             | 3   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 5th   | +3          | 5       | ̶                                 | 5        | 6      | 4                             | 3   | 2   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 6th   | +3          | 6       | Sorcerous	Origin<br>feature       | 5        | 7      | 4                             | 3   | 3   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 7th   | +3          | 7       | ̶                                 | 5        | 8      | 4                             | 3   | 3   | 1   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 8th   | +3          | 8       | Ability	Score<br>Improvement      | 5        | 9      | 4                             | 3   | 3   | 2   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 9th   | +4          | 9       | ̶                                 | 5        | 10     | 4                             | 3   | 3   | 3   | 1   | ̶   | ̶   | ̶   | ̶   |
-| 10th  | +4          | 10      | Metamagic                         | 6        | 11     | 4                             | 3   | 3   | 3   | 2   | ̶   | ̶   | ̶   | ̶   |
-| 11th  | +4          | 11      | ̶                                 | 6        | 12     | 4                             | 3   | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 12th  | +4          | 12      | Ability	Score<br>Improvement      | 6        | 12     | 4                             | 3   | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 13th  | +5          | 13      | ̶                                 | 6        | 13     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 14th  | +5          | 14      | Sorcerous	Origin<br>feature       | 6        | 13     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 15th  | +5          | 15      | ̶                                 | 6        | 14     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 16th  | +5          | 16      | Ability	Score<br>Improvement      | 6        | 14     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 17th  | +6          | 17      | Metamagic                         | 6        | 15     | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6          | 18      | Sorcerous	Origin<br>feature       | 6        | 15     | 4                             | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6          | 19      | Ability	Score<br>Improvement      | 6        | 15     | 4                             | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6          | 20      | Sorcerous	Restoration             | 6        | 15     | 4                             | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|       | Proficiency   | Sorcery   |                                | Cantrips   | Spells   | —Spell Slots per Spell Level—   |     |     |     |     |     |     |     |     |
+|-------|---------------|-----------|--------------------------------|------------|----------|---------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| Level | Bonus         | Points    | Features                       | Known      | Known    | 1st                             | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | +2            | —         | Spellcasting, Sorcerous Origin | 4          | 2        | 2                               | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +2            | 2         | Font of Magic                  | 4          | 3        | 3                               | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +2            | 3         | Metamagic                      | 4          | 4        | 4                               | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +2            | 4         | Ability Score Improvement      | 5          | 5        | 4                               | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +3            | 5         | —                              | 5          | 6        | 4                               | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6th   | +3            | 6         | Sorcerous Origin feature       | 5          | 7        | 4                               | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7th   | +3            | 7         | —                              | 5          | 8        | 4                               | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8th   | +3            | 8         | Ability Score Improvement      | 5          | 9        | 4                               | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th   | +4            | 9         | —                              | 5          | 10       | 4                               | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10th  | +4            | 10        | Metamagic                      | 6          | 11       | 4                               | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th  | +4            | 11        | —                              | 6          | 12       | 4                               | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12th  | +4            | 12        | Ability Score Improvement      | 6          | 12       | 4                               | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13th  | +5            | 13        | —                              | 6          | 13       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14th  | +5            | 14        | Sorcerous Origin feature       | 6          | 13       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15th  | +5            | 15        | —                              | 6          | 14       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16th  | +5            | 16        | Ability Score Improvement      | 6          | 14       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17th  | +6            | 17        | Metamagic                      | 6          | 15       | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6            | 18        | Sorcerous Origin feature       | 6          | 15       | 4                               | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6            | 19        | Ability Score Improvement      | 6          | 15       | 4                               | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6            | 20        | Sorcerous Restoration          | 6          | 15       | 4                               | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # **Spellcasting**
 
@@ -109,15 +109,15 @@ Any spell slot you create with this feature vanishes when you finish a long rest
 
 #### **Creating Spell Slots**
 
-| Spell	Slot<br>Level | Sorcery<br>Point	Cost |  |  |  |  |  |  |
-|---------------------|-----------------------|--|--|--|--|--|--|
-| 1st                 | 2                     |  |  |  |  |  |  |
-| 2nd                 | 3                     |  |  |  |  |  |  |
-| 3rd                 | 5                     |  |  |  |  |  |  |
-| 4th                 | 6                     |  |  |  |  |  |  |
-| 5th                 | 7                     |  |  |  |  |  |  |
+| Spell Slot Level   |   Sorcery Point Cost |    |    |    |    |    |    |
+|--------------------|----------------------|----|----|----|----|----|----|
+| 1st                |                    2 |    |    |    |    |    |    |
+| 2nd                |                    3 |    |    |    |    |    |    |
+| 3rd                |                    5 |    |    |    |    |    |    |
+| 4th                |                    6 |    |    |    |    |    |    |
+| 5th                |                    7 |    |    |    |    |    |    |
 
-*Converting a Spell Slot to Sorcery Points.* As a bonus action on your turn, you can expend one spell  slot and gain a number of sorcery points equal to the slot's level.
+*Converting a Spell Slot to Sorcery Points.* As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot's level.
 
 # **Metamagic**
 
@@ -185,20 +185,20 @@ At 1st level, you choose one type of dragon as your ancestor. The damage type as
 
 ## **Draconic Ancestry**
 
-| Dragon | Damage	Type |
-|--------|-------------|
-| Black  | Acid        |
+| Dragon   | Damage Type   |
+|----------|---------------|
+| Black    | Acid          |
 
-| Blue   | Lightning |  |  |  |  |
-|--------|-----------|--|--|--|--|
-| Brass  | Fire      |  |  |  |  |
-| Bronze | Lightning |  |  |  |  |
-| Copper | Acid      |  |  |  |  |
-| Gold   | Fire      |  |  |  |  |
-| Green  | Poison    |  |  |  |  |
-| Red    | Fire      |  |  |  |  |
-| Silver | Cold      |  |  |  |  |
-| White  | Cold      |  |  |  |  |
+| Blue   | Lightning   |    |    |    |    |
+|--------|-------------|----|----|----|----|
+| Brass  | Fire        |    |    |    |    |
+| Bronze | Lightning   |    |    |    |    |
+| Copper | Acid        |    |    |    |    |
+| Gold   | Fire        |    |    |    |    |
+| Green  | Poison      |    |    |    |    |
+| Red    | Fire        |    |    |    |    |
+| Silver | Cold        |    |    |    |    |
+| White  | Cold        |    |    |    |    |
 
 You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 
@@ -220,4 +220,4 @@ You can't manifest your wings while wearing armor unless the armor is made to ac
 
 # **Draconic Presence**
 
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts  its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.

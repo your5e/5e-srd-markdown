@@ -8,9 +8,9 @@
 
 #### **Speed** 20 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA    |  |
-|---------|---------|---------|---------|---------|--------|--|
-| 15	(+2) | 14	(+2) | 14	(+2) | 12	(+1) | 10	(+0) | 9	(−1) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |    |
+|---------|---------|---------|---------|---------|--------|----|
+| 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 9 (-1) |    |
 
 **Skills** Investigation +3, Perception +2, Stealth +4 **Senses** darkvision 120 ft., passive Perception 12 **Languages** Gnomish, Terran, Undercommon **Challenge** 1/2 (100 XP)
 

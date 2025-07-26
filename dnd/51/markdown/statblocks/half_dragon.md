@@ -8,27 +8,26 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 *Resistances.* The half-dragon gains resistance to a type of damage based on its color.
 
-| Color           | Damage	Resistance |
-|-----------------|-------------------|
-| Black	or	copper | Acid              |
-| Blue	or	bronze  | Lightning         |
+| Color           | Damage Resistance   |
+|-----------------|---------------------|
+| Black or copper | Acid                |
+| Blue or bronze  | Lightning           |
 
 | Fire   |
 |--------|
 | Poison |
 | Cold   |
-|        |
 
 *Languages.* The half-dragon speaks Draconic in addition to any other languages it knows.
 
 *New Action: Breath Weapon.* The half-dragon has the breath weapon of its dragon half. The halfdragon's size determines how this action functions.
 
-|                     |                    | Optional              |
-|---------------------|--------------------|-----------------------|
-| Size                | Breath	Weapon      | Prerequisite          |
-| Large	or<br>smaller | As	a	wyrmling      | Challenge	2	or	higher |
-| Huge                | As	a	young	dragon  | Challenge	7	or	higher |
-| Gargantuan          | As	an	adult	dragon | Challenge	8	or	higher |
+|                  |                    | Optional              |
+|------------------|--------------------|-----------------------|
+| Size             | Breath Weapon      | Prerequisite          |
+| Large or smaller | As a wyrmling      | Challenge 2 or higher |
+| Huge             | As a young dragon  | Challenge 7 or higher |
+| Gargantuan       | As an adult dragon | Challenge 8 or higher |
 
 ## **Half-Red Dragon Veteran**
 
@@ -42,7 +41,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 13	(+1) | 14	(+2) | 10	(+0) | 11	(+0) | 10	(+0) |
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
 
 **Skills** Athletics +5, Perception +2
 

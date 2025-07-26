@@ -4,7 +4,7 @@
 
 **Casting Time:** 1 action **Range:** Touch **Components:** V, S **Duration:** Concentration, up to 1 minute
 
-You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast  this spell, choose the nature of the curse from the following options:
+You touch a creature, and that creature must succeed on a Wisdom saving throw or become cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
 
 - Choose one ability score. While cursed, the target has disadvantage on ability checks and saving throws made with that ability score.
 - While cursed, the target has disadvantage on attack rolls against you.

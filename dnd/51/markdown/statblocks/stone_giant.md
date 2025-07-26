@@ -8,7 +8,7 @@
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA    |
 |---------|---------|---------|---------|---------|--------|
-| 23	(+6) | 15	(+2) | 20	(+5) | 10	(+0) | 12	(+1) | 9	(−1) |
+| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (-1) |
 
 **Saving Throws** Dex +5, Con +8, Wis +4 **Skills** Athletics +12, Perception +4 **Senses** darkvision 60 ft., passive Perception 14 **Languages** Giant
 

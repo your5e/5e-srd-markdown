@@ -6,7 +6,7 @@
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 13	(+1) | 16	(+3) | 12	(+1) | 12	(+1) | 13	(+1) |
+| 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
 
 **Senses** darkvision 60 ft., passive Perception 11 **Languages** Aquan, Common, Giant **Challenge** 2 (450 XP)
 

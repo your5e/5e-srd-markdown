@@ -32,41 +32,40 @@ You start with the following equipment, in addition to the equipment granted by 
 
 # **The Rogue**
 
-| Level | Proficiency<br>Bonus | Sneak<br>Attack | Features                 |
-|-------|----------------------|-----------------|--------------------------|
-|       |                      |                 |                          |
-| 1st   | +2                   | 1d6             | Expertise,	Sneak	Attack, |
-|       |                      |                 | Thieves' Cant            |
-| 2nd   | +2                   | 1d6             | Cunning	Action           |
-| 3rd   | +2                   | 2d6             | Roguish	Archetype        |
-| 4th   | +2                   | 2d6             | Ability	Score            |
-|       |                      |                 | Improvement              |
-| 5th   | +3                   | 3d6             | Uncanny	Dodge            |
-| 6th   | +3                   | 3d6             | Expertise                |
-| 7th   | +3                   | 4d6             | Evasion                  |
-| 8th   | +3                   | 4d6             | Ability	Score            |
-|       |                      |                 | Improvement              |
-| 9th   | +4                   | 5d6             | Roguish	Archetype        |
-|       |                      |                 | feature                  |
-| 10th  | +4                   | 5d6             | Ability	Score            |
+| Level   | Proficiency Bonus   | Sneak Attack   | Features                 |
+|---------|---------------------|----------------|--------------------------|
+| 1st     | +2                  | 1d6            | Expertise, Sneak Attack, |
+|         |                     |                | Thieves' Cant            |
+| 2nd     | +2                  | 1d6            | Cunning Action           |
+| 3rd     | +2                  | 2d6            | Roguish Archetype        |
+| 4th     | +2                  | 2d6            | Ability Score            |
+|         |                     |                | Improvement              |
+| 5th     | +3                  | 3d6            | Uncanny Dodge            |
+| 6th     | +3                  | 3d6            | Expertise                |
+| 7th     | +3                  | 4d6            | Evasion                  |
+| 8th     | +3                  | 4d6            | Ability Score            |
+|         |                     |                | Improvement              |
+| 9th     | +4                  | 5d6            | Roguish Archetype        |
+|         |                     |                | feature                  |
+| 10th    | +4                  | 5d6            | Ability Score            |
 
 |      |    |      | Improvement       |
 |------|----|------|-------------------|
-| 11th | +4 | 6d6  | Reliable	Talent   |
-| 12th | +4 | 6d6  | Ability	Score     |
+| 11th | +4 | 6d6  | Reliable Talent   |
+| 12th | +4 | 6d6  | Ability Score     |
 |      |    |      | Improvement       |
-| 13th | +5 | 7d6  | Roguish	Archetype |
+| 13th | +5 | 7d6  | Roguish Archetype |
 |      |    |      | feature           |
 | 14th | +5 | 7d6  | Blindsense        |
-| 15th | +5 | 8d6  | Slippery	Mind     |
-| 16th | +5 | 8d6  | Ability	Score     |
+| 15th | +5 | 8d6  | Slippery Mind     |
+| 16th | +5 | 8d6  | Ability Score     |
 |      |    |      | Improvement       |
-| 17th | +6 | 9d6  | Roguish	Archetype |
+| 17th | +6 | 9d6  | Roguish Archetype |
 |      |    |      | feature           |
 | 18th | +6 | 9d6  | Elusive           |
-| 19th | +6 | 10d6 | Ability	Score     |
+| 19th | +6 | 10d6 | Ability Score     |
 |      |    |      | Improvement       |
-| 20th | +6 | 10d6 | Stroke	of	Luck    |
+| 20th | +6 | 10d6 | Stroke of Luck    |
 
 # **Expertise**
 
@@ -86,7 +85,7 @@ The amount of the extra damage increases as you gain levels in this class, as sh
 
 During your rogue training you learned thieves' cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves' cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
 
-In addition, you understand a set of secret signs and symbols used to convey short, simple messages,  such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves' guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
 
 # **Cunning Action**
 
@@ -140,7 +139,7 @@ You hone your skills in the larcenous arts. Burglars, bandits, cutpurses, and ot
 
 # **Fast Hands**
 
-Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity  (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
+Starting at 3rd level, you can use the bonus action granted by your Cunning Action to make a Dexterity (Sleight of Hand) check, use your thieves' tools to disarm a trap or open a lock, or take the Use an Object action.
 
 #### **Second-Story Work**
 

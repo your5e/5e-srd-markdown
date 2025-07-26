@@ -20,9 +20,8 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 - 5 Panther
 - 6 Giant badger
 
-| 7 | Dire	wolf |
-|---|-----------|
-|   |           |
+| 7   | Dire wolf   |
+|-----|-------------|
 
 8 Giant elk
 

@@ -6,10 +6,10 @@ While wearing this belt, your Strength score changes to a score granted by the b
 
 Six varieties of this belt exist, corresponding with and having rarity according to the six kinds of true giants. The *belt of stone giant strength* and the *belt of frost giant strength* look different, but they have the same effect.
 
-| Type              | Strength | Rarity    |
-|-------------------|----------|-----------|
-| Hill	giant        | 21       | Rare      |
-| Stone/frost	giant | 23       | Very	rare |
-| Fire	giant        | 25       | Very	rare |
-| Cloud	giant       | 27       | Legendary |
-| Storm	giant       | 29       | Legendary |
+| Type              |   Strength | Rarity    |
+|-------------------|------------|-----------|
+| Hill giant        |         21 | Rare      |
+| Stone/frost giant |         23 | Very rare |
+| Fire giant        |         25 | Very rare |
+| Cloud giant       |         27 | Legendary |
+| Storm giant       |         29 | Legendary |

@@ -24,7 +24,7 @@ world, to advance the worship of Tiamat, or something else the GM decides.
 
 *Spells.* The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn. If you control the orb, you can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: *cure wounds* (5th-level version, 3 charges), *daylight* (1 charge), *death ward* (2 charges), or *scrying* (3 charges).
 
-You can also use an action to cast the *detect magic*  spell from the orb without using any charges.
+You can also use an action to cast the *detect magic* spell from the orb without using any charges.
 
 *Call Dragons.* While you control the orb, you can use an action to cause the artifact to issue a telepathic call that extends in all directions for 40 miles. Evil dragons in range feel compelled to come to the orb as soon as possible by the most direct route. Dragon deities such as Tiamat are unaffected by this call. Dragons drawn to the orb might be hostile toward you for compelling them against their will. Once you have used this property, it can't be used again for 1 hour.
 

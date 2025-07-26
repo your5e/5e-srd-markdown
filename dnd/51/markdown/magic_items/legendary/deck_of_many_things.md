@@ -10,30 +10,30 @@ soon as you draw a card from the deck, its magic takes effect. You must draw eac
 
 Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
 
-| Playing	Card       | Card       |  |
-|--------------------|------------|--|
-| Ace	of	diamonds    | Vizier*    |  |
-| King	of	diamonds   | Sun        |  |
-| Queen	of	diamonds  | Moon       |  |
-| Jack	of	diamonds   | Star       |  |
-| Two	of	diamonds    | Comet*     |  |
-| Ace	of	hearts      | The	Fates* |  |
-| King	of	hearts     | Throne     |  |
-| Queen	of	hearts    | Key        |  |
-| Jack	of	hearts     | Knight     |  |
-| Two	of	hearts      | Gem*       |  |
-| Ace	of	clubs       | Talons*    |  |
-| King	of	clubs      | The	Void   |  |
-| Queen	of	clubs     | Flames     |  |
-| Jack	of	clubs      | Skull      |  |
-| Two	of	clubs       | Idiot*     |  |
-| Ace	of	spades      | Donjon*    |  |
-| King	of	spades     | Ruin       |  |
-| Queen	of	spades    | Euryale    |  |
-| Jack	of	spades     | Rogue      |  |
-| Two	of	spades      | Balance*   |  |
-| Joker	(with	TM)    | Fool*      |  |
-| Joker	(without	TM) | Jester     |  |
+| Playing Card       | Card       |    |
+|--------------------|------------|----|
+| Ace of diamonds    | Vizier*    |    |
+| King of diamonds   | Sun        |    |
+| Queen of diamonds  | Moon       |    |
+| Jack of diamonds   | Star       |    |
+| Two of diamonds    | Comet*     |    |
+| Ace of hearts      | The Fates* |    |
+| King of hearts     | Throne     |    |
+| Queen of hearts    | Key        |    |
+| Jack of hearts     | Knight     |    |
+| Two of hearts      | Gem*       |    |
+| Ace of clubs       | Talons*    |    |
+| King of clubs      | The Void   |    |
+| Queen of clubs     | Flames     |    |
+| Jack of clubs      | Skull      |    |
+| Two of clubs       | Idiot*     |    |
+| Ace of spades      | Donjon*    |    |
+| King of spades     | Ruin       |    |
+| Queen of spades    | Euryale    |    |
+| Jack of spades     | Rogue      |    |
+| Two of spades      | Balance*   |    |
+| Joker (with TM)    | Fool*      |    |
+| Joker (without TM) | Jester     |    |
 
 \*Found only in a deck with twenty-two cards
 
@@ -43,7 +43,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 
 *Donjon.* You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you were wearing and carrying stays behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any divination magic, but a *wish* spell can reveal the location of your prison. You draw no more cards.
 
-*Euryale.* The card's medusa-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of The Fates card can end this curse.
+*Euryale.* The card's medusa-like visage curses you. You take a -2 penalty on saving throws while cursed in this way. Only a god or the magic of The Fates card can end this curse.
 
 *The Fates.* Reality's fabric unravels and spins anew, allowing you to avoid or erase one event as if it never happened. You can use the card's magic as soon as you draw the card or at any other time before you die.
 
@@ -81,7 +81,7 @@ the GM's choice within 10 feet of you and attacks you, warning all others that y
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 16	(+3) | 16	(+3) | 16	(+3) | 16	(+3) | 16	(+3) |
+| 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) | 16 (+3) |
 
 **Damage Immunities** necrotic, poison
 
@@ -105,7 +105,7 @@ the GM's choice within 10 feet of you and attacks you, warning all others that y
 
 *Talons.* Every magic item you wear or carry disintegrates. Artifacts in your possession aren't destroyed but do vanish.
 
-*Throne.* You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the  world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours.
+*Throne.* You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours.
 
 *Vizier.* At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with wisdom on how to apply it.
 

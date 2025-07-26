@@ -19,30 +19,30 @@ Each of a creature's abilities has a score, a number that defines the magnitude 
 
 A score of 10 or 11 is the normal human average, but adventurers and many monsters are a cut above average in most abilities. A score of 18 is the highest that a person usually reaches. Adventurers can have scores as high as 20, and monsters and divine beings can have scores as high as 30.
 
-Each ability also has a modifier, derived from the score and ranging from −5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
+Each ability also has a modifier, derived from the score and ranging from -5 (for an ability score of 1) to +10 (for a score of 30). The Ability Scores and Modifiers table notes the ability modifiers for the range of possible ability scores, from 1 to 30.
 
 ## **Ability Scores and Modifiers**
 
-| Score | Modifier |
-|-------|----------|
-| 1     | −5       |
-| 2–3   | −4       |
-| 4–5   | −3       |
-| 6–7   | −2       |
-| 8–9   | −1       |
-| 10–11 | +0       |
+| Score   |   Modifier |
+|---------|------------|
+| 1       |         -5 |
+| 2–3     |         -4 |
+| 4–5     |         -3 |
+| 6–7     |         -2 |
+| 8–9     |         -1 |
+| 10–11   |         +0 |
 
-| 12–13 | +1  |
-|-------|-----|
-| 14–15 | +2  |
-| 16–17 | +3  |
-| 18–19 | +4  |
-| 20–21 | +5  |
-| 22–23 | +6  |
-| 24–25 | +7  |
-| 26–27 | +8  |
-| 28–29 | +9  |
-| 30    | +10 |
+| 12–13   |   +1 |
+|---------|------|
+| 14–15   |   +2 |
+| 16–17   |   +3 |
+| 18–19   |   +4 |
+| 20–21   |   +5 |
+| 22–23   |   +6 |
+| 24–25   |   +7 |
+| 26–27   |   +8 |
+| 28–29   |   +9 |
+| 30      |  +10 |
 
 To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
 
@@ -82,14 +82,14 @@ For every ability check, the GM decides which of the six abilities is relevant t
 
 ## **Typical Difficulty Classes**
 
-| Task	Difficulty   | DC |
-|-------------------|----|
-| Very	easy         | 5  |
-| Easy              | 10 |
-| Medium            | 15 |
-| Hard              | 20 |
-| Very	hard         | 25 |
-| Nearly	impossible | 30 |
+| Task Difficulty   |   DC |
+|-------------------|------|
+| Very easy         |    5 |
+| Easy              |   10 |
+| Medium            |   15 |
+| Hard              |   20 |
+| Very hard         |   25 |
+| Nearly impossible |   30 |
 
 To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
 
@@ -103,7 +103,7 @@ If the contest results in a tie, the situation remains the same as it was before
 
 # **Skills**
 
-Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an  ability score, and an individual's proficiency in a skill demonstrates a focus on that aspect. (A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in the monster's stat block.)
+Each ability covers a broad range of capabilities, including skills that a character or a monster can be proficient in. A skill represents a specific aspect of an ability score, and an individual's proficiency in a skill demonstrates a focus on that aspect. (A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in the monster's stat block.)
 
 For example, a Dexterity check might reflect a character's attempt to pull off an acrobatic stunt, to palm an object, or to stay hidden. Each of these aspects of Dexterity has an associated skill: Acrobatics, Sleight of Hand, and Stealth, respectively. So a character who has proficiency in the Stealth skill is particularly good at Dexterity checks related to sneaking and hiding.
 
@@ -142,7 +142,7 @@ The skills related to each ability score are shown in the following list. (No sk
 - Performance
 - Persuasion
 
-Sometimes, the GM might ask for an ability check using a specific skill—for example, "Make a Wisdom (Perception) check." At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means  an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
+Sometimes, the GM might ask for an ability check using a specific skill—for example, "Make a Wisdom (Perception) check." At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 
 For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character's proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.
 

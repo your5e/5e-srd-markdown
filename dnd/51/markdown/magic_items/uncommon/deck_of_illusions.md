@@ -2,7 +2,7 @@
 
 #### *Wondrous item, uncommon*
 
-This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 − 1 cards.
+This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing 1d20 - 1 cards.
 
 The magic of the deck functions only if cards are drawn at random (you can use an altered deck of playing cards to simulate the deck). You can use an action to draw a card at random from the deck and throw it to the ground at a point within 30 feet of you.
 
@@ -12,38 +12,37 @@ with a successful DC 15 Intelligence (Investigation) check. The creature then ap
 
 The illusion lasts until its card is moved or the illusion is dispelled. When the illusion ends, the image on its card disappears, and that card can't be used again.
 
-| Playing	Card      | Illusion                         |
+| Playing Card      | Illusion                         |
 |-------------------|----------------------------------|
-| Ace	of	hearts     | Red	dragon                       |
-| King	of	hearts    | Knight	and	four	guards           |
-| Queen	of	hearts   | Succubus	or	incubus              |
-| Jack	of	hearts    | Druid                            |
-| Ten	of	hearts     | Cloud	giant                      |
-| Nine	of	hearts    | Ettin                            |
-| Eight	of	hearts   | Bugbear                          |
-| Two	of	hearts     | Goblin                           |
-| Ace	of	diamonds   | Beholder                         |
-| King	of	diamonds  | Archmage	and	mage	apprentice     |
-| Queen	of	diamonds | Night	hag                        |
-| Jack	of	diamonds  | Assassin                         |
-| Ten	of	diamonds   | Fire	giant                       |
-| Nine	of	diamonds  | Ogre	mage                        |
-| Eight	of	diamonds | Gnoll                            |
-| Two	of	diamonds   | Kobold                           |
-|                   |                                  |
-| Ace	of	spades     | Lich                             |
-| King	of	spades    | Priest	and	two	acolytes          |
-| Queen	of	spades   | Medusa                           |
-| Jack	of	spades    | Veteran                          |
-| Ten	of	spades     | Frost	giant                      |
-| Nine	of	spades    | Troll                            |
-| Eight	of	spades   | Hobgoblin                        |
-| Two	of	spades     | Goblin                           |
-| Ace	of	clubs      | Iron	golem                       |
-| King	of	clubs     | Bandit	captain	and three	bandits |
-| Queen	of	clubs    | Erinyes                          |
-| Jack	of	clubs     | Berserker                        |
-| Ten	of	clubs      | Hill	giant                       |
-| Nine	of	clubs     | Ogre                             |
-| Eight	of	clubs    | Orc                              |
-| Two	of	clubs      | Kobold                           |
+| Ace of hearts     | Red dragon                       |
+| King of hearts    | Knight and four guards           |
+| Queen of hearts   | Succubus or incubus              |
+| Jack of hearts    | Druid                            |
+| Ten of hearts     | Cloud giant                      |
+| Nine of hearts    | Ettin                            |
+| Eight of hearts   | Bugbear                          |
+| Two of hearts     | Goblin                           |
+| Ace of diamonds   | Beholder                         |
+| King of diamonds  | Archmage and mage apprentice     |
+| Queen of diamonds | Night hag                        |
+| Jack of diamonds  | Assassin                         |
+| Ten of diamonds   | Fire giant                       |
+| Nine of diamonds  | Ogre mage                        |
+| Eight of diamonds | Gnoll                            |
+| Two of diamonds   | Kobold                           |
+| Ace of spades     | Lich                             |
+| King of spades    | Priest and two acolytes          |
+| Queen of spades   | Medusa                           |
+| Jack of spades    | Veteran                          |
+| Ten of spades     | Frost giant                      |
+| Nine of spades    | Troll                            |
+| Eight of spades   | Hobgoblin                        |
+| Two of spades     | Goblin                           |
+| Ace of clubs      | Iron golem                       |
+| King of clubs     | Bandit captain and three bandits |
+| Queen of clubs    | Erinyes                          |
+| Jack of clubs     | Berserker                        |
+| Ten of clubs      | Hill giant                       |
+| Nine of clubs     | Ogre                             |
+| Eight of clubs    | Orc                              |
+| Two of clubs      | Kobold                           |

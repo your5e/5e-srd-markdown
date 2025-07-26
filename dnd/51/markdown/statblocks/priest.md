@@ -10,7 +10,7 @@
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 10	(+0) | 10	(+0) | 12	(+1) | 13	(+1) | 16	(+3) | 13	(+1) |
+| 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |
 
 **Skills** Medicine +7, Persuasion +3, Religion +4 **Senses** passive Perception 13 **Languages** any two languages **Challenge** 2 (450 XP)
 

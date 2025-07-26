@@ -14,7 +14,7 @@ A spell cast with a bonus action is especially swift. You must use a bonus actio
 
 # **Reactions**
 
-Some spells can be cast as reactions. These spells take a fraction of a second to bring about and are cast in response to some event. If a spell can be cast  as a reaction, the spell description tells you exactly when you can do so.
+Some spells can be cast as reactions. These spells take a fraction of a second to bring about and are cast in response to some event. If a spell can be cast as a reaction, the spell description tells you exactly when you can do so.
 
 # **Longer Casting Times**
 
@@ -40,7 +40,7 @@ Most spells require the chanting of mystic words. The words themselves aren't th
 
 # **Somatic (S)**
 
-Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell  requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
+Spellcasting gestures might include a forceful gesticulation or an intricate set of gestures. If a spell requires a somatic component, the caster must have free use of at least one hand to perform these gestures.
 
 # **Material (M)**
 

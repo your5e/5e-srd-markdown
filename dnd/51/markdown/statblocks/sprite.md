@@ -10,7 +10,7 @@
 
 | STR    | DEX     | CON     | INT     | WIS     | CHA     |
 |--------|---------|---------|---------|---------|---------|
-| 3	(−4) | 18	(+4) | 10	(+0) | 14	(+2) | 13	(+1) | 11	(+0) |
+| 3 (-4) | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 11 (+0) |
 
 **Skills** Perception +3, Stealth +8 **Senses** passive Perception 13 **Languages** Common, Elvish, Sylvan **Challenge** 1/4 (50 XP)
 

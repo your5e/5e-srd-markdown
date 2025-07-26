@@ -26,7 +26,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 14	(+2) | 13	(+1) | 13	(+1) | 2	(−4) | 10	(+0) | 3	(−4) |
+| 14 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Senses** darkvision 60 ft., passive Perception 10 **Languages** —
 

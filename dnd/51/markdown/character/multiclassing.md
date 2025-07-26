@@ -12,20 +12,20 @@ To qualify for a new class, you must meet the ability score prerequisites for bo
 
 ## **Multiclassing Prerequisites**
 
-| Class     | Ability	Score	Minimum       |
+| Class     | Ability Score Minimum       |
 |-----------|-----------------------------|
-| Barbarian | Strength	13                 |
-| Bard      | Charisma	13                 |
-| Cleric    | Wisdom	13                   |
-| Druid     | Wisdom	13                   |
-| Fighter   | Strength	13	or	Dexterity	13 |
-| Monk      | Dexterity	13	and	Wisdom	13  |
-| Paladin   | Strength	13	and	Charisma	13 |
-| Ranger    | Dexterity	13	and	Wisdom	13  |
-| Rogue     | Dexterity	13                |
-| Sorcerer  | Charisma	13                 |
-| Warlock   | Charisma	13                 |
-| Wizard    | Intelligence	13             |
+| Barbarian | Strength 13                 |
+| Bard      | Charisma 13                 |
+| Cleric    | Wisdom 13                   |
+| Druid     | Wisdom 13                   |
+| Fighter   | Strength 13 or Dexterity 13 |
+| Monk      | Dexterity 13 and Wisdom 13  |
+| Paladin   | Strength 13 and Charisma 13 |
+| Ranger    | Dexterity 13 and Wisdom 13  |
+| Rogue     | Dexterity 13                |
+| Sorcerer  | Charisma 13                 |
+| Warlock   | Charisma 13                 |
+| Wizard    | Intelligence 13             |
 
 # **Experience Points**
 
@@ -47,25 +47,25 @@ When you gain your first level in a class other than your initial class, you gai
 
 # **Multiclassing Proficiencies**
 
-| Class     | Proficiencies	Gained                               |
+| Class     | Proficiencies Gained                               |
 |-----------|----------------------------------------------------|
-| Barbarian | Shields,	simple	weapons,	martial	weapons           |
-| Bard      | Light	armor,	one	skill	of	your	choice,	one	musical |
-|           | instrument	of	your	choice                          |
-| Cleric    | Light	armor,	medium	armor,	shields                 |
-| Druid     | Light	armor,	medium	armor,	shields	(druids	will    |
-|           | not	wear	armor	or	use	shields	made	of	metal)       |
-| Fighter   | Light	armor,	medium	armor,	shields,	simple         |
-|           | weapons,	martial	weapons                           |
-| Monk      | Simple	weapons,	shortswords                        |
+| Barbarian | Shields, simple weapons, martial weapons           |
+| Bard      | Light armor, one skill of your choice, one musical |
+|           | instrument of your choice                          |
+| Cleric    | Light armor, medium armor, shields                 |
+| Druid     | Light armor, medium armor, shields (druids will    |
+|           | not wear armor or use shields made of metal)       |
+| Fighter   | Light armor, medium armor, shields, simple         |
+|           | weapons, martial weapons                           |
+| Monk      | Simple weapons, shortswords                        |
 
-| Paladin  | Light	armor,	medium	armor,	shields,	simple<br>weapons,	martial	weapons                                           |
-|----------|------------------------------------------------------------------------------------------------------------------|
-| Ranger   | Light	armor,	medium	armor,	shields,	simple<br>weapons,	martial	weapons,	one	skill	from	the<br>class's	skill	list |
-| Rogue    | Light	armor,	one	skill	from	the	class's	skill	list,<br>thieves'	tools                                            |
-| Sorcerer | —                                                                                                                |
-| Warlock  | Light	armor,	simple	weapons                                                                                      |
-| Wizard   | —                                                                                                                |
+| Paladin   | Light armor, medium armor, shields, simple weapons, martial weapons                                        |
+|-----------|------------------------------------------------------------------------------------------------------------|
+| Ranger    | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class's skill list |
+| Rogue     | Light armor, one skill from the class's skill list, thieves' tools                                         |
+| Sorcerer  | —                                                                                                          |
+| Warlock   | Light armor, simple weapons                                                                                |
+| Wizard    | —                                                                                                          |
 
 # **Class Features**
 
@@ -103,25 +103,25 @@ For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th
 
 # **Multiclass Spellcaster: Spell Slots per Spell Level**
 
-| Lvl. | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1st  | 2   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 2nd  | 3   | —   | —   | —   | —   | —   | —   | —   | —   |
-| 3rd  | 4   | 2   | —   | —   | —   | —   | —   | —   | —   |
-| 4th  | 4   | 3   | —   | —   | —   | —   | —   | —   | —   |
-| 5th  | 4   | 3   | 2   | —   | —   | —   | —   | —   | —   |
-| 6th  | 4   | 3   | 3   | —   | —   | —   | —   | —   | —   |
-| 7th  | 4   | 3   | 3   | 1   | —   | —   | —   | —   | —   |
-| 8th  | 4   | 3   | 3   | 2   | —   | —   | —   | —   | —   |
-| 9th  | 4   | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
-| 10th | 4   | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
-| 11th | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 12th | 4   | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
-| 13th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 14th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
-| 15th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 16th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
-| 17th | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Lvl.   |   1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
+|--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| 1st    |     2 | —     | —     | —     | —     | —     | —     | —     | —     |
+| 2nd    |     3 | —     | —     | —     | —     | —     | —     | —     | —     |
+| 3rd    |     4 | 2     | —     | —     | —     | —     | —     | —     | —     |
+| 4th    |     4 | 3     | —     | —     | —     | —     | —     | —     | —     |
+| 5th    |     4 | 3     | 2     | —     | —     | —     | —     | —     | —     |
+| 6th    |     4 | 3     | 3     | —     | —     | —     | —     | —     | —     |
+| 7th    |     4 | 3     | 3     | 1     | —     | —     | —     | —     | —     |
+| 8th    |     4 | 3     | 3     | 2     | —     | —     | —     | —     | —     |
+| 9th    |     4 | 3     | 3     | 3     | 1     | —     | —     | —     | —     |
+| 10th   |     4 | 3     | 3     | 3     | 2     | —     | —     | —     | —     |
+| 11th   |     4 | 3     | 3     | 3     | 2     | 1     | —     | —     | —     |
+| 12th   |     4 | 3     | 3     | 3     | 2     | 1     | —     | —     | —     |
+| 13th   |     4 | 3     | 3     | 3     | 2     | 1     | 1     | —     | —     |
+| 14th   |     4 | 3     | 3     | 3     | 2     | 1     | 1     | —     | —     |
+| 15th   |     4 | 3     | 3     | 3     | 2     | 1     | 1     | 1     | —     |
+| 16th   |     4 | 3     | 3     | 3     | 2     | 1     | 1     | 1     | —     |
+| 17th   |     4 | 3     | 3     | 3     | 2     | 1     | 1     | 1     | 1     |
+| 18th   |     4 | 3     | 3     | 3     | 3     | 1     | 1     | 1     | 1     |
+| 19th   |     4 | 3     | 3     | 3     | 3     | 2     | 1     | 1     | 1     |
+| 20th   |     4 | 3     | 3     | 3     | 3     | 2     | 2     | 1     | 1     |

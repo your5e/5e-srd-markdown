@@ -8,9 +8,9 @@
 
 **Speed** 30 ft.
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |  |
-|---------|---------|---------|---------|---------|---------|--|
-| 11	(+0) | 16	(+3) | 16	(+3) | 20	(+5) | 14	(+2) | 16	(+3) |  |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
+|---------|---------|---------|---------|---------|---------|----|
+| 11 (+0) | 16 (+3) | 16 (+3) | 20 (+5) | 14 (+2) | 16 (+3) |    |
 
 **Saving Throws** Con +10, Int +12, Wis +9
 
@@ -27,7 +27,7 @@
 
 *Rejuvenation.* If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 
-*Spellcasting.* The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12  to hit with spell attacks). The lich has the following wizard spells prepared:
+*Spellcasting.* The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 
 Cantrips (at will): *mage hand*, *prestidigitation*, *ray of frost*
 

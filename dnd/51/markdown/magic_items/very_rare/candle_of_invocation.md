@@ -6,15 +6,15 @@ This slender taper is dedicated to a deity and shares that deity's alignment. Th
 
 | d20   | Alignment       |
 |-------|-----------------|
-| 1–2   | Chaotic	evil    |
-| 3–4   | Chaotic	neutral |
-| 5–7   | Chaotic	good    |
-| 8–9   | Neutral	evil    |
+| 1–2   | Chaotic evil    |
+| 3–4   | Chaotic neutral |
+| 5–7   | Chaotic good    |
+| 8–9   | Neutral evil    |
 | 10–11 | Neutral         |
-| 12–13 | Neutral	good    |
-| 14–15 | Lawful	evil     |
-| 16–17 | Lawful	neutral  |
-| 18–20 | Lawful	good     |
+| 12–13 | Neutral good    |
+| 14–15 | Lawful evil     |
+| 16–17 | Lawful neutral  |
+| 18–20 | Lawful good     |
 
 The candle's magic is activated when the candle is lit, which requires an action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from the candle's total burn time.
 

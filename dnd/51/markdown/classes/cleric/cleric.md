@@ -28,29 +28,29 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a priest's pack or (*b*) an explorer's pack
 - A shield and a holy symbol
 
-|       | Proficiency |                                                                            | Cantrips | ̶Spell	Slots	per	Spell	Level̶ |     |     |     |     |     |     |     |     |
-|-------|-------------|----------------------------------------------------------------------------|----------|-------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
-| Level | Bonus       | Features                                                                   | Known    | 1st                           | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st   | +2          | Spellcasting,	Divine	Domain                                                | 3        | 2                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 2nd   | +2          | Channel	Divinity	(1/rest),	Divine	Domain<br>feature                        | 3        | 3                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 3rd   | +2          | ̶                                                                          | 3        | 4                             | 2   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 4th   | +2          | Ability	Score	Improvement                                                  | 4        | 4                             | 3   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 5th   | +3          | Destroy	Undead	(CR	1/2)                                                    | 4        | 4                             | 3   | 2   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 6th   | +3          | Channel	Divinity	(2/rest),	Divine	Domain<br>feature                        | 4        | 4                             | 3   | 3   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 7th   | +3          | ̶                                                                          | 4        | 4                             | 3   | 3   | 1   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 8th   | +3          | Ability	Score	Improvement,	Destroy	Undead<br>(CR	1),	Divine	Domain	feature | 4        | 4                             | 3   | 3   | 2   | ̶   | ̶   | ̶   | ̶   | ̶   |
-| 9th   | +4          | ̶                                                                          | 4        | 4                             | 3   | 3   | 3   | 1   | ̶   | ̶   | ̶   | ̶   |
-| 10th  | +4          | Divine	Intervention                                                        | 5        | 4                             | 3   | 3   | 3   | 2   | ̶   | ̶   | ̶   | ̶   |
-| 11th  | +4          | Destroy	Undead	(CR	2)                                                      | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 12th  | +4          | Ability	Score	Improvement                                                  | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | ̶   | ̶   | ̶   |
-| 13th  | +5          | ̶                                                                          | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 14th  | +5          | Destroy	Undead	(CR	3)                                                      | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | ̶   | ̶   |
-| 15th  | +5          | ̶                                                                          | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 16th  | +5          | Ability	Score	Improvement                                                  | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | ̶   |
-| 17th  | +6          | Destroy	Undead	(CR	4),	Divine	Domain<br>feature                            | 5        | 4                             | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6          | Channel	Divinity	(3/rest)                                                  | 5        | 4                             | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6          | Ability	Score	Improvement                                                  | 5        | 4                             | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6          | Divine	Intervention	improvement                                            | 5        | 4                             | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+|       | Proficiency   |                                                                         | Cantrips   | —Spell Slots per Spell Level—   |     |     |     |     |     |     |     |     |
+|-------|---------------|-------------------------------------------------------------------------|------------|---------------------------------|-----|-----|-----|-----|-----|-----|-----|-----|
+| Level | Bonus         | Features                                                                | Known      | 1st                             | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| 1st   | +2            | Spellcasting, Divine Domain                                             | 3          | 2                               | —   | —   | —   | —   | —   | —   | —   | —   |
+| 2nd   | +2            | Channel Divinity (1/rest), Divine Domain feature                        | 3          | 3                               | —   | —   | —   | —   | —   | —   | —   | —   |
+| 3rd   | +2            | —                                                                       | 3          | 4                               | 2   | —   | —   | —   | —   | —   | —   | —   |
+| 4th   | +2            | Ability Score Improvement                                               | 4          | 4                               | 3   | —   | —   | —   | —   | —   | —   | —   |
+| 5th   | +3            | Destroy Undead (CR 1/2)                                                 | 4          | 4                               | 3   | 2   | —   | —   | —   | —   | —   | —   |
+| 6th   | +3            | Channel Divinity (2/rest), Divine Domain feature                        | 4          | 4                               | 3   | 3   | —   | —   | —   | —   | —   | —   |
+| 7th   | +3            | —                                                                       | 4          | 4                               | 3   | 3   | 1   | —   | —   | —   | —   | —   |
+| 8th   | +3            | Ability Score Improvement, Destroy Undead (CR 1), Divine Domain feature | 4          | 4                               | 3   | 3   | 2   | —   | —   | —   | —   | —   |
+| 9th   | +4            | —                                                                       | 4          | 4                               | 3   | 3   | 3   | 1   | —   | —   | —   | —   |
+| 10th  | +4            | Divine Intervention                                                     | 5          | 4                               | 3   | 3   | 3   | 2   | —   | —   | —   | —   |
+| 11th  | +4            | Destroy Undead (CR 2)                                                   | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 12th  | +4            | Ability Score Improvement                                               | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | —   | —   | —   |
+| 13th  | +5            | —                                                                       | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 14th  | +5            | Destroy Undead (CR 3)                                                   | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | —   | —   |
+| 15th  | +5            | —                                                                       | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 16th  | +5            | Ability Score Improvement                                               | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | —   |
+| 17th  | +6            | Destroy Undead (CR 4), Divine Domain feature                            | 5          | 4                               | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6            | Channel Divinity (3/rest)                                               | 5          | 4                               | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6            | Ability Score Improvement                                               | 5          | 4                               | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6            | Divine Intervention improvement                                         | 5          | 4                               | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # **Spellcasting**
 
@@ -88,7 +88,7 @@ You can use a holy symbol (see "Equipment") as a spellcasting focus for your cle
 
 # **Divine Domain**
 
-Choose one domain related to your deity, such as Life. Each domain is detailed at the end of the class description, and each one provides examples of gods  associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+Choose one domain related to your deity, such as Life. Each domain is detailed at the end of the class description, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
 #### **Domain Spells**
 
@@ -122,14 +122,13 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 
 ### **Destroy Undead**
 
-| Destroys	Undead	of	CR |
-|-----------------------|
-| 1/2	or	lower          |
-| 1	or	lower            |
-| 2	or	lower            |
-| 3	or	lower            |
-| 4	or	lower            |
-|                       |
+| Destroys Undead of CR   |
+|-------------------------|
+| 1/2 or lower            |
+| 1 or lower              |
+| 2 or lower              |
+| 3 or lower              |
+| 4 or lower              |
 
 # **Divine Intervention**
 
@@ -149,13 +148,13 @@ endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home a
 
 ## **Life Domain Spells**
 
-| Cleric	Level | Spells                               |
-|--------------|--------------------------------------|
-| 1st          | bless,	cure	wounds                   |
-| 3rd          | lesser	restoration,	spiritual	weapon |
-| 5th          | beacon	of	hope,	revivify             |
-| 7th          | death	ward,	guardian	of	faith        |
-| 9th          | mass	cure	wounds,	raise	dead         |
+| Cleric Level   | Spells                               |
+|----------------|--------------------------------------|
+| 1st            | bless, cure wounds                   |
+| 3rd            | lesser restoration, spiritual weapon |
+| 5th            | beacon of hope, revivify             |
+| 7th            | death ward, guardian of faith        |
+| 9th            | mass cure wounds, raise dead         |
 
 ## **Bonus Proficiency**
 

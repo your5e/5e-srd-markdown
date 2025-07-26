@@ -27,33 +27,33 @@ You start with the following equipment, in addition to the equipment granted by 
 - (*a*) a priest's pack or (*b*) an explorer's pack
 - Chain mail and a holy symbol
 
-|       | Proficiency |                                            |     | ̶Spell	Slots	per	Spell	Level̶ |     |     |     |  |
-|-------|-------------|--------------------------------------------|-----|-------------------------------|-----|-----|-----|--|
-| Level | Bonus       | Features                                   | 1st | 2nd                           | 3rd | 4th | 5th |  |
-| 1st   | +2          | Divine	Sense,	Lay	on	Hands                 |     | ̶                             | ̶   | ̶   | ̶   |  |
-| 2nd   | +2          | Fighting	Style,	Spellcasting,	Divine	Smite | 2   | ̶                             | ̶   | ̶   | ̶   |  |
-| 3rd   | +2          | Divine	Health,	Sacred	Oath                 | 3   | ̶                             | ̶   | ̶   | ̶   |  |
-| 4th   | +2          | Ability	Score	Improvement                  | 3   | ̶                             | ̶   | ̶   | ̶   |  |
-| 5th   | +3          | Extra	Attack                               | 4   | 2                             | ̶   | ̶   | ̶   |  |
-| 6th   | +3          | Aura	of	Protection                         | 4   | 2                             | ̶   | ̶   | ̶   |  |
-| 7th   | +3          | Sacred	Oath	feature                        | 4   | 3                             | ̶   | ̶   | ̶   |  |
-| 8th   | +3          | Ability	Score	Improvement                  | 4   | 3                             | ̶   | ̶   | ̶   |  |
-| 9th   | +4          | ̶                                          | 4   | 3                             | 2   | ̶   | ̶   |  |
-| 10th  | +4          | Aura	of	Courage                            | 4   | 3                             | 2   | ̶   | ̶   |  |
-| 11th  | +4          | Improved	Divine	Smite                      |     | 3                             | 3   | ̶   | ̶   |  |
-| 12th  | +4          | Ability	Score	Improvement                  |     | 3                             | 3   | ̶   | ̶   |  |
-| 13th  | +5          | ̶                                          |     | 3                             | 3   | 1   | ̶   |  |
-| 14th  | +5          | Cleansing	Touch                            | 4   | 3                             | 3   | 1   | ̶   |  |
-| 15th  | +5          | Sacred	Oath	feature                        | 4   | 3                             | 3   | 2   | ̶   |  |
-| 16th  | +5          | Ability	Score	Improvement                  | 4   | 3                             | 3   | 2   | ̶   |  |
-| 17th  | +6          | ̶                                          | 4   | 3                             | 3   | 3   | 1   |  |
-| 18th  | +6          | Aura	improvements                          |     | 3                             | 3   | 3   | 1   |  |
-| 19th  | +6          | Ability	Score	Improvement                  |     | 3                             | 3   | 3   | 2   |  |
-| 20th  | +6          | Sacred	Oath	feature                        | 4   | 3                             | 3   | 3   | 2   |  |
+|       | Proficiency   |                                            |     | —Spell Slots per Spell Level—   |     |     |     |    |
+|-------|---------------|--------------------------------------------|-----|---------------------------------|-----|-----|-----|----|
+| Level | Bonus         | Features                                   | 1st | 2nd                             | 3rd | 4th | 5th |    |
+| 1st   | +2            | Divine Sense, Lay on Hands                 |     | —                               | —   | —   | —   |    |
+| 2nd   | +2            | Fighting Style, Spellcasting, Divine Smite | 2   | —                               | —   | —   | —   |    |
+| 3rd   | +2            | Divine Health, Sacred Oath                 | 3   | —                               | —   | —   | —   |    |
+| 4th   | +2            | Ability Score Improvement                  | 3   | —                               | —   | —   | —   |    |
+| 5th   | +3            | Extra Attack                               | 4   | 2                               | —   | —   | —   |    |
+| 6th   | +3            | Aura of Protection                         | 4   | 2                               | —   | —   | —   |    |
+| 7th   | +3            | Sacred Oath feature                        | 4   | 3                               | —   | —   | —   |    |
+| 8th   | +3            | Ability Score Improvement                  | 4   | 3                               | —   | —   | —   |    |
+| 9th   | +4            | —                                          | 4   | 3                               | 2   | —   | —   |    |
+| 10th  | +4            | Aura of Courage                            | 4   | 3                               | 2   | —   | —   |    |
+| 11th  | +4            | Improved Divine Smite                      |     | 3                               | 3   | —   | —   |    |
+| 12th  | +4            | Ability Score Improvement                  |     | 3                               | 3   | —   | —   |    |
+| 13th  | +5            | —                                          |     | 3                               | 3   | 1   | —   |    |
+| 14th  | +5            | Cleansing Touch                            | 4   | 3                               | 3   | 1   | —   |    |
+| 15th  | +5            | Sacred Oath feature                        | 4   | 3                               | 3   | 2   | —   |    |
+| 16th  | +5            | Ability Score Improvement                  | 4   | 3                               | 3   | 2   | —   |    |
+| 17th  | +6            | —                                          | 4   | 3                               | 3   | 3   | 1   |    |
+| 18th  | +6            | Aura improvements                          |     | 3                               | 3   | 3   | 1   |    |
+| 19th  | +6            | Ability Score Improvement                  |     | 3                               | 3   | 3   | 2   |    |
+| 20th  | +6            | Sacred Oath feature                        | 4   | 3                               | 3   | 3   | 2   |    |
 
 # **Divine Sense**
 
-The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire  Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears. As an action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its identity (the vampire Count Strahd von Zarovich, for instance). Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the *hallow* spell.
 
 You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
 
@@ -201,14 +201,14 @@ You gain oath spells at the paladin levels listed.
 
 #### **Oath of Devotion Spells**
 
-| Paladin |                                          |
-|---------|------------------------------------------|
-| Level   | Spells                                   |
-| 3rd     | protection	from	evil	and	good,	sanctuary |
-| 5th     | lesser	restoration,	zone	of	truth        |
-| 9th     | beacon	of	hope,	dispel	magic             |
-| 13th    | freedom	of	movement,	guardian	of	faith   |
-| 17th    | commune,	flame	strike                    |
+| Paladin   |                                          |
+|-----------|------------------------------------------|
+| Level     | Spells                                   |
+| 3rd       | protection from evil and good, sanctuary |
+| 5th       | lesser restoration, zone of truth        |
+| 9th       | beacon of hope, dispel magic             |
+| 13th      | freedom of movement, guardian of faith   |
+| 17th      | commune, flame strike                    |
 
 ### **Channel Divinity**
 
@@ -246,6 +246,6 @@ Once you use this feature, you can't use it again until you finish a long rest.
 
 A paladin tries to hold to the highest standards of conduct, but even the most virtuous paladin is fallible. Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a paladin to transgress his or her oath.
 
-A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an allnight vigil in prayer as a sign of penitence, or undertake a fast  or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
+A paladin who has broken a vow typically seeks absolution from a cleric who shares his or her faith or from another paladin of the same order. The paladin might spend an allnight vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial. After a rite of confession and forgiveness, the paladin starts fresh.
 
 If a paladin willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious. At the GM's discretion, an impenitent paladin might be forced to abandon this class and adopt another.

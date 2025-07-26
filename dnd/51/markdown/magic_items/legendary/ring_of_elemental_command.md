@@ -16,7 +16,7 @@ If you help slay an air elemental while attuned to the ring, you gain access to 
 - You have a flying speed equal to your walking speed and can hover.
 - You can cast the following spells from the ring, expending the necessary number of charges: *chain lightning* (3 charges), *gust of wind* (2 charges), or *wind wall* (1 charge).
 
-*Ring of Earth Elemental Command.* You can expend 2 of the ring's charges to cast *dominate monster* on an earth elemental. In addition, you can move in difficult terrain that is composed of rubble,  rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.
+*Ring of Earth Elemental Command.* You can expend 2 of the ring's charges to cast *dominate monster* on an earth elemental. In addition, you can move in difficult terrain that is composed of rubble, rocks, or dirt as if it were normal terrain. You can also speak and understand Terran.
 
 If you help slay an earth elemental while attuned to the ring, you gain access to the following additional properties:
 

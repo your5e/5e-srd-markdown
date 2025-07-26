@@ -10,7 +10,7 @@
 
 | STR    | DEX    | CON     | INT    | WIS    | CHA    |
 |--------|--------|---------|--------|--------|--------|
-| 1	(−5) | 1	(−5) | 10	(+0) | 1	(−5) | 3	(−4) | 1	(−5) |
+| 1 (-5) | 1 (-5) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) |
 
 **Condition Immunities** blinded, deafened, frightened **Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 6
 

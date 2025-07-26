@@ -10,16 +10,16 @@ within range, to a destination you select. If you target an object, it must be a
 
 The destination you choose must be known to you, and it must be on the same plane of existence as you. Your familiarity with the destination determines whether you arrive there successfully. The GM rolls d100 and consults the table.
 
-|                      |        | Similar | Off    | On     |
-|----------------------|--------|---------|--------|--------|
-| Familiarity          | Mishap | Area    | Target | Target |
-| Permanent<br>circle  | —      | —       | —      | 01–100 |
-| Associated<br>object | —      | —       | —      | 01–100 |
-| Very	familiar        | 01–05  | 06–13   | 14–24  | 25–100 |
-| Seen	casually        | 01–33  | 34–43   | 44–53  | 54–100 |
-| Viewed	once          | 01–43  | 44–53   | 54–73  | 74–100 |
-| Description          | 01–43  | 44–53   | 54–73  | 74–100 |
-| False<br>destination | 01–50  | 51–100  | —      | —      |
+|                   |        | Similar   | Off    | On     |
+|-------------------|--------|-----------|--------|--------|
+| Familiarity       | Mishap | Area      | Target | Target |
+| Permanent circle  | —      | —         | —      | 01–100 |
+| Associated object | —      | —         | —      | 01–100 |
+| Very familiar     | 01–05  | 06–13     | 14–24  | 25–100 |
+| Seen casually     | 01–33  | 34–43     | 44–53  | 54–100 |
+| Viewed once       | 01–43  | 44–53     | 54–73  | 74–100 |
+| Description       | 01–43  | 44–53     | 54–73  | 74–100 |
+| False destination | 01–50  | 51–100    | —      | —      |
 
 *Familiarity.* "Permanent circle" means a permanent teleportation circle whose sigil sequence you know. "Associated object" means that you possess an object taken from the desired destination within the last six months, such as a book from a wizard's library, bed linen from a royal suite, or a chunk of marble from a lich's secret tomb.
 

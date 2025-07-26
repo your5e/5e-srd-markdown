@@ -10,12 +10,12 @@ A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categ
 
 | Size       | Space                  | Examples            |
 |------------|------------------------|---------------------|
-| Tiny       | 2½	by	2½	ft.           | Imp,	sprite         |
-| Small      | 5	by	5	ft.             | Giant	rat,	goblin   |
-| Medium     | 5	by	5	ft.             | Orc,	werewolf       |
-| Large      | 10	by	10	ft.           | Hippogriff,	ogre    |
-| Huge       | 15	by	15	ft.           | Fire	giant,	treant  |
-| Gargantuan | 20	by	20	ft.	or	larger | Kraken,	purple	worm |
+| Tiny       | 2½ by 2½ ft.           | Imp, sprite         |
+| Small      | 5 by 5 ft.             | Giant rat, goblin   |
+| Medium     | 5 by 5 ft.             | Orc, werewolf       |
+| Large      | 10 by 10 ft.           | Hippogriff, ogre    |
+| Huge       | 15 by 15 ft.           | Fire giant, treant  |
+| Gargantuan | 20 by 20 ft. or larger | Kraken, purple worm |
 
 ## **Modifying Creatures**
 
@@ -29,7 +29,7 @@ The game includes the following monster types, which have no rules of their own.
 
 **Aberrations** are utterly alien beings. Many of them have innate magical abilities drawn from the creature's alien mind rather than the mystical forces of the world. The quintessential aberrations are aboleths, beholders, mind flayers, and slaadi.
 
-**Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them  have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
+**Beasts** are nonhumanoid creatures that are a natural part of the fantasy ecology. Some of them have magical powers, but most are unintelligent and lack any society or language. Beasts include all varieties of ordinary animals, dinosaurs, and giant versions of animals.
 
 **Celestials** are creatures native to the Upper Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include angels, couatls, and pegasi.
 
@@ -57,7 +57,7 @@ The game includes the following monster types, which have no rules of their own.
 
 ## **Tags**
 
-A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the *humanoid (orc)* type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the  game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
+A monster might have one or more tags appended to its type, in parentheses. For example, an orc has the *humanoid (orc)* type. The parenthetical tags provide additional categorization for certain creatures. The tags have no rules of their own, but something in the game, such as a magic item, might refer to them. For instance, a spear that is especially effective at fighting demons would work against any monster that has the demon tag.
 
 # **Alignment**
 
@@ -83,14 +83,14 @@ A monster's size determines the die used to calculate its hit points, as shown i
 
 ### **Hit Dice by Size**
 
-| Monster	Size | Hit	Die | Average	HP	per	Die |
-|--------------|---------|--------------------|
-| Tiny         | d4      | 2½                 |
-| Small        | d6      | 3½                 |
-| Medium       | d8      | 4½                 |
-| Large        | d10     | 5½                 |
-| Huge         | d12     | 6½                 |
-| Gargantuan   | d20     | 10½                |
+| Monster Size   | Hit Die   | Average HP per Die   |
+|----------------|-----------|----------------------|
+| Tiny           | d4        | 2½                   |
+| Small          | d6        | 3½                   |
+| Medium         | d8        | 4½                   |
+| Large          | d10       | 5½                   |
+| Huge           | d12       | 6½                   |
+| Gargantuan     | d20       | 10½                  |
 
 A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and 2d8 Hit Dice, it has 2d8 + 2 hit points (average 11).
 
@@ -130,25 +130,25 @@ A saving throw bonus is the sum of a monster's relevant ability modifier and its
 
 # **Proficiency Bonus by Challenge Rating**
 
-| Proficiency<br>Challenge<br>Bonus |    |  | Challenge | Proficiency<br>Bonus |  |
-|-----------------------------------|----|--|-----------|----------------------|--|
-| 0                                 | +2 |  | 14        | +5                   |  |
-| 1/8                               | +2 |  | 15        | +5                   |  |
-| 1/4                               | +2 |  | 16        | +5                   |  |
-| 1/2                               | +2 |  | 17        | +6                   |  |
-| 1                                 | +2 |  | 18        | +6                   |  |
-| 2                                 | +2 |  | 19        | +6                   |  |
-| 3                                 | +2 |  | 20        | +6                   |  |
-| 4                                 | +2 |  | 21        | +7                   |  |
-| 5                                 | +3 |  | 22        | +7                   |  |
-| 6                                 | +3 |  | 23        | +7                   |  |
-| 7                                 | +3 |  | 24        | +7                   |  |
-| 8                                 | +3 |  | 25        | +8                   |  |
-| 9                                 | +4 |  | 26        | +8                   |  |
-| 10                                | +4 |  | 27        | +8                   |  |
-| 11                                | +4 |  | 28        | +8                   |  |
-| 12                                | +4 |  | 29        | +9                   |  |
-| 13                                | +5 |  | 30        | +9                   |  |
+| Proficiency Challenge Bonus   |    |    |   Challenge |   Proficiency Bonus |    |
+|-------------------------------|----|----|-------------|---------------------|----|
+| 0                             | +2 |    |          14 |                  +5 |    |
+| 1/8                           | +2 |    |          15 |                  +5 |    |
+| 1/4                           | +2 |    |          16 |                  +5 |    |
+| 1/2                           | +2 |    |          17 |                  +6 |    |
+| 1                             | +2 |    |          18 |                  +6 |    |
+| 2                             | +2 |    |          19 |                  +6 |    |
+| 3                             | +2 |    |          20 |                  +6 |    |
+| 4                             | +2 |    |          21 |                  +7 |    |
+| 5                             | +3 |    |          22 |                  +7 |    |
+| 6                             | +3 |    |          23 |                  +7 |    |
+| 7                             | +3 |    |          24 |                  +7 |    |
+| 8                             | +3 |    |          25 |                  +8 |    |
+| 9                             | +4 |    |          26 |                  +8 |    |
+| 10                            | +4 |    |          27 |                  +8 |    |
+| 11                            | +4 |    |          28 |                  +8 |    |
+| 12                            | +4 |    |          29 |                  +9 |    |
+| 13                            | +5 |    |          30 |                  +9 |    |
 
 # **Skills**
 
@@ -222,25 +222,25 @@ Unless something tells you otherwise, a monster summoned by a spell or other mag
 
 #### **Experience Points by Challenge Rating**
 
-| Challenge | XP      |  | Challenge | XP      |  |
-|-----------|---------|--|-----------|---------|--|
-| 0         | 0	or	10 |  | 14        | 11,500  |  |
-| 1/8       | 25      |  | 15        | 13,000  |  |
-| 1/4       | 50      |  | 16        | 15,000  |  |
-| 1/2       | 100     |  | 17        | 18,000  |  |
-| 1         | 200     |  | 18        | 20,000  |  |
-| 2         | 450     |  | 19        | 22,000  |  |
-| 3         | 700     |  | 20        | 25,000  |  |
-| 4         | 1,100   |  | 21        | 33,000  |  |
-| 5         | 1,800   |  | 22        | 41,000  |  |
-| 6         | 2,300   |  | 23        | 50,000  |  |
-| 7         | 2,900   |  | 24        | 62,000  |  |
-| 8         | 3,900   |  | 25        | 75,000  |  |
-| 9         | 5,000   |  | 26        | 90,000  |  |
-| 10        | 5,900   |  | 27        | 105,000 |  |
-| 11        | 7,200   |  | 28        | 120,000 |  |
-| 12        | 8,400   |  | 29        | 135,000 |  |
-| 13        | 10,000  |  | 30        | 155,000 |  |
+| Challenge   | XP      |    |   Challenge | XP      |    |
+|-------------|---------|----|-------------|---------|----|
+| 0           | 0 or 10 |    |          14 | 11,500  |    |
+| 1/8         | 25      |    |          15 | 13,000  |    |
+| 1/4         | 50      |    |          16 | 15,000  |    |
+| 1/2         | 100     |    |          17 | 18,000  |    |
+| 1           | 200     |    |          18 | 20,000  |    |
+| 2           | 450     |    |          19 | 22,000  |    |
+| 3           | 700     |    |          20 | 25,000  |    |
+| 4           | 1,100   |    |          21 | 33,000  |    |
+| 5           | 1,800   |    |          22 | 41,000  |    |
+| 6           | 2,300   |    |          23 | 50,000  |    |
+| 7           | 2,900   |    |          24 | 62,000  |    |
+| 8           | 3,900   |    |          25 | 75,000  |    |
+| 9           | 5,000   |    |          26 | 90,000  |    |
+| 10          | 5,900   |    |          27 | 105,000 |    |
+| 11          | 7,200   |    |          28 | 120,000 |    |
+| 12          | 8,400   |    |          29 | 135,000 |    |
+| 13          | 10,000  |    |          30 | 155,000 |    |
 
 # **Special Traits**
 
@@ -340,4 +340,4 @@ If a legendary creature has lair actions, it can use them to harness the ambient
 
 # **Regional Effects**
 
-The mere presence of a legendary creature can have strange and wondrous effects on its environment, as  noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
+The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.

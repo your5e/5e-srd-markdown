@@ -20,11 +20,10 @@ A sentient item has some ability to communicate, either by sharing its emotions,
 
 #### **d100 Communication**
 
-| 01–60 | The	item	communicates	by	transmitting	emotion<br>to	the	creature	carrying	or	wielding	it.                                                                                   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 61–90 | The	item	can	speak,	read,	and	understand	one<br>or	more	languages.                                                                                                          |
-| 91–00 | The	item	can	speak,	read,	and	understand	one<br>or	more	languages.	In	addition,	the	item	can<br>communicate	telepathically	with	any	character<br>that	carries	or	wields	it. |
-|       |                                                                                                                                                                             |
+| 01–60   | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                                             |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 61–90   | The item can speak, read, and understand one or more languages.                                                                                                    |
+| 91–00   | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
 
 #### **Senses**
 
@@ -41,13 +40,13 @@ With sentience comes awareness. A sentient item can perceive its surroundings ou
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
-| d100  | Alignment      | d100  | Alignment       |
-|-------|----------------|-------|-----------------|
-| 01–15 | Lawful	good    | 74–85 | Chaotic	neutral |
-| 16–35 | Neutral	good   | 86–89 | Lawful	evil     |
-| 36–50 | Chaotic	good   | 90–96 | Neutral	evil    |
-| 51–63 | Lawful	neutral | 97–00 | Chaotic	evil    |
-| 64–73 | Neutral        |       |                 |
+| d100   | Alignment      | d100   | Alignment       |
+|--------|----------------|--------|-----------------|
+| 01–15  | Lawful good    | 74–85  | Chaotic neutral |
+| 16–35  | Neutral good   | 86–89  | Lawful evil     |
+| 36–50  | Chaotic good   | 90–96  | Neutral evil    |
+| 51–63  | Lawful neutral | 97–00  | Chaotic evil    |
+| 64–73  | Neutral        |        |                 |
 
 ## **Special Purpose**
 
@@ -83,4 +82,4 @@ If its wielder refuses to comply with the item's wishes, the item can do any or 
 - Suppress one or more of its activated properties.
 - Attempt to take control of its wielder.
 
-If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving  throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
+If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.

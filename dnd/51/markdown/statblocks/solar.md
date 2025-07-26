@@ -4,9 +4,9 @@
 
 **Armor Class** 21 (natural armor) **Hit Points** 243 (18d10 + 144) **Speed** 50 ft., fly 150 ft.
 
-| STR     | DEX     | CON     | INT     | WIS | CHA              |
-|---------|---------|---------|---------|-----|------------------|
-| 26	(+8) | 22	(+6) | 26	(+8) | 25	(+7) |     | 25	(+7) 30	(+10) |
+| STR     | DEX     | CON     | INT     | WIS   | CHA              |
+|---------|---------|---------|---------|-------|------------------|
+| 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) |       | 25 (+7) 30 (+10) |
 
 **Saving Throws** Int +14, Wis +14, Cha +17
 
@@ -48,7 +48,7 @@ At will: *detect evil and good*, *invisibility* (self only)
 
 *Flying Sword.* The solar releases its greatsword to hover magically in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar's hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies.
 
-*Healing Touch (4/Day).* The solar touches another creature. The target magically regains 40 (8d8 + 4) hit  points and is freed from any curse, disease, poison, blindness, or deafness.
+*Healing Touch (4/Day).* The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
 #### **Legendary Actions**
 

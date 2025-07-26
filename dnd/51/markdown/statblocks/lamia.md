@@ -8,7 +8,7 @@
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
-| 16	(+3) | 13	(+1) | 15	(+2) | 14	(+2) | 15	(+2) | 16	(+3) |
+| 16 (+3) | 13 (+1) | 15 (+2) | 14 (+2) | 15 (+2) | 16 (+3) |
 
 **Skills** Deception +7, Insight +4, Stealth +3 **Senses** darkvision 60 ft., passive Perception 12 **Languages** Abyssal, Common **Challenge** 4 (1,100 XP)
 

@@ -6,9 +6,9 @@
 
 **STR DEX CON INT WIS CHA**
 
-| 10	(+0)                          | 15	(+2) | 12	(+1) | 11	(+0) | 10	(+0) | 8	(−1) |
-|----------------------------------|---------|---------|---------|---------|--------|
-| Skills Perception	+2,	Stealth	+4 |         |         |         |         |        |
+| 10 (+0)                          | 15 (+2)   | 12 (+1)   | 11 (+0)   | 10 (+0)   | 8 (-1)   |
+|----------------------------------|-----------|-----------|-----------|-----------|----------|
+| Skills Perception +2, Stealth +4 |           |           |           |           |          |
 
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Senses** darkvision 60 ft. (rat form only), passive Perception 12

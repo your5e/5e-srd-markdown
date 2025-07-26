@@ -10,7 +10,7 @@
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 12	(+1) | 13	(+1) | 11	(+0) | 2	(−4) | 10	(+0) | 3	(−4) |
+| 12 (+1) | 13 (+1) | 11 (+0) | 2 (-4) | 10 (+0) | 3 (-4) |
 
 **Skills** Perception +2, Stealth +3
 
@@ -30,4 +30,4 @@
 
 *Swallow.* The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time.
 
-If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5  feet of movement, exiting prone.
+If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.

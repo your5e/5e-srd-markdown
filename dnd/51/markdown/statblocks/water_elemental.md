@@ -10,7 +10,7 @@
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 18	(+4) | 14	(+2) | 18	(+4) | 5	(−3) | 10	(+0) | 8	(−1) |
+| 18 (+4) | 14 (+2) | 18 (+4) | 5 (-3) | 10 (+0) | 8 (-1) |
 
 **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 

@@ -10,7 +10,7 @@
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
-| 17	(+3) | 15	(+2) | 13	(+1) | 3	(−4) | 12	(+1) | 8	(−1) |
+| 17 (+3) | 15 (+2) | 13 (+1) | 3 (-4) | 12 (+1) | 8 (-1) |
 
 **Skills** Perception +3, Stealth +6 **Senses** passive Perception 13 **Languages** — **Challenge** 1 (200 XP)
 

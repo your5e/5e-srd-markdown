@@ -8,9 +8,9 @@
 
 **Speed** 20 ft., swim 60 ft.
 
-| STR              | DEX | CON     | INT     | WIS     | CHA     |
-|------------------|-----|---------|---------|---------|---------|
-| 30	(+10) 11	(+0) |     | 25	(+7) | 22	(+6) | 18	(+4) | 20	(+5) |
+| STR              | DEX   | CON     | INT     | WIS     | CHA     |
+|------------------|-------|---------|---------|---------|---------|
+| 30 (+10) 11 (+0) |       | 25 (+7) | 22 (+6) | 18 (+4) | 20 (+5) |
 
 **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
 
@@ -42,7 +42,7 @@ If the kraken takes 50 damage or more on a single turn from a creature inside it
 
 *Fling.* One Large or smaller object held or creature grappled by the kraken is thrown up to 60 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 18 Dexterity saving throw or take the same damage and be knocked prone.
 
-*Lightning Storm.* The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10)  lightning damage on a failed save, or half as much damage on a successful one.
+*Lightning Storm.* The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
 #### **Legendary Actions**
 
