@@ -2,11 +2,11 @@
 
 @test "without enough arguments" {
     run ./compare.sh
-    diff -u <(echo "$output") <(echo "Usage: ./compare.sh <markdown_with_includes> <comparison>")
+    diff -u <(echo "Usage: ./compare.sh <markdown_with_includes> <comparison>") <(echo "$output")
     [ "$status" -eq 1 ]
 
     run ./compare.sh nonexistent.md
-    diff -u <(echo "$output") <(echo "Usage: ./compare.sh <markdown_with_includes> <comparison>")
+    diff -u <(echo "Usage: ./compare.sh <markdown_with_includes> <comparison>") <(echo "$output")
     [ "$status" -eq 1 ]
 }
 
@@ -14,13 +14,13 @@
     run ./compare.sh \
         nonexistent.md \
         immaterial
-    diff -u <(echo "$output") <(echo "Error: 'nonexistent.md' not found")
+    diff -u <(echo "Error: 'nonexistent.md' not found") <(echo "$output")
     [ "$status" -eq 1 ]
 
     run ./compare.sh \
         tests/breakdown/expected/replaced.md \
         nonexistent.md
-    diff -u <(echo "$output") <(echo "Error: 'nonexistent.md' not found")
+    diff -u <(echo "Error: 'nonexistent.md' not found") <(echo "$output")
     [ "$status" -eq 1 ]
 }
 
@@ -28,7 +28,7 @@
     run ./compare.sh \
         tests/breakdown/expected/section_one.md \
         tests/compare/expected/section_one.md
-    diff -u <(echo "$output") <(echo "")
+    diff -u <(echo "") <(echo "$output")
     [ "$status" -eq 0 ]
 }
 
@@ -36,7 +36,7 @@
     run ./compare.sh \
         tests/compare/input.md \
         tests/compare/source.md
-    diff -u <(echo "$output") <(echo "")
+    diff -u <(echo "") <(echo "$output")
     [ "$status" -eq 0 ]
 }
 
@@ -44,7 +44,7 @@
     run ./compare.sh \
         tests/compare/nested.md \
         tests/compare/source.md
-    diff -u <(echo "$output") <(echo "")
+    diff -u <(echo "") <(echo "$output")
     [ "$status" -eq 0 ]
 }
 
@@ -52,7 +52,7 @@
     run ./compare.sh \
         tests/compare/missing.md \
         tests/compare/source.md
-    diff -u <(echo "$output") <(echo "Error: 'tests/compare/missing.md' includes 'nonexistent.md': not found")
+    diff -u <(echo "Error: 'tests/compare/missing.md' includes 'nonexistent.md': not found") <(echo "$output")
     [ "$status" -eq 1 ]
 }
 
@@ -79,6 +79,6 @@
     run ./compare.sh \
         tests/compare/input_broken.md \
         tests/compare/source.md
-    diff -u <(echo "$output") <(echo "$expected_output")
+    diff -u <(echo "$expected_output") <(echo "$output")
     [ "$status" -eq 1 ]
 }
