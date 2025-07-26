@@ -13,7 +13,7 @@ setup() {
     )
 
     run python clean_srd.py tests/clean/errors.md
-    diff -u <(echo "$output") <(echo "$expected_output")
+    diff -u <(echo "$expected_output") <(echo "$output")
     [ "$status" -eq 1 ]
 }
 
@@ -24,9 +24,24 @@ setup() {
     )
 
     run python clean_srd.py "$BATS_TEST_TMPDIR/srd.md" "$BATS_TEST_TMPDIR/breakdown.txt"
-    diff -u <(echo "$output") <(echo "$expected_output")
+    diff -u <(echo "$expected_output") <(echo "$output")
     [ "$status" -eq 0 ]
 
-    diff -u "$BATS_TEST_TMPDIR/srd.md" tests/clean/expected/srd.md
-    diff -u "$BATS_TEST_TMPDIR/breakdown.txt" tests/clean/expected/breakdown.txt
+    diff -u tests/clean/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
+    diff -u tests/clean/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
+}
+
+@test "warn flag doesn't modify source file" {
+    expected_output=$(sed -e 's/^        //' <<'        EOF'
+        Warning: The Barbarian, 18: possible table run-on
+        EOF
+    )
+
+    run python clean_srd.py --warn "$BATS_TEST_TMPDIR/srd.md" "$BATS_TEST_TMPDIR/breakdown.txt"
+    diff -u <(echo "$expected_output") <(echo "$output")
+    [ "$status" -eq 0 ]
+
+    # Source file should remain unchanged from original
+    diff -u tests/clean/srd.md "$BATS_TEST_TMPDIR/srd.md"
+    diff -u tests/clean/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
 }

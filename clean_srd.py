@@ -219,6 +219,7 @@ def main():
     parser.add_argument('markdown', help='Input markdown file')
     parser.add_argument('breakdown_file', nargs='?', help='Optional breakdown file to update')
     parser.add_argument('--debug', action='store_true', help='Print changes to stdout instead of modifying file')
+    parser.add_argument('--warn', action='store_true', help='Only run warning checks, skip cleaning and error checks')
     args = parser.parse_args()
 
     try:
@@ -228,12 +229,15 @@ def main():
             with open(args.markdown, 'r', encoding='utf-8') as handle:
                 lines = handle.read().splitlines()
 
-        breakdown_data = None
-        if args.breakdown_file:
-            breakdown_data = load_breakdown_data(args.breakdown_file)
+        cleaned = False
+        if not args.warn:
+            breakdown_data = None
+            if args.breakdown_file:
+                breakdown_data = load_breakdown_data(args.breakdown_file)
 
-        check_srd(lines)
-        cleaned = clean_srd(lines, breakdown_data)
+            check_srd(lines)
+            cleaned = clean_srd(lines, breakdown_data)
+
         warn_srd(lines)
 
         if cleaned:
