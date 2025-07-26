@@ -2,12 +2,18 @@
 
 function main {
     extract_only=false
-    if [ "$#" -gt 0 ] && [ "$1" = "-e" ]; then
-        extract_only=true
-        shift
-    fi
+    match_pattern=""
 
-    [ "$#" -lt 1 ] && abort "breakdown.sh [-e] file.md [breakdown.txt]" "Usage"
+    while getopts "ehm:" option; do
+        case "$option" in
+            e)  extract_only=true ;;
+            m)  match_pattern="$OPTARG"; extract_only=true ;;
+            *)  usage ;;
+        esac
+    done
+    shift $((OPTIND-1))
+
+    [ "$#" -lt 1 ] && usage
 
     source_file="$1"
     source_dir=$(dirname "$source_file")
@@ -66,6 +72,10 @@ function main {
     for range in "${ranges[@]}"; do
         read -r start_line end_line target_file suppress <<< "$range"
 
+        if [ -n "$match_pattern" ] && [[ ! "$target_file" =~ $match_pattern ]]; then
+            continue
+        fi
+
         target_path="$source_dir/$target_file"
         target_dir=$(dirname "$target_path")
         mkdir -p "$target_dir"
@@ -98,6 +108,10 @@ function main {
 
         printf '%s\n' "${edited[@]}" > "$source_file"
     fi
+}
+
+function usage {
+    abort "breakdown.sh [-e] [-m pattern] file.md [breakdown.txt]" "Usage"
 }
 
 function abort {
