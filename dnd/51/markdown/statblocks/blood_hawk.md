@@ -2,10 +2,11 @@
 
 *Small beast, unaligned*
 
-| Armor Class 12           |
-|--------------------------|
-| Hit Points 7 (2d6)       |
-| Speed 10 ft., fly 60 ft. |
+**Armor Class** 12
+
+**Hit Points** 7 (2d6)
+
+**Speed** 10 ft., fly 60 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |    |
 |--------|---------|---------|--------|---------|--------|----|

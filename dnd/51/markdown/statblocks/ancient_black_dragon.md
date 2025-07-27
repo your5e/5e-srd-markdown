@@ -1,8 +1,12 @@
 ## **Ancient Black Dragon**
 
-*Gargantuan dragon, chaotic evil* **Armor Class** 22 (natural armor) **Hit Points** 367 (21d20 + 147) **Speed** 40 ft., fly 80 ft., swim 40 ft.
+*Gargantuan dragon, chaotic evil*
 
-# **STR DEX CON INT WIS CHA** 27 (+8) 14 (+2) 25 (+7) 16 (+3) 15 (+2) 19 (+4)
+**Armor Class** 22 (natural armor) **Hit Points** 367 (21d20 + 147) **Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 **Saving Throws** Dex +9, Con +14, Wis +9, Cha +11
 

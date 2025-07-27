@@ -1040,14 +1040,12 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 ## **Swamp**
 
-| Druid Level   | Circle Spells        |    |
-|---------------|----------------------|----|
-| 3rd           | acid arrow, darkness |    |
-
-| 5th   | water walk, stinking cloud           |
-|-------|--------------------------------------|
-| 7th   | freedom of movement, locate creature |
-| 9th   | insect plague, scrying               |
+| Druid Level   | Circle Spells                        |
+|---------------|--------------------------------------|
+| 3rd           | acid arrow, darkness                 |
+| 5th           | water walk, stinking cloud           |
+| 7th           | freedom of movement, locate creature |
+| 9th           | insect plague, scrying               |
 
 ## **Land's Stride**
 
@@ -2232,17 +2230,15 @@ At 1st level, you choose one type of dragon as your ancestor. The damage type as
 | Dragon   | Damage Type   |
 |----------|---------------|
 | Black    | Acid          |
-
-| Blue   | Lightning   |    |    |    |    |
-|--------|-------------|----|----|----|----|
-| Brass  | Fire        |    |    |    |    |
-| Bronze | Lightning   |    |    |    |    |
-| Copper | Acid        |    |    |    |    |
-| Gold   | Fire        |    |    |    |    |
-| Green  | Poison      |    |    |    |    |
-| Red    | Fire        |    |    |    |    |
-| Silver | Cold        |    |    |    |    |
-| White  | Cold        |    |    |    |    |
+| Blue     | Lightning     |
+| Brass    | Fire          |
+| Bronze   | Lightning     |
+| Copper   | Acid          |
+| Gold     | Fire          |
+| Green    | Poison        |
+| Red      | Fire          |
+| Silver   | Cold          |
+| White    | Cold          |
 
 You can speak, read, and write Draconic. Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 
@@ -3364,9 +3360,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | Name                 | Cost   | Damage   | Weight   | Properties   |    |
 |----------------------|--------|----------|----------|--------------|----|
 | Simple Melee Weapons |        |          |          |              |    |
-
 | Club                   | 1 sp   | 1d4 bludgeoning   | 2 lb.   | Light                                                  |
-|------------------------|--------|-------------------|---------|--------------------------------------------------------|
 | Dagger                 | 2 gp   | 1d4 piercing      | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
 | Greatclub              | 2 sp   | 1d8 bludgeoning   | 10 lb.  | Two-handed                                             |
 | Handaxe                | 5 gp   | 1d6 slashing      | 2 lb.   | Light, thrown (range 20/60)                            |
@@ -6511,7 +6505,7 @@ On a successful save, you can ask the entity up to five questions. You must ask 
 
 *5th-level necromancy*
 
-**Casting Time:** 1 action **Range:** Touch **Component:** V, S **Duration:** 7 days
+**Casting Time:** 1 action **Range:** Touch **Components:** V, S **Duration:** 7 days
 
 Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below.
 
@@ -6541,8 +6535,9 @@ creature behaves as if under the effects of the *confusion* spell during combat.
 
 **Range:** Self
 
-- **Components:** V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)
-- **Duration:** 10 days
+**Components:** V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)
+
+**Duration:** 10 days
 
 Choose a spell of 5th level or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that spell—called the contingent spell—as part of casting *contingency*, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a *contingency* cast with *water breathing* might stipulate that *water breathing* comes into effect when you are engulfed in water or a similar liquid.
 
@@ -9364,8 +9359,7 @@ Physical interaction with the image reveals it to be an illusion, because things
 
 **Casting Time:** 12 hours **Range:** Touch
 
-- **Components:** V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)
-- **Duration:** Until dispelled
+**Components:** V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell) **Duration:** Until dispelled
 
 You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it can take actions and otherwise be affected as a normal creature. It appears to be the same as the original, but it has half the creature's hit point maximum and is formed without any equipment. Otherwise, the illusion uses all the statistics of the creature it duplicates.
 
@@ -13953,9 +13947,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 #### **Hit Points** 33 (6d10)
 
-```
-Speed 10 ft.
-```
+**Speed** 10 ft.
 
 | STR     | DEX     | CON     | INT    | WIS    | CHA    |    |
 |---------|---------|---------|--------|--------|--------|----|
@@ -14077,7 +14069,9 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 #### **Behir**
 
-*Huge monstrosity, neutral evil* **Armor Class** 17 (natural armor) **Hit Points** 168 (16d12 + 64) **Speed** 50 ft., climb 40 ft.
+*Huge monstrosity, neutral evil*
+
+**Armor Class** 17 (natural armor) **Hit Points** 168 (16d12 + 64) **Speed** 50 ft., climb 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
 |---------|---------|---------|--------|---------|---------|
@@ -15108,7 +15102,9 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 
 #### **Pit Fiend**
 
-*Large fiend (devil), lawful evil* **Armor Class** 19 (natural armor) **Hit Points** 300 (24d10 + 168) **Speed** 30 ft., fly 60 ft.
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 19 (natural armor) **Hit Points** 300 (24d10 + 168) **Speed** 30 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -15274,9 +15270,13 @@ At will: *detect magic*, *fireball*
 
 ## **Ancient Black Dragon**
 
-*Gargantuan dragon, chaotic evil* **Armor Class** 22 (natural armor) **Hit Points** 367 (21d20 + 147) **Speed** 40 ft., fly 80 ft., swim 40 ft.
+*Gargantuan dragon, chaotic evil*
 
-# **STR DEX CON INT WIS CHA** 27 (+8) 14 (+2) 25 (+7) 16 (+3) 15 (+2) 19 (+4)
+**Armor Class** 22 (natural armor) **Hit Points** 367 (21d20 + 147) **Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 **Saving Throws** Dex +9, Con +14, Wis +9, Cha +11
 
@@ -16474,7 +16474,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
-## **STR DEX CON INT WIS CHA** 17 (+3) 10 (+0) 15 (+2) 12 (+1) 11 (+0) 15 (+2)
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 17 (+3) | 10 (+0) | 15 (+2) | 12 (+1) | 11 (+0) | 15 (+2) |
 
 **Saving Throws** Dex +2, Con +4, Wis +2, Cha +4
 
@@ -16503,7 +16505,9 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 #### **Ancient Copper Dragon**
 
-*Gargantuan dragon, chaotic good* **Armor Class** 21 (natural armor) **Hit Points** 350 (20d20 + 140) **Speed** 40 ft., climb 40 ft., fly 80 ft.
+*Gargantuan dragon, chaotic good*
+
+**Armor Class** 21 (natural armor) **Hit Points** 350 (20d20 + 140) **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -17207,7 +17211,7 @@ The dryad can have no more than one humanoid and up to three beasts charmed at a
 
 # **Elementals**
 
-**Air Elemental**
+## **Air Elemental**
 
 *Large elemental, neutral*
 
@@ -17319,7 +17323,7 @@ takes an action to douse the fire, the creature takes 5 (1d10) fire damage at th
 
 *Large elemental, neutral*
 
-**Armor** Class 14 (natural armor)
+**Armor Class** 14 (natural armor)
 
 **Hit Points** 114 (12d10 + 48)
 
@@ -17766,11 +17770,16 @@ The possession lasts until the body drops to 0 hit points, the ghost ends it as 
 |                                  | STR                                   | DEX     | CON     | INT     | WIS     | CHA     |    |    |    |
 |----------------------------------|---------------------------------------|---------|---------|---------|---------|---------|----|----|----|
 |                                  | 27 (+8)                               | 10 (+0) | 22 (+6) | 12 (+1) | 16 (+3) | 16 (+3) |    |    |    |
-|                                  | Saving Throws Con +10, Wis +7, Cha +7 |         |         |         |         |         |    |    |    |
-| Skills Insight +7, Perception +7 |                                       |         |         |         |         |         |    |    |    |
-| Senses passive Perception 17     |                                       |         |         |         |         |         |    |    |    |
-| Languages Common, Giant          |                                       |         |         |         |         |         |    |    |    |
-|                                  | Challenge 9 (5,000 XP)                |         |         |         |         |         |    |    |    |
+
+**Saving Throws** Con +10, Wis +7, Cha +7
+
+**Skills** Insight +7, Perception +7
+
+**Senses** passive Perception 17
+
+**Languages** Common, Giant
+
+**Challenge** 9 (5,000 XP)
 
 *Keen Smell.* The giant has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -18106,13 +18115,11 @@ At will: *nondetection* (self only)
 |---------|--------|---------|--------|---------|--------|
 | 19 (+4) | 9 (-1) | 18 (+4) | 6 (-2) | 10 (+0) | 5 (-3) |
 
-**Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-
+- **Damage Immunities** lightning, poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** understands the languages of its creator but can't speak
-
-**Challenge** 5 (1,800 XP)
+- **Challenge** 5 (1,800 XP)
 
 *Berserk.* Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
 
@@ -18416,7 +18423,9 @@ At will: *detect magic*, *magic missile*
 
 ## **Sea Hag**
 
-*Medium fey, chaotic evil* **Armor Class** 14 (natural armor) **Hit Points** 52 (7d8 + 21)
+*Medium fey, chaotic evil*
+
+**Armor Class** 14 (natural armor) **Hit Points** 52 (7d8 + 21)
 
 **Speed** 30 ft., swim 40 ft.
 
@@ -18520,9 +18529,12 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 | STR                          | DEX     | CON     | INT    | WIS     | CHA     |    |    |
 |------------------------------|---------|---------|--------|---------|---------|----|----|
 | 12 (+1)                      | 13 (+1) | 12 (+1) | 7 (-2) | 10 (+0) | 13 (+1) |    |    |
-| Senses passive Perception 10 |         |         |        |         |         |    |    |
-| Languages Common             |         |         |        |         |         |    |    |
-| Challenge 1 (200 XP)         |         |         |        |         |         |    |    |
+
+**Senses** passive Perception 10
+
+**Languages** Common
+
+**Challenge** 1 (200 XP)
 
 #### **Actions**
 
@@ -18540,7 +18552,9 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 
 ## **Hell Hound**
 
-*Medium fiend, lawful evil* **Armor Class** 15 (natural armor) **Hit Points** 45 (7d8 + 14)
+*Medium fiend, lawful evil*
+
+**Armor Class** 15 (natural armor) **Hit Points** 45 (7d8 + 14)
 
 #### **Speed** 50 ft.
 
@@ -19033,15 +19047,15 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 **Armor Class** 12 **Hit Points** 33 (6d8 + 6) **Speed** 30 ft.
 
-**STR DEX CON INT WIS CHA**
-
-| 10 (+0)                          | 15 (+2)   | 12 (+1)   | 11 (+0)   | 10 (+0)   | 8 (-1)   |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
 |----------------------------------|-----------|-----------|-----------|-----------|----------|
-| Skills Perception +2, Stealth +4 |           |           |           |           |          |
+| 10 (+0)                          | 15 (+2)   | 12 (+1)   | 11 (+0)   | 10 (+0)   | 8 (-1)   |
 
+- **Skills** Perception +2, Stealth +4
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Senses** darkvision 60 ft. (rat form only), passive Perception 12
-- **Languages** Common (can't speak in rat form) **Challenge** 2 (450 XP)
+- **Languages** Common (can't speak in rat form)
+- **Challenge** 2 (450 XP)
 
 *Shapechanger.* The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -19139,7 +19153,9 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 
 #### **Magmin**
 
-*Small elemental, chaotic neutral* **Armor Class** 14 (natural armor) **Hit Points** 9 (2d6 + 2)
+*Small elemental, chaotic neutral*
+
+**Armor Class** 14 (natural armor) **Hit Points** 9 (2d6 + 2)
 
 #### **Speed** 30 ft.
 
@@ -19266,16 +19282,22 @@ surface within 30 feet of it and in an area of bright light, the medusa is, due 
 | STR                                                 | DEX                              | CON     | INT    | WIS     | CHA     |    |    |    |
 |-----------------------------------------------------|----------------------------------|---------|--------|---------|---------|----|----|----|
 | 7 (-2)                                              | 13 (+1)                          | 10 (+0) | 9 (-1) | 11 (+0) | 12 (+1) |    |    |    |
-|                                                     | Skills Perception +2, Stealth +3 |         |        |         |         |    |    |    |
-| Damage Vulnerabilities bludgeoning, fire            |                                  |         |        |         |         |    |    |    |
-| Damage Immunities cold, poison                      |                                  |         |        |         |         |    |    |    |
-| Condition Immunities poisoned                       |                                  |         |        |         |         |    |    |    |
-| Senses darkvision 60 ft., passive Perception 12     |                                  |         |        |         |         |    |    |    |
-| Languages Aquan, Auran                              |                                  |         |        |         |         |    |    |    |
-| Challenge 1/2 (100 XP)                              |                                  |         |        |         |         |    |    |    |
-| Death Burst. When the mephit dies, it explodes in a |                                  |         |        |         |         |    |    |    |
 
-burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
+**Skills** Perception +2, Stealth +3
+
+**Damage Vulnerabilities** bludgeoning, fire
+
+**Damage Immunities** cold, poison
+
+**Condition Immunities** poisoned
+
+**Senses** darkvision 60 ft., passive Perception 12
+
+**Languages** Aquan, Auran
+
+**Challenge** 1/2 (100 XP)
+
+*Death Burst.* When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
 
 *False Appearance.* While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.
 
@@ -19285,9 +19307,7 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 *Claws. Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.
 
-*Frost Breath (Recharge 6).* The mephit exhales a 15 foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5
-
-(2d4) cold damage on a failed save, or half as much damage on a successful one.
+*Frost Breath (Recharge 6).* The mephit exhales a 15 foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
 
 #### **Magma Mephit**
 
@@ -19357,8 +19377,7 @@ burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexteri
 
 **Hit Points** 11 (2d8 + 2)
 
-| Speed 10 ft., swim 40 ft.   |    |    |
-|-----------------------------|----|----|
+**Speed** 10 ft., swim 40 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|
@@ -19722,7 +19741,9 @@ Cantrips (at will): *mage hand*, *minor illusion*, *ray of frost*
 
 #### **Ogre**
 
-*Large giant, chaotic evil* **Armor Class** 11 (hide armor) **Hit Points** 59 (7d10 + 21)
+*Large giant, chaotic evil*
+
+**Armor Class** 11 (hide armor) **Hit Points** 59 (7d10 + 21)
 
 **Speed** 40 ft.
 
@@ -20006,7 +20027,9 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 #### **Owlbear**
 
-*Large monstrosity, unaligned* **Armor Class** 13 (natural armor) **Hit Points** 59 (7d10 + 21)
+*Large monstrosity, unaligned*
+
+**Armor Class** 13 (natural armor) **Hit Points** 59 (7d10 + 21)
 
 **Speed** 40 ft.
 
@@ -21968,10 +21991,11 @@ A **blink dog** takes its name from its ability to blink in and out of existence
 
 *Small beast, unaligned*
 
-| Armor Class 12           |
-|--------------------------|
-| Hit Points 7 (2d6)       |
-| Speed 10 ft., fly 60 ft. |
+**Armor Class** 12
+
+**Hit Points** 7 (2d6)
+
+**Speed** 10 ft., fly 60 ft.
 
 | STR    | DEX     | CON     | INT    | WIS     | CHA    |    |
 |--------|---------|---------|--------|---------|--------|----|
@@ -22259,7 +22283,9 @@ A **death dog** is an ugly two-headed hound that roams plains, and deserts. Hate
 
 #### **Draft Horse**
 
-*Large beast, unaligned* **Armor Class** 10 **Hit Points** 19 (3d10 + 3) **Speed** 40 ft.
+*Large beast, unaligned*
+
+**Armor Class** 10 **Hit Points** 19 (3d10 + 3) **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
@@ -23585,6 +23611,8 @@ A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier
 
 **Hit Points** 13 (3d8)
 
+**Speed** 50 ft., climb 40 ft.
+
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
 |---------|---------|---------|--------|---------|--------|----|
 | 14 (+2) | 15 (+2) | 10 (+0) | 3 (-4) | 14 (+2) | 7 (-2) |    |
@@ -23952,9 +23980,7 @@ Smaller than giant sharks and hunter sharks, **reef sharks** inhabit shallow wat
 
 **Hit Points** 1 (1d4 - 1)
 
-| Speed 20 ft., climb 20 ft.   |    |    |
-|------------------------------|----|----|
-| ---------------------------- | -- | -- |
+**Speed** 20 ft., climb 20 ft.
 
 | STR    | DEX     | CON    | INT    | WIS     | CHA    |    |
 |--------|---------|--------|--------|---------|--------|----|
@@ -24972,7 +24998,7 @@ A priest typically has one or more acolytes to help with religious ceremonies an
 
 **Armor Class** 12
 
-**Hit Point**s 27 (6d8)
+**Hit Points** 27 (6d8)
 
 **Speed** 30 ft.
 

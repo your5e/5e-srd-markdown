@@ -1,6 +1,8 @@
 ## **Sea Hag**
 
-*Medium fey, chaotic evil* **Armor Class** 14 (natural armor) **Hit Points** 52 (7d8 + 21)
+*Medium fey, chaotic evil*
+
+**Armor Class** 14 (natural armor) **Hit Points** 52 (7d8 + 21)
 
 **Speed** 30 ft., swim 40 ft.
 

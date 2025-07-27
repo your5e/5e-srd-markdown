@@ -2,7 +2,7 @@
 
 *5th-level necromancy*
 
-**Casting Time:** 1 action **Range:** Touch **Component:** V, S **Duration:** 7 days
+**Casting Time:** 1 action **Range:** Touch **Components:** V, S **Duration:** 7 days
 
 Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, you afflict the creature with a disease of your choice from any of the ones described below.
 

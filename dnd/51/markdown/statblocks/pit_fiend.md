@@ -1,6 +1,8 @@
 #### **Pit Fiend**
 
-*Large fiend (devil), lawful evil* **Armor Class** 19 (natural armor) **Hit Points** 300 (24d10 + 168) **Speed** 30 ft., fly 60 ft.
+*Large fiend (devil), lawful evil*
+
+**Armor Class** 19 (natural armor) **Hit Points** 300 (24d10 + 168) **Speed** 30 ft., fly 60 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|

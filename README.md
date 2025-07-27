@@ -1,5 +1,5 @@
-5e documents in Markdown
-========================
+5e refererences in Markdown
+===========================
 
 The fifth edition reference documents that have been released under
 [Creative Commons Attribution 4.0 International License \("CC-BY-4.0"\)][cc],
@@ -30,6 +30,7 @@ the SRD in question.
 
     - Markdown doesn't support multiple header rows as used in class tables, so
       they have been compressed to one row.
+    - fixed "Components" typo in Contagion
 
 
 ## Workflow for breaking the whole SRD into sections

@@ -1,6 +1,8 @@
 #### **Ogre**
 
-*Large giant, chaotic evil* **Armor Class** 11 (hide armor) **Hit Points** 59 (7d10 + 21)
+*Large giant, chaotic evil*
+
+**Armor Class** 11 (hide armor) **Hit Points** 59 (7d10 + 21)
 
 **Speed** 40 ft.
 

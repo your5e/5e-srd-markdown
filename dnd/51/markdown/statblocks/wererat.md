@@ -4,12 +4,11 @@
 
 **Armor Class** 12 **Hit Points** 33 (6d8 + 6) **Speed** 30 ft.
 
-**STR DEX CON INT WIS CHA**
-
-| 10 (+0)                          | 15 (+2)   | 12 (+1)   | 11 (+0)   | 10 (+0)   | 8 (-1)   |
+| STR     | DEX     | CON     | INT     | WIS     | CHA    |
 |----------------------------------|-----------|-----------|-----------|-----------|----------|
-| Skills Perception +2, Stealth +4 |           |           |           |           |          |
+| 10 (+0)                          | 15 (+2)   | 12 (+1)   | 11 (+0)   | 10 (+0)   | 8 (-1)   |
 
+- **Skills** Perception +2, Stealth +4
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 - **Senses** darkvision 60 ft. (rat form only), passive Perception 12
 - **Languages** Common (can't speak in rat form) **Challenge** 2 (450 XP)

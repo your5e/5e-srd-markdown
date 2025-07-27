@@ -1,6 +1,8 @@
 #### **Ancient Copper Dragon**
 
-*Gargantuan dragon, chaotic good* **Armor Class** 21 (natural armor) **Hit Points** 350 (20d20 + 140) **Speed** 40 ft., climb 40 ft., fly 80 ft.
+*Gargantuan dragon, chaotic good*
+
+**Armor Class** 21 (natural armor) **Hit Points** 350 (20d20 + 140) **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 | STR     | DEX     | CON     | INT     | WIS     | CHA     |
 |---------|---------|---------|---------|---------|---------|

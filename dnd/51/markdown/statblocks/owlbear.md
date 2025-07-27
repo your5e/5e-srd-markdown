@@ -1,6 +1,8 @@
 #### **Owlbear**
 
-*Large monstrosity, unaligned* **Armor Class** 13 (natural armor) **Hit Points** 59 (7d10 + 21)
+*Large monstrosity, unaligned*
+
+**Armor Class** 13 (natural armor) **Hit Points** 59 (7d10 + 21)
 
 **Speed** 40 ft.
 

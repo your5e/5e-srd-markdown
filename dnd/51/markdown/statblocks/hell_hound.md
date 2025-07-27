@@ -1,6 +1,8 @@
 ## **Hell Hound**
 
-*Medium fiend, lawful evil* **Armor Class** 15 (natural armor) **Hit Points** 45 (7d8 + 14)
+*Medium fiend, lawful evil*
+
+**Armor Class** 15 (natural armor) **Hit Points** 45 (7d8 + 14)
 
 #### **Speed** 50 ft.
 

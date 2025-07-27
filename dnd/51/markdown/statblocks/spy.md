@@ -4,7 +4,7 @@
 
 **Armor Class** 12
 
-**Hit Point**s 27 (6d8)
+**Hit Points** 27 (6d8)
 
 **Speed** 30 ft.
 

@@ -1,6 +1,8 @@
 #### **Behir**
 
-*Huge monstrosity, neutral evil* **Armor Class** 17 (natural armor) **Hit Points** 168 (16d12 + 64) **Speed** 50 ft., climb 40 ft.
+*Huge monstrosity, neutral evil*
+
+**Armor Class** 17 (natural armor) **Hit Points** 168 (16d12 + 64) **Speed** 50 ft., climb 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA     |
 |---------|---------|---------|--------|---------|---------|

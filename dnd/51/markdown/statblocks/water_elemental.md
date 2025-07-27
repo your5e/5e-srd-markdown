@@ -2,7 +2,7 @@
 
 *Large elemental, neutral*
 
-**Armor** Class 14 (natural armor)
+**Armor Class** 14 (natural armor)
 
 **Hit Points** 114 (12d10 + 48)
 

@@ -1,6 +1,8 @@
 #### **Draft Horse**
 
-*Large beast, unaligned* **Armor Class** 10 **Hit Points** 19 (3d10 + 3) **Speed** 40 ft.
+*Large beast, unaligned*
+
+**Armor Class** 10 **Hit Points** 19 (3d10 + 3) **Speed** 40 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
