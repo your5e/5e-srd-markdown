@@ -1,4 +1,14 @@
-#                                what it is testing
+#                                    what it is testing
 
-     1     28  barbarian.md    # no table runon
-    30     81  bard.md         # table reformatting and runon warning
+     1     11  high_elf.md         # attributes to lists
+    13     40  barbarian.md        # table runon warning
+    42     95  bard.md             # table reformatting and joining
+    97    107  berserker_axe.md    # paragraph join, not becoming list
+   109    121  magic_missile.md    # wrapping and listing **word** sections
+   123    163  black_pudding.md    # single action items
+   165    193  druid.md            # statblock spells, bold in para
+   195    217  giant_centipede.md  # no traits
+   219    239  hyena.md            # single trait listify
+   241    273  wereboar.md         # header fixes, attack lines, insert 'features', midpara italics
+   275    279  solvent.md          # magic item names
+   281    291  customising.md      # midpara italic ignores PHB

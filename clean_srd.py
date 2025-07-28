@@ -5,10 +5,8 @@ import re
 import sys
 from tabulate import tabulate
 
-
-def header_to_text(text):
-    # "#### **Black Tentacles**" -> "Black Tentacles"
-    return text.lstrip('#').strip().strip('*').strip()
+from lib.spells import spells
+from lib.magic_items import magic_items
 
 
 def check_duration_length(line):
@@ -33,7 +31,7 @@ def check_srd(lines):
                 context = 'file'
                 for prev in range(index - 1, -1, -1):
                     if lines[prev].startswith('#'):
-                        context = header_to_text(lines[prev])
+                        context = lines[prev]
                         break
                 error_messages.append(f"{context}, {index}:\n{message}\n")
     if error_messages:
@@ -42,10 +40,10 @@ def check_srd(lines):
 
 def clean_whitespace(lines, index):
     # why <br>s for the love of...
-    spaces = re.sub(r'[^\S\n]+', ' ', lines[index])
-    linebreaks = spaces.replace('<br>', ' ')
-    if linebreaks != lines[index]:
-        lines[index] = linebreaks
+    spaces = lines[index].replace('<br>', ' ')
+    spaces = re.sub(r'[\t\r\f\v\u00a0\u2000-\u200b\u2028\u2029\u3000]', ' ', spaces)
+    if spaces != lines[index]:
+        lines[index] = spaces
         return 0
     return None
 
@@ -70,13 +68,13 @@ def clean_table_alignment(lines, index):
         return None
     if index > 1 and lines[index-1] != '':  # not start of table
         return None
-    if not all(
+    if not all(                             # doesn't look like a table
         re.match(r'^:?-+:?$', cell.strip())
             for cell in lines[index+1].split('|')[1:-1]
-    ):                                      # doesn't look like a table
+    ):
         return None
 
-    headers = [cell.strip() for cell in lines[index].split('|')[1:-1]]
+    headers = [re.sub(r' +', ' ', cell.strip()) for cell in lines[index].split('|')[1:-1]]
     table_end = index
 
     while True:
@@ -98,11 +96,23 @@ def clean_table_alignment(lines, index):
     rows = []
     for line in lines[index+2:table_end+1]:
         cells = [
-            cell.strip()
+            re.sub(r' +', ' ', cell.strip())
                 for cell in line.split('|')[1:-1]
         ]
+        # ensure number of cells matches headers
+        cells = (cells + [''] * len(headers))[:len(headers)]
         if any(cell for cell in cells):
             rows.append(cells)
+
+    # remove columns where every cell is empty
+    remove = []
+    for column in range(len(headers)):
+        if not headers[column] and all(not row[column] for row in rows):
+            remove.append(column)
+    for column in reversed(remove):
+        del headers[column]
+        for row in rows:
+            del row[column]
 
     aligned = tabulate(rows, headers=headers, tablefmt='github').split('\n')
     for i, new_line in enumerate(aligned):
@@ -110,27 +120,255 @@ def clean_table_alignment(lines, index):
 
     difference = len(aligned) - (table_end - index + 1)
     if difference < 0:
-        for _ in range(-difference):
-            lines.pop(index + len(aligned))
-
+        del lines[index + len(aligned):index + len(aligned) - difference]
     return difference
 
 
-def clean_srd(lines, breakdown_data):
+def clean_midsentence_pagebreak(lines, index):
+    # rejoin paragraphs split by pagebreaks
+    if index > 1 and lines[index] and lines[index][0].islower():
+        if lines[index - 1] == '' and lines[index - 2][-1].islower():
+            lines[index - 2] = lines[index - 2] + ' ' + lines[index]
+            del lines[index-1:index+1]
+            return -2
+    return None
+
+
+def clean_remove_mistaken_headers(lines, index):
+    # "#### **Duration:** Instantaneous" -> "**Duration:** Instantaneous"
+    removed = re.sub(r'^#+\s+((?:\*\*[^*]+\*\*\s+\S.*)|(?:\*[^*]+\*))$', r'\1', lines[index])
+    if removed != lines[index]:
+        lines[index] = removed
+        return 0
+    return None
+
+
+def clean_remove_header_bold(lines, index):
+    # "### **High Elf**" -> "### High Elf"
+    header_pattern = r'^(#+)\s*\*\*([^*]+)\*\*\s*$'
+    if re.match(header_pattern, lines[index]):
+        lines[index] = re.sub(header_pattern, r'\1 \2', lines[index])
+        return 0
+    return None
+
+
+def clean_leading_emphasis(lines, index):
+    # "*Some words.* More words..." but in the PDF rendered bold italic
+    if index > 1 and lines[index - 1].strip() != "":
+        return None
+
+    bold_italics = re.sub(r'^\*([^*]+\.)\*', r'_**\1**_', lines[index])
+    if bold_italics != lines[index]:
+        lines[index] = bold_italics
+        return 0
+    return None
+
+
+def clean_statblock_attack_emphasis(lines, index):
+    # "*[Words.] [Words] Attack:*" -> "_**[Words.]** [Words] Attack:_"
+    attack = re.sub(r'^\*([^*]+\.)\s+([^*]+Attack:)\*', r'_**\1** \2_', lines[index])
+    if attack != lines[index]:
+        lines[index] = attack
+        return 0
+    return None
+
+
+def clean_unwrap_consecutive_bold(lines, index):
+    # **Hit Dice**, **Hit Points**, ... -- sometimes on one line
+    if lines[index].startswith('**') and ' **' in lines[index]:
+        bold_words = re.findall(r'\*\*([^*]+)\*\*', lines[index])
+        if not all(word[0].isupper() for word in bold_words if word):
+            return None
+
+        parts = re.split(r'\s+(?=\*\*[^*]+\*\*)', lines[index])
+        difference = -1
+        if index < len(lines)-1 and lines[index+1] == '':
+            del lines[index+1]
+            difference = -2
+        del lines[index]
+
+        # maintain index by inserting the parts backwards
+        for i in range(len(parts)-1, -1, -1):
+            lines[index:index] = [parts[i].strip(), '']
+            difference += 2
+
+        return difference
+    return None
+
+
+def _wrapup_matching_lines(lines, index, pattern, indent=''):
+    if re.match(pattern, lines[index]):
+        current = index
+        while current < len(lines) - 2:
+            if (
+                lines[current + 1] == ''
+                and re.match(pattern, lines[current + 2])
+            ):
+                del lines[current + 1]
+                current += 1
+            else:
+                break
+
+        if current > index:
+            for line in range(index, current+1):
+                lines[line] = f"{indent}- {lines[line]}"
+            return index - current
+    return None
+
+
+def clean_wrapup_feature_lists(lines, index):
+    # "_**words.**_ ... \n _**words.**_ ..." -- listify
+    return _wrapup_matching_lines(lines, index, r'^_\*\*[^*]+\.\*\*')
+
+
+def clean_wrapup_attribute_lists(lines, index):
+    # **Hit Dice** ... \n **Hit Points** ... -- listify
+    return _wrapup_matching_lines(lines, index, r'^\*\*[^*]+\*\*')
+
+
+def clean_statblock_spells_to_list(lines, index):
+    # "Cantrips", "1st level (4 slots)", "3/day" -- listify
+    return _wrapup_matching_lines(lines, index, r'^(Cantrips|At will|[0-9]+[a-z]* level|[0-9]+/day)', '    ')
+
+
+def clean_single_action_to_list(lines, index):
+    # "_**" alone after a header, still a list (of one)
+    if (
+        lines[index].startswith('_**')
+        and lines[index - 1] == ''
+        and lines[index - 2].startswith('#')
+        and (
+            lines[index - 2].endswith('Actions')
+            or lines[index - 2].endswith('Traits')
+            or lines[index - 2].endswith('Reactions')
+        )
+    ):
+        lines[index] = '- ' + lines[index]
+        return 0
+    return None
+
+
+def clean_statblock_spellcasting_marker(lines, index):
+    # "_**Spellcasting.**_" before a list of spells
+    if re.match(r'^_\*\*(?:Innate\s+)?Spellcasting\.\*\*_', lines[index]):
+        if (
+            index + 2 < len(lines)
+            and lines[index + 1] == ''
+            and lines[index + 2].startswith('    - ')
+        ):
+            lines[index] = '- ' + lines[index]
+            return 0
+    return None
+
+
+def clean_canonicalise_proper_nouns(lines, index):
+    # *speak with dead.* -> _Speak with Dead_.
+    original = lines[index]
+
+    potential_matches = re.findall(r'\*([a-zA-Z][^*]*?)\*', lines[index])
+    for match in potential_matches:
+        # grouped by first letter to speed up matching
+        first_letter = match[0].lower()
+        for names in [spells, magic_items]:
+            if first_letter in names:
+                for name in names[first_letter]:
+                    # punctuation moves outside of the emphasis
+                    pattern = r'(?<!\*)\*\b' + re.escape(name.lower()) + r'\b([.,:;!?]*)\*(?!\*)'
+                    replacement = f'_{name}_\\1'
+                    lines[index] = re.sub(pattern, replacement, lines[index], flags=re.IGNORECASE)
+
+    if lines[index] != original:
+        return 0
+    return None
+
+
+def clean_add_traits_header(lines, index):
+    # add Traits after CR for visual separation
+    if (
+        lines[index].startswith('**Challenge**')
+        and index + 2 < len(lines)
+        and lines[index + 1] == ''
+        and not lines[index + 2].startswith('#')
+    ):
+        lines[index + 1:index + 1] = ['', '#### Traits']
+        return 2
+    return None
+
+
+def clean_italic_emphasis_markers(lines, index):
+    # *word* -> _word_
+    italics = re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)', r'_\1_', lines[index])
+    if italics != lines[index]:
+        lines[index] = italics
+        return 0
+    return None
+
+
+def clean_srd(lines, breakdown_data, show_progress=False):
+    def _progress_bar(end):
+        if show_progress:
+            filled = int(round(min(index / len(lines), 1.0) * 100, 1) / 2)
+            bar = (
+                '█' * filled
+                + '░' * (50 - filled)
+            )
+            print(f"- {cleaner.__name__:40} {index:6} [{bar}]", end=end)
+
     CONVERSIONS_TABLE = [
+        # common problems
         clean_whitespace,
         clean_unicode_chars,
         clean_table_alignment,
+        clean_midsentence_pagebreak,
+
+        # PDF->MD mistakes
+        clean_remove_mistaken_headers,
+        clean_remove_header_bold,
+        clean_unwrap_consecutive_bold,
+
+        # 5.1 SRD specific formatting
+        clean_add_traits_header,
+        clean_leading_emphasis,
+        clean_statblock_attack_emphasis,
+        clean_wrapup_feature_lists,
+        clean_wrapup_attribute_lists,
+        clean_statblock_spells_to_list,
+        clean_single_action_to_list,
+        clean_statblock_spellcasting_marker,
+
+        # sanitation
+        clean_canonicalise_proper_nouns,
+
+        # markdown preferences
+        clean_italic_emphasis_markers,
     ]
 
     changes = 0
     for cleaner in CONVERSIONS_TABLE:
-        for index, line in enumerate(lines):
-            result = cleaner(lines, index)
-            if result is not None:
-                changes += 1
-                if breakdown_data is not None:
-                    update_breakdown_data(breakdown_data, index, result)
+        # changing the lines array necessitates restart, so track line
+        last_index = -1
+
+        while True:
+            result = None
+            for index, line in enumerate(lines):
+                if index <= last_index:
+                    continue
+
+                _progress_bar('\r')
+
+                result = cleaner(lines, index)
+                if result is not None:
+                    last_index = index + result
+                    changes += 1
+                    if result != 0:
+                        if breakdown_data is not None:
+                            update_breakdown_data(breakdown_data, index, result)
+                    break
+
+            if result is None:
+                break
+
+        _progress_bar('\n')
 
     if changes > 0:
         return '\n'.join(lines + [''])
@@ -150,6 +388,14 @@ def warn_table_runon(lines, index):
             return "possible table run-on"
 
 
+def warn_midpara_italics(lines, index):
+    # look for mid-paragraph italics that could be a source wrapping error
+    match = re.search(r'[\w+].*\s_([A-Z][^_]*\.)_', lines[index])
+    if match and match.group(1) != "Player's Handbook.":
+        return f"possible mistaken mid-paragraph italic: '{match.group(1)}'"
+    return None
+
+
 def warn_unusual_unicode(lines, index):
     # let's not be too clever
     unusual_chars = set()
@@ -163,6 +409,7 @@ def warn_unusual_unicode(lines, index):
 def warn_srd(lines):
     WARN_TABLE = [
         warn_table_runon,
+        warn_midpara_italics,
         warn_unusual_unicode,
     ]
 
@@ -173,7 +420,7 @@ def warn_srd(lines):
                 context = 'file'
                 for prev in range(index - 1, -1, -1):
                     if lines[prev].startswith('#'):
-                        context = header_to_text(lines[prev])
+                        context = lines[prev]
                         break
                 print(f"Warning: {context}, {index + 1}: {message}", file=sys.stderr)
 
@@ -220,6 +467,7 @@ def main():
     parser.add_argument('breakdown_file', nargs='?', help='Optional breakdown file to update')
     parser.add_argument('--debug', action='store_true', help='Print changes to stdout instead of modifying file')
     parser.add_argument('--warn', action='store_true', help='Only run warning checks, skip cleaning and error checks')
+    parser.add_argument('--progress', action='store_true', help='Show progress through the file')
     args = parser.parse_args()
 
     try:
@@ -236,7 +484,7 @@ def main():
                 breakdown_data = load_breakdown_data(args.breakdown_file)
 
             check_srd(lines)
-            cleaned = clean_srd(lines, breakdown_data)
+            cleaned = clean_srd(lines, breakdown_data, args.progress)
 
         warn_srd(lines)
 
@@ -251,7 +499,7 @@ def main():
 
 
     except FileNotFoundError as e:
-        print(f"Error: File not found - {e}", file=sys.stderr)
+        print(f"Error '{e.filename}' not found")
         sys.exit(1)
 
     except Exception as e:
