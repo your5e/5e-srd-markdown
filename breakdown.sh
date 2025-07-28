@@ -81,7 +81,11 @@ function main {
         mkdir -p "$target_dir"
 
         sed -n "${start_line},${end_line}p" "$source_file" > "$target_path"
-        echo "$start_line-$end_line > $target_file"
+        if [[ ! -t 1 ]]; then
+            echo "$start_line-$end_line > $target_file"
+        else
+            printf '%-118s\r' "$start_line-$end_line > $target_file"
+        fi
     done
 
     if [ "$extract_only" = false ]; then
