@@ -390,9 +390,14 @@ def warn_table_runon(lines, index):
 
 def warn_midpara_italics(lines, index):
     # look for mid-paragraph italics that could be a source wrapping error
-    match = re.search(r'[\w+].*\s_([A-Z][^_]*\.)_', lines[index])
-    if match and match.group(1) != "Player's Handbook.":
-        return f"possible mistaken mid-paragraph italic: '{match.group(1)}'"
+    matches = re.findall(r'[\w.].*?_([A-Z][^_]*[:\.])_', lines[index])
+    for match in matches:
+        if (
+            not match.startswith("**")
+            and match != "Player's Handbook."
+            and match != "Hit:"
+        ):
+            return f"possible mistaken mid-paragraph italic: '{match}'"
     return None
 
 
