@@ -1,6 +1,6 @@
-## **Sword of Wounding**
+## Sword of Wounding
 
-*Weapon (any sword), rare (requires attunement)*
+_Weapon (any sword), rare (requires attunement)_
 
 Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
 

@@ -1,32 +1,28 @@
-#### **Black Bear**
+#### Black Bear
 
-*Medium beast, unaligned*
+_Medium beast, unaligned_
 
-**Armor Class** 11 (natural armor)
+- **Armor Class** 11 (natural armor)
+- **Hit Points** 19 (3d8 + 6)
+- **Speed** 40 ft., climb 30 ft.
 
-**Hit Points** 19 (3d8 + 6)
-
-**Speed** 40 ft., climb 30 ft.
-
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
-|---------|---------|---------|--------|---------|--------|----|
-| 15 (+2) | 10 (+0) | 14 (+2) | 2 (-4) | 12 (+1) | 7 (-2) |    |
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+|---------|---------|---------|--------|---------|--------|
+| 15 (+2) | 10 (+0) | 14 (+2) | 2 (-4) | 12 (+1) | 7 (-2) |
 
 ```
 Skills Perception +3
 ```
-**Senses** passive Perception 13
+- **Senses** passive Perception 13
+- **Languages** —
+- **Challenge** 1/2 (100 XP)
 
-**Languages** —
+#### Traits
 
-#### **Challenge** 1/2 (100 XP)
+- _**Keen Smell.**_ The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-*Keen Smell.* The bear has advantage on Wisdom (Perception) checks that rely on smell.
+#### Actions
 
-#### **Actions**
-
-*Multiattack.* The bear makes two attacks: one with its bite and one with its claws.
-
-*Bite. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
-
-*Claws. Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
+- _**Multiattack.**_ The bear makes two attacks: one with its bite and one with its claws.
+- _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+- _**Claws.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) slashing damage.

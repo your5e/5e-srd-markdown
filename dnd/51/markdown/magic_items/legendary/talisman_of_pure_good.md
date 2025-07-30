@@ -1,6 +1,6 @@
-#### **Talisman of Pure Good**
+#### Talisman of Pure Good
 
-#### *Wondrous item, legendary (requires attunement by a creature of good alignment)*
+_Wondrous item, legendary (requires attunement by a creature of good alignment)_
 
 This talisman is a mighty symbol of goodness. A creature that is neither good nor evil in alignment takes 6d6 radiant damage upon touching the talisman. An evil creature takes 8d6 radiant damage upon touching the talisman. Either sort of creature takes the damage again each time it ends its turn holding or carrying the talisman.
 

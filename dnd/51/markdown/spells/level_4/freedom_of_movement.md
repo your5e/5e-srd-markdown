@@ -1,8 +1,11 @@
-#### **Freedom of Movement**
+#### Freedom of Movement
 
-*4th-level abjuration*
+_4th-level abjuration_
 
-**Casting Time:** 1 action **Range:** Touch **Components:** V, S, M (a leather strap, bound around the arm or a similar appendage) **Duration:** 1 hour
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S, M (a leather strap, bound around the arm or a similar appendage)
+- **Duration:** 1 hour
 
 You touch a willing creature. For the duration, the target's movement is unaffected by difficult terrain, and spells and other magical effects can neither reduce the target's speed nor cause the target to be paralyzed or restrained.
 

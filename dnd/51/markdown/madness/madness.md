@@ -1,14 +1,14 @@
-# **Madness**
+# Madness
 
 In a typical campaign, characters aren't driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
 
-# **Going Mad**
+# Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as *contact other plane* and *symbol*, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells*.* Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as _Contact Other Plane_ and _Symbol_, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells_._ Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
 Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw.
 
-# **Madness Effects**
+# Madness Effects
 
 Madness can be short-term, long-term, or indefinite. Most relatively mundane effects impose short-term madness, which lasts for just a few minutes. More horrific effects or cumulative effects can result in long-term or indefinite madness.
 
@@ -18,7 +18,7 @@ A character afflicted with **long-term madness** is subjected to an effect from 
 
 A character afflicted with **indefinite madness** gains a new character flaw from the Indefinite Madness table that lasts until cured.
 
-## **Short-Term Madness**
+## Short-Term Madness
 
 | d100   | Effect (lasts 1d10 minutes)                                                                                                  |
 |--------|------------------------------------------------------------------------------------------------------------------------------|
@@ -28,15 +28,15 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 41–50 The character begins babbling and is incapable of normal speech or spellcasting.
 
-|    | 51–60   | The character must use his or her action each round to attack the nearest creature.                    |
-|----|---------|--------------------------------------------------------------------------------------------------------|
-|    | 61–70   | The character experiences vivid hallucinations and has disadvantage on ability checks.                 |
-|    | 71–75   | The character does whatever anyone tells him or her to do that isn't obviously self destructive.       |
-|    | 76–80   | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal. |
-|    | 81–90   | The character is stunned.                                                                              |
-|    | 91–100  | The character falls unconscious.                                                                       |
+| 51–60   | The character must use his or her action each round to attack the nearest creature.                    |
+|---------|--------------------------------------------------------------------------------------------------------|
+| 61–70   | The character experiences vivid hallucinations and has disadvantage on ability checks.                 |
+| 71–75   | The character does whatever anyone tells him or her to do that isn't obviously self destructive.       |
+| 76–80   | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal. |
+| 81–90   | The character is stunned.                                                                              |
+| 91–100  | The character falls unconscious.                                                                       |
 
-## **Long-Term Madness**
+## Long-Term Madness
 
 | d100   | Effect (lasts 1d10 × 10 hours)                                                                                                                                                                                                       |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,7 +53,7 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 91–95  | The character loses the ability to speak.                                                                                                                                                                                            |
 | 96–100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
 
-#### **Indefinite Madness**
+#### Indefinite Madness
 
 | d100   | Flaw (lasts until cured)                             |
 |--------|------------------------------------------------------|
@@ -82,6 +82,6 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 |        | serious the situation, the funnier I find it."       |
 | 96–100 | "I've discovered that I really like killing people." |
 
-# **Curing Madness**
+# Curing Madness
 
-A *calm emotions* spell can suppress the effects of madness, while a *lesser restoration* spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, *remove curse* or *dispel evil* might also prove effective. A *greater restoration* spell or more powerful magic is required to rid a character of indefinite madness.
+A _Calm Emotions_ spell can suppress the effects of madness, while a _Lesser Restoration_ spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, _Remove Curse_ or _dispel evil_ might also prove effective. A _Greater Restoration_ spell or more powerful magic is required to rid a character of indefinite madness.

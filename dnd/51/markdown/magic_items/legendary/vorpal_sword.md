@@ -1,6 +1,6 @@
-# **Vorpal Sword**
+# Vorpal Sword
 
-*Weapon (any sword that deals slashing damage), legendary (requires attunement)*
+_Weapon (any sword that deals slashing damage), legendary (requires attunement)_
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
 

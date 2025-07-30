@@ -1,5 +1,5 @@
-## **Stone of Good Luck (Luckstone)**
+## Stone of Good Luck (Luckstone)
 
-*Wondrous item, uncommon (requires attunement)*
+_Wondrous item, uncommon (requires attunement)_
 
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.

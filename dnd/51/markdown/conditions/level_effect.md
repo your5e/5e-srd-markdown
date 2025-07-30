@@ -1,4 +1,4 @@
-#### **Level Effect**
+#### Level Effect
 
 - 1 Disadvantage on ability checks
 - 2 Speed halved

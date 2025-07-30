@@ -1,8 +1,11 @@
-# **Mage Hand**
+# Mage Hand
 
-*Conjuration cantrip*
+_Conjuration cantrip_
 
-**Casting Time:** 1 action **Range:** 30 feet **Components:** V, S **Duration:** 1 minute
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 minute
 
 A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
 

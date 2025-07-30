@@ -1,8 +1,11 @@
-## **Rope Trick**
+## Rope Trick
 
-*2nd-level transmutation*
+_2nd-level transmutation_
 
-**Casting Time:** 1 action **Range:** Touch **Components:** V, S, M (powdered corn extract and a twisted loop of parchment) **Duration:** 1 hour
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S, M (powdered corn extract and a twisted loop of parchment)
+- **Duration:** 1 hour
 
 You touch a length of rope that is up to 60 feet long. One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground. At the upper end of the rope, an invisible entrance opens to an extradimensional space that lasts until the spell ends.
 

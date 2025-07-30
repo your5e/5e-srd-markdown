@@ -1,5 +1,5 @@
-# **Ring of Feather Falling**
+# Ring of Feather Falling
 
-*Ring, rare (requires attunement)*
+_Ring, rare (requires attunement)_
 
 When you fall while wearing this ring, you descend 60 feet per round and take no damage from falling.

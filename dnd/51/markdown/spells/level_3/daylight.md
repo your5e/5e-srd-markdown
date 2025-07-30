@@ -1,8 +1,11 @@
-## **Daylight**
+## Daylight
 
-*3rd-level evocation*
+_3rd-level evocation_
 
-**Casting Time:** 1 action **Range:** 60 feet **Components:** V, S **Duration:** 1 hour
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 1 hour
 
 A 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.
 

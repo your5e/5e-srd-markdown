@@ -1,6 +1,6 @@
-### **Nine Lives Stealer**
+### Nine Lives Stealer
 
-*Weapon (any sword), very rare (requires attunement)*
+_Weapon (any sword), very rare (requires attunement)_
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 

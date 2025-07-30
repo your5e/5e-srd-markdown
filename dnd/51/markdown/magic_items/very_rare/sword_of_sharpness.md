@@ -1,6 +1,6 @@
-#### **Sword of Sharpness**
+#### Sword of Sharpness
 
-*Weapon (any sword that deals slashing damage), very rare (requires attunement)*
+_Weapon (any sword that deals slashing damage), very rare (requires attunement)_
 
 When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
 

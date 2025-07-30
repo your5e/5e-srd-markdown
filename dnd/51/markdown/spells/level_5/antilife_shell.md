@@ -1,8 +1,11 @@
-#### **Antilife Shell**
+#### Antilife Shell
 
-*5th-level abjuration*
+_5th-level abjuration_
 
-**Casting Time:** 1 action **Range:** Self (10-foot radius) **Components:** V, S **Duration:** Concentration, up to 1 hour
+- **Casting Time:** 1 action
+- **Range:** Self (10-foot radius)
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
 
 A shimmering barrier extends out from you in a 10 foot radius and moves with you, remaining centered on you and hedging out creatures other than undead and constructs. The barrier lasts for the duration.
 

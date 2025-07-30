@@ -1,6 +1,6 @@
-#### **Bag of Tricks**
+#### Bag of Tricks
 
-#### *Wondrous item, uncommon*
+_Wondrous item, uncommon_
 
 This ordinary bag, made from gray, rust, or tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object. The bag weighs 1/2 pound.
 
@@ -10,7 +10,7 @@ The creature is friendly to you and your companions, and it acts on your turn. Y
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-## **Gray Bag of Tricks**
+## Gray Bag of Tricks
 
 - **d8 Creature**
 - 1 Weasel
@@ -25,9 +25,9 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 8 Giant elk
 
-## **Rust Bag of Tricks**
+## Rust Bag of Tricks
 
-#### **d8 Creature**
+#### d8 Creature
 
 - 1 Rat
 - 2 Owl 3 Mastiff
@@ -37,9 +37,9 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 - 7 Lion
 - 8 Brown bear
 
-# **Tan Bag of Tricks**
+# Tan Bag of Tricks
 
-## **d8 Creature**
+## d8 Creature
 
 - 1 Jackal
 - 2 Ape

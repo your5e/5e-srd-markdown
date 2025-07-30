@@ -1,10 +1,11 @@
-#### **Flesh to Stone**
+#### Flesh to Stone
 
-*6th-level transmutation*
+_6th-level transmutation_
 
-**Casting Time:** 1 action **Range:** 60 feet **Components:** V, S, M (a pinch of lime, water, and earth)
-
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a pinch of lime, water, and earth)
+- **Duration:** Concentration, up to 1 minute
 
 You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is restrained as its flesh begins to harden. On a successful save, the creature isn't affected.
 

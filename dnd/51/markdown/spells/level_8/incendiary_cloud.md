@@ -1,8 +1,11 @@
-#### **Incendiary Cloud**
+#### Incendiary Cloud
 
-*8th-level conjuration*
+_8th-level conjuration_
 
-**Casting Time:** 1 action **Range:** 150 feet **Components:** V, S **Duration:** Concentration, up to 1 minute
+- **Casting Time:** 1 action
+- **Range:** 150 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 A swirling cloud of smoke shot through with whitehot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 

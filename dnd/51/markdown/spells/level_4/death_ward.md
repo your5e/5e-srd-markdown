@@ -1,8 +1,11 @@
-#### **Death Ward**
+#### Death Ward
 
-*4th-level abjuration*
+_4th-level abjuration_
 
-**Casting Time:** 1 action **Range:** Touch **Components:** V, S **Duration:** 8 hours
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 8 hours
 
 You touch a creature and grant it a measure of protection from death.
 

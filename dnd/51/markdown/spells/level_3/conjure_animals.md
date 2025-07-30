@@ -1,8 +1,11 @@
-## **Conjure Animals**
+## Conjure Animals
 
-*3rd-level conjuration*
+_3rd-level conjuration_
 
-**Casting Time:** 1 action **Range:** 60 feet **Components:** V, S **Duration:** Concentration, up to 1 hour
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
 
 You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
@@ -17,4 +20,4 @@ The summoned creatures are friendly to you and your companions. Roll initiative 
 
 The GM has the creatures' statistics.
 
-*At Higher Levels.* When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.
+_**At Higher Levels.**_ When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.

@@ -1,31 +1,28 @@
-#### **Lizardfolk**
+#### Lizardfolk
 
-*Medium humanoid (lizardfolk), neutral*
+_Medium humanoid (lizardfolk), neutral_
 
-**Armor Class** 15 (natural armor, shield)
+- **Armor Class** 15 (natural armor, shield)
+- **Hit Points** 22 (4d8 + 4)
+- **Speed** 30 ft., swim 30 ft.
 
-**Hit Points** 22 (4d8 + 4)
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+|---------|---------|---------|--------|---------|--------|
+| 15 (+2) | 10 (+0) | 13 (+1) | 7 (-2) | 12 (+1) | 7 (-2) |
 
-**Speed** 30 ft., swim 30 ft.
+- **Skills** Perception +3, Stealth +4, Survival +5
+- **Senses** passive Perception 13
+- **Languages** Draconic
+- **Challenge** 1/2 (100 XP)
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
-|---------|---------|---------|--------|---------|--------|----|
-| 15 (+2) | 10 (+0) | 13 (+1) | 7 (-2) | 12 (+1) | 7 (-2) |    |
+#### Traits
 
-**Skills** Perception +3, Stealth +4, Survival +5 **Senses** passive Perception 13 **Languages** Draconic
+- _**Hold Breath.**_ The lizardfolk can hold its breath for 15 minutes.
 
-**Challenge** 1/2 (100 XP)
+#### Actions
 
-*Hold Breath.* The lizardfolk can hold its breath for 15 minutes.
-
-#### **Actions**
-
-*Multiattack.* The lizardfolk makes two melee attacks, each one with a different weapon.
-
-*Bite. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
-
-*Heavy Club. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage.
-
-*Javelin. Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
-
-*Spiked Shield. Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+- _**Multiattack.**_ The lizardfolk makes two melee attacks, each one with a different weapon.
+- _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+- _**Heavy Club.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) bludgeoning damage.
+- _**Javelin.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
+- _**Spiked Shield.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.

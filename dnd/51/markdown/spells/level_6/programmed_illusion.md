@@ -1,8 +1,11 @@
-# **Programmed Illusion**
+# Programmed Illusion
 
-*6th-level illusion*
+_6th-level illusion_
 
-**Casting Time:** 1 action **Range:** 120 feet **Components:** V, S, M (a bit of fleece and jade dust worth at least 25 gp) **Duration:** Until dispelled
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, M (a bit of fleece and jade dust worth at least 25 gp)
+- **Duration:** Until dispelled
 
 You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
 

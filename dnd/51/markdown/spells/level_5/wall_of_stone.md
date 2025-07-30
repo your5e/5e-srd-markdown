@@ -1,10 +1,11 @@
-#### **Wall of Stone**
+#### Wall of Stone
 
-*5th-level evocation*
+_5th-level evocation_
 
-**Casting Time:** 1 action
-
-#### **Range:** 120 feet **Components:** V, S, M (a small block of granite) **Duration:** Concentration, up to 10 minutes
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, M (a small block of granite)
+- **Duration:** Concentration, up to 10 minutes
 
 A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-footby-10-foot panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 10-foot-by-20-foot panels that are only 3 inches thick.
 

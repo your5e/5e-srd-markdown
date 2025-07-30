@@ -1,6 +1,6 @@
-## **Staff of Striking**
+## Staff of Striking
 
-*Staff, very rare (requires attunement)*
+_Staff, very rare (requires attunement)_
 
 This staff can be wielded as a magic quarterstaff that grants a +3 bonus to attack and damage rolls made with it.
 

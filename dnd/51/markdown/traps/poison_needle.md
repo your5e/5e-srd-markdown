@@ -1,6 +1,6 @@
-## **Poison Needle**
+## Poison Needle
 
-#### *Mechanical trap*
+_Mechanical trap_
 
 A poisoned needle is hidden within a treasure chest's lock, or in something else that a creature might open. Opening the chest without the proper key causes the needle to spring out, delivering a dose of poison.
 

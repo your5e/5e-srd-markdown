@@ -1,8 +1,11 @@
-#### **Detect Evil and Good**
+#### Detect Evil and Good
 
-*1st-level divination*
+_1st-level divination_
 
-**Casting Time:** 1 action **Range:** Self **Components:** V, S **Duration:** Concentration, up to 10 minutes
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 For the duration, you know if there is an aberration, celestial, elemental, fey, fiend, or undead within 30 feet of you, as well as where the creature is located. Similarly, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.
 

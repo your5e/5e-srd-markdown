@@ -1,4 +1,4 @@
-# **Sewer Plague**
+# Sewer Plague
 
 Sewer plague is a generic term for a broad category of illnesses that incubate in sewers, refuse heaps, and stagnant swamps, and which are sometimes transmitted by creatures that dwell in those areas, such as rats and otyughs.
 

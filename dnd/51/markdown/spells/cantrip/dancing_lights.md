@@ -1,8 +1,11 @@
-## **Dancing Lights**
+## Dancing Lights
 
-*Evocation cantrip*
+_Evocation cantrip_
 
-**Casting Time:** 1 action **Range:** 120 feet **Components:** V, S, M (a bit of phosphorus or wychwood, or a glowworm) **Duration:** Concentration, up to 1 minute
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, M (a bit of phosphorus or wychwood, or a glowworm)
+- **Duration:** Concentration, up to 1 minute
 
 You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Whichever form you choose, each light sheds dim light in a 10 foot radius.
 

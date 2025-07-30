@@ -1,6 +1,6 @@
-#### **Staff of Withering**
+#### Staff of Withering
 
-*Staff, rare (requires attunement by a cleric, druid, or warlock)*
+_Staff, rare (requires attunement by a cleric, druid, or warlock)_
 
 This staff has 3 charges and regains 1d3 expended charges daily at dawn.
 

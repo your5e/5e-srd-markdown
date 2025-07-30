@@ -1,6 +1,6 @@
-#### **Defender**
+#### Defender
 
-*Weapon (any sword), legendary (requires attunement)*
+_Weapon (any sword), legendary (requires attunement)_
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 

@@ -1,12 +1,11 @@
-#### **Resilient Sphere**
+#### Resilient Sphere
 
-*4th-level evocation*
+_4th-level evocation_
 
-**Casting Time:** 1 action **Range:** 30 feet
-
-**Components:** V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)
-
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic)
+- **Duration:** Concentration, up to 1 minute
 
 A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the duration.
 
@@ -14,4 +13,4 @@ Nothing—not physical objects, energy, or other spell effects—can pass throug
 
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.
 
-A *disintegrate* spell targeting the globe destroys it without harming anything inside it.
+A _Disintegrate_ spell targeting the globe destroys it without harming anything inside it.

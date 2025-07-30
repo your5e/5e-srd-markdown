@@ -1,6 +1,6 @@
-# **Belt of Dwarvenkind**
+# Belt of Dwarvenkind
 
-*Wondrous item, rare (requires attunement)*
+_Wondrous item, rare (requires attunement)_
 
 While wearing this belt, you gain the following benefits:
 

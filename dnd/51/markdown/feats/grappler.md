@@ -1,6 +1,6 @@
-# **Grappler**
+# Grappler
 
-#### *Prerequisite: Strength 13 or higher*
+_Prerequisite: Strength 13 or higher_
 
 You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
 

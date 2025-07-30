@@ -1,8 +1,11 @@
-#### **Web**
+#### Web
 
-*2nd-level conjuration*
+_2nd-level conjuration_
 
-**Casting Time:** 1 action **Range:** 60 feet **Components:** V, S, M (a bit of spiderweb) **Duration:** Concentration, up to 1 hour
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a bit of spiderweb)
+- **Duration:** Concentration, up to 1 hour
 
 You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20 foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.
 

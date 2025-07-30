@@ -1,6 +1,6 @@
-# **Gem of Brightness**
+# Gem of Brightness
 
-#### *Wondrous item, uncommon*
+_Wondrous item, uncommon_
 
 This prism has 50 charges. While you are holding it, you can use an action to speak one of three command words to cause one of the following effects:
 

@@ -1,6 +1,6 @@
-# **Frost Brand**
+# Frost Brand
 
-#### *Weapon (any sword), very rare (requires attunement)*
+_Weapon (any sword), very rare (requires attunement)_
 
 When you hit with an attack using this magic sword, the target takes an extra 1d6 cold damage. In addition, while you hold the sword, you have resistance to fire damage.
 

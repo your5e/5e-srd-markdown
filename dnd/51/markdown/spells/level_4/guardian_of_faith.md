@@ -1,10 +1,11 @@
-#### **Guardian of Faith**
+#### Guardian of Faith
 
-*4th-level conjuration*
+_4th-level conjuration_
 
-**Casting Time:** 1 action **Range:** 30 feet **Components:** V
-
-#### **Duration:** 8 hours
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** 8 hours
 
 A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity.
 

@@ -1,6 +1,6 @@
-#### **Collapsing Roof**
+#### Collapsing Roof
 
-*Mechanical trap*
+_Mechanical trap_
 
 This trap uses a trip wire to collapse the supports keeping an unstable section of a ceiling in place.
 

@@ -1,6 +1,6 @@
-#### **Poison Darts**
+#### Poison Darts
 
-#### *Mechanical trap*
+_Mechanical trap_
 
 When a creature steps on a hidden pressure plate, poison-tipped darts shoot from spring-loaded or pressurized tubes cleverly embedded in the surrounding walls. An area might include multiple pressure plates, each one rigged to its own set of darts.
 

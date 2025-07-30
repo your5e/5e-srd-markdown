@@ -1,8 +1,11 @@
-#### **Irresistible Dance**
+#### Irresistible Dance
 
-*6th-level enchantment*
+_6th-level enchantment_
 
-**Casting Time:** 1 action **Range:** 30 feet **Components:** V **Duration:** Concentration, up to 1 minute
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
 
 Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can't be charmed are immune to this spell.
 

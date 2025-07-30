@@ -1,5 +1,5 @@
-#### **Helm of Comprehending Languages**
+#### Helm of Comprehending Languages
 
-*Wondrous item, uncommon*
+_Wondrous item, uncommon_
 
-While wearing this helm, you can use an action to cast the *comprehend languages* spell from it at will.
+While wearing this helm, you can use an action to cast the _Comprehend Languages_ spell from it at will.

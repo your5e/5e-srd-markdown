@@ -1,10 +1,10 @@
-## **Horn of Valhalla**
+## Horn of Valhalla
 
-*Wondrous item, rare (silver or brass), very rare (bronze), or legendary (iron)*
+_Wondrous item, rare (silver or brass), very rare (bronze), or legendary (iron)_
 
-You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker*.* They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.
+You can use an action to blow this horn. In response, warrior spirits from the Valhalla appear within 60 feet of you. They use the statistics of a berserker_._ They return to Valhalla after 1 hour or when they drop to 0 hit points. Once you use the horn, it can't be used again until 7 days have passed.
 
-Four types of *horn of Valhalla* are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.
+Four types of _Horn of Valhalla_ are known to exist, each made of a different metal. The horn's type determines how many berserkers answer its summons, as well as the requirement for its use. The GM chooses the horn's type or determines it randomly.
 
 | d100   | Horn Type   | Berserkers Summoned   | Requirement                          |
 |--------|-------------|-----------------------|--------------------------------------|

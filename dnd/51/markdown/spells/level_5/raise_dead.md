@@ -1,8 +1,11 @@
-#### **Raise Dead**
+#### Raise Dead
 
-*5th-level necromancy*
+_5th-level necromancy_
 
-**Casting Time:** 1 hour **Range:** Touch **Components:** V, S, M (a diamond worth at least 500 gp, which the spell consumes) **Duration:** Instantaneous
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (a diamond worth at least 500 gp, which the spell consumes)
+- **Duration:** Instantaneous
 
 You return a dead creature you touch to life, provided that it has been dead no longer than 10 days. If the creature's soul is both willing and at liberty to rejoin the body, the creature returns to life with 1 hit point.
 

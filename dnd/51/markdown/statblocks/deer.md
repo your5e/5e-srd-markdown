@@ -1,21 +1,19 @@
-#### **Deer**
+#### Deer
 
-*Medium beast, unaligned*
+_Medium beast, unaligned_
 
-**Armor Class** 13 **Hit Points** 4 (1d8)
-
-#### **Speed** 50 ft.
+- **Armor Class** 13
+- **Hit Points** 4 (1d8)
+- **Speed** 50 ft.
 
 | STR     | DEX     | CON     | INT    | WIS     | CHA    |
 |---------|---------|---------|--------|---------|--------|
 | 11 (+0) | 16 (+3) | 11 (+0) | 2 (-4) | 14 (+2) | 5 (-3) |
 
-**Senses** passive Perception 12
+- **Senses** passive Perception 12
+- **Languages** —
+- **Challenge** 0 (10 XP)
 
-**Languages** —
+#### Actions
 
-**Challenge** 0 (10 XP)
-
-#### **Actions**
-
-*Bite. Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage.
+- _**Bite.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) piercing damage.

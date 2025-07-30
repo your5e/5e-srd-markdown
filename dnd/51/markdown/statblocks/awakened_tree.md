@@ -1,29 +1,27 @@
-# **Awakened Tree**
+# Awakened Tree
 
-*Huge plant, unaligned*
+_Huge plant, unaligned_
 
-**Armor Class** 13 (natural armor)
+- **Armor Class** 13 (natural armor)
+- **Hit Points** 59 (7d12 + 14)
+- **Speed** 20 ft.
 
-**Hit Points** 59 (7d12 + 14)
+| STR     | DEX    | CON     | INT     | WIS     | CHA    |
+|---------|--------|---------|---------|---------|--------|
+| 19 (+4) | 6 (-2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (-2) |
 
-**Speed** 20 ft.
+- **Damage Vulnerabilities** fire
+- **Damage Resistances** bludgeoning, piercing
+- **Senses** passive Perception 10
+- **Languages** one language known by its creator
+- **Challenge** 2 (450 XP)
 
-| STR     | DEX    | CON     | INT     | WIS     | CHA    |    |
-|---------|--------|---------|---------|---------|--------|----|
-| 19 (+4) | 6 (-2) | 15 (+2) | 10 (+0) | 10 (+0) | 7 (-2) |    |
+#### Traits
 
-**Damage Vulnerabilities** fire
+- _**False Appearance.**_ While the tree remains motionless, it is indistinguishable from a normal tree.
 
-**Damage Resistances** bludgeoning, piercing **Senses** passive Perception 10
+#### Actions
 
-**Languages** one language known by its creator
+- _**Slam.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage.
 
-**Challenge** 2 (450 XP)
-
-*False Appearance.* While the tree remains motionless, it is indistinguishable from a normal tree.
-
-#### **Actions**
-
-*Slam. Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14 (3d6 + 4) bludgeoning damage.
-
-An **awakened tree** is an ordinary tree given sentience and mobility by the *awaken* spell or similar magic.
+An **awakened tree** is an ordinary tree given sentience and mobility by the _Awaken_ spell or similar magic.

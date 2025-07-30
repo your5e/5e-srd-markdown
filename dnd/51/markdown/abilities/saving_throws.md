@@ -1,4 +1,4 @@
-# **Saving Throws**
+# Saving Throws
 
 A saving throw—also called a save—represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don't normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
 

@@ -1,10 +1,11 @@
-#### **Moonbeam**
+#### Moonbeam
 
-*2nd-level evocation*
+_2nd-level evocation_
 
-**Casting Time:** 1 action **Range:** 120 feet **Components:** V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)
-
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, M (several seeds of any moonseed plant and a piece of opalescent feldspar)
+- **Duration:** Concentration, up to 1 minute
 
 A silvery beam of pale light shines down in a 5-footradius, 40-foot-high cylinder centered on a point within range. Until the spell ends, dim light fills the cylinder.
 
@@ -14,4 +15,4 @@ A shapechanger makes its saving throw with disadvantage. If it fails, it also in
 
 On each of your turns after you cast this spell, you can use an action to move the beam 60 feet in any direction.
 
-*At Higher Levels.* When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
+_**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.

@@ -1,8 +1,11 @@
-#### **Minor Illusion**
+#### Minor Illusion
 
-*Illusion cantrip*
+_Illusion cantrip_
 
-**Casting Time:** 1 action **Range:** 30 feet **Components:** S, M (a bit of fleece) **Duration:** 1 minute
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** S, M (a bit of fleece)
+- **Duration:** 1 minute
 
 You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again.
 

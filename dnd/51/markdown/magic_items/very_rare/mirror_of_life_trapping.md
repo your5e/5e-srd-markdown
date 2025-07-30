@@ -1,6 +1,6 @@
-#### **Mirror of Life Trapping**
+#### Mirror of Life Trapping
 
-*Wondrous item, very rare*
+_Wondrous item, very rare_
 
 When this 4-foot-tall mirror is viewed indirectly, its surface shows faint images of creatures. The mirror weighs 50 pounds, and it has AC 11, 10 hit points, and vulnerability to bludgeoning damage. It shatters and is destroyed when reduced to 0 hit points.
 
@@ -14,6 +14,4 @@ If the mirror traps a creature but its twelve extradimensional cells are already
 
 While within 5 feet of the mirror, you can use an action to speak the name of one creature trapped in it or call out a particular cell by number. The creature named or contained in the named cell appears as an image on the mirror's surface. You and the creature can then communicate normally.
 
-In a similar way, you can use an action to speak a second command word and free one creature
-
-trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.
+In a similar way, you can use an action to speak a second command word and free one creature trapped in the mirror. The freed creature appears, along with its possessions, in the unoccupied space nearest to the mirror and facing away from it.

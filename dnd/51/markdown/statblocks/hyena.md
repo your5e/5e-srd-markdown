@@ -1,21 +1,24 @@
-#### **Hyena**
+#### Hyena
 
-*Medium beast, unaligned*
+_Medium beast, unaligned_
 
-**Armor Class** 11
+- **Armor Class** 11
+- **Hit Points** 5 (1d8 + 1)
+- **Speed** 50 ft.
 
-**Hit Points** 5 (1d8 + 1)
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+|---------|---------|---------|--------|---------|--------|
+| 11 (+0) | 13 (+1) | 12 (+1) | 2 (-4) | 12 (+1) | 5 (-3) |
 
-**Speed** 50 ft.
+- **Skills** Perception +3
+- **Senses** passive Perception 13
+- **Languages** —
+- **Challenge** 0 (10 XP)
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
-|---------|---------|---------|--------|---------|--------|----|
-| 11 (+0) | 13 (+1) | 12 (+1) | 2 (-4) | 12 (+1) | 5 (-3) |    |
+#### Traits
 
-**Skills** Perception +3 **Senses** passive Perception 13 **Languages** — **Challenge** 0 (10 XP)
+- _**Pack Tactics.**_ The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-*Pack Tactics.* The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated.
+#### Actions
 
-#### **Actions**
-
-*Bite. Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) piercing damage.
+- _**Bite.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing damage.

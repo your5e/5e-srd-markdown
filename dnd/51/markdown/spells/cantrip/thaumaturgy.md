@@ -1,8 +1,11 @@
-## **Thaumaturgy**
+## Thaumaturgy
 
-*Transmutation cantrip*
+_Transmutation cantrip_
 
-**Casting Time:** 1 action **Range:** 30 feet **Components:** V **Duration:** Up to 1 minute
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** Up to 1 minute
 
 You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
 

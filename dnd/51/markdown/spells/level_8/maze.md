@@ -1,8 +1,11 @@
-#### **Maze**
+#### Maze
 
-*8th-level conjuration*
+_8th-level conjuration_
 
-**Casting Time:** 1 action **Range:** 60 feet **Components:** V, S **Duration:** Concentration, up to 10 minutes
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.
 

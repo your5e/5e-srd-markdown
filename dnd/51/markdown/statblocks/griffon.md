@@ -1,29 +1,26 @@
-#### **Griffon**
+#### Griffon
 
-*Large monstrosity, unaligned*
+_Large monstrosity, unaligned_
 
-**Armor Class** 12 **Hit Points** 59 (7d10 + 21)
+- **Armor Class** 12
+- **Hit Points** 59 (7d10 + 21)
+- **Speed** 30 ft., fly 80 ft.
 
-**Speed** 30 ft., fly 80 ft.
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+|---------|---------|---------|--------|---------|--------|
+| 18 (+4) | 15 (+2) | 16 (+3) | 2 (-4) | 13 (+1) | 8 (-1) |
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
-|---------|---------|---------|--------|---------|--------|----|
-| 18 (+4) | 15 (+2) | 16 (+3) | 2 (-4) | 13 (+1) | 8 (-1) |    |
+- **Skills** Perception +5
+- **Senses** darkvision 60 ft., passive Perception 15
+- **Languages** —
+- **Challenge** 2 (450 XP)
 
-**Skills** Perception +5
+#### Traits
 
-**Senses** darkvision 60 ft., passive Perception 15
+- _**Keen Sight.**_ The griffon has advantage on Wisdom (Perception) checks that rely on sight.
 
-**Languages** —
+#### Actions
 
-**Challenge** 2 (450 XP)
-
-*Keen Sight.* The griffon has advantage on Wisdom (Perception) checks that rely on sight.
-
-#### **Actions**
-
-*Multiattack.* The griffon makes two attacks: one with its beak and one with its claws.
-
-*Beak. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage.
-
-*Claws. Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+- _**Multiattack.**_ The griffon makes two attacks: one with its beak and one with its claws.
+- _**Beak.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.
+- _**Claws.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.

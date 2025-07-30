@@ -1,8 +1,11 @@
-# **Heroes' Feast**
+# Heroes' Feast
 
-*6th-level conjuration*
+_6th-level conjuration_
 
-**Casting Time:** 10 minutes **Range:** 30 feet **Components:** V, S , M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes) **Duration:** Instantaneous
+- **Casting Time:** 10 minutes
+- **Range:** 30 feet
+- **Components:** V, S , M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)
+- **Duration:** Instantaneous
 
 You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve other creatures can partake of the feast.
 

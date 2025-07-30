@@ -1,5 +1,5 @@
-# **Ring of Swimming**
+# Ring of Swimming
 
-*Ring, uncommon*
+_Ring, uncommon_
 
 You have a swimming speed of 40 feet while wearing this ring.

@@ -1,6 +1,6 @@
-#### **Giant Slayer**
+#### Giant Slayer
 
-#### *Weapon (any axe or sword), rare*
+_Weapon (any axe or sword), rare_
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 

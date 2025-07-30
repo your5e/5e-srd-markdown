@@ -1,8 +1,11 @@
-#### **Grease**
+#### Grease
 
-*1st-level conjuration*
+_1st-level conjuration_
 
-**Casting Time:** 1 action **Range:** 60 feet **Components:** V, S, M (a bit of pork rind or butter) **Duration:** 1 minute
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a bit of pork rind or butter)
+- **Duration:** 1 minute
 
 Slick grease covers the ground in a 10-foot square centered on a point within range and turns it into difficult terrain for the duration.
 

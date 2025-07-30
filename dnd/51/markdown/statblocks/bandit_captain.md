@@ -1,36 +1,30 @@
-#### **Bandit Captain**
+#### Bandit Captain
 
-*Medium humanoid (any race), any non-lawful alignment*
+_Medium humanoid (any race), any non-lawful alignment_
 
-**Armor Class** 15 (studded leather)
+- **Armor Class** 15 (studded leather)
+- **Hit Points** 65 (10d8 + 20)
+- **Speed** 30 ft.
 
-**Hit Points** 65 (10d8 + 20)
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 14 (+2) |
 
-**Speed** 30 ft.
+- **Saving Throws** Str +4, Dex +5, Wis +2
+- **Skills** Athletics +4, Deception +4
+- **Senses** passive Perception 10
+- **Languages** any two languages
+- **Challenge** 2 (450 XP)
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |    |
-|---------|---------|---------|---------|---------|---------|----|
-| 15 (+2) | 16 (+3) | 14 (+2) | 14 (+2) | 11 (+0) | 14 (+2) |    |
+#### Actions
 
-**Saving Throws** Str +4, Dex +5, Wis +2
+- _**Multiattack.**_ The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
+- _**Scimitar.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
+- _**Dagger.** Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.
 
-**Skills** Athletics +4, Deception +4 **Senses** passive Perception 10
+#### Reactions
 
-**Languages** any two languages
-
-**Challenge** 2 (450 XP)
-
-#### **Actions**
-
-*Multiattack.* The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
-
-*Scimitar. Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
-
-*Dagger. Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
-
-#### **Reactions**
-
-*Parry.* The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
+- _**Parry.**_ The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The **bandit captain** has these qualities in spades.
 

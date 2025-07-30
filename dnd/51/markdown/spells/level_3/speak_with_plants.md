@@ -1,8 +1,11 @@
-#### **Speak with Plants**
+#### Speak with Plants
 
-*3rd-level transmutation*
+_3rd-level transmutation_
 
-**Casting Time:** 1 action **Range:** Self (30-foot radius) **Components:** V, S **Duration:** 10 minutes
+- **Casting Time:** 1 action
+- **Range:** Self (30-foot radius)
+- **Components:** V, S
+- **Duration:** 10 minutes
 
 You imbue plants within 30 feet of you with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
 
@@ -12,4 +15,4 @@ Plants might be able to perform other tasks on your behalf, at the GM's discreti
 
 If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.
 
-This spell can cause the plants created by the *entangle* spell to release a restrained creature.
+This spell can cause the plants created by the _Entangle_ spell to release a restrained creature.

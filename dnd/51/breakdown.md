@@ -97,7 +97,7 @@ If you note any errors in this document, please let us know by emailing askdnd@w
 @include  markdown/classes/warlock/warlock_spells.md
 @include- markdown/classes/wizard/wizard_spells.md
 
-# **Spell Descriptions**
+# Spell Descriptions
 
 @include  markdown/spells/level_2/acid_arrow.md
 @include  markdown/spells/cantrip/acid_splash.md
@@ -421,7 +421,7 @@ If you note any errors in this document, please let us know by emailing askdnd@w
 
 @include- markdown/traps/traps.md
 
-# **Sample Traps**
+# Sample Traps
 
 The magical and mechanical traps presented here vary in deadliness and are presented in alphabetical order.
 
@@ -447,7 +447,7 @@ The magical and mechanical traps presented here vary in deadliness and are prese
 
 @include- markdown/magic_items/magic_items.md
 
-# **Magic Items A-Z**
+# Magic Items A-Z
 
 Magic items are presented in alphabetical order. A magic item's description gives the item's name, its category, its rarity, and its magical properties.
 
@@ -693,23 +693,23 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/magic_items/rare/wings_of_flying.md
 @include- markdown/magic_items/sentient_magic_items.md
 
-# **Artifacts**
+# Artifacts
 
 @include- markdown/magic_items/artifact/orb_of_dragonkind.md
 
 @include- markdown/statblocks/monsters.md
 
-# **Monsters (A)**
+# Monsters (A)
 
 @include- markdown/statblocks/aboleth.md
 
-# **Angels**
+# Angels
 
 @include  markdown/statblocks/deva.md
 @include  markdown/statblocks/planetar.md
 @include- markdown/statblocks/solar.md
 
-# **Animated Objects**
+# Animated Objects
 
 @include  markdown/statblocks/animated_armor.md
 @include  markdown/statblocks/flying_sword.md
@@ -718,14 +718,14 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/ankheg.md
 @include- markdown/statblocks/azer.md
 
-# **Monsters (B)**
+# Monsters (B)
 
 @include  markdown/statblocks/basilisk.md
 @include  markdown/statblocks/behir.md
 @include  markdown/statblocks/bugbear.md
 @include- markdown/statblocks/bulette.md
 
-# **Monsters (C)**
+# Monsters (C)
 
 @include  markdown/statblocks/centaur.md
 @include  markdown/statblocks/chimera.md
@@ -734,11 +734,11 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/cockatrice.md
 @include- markdown/statblocks/couatl.md
 
-# **Monsters (D)**
+# Monsters (D)
 
 @include- markdown/statblocks/darkmantle.md
 
-# **Demons**
+# Demons
 
 @include  markdown/statblocks/balor.md
 @include  markdown/statblocks/dretch.md
@@ -749,7 +749,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/quasit.md
 @include- markdown/statblocks/vrock.md
 
-# **Devils**
+# Devils
 
 @include  markdown/statblocks/barbed_devil.md
 @include  markdown/statblocks/bearded_devil.md
@@ -762,7 +762,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/lemure.md
 @include- markdown/statblocks/pit_fiend.md
 
-# **Dinosaurs**
+# Dinosaurs
 
 @include  markdown/statblocks/plesiosaurus.md
 @include  markdown/statblocks/triceratops.md
@@ -770,74 +770,74 @@ Magic items are presented in alphabetical order. A magic item's description give
 
 @include- markdown/statblocks/doppelganger.md
 
-# **Dragons, Chromatic**
+# Dragons, Chromatic
 
-# **Black Dragon**
+# Black Dragon
 
 @include  markdown/statblocks/ancient_black_dragon.md
 @include  markdown/statblocks/adult_black_dragon.md
 @include  markdown/statblocks/young_black_dragon.md
 @include- markdown/statblocks/black_dragon_wyrmling.md
 
-#### **Blue Dragon**
+#### Blue Dragon
 
 @include  markdown/statblocks/ancient_blue_dragon.md
 @include  markdown/statblocks/adult_blue_dragon.md
 @include  markdown/statblocks/young_blue_dragon.md
 @include- markdown/statblocks/blue_dragon_wyrmling.md
 
-## **Green Dragon**
+## Green Dragon
 
 @include  markdown/statblocks/ancient_green_dragon.md
 @include  markdown/statblocks/adult_green_dragon.md
 @include  markdown/statblocks/young_green_dragon.md
 @include- markdown/statblocks/green_dragon_wyrmling.md
 
-## **Red Dragon**
+## Red Dragon
 
 @include  markdown/statblocks/ancient_red_dragon.md
 @include  markdown/statblocks/adult_red_dragon.md
 @include  markdown/statblocks/young_red_dragon.md
 @include- markdown/statblocks/red_dragon_wyrmling.md
 
-## **White Dragon**
+## White Dragon
 
 @include  markdown/statblocks/ancient_white_dragon.md
 @include  markdown/statblocks/adult_white_dragon.md
 @include  markdown/statblocks/young_white_dragon.md
 @include- markdown/statblocks/white_dragon_wyrmling.md
 
-# **Dragons, Metallic**
+# Dragons, Metallic
 
-#### **Brass Dragon**
+#### Brass Dragon
 
 @include  markdown/statblocks/ancient_brass_dragon.md
 @include  markdown/statblocks/adult_brass_dragon.md
 @include  markdown/statblocks/young_brass_dragon.md
 @include- markdown/statblocks/brass_dragon_wyrmling.md
 
-## **Bronze Dragon**
+## Bronze Dragon
 
 @include  markdown/statblocks/ancient_bronze_dragon.md
 @include  markdown/statblocks/adult_bronze_dragon.md
 @include  markdown/statblocks/young_bronze_dragon.md
 @include- markdown/statblocks/bronze_dragon_wyrmling.md
 
-## **Copper Dragon**
+## Copper Dragon
 
 @include  markdown/statblocks/ancient_copper_dragon.md
 @include  markdown/statblocks/adult_copper_dragon.md
 @include  markdown/statblocks/young_copper_dragon.md
 @include- markdown/statblocks/copper_dragon_wyrmling.md
 
-## **Gold Dragon**
+## Gold Dragon
 
 @include  markdown/statblocks/ancient_gold_dragon.md
 @include  markdown/statblocks/adult_gold_dragon.md
 @include  markdown/statblocks/young_gold_dragon.md
 @include- markdown/statblocks/gold_dragon_wyrmling.md
 
-#### **Silver Dragon**
+#### Silver Dragon
 
 @include  markdown/statblocks/ancient_silver_dragon.md
 @include  markdown/statblocks/adult_silver_dragon.md
@@ -850,9 +850,9 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/dryad.md
 @include- markdown/statblocks/duergar.md
 
-# **Monsters (E)**
+# Monsters (E)
 
-# **Elementals**
+# Elementals
 
 @include  markdown/statblocks/air_elemental.md
 @include  markdown/statblocks/earth_elemental.md
@@ -863,30 +863,30 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/ettercap.md
 @include- markdown/statblocks/ettin.md
 
-# **Monsters (F)**
+# Monsters (F)
 
-# **Fungi**
+# Fungi
 
 @include  markdown/statblocks/shrieker.md
 @include- markdown/statblocks/violet_fungus.md
 
-# **Monsters (G)**
+# Monsters (G)
 
 @include- markdown/statblocks/gargoyle.md
 
-# **Genies**
+# Genies
 
 @include  markdown/statblocks/djinni.md
 @include- markdown/statblocks/efreeti.md
 
 @include- markdown/statblocks/ghost.md
 
-# **Ghouls**
+# Ghouls
 
 @include  markdown/statblocks/ghast.md
 @include- markdown/statblocks/ghoul.md
 
-# **Giants**
+# Giants
 
 @include  markdown/statblocks/cloud_giant.md
 @include  markdown/statblocks/fire_giant.md
@@ -900,7 +900,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/gnome_deep_svirfneblin.md
 @include- markdown/statblocks/goblin.md
 
-# **Golems**
+# Golems
 
 @include  markdown/statblocks/clay_golem.md
 @include  markdown/statblocks/flesh_golem.md
@@ -912,9 +912,9 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/griffon.md
 @include- markdown/statblocks/grimlock.md
 
-# **Monsters (H)**
+# Monsters (H)
 
-# **Hags**
+# Hags
 
 @include  markdown/statblocks/green_hag.md
 @include  markdown/statblocks/night_hag.md
@@ -928,22 +928,22 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/homunculus.md
 @include- markdown/statblocks/hydra.md
 
-# **Monsters (I)**
+# Monsters (I)
 
 @include- markdown/statblocks/invisible_stalker.md
 
-# **Monsters (K)**
+# Monsters (K)
 
 @include  markdown/statblocks/kobold.md
 @include- markdown/statblocks/kraken.md
 
-# **Monsters (L)**
+# Monsters (L)
 
 @include  markdown/statblocks/lamia.md
 @include  markdown/statblocks/lich.md
 @include- markdown/statblocks/lizardfolk.md
 
-# **Lycanthropes**
+# Lycanthropes
 
 @include  markdown/statblocks/werebear.md
 @include  markdown/statblocks/wereboar.md
@@ -951,13 +951,13 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/weretiger.md
 @include- markdown/statblocks/werewolf.md
 
-# **Monsters (M)**
+# Monsters (M)
 
 @include  markdown/statblocks/magmin.md
 @include  markdown/statblocks/manticore.md
 @include- markdown/statblocks/medusa.md
 
-# **Mephits**
+# Mephits
 
 @include  markdown/statblocks/dust_mephit.md
 @include  markdown/statblocks/ice_mephit.md
@@ -969,26 +969,26 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/mimic.md
 @include- markdown/statblocks/minotaur.md
 
-# **Mummies**
+# Mummies
 
 @include  markdown/statblocks/mummy.md
 @include- markdown/statblocks/mummy_lord.md
 
-# **Monsters (N)**
+# Monsters (N)
 
-# **Nagas**
+# Nagas
 
 @include  markdown/statblocks/guardian_naga.md
 @include- markdown/statblocks/spirit_naga.md
 
 @include- markdown/statblocks/nightmare.md
 
-# **Monsters (O)**
+# Monsters (O)
 
 @include  markdown/statblocks/ogre.md
 @include- markdown/statblocks/oni.md
 
-# **Oozes**
+# Oozes
 
 @include  markdown/statblocks/black_pudding.md
 @include  markdown/statblocks/gelatinous_cube.md
@@ -999,13 +999,13 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/otyugh.md
 @include- markdown/statblocks/owlbear.md
 
-# **Monsters (P)**
+# Monsters (P)
 
 @include  markdown/statblocks/pegasus.md
 @include  markdown/statblocks/pseudodragon.md
 @include- markdown/statblocks/purple_worm.md
 
-# **Monsters (R)**
+# Monsters (R)
 
 @include  markdown/statblocks/rakshasa.md
 @include  markdown/statblocks/remorhaz.md
@@ -1013,7 +1013,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/roper.md
 @include- markdown/statblocks/rust_monster.md
 
-# **Monsters (S)**
+# Monsters (S)
 
 @include  markdown/statblocks/sahuagin.md
 @include  markdown/statblocks/salamander.md
@@ -1022,7 +1022,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/shambling_mound.md
 @include- markdown/statblocks/shield_guardian.md
 
-# **Skeletons**
+# Skeletons
 
 @include  markdown/statblocks/skeleton.md
 @include  markdown/statblocks/minotaur_skeleton.md
@@ -1030,7 +1030,7 @@ Magic items are presented in alphabetical order. A magic item's description give
 
 @include- markdown/statblocks/specter.md
 
-# **Sphinxes**
+# Sphinxes
 
 @include  markdown/statblocks/androsphinx.md
 @include- markdown/statblocks/gynosphinx.md
@@ -1039,37 +1039,37 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/statblocks/stirge.md
 @include- markdown/statblocks/succubus_incubus.md
 
-# **Monsters (T)**
+# Monsters (T)
 
 @include  markdown/statblocks/tarrasque.md
 @include  markdown/statblocks/treant.md
 @include- markdown/statblocks/troll.md
 
-# **Monsters (U)**
+# Monsters (U)
 
 @include- markdown/statblocks/unicorn.md
 
-# **Monsters (V)**
+# Monsters (V)
 
-# **Vampires**
+# Vampires
 
 @include  markdown/statblocks/vampire.md
 @include- markdown/statblocks/vampire_spawn.md
 
-# **Monsters (W)**
+# Monsters (W)
 
 @include  markdown/statblocks/wight.md
 @include  markdown/statblocks/will_o_wisp.md
 @include  markdown/statblocks/wraith.md
 @include- markdown/statblocks/wyvern.md
 
-# **Monsters (X)**
+# Monsters (X)
 
 @include- markdown/statblocks/xorn.md
 
-# **Monsters (Z)**
+# Monsters (Z)
 
-# **Zombies**
+# Zombies
 
 @include  markdown/statblocks/zombie.md
 @include- markdown/statblocks/ogre_zombie.md
@@ -1099,9 +1099,9 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include  markdown/gods/norse_deities.md
 @include- markdown/planes/the_planes_of_existence.md
 
-# **Appendix MM-A: Miscellaneous**
+# Appendix MM-A: Miscellaneous
 
-# **Creatures**
+# Creatures
 
 This appendix contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
 
@@ -1202,7 +1202,7 @@ This appendix contains statistics for various animals, vermin, and other critter
 @include  markdown/statblocks/wolf.md
 @include- markdown/statblocks/worg.md
 
-# **Appendix MM-B: Nonplayer Characters**
+# Appendix MM-B: Nonplayer Characters
 
 This appendix contains statistics for various humanoid nonplayer characters (NPCs) that adventurers might encounter during a campaign, including lowly commoners and mighty archmages. These stat blocks can be used to represent both human and nonhuman NPCs.
 

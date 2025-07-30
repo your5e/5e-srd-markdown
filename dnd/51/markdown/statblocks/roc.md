@@ -1,33 +1,27 @@
-#### **Roc**
+#### Roc
 
-*Gargantuan monstrosity, unaligned*
+_Gargantuan monstrosity, unaligned_
 
-**Armor Class** 15 (natural armor)
+- **Armor Class** 15 (natural armor)
+- **Hit Points** 248 (16d20 + 80)
+- **Speed** 20 ft., fly 120 ft.
 
-**Hit Points** 248 (16d20 + 80)
+| STR     | DEX     | CON     | INT    | WIS     | CHA    |
+|---------|---------|---------|--------|---------|--------|
+| 28 (+9) | 10 (+0) | 20 (+5) | 3 (-4) | 10 (+0) | 9 (-1) |
 
-**Speed** 20 ft., fly 120 ft.
+- **Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
+- **Skills** Perception +4
+- **Senses** passive Perception 14
+- **Languages** —
+- **Challenge** 11 (7,200 XP)
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |    |
-|---------|---------|---------|--------|---------|--------|----|
-| 28 (+9) | 10 (+0) | 20 (+5) | 3 (-4) | 10 (+0) | 9 (-1) |    |
+#### Traits
 
-**Saving Throws** Dex +4, Con +9, Wis +4, Cha +3
+- _**Keen Sight.**_ The roc has advantage on Wisdom (Perception) checks that rely on sight.
 
-**Skills** Perception +4
+#### Actions
 
-**Senses** passive Perception 14
-
-**Languages** —
-
-**Challenge** 11 (7,200 XP)
-
-*Keen Sight.* The roc has advantage on Wisdom (Perception) checks that rely on sight.
-
-#### **Actions**
-
-*Multiattack.* The roc makes two attacks: one with its beak and one with its talons.
-
-*Beak. Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 27 (4d8 + 9) piercing damage.
-
-*Talons. Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+- _**Multiattack.**_ The roc makes two attacks: one with its beak and one with its talons.
+- _**Beak.** Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 27 (4d8 + 9) piercing damage.
+- _**Talons.** Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.

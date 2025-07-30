@@ -1,8 +1,11 @@
-### **Polymorph**
+### Polymorph
 
-*4th-level transmutation*
+_4th-level transmutation_
 
-**Casting Time:** 1 action **Range:** 60 feet **Components:** V, S, M (a caterpillar cocoon) **Duration:** Concentration, up to 1 hour
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a caterpillar cocoon)
+- **Duration:** Concentration, up to 1 hour
 
 This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points.
 

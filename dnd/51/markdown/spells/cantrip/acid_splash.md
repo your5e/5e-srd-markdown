@@ -1,8 +1,11 @@
-## **Acid Splash**
+## Acid Splash
 
-*Conjuration cantrip*
+_Conjuration cantrip_
 
-**Casting Time:** 1 action **Range:** 60 feet **Components:** V, S **Duration:** Instantaneous
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You hurl a bubble of acid. Choose one creature within range, or choose two creatures within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
 

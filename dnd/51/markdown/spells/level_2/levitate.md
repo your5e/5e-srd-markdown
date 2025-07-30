@@ -1,12 +1,11 @@
-#### **Levitate**
+#### Levitate
 
-*2nd-level transmutation*
+_2nd-level transmutation_
 
-**Casting Time:** 1 action **Range:** 60 feet
-
-**Components:** V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)
-
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (either a small leather loop or a piece of golden wire bent into a cup shape with a long shank on one end)
+- **Duration:** Concentration, up to 10 minutes
 
 One creature or object of your choice that you can see within range rises vertically, up to 20 feet, and remains suspended there for the duration. The spell can levitate a target that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
 

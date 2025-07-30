@@ -1,5 +1,5 @@
-#### **Boots of Levitation**
+#### Boots of Levitation
 
-#### *Wondrous item, rare (requires attunement)*
+_Wondrous item, rare (requires attunement)_
 
-While you wear these boots, you can use an action to cast the *levitate* spell on yourself at will.
+While you wear these boots, you can use an action to cast the _Levitate_ spell on yourself at will.

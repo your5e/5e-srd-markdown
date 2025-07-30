@@ -1,8 +1,11 @@
-## **Wind Wall**
+## Wind Wall
 
-*3rd-level evocation*
+_3rd-level evocation_
 
-**Casting Time:** 1 action **Range:** 120 feet **Components:** V, S, M (a tiny fan and a feather of exotic origin) **Duration:** Concentration, up to 1 minute
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S, M (a tiny fan and a feather of exotic origin)
+- **Duration:** Concentration, up to 1 minute
 
 A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.
 

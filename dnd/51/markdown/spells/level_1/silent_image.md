@@ -1,8 +1,11 @@
-## **Silent Image**
+## Silent Image
 
-*1st-level illusion*
+_1st-level illusion_
 
-**Casting Time:** 1 action **Range:** 60 feet **Components:** V, S, M (a bit of fleece) **Duration:** Concentration, up to 10 minutes
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a bit of fleece)
+- **Duration:** Concentration, up to 10 minutes
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
 

@@ -1,5 +1,5 @@
-## **Hat of Disguise**
+## Hat of Disguise
 
-*Wondrous item, uncommon (requires attunement)*
+_Wondrous item, uncommon (requires attunement)_
 
-While wearing this hat, you can use an action to cast the *disguise self* spell from it at will. The spell ends if the hat is removed.
+While wearing this hat, you can use an action to cast the _Disguise Self_ spell from it at will. The spell ends if the hat is removed.

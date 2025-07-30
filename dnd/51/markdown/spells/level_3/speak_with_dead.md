@@ -1,10 +1,11 @@
-#### **Speak with Dead**
+#### Speak with Dead
 
-*3rd-level necromancy*
+_3rd-level necromancy_
 
-**Casting Time:** 1 action **Range:** 10 feet
-
-#### **Components:** V, S, M (burning incense) **Duration:** 10 minutes
+- **Casting Time:** 1 action
+- **Range:** 10 feet
+- **Components:** V, S, M (burning incense)
+- **Duration:** 10 minutes
 
 You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer the questions you pose. The corpse must still have a mouth and can't be undead. The spell fails if the corpse was the target of this spell within the last 10 days.
 

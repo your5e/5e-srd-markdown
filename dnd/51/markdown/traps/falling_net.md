@@ -1,6 +1,6 @@
-#### **Falling Net**
+#### Falling Net
 
-#### *Mechanical trap*
+_Mechanical trap_
 
 This trap uses a trip wire to release a net suspended from the ceiling.
 

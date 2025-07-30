@@ -1,5 +1,5 @@
-# **Potion of Heroism**
+# Potion of Heroism
 
-#### *Potion, rare*
+_Potion, rare_
 
-For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the *bless* spell (no concentration required). This blue potion bubbles and steams as if boiling.
+For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the _Bless_ spell (no concentration required). This blue potion bubbles and steams as if boiling.

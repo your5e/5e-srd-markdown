@@ -1,8 +1,11 @@
-## **Conjure Minor Elementals**
+## Conjure Minor Elementals
 
-*4th-level conjuration*
+_4th-level conjuration_
 
-**Casting Time:** 1 minute **Range:** 90 feet **Components:** V, S **Duration:** Concentration, up to 1 hour
+- **Casting Time:** 1 minute
+- **Range:** 90 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
 
 You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears:
 
@@ -19,4 +22,4 @@ The summoned creatures are friendly to you and your companions. Roll initiative 
 
 The GM has the creatures' statistics.
 
-*At Higher Levels.* When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.
+_**At Higher Levels.**_ When you cast this spell using certain higher-level spell slots, you choose one of the summoning options above, and more creatures appear: twice as many with a 6th-level slot and three times as many with an 8th-level slot.

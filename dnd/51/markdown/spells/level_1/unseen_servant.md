@@ -1,8 +1,11 @@
-#### **Unseen Servant**
+#### Unseen Servant
 
-*1st-level conjuration (ritual)*
+_1st-level conjuration (ritual)_
 
-**Casting Time:** 1 action **Range:** 60 feet **Components:** V, S, M (a piece of string and a bit of wood) **Duration:** 1 hour
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a piece of string and a bit of wood)
+- **Duration:** 1 hour
 
 This spell creates an invisible, mindless, shapeless force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 hit point, and a Strength of 2, and it can't attack. If it drops to 0 hit points, the spell ends.
 

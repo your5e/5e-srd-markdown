@@ -1,8 +1,11 @@
-## **Arcane Eye**
+## Arcane Eye
 
-*4th-level divination*
+_4th-level divination_
 
-**Casting Time:** 1 action **Range:** 30 feet **Components:** V, S, M (a bit of bat fur) **Duration:** Concentration, up to 1 hour
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (a bit of bat fur)
+- **Duration:** Concentration, up to 1 hour
 
 You create an invisible, magical eye within range that hovers in the air for the duration.
 
