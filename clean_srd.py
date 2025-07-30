@@ -419,6 +419,19 @@ def warn_inconsistent_list_formatting(lines, index):
     return None
 
 
+def warn_table_after_header(lines, index):
+    # table immediately after header might mean the header is part of the table
+    if (
+        index > 1
+        and lines[index].startswith('|')
+        and lines[index - 1] == ''
+        and lines[index - 2].startswith('#')
+    ):
+        return "table immediately after header"
+
+    return None
+
+
 def warn_unusual_unicode(lines, index):
     # let's not be too clever
     unusual_chars = set()
@@ -434,6 +447,7 @@ def warn_srd(lines):
         warn_table_runon,
         warn_midpara_italics,
         warn_inconsistent_list_formatting,
+        warn_table_after_header,
         warn_unusual_unicode,
     ]
 

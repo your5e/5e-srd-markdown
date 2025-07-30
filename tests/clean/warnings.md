@@ -40,3 +40,14 @@ not detected:
 Some unicode (weird whitespace, using minus `−` instead of hyphen `-`)
 is automatically replaced. Anything else that is out of the ordinary,
 (such as `⁵`) is flagged.
+
+# Table titles as headers
+
+The bold of some table headers is converted as a header.
+
+#### d100 Communication
+
+| 01–60   | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                                             |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 61–90   | The item can speak, read, and understand one or more languages.                                                                                                    |
+| 91–00   | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |

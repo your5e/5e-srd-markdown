@@ -33,6 +33,7 @@ setup() {
 
 @test "processes clean SRD content without errors" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
+        Warning: # The Barbarian, 12: table immediately after header
         Warning: # The Barbarian, 27: possible table run-on
         Warning: #### Traits, 249: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
         EOF
@@ -48,6 +49,7 @@ setup() {
 
 @test "clean can be run twice with no extraneous changes" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
+        Warning: # The Barbarian, 12: table immediately after header
         Warning: # The Barbarian, 27: possible table run-on
         Warning: #### Traits, 249: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
         EOF
@@ -71,6 +73,7 @@ setup() {
 
 @test "warn flag doesn't modify source file" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
+        Warning: # **The Barbarian**, 15: table immediately after header
         Warning: # **The Barbarian**, 30: possible table run-on
         Warning: ## **Equipment**, 86: possible table run-on
         Warning: #### **Black Pudding**, 135: unusual Unicode characters: U+2212
@@ -98,6 +101,7 @@ setup() {
         Warning: # Mid-paragraph italic, 33: possible mistaken mid-paragraph italic: 'Claw. Melee Weapon Attack:'
         Warning: # Unusual unicode, 40: unusual Unicode characters: U+2212
         Warning: # Unusual unicode, 42: unusual Unicode characters: U+2075
+        Warning: #### d100 Communication, 50: table immediately after header
         EOF
     )
 
