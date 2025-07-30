@@ -6,25 +6,22 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 - _**Senses.**_ The half-dragon gains blindsight with a radius of 10 feet and darkvision with a radius of 60 feet.
 - _**Resistances.**_ The half-dragon gains resistance to a type of damage based on its color.
 
-| Color           | Damage Resistance   |
-|-----------------|---------------------|
-| Black or copper | Acid                |
-| Blue or bronze  | Lightning           |
-
-| Fire   |
-|--------|
-| Poison |
-| Cold   |
+| Color               | Damage Resistance   |
+|---------------------|---------------------|
+| Black or copper     | Acid                |
+| Blue or bronze      | Lightning           |
+| Brass, gold, or red | Fire                |
+| Green               | Poison              |
+| Silver or white     | Cold                |
 
 - _**Languages.**_ The half-dragon speaks Draconic in addition to any other languages it knows.
 - _**New Action: Breath Weapon.**_ The half-dragon has the breath weapon of its dragon half. The halfdragon's size determines how this action functions.
 
-|                  |                    | Optional              |
-|------------------|--------------------|-----------------------|
-| Size             | Breath Weapon      | Prerequisite          |
-| Large or smaller | As a wyrmling      | Challenge 2 or higher |
-| Huge             | As a young dragon  | Challenge 7 or higher |
-| Gargantuan       | As an adult dragon | Challenge 8 or higher |
+| Size             | Breath Weapon      | Optional Prerequisite   |
+|------------------|--------------------|-------------------------|
+| Large or smaller | As a wyrmling      | Challenge 2 or higher   |
+| Huge             | As a young dragon  | Challenge 7 or higher   |
+| Gargantuan       | As an adult dragon | Challenge 8 or higher   |
 
 ## Half-Red Dragon Veteran
 

@@ -54,32 +54,32 @@ Warning: #### Animated Object Statistics, 5465: table immediately after header
 Warning: ## Precipitation, 6371: table immediately after header
 Warning: ## Temperature, 6381: table immediately after header
 Warning: #### Wind, 6392: table immediately after header
-Warning: ### Trap Save DCs and Attack Bonuses, 10357: table immediately after header
-Warning: ## Damage Severity by Level, 10365: table immediately after header
-Warning: ## Short-Term Madness, 10556: table immediately after header
-Warning: ## Long-Term Madness, 10571: table immediately after header
-Warning: #### Indefinite Madness, 10588: table immediately after header
-Warning: #### Object Armor Class, 10633: table immediately after header
-Warning: #### Object Hit Points, 10647: table immediately after header
-Warning: #### Poisons, 10671: table immediately after header
-Warning: #### Apparatus of the Crab Levers, 10824: table immediately after header
-Warning: #### Cube of Force Faces, 11257: table immediately after header
-Warning: # Potions of Healing, 12316: table immediately after header
-Warning: #### Spell Scroll, 12814: table immediately after header
-Warning: ## Special Purpose, 13347: possible mistaken mid-paragraph italic: 'Aligned:'
-Warning: ## Special Purpose, 13349: possible mistaken mid-paragraph italic: 'Protector:'
-Warning: ## Special Purpose, 13350: possible mistaken mid-paragraph italic: 'Crusader:'
-Warning: ## Special Purpose, 13352: possible mistaken mid-paragraph italic: 'Destroyer:'
-Warning: ## Special Purpose, 13353: possible mistaken mid-paragraph italic: 'Glory Seeker:'
-Warning: ## Special Purpose, 13354: possible mistaken mid-paragraph italic: 'Lore Seeker:'
-Warning: ## Special Purpose, 13355: possible mistaken mid-paragraph italic: 'Destiny Seeker:'
-Warning: ## Special Purpose, 13356: possible mistaken mid-paragraph italic: 'Creator Seeker:'
-Warning: ## Size Categories, 13416: table immediately after header
-Warning: ### Hit Dice by Size, 13478: table immediately after header
-Warning: # Proficiency Bonus by Challenge Rating, 13525: table immediately after header
-Warning: #### Experience Points by Challenge Rating, 13632: table immediately after header
-Warning: #### Melee and Ranged Attacks, 13688: possible mistaken mid-paragraph italic: 'Miss:'
-Warning: ## Celtic Deities, 20412: table immediately after header
-Warning: ## Greek Deities, 20431: table immediately after header
-Warning: ## Egyptian Deities, 20455: table immediately after header
-Warning: # Norse Deities, 20474: table immediately after header
+Warning: ### Trap Save DCs and Attack Bonuses, 10356: table immediately after header
+Warning: ## Damage Severity by Level, 10364: table immediately after header
+Warning: ## Short-Term Madness, 10555: table immediately after header
+Warning: ## Long-Term Madness, 10570: table immediately after header
+Warning: #### Indefinite Madness, 10587: table immediately after header
+Warning: #### Object Armor Class, 10632: table immediately after header
+Warning: #### Object Hit Points, 10646: table immediately after header
+Warning: #### Poisons, 10670: table immediately after header
+Warning: #### Apparatus of the Crab Levers, 10823: table immediately after header
+Warning: #### Cube of Force Faces, 11256: table immediately after header
+Warning: # Potions of Healing, 12315: table immediately after header
+Warning: #### Spell Scroll, 12813: table immediately after header
+Warning: ## Special Purpose, 13346: possible mistaken mid-paragraph italic: 'Aligned:'
+Warning: ## Special Purpose, 13348: possible mistaken mid-paragraph italic: 'Protector:'
+Warning: ## Special Purpose, 13349: possible mistaken mid-paragraph italic: 'Crusader:'
+Warning: ## Special Purpose, 13351: possible mistaken mid-paragraph italic: 'Destroyer:'
+Warning: ## Special Purpose, 13352: possible mistaken mid-paragraph italic: 'Glory Seeker:'
+Warning: ## Special Purpose, 13353: possible mistaken mid-paragraph italic: 'Lore Seeker:'
+Warning: ## Special Purpose, 13354: possible mistaken mid-paragraph italic: 'Destiny Seeker:'
+Warning: ## Special Purpose, 13355: possible mistaken mid-paragraph italic: 'Creator Seeker:'
+Warning: ## Size Categories, 13415: table immediately after header
+Warning: ### Hit Dice by Size, 13477: table immediately after header
+Warning: # Proficiency Bonus by Challenge Rating, 13524: table immediately after header
+Warning: #### Experience Points by Challenge Rating, 13631: table immediately after header
+Warning: #### Melee and Ranged Attacks, 13687: possible mistaken mid-paragraph italic: 'Miss:'
+Warning: ## Celtic Deities, 20408: table immediately after header
+Warning: ## Greek Deities, 20427: table immediately after header
+Warning: ## Egyptian Deities, 20451: table immediately after header
+Warning: # Norse Deities, 20470: table immediately after header
