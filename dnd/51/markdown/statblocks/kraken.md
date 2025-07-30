@@ -40,5 +40,4 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 - **Tentacle Attack or Fling.** The kraken makes one tentacle attack or uses its Fling.
 - **Lightning Storm (Costs 2 Actions).** The kraken uses Lightning Storm.
-
-**Ink Cloud (Costs 3 Actions).** While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.
+- **Ink Cloud (Costs 3 Actions).** While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.

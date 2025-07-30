@@ -18,8 +18,7 @@ _Large construct, unaligned_
 
 #### Traits
 
-_Fire Absorption_. Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
-
+- _**Fire Absorption.**_ Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
 - _**Immutable Form.**_ The golem is immune to any spell or effect that would alter its form.
 - _**Magic Resistance.**_ The golem has advantage on saving throws against spells and other magical effects.
 - _**Magic Weapons.**_ The golem's weapon attacks are magical.

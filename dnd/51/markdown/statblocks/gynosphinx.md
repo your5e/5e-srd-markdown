@@ -36,7 +36,6 @@ _Large monstrosity, lawful neutral_
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 
-**Claw Attack.** The sphinx makes one claw attack.
-
+- **Claw Attack.** The sphinx makes one claw attack.
 - **Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 - **Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.

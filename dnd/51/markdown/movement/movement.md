@@ -30,15 +30,11 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
 
 #### Pace Distance Traveled per . . .
 
-|        | Minute   | Hour   | Day   | Effect                |
-|--------|----------|--------|-------|-----------------------|
-| Fast   | 400      | 4      | 30    | -5 penalty to passive |
-|        | feet     | miles  | miles | Wisdom (Perception)   |
-|        |          |        |       | scores                |
-| Normal | 300      | 3      | 24    | —                     |
-|        | feet     | miles  | miles |                       |
-| Slow   | 200      | 2      | 18    | Able to use stealth   |
-|        | feet     | miles  | miles |                       |
+| Pace   | Distance Traveled per Minute   | ...Hour   | ...Day   | Effect                                           |
+|--------|--------------------------------|-----------|----------|--------------------------------------------------|
+| Fast   | 400 feet                       | 4 miles   | 30 miles | -5 penalty to passive Wisdom (Perception) scores |
+| Normal | 300 feet                       | 3 miles   | 24 miles | —                                                |
+| Slow   | 200 feet                       | 2 miles   | 18 miles | Able to use stealth                              |
 
 #### Difficult Terrain
 

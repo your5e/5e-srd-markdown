@@ -17,7 +17,7 @@ _Gargantuan monstrosity, unaligned_
 
 #### Traits
 
-_Tunneler_. The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
+- _**Tunneler.**_ The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
 
 #### Actions
 

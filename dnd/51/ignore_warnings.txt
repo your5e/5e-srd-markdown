@@ -18,68 +18,68 @@ Warning: # The Monk, 1159: table immediately after header
 Warning: # The Paladin, 1355: table immediately after header
 Warning: #### Oath of Devotion Spells, 1521: table immediately after header
 Warning: # The Ranger, 1600: table immediately after header
-Warning: # The Rogue, 1808: table immediately after header
-Warning: # The Sorcerer, 1954: table immediately after header
-Warning: #### Creating Spell Slots, 2034: table immediately after header
-Warning: ## Draconic Ancestry, 2110: table immediately after header
-Warning: # The Warlock, 2176: table immediately after header
-Warning: ## Fiend Expanded Spells, 2479: table immediately after header
-Warning: # The Wizard, 2548: table immediately after header
-Warning: ## Character Advancement, 2702: table immediately after header
-Warning: ## Multiclassing Prerequisites, 2739: table immediately after header
-Warning: # Multiclassing Proficiencies, 2774: table immediately after header
-Warning: # Multiclass Spellcaster: Spell Slots per Spell Level, 2826: table immediately after header
-Warning: ## Standard Languages, 2885: table immediately after header
-Warning: ## Exotic Languages, 2898: table immediately after header
-Warning: #### d6 Ideal, 3006: possible table run-on
-Warning: ## Standard Exchange Rates, 3032: table immediately after header
-Warning: #### Armor, 3092: table immediately after header
-Warning: #### Donning and Doffing Armor, 3121: table immediately after header
-Warning: #### Weapons, 3182: table immediately after header
-Warning: ## Adventuring Gear, 3281: table immediately after header
-Warning: #### Container Capacity, 3388: table immediately after header
-Warning: #### Tools, 3426: table immediately after header
-Warning: ### Mounts and Other Animals, 3496: table immediately after header
-Warning: ## Tack, Harness, and Drawn Vehicles, 3509: table immediately after header
-Warning: ### Waterborne Vehicles, 3529: table immediately after header
-Warning: #### Trade Goods, 3546: table immediately after header
-Warning: #### Lifestyle Expenses, 3576: table immediately after header
-Warning: #### Food, Drink, and Lodging, 3606: table immediately after header
-Warning: #### Services, 3643: table immediately after header
-Warning: ## Ability Scores and Modifiers, 3705: table immediately after header
-Warning: ## Typical Difficulty Classes, 3762: table immediately after header
-Warning: #### Pace Distance Traveled per . . ., 4101: table immediately after header
-Warning: ## Size Categories, 4442: table immediately after header
-Warning: #### Animated Object Statistics, 5470: table immediately after header
-Warning: ## Precipitation, 6376: table immediately after header
-Warning: ## Temperature, 6386: table immediately after header
-Warning: #### Wind, 6397: table immediately after header
-Warning: ### Trap Save DCs and Attack Bonuses, 10362: table immediately after header
-Warning: ## Damage Severity by Level, 10370: table immediately after header
-Warning: ## Short-Term Madness, 10561: table immediately after header
-Warning: ## Long-Term Madness, 10576: table immediately after header
-Warning: #### Indefinite Madness, 10593: table immediately after header
-Warning: #### Object Armor Class, 10638: table immediately after header
-Warning: #### Object Hit Points, 10652: table immediately after header
-Warning: #### Poisons, 10676: table immediately after header
-Warning: #### Apparatus of the Crab Levers, 10829: table immediately after header
-Warning: #### Cube of Force Faces, 11262: table immediately after header
-Warning: # Potions of Healing, 12321: table immediately after header
-Warning: #### Spell Scroll, 12819: table immediately after header
-Warning: ## Special Purpose, 13352: possible mistaken mid-paragraph italic: 'Aligned:'
-Warning: ## Special Purpose, 13354: possible mistaken mid-paragraph italic: 'Protector:'
-Warning: ## Special Purpose, 13355: possible mistaken mid-paragraph italic: 'Crusader:'
-Warning: ## Special Purpose, 13357: possible mistaken mid-paragraph italic: 'Destroyer:'
-Warning: ## Special Purpose, 13358: possible mistaken mid-paragraph italic: 'Glory Seeker:'
-Warning: ## Special Purpose, 13359: possible mistaken mid-paragraph italic: 'Lore Seeker:'
-Warning: ## Special Purpose, 13360: possible mistaken mid-paragraph italic: 'Destiny Seeker:'
-Warning: ## Special Purpose, 13361: possible mistaken mid-paragraph italic: 'Creator Seeker:'
-Warning: ## Size Categories, 13421: table immediately after header
-Warning: ### Hit Dice by Size, 13483: table immediately after header
-Warning: # Proficiency Bonus by Challenge Rating, 13530: table immediately after header
-Warning: #### Experience Points by Challenge Rating, 13637: table immediately after header
-Warning: #### Melee and Ranged Attacks, 13693: possible mistaken mid-paragraph italic: 'Miss:'
-Warning: ## Celtic Deities, 20429: table immediately after header
-Warning: ## Greek Deities, 20448: table immediately after header
-Warning: ## Egyptian Deities, 20472: table immediately after header
-Warning: # Norse Deities, 20491: table immediately after header
+Warning: # The Rogue, 1807: table immediately after header
+Warning: # The Sorcerer, 1953: table immediately after header
+Warning: #### Creating Spell Slots, 2033: table immediately after header
+Warning: ## Draconic Ancestry, 2109: table immediately after header
+Warning: # The Warlock, 2175: table immediately after header
+Warning: ## Fiend Expanded Spells, 2478: table immediately after header
+Warning: # The Wizard, 2547: table immediately after header
+Warning: ## Character Advancement, 2701: table immediately after header
+Warning: ## Multiclassing Prerequisites, 2738: table immediately after header
+Warning: # Multiclassing Proficiencies, 2773: table immediately after header
+Warning: # Multiclass Spellcaster: Spell Slots per Spell Level, 2825: table immediately after header
+Warning: ## Standard Languages, 2884: table immediately after header
+Warning: ## Exotic Languages, 2897: table immediately after header
+Warning: #### d6 Ideal, 3005: possible table run-on
+Warning: ## Standard Exchange Rates, 3031: table immediately after header
+Warning: #### Armor, 3091: table immediately after header
+Warning: #### Donning and Doffing Armor, 3120: table immediately after header
+Warning: #### Weapons, 3181: table immediately after header
+Warning: ## Adventuring Gear, 3280: table immediately after header
+Warning: #### Container Capacity, 3387: table immediately after header
+Warning: #### Tools, 3425: table immediately after header
+Warning: ### Mounts and Other Animals, 3495: table immediately after header
+Warning: ## Tack, Harness, and Drawn Vehicles, 3508: table immediately after header
+Warning: ### Waterborne Vehicles, 3528: table immediately after header
+Warning: #### Trade Goods, 3545: table immediately after header
+Warning: #### Lifestyle Expenses, 3575: table immediately after header
+Warning: #### Food, Drink, and Lodging, 3605: table immediately after header
+Warning: #### Services, 3642: table immediately after header
+Warning: ## Ability Scores and Modifiers, 3704: table immediately after header
+Warning: ## Typical Difficulty Classes, 3761: table immediately after header
+Warning: #### Pace Distance Traveled per . . ., 4100: table immediately after header
+Warning: ## Size Categories, 4437: table immediately after header
+Warning: #### Animated Object Statistics, 5465: table immediately after header
+Warning: ## Precipitation, 6371: table immediately after header
+Warning: ## Temperature, 6381: table immediately after header
+Warning: #### Wind, 6392: table immediately after header
+Warning: ### Trap Save DCs and Attack Bonuses, 10357: table immediately after header
+Warning: ## Damage Severity by Level, 10365: table immediately after header
+Warning: ## Short-Term Madness, 10556: table immediately after header
+Warning: ## Long-Term Madness, 10571: table immediately after header
+Warning: #### Indefinite Madness, 10588: table immediately after header
+Warning: #### Object Armor Class, 10633: table immediately after header
+Warning: #### Object Hit Points, 10647: table immediately after header
+Warning: #### Poisons, 10671: table immediately after header
+Warning: #### Apparatus of the Crab Levers, 10824: table immediately after header
+Warning: #### Cube of Force Faces, 11257: table immediately after header
+Warning: # Potions of Healing, 12316: table immediately after header
+Warning: #### Spell Scroll, 12814: table immediately after header
+Warning: ## Special Purpose, 13347: possible mistaken mid-paragraph italic: 'Aligned:'
+Warning: ## Special Purpose, 13349: possible mistaken mid-paragraph italic: 'Protector:'
+Warning: ## Special Purpose, 13350: possible mistaken mid-paragraph italic: 'Crusader:'
+Warning: ## Special Purpose, 13352: possible mistaken mid-paragraph italic: 'Destroyer:'
+Warning: ## Special Purpose, 13353: possible mistaken mid-paragraph italic: 'Glory Seeker:'
+Warning: ## Special Purpose, 13354: possible mistaken mid-paragraph italic: 'Lore Seeker:'
+Warning: ## Special Purpose, 13355: possible mistaken mid-paragraph italic: 'Destiny Seeker:'
+Warning: ## Special Purpose, 13356: possible mistaken mid-paragraph italic: 'Creator Seeker:'
+Warning: ## Size Categories, 13416: table immediately after header
+Warning: ### Hit Dice by Size, 13478: table immediately after header
+Warning: # Proficiency Bonus by Challenge Rating, 13525: table immediately after header
+Warning: #### Experience Points by Challenge Rating, 13632: table immediately after header
+Warning: #### Melee and Ranged Attacks, 13688: possible mistaken mid-paragraph italic: 'Miss:'
+Warning: ## Celtic Deities, 20412: table immediately after header
+Warning: ## Greek Deities, 20431: table immediately after header
+Warning: ## Egyptian Deities, 20455: table immediately after header
+Warning: # Norse Deities, 20474: table immediately after header

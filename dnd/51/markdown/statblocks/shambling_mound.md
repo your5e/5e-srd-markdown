@@ -20,7 +20,7 @@ _Large plant, unaligned_
 
 #### Traits
 
-_Lightning Absorption_. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
+- _**Lightning Absorption.**_ Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
 
 #### Actions
 

@@ -15,9 +15,10 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 1/4 (50 XP)
 
-#### _Amphibious._ The frog can breathe air and water.
+#### Traits
 
-_**Standing Leap.**_ The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+- _**Amphibious.**_ The frog can breathe air and water.
+- _**Standing Leap.**_ The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
 #### Actions
 

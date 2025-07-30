@@ -4097,15 +4097,11 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
 
 #### Pace Distance Traveled per . . .
 
-|        | Minute   | Hour   | Day   | Effect                |
-|--------|----------|--------|-------|-----------------------|
-| Fast   | 400      | 4      | 30    | -5 penalty to passive |
-|        | feet     | miles  | miles | Wisdom (Perception)   |
-|        |          |        |       | scores                |
-| Normal | 300      | 3      | 24    | —                     |
-|        | feet     | miles  | miles |                       |
-| Slow   | 200      | 2      | 18    | Able to use stealth   |
-|        | feet     | miles  | miles |                       |
+| Pace   | Distance Traveled per Minute   | ...Hour   | ...Day   | Effect                                           |
+|--------|--------------------------------|-----------|----------|--------------------------------------------------|
+| Fast   | 400 feet                       | 4 miles   | 30 miles | -5 penalty to passive Wisdom (Perception) scores |
+| Normal | 300 feet                       | 3 miles   | 24 miles | —                                                |
+| Slow   | 200 feet                       | 2 miles   | 18 miles | Able to use stealth                              |
 
 #### Difficult Terrain
 
@@ -17421,8 +17417,7 @@ _Large construct, unaligned_
 
 #### Traits
 
-_Acid Absorption_. Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.
-
+- _**Acid Absorption.**_ Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.
 - _**Berserk.**_ Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
 - _**Immutable Form.**_ The golem is immune to any spell or effect that would alter its form.
 - _**Magic Resistance.**_ The golem has advantage on saving throws against spells and other magical effects.
@@ -17489,8 +17484,7 @@ _Large construct, unaligned_
 
 #### Traits
 
-_Fire Absorption_. Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
-
+- _**Fire Absorption.**_ Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
 - _**Immutable Form.**_ The golem is immune to any spell or effect that would alter its form.
 - _**Magic Resistance.**_ The golem has advantage on saving throws against spells and other magical effects.
 - _**Magic Weapons.**_ The golem's weapon attacks are magical.
@@ -18069,8 +18063,7 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 
 - **Tentacle Attack or Fling.** The kraken makes one tentacle attack or uses its Fling.
 - **Lightning Storm (Costs 2 Actions).** The kraken uses Lightning Storm.
-
-**Ink Cloud (Costs 3 Actions).** While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.
+- **Ink Cloud (Costs 3 Actions).** While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.
 
 # Monsters (L)
 
@@ -19191,7 +19184,7 @@ _Gargantuan monstrosity, unaligned_
 
 #### Traits
 
-_Tunneler_. The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
+- _**Tunneler.**_ The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
 
 #### Actions
 
@@ -19216,8 +19209,7 @@ _Medium fiend, lawful evil_
 |---------|---------|---------|---------|---------|---------|
 | 14 (+2) | 17 (+3) | 18 (+4) | 13 (+1) | 16 (+3) | 20 (+5) |
 
-**Skills** Deception +10, Insight +8
-
+- **Skills** Deception +10, Insight +8
 - **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses** darkvision 60 ft., passive Perception 13
@@ -19229,9 +19221,9 @@ _Medium fiend, lawful evil_
 - _**Limited Magic Immunity.**_ The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.
 - _**Innate Spellcasting.**_ The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
 
-- At will: _Detect Thoughts_, _Disguise Self_, _Mage Hand_, _Minor Illusion_
-- 3/day each: _Charm Person_, _Detect Magic_, _Invisibility_, _Major Image_, s_uggestion_
-- 1/day each: _Dominate Person_, _Fly_, _Plane Shift_, _True Seeing_
+    - At will: _Detect Thoughts_, _Disguise Self_, _Mage Hand_, _Minor Illusion_
+    - 3/day each: _Charm Person_, _Detect Magic_, _Invisibility_, _Major Image_, s_uggestion_
+    - 1/day each: _Dominate Person_, _Fly_, _Plane Shift_, _True Seeing_
 
 #### Actions
 
@@ -19496,7 +19488,7 @@ _Large plant, unaligned_
 
 #### Traits
 
-_Lightning Absorption_. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
+- _**Lightning Absorption.**_ Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
 
 #### Actions
 
@@ -19526,8 +19518,7 @@ _Large construct, unaligned_
 
 - _**Bound.**_ The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
 - _**Regeneration.**_ The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit point.
-
-_Spell Storing_. A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.
+- _**Spell Storing**_ A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.
 
 #### Actions
 
@@ -19733,8 +19724,7 @@ _Large monstrosity, lawful neutral_
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 
-**Claw Attack.** The sphinx makes one claw attack.
-
+- **Claw Attack.** The sphinx makes one claw attack.
 - **Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 - **Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
@@ -19948,8 +19938,8 @@ _Large celestial, lawful good_
 - _**Charge.**_ If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 - _**Innate Spellcasting.**_ The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:
 
-- At will: _Detect Evil and Good_, _Druidcraft_, _Pass Without Trace_
-- 1/day each: _Calm Emotions_, _Dispel Evil and Good_, _Entangle_
+    - At will: _Detect Evil and Good_, _Druidcraft_, _Pass Without Trace_
+    - 1/day each: _Calm Emotions_, _Dispel Evil and Good_, _Entangle_
 
 - _**Magic Resistance.**_ The unicorn has advantage on saving throws against spells and other magical effects.
 - _**Magic Weapons.**_ The unicorn's weapon attacks are magical.
@@ -19966,8 +19956,7 @@ _Large celestial, lawful good_
 
 The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.
 
-**Hooves.** The unicorn makes one attack with its hooves.
-
+- **Hooves.** The unicorn makes one attack with its hooves.
 - **Shimmering Shield (Costs 2 Actions).** The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.
 - **Heal Self (Costs 3 Actions).** The unicorn magically regains 11 (2d8 + 2) hit points.
 
@@ -21509,9 +21498,10 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 1/4 (50 XP)
 
-#### _Amphibious._ The frog can breathe air and water.
+#### Traits
 
-_**Standing Leap.**_ The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+- _**Amphibious.**_ The frog can breathe air and water.
+- _**Standing Leap.**_ The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
 #### Actions
 
@@ -23080,7 +23070,7 @@ _Medium humanoid (any race), any alignment_
     - 8th level (1 slot): _Mind Blank_\*
     - 9th level (1 slot): _Time Stop_
 
-\**The archmage casts these spells on itself before combat.*
+    \**The archmage casts these spells on itself before combat.*
 
 #### Actions
 

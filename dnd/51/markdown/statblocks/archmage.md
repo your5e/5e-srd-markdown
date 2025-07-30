@@ -33,7 +33,7 @@ _Medium humanoid (any race), any alignment_
     - 8th level (1 slot): _Mind Blank_\*
     - 9th level (1 slot): _Time Stop_
 
-\**The archmage casts these spells on itself before combat.*
+    \**The archmage casts these spells on itself before combat.*
 
 #### Actions
 

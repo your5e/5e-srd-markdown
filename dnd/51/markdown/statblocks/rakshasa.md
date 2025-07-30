@@ -10,8 +10,7 @@ _Medium fiend, lawful evil_
 |---------|---------|---------|---------|---------|---------|
 | 14 (+2) | 17 (+3) | 18 (+4) | 13 (+1) | 16 (+3) | 20 (+5) |
 
-**Skills** Deception +10, Insight +8
-
+- **Skills** Deception +10, Insight +8
 - **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
 - **Senses** darkvision 60 ft., passive Perception 13
@@ -23,9 +22,9 @@ _Medium fiend, lawful evil_
 - _**Limited Magic Immunity.**_ The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.
 - _**Innate Spellcasting.**_ The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
 
-- At will: _Detect Thoughts_, _Disguise Self_, _Mage Hand_, _Minor Illusion_
-- 3/day each: _Charm Person_, _Detect Magic_, _Invisibility_, _Major Image_, s_uggestion_
-- 1/day each: _Dominate Person_, _Fly_, _Plane Shift_, _True Seeing_
+    - At will: _Detect Thoughts_, _Disguise Self_, _Mage Hand_, _Minor Illusion_
+    - 3/day each: _Charm Person_, _Detect Magic_, _Invisibility_, _Major Image_, s_uggestion_
+    - 1/day each: _Dominate Person_, _Fly_, _Plane Shift_, _True Seeing_
 
 #### Actions
 

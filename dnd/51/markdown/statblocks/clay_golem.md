@@ -18,8 +18,7 @@ _Large construct, unaligned_
 
 #### Traits
 
-_Acid Absorption_. Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.
-
+- _**Acid Absorption.**_ Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.
 - _**Berserk.**_ Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
 - _**Immutable Form.**_ The golem is immune to any spell or effect that would alter its form.
 - _**Magic Resistance.**_ The golem has advantage on saving throws against spells and other magical effects.
