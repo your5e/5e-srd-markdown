@@ -475,6 +475,19 @@ def warn_unusual_unicode(lines, index):
         return f"unusual Unicode characters: {', '.join(sorted(unusual_chars))}"
 
 
+def warn_empty_table_header(lines, index):
+    # "|   | Bonus |  |  |" - likely has headers spread across lines
+    if (
+        lines[index].startswith('|')
+        and index > 0
+        and not lines[index - 1].startswith('|')
+    ):
+        cells = [cell.strip() for cell in lines[index].split('|')[1:-1]]
+        if any(not cell for cell in cells):
+            return f"table has empty header cells"
+    return None
+
+
 def warn_srd(lines, ignore_file=None):
     WARN_TABLE = [
         warn_table_runon,
@@ -482,6 +495,7 @@ def warn_srd(lines, ignore_file=None):
         warn_inconsistent_list_formatting,
         warn_table_after_header,
         warn_unusual_unicode,
+        warn_empty_table_header,
     ]
 
     ignore_patterns = []

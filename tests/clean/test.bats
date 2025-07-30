@@ -41,69 +41,77 @@ setup() {
 @test "processes clean SRD content without errors" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
         Warning: # The Barbarian, 12: table immediately after header
+        Warning: # The Barbarian, 12: table has empty header cells
         Warning: # The Barbarian, 27: possible table run-on
+        Warning: # The Barbarian, 27: table has empty header cells
+        Warning: ## Equipment, 71: table has empty header cells
         Warning: #### Traits, 249: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
         EOF
     )
 
     run python clean_srd.py "$BATS_TEST_TMPDIR/srd.md" "$BATS_TEST_TMPDIR/breakdown.txt"
-    [ "$status" -eq 0 ]
-
     diff -u tests/clean/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
     diff -u tests/clean/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "$expected_output") <(echo "$output")
+    [ "$status" -eq 0 ]
 }
 
 @test "clean can be run twice with no extraneous changes" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
         Warning: # The Barbarian, 12: table immediately after header
+        Warning: # The Barbarian, 12: table has empty header cells
         Warning: # The Barbarian, 27: possible table run-on
+        Warning: # The Barbarian, 27: table has empty header cells
+        Warning: ## Equipment, 71: table has empty header cells
         Warning: #### Traits, 249: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
         EOF
     )
 
     run python clean_srd.py "$BATS_TEST_TMPDIR/srd.md" "$BATS_TEST_TMPDIR/breakdown.txt"
-    [ "$status" -eq 0 ]
-
     diff -u tests/clean/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
     diff -u tests/clean/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "$expected_output") <(echo "$output")
+    [ "$status" -eq 0 ]
 
     # run again, nothing should change
     run python clean_srd.py "$BATS_TEST_TMPDIR/srd.md" "$BATS_TEST_TMPDIR/breakdown.txt"
-    [ "$status" -eq 0 ]
-
     diff -u tests/clean/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
     diff -u tests/clean/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "$expected_output") <(echo "$output")
+    [ "$status" -eq 0 ]
 }
 
 @test "warn flag doesn't modify source file" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
         Warning: # **The Barbarian**, 15: table immediately after header
+        Warning: # **The Barbarian**, 15: table has empty header cells
         Warning: # **The Barbarian**, 30: possible table run-on
+        Warning: # **The Barbarian**, 30: table has empty header cells
+        Warning: ## **Equipment**, 71: table has empty header cells
         Warning: ## **Equipment**, 86: possible table run-on
         Warning: #### **Black Pudding**, 135: unusual Unicode characters: U+2212
         Warning: #### **Black Pudding**, 150: unusual Unicode characters: U+2212
         Warning: #### **Actions**, 160: unusual Unicode characters: U+2212
+        Warning: #### **Giant Centipede**, 206: table has empty header cells
+        Warning: #### **Hyena**, 230: table has empty header cells
         Warning: #### **Hyena**, 232: unusual Unicode characters: U+2212
+        Warning: ## **Wereboar**, 252: table has empty header cells
         Warning: ## **Wereboar**, 254: unusual Unicode characters: U+2212
         EOF
     )
 
     run python clean_srd.py --warn "$BATS_TEST_TMPDIR/srd.md" "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "$expected_output") <(echo "$output")
-    [ "$status" -eq 0 ]
-
-    # Source file should remain unchanged from original
     diff -u tests/clean/srd.md "$BATS_TEST_TMPDIR/srd.md"
     diff -u tests/clean/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
+    [ "$status" -eq 0 ]
 }
 
 @test "detects various formatting warnings" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
         Warning: # List style changes, 6: inconsistent list formatting (emphasis type mismatch)
         Warning: # Table run-on, 18: possible table run-on
+        Warning: # Table run-on, 18: table has empty header cells
         Warning: # Mid-paragraph italic, 30: possible mistaken mid-paragraph italic: 'Ram, Portable.'
         Warning: # Mid-paragraph italic, 33: possible mistaken mid-paragraph italic: 'Claw. Melee Weapon Attack:'
         Warning: # Unusual unicode, 40: unusual Unicode characters: U+2212
@@ -113,12 +121,13 @@ setup() {
     )
 
     run python clean_srd.py --warn tests/clean/warnings.md
-    [ "$status" -eq 0 ]
     diff -u <(echo "$expected_output") <(echo "$output")
+    [ "$status" -eq 0 ]
 }
 
 @test "ignores warnings when ignore file is present" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
+        Warning: # Table run-on, 18: table has empty header cells
         Warning: # Mid-paragraph italic, 30: possible mistaken mid-paragraph italic: 'Ram, Portable.'
         Warning: #### d100 Communication, 50: table immediately after header
         EOF
