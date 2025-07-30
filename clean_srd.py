@@ -442,7 +442,7 @@ def warn_unusual_unicode(lines, index):
         return f"unusual Unicode characters: {', '.join(sorted(unusual_chars))}"
 
 
-def warn_srd(lines):
+def warn_srd(lines, ignore_file=None):
     WARN_TABLE = [
         warn_table_runon,
         warn_midpara_italics,
@@ -450,6 +450,19 @@ def warn_srd(lines):
         warn_table_after_header,
         warn_unusual_unicode,
     ]
+
+    ignore_patterns = []
+    if ignore_file:
+        try:
+            with open(ignore_file, 'r', encoding='utf-8') as f:
+                ignore_patterns = [
+                    line
+                        for line in f.read().splitlines()
+                            if line
+                ]
+        except FileNotFoundError as e:
+            print(f"Error '{e.filename}' not found")
+            sys.exit(1)
 
     for index, line in enumerate(lines):
         for checker in WARN_TABLE:
@@ -460,7 +473,10 @@ def warn_srd(lines):
                     if lines[prev].startswith('#'):
                         context = lines[prev]
                         break
-                print(f"Warning: {context}, {index + 1}: {message}", file=sys.stderr)
+
+                warning = f"Warning: {context}, {index + 1}: {message}"
+                if not any(pattern in warning for pattern in ignore_patterns):
+                    print(warning, file=sys.stderr)
 
 
 def load_breakdown_data(breakdown_file):
@@ -506,6 +522,7 @@ def main():
     parser.add_argument('--debug', action='store_true', help='Print changes to stdout instead of modifying file')
     parser.add_argument('--warn', action='store_true', help='Only run warning checks, skip cleaning and error checks')
     parser.add_argument('--progress', action='store_true', help='Show progress through the file')
+    parser.add_argument('--ignore-warnings', help='File containing patterns to ignore warnings')
     args = parser.parse_args()
 
     try:
@@ -524,7 +541,7 @@ def main():
             check_srd(lines)
             cleaned = clean_srd(lines, breakdown_data, args.progress)
 
-        warn_srd(lines)
+        warn_srd(lines, args.ignore_warnings)
 
         if cleaned:
             if args.debug or args.markdown == '-':

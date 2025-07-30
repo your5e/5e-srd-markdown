@@ -1,0 +1,6 @@
+# List style changes, 6: inconsistent list formatting (emphasis type mismatch)
+
+# Table run-on, 18: possible table run-on
+# Mid-paragraph italic, 33: possible mistaken mid-paragraph italic: 'Claw. Melee Weapon Attack:'
+
+unusual Unicode characters

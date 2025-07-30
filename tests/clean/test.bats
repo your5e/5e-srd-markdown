@@ -31,6 +31,13 @@ setup() {
     diff -u tests/clean/srd.md "$BATS_TEST_TMPDIR/srd.md"
 }
 
+
+@test "no warnings file, abort" {
+    run python clean_srd.py --warn --ignore-warnings nonexistent_ignore.txt tests/clean/warnings.md
+    [ "$status" -eq 1 ]
+    diff -u <(echo "Error 'nonexistent_ignore.txt' not found") <(echo "$output")
+}
+
 @test "processes clean SRD content without errors" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
         Warning: # The Barbarian, 12: table immediately after header
@@ -108,4 +115,19 @@ setup() {
     run python clean_srd.py --warn tests/clean/warnings.md
     [ "$status" -eq 0 ]
     diff -u <(echo "$expected_output") <(echo "$output")
+}
+
+@test "ignores warnings when ignore file is present" {
+    expected_output=$(sed -e 's/^        //' <<'        EOF'
+        Warning: # Mid-paragraph italic, 30: possible mistaken mid-paragraph italic: 'Ram, Portable.'
+        Warning: #### d100 Communication, 50: table immediately after header
+        EOF
+    )
+
+    run python clean_srd.py \
+        --warn \
+        --ignore-warnings tests/clean/ignored.txt \
+            tests/clean/warnings.md
+    diff -u <(echo "$expected_output") <(echo "$output")
+    [ "$status" -eq 0 ]
 }
