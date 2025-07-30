@@ -1,13 +1,15 @@
 #!/usr/bin/env -S bash -euo pipefail
 
 function main {
-    extract_only=false
+    extract_only=0
     match_pattern=""
+    quiet=0
 
-    while getopts "ehm:" option; do
+    while getopts "ehm:q" option; do
         case "$option" in
-            e)  extract_only=true ;;
-            m)  match_pattern="$OPTARG"; extract_only=true ;;
+            e)  extract_only=1 ;;
+            m)  match_pattern="$OPTARG"; extract_only=1 ;;
+            q)  quiet=1 ;;
             *)  usage ;;
         esac
     done
@@ -81,14 +83,16 @@ function main {
         mkdir -p "$target_dir"
 
         sed -n "${start_line},${end_line}p" "$source_file" > "$target_path"
-        if [[ ! -t 1 ]]; then
-            echo "$start_line-$end_line > $target_file"
-        else
-            printf '%-118s\r' "$start_line-$end_line > $target_file"
+        if [ $quiet -eq 0 ]; then
+            if [[ ! -t 1 ]]; then
+                echo "$start_line-$end_line > $target_file"
+            else
+                printf '%-118s\r' "$start_line-$end_line > $target_file"
+            fi
         fi
     done
 
-    if [ "$extract_only" = false ]; then
+    if [ $extract_only -eq 0 ]; then
         mapfile -t edited < "$source_file"
 
         for range in "${ranges[@]}"; do
@@ -115,7 +119,7 @@ function main {
 }
 
 function usage {
-    abort "breakdown.sh [-e] [-m pattern] file.md [breakdown.txt]" "Usage"
+    abort "breakdown.sh [-e] [-m pattern] [-q] file.md [breakdown.txt]" "Usage"
 }
 
 function abort {
