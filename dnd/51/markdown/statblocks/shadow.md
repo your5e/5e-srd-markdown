@@ -29,4 +29,4 @@ _Medium undead, chaotic evil_
 
 - _**Strength Drain.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 
-If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
+    If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.

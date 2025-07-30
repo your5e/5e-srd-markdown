@@ -30,9 +30,10 @@ the SRD in question.
 
     - Markdown doesn't support multiple header rows as used in class tables, so
       they have been compressed to one row.
-    - fixed "Components" typo in Contagion
     - added "Traits" header in statblocks to create a clarity separator
       between the list of skills/senses/CR etc and the list of traits
+    - fixed "Components" typo in Contagion
+    - changed "Petrifying Gaze" to be bold italics for consistency
 
 
 ## Workflow for breaking the whole SRD into sections

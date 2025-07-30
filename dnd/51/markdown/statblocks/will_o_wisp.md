@@ -10,8 +10,7 @@ _Tiny undead, chaotic evil_
 |--------|---------|---------|---------|---------|---------|
 | 1 (-5) | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
 
-**Damage Immunities** lightning, poison
-
+- **Damage Immunities** lightning, poison
 - **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 

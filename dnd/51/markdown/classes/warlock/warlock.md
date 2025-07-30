@@ -12,10 +12,7 @@ As a warlock, you gain the following class features.
 
 # Proficiencies
 
-**Armor:** Light armor
-
-# The Warlock
-
+- **Armor:** Light armor
 - **Weapons:** Simple weapons
 - **Tools:** None
 - **Saving Throws:** Wisdom, Charisma
@@ -29,6 +26,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - _(a)_ a component pouch or (_b_) an arcane focus
 - _(a)_ a scholar's pack or (_b_) a dungeoneer's pack
 - Leather armor, any simple weapon, and two daggers
+
+# The Warlock
 
 | Level   | Bonus Proficiency   | Features                    | Cantrips Known   | Spells Known   | Spell Slots   | Slot Level   | Invocations Known   |
 |---------|---------------------|-----------------------------|------------------|----------------|---------------|--------------|---------------------|
@@ -333,14 +332,13 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 ## Fiend Expanded Spells
 
-## Spell Level Spells
-
-| 1st   | burning hands, command            |
-|-------|-----------------------------------|
-| 2nd   | blindness/deafness, scorching ray |
-| 3rd   | fireball, stinking cloud          |
-| 4th   | fire shield, wall of fire         |
-| 5th   | flame strike, hallow              |
+| Spell Level   | Spells                            |
+|---------------|-----------------------------------|
+| 1st           | burning hands, command            |
+| 2nd           | blindness/deafness, scorching ray |
+| 3rd           | fireball, stinking cloud          |
+| 4th           | fire shield, wall of fire         |
+| 5th           | flame strike, hallow              |
 
 # Dark One's Blessing
 

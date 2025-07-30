@@ -26,7 +26,7 @@ _Medium celestial, lawful good_
     - At will: _Detect Evil and Good_
     - 1/day each: _Commune_, _Raise Dead_
 
-_**Magic Resistance.**_ The deva has advantage on saving throws against spells and other magical effects.
+- _**Magic Resistance.**_ The deva has advantage on saving throws against spells and other magical effects.
 
 #### Actions
 
@@ -35,4 +35,4 @@ _**Magic Resistance.**_ The deva has advantage on saving throws against spells a
 - _**Healing Touch (3/Day).**_ The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 - _**Change Shape.**_ The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva's choice).
 
-In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.
+    In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.

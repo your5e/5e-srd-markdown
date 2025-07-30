@@ -14,9 +14,6 @@ As a cleric, you gain the following class features.
 
 - **Armor:** Light armor, medium armor, shields
 - **Weapons:** Simple weapons
-
-## The Cleric
-
 - **Tools:** None
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
@@ -30,6 +27,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) a light crossbow and 20 bolts or (_b_) any simple weapon
 - (_a_) a priest's pack or (_b_) an explorer's pack
 - A shield and a holy symbol
+
+## The Cleric
 
 | Level   |   Proficiency Bonus | Features                                                                |   Cantrips Known |   Spell Slots — 1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
 |---------|---------------------|-------------------------------------------------------------------------|------------------|---------------------|-------|-------|-------|-------|-------|-------|-------|-------|

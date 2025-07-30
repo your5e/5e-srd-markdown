@@ -20,4 +20,5 @@ _Huge giant, lawful evil_
 #### Actions
 
 - _**Multiattack.**_ The giant makes two greatsword attacks.
-- _**Greatsword.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 28 (6d6 + 7) slashing damage. _Rock. Ranged Weapon Attack:_ +11 to hit, range 60/240 ft., one target. _Hit:_ 29 (4d10 + 7) bludgeoning damage.
+- _**Greatsword.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 28 (6d6 + 7) slashing damage.
+- _**Rock.** Ranged Weapon Attack:_ +11 to hit, range 60/240 ft., one target. _Hit:_ 29 (4d10 + 7) bludgeoning damage.

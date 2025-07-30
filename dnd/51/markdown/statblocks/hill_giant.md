@@ -18,4 +18,5 @@ _Huge giant, chaotic evil_
 #### Actions
 
 - _**Multiattack.**_ The giant makes two greatclub attacks.
-- _**Greatclub.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 18 (3d8 + 5) bludgeoning damage. _Rock. Ranged Weapon Attack:_ +8 to hit, range 60/240 ft., one target. _Hit:_ 21 (3d10 + 5) bludgeoning damage.
+- _**Greatclub.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 18 (3d8 + 5) bludgeoning damage.
+- _**Rock.** Ranged Weapon Attack:_ +8 to hit, range 60/240 ft., one target. _Hit:_ 21 (3d10 + 5) bludgeoning damage.

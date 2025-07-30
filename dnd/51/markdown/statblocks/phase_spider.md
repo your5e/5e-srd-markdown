@@ -10,9 +10,7 @@ _Large monstrosity, unaligned_
 |---------|---------|---------|--------|---------|--------|
 | 15 (+2) | 15 (+2) | 12 (+1) | 6 (-2) | 10 (+0) | 6 (-2) |
 
-```
-Skills Stealth +6
-```
+- **Skills** Stealth +6
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 3 (700 XP)

@@ -21,7 +21,8 @@ _Large celestial, lawful good_
 #### Traits
 
 - _**Angelic Weapons.**_ The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).
-- _**Divine Awareness.**_ The planetar knows if it hears a lie. _Innate Spellcasting._ The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
+- _**Divine Awareness.**_ The planetar knows if it hears a lie.
+- _**Innate Spellcasting.**_ The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
 
     - At will: _Detect Evil and Good_, _Invisibility_ (self only)
     - 3/day each: _Blade Barrier_, _Dispel Evil and Good_, _Flame Strike_, _Raise Dead_

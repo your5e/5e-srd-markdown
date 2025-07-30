@@ -14,9 +14,6 @@ As a ranger, you gain the following class features.
 
 - **Armor:** Light armor, medium armor, shields
 - **Weapons:** Simple weapons, martial weapons
-
-# The Ranger
-
 - **Tools:** None
 - **Saving Throws:** Strength, Dexterity
 - **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
@@ -29,6 +26,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) two shortswords or (_b_) two simple melee weapons
 - (_a_) a dungeoneer's pack or (_b_) an explorer's pack
 - A longbow and a quiver of 20 arrows
+
+# The Ranger
 
 | Level   |   Proficiency Bonus | Features                                          | Spells Known   | Spell Slots — 1st   | 2nd   | 3rd   | 4th   | 5th   |
 |---------|---------------------|---------------------------------------------------|----------------|---------------------|-------|-------|-------|-------|

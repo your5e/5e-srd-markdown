@@ -395,10 +395,7 @@ As a bard, you gain the following class features.
 
 ## Proficiencies
 
-**Armor:** Light armor
-
-## The Bard
-
+- **Armor:** Light armor
 - **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 - **Tools:** Three musical instruments of your choice
 - **Saving Throws:** Dexterity, Charisma
@@ -412,6 +409,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) a diplomat's pack or (_b_) an entertainer's pack
 - (_a_) a lute or (_b_) any other musical instrument
 - Leather armor and a dagger
+
+## The Bard
 
 | Level   |   Proficiency Bonus | Features                                             |   Cantrips Known |   Spells Known |   Spell Slots - 1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
 |---------|---------------------|------------------------------------------------------|------------------|----------------|---------------------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -569,9 +568,6 @@ As a cleric, you gain the following class features.
 
 - **Armor:** Light armor, medium armor, shields
 - **Weapons:** Simple weapons
-
-## The Cleric
-
 - **Tools:** None
 - **Saving Throws:** Wisdom, Charisma
 - **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
@@ -585,6 +581,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) a light crossbow and 20 bolts or (_b_) any simple weapon
 - (_a_) a priest's pack or (_b_) an explorer's pack
 - A shield and a holy symbol
+
+## The Cleric
 
 | Level   |   Proficiency Bonus | Features                                                                |   Cantrips Known |   Spell Slots — 1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
 |---------|---------------------|-------------------------------------------------------------------------|------------------|---------------------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -750,10 +748,7 @@ As a druid, you gain the following class features.
 
 # Proficiencies
 
-**Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
-
-# The Druid
-
+- **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
 - **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
 - **Tools:** Herbalism kit
 - **Saving Throws:** Intelligence, Wisdom
@@ -766,6 +761,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) a wooden shield or (_b_) any simple weapon
 - (_a_) a scimitar or (_b_) any simple melee weapon
 - Leather armor, an explorer's pack, and a druidic focus
+
+# The Druid
 
 | Level   |   Proficiency Bonus | Features                                          |   Cantrips Known |   Spell Slots — 1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
 |---------|---------------------|---------------------------------------------------|------------------|---------------------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -837,12 +834,11 @@ Your druid level determines the beasts you can transform into, as shown in the B
 
 #### Beast Shapes
 
-|       | Max.   |                             |             |
-|-------|--------|-----------------------------|-------------|
-| Level | CR     | Limitations                 | Example     |
-| 2nd   | 1/4    | No flying or swimming speed | Wolf        |
-| 4th   | 1/2    | No flying speed             | Crocodile   |
-| 8th   | 1      | —                           | Giant eagle |
+| Level   | Max. CR   | Limitations                 | Example     |
+|---------|-----------|-----------------------------|-------------|
+| 2nd     | 1/4       | No flying or swimming speed | Wolf        |
+| 4th     | 1/2       | No flying speed             | Crocodile   |
+| 8th     | 1         | —                           | Giant eagle |
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 
@@ -1144,10 +1140,7 @@ As a monk, you gain the following class features.
 
 ## Proficiencies
 
-**Armor:** None
-
-# The Monk
-
+- **Armor:** None
 - **Weapons:** Simple weapons, shortswords
 - **Tools:** Choose one type of artisan's tools or one musical instrument
 - **Saving Throws:** Strength, Dexterity
@@ -1160,6 +1153,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) a shortsword or (_b_) any simple weapon
 - (_a_) a dungeoneer's pack or (_b_) an explorer's pack
 - 10 darts
+
+# The Monk
 
 | Level   |   Proficiency Bonus | Martial Arts   | Ki Points   | Unarmored Movement   | Features                                         |
 |---------|---------------------|----------------|-------------|----------------------|--------------------------------------------------|
@@ -1340,10 +1335,7 @@ As a paladin, you gain the following class features.
 
 ## Proficiencies
 
-**Armor:** All armor, shields
-
-# The Paladin
-
+- **Armor:** All armor, shields
 - **Weapons:** Simple weapons, martial weapons
 - **Tools:** None
 - **Saving Throws:** Wisdom, Charisma
@@ -1357,6 +1349,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) five javelins or (_b_) any simple melee weapon
 - (_a_) a priest's pack or (_b_) an explorer's pack
 - Chain mail and a holy symbol
+
+# The Paladin
 
 | Level   |   Proficiency Bonus | Features                                   | Spell Slots — 1st   | 2nd   | 3rd   | 4th   | 5th   |
 |---------|---------------------|--------------------------------------------|---------------------|-------|-------|-------|-------|
@@ -1513,7 +1507,8 @@ The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, 
 Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
 
 - _**Honesty.**_ Don't lie or cheat. Let your word be your promise.
-- _**Courage.**_ Never fear to act, though caution is wise. _Compassion._ Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+- _**Courage.**_ Never fear to act, though caution is wise.
+- _**Compassion.**_ Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
 - _**Honor.**_ Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
 - _**Duty.**_ Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 
@@ -1523,14 +1518,13 @@ You gain oath spells at the paladin levels listed.
 
 #### Oath of Devotion Spells
 
-| Paladin   |                                          |
-|-----------|------------------------------------------|
-| Level     | Spells                                   |
-| 3rd       | protection from evil and good, sanctuary |
-| 5th       | lesser restoration, zone of truth        |
-| 9th       | beacon of hope, dispel magic             |
-| 13th      | freedom of movement, guardian of faith   |
-| 17th      | commune, flame strike                    |
+| Paladin Level   | Spells                                   |
+|-----------------|------------------------------------------|
+| 3rd             | protection from evil and good, sanctuary |
+| 5th             | lesser restoration, zone of truth        |
+| 9th             | beacon of hope, dispel magic             |
+| 13th            | freedom of movement, guardian of faith   |
+| 17th            | commune, flame strike                    |
 
 ### Channel Divinity
 
@@ -1588,9 +1582,6 @@ As a ranger, you gain the following class features.
 
 - **Armor:** Light armor, medium armor, shields
 - **Weapons:** Simple weapons, martial weapons
-
-# The Ranger
-
 - **Tools:** None
 - **Saving Throws:** Strength, Dexterity
 - **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
@@ -1603,6 +1594,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) two shortswords or (_b_) two simple melee weapons
 - (_a_) a dungeoneer's pack or (_b_) an explorer's pack
 - A longbow and a quiver of 20 arrows
+
+# The Ranger
 
 | Level   |   Proficiency Bonus | Features                                          | Spells Known   | Spell Slots — 1st   | 2nd   | 3rd   | 4th   | 5th   |
 |---------|---------------------|---------------------------------------------------|----------------|---------------------|-------|-------|-------|-------|
@@ -1941,10 +1934,7 @@ As a sorcerer, you gain the following class features.
 
 # Proficiencies
 
-**Armor:** None
-
-# The Sorcerer
-
+- **Armor:** None
 - **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 - **Tools:** None
 - **Saving Throws:** Constitution, Charisma
@@ -1958,6 +1948,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) a component pouch or (_b_) an arcane focus
 - (_a_) a dungeoneer's pack or (_b_) an explorer's pack
 - Two daggers
+
+# The Sorcerer
 
 | Level   |   Proficiency Bonus | Sorcery Points   | Features                       |   Cantrips Known |   Spells Known |   Spell Slots — 1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
 |---------|---------------------|------------------|--------------------------------|------------------|----------------|---------------------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -2164,10 +2156,7 @@ As a warlock, you gain the following class features.
 
 # Proficiencies
 
-**Armor:** Light armor
-
-# The Warlock
-
+- **Armor:** Light armor
 - **Weapons:** Simple weapons
 - **Tools:** None
 - **Saving Throws:** Wisdom, Charisma
@@ -2181,6 +2170,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - _(a)_ a component pouch or (_b_) an arcane focus
 - _(a)_ a scholar's pack or (_b_) a dungeoneer's pack
 - Leather armor, any simple weapon, and two daggers
+
+# The Warlock
 
 | Level   | Bonus Proficiency   | Features                    | Cantrips Known   | Spells Known   | Spell Slots   | Slot Level   | Invocations Known   |
 |---------|---------------------|-----------------------------|------------------|----------------|---------------|--------------|---------------------|
@@ -2485,14 +2476,13 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 ## Fiend Expanded Spells
 
-## Spell Level Spells
-
-| 1st   | burning hands, command            |
-|-------|-----------------------------------|
-| 2nd   | blindness/deafness, scorching ray |
-| 3rd   | fireball, stinking cloud          |
-| 4th   | fire shield, wall of fire         |
-| 5th   | flame strike, hallow              |
+| Spell Level   | Spells                            |
+|---------------|-----------------------------------|
+| 1st           | burning hands, command            |
+| 2nd           | blindness/deafness, scorching ray |
+| 3rd           | fireball, stinking cloud          |
+| 4th           | fire shield, wall of fire         |
+| 5th           | flame strike, hallow              |
 
 # Dark One's Blessing
 
@@ -2538,10 +2528,7 @@ As a wizard, you gain the following class features.
 
 # Proficiencies
 
-**Armor:** None
-
-# The Wizard
-
+- **Armor:** None
 - **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 - **Tools:** None
 - **Saving Throws:** Intelligence, Wisdom
@@ -2555,6 +2542,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - _(a)_ a component pouch or (_b_) an arcane focus
 - _(a)_ a scholar's pack or (_b_) an explorer's pack
 - A spellbook
+
+# The Wizard
 
 | Level   |   Proficiency Bonus | Features                      |   Cantrips Known |   Spell Slots — 1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
 |---------|---------------------|-------------------------------|------------------|---------------------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -3005,24 +2994,22 @@ Acolytes are shaped by their experience in temples or other religious communitie
 - 5 Faith. I trust that my deity will guide my actions. I have faith that if I work hard, things will go well. (Lawful)
 - 6 Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any)
 
-#### d6 Bond
+|   d6 | Bond                                                                                     |
+|------|------------------------------------------------------------------------------------------|
+|    1 | I would die to recover an ancient relic of my faith that was lost long ago.              |
+|    2 | I will someday get revenge on the corrupt temple hierarchy who branded me a heretic.     |
+|    3 | I owe my life to the priest who took me in when my parents died.                         |
+|    4 | Everything I do is for the common people.                                                |
+|    5 | I will do anything to protect the temple where I served.                                 |
+|    6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |
 
-|   1 | I would die to recover an ancient relic of my faith that was lost long ago.              |
-|-----|------------------------------------------------------------------------------------------|
-|   2 | I will someday get revenge on the corrupt temple hierarchy who branded me a heretic.     |
-|   3 | I owe my life to the priest who took me in when my parents died.                         |
-|   4 | Everything I do is for the common people.                                                |
-|   5 | I will do anything to protect the temple where I served.                                 |
-|   6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |
-
-#### d6 Flaw
-
-|   1 | I judge others harshly, and myself even more severely.                           |
-|-----|----------------------------------------------------------------------------------|
-|   2 | I put too much trust in those who wield power within my temple's hierarchy.      |
-|   3 | My piety sometimes leads me to blindly trust those that profess faith in my god. |
-|   4 | I am inflexible in my thinking.                                                  |
-|   5 | I am suspicious of strangers and expect the worst of them.                       |
+|   d6 | Flaw                                                                             |
+|------|----------------------------------------------------------------------------------|
+|    1 | I judge others harshly, and myself even more severely.                           |
+|    2 | I put too much trust in those who wield power within my temple's hierarchy.      |
+|    3 | My piety sometimes leads me to blindly trust those that profess faith in my god. |
+|    4 | I am inflexible in my thinking.                                                  |
+|    5 | I am suspicious of strangers and expect the worst of them.                       |
 
 6 Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.
 
@@ -3278,7 +3265,8 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 - _**Poison, Basic.**_ You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
 - _**Potion of Healing.**_ A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
 - _**Pouch.**_ A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section).
-- _**Quiver.**_ A quiver can hold up to 20 arrows. _Ram, Portable._ You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
+- _**Quiver.**_ A quiver can hold up to 20 arrows.
+- _**Ram, Portable.**_ You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
 - _**Rations.**_ Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
 - _**Rope.**_ Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.
 - _**Scale, Merchant's.**_ A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.
@@ -3505,17 +3493,16 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 ### Mounts and Other Animals
 
-|                |        |        | Carrying   |
-|----------------|--------|--------|------------|
-| Item           | Cost   | Speed  | Capacity   |
-| Camel          | 50 gp  | 50 ft. | 480 lb.    |
-| Donkey or mule | 8 gp   | 40 ft. | 420 lb.    |
-| Elephant       | 200 gp | 40 ft. | 1,320 lb.  |
-| Horse, draft   | 50 gp  | 40 ft. | 540 lb.    |
-| Horse, riding  | 75 gp  | 60 ft. | 480 lb.    |
-| Mastiff        | 25 gp  | 40 ft. | 195 lb.    |
-| Pony           | 30 gp  | 40 ft. | 225 lb.    |
-| Warhorse       | 400 gp | 60 ft. | 540 lb.    |
+| Item           | Cost   | Speed   | Carrying Capacity   |
+|----------------|--------|---------|---------------------|
+| Camel          | 50 gp  | 50 ft.  | 480 lb.             |
+| Donkey or mule | 8 gp   | 40 ft.  | 420 lb.             |
+| Elephant       | 200 gp | 40 ft.  | 1,320 lb.           |
+| Horse, draft   | 50 gp  | 40 ft.  | 540 lb.             |
+| Horse, riding  | 75 gp  | 60 ft.  | 480 lb.             |
+| Mastiff        | 25 gp  | 40 ft.  | 195 lb.             |
+| Pony           | 30 gp  | 40 ft.  | 225 lb.             |
+| Warhorse       | 400 gp | 60 ft.  | 540 lb.             |
 
 ## Tack, Harness, and Drawn Vehicles
 
@@ -6386,14 +6373,13 @@ When you change the weather conditions, find a current condition on the followin
 
 ## Precipitation
 
-|   Stage | Condition   |
-|---------|-------------|
-|       1 | Clear       |
-
-- 2 Light clouds
-- 3 Overcast or ground fog
-- 4 Rain, hail, or snow
-- 5 Torrential rain, driving hail, or blizzard
+|   Stage | Condition                                  |
+|---------|--------------------------------------------|
+|       1 | Clear                                      |
+|       2 | Light clouds                               |
+|       3 | Overcast or ground fog                     |
+|       4 | Rain, hail, or snow                        |
+|       5 | Torrential rain, driving hail, or blizzard |
 
 ## Temperature
 
@@ -10577,16 +10563,13 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 01–20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
 | 21–30  | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
 | 31–40  | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear. |
-
-41–50 The character begins babbling and is incapable of normal speech or spellcasting.
-
-| 51–60   | The character must use his or her action each round to attack the nearest creature.                    |
-|---------|--------------------------------------------------------------------------------------------------------|
-| 61–70   | The character experiences vivid hallucinations and has disadvantage on ability checks.                 |
-| 71–75   | The character does whatever anyone tells him or her to do that isn't obviously self destructive.       |
-| 76–80   | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal. |
-| 81–90   | The character is stunned.                                                                              |
-| 91–100  | The character falls unconscious.                                                                       |
+| 41–50  | The character begins babbling and is incapable of normal speech or spellcasting.                                             |
+| 51–60  | The character must use his or her action each round to attack the nearest creature.                                          |
+| 61–70  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                       |
+| 71–75  | The character does whatever anyone tells him or her to do that isn't obviously self destructive.                             |
+| 76–80  | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.                       |
+| 81–90  | The character is stunned.                                                                                                    |
+| 91–100 | The character falls unconscious.                                                                                             |
 
 ## Long-Term Madness
 
@@ -10916,18 +10899,17 @@ If you dump the bag's contents out on the ground, they explode in a 10-foot radi
 
 If you remove a bean from the bag, plant it in dirt or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The GM can choose an effect from the following table, determine it randomly, or create an effect.
 
-#### d100 Effect
-
-| 01    | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 poison damage and become poisoned for 1 hour. On an even roll, the eater gains 5d6 temporary hit points for 1 hour.                                                                                      |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 02–10 | A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d12 rounds.                                                                                                                                                                                                                                   |
-| 11–20 | A treant sprouts. There's a 50 percent chance that the treant is chaotic evil and attacks.                                                                                                                                                                                                                                                                            |
-| 21–30 | An animate, immobile stone statue in your likeness rises. It makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours. |
-| 31–40 | A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).                                                                                                                                                                                                                                                                       |
-| 41–50 | 1d6 + 6 shriekers sprout                                                                                                                                                                                                                                                                                                                                              |
-| 51–60 | 1d4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.                                                                                                                                                |
-| 61–70 | A hungry bulette burrows up and attacks.                                                                                                                                                                                                                                                                                                                              |
-| 71–80 | A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined magic potions, while one acts as an ingested poison of the GM's choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.                                                                                                                    |
+| d100   | Effect                                                                                                                                                                                                                                                                                                                                                                |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01     | 5d4 toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take 5d6 poison damage and become poisoned for 1 hour. On an even roll, the eater gains 5d6 temporary hit points for 1 hour.                                                                                      |
+| 02–10  | A geyser erupts and spouts water, beer, berry juice, tea, vinegar, wine, or oil (GM's choice) 30 feet into the air for 1d12 rounds.                                                                                                                                                                                                                                   |
+| 11–20  | A treant sprouts. There's a 50 percent chance that the treant is chaotic evil and attacks.                                                                                                                                                                                                                                                                            |
+| 21–30  | An animate, immobile stone statue in your likeness rises. It makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours. |
+| 31–40  | A campfire with blue flames springs forth and burns for 24 hours (or until it is extinguished).                                                                                                                                                                                                                                                                       |
+| 41–50  | 1d6 + 6 shriekers sprout                                                                                                                                                                                                                                                                                                                                              |
+| 51–60  | 1d4 + 8 bright pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the GM's choice. The monster remains for 1 minute, then disappears in a puff of bright pink smoke.                                                                                                                                                |
+| 61–70  | A hungry bulette burrows up and attacks.                                                                                                                                                                                                                                                                                                                              |
+| 71–80  | A fruit tree grows. It has 1d10 + 20 fruit, 1d8 of which act as randomly determined magic potions, while one acts as an ingested poison of the GM's choice. The tree vanishes after 1 hour. Picked fruit remains, retaining any magic for 30 days.                                                                                                                    |
 
 81–90 A nest of 1d4 + 3 eggs springs up. Any creature that eats an egg must make a DC 20 Constitution saving throw. On a successful save, a creature permanently increases its lowest ability score by 1, randomly choosing among equally low scores. On a failed save, the creature takes 10d6 force damage from an internal magical explosion.
 
@@ -12970,12 +12952,11 @@ _**Retributive Strike.**_ You can use an action to break the staff over your kne
 
 You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
-#### Distance from Origin Damage
-
-| 10 ft. away or closer   | 8 × the number of charges in the staff   |
-|-------------------------|------------------------------------------|
-| 11 to 20 ft. away       | 6 × the number of charges in the staff   |
-| 21 to 30 ft. away       | 4 × the number of charges in the staff   |
+| Distance from Origin   | Damage                                 |
+|------------------------|----------------------------------------|
+| 10 ft. away or closer  | 8 × the number of charges in the staff |
+| 11 to 20 ft. away      | 6 × the number of charges in the staff |
+| 21 to 30 ft. away      | 4 × the number of charges in the staff |
 
 #### Staff of the Python
 
@@ -13246,28 +13227,27 @@ If an effect covers an area, you must center the spell on and include the target
 
 The wand regains 1d6 + 1 expended charges daily at dawn. If you expend the wand's last charge, roll a d20. On a 1, the wand crumbles into dust and is destroyed.
 
-#### d100 Effect
-
-| 01–05   | You cast slow.                                                                                                                                                                                                                                                                     |
-|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 06–10   | You cast faerie fire.                                                                                                                                                                                                                                                              |
-| 11–15   | You are stunned until the start of your next turn, believing something awesome just happened.                                                                                                                                                                                      |
-| 16–20   | You cast gust of wind.                                                                                                                                                                                                                                                             |
-| 21–25   | You cast detect thoughts on the target you chose. If you didn't target a creature, you instead take 1d6 psychic damage.                                                                                                                                                            |
-| 26–30   | You cast stinking cloud.                                                                                                                                                                                                                                                           |
-| 31–33   | Heavy rain falls in a 60-foot radius centered on the target. The area becomes lightly obscured. The rain falls until the start of your next turn.                                                                                                                                  |
-| 34–36   | An animal appears in the unoccupied space nearest the target. The animal isn't under your control and acts as it normally would. Roll a d100 to determine which animal appears. On a 01–25, a rhinoceros appears; on a 26–50, an elephant appears; and on a 51–100, a rat appears. |
-| 37–46   | You cast lightning bolt.                                                                                                                                                                                                                                                           |
-| 47–49   | A cloud of 600 oversized butterflies fills a 30-foot radius centered on the target. The area becomes heavily obscured. The butterflies remain for 10 minutes.                                                                                                                      |
-| 50–53   | You enlarge the target as if you had cast enlarge/reduce. If the target can't be affected by that spell, or if you didn't target a creature, you become the target.                                                                                                                |
-| 54–58   | You cast darkness.                                                                                                                                                                                                                                                                 |
-| 59–62   | Grass grows on the ground in a 60-foot radius centered on the target. If grass is already there, it grows to ten times its normal size and remains overgrown for 1 minute.                                                                                                         |
-| 63–65   | An object of the GM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the target, and no larger than 10 feet in any dimension.                                                                                          |
-| 66–69   | You shrink yourself as if you had cast enlarge/reduce on yourself.                                                                                                                                                                                                                 |
-| 70–79   | You cast fireball.                                                                                                                                                                                                                                                                 |
-| 80–84   | You cast invisibility on yourself.                                                                                                                                                                                                                                                 |
-| 85–87   | Leaves grow from the target. If you chose a point in space as the target, leaves sprout from the creature nearest to that point. Unless they are picked off, the leaves turn brown and fall off after 24 hours.                                                                    |
-| 88–90   | A stream of 1d4 × 10 gems, each worth 1 gp, shoots from the wand's tip in a line 30 feet long and 5 feet wide. Each gem deals 1 bludgeoning damage, and the total damage of the gems is                                                                                            |
+| d100   | Effect                                                                                                                                                                                                                                                                             |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01–05  | You cast slow.                                                                                                                                                                                                                                                                     |
+| 06–10  | You cast faerie fire.                                                                                                                                                                                                                                                              |
+| 11–15  | You are stunned until the start of your next turn, believing something awesome just happened.                                                                                                                                                                                      |
+| 16–20  | You cast gust of wind.                                                                                                                                                                                                                                                             |
+| 21–25  | You cast detect thoughts on the target you chose. If you didn't target a creature, you instead take 1d6 psychic damage.                                                                                                                                                            |
+| 26–30  | You cast stinking cloud.                                                                                                                                                                                                                                                           |
+| 31–33  | Heavy rain falls in a 60-foot radius centered on the target. The area becomes lightly obscured. The rain falls until the start of your next turn.                                                                                                                                  |
+| 34–36  | An animal appears in the unoccupied space nearest the target. The animal isn't under your control and acts as it normally would. Roll a d100 to determine which animal appears. On a 01–25, a rhinoceros appears; on a 26–50, an elephant appears; and on a 51–100, a rat appears. |
+| 37–46  | You cast lightning bolt.                                                                                                                                                                                                                                                           |
+| 47–49  | A cloud of 600 oversized butterflies fills a 30-foot radius centered on the target. The area becomes heavily obscured. The butterflies remain for 10 minutes.                                                                                                                      |
+| 50–53  | You enlarge the target as if you had cast enlarge/reduce. If the target can't be affected by that spell, or if you didn't target a creature, you become the target.                                                                                                                |
+| 54–58  | You cast darkness.                                                                                                                                                                                                                                                                 |
+| 59–62  | Grass grows on the ground in a 60-foot radius centered on the target. If grass is already there, it grows to ten times its normal size and remains overgrown for 1 minute.                                                                                                         |
+| 63–65  | An object of the GM's choice disappears into the Ethereal Plane. The object must be neither worn nor carried, within 120 feet of the target, and no larger than 10 feet in any dimension.                                                                                          |
+| 66–69  | You shrink yourself as if you had cast enlarge/reduce on yourself.                                                                                                                                                                                                                 |
+| 70–79  | You cast fireball.                                                                                                                                                                                                                                                                 |
+| 80–84  | You cast invisibility on yourself.                                                                                                                                                                                                                                                 |
+| 85–87  | Leaves grow from the target. If you chose a point in space as the target, leaves sprout from the creature nearest to that point. Unless they are picked off, the leaves turn brown and fall off after 24 hours.                                                                    |
+| 88–90  | A stream of 1d4 × 10 gems, each worth 1 gp, shoots from the wand's tip in a line 30 feet long and 5 feet wide. Each gem deals 1 bludgeoning damage, and the total damage of the gems is                                                                                            |
 
 divided equally among all creatures in the line.
 
@@ -13330,52 +13310,55 @@ A sentient magic item has Intelligence, Wisdom, and Charisma scores. You can cho
 
 A sentient item has some ability to communicate, either by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the following table.
 
-#### d100 Communication
-
-| 01–60   | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                                             |
-|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 61–90   | The item can speak, read, and understand one or more languages.                                                                                                    |
-| 91–00   | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
+| d100   | Communication                                                                                                                                                      |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01–60  | The item communicates by transmitting emotion to the creature carrying or wielding it.                                                                             |
+| 61–90  | The item can speak, read, and understand one or more languages.                                                                                                    |
+| 91–00  | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
 
 #### Senses
 
 With sentience comes awareness. A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the following table.
 
-#### d4 Senses
-
-- 1 Hearing and normal vision out to 30 feet.
-- 2 Hearing and normal vision out to 60 feet
-- 3 Hearing and normal vision out to 120 feet.
-- 4 Hearing and darkvision out to 120 feet.
+|   d4 | Senses                                     |
+|------|--------------------------------------------|
+|    1 | Hearing and normal vision out to 30 feet.  |
+|    2 | Hearing and normal vision out to 60 feet   |
+|    3 | Hearing and normal vision out to 120 feet. |
+|    4 | Hearing and darkvision out to 120 feet.    |
 
 ## Alignment
 
 A sentient magic item has an alignment. Its creator or nature might suggest an alignment. If not, you can pick an alignment or roll on the following table.
 
-| d100   | Alignment      | d100   | Alignment       |
-|--------|----------------|--------|-----------------|
-| 01–15  | Lawful good    | 74–85  | Chaotic neutral |
-| 16–35  | Neutral good   | 86–89  | Lawful evil     |
-| 36–50  | Chaotic good   | 90–96  | Neutral evil    |
-| 51–63  | Lawful neutral | 97–00  | Chaotic evil    |
-| 64–73  | Neutral        |        |                 |
+| d100   | Alignment       |
+|--------|-----------------|
+| 01–15  | Lawful good     |
+| 16–35  | Neutral good    |
+| 36–50  | Chaotic good    |
+| 51–63  | Lawful neutral  |
+| 64–73  | Neutral         |
+| 74–85  | Chaotic neutral |
+| 86–89  | Lawful evil     |
+| 90–96  | Neutral evil    |
+| 97–00  | Chaotic evil    |
 
 ## Special Purpose
 
 You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item, and could even cause the item to prevent the use of its activated properties. You can pick a special purpose or roll on the following table.
 
-#### d10 Purpose
-
-- 1 _Aligned:_ The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)
-- 2 _Bane_: The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.
-- 3 _Protector:_ The item seeks to defend a particular race or kind of creature, such as elves or druids.
-- 4 _Crusader:_ The item seeks to defeat, weaken, or destroy the servants of a particular deity.
-- 5 Templar: The item seeks to defend the servants and interests of a particular deity.
-- 6 _Destroyer:_ The item craves destruction and goads its user to fight arbitrarily.
-- 7 _Glory Seeker:_ The item seeks renown as the greatest magic item in the world, by establishing its user as a famous or notorious figure.
-- 8 _Lore Seeker:_ The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.
-- 9 _Destiny Seeker:_ The item is convinced that it and its wielder have key roles to play in future events.
-- 10 _Creator Seeker:_ The item seeks its creator and wants to understand why it was created.
+|   d10 | Purpose                                                                                                                                  |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------|
+|     1 | _Aligned:_ The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)              |
+|     2 | _Bane_: The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.           |
+|     3 | _Protector:_ The item seeks to defend a particular race or kind of creature, such as elves or druids.                                    |
+|     4 | _Crusader:_ The item seeks to defeat, weaken, or destroy the servants of a particular deity.                                             |
+|     5 | Templar: The item seeks to defend the servants and interests of a particular deity.                                                      |
+|     6 | _Destroyer:_ The item craves destruction and goads its user to fight arbitrarily.                                                        |
+|     7 | _Glory Seeker:_ The item seeks renown as the greatest magic item in the world, by establishing its user as a famous or notorious figure. |
+|     8 | _Lore Seeker:_ The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy.             |
+|     9 | _Destiny Seeker:_ The item is convinced that it and its wielder have key roles to play in future events.                                 |
+|    10 | _Creator Seeker:_ The item seeks its creator and wants to understand why it was created.                                                 |
 
 # Conflict
 
@@ -13544,25 +13527,42 @@ A saving throw bonus is the sum of a monster's relevant ability modifier and its
 
 # Proficiency Bonus by Challenge Rating
 
-| Proficiency Challenge Bonus   |    |   Challenge |   Proficiency Bonus |
-|-------------------------------|----|-------------|---------------------|
-| 0                             | +2 |          14 |                  +5 |
-| 1/8                           | +2 |          15 |                  +5 |
-| 1/4                           | +2 |          16 |                  +5 |
-| 1/2                           | +2 |          17 |                  +6 |
-| 1                             | +2 |          18 |                  +6 |
-| 2                             | +2 |          19 |                  +6 |
-| 3                             | +2 |          20 |                  +6 |
-| 4                             | +2 |          21 |                  +7 |
-| 5                             | +3 |          22 |                  +7 |
-| 6                             | +3 |          23 |                  +7 |
-| 7                             | +3 |          24 |                  +7 |
-| 8                             | +3 |          25 |                  +8 |
-| 9                             | +4 |          26 |                  +8 |
-| 10                            | +4 |          27 |                  +8 |
-| 11                            | +4 |          28 |                  +8 |
-| 12                            | +4 |          29 |                  +9 |
-| 13                            | +5 |          30 |                  +9 |
+| Challenge   |   Proficiency Bonus |
+|-------------|---------------------|
+| 0           |                  +2 |
+| 1/8         |                  +2 |
+| 1/4         |                  +2 |
+| 1/2         |                  +2 |
+| 1           |                  +2 |
+| 2           |                  +2 |
+| 3           |                  +2 |
+| 4           |                  +2 |
+| 5           |                  +3 |
+| 6           |                  +3 |
+| 7           |                  +3 |
+| 8           |                  +3 |
+| 9           |                  +4 |
+| 10          |                  +4 |
+| 11          |                  +4 |
+| 12          |                  +4 |
+| 13          |                  +5 |
+| 14          |                  +5 |
+| 15          |                  +5 |
+| 16          |                  +5 |
+| 17          |                  +6 |
+| 18          |                  +6 |
+| 19          |                  +6 |
+| 20          |                  +6 |
+| 21          |                  +7 |
+| 22          |                  +7 |
+| 23          |                  +7 |
+| 24          |                  +7 |
+| 25          |                  +8 |
+| 26          |                  +8 |
+| 27          |                  +8 |
+| 28          |                  +8 |
+| 29          |                  +9 |
+| 30          |                  +9 |
 
 # Skills
 
@@ -13779,11 +13779,12 @@ _Large aberration, lawful evil_
 
 #### Actions
 
-- _**Multiattack.**_ The aboleth makes three tentacle attacks. _Tentacle. Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by _Heal_ or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
+- _**Multiattack.**_ The aboleth makes three tentacle attacks.
+- _**Tentacle.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by _Heal_ or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed.
 - _**Tail.** Melee Weapon Attack:_ +9 to hit, reach 10 ft. one target. _Hit:_ 15 (3d6 + 5) bludgeoning damage.
 - _**Enslave (3/Day).**_ The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance.
 
-Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
+    Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
 
 #### Legendary Actions
 
@@ -13823,7 +13824,7 @@ _Medium celestial, lawful good_
     - At will: _Detect Evil and Good_
     - 1/day each: _Commune_, _Raise Dead_
 
-_**Magic Resistance.**_ The deva has advantage on saving throws against spells and other magical effects.
+- _**Magic Resistance.**_ The deva has advantage on saving throws against spells and other magical effects.
 
 #### Actions
 
@@ -13832,7 +13833,7 @@ _**Magic Resistance.**_ The deva has advantage on saving throws against spells a
 - _**Healing Touch (3/Day).**_ The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 - _**Change Shape.**_ The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva's choice).
 
-In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.
+    In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.
 
 #### Planetar
 
@@ -13857,7 +13858,8 @@ _Large celestial, lawful good_
 #### Traits
 
 - _**Angelic Weapons.**_ The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).
-- _**Divine Awareness.**_ The planetar knows if it hears a lie. _Innate Spellcasting._ The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
+- _**Divine Awareness.**_ The planetar knows if it hears a lie.
+- _**Innate Spellcasting.**_ The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
 
     - At will: _Detect Evil and Good_, _Invisibility_ (self only)
     - 3/day each: _Blade Barrier_, _Dispel Evil and Good_, _Flame Strike_, _Raise Dead_
@@ -13942,11 +13944,8 @@ _Medium construct, unaligned_
 
 #### Traits
 
-- _**Antimagic Susceptibility.**_ The armor is incapacitated while in the area of an _Antimagic Field_. If targeted by _Dispel Magic_, the armor must succeed on a
-
-Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
-
-_**False Appearance.**_ While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+- _**Antimagic Susceptibility.**_ The armor is incapacitated while in the area of an _Antimagic Field_. If targeted by _Dispel Magic_, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
+- _**False Appearance.**_ While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
 #### Actions
 
@@ -14079,11 +14078,11 @@ _Medium monstrosity, unaligned_
 
 #### Traits
 
-**Petrifying Gaze.** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the _Greater Restoration_ spell or other magic.
+- _**Petrifying Gaze.**_ If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the _Greater Restoration_ spell or other magic.
 
-A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save.
+    A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save.
 
-If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
+    If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
 
 #### Actions
 
@@ -14115,7 +14114,7 @@ _Huge monstrosity, neutral evil_
 - _**Lightning Breath (Recharge 5–6).**_ The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 - _**Swallow.**_ The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.
 
-If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
+    If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
 
 #### Bugbear
 
@@ -14286,9 +14285,9 @@ _Large aberration, chaotic neutral_
 - _**Moan.**_ Each creature within 60 feet of the cloaker that can hear its moan and that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become frightened until the end of the cloaker's next turn. If a creature's saving throw is successful, the creature is immune to the cloaker's moan for the next 24 hours
 - _**Phantasms (Recharges after a Short or Long Rest).**_ The cloaker magically creates three illusory duplicates of itself if it isn't in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.
 
-Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this magical effect if it can't see or if it relies on senses other than sight.
+    Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this magical effect if it can't see or if it relies on senses other than sight.
 
-A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
+    A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
 
 ## Cockatrice
 
@@ -14333,10 +14332,9 @@ _Medium celestial, lawful good_
 
 - _**Innate Spellcasting.**_ The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
 
-At will: _Detect Evil and Good_, _Detect Magic_, _Detect Thoughts_
-
-- 3/day each: _Bless_, _Create Food and Water_, _Cure Wounds_, _Lesser Restoration_, _Protection from Poison_, _Sanctuary_, _Shield_
-- 1/day each: _Dream_, _Greater Restoration_, _Scrying_
+    - At will: _Detect Evil and Good_, _Detect Magic_, _Detect Thoughts_
+    - 3/day each: _Bless_, _Create Food and Water_, _Cure Wounds_, _Lesser Restoration_, _Protection from Poison_, _Sanctuary_, _Shield_
+    - 1/day each: _Dream_, _Greater Restoration_, _Scrying_
 
 - _**Magic Weapons.**_ The couatl's weapon attacks are magical.
 - _**Shielded Mind.**_ The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
@@ -14347,7 +14345,7 @@ At will: _Detect Evil and Good_, _Detect Magic_, _Detect Thoughts_
 - _**Constrict.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one Medium or smaller creature. _Hit:_ 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.
 - _**Change Shape.**_ The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).
 
-In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
+    In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
 
 # Monsters (D)
 
@@ -14377,11 +14375,11 @@ _Small monstrosity, unaligned_
 
 - _**Crush.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.
 
-While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target.
+    While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target.
 
-A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.
+    A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement.
 
-_**Darkness Aura (1/Day).**_ A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
+- _**Darkness Aura (1/Day).**_ A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
 
 # Demons
 
@@ -14774,13 +14772,11 @@ _Medium fiend (devil), lawful evil_
 - _**Chain.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
 - _**Animate Chains (Recharges after a Short or Long Rest).**_ Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.
 
-Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
+    Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
 
 #### Reactions
 
-- _**Unnerving Mask.**_ When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14
-
-Wisdom saving throw or be frightened until the end of its turn.
+- _**Unnerving Mask.**_ When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
 
 #### Erinyes
 
@@ -14882,9 +14878,9 @@ _Large fiend (devil), lawful evil_
 - _**Tail.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.
 - _**Wall of Ice (Recharge 6).**_ The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.
 
-When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
+    When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
 
-The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
+    The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
 
 #### Imp
 
@@ -15113,7 +15109,8 @@ _Gargantuan dragon, chaotic evil_
 
 #### Traits
 
-- _**Amphibious.**_ The dragon can breathe air and water. _Legendary Resistance (3/Day)._ If the dragon fails a saving throw, it can choose to succeed instead.
+- _**Amphibious.**_ The dragon can breathe air and water.
+- _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
 
@@ -15153,7 +15150,8 @@ _Huge dragon, chaotic evil_
 
 #### Traits
 
-- _**Amphibious.**_ The dragon can breathe air and water. _Legendary Resistance (3/Day)._ If the dragon fails a saving throw, it can choose to succeed instead.
+- _**Amphibious.**_ The dragon can breathe air and water.
+- _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
 
@@ -15386,7 +15384,8 @@ _Gargantuan dragon, lawful evil_
 
 #### Traits
 
-- _**Amphibious.**_ The dragon can breathe air and water. _Legendary Resistance (3/Day)._ If the dragon fails a saving throw, it can choose to succeed instead.
+- _**Amphibious.**_ The dragon can breathe air and water.
+- _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
 
@@ -15812,13 +15811,11 @@ _Gargantuan dragon, chaotic good_
 - _**Tail.** Melee Weapon Attack:_ +14 to hit, reach 20 ft., one target. _Hit:_ 17 (2d8 + 8) bludgeoning damage.
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons:
+    - **Fire Breath.** The dragon exhales fire in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 21 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+    - **Sleep Breath.** The dragon exhales sleep gas in a 90-foot cone. Each creature in that area must succeed on a DC 21 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+- _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 
-- **Fire Breath.** The dragon exhales fire in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 21 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
-- **Sleep Breath.** The dragon exhales sleep gas in a 90-foot cone. Each creature in that area must succeed on a DC 21 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
-
-_**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
-
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+    In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 #### Legendary Actions
 
@@ -15859,9 +15856,8 @@ _Huge dragon, chaotic good_
 - _**Tail.** Melee Weapon Attack:_ +11 to hit, reach 15 ft., one target. _Hit:_ 15 (2d8 + 6) bludgeoning damage.
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Fire Breath.** The dragon exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one.
-- **Sleep Breath.** The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+    - **Fire Breath.** The dragon exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one.
+    - **Sleep Breath.** The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
 #### Legendary Actions
 
@@ -15896,9 +15892,8 @@ _Large dragon, chaotic good_
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage.
 - _**Claw.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Fire Breath.** The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.
-- **Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+    - **Fire Breath.** The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.
+    - **Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
 #### Brass Dragon Wyrmling
 
@@ -15923,9 +15918,8 @@ _Medium dragon, chaotic good_
 
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Fire Breath.** The dragon exhales fire in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
-- **Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+    - **Fire Breath.** The dragon exhales fire in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
+    - **Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
 ## Bronze Dragon
 
@@ -15950,7 +15944,8 @@ _Gargantuan dragon, lawful good_
 
 #### Traits
 
-- _**Amphibious.**_ The dragon can breathe air and water. _Legendary Resistance (3/Day)._ If the dragon fails a saving throw, it can choose to succeed instead.
+- _**Amphibious.**_ The dragon can breathe air and water.
+- _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
 
@@ -15960,13 +15955,11 @@ _Gargantuan dragon, lawful good_
 - _**Tail.** Melee Weapon Attack:_ +16 to hit, reach 20 ft., one target. _Hit:_ 18 (2d8 + 9) bludgeoning damage.
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
+    - **Lightning Breath.** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+    - **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+- _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 
-- **Lightning Breath.** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
-- **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
-
-_**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
-
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+    In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 #### Legendary Actions
 
@@ -15997,7 +15990,8 @@ _Huge dragon, lawful good_
 
 #### Traits
 
-- _**Amphibious.**_ The dragon can breathe air and water. _Legendary Resistance (3/Day)._ If the dragon fails a saving throw, it can choose to succeed instead.
+- _**Amphibious.**_ The dragon can breathe air and water.
+- _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
 
@@ -16007,13 +16001,11 @@ _Huge dragon, lawful good_
 - _**Tail.** Melee Weapon Attack:_ +12 to hit, reach 15 ft., one target. _Hit:_ 16 (2d8 + 7) bludgeoning damage.
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
+    - **Lightning Breath.** The dragon exhales lightning in a 90 foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+    - **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+- _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 
-- **Lightning Breath.** The dragon exhales lightning in a 90 foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
-- **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
-
-_**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
-
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+    In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 #### Legendary Actions
 
@@ -16052,9 +16044,8 @@ _Large dragon, lawful good_
 - _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10 + 5) piercing damage.
 - _**Claw.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Lightning Breath.** The dragon exhales lightning in a 60 foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
-- **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+    - **Lightning Breath.** The dragon exhales lightning in a 60 foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+    - **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
 
 #### Bronze Dragon Wyrmling
 
@@ -16083,9 +16074,8 @@ _Medium dragon, lawful good_
 
 - _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Lightning Breath.** The dragon exhales lightning in a 40 foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
-- **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+    - **Lightning Breath.** The dragon exhales lightning in a 40 foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+    - **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
 
 ## Copper Dragon
 
@@ -16120,13 +16110,11 @@ _Gargantuan dragon, chaotic good_
 - _**Tail.** Melee Weapon Attack:_ +15 to hit, reach 20 ft., one target. _Hit:_ 17 (2d8 + 8) bludgeoning damage.
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
+    - **Acid Breath.** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
+    - **Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+- _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 
-- **Acid Breath.** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
-- **Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
-
-_**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
-
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+    In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 #### Legendary Actions
 
@@ -16167,9 +16155,8 @@ _Huge dragon, chaotic good_
 - _**Tail.** Melee Weapon Attack:_ +11 to hit, reach 15 ft., one target. _Hit:_ 15 (2d8 + 6) bludgeoning damage.
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
-- **Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+    - **Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+    - **Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
 #### Legendary Actions
 
@@ -16177,8 +16164,7 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Detect.** The dragon makes a Wisdom (Perception) check.
 - **Tail Attack.** The dragon makes a tail attack.
-
-**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 #### Young Copper Dragon
 
@@ -16205,9 +16191,8 @@ _Large dragon, chaotic good_
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage.
 - _**Claw.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
-- **Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+    - **Acid Breath.** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+    - **Slowing Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
 #### Copper Dragon Wyrmling
 
@@ -16232,9 +16217,8 @@ _Medium dragon, chaotic good_
 
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
-- **Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+    - **Acid Breath.** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+    - **Slowing Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
 ## Gold Dragon
 
@@ -16259,7 +16243,8 @@ _Gargantuan dragon, lawful good_
 
 #### Traits
 
-- _**Amphibious.**_ The dragon can breathe air and water. _Legendary Resistance (3/Day)._ If the dragon fails a saving throw, it can choose to succeed instead.
+- _**Amphibious.**_ The dragon can breathe air and water.
+- _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
 
@@ -16269,13 +16254,11 @@ _Gargantuan dragon, lawful good_
 - _**Tail.** Melee Weapon Attack:_ +17 to hit, reach 20 ft., one target. _Hit:_ 19 (2d8 + 10) bludgeoning damage.
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
+    - **Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
+    - **Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+- _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 
-- **Fire Breath.** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one.
-- **Weakening Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-_**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
-
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+    In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 #### Legendary Actions
 
@@ -16317,13 +16300,11 @@ _Huge dragon, lawful good_
 - _**Tail.** Melee Weapon Attack:_ +14 to hit, reach 15 ft., one target. _Hit:_ 17 (2d8 + 8) bludgeoning damage.
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
+    - **Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
+    - **Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+- _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 
-- **Fire Breath.** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one.
-- **Weakening Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-_**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
-
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+    In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 #### Legendary Actions
 
@@ -16362,9 +16343,8 @@ _Large dragon, lawful good_
 - _**Bite.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage.
 - _**Claw.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
-- **Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+    - **Fire Breath.** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
+    - **Weakening Breath.** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Gold Dragon Wyrmling
 
@@ -16393,9 +16373,8 @@ _Medium dragon, lawful good_
 
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
-- **Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+    - **Fire Breath.** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+    - **Weakening Breath.** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Silver Dragon
 
@@ -16430,13 +16409,11 @@ _Gargantuan dragon, lawful good_
 - _**Tail.** Melee Weapon Attack:_ +17 to hit, reach 20 ft., one target. _Hit:_ 19 (2d8 + 10) bludgeoning damage.
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
+    - **Cold Breath.** The dragon exhales an icy blast in a 90 foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
+    - **Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+- _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 
-- **Cold Breath.** The dragon exhales an icy blast in a 90 foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one.
-- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-_**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
-
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+    In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 #### Legendary Actions
 
@@ -16477,13 +16454,11 @@ _Huge dragon, lawful good_
 - _**Tail.** Melee Weapon Attack:_ +13 to hit, reach 15 ft., one target. _Hit:_ 17 (2d8 + 8) bludgeoning damage.
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
+    - **Cold Breath.** The dragon exhales an icy blast in a 60 foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
+    - **Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+- _**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 
-- **Cold Breath.** The dragon exhales an icy blast in a 60 foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one.
-- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-_**Change Shape.**_ The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
-
-In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+    In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
 #### Legendary Actions
 
@@ -16518,9 +16493,8 @@ _Large dragon, lawful good_
 - _**Bite.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage.
 - _**Claw.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Cold Breath.** The dragon exhales an icy blast in a 30 foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
-- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+    - **Cold Breath.** The dragon exhales an icy blast in a 30 foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+    - **Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Silver Dragon Wyrmling
 
@@ -16545,9 +16519,8 @@ _Medium dragon, lawful good_
 
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.
-
-- **Cold Breath.** The dragon exhales an icy blast in a 15 foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
-- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+    - **Cold Breath.** The dragon exhales an icy blast in a 15 foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+    - **Paralyzing Breath.** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Dragon Turtle
 
@@ -16636,11 +16609,9 @@ _Medium fey, neutral_
 
 - _**Innate Spellcasting.**_ The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
 
-At will: _Druidcraft_
-
-#### 3/day each: _Entangle_, _Goodberry_
-
-1/day each: _Barkskin_, _Pass Without Trace_, _Shillelagh_
+    - At will: _Druidcraft_
+    - 3/day each: _Entangle_, _Goodberry_
+    - 1/day each: _Barkskin_, _Pass Without Trace_, _Shillelagh_
 
 - _**Magic Resistance.**_ The dryad has advantage on saving throws against spells and other magical effects.
 - _**Speak with Beasts and Plants.**_ The dryad can communicate with beasts and plants as if they shared a language.
@@ -16651,9 +16622,9 @@ At will: _Druidcraft_
 - _**Club.** Melee Weapon Attack:_ +2 to hit (+6 to hit with _Shillelagh_), reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _Shillelagh_.
 - _**Fey Charm.**_ The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
 
-Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.
+    Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.
 
-The dryad can have no more than one humanoid and up to three beasts charmed at a time.
+    The dryad can have no more than one humanoid and up to three beasts charmed at a time.
 
 #### Duergar
 
@@ -16717,7 +16688,7 @@ _Large elemental, neutral_
 - _**Slam.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage.
 - _**Whirlwind (Recharge 4–6).**_ Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone.
 
-If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
+    If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
 
 #### Earth Elemental
 
@@ -16806,10 +16777,10 @@ _Large elemental, neutral_
 #### Actions
 
 - _**Multiattack.**_ The elemental makes two slam attacks.
-- _**Slam.**_ Melee _Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
+- _**Slam.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
 - _**Whelm (Recharge 4–6).**_ Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
 
-The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
+    The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
 
 #### Elf, Drow
 
@@ -17012,9 +16983,9 @@ _Large elemental, chaotic good_
 - _**Elemental Demise.**_ If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
 - _**Innate Spellcasting.**_ The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-- At will: _Detect Evil and Good_, _Detect Magic_, _Thunderwave_
-- 3/day each: _Create Food and Water_ (can create wine instead of water), _Tongues_, _Wind Walk_
-- 1/day each: _Conjure Elemental_ (air elemental only), _Creation_, _Gaseous Form_, _Invisibility_, _Major Image_, _Plane Shift_
+    - At will: _Detect Evil and Good_, _Detect Magic_, _Thunderwave_
+    - 3/day each: _Create Food and Water_ (can create wine instead of water), _Tongues_, _Wind Walk_
+    - 1/day each: _Conjure Elemental_ (air elemental only), _Creation_, _Gaseous Form_, _Invisibility_, _Major Image_, _Plane Shift_
 
 #### Actions
 
@@ -17022,7 +16993,7 @@ _Large elemental, chaotic good_
 - _**Scimitar.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice).
 - _**Create Whirlwind.**_ A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
 
-A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
+    A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
 
 #### Efreeti
 
@@ -17088,7 +17059,7 @@ _Medium undead, any alignment_
 - _**Horrifying Visage.**_ Each non-undead creature within 60 feet of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this ghost's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a _Greater Restoration_ spell, but only within 24 hours of it occurring.
 - _**Possession (Recharge 6).**_ One humanoid that the ghost can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn't deprive the target of awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.
 
-The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the _Dispel Evil and Good_ spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
+    The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the _Dispel Evil and Good_ spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
 
 # Ghouls
 
@@ -17200,7 +17171,8 @@ _Huge giant, lawful evil_
 #### Actions
 
 - _**Multiattack.**_ The giant makes two greatsword attacks.
-- _**Greatsword.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 28 (6d6 + 7) slashing damage. _Rock. Ranged Weapon Attack:_ +11 to hit, range 60/240 ft., one target. _Hit:_ 29 (4d10 + 7) bludgeoning damage.
+- _**Greatsword.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 28 (6d6 + 7) slashing damage.
+- _**Rock.** Ranged Weapon Attack:_ +11 to hit, range 60/240 ft., one target. _Hit:_ 29 (4d10 + 7) bludgeoning damage.
 
 ### Frost Giant
 
@@ -17247,7 +17219,8 @@ _Huge giant, chaotic evil_
 #### Actions
 
 - _**Multiattack.**_ The giant makes two greatclub attacks.
-- _**Greatclub.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 18 (3d8 + 5) bludgeoning damage. _Rock. Ranged Weapon Attack:_ +8 to hit, range 60/240 ft., one target. _Hit:_ 21 (3d10 + 5) bludgeoning damage.
+- _**Greatclub.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 18 (3d8 + 5) bludgeoning damage.
+- _**Rock.** Ranged Weapon Attack:_ +8 to hit, range 60/240 ft., one target. _Hit:_ 21 (3d10 + 5) bludgeoning damage.
 
 ### Stone Giant
 
@@ -17273,7 +17246,8 @@ _Huge giant, neutral_
 
 #### Actions
 
-- _**Multiattack.**_ The giant makes two greatclub attacks. _Greatclub. Melee Weapon Attack:_ +9 to hit, reach 15 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage.
+- _**Multiattack.**_ The giant makes two greatclub attacks.
+- _**Greatclub.** Melee Weapon Attack:_ +9 to hit, reach 15 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage.
 - _**Rock.** Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one target. _Hit:_ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
 
 #### Reactions
@@ -17305,7 +17279,8 @@ _Huge giant, chaotic good_
 - _**Amphibious.**_ The giant can breathe air and water.
 - _**Innate Spellcasting.**_ The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
-At will: _Detect Magic_, _Feather Fall_, _Levitate_, _Light_ 3/day each: _Control Weather_, _Water Breathing_
+    - At will: _Detect Magic_, _Feather Fall_, _Levitate_, _Light_
+    - 3/day each: _Control Weather_, _Water Breathing_
 
 #### Actions
 
@@ -17478,15 +17453,15 @@ _Medium construct, neutral_
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 5 (1,800 XP)
 
-_**Berserk.**_ Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
+#### Traits
 
-The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.
+- _**Berserk.**_ Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
+
+    The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again.
 
 - _**Aversion of Fire.**_ If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
 - _**Immutable Form.**_ The golem is immune to any spell or effect that would alter its form.
-
-_Lightning Absorption_. Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.
-
+- _**Lightning Absorption.**_ Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.
 - _**Magic Resistance.**_ The golem has advantage on saving throws against spells and other magical effects.
 - _**Magic Weapons.**_ The golem's weapon attacks are magical.
 
@@ -17523,7 +17498,8 @@ _Fire Absorption_. Whenever the golem is subjected to fire damage, it takes no d
 
 #### Actions
 
-- _**Multiattack.**_ The golem makes two melee attacks. _Slam. Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 20 (3d8 + 7) bludgeoning damage.
+- _**Multiattack.**_ The golem makes two melee attacks.
+- _**Slam.** Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 20 (3d8 + 7) bludgeoning damage.
 - _**Sword.** Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 23 (3d10 + 7) slashing damage.
 - _**Poison Breath (Recharge 6).**_ The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -17692,18 +17668,18 @@ _Medium fey, neutral evil_
 - _**Amphibious.**_ The hag can breathe air and water.
 - _**Innate Spellcasting.**_ The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
 
-At will: _Dancing Lights_, _Minor Illusion_, _Vicious Mockery_
+    - At will: _Dancing Lights_, _Minor Illusion_, _Vicious Mockery_
 
-_**Mimicry.**_ The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
+- _**Mimicry.**_ The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 
 #### Actions
 
 - _**Claws.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.
 - _**Illusory Appearance.**_ The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
 
-The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.
+    The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.
 
-_**Invisible Passage.**_ The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
+- _**Invisible Passage.**_ The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
 
 ## Night Hag
 
@@ -17761,7 +17737,7 @@ _Medium fey, chaotic evil_
 - _**Amphibious.**_ The hag can breathe air and water.
 - _**Horrific Appearance.**_ Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
 
-Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
+    Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
 
 #### Actions
 
@@ -17769,7 +17745,7 @@ Unless the target is surprised or the revelation of the hag's true form is sudde
 - _**Death Glare.**_ The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.
 - _**Illusory Appearance.**_ The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.
 
-The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
+    The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
 
 # Half-Dragon Template
 
@@ -17848,9 +17824,9 @@ _Medium monstrosity, chaotic evil_
 - _**Club.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) bludgeoning damage.
 - _**Luring Song.**_ The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.
 
-While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route, trying to get within 5 feet. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, the target can repeat the saving throw. A charmed target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it.
+    While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route, trying to get within 5 feet. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, the target can repeat the saving throw. A charmed target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it.
 
-A target that successfully saves is immune to this harpy's song for the next 24 hours.
+    A target that successfully saves is immune to this harpy's song for the next 24 hours.
 
 ## Hell Hound
 
@@ -17980,9 +17956,9 @@ _Huge monstrosity, unaligned_
 - _**Hold Breath.**_ The hydra can hold its breath for 1 hour.
 - _**Multiple Heads.**_ The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
 
-Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.
+    Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.
 
-At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.
+    At the end of its turn, it grows two heads for each of its heads that died since its last turn, unless it has taken fire damage since its last turn. The hydra regains 10 hit points for each head regrown in this way.
 
 - _**Reactive Heads.**_ For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.
 - _**Wakeful.**_ While the hydra sleeps, at least one of its heads is awake.
@@ -18082,7 +18058,7 @@ _Gargantuan monstrosity (titan), chaotic evil_
 - _**Multiattack.**_ The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 - _**Bite.** Melee Weapon Attack:_ +17 to hit, reach 5 ft., one target. _Hit:_ 23 (3d8 + 10) piercing damage. If the target is a Large or smaller creature grappled by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 42 (12d6) acid damage at the start of each of the kraken's turns.
 
-If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
+    If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 
 - _**Tentacle.** Melee Weapon Attack:_ +17 to hit, reach 30 ft., one target. _Hit:_ 20 (3d6 + 10) bludgeoning damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target.
 - _**Fling.**_ One Large or smaller object held or creature grappled by the kraken is thrown up to 60 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 18 Dexterity saving throw or take the same damage and be knocked prone.
@@ -18120,10 +18096,9 @@ _Large monstrosity, chaotic evil_
 
 - _**Innate Spellcasting.**_ The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
 
-At will: _Disguise Self_ (any humanoid form), _Major Image_
-
-- 3/day each: _Charm Person_, _Mirror Image_, _Scrying_, _Suggestion_
-- 1/day: _Geas_
+    - At will: _Disguise Self_ (any humanoid form), _Major Image_
+    - 3/day each: _Charm Person_, _Mirror Image_, _Scrying_, _Suggestion_
+    - 1/day: _Geas_
 
 #### Actions
 
@@ -18445,9 +18420,9 @@ _Medium monstrosity, lawful evil_
 
 - _**Petrifying Gaze.**_ When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the _Greater Restoration_ spell or other magic.
 
-Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.
+    Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.
 
-If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
+    If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
 
 #### Actions
 
@@ -18797,12 +18772,10 @@ _Large monstrosity, lawful good_
 - _**Rejuvenation.**_ If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _Wish_ spell can prevent this trait from functioning.
 - _**Spellcasting.**_ The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
 
-Cantrips (at will): _Mending_, _Sacred Flame_, _Thaumaturgy_
-
-- 1st level (4 slots): _Command_, _Cure Wounds_, _Shield of Faith_
-- 2nd level (3 slots): _Calm Emotions_, _Hold Person_
-- 3rd level (3 slots): _Bestow Curse_, _Clairvoyance_
-
+    - Cantrips (at will): _Mending_, _Sacred Flame_, _Thaumaturgy_
+    - 1st level (4 slots): _Command_, _Cure Wounds_, _Shield of Faith_
+    - 2nd level (3 slots): _Calm Emotions_, _Hold Person_
+    - 3rd level (3 slots): _Bestow Curse_, _Clairvoyance_
     - 4th level (3 slots): _Banishment_, _Freedom of Movement_
     - 5th level (2 slots): _Flame Strike_, _Geas_
     - 6th level (1 slot): _True Seeing_
@@ -18953,9 +18926,9 @@ _Large ooze, unaligned_
 - _**Amorphous.**_ The pudding can move through a space as narrow as 1 inch wide without squeezing.
 - _**Corrosive Form.**_ A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.
 
-The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
+    The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
-_**Spider Climb.**_ The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+- _**Spider Climb.**_ The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 #### Actions
 
@@ -18986,24 +18959,24 @@ _Large ooze, unaligned_
 
 - _**Ooze Cube.**_ The cube takes up its entire space. Other creatures can enter the space, but a creature that does so is subjected to the cube's Engulf and has disadvantage on the saving throw.
 
-Creatures inside the cube can be seen but have total cover.
+    Creatures inside the cube can be seen but have total cover.
 
-A creature within 5 feet of the cube can take an action to pull a creature or object out of the cube. Doing so requires a successful DC 12 Strength check, and the creature making the attempt takes 10 (3d6) acid damage.
+    A creature within 5 feet of the cube can take an action to pull a creature or object out of the cube. Doing so requires a successful DC 12 Strength check, and the creature making the attempt takes 10 (3d6) acid damage.
 
-The cube can hold only one Large creature or up to four Medium or smaller creatures inside it at a time.
+    The cube can hold only one Large creature or up to four Medium or smaller creatures inside it at a time.
 
-_**Transparent.**_ Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is surprised by the cube.
+- _**Transparent.**_ Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is surprised by the cube.
 
 #### Actions
 
 - _**Pseudopod.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) acid damage.
 - _**Engulf.**_ The cube moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the cube enters a creature's space, the creature must make a DC 12 Dexterity saving throw.
 
-On a successful save, the creature can choose to be pushed 5 feet back or to the side of the cube. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.
+    On a successful save, the creature can choose to be pushed 5 feet back or to the side of the cube. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.
 
-On a failed save, the cube enters the creature's space, and the creature takes 10 (3d6) acid damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 21 (6d6) acid damage at the start of each of the cube's turns. When the cube moves, the engulfed creature moves with it.
+    On a failed save, the cube enters the creature's space, and the creature takes 10 (3d6) acid damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 21 (6d6) acid damage at the start of each of the cube's turns. When the cube moves, the engulfed creature moves with it.
 
-An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
+    An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
 
 ## Gray Ooze
 
@@ -19029,9 +19002,9 @@ _Medium ooze, unaligned_
 - _**Amorphous.**_ The ooze can move through a space as narrow as 1 inch wide without squeezing.
 - _**Corrode Metal.**_ Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
 
-The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
+    The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
-_**False Appearance.**_ While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
+- _**False Appearance.**_ While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
 
 #### Actions
 
@@ -19228,9 +19201,9 @@ _Tunneler_. The worm can burrow through solid rock at half its burrow speed and 
 - _**Multiattack.**_ The worm makes two attacks: one with its bite and one with its stinger.
 - _**Bite.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm's turns.
 
-If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
+    If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
 
-_**Tail Stinger.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one creature. _Hit:_ 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+- _**Tail Stinger.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one creature. _Hit:_ 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 
 # Monsters (R)
 
@@ -19295,7 +19268,7 @@ _Huge monstrosity, unaligned_
 - _**Bite.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.
 - _**Swallow.**_ The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns.
 
-If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
+    If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
 
 #### Roc
 
@@ -19381,7 +19354,7 @@ _Medium monstrosity, unaligned_
 - _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 - _**Antennae.**_ The rust monster corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn't being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a DC 11 Dexterity saving throw to avoid the rust monster's touch.
 
-If the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
+    If the object touched is either metal armor or a metal shield being worn or carried, its takes a permanent and cumulative -1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
 
 # Monsters (S)
 
@@ -19503,7 +19476,7 @@ _Medium undead, chaotic evil_
 
 - _**Strength Drain.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 
-If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
+    If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
 
 #### Shambling Mound
 
@@ -19620,7 +19593,8 @@ _Large undead, lawful evil_
 
 #### Actions
 
-- _**Greataxe.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 17 (2d12 + 4) slashing damage. _Gore. Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage.
+- _**Greataxe.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 17 (2d12 + 4) slashing damage.
+- _**Gore.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage.
 
 #### Warhorse Skeleton
 
@@ -19714,11 +19688,9 @@ _Large monstrosity, lawful neutral_
 - _**Multiattack.**_ The sphinx makes two claw attacks.
 - _**Claw.** Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 17 (2d10 + 6) slashing damage.
 - _**Roar (3/Day).**_ The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
-
-- **First Roar.** Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-- **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-**Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
+    - **First Roar.** Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+    - **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+    - **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
 
 #### Legendary Actions
 
@@ -19815,7 +19787,7 @@ _Tiny beast, unaligned_
 
 - _**Blood Drain.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss.
 
-The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
+    The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
 
 #### Succubus/Incubus
 
@@ -19845,13 +19817,10 @@ _Medium fiend (shapechanger), neutral evil_
 - _**Claw (Fiend Form Only).** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 - _**Charm.**_ One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.
 
-The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
+    The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends.
 
-_**Draining Kiss.**_ The fiend kisses a creature charmed by it or a willing creature. The target must make a DC 15
-
-Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed save, or half as much damage on a successful one. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
-
-_**Etherealness.**_ The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
+- _**Draining Kiss.**_ The fiend kisses a creature charmed by it or a willing creature. The target must make a DC 15 Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed save, or half as much damage on a successful one. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+- _**Etherealness.**_ The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
 
 # Monsters (T)
 
@@ -19891,7 +19860,7 @@ _Gargantuan monstrosity (titan), unaligned_
 - _**Frightful Presence.**_ Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours.
 - _**Swallow.**_ The tarrasque makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) acid damage at the start of each of the tarrasque's turns.
 
-If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
+    If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
 
 #### Legendary Actions
 
@@ -20034,14 +20003,14 @@ _Medium undead (shapechanger), lawful evil_
 
 - _**Shapechanger.**_ If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.
 
-While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
+    While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
 
-While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.
+    While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can't pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight.
 
 - _**Legendary Resistance (3/Day).**_ If the vampire fails a saving throw, it can choose to succeed instead.
 - _**Misty Escape.**_ When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.
 
-While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.
+    While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point.
 
 - _**Regeneration.**_ The vampire regains 20 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
 - _**Spider Climb.**_ The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
@@ -20058,9 +20027,9 @@ While it has 0 hit points in mist form, it can't revert to its vampire form, and
 - _**Bite (Bat or Vampire Form Only).** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. _Hit:_ 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control.
 - _**Charm.**_ The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.
 
-Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
+    Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
 
-_**Children of the Night (1/Day).**_ The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
+- _**Children of the Night (1/Day).**_ The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
 
 #### Legendary Actions
 
@@ -20136,7 +20105,7 @@ _Medium undead, neutral evil_
 - _**Multiattack.**_ The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
 - _**Life Drain.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
+    A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
 
 - _**Longsword.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
 - _**Longbow.** Ranged Weapon Attack:_ +4 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
@@ -20153,8 +20122,7 @@ _Tiny undead, chaotic evil_
 |--------|---------|---------|---------|---------|---------|
 | 1 (-5) | 28 (+9) | 10 (+0) | 13 (+1) | 14 (+2) | 11 (+0) |
 
-**Damage Immunities** lightning, poison
-
+- **Damage Immunities** lightning, poison
 - **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 
@@ -20796,9 +20764,7 @@ _Medium beast, unaligned_
 |---------|---------|---------|--------|---------|--------|
 | 15 (+2) | 10 (+0) | 14 (+2) | 2 (-4) | 12 (+1) | 7 (-2) |
 
-```
-Skills Perception +3
-```
+- **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 1/2 (100 XP)
@@ -21558,7 +21524,7 @@ _**Standing Leap.**_ The frog's long jump is up to 20 feet and its high jump is 
 - _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.
 - _**Swallow.**_ The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time.
 
-If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+    If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
 #### Giant Goat
 
@@ -21738,7 +21704,7 @@ _Small beast, unaligned_
 
 Some giant rats carry vile diseases that they spread with their bites. A diseased giant rat has a challenge rating of 1/8 (25 XP) and the following action instead of its normal bite attack.
 
-_**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can't regain hit points except by magical means, and the target's hit point maximum decreases by 3 (1d6) every 24 hours. If the target's hit point maximum drops to 0 as a result of this disease, the target dies.
+- _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or contract a disease. Until the disease is cured, the target can't regain hit points except by magical means, and the target's hit point maximum decreases by 3 (1d6) every 24 hours. If the target's hit point maximum drops to 0 as a result of this disease, the target dies.
 
 #### Giant Scorpion
 
@@ -21873,7 +21839,7 @@ _Large beast, unaligned_
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target.
 - _**Swallow.**_ The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time.
 
-If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+    If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
 
 #### Giant Vulture
 
@@ -22356,9 +22322,7 @@ _Large monstrosity, unaligned_
 |---------|---------|---------|--------|---------|--------|
 | 15 (+2) | 15 (+2) | 12 (+1) | 6 (-2) | 10 (+0) | 6 (-2) |
 
-```
-Skills Stealth +6
-```
+- **Skills** Stealth +6
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 3 (700 XP)
@@ -23078,7 +23042,8 @@ _Medium humanoid (any race), any alignment_
 
 - _**Spellcasting.**_ The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
-Cantrips (at will): _Light_, _Sacred Flame_, _Thaumaturgy_ 1st level (3 slots): _Bless_, _Cure Wounds_, _Sanctuary_
+    - Cantrips (at will): _Light_, _Sacred Flame_, _Thaumaturgy_
+    - 1st level (3 slots): _Bless_, _Cure Wounds_, _Sanctuary_
 
 #### Actions
 
@@ -23113,15 +23078,15 @@ _Medium humanoid (any race), any alignment_
     - Cantrips (at will): _Fire Bolt_, _Light_, _Mage Hand_, _Prestidigitation_, _Shocking Grasp_
     - 1st level (4 slots): _Detect Magic_, _Identify_, _Mage Armor_,\* _Magic Missile_
     - 2nd level (3 slots): _Detect Thoughts_, _Mirror Image_, _Misty Step_
+    - 3rd level (3 slots): _Counterspell_, _Fly_, _Lightning Bolt_
+    - 4th level (3 slots): _Banishment_, _Fire Shield_, _Stoneskin_\*
+    - 5th level (3 slots): _Cone of Cold_, _Scrying_, _Wall of Force_
+    - 6th level (1 slot): _Globe of Invulnerability_
+    - 7th level (1 slot): _Teleport_
+    - 8th level (1 slot): _Mind Blank_\*
+    - 9th level (1 slot): _Time Stop_
 
-- 3rd level (3 slots): _Counterspell_, _Fly_, _Lightning Bolt_
-- 4th level (3 slots): _Banishment_, _Fire Shield_, _Stoneskin_\*
-- 5th level (3 slots): _Cone of Cold_, _Scrying_, _Wall of Force_
-- 6th level (1 slot): _Globe of Invulnerability_
-- 7th level (1 slot): _Teleport_
-- 8th level (1 slot): _Mind Blank_\*
-- 9th level (1 slot): _Time Stop_
-- \**The archmage casts these spells on itself before combat.*
+\**The archmage casts these spells on itself before combat.*
 
 #### Actions
 
@@ -23539,7 +23504,10 @@ _Medium humanoid (any race), any alignment_
 - _**Divine Eminence.**_ As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
 - _**Spellcasting.**_ The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
 
-Cantrips (at will): _Light_, _Sacred Flame_, _Thaumaturgy_ 1st level (4 slots): _Cure Wounds_, _Guiding Bolt_, _Sanctuary_ 2nd level (3 slots): _Lesser Restoration_, _Spiritual Weapon_ 3rd level (2 slots): _Dispel Magic_, _Spirit Guardians_
+    - Cantrips (at will): _Light_, _Sacred Flame_, _Thaumaturgy_
+    - 1st level (4 slots): _Cure Wounds_, _Guiding Bolt_, _Sanctuary_
+    - 2nd level (3 slots): _Lesser Restoration_, _Spiritual Weapon_
+    - 3rd level (2 slots): _Dispel Magic_, _Spirit Guardians_
 
 #### Actions
 

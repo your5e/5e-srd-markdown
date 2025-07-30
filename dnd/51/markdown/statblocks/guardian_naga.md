@@ -22,12 +22,10 @@ _Large monstrosity, lawful good_
 - _**Rejuvenation.**_ If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _Wish_ spell can prevent this trait from functioning.
 - _**Spellcasting.**_ The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
 
-Cantrips (at will): _Mending_, _Sacred Flame_, _Thaumaturgy_
-
-- 1st level (4 slots): _Command_, _Cure Wounds_, _Shield of Faith_
-- 2nd level (3 slots): _Calm Emotions_, _Hold Person_
-- 3rd level (3 slots): _Bestow Curse_, _Clairvoyance_
-
+    - Cantrips (at will): _Mending_, _Sacred Flame_, _Thaumaturgy_
+    - 1st level (4 slots): _Command_, _Cure Wounds_, _Shield of Faith_
+    - 2nd level (3 slots): _Calm Emotions_, _Hold Person_
+    - 3rd level (3 slots): _Bestow Curse_, _Clairvoyance_
     - 4th level (3 slots): _Banishment_, _Freedom of Movement_
     - 5th level (2 slots): _Flame Strike_, _Geas_
     - 6th level (1 slot): _True Seeing_

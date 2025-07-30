@@ -40,7 +40,8 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 - _**Poison, Basic.**_ You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take 1d4 poison damage. Once applied, the poison retains potency for 1 minute before drying.
 - _**Potion of Healing.**_ A character who drinks the magical red fluid in this vial regains 2d4 + 2 hit points. Drinking or administering a potion takes an action.
 - _**Pouch.**_ A cloth or leather pouch can hold up to 20 sling bullets or 50 blowgun needles, among other things. A compartmentalized pouch for holding spell components is called a component pouch (described earlier in this section).
-- _**Quiver.**_ A quiver can hold up to 20 arrows. _Ram, Portable._ You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
+- _**Quiver.**_ A quiver can hold up to 20 arrows.
+- _**Ram, Portable.**_ You can use a portable ram to break down doors. When doing so, you gain a +4 bonus on the Strength check. One other character can help you use the ram, giving you advantage on this check.
 - _**Rations.**_ Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
 - _**Rope.**_ Rope, whether made of hemp or silk, has 2 hit points and can be burst with a DC 17 Strength check.
 - _**Scale, Merchant's.**_ A scale includes a small balance, pans, and a suitable assortment of weights up to 2 pounds. With it, you can measure the exact weight of small objects, such as raw precious metals or trade goods, to help determine their worth.

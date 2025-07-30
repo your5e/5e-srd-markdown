@@ -19,11 +19,9 @@ _Medium fey, neutral_
 
 - _**Innate Spellcasting.**_ The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
 
-At will: _Druidcraft_
-
-#### 3/day each: _Entangle_, _Goodberry_
-
-1/day each: _Barkskin_, _Pass Without Trace_, _Shillelagh_
+    - At will: _Druidcraft_
+    - 3/day each: _Entangle_, _Goodberry_
+    - 1/day each: _Barkskin_, _Pass Without Trace_, _Shillelagh_
 
 - _**Magic Resistance.**_ The dryad has advantage on saving throws against spells and other magical effects.
 - _**Speak with Beasts and Plants.**_ The dryad can communicate with beasts and plants as if they shared a language.
@@ -34,6 +32,6 @@ At will: _Druidcraft_
 - _**Club.** Melee Weapon Attack:_ +2 to hit (+6 to hit with _Shillelagh_), reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _Shillelagh_.
 - _**Fey Charm.**_ The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
 
-Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.
+    Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.
 
-The dryad can have no more than one humanoid and up to three beasts charmed at a time.
+    The dryad can have no more than one humanoid and up to three beasts charmed at a time.

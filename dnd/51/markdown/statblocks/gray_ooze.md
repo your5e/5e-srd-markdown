@@ -22,9 +22,9 @@ _Medium ooze, unaligned_
 - _**Amorphous.**_ The ooze can move through a space as narrow as 1 inch wide without squeezing.
 - _**Corrode Metal.**_ Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
 
-The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
+    The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
-_**False Appearance.**_ While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
+- _**False Appearance.**_ While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
 
 #### Actions
 

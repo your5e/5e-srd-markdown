@@ -12,10 +12,7 @@ As a paladin, you gain the following class features.
 
 ## Proficiencies
 
-**Armor:** All armor, shields
-
-# The Paladin
-
+- **Armor:** All armor, shields
 - **Weapons:** Simple weapons, martial weapons
 - **Tools:** None
 - **Saving Throws:** Wisdom, Charisma
@@ -29,6 +26,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) five javelins or (_b_) any simple melee weapon
 - (_a_) a priest's pack or (_b_) an explorer's pack
 - Chain mail and a holy symbol
+
+# The Paladin
 
 | Level   |   Proficiency Bonus | Features                                   | Spell Slots — 1st   | 2nd   | 3rd   | 4th   | 5th   |
 |---------|---------------------|--------------------------------------------|---------------------|-------|-------|-------|-------|
@@ -185,7 +184,8 @@ The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, 
 Though the exact words and strictures of the Oath of Devotion vary, paladins of this oath share these tenets.
 
 - _**Honesty.**_ Don't lie or cheat. Let your word be your promise.
-- _**Courage.**_ Never fear to act, though caution is wise. _Compassion._ Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
+- _**Courage.**_ Never fear to act, though caution is wise.
+- _**Compassion.**_ Aid others, protect the weak, and punish those who threaten them. Show mercy to your foes, but temper it with wisdom.
 - _**Honor.**_ Treat others with fairness, and let your honorable deeds be an example to them. Do as much good as possible while causing the least amount of harm.
 - _**Duty.**_ Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 
@@ -195,14 +195,13 @@ You gain oath spells at the paladin levels listed.
 
 #### Oath of Devotion Spells
 
-| Paladin   |                                          |
-|-----------|------------------------------------------|
-| Level     | Spells                                   |
-| 3rd       | protection from evil and good, sanctuary |
-| 5th       | lesser restoration, zone of truth        |
-| 9th       | beacon of hope, dispel magic             |
-| 13th      | freedom of movement, guardian of faith   |
-| 17th      | commune, flame strike                    |
+| Paladin Level   | Spells                                   |
+|-----------------|------------------------------------------|
+| 3rd             | protection from evil and good, sanctuary |
+| 5th             | lesser restoration, zone of truth        |
+| 9th             | beacon of hope, dispel magic             |
+| 13th            | freedom of movement, guardian of faith   |
+| 17th            | commune, flame strike                    |
 
 ### Channel Divinity
 

@@ -25,15 +25,15 @@ _Medium humanoid (any race), any alignment_
     - Cantrips (at will): _Fire Bolt_, _Light_, _Mage Hand_, _Prestidigitation_, _Shocking Grasp_
     - 1st level (4 slots): _Detect Magic_, _Identify_, _Mage Armor_,\* _Magic Missile_
     - 2nd level (3 slots): _Detect Thoughts_, _Mirror Image_, _Misty Step_
+    - 3rd level (3 slots): _Counterspell_, _Fly_, _Lightning Bolt_
+    - 4th level (3 slots): _Banishment_, _Fire Shield_, _Stoneskin_\*
+    - 5th level (3 slots): _Cone of Cold_, _Scrying_, _Wall of Force_
+    - 6th level (1 slot): _Globe of Invulnerability_
+    - 7th level (1 slot): _Teleport_
+    - 8th level (1 slot): _Mind Blank_\*
+    - 9th level (1 slot): _Time Stop_
 
-- 3rd level (3 slots): _Counterspell_, _Fly_, _Lightning Bolt_
-- 4th level (3 slots): _Banishment_, _Fire Shield_, _Stoneskin_\*
-- 5th level (3 slots): _Cone of Cold_, _Scrying_, _Wall of Force_
-- 6th level (1 slot): _Globe of Invulnerability_
-- 7th level (1 slot): _Teleport_
-- 8th level (1 slot): _Mind Blank_\*
-- 9th level (1 slot): _Time Stop_
-- \**The archmage casts these spells on itself before combat.*
+\**The archmage casts these spells on itself before combat.*
 
 #### Actions
 

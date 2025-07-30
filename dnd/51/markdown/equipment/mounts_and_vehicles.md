@@ -13,17 +13,16 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 
 ### Mounts and Other Animals
 
-|                |        |        | Carrying   |
-|----------------|--------|--------|------------|
-| Item           | Cost   | Speed  | Capacity   |
-| Camel          | 50 gp  | 50 ft. | 480 lb.    |
-| Donkey or mule | 8 gp   | 40 ft. | 420 lb.    |
-| Elephant       | 200 gp | 40 ft. | 1,320 lb.  |
-| Horse, draft   | 50 gp  | 40 ft. | 540 lb.    |
-| Horse, riding  | 75 gp  | 60 ft. | 480 lb.    |
-| Mastiff        | 25 gp  | 40 ft. | 195 lb.    |
-| Pony           | 30 gp  | 40 ft. | 225 lb.    |
-| Warhorse       | 400 gp | 60 ft. | 540 lb.    |
+| Item           | Cost   | Speed   | Carrying Capacity   |
+|----------------|--------|---------|---------------------|
+| Camel          | 50 gp  | 50 ft.  | 480 lb.             |
+| Donkey or mule | 8 gp   | 40 ft.  | 420 lb.             |
+| Elephant       | 200 gp | 40 ft.  | 1,320 lb.           |
+| Horse, draft   | 50 gp  | 40 ft.  | 540 lb.             |
+| Horse, riding  | 75 gp  | 60 ft.  | 480 lb.             |
+| Mastiff        | 25 gp  | 40 ft.  | 195 lb.             |
+| Pony           | 30 gp  | 40 ft.  | 225 lb.             |
+| Warhorse       | 400 gp | 60 ft.  | 540 lb.             |
 
 ## Tack, Harness, and Drawn Vehicles
 

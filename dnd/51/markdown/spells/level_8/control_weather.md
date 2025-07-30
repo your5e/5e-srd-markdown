@@ -15,14 +15,13 @@ When you change the weather conditions, find a current condition on the followin
 
 ## Precipitation
 
-|   Stage | Condition   |
-|---------|-------------|
-|       1 | Clear       |
-
-- 2 Light clouds
-- 3 Overcast or ground fog
-- 4 Rain, hail, or snow
-- 5 Torrential rain, driving hail, or blizzard
+|   Stage | Condition                                  |
+|---------|--------------------------------------------|
+|       1 | Clear                                      |
+|       2 | Light clouds                               |
+|       3 | Overcast or ground fog                     |
+|       4 | Rain, hail, or snow                        |
+|       5 | Torrential rain, driving hail, or blizzard |
 
 ## Temperature
 

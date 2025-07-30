@@ -12,10 +12,7 @@ As a monk, you gain the following class features.
 
 ## Proficiencies
 
-**Armor:** None
-
-# The Monk
-
+- **Armor:** None
 - **Weapons:** Simple weapons, shortswords
 - **Tools:** Choose one type of artisan's tools or one musical instrument
 - **Saving Throws:** Strength, Dexterity
@@ -28,6 +25,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) a shortsword or (_b_) any simple weapon
 - (_a_) a dungeoneer's pack or (_b_) an explorer's pack
 - 10 darts
+
+# The Monk
 
 | Level   |   Proficiency Bonus | Martial Arts   | Ki Points   | Unarmored Movement   | Features                                         |
 |---------|---------------------|----------------|-------------|----------------------|--------------------------------------------------|

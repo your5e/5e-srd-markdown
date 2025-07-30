@@ -12,10 +12,7 @@ As a druid, you gain the following class features.
 
 # Proficiencies
 
-**Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
-
-# The Druid
-
+- **Armor:** Light armor, medium armor, shields (druids will not wear armor or use shields made of metal)
 - **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears
 - **Tools:** Herbalism kit
 - **Saving Throws:** Intelligence, Wisdom
@@ -28,6 +25,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) a wooden shield or (_b_) any simple weapon
 - (_a_) a scimitar or (_b_) any simple melee weapon
 - Leather armor, an explorer's pack, and a druidic focus
+
+# The Druid
 
 | Level   |   Proficiency Bonus | Features                                          |   Cantrips Known |   Spell Slots — 1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
 |---------|---------------------|---------------------------------------------------|------------------|---------------------|-------|-------|-------|-------|-------|-------|-------|-------|
@@ -99,12 +98,11 @@ Your druid level determines the beasts you can transform into, as shown in the B
 
 #### Beast Shapes
 
-|       | Max.   |                             |             |
-|-------|--------|-----------------------------|-------------|
-| Level | CR     | Limitations                 | Example     |
-| 2nd   | 1/4    | No flying or swimming speed | Wolf        |
-| 4th   | 1/2    | No flying speed             | Crocodile   |
-| 8th   | 1      | —                           | Giant eagle |
+| Level   | Max. CR   | Limitations                 | Example     |
+|---------|-----------|-----------------------------|-------------|
+| 2nd     | 1/4       | No flying or swimming speed | Wolf        |
+| 4th     | 1/2       | No flying speed             | Crocodile   |
+| 8th     | 1         | —                           | Giant eagle |
 
 You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
 

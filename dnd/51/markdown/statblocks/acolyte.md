@@ -19,7 +19,8 @@ _Medium humanoid (any race), any alignment_
 
 - _**Spellcasting.**_ The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
-Cantrips (at will): _Light_, _Sacred Flame_, _Thaumaturgy_ 1st level (3 slots): _Bless_, _Cure Wounds_, _Sanctuary_
+    - Cantrips (at will): _Light_, _Sacred Flame_, _Thaumaturgy_
+    - 1st level (3 slots): _Bless_, _Cure Wounds_, _Sanctuary_
 
 #### Actions
 

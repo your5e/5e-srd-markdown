@@ -19,7 +19,8 @@ _Huge dragon, chaotic evil_
 
 #### Traits
 
-- _**Amphibious.**_ The dragon can breathe air and water. _Legendary Resistance (3/Day)._ If the dragon fails a saving throw, it can choose to succeed instead.
+- _**Amphibious.**_ The dragon can breathe air and water.
+- _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
 #### Actions
 

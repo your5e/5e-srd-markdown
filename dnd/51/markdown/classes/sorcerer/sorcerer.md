@@ -12,10 +12,7 @@ As a sorcerer, you gain the following class features.
 
 # Proficiencies
 
-**Armor:** None
-
-# The Sorcerer
-
+- **Armor:** None
 - **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 - **Tools:** None
 - **Saving Throws:** Constitution, Charisma
@@ -29,6 +26,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) a component pouch or (_b_) an arcane focus
 - (_a_) a dungeoneer's pack or (_b_) an explorer's pack
 - Two daggers
+
+# The Sorcerer
 
 | Level   |   Proficiency Bonus | Sorcery Points   | Features                       |   Cantrips Known |   Spells Known |   Spell Slots — 1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
 |---------|---------------------|------------------|--------------------------------|------------------|----------------|---------------------|-------|-------|-------|-------|-------|-------|-------|-------|

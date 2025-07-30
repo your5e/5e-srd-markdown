@@ -12,10 +12,7 @@ As a bard, you gain the following class features.
 
 ## Proficiencies
 
-**Armor:** Light armor
-
-## The Bard
-
+- **Armor:** Light armor
 - **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 - **Tools:** Three musical instruments of your choice
 - **Saving Throws:** Dexterity, Charisma
@@ -29,6 +26,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - (_a_) a diplomat's pack or (_b_) an entertainer's pack
 - (_a_) a lute or (_b_) any other musical instrument
 - Leather armor and a dagger
+
+## The Bard
 
 | Level   |   Proficiency Bonus | Features                                             |   Cantrips Known |   Spells Known |   Spell Slots - 1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
 |---------|---------------------|------------------------------------------------------|------------------|----------------|---------------------|-------|-------|-------|-------|-------|-------|-------|-------|

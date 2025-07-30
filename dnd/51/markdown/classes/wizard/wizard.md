@@ -12,10 +12,7 @@ As a wizard, you gain the following class features.
 
 # Proficiencies
 
-**Armor:** None
-
-# The Wizard
-
+- **Armor:** None
 - **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
 - **Tools:** None
 - **Saving Throws:** Intelligence, Wisdom
@@ -29,6 +26,8 @@ You start with the following equipment, in addition to the equipment granted by 
 - _(a)_ a component pouch or (_b_) an arcane focus
 - _(a)_ a scholar's pack or (_b_) an explorer's pack
 - A spellbook
+
+# The Wizard
 
 | Level   |   Proficiency Bonus | Features                      |   Cantrips Known |   Spell Slots — 1st | 2nd   | 3rd   | 4th   | 5th   | 6th   | 7th   | 8th   | 9th   |
 |---------|---------------------|-------------------------------|------------------|---------------------|-------|-------|-------|-------|-------|-------|-------|-------|

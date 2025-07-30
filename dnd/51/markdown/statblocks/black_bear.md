@@ -10,9 +10,7 @@ _Medium beast, unaligned_
 |---------|---------|---------|--------|---------|--------|
 | 15 (+2) | 10 (+0) | 14 (+2) | 2 (-4) | 12 (+1) | 7 (-2) |
 
-```
-Skills Perception +3
-```
+- **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 1/2 (100 XP)
