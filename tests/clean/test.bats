@@ -84,10 +84,10 @@ setup() {
         Warning: # **The Barbarian**, 30: possible table run-on
         Warning: ## **Equipment**, 86: possible table run-on
         Warning: #### **Black Pudding**, 135: unusual Unicode characters: U+2212
-        Warning: #### **Black Pudding**, 149: unusual Unicode characters: U+2212
-        Warning: #### **Actions**, 159: unusual Unicode characters: U+2212
-        Warning: #### **Hyena**, 231: unusual Unicode characters: U+2212
-        Warning: ## **Wereboar**, 253: unusual Unicode characters: U+2212
+        Warning: #### **Black Pudding**, 150: unusual Unicode characters: U+2212
+        Warning: #### **Actions**, 160: unusual Unicode characters: U+2212
+        Warning: #### **Hyena**, 232: unusual Unicode characters: U+2212
+        Warning: ## **Wereboar**, 254: unusual Unicode characters: U+2212
         EOF
     )
 

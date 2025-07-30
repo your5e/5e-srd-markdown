@@ -48,6 +48,18 @@ def clean_whitespace(lines, index):
     return None
 
 
+def clean_wrap_blank_lines(lines, index):
+    # remove consecutive blank lines
+    if (
+        index < len(lines) - 1
+        and lines[index] == ''
+        and lines[index + 1] == ''
+    ):
+        del lines[index + 1]
+        return -1
+    return None
+
+
 def clean_unicode_chars(lines, index):
     # usable characters over clever typographic characters
     replacements = {
@@ -304,6 +316,26 @@ def clean_italic_emphasis_markers(lines, index):
     return None
 
 
+def clean_split_lists(lines, index):
+    if index + 2 >= len(lines):
+        return None
+    if lines[index + 1] != '':
+        return None
+
+    emphasis = re.match(r'^- [_\*]+', lines[index])
+    next_emphasis = re.match(r'^- [_\*]+', lines[index + 2])
+
+    if (
+        emphasis
+        and next_emphasis
+        and next_emphasis.group() == emphasis.group()
+    ):
+        del lines[index + 1]
+        return -1
+
+    return None
+
+
 def clean_srd(lines, breakdown_data, show_progress=False):
     def _progress_bar(end):
         if show_progress:
@@ -317,6 +349,7 @@ def clean_srd(lines, breakdown_data, show_progress=False):
     CONVERSIONS_TABLE = [
         # common problems
         clean_whitespace,
+        clean_wrap_blank_lines,
         clean_unicode_chars,
         clean_table_alignment,
         clean_midsentence_pagebreak,
@@ -335,6 +368,7 @@ def clean_srd(lines, breakdown_data, show_progress=False):
         clean_statblock_spells_to_list,
         clean_single_action_to_list,
         clean_statblock_spellcasting_marker,
+        clean_split_lists,
 
         # sanitation
         clean_canonicalise_proper_nouns,
@@ -407,13 +441,12 @@ def warn_inconsistent_list_formatting(lines, index):
         return None
 
     emphasis = re.match(r'^- [_\*]+', lines[index])
-    if not emphasis:
-        return None
-
     previous_emphasis = re.match(r'^- [_\*]+', lines[index-1])
-    if not previous_emphasis:
-        return None
-    elif emphasis.group() != previous_emphasis.group():
+    if (
+        emphasis
+        and previous_emphasis
+        and emphasis.group() != previous_emphasis.group()
+    ):
         return "inconsistent list formatting (emphasis type mismatch)"
 
     return None
