@@ -13,7 +13,6 @@ _Tiny undead, chaotic evil_
 - **Damage Immunities** lightning, poison
 - **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
-
 - **Senses** darkvision 120 ft., passive Perception 12
 - **Languages** the languages it knew in life
 - **Challenge** 2 (450 XP)

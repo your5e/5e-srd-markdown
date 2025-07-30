@@ -1790,7 +1790,6 @@ As a rogue, you have the following class features.
 - **Armor:** Light armor
 - **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, shortswords
 - **Tools:** Thieves' tools
-
 - **Saving Throws:** Dexterity, Intelligence
 - **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
@@ -18122,10 +18121,8 @@ _Medium undead, any evil alignment_
 - **Saving Throws** Con +10, Int +12, Wis +9
 - **Skills** Arcana +18, History +12, Insight +9, Perception +9
 - **Damage Resistances** cold, lightning, necrotic
-
 - **Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-
 - **Senses** truesight 120 ft., passive Perception 19
 - **Languages** Common plus up to five other languages
 - **Challenge** 21 (33,000 XP)
@@ -19223,7 +19220,6 @@ _Medium fiend, lawful evil_
 
 - **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
-
 - **Senses** darkvision 60 ft., passive Perception 13
 - **Languages** Common, Infernal
 - **Challenge** 13 (10,000 XP)
@@ -19633,7 +19629,6 @@ _Medium undead, chaotic evil_
 
 - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Immunities** necrotic, poison
-
 - **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** understands all languages it knew in life but can't speak
@@ -20125,7 +20120,6 @@ _Tiny undead, chaotic evil_
 - **Damage Immunities** lightning, poison
 - **Damage Resistances** acid, cold, fire, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
-
 - **Senses** darkvision 120 ft., passive Perception 12
 - **Languages** the languages it knew in life
 - **Challenge** 2 (450 XP)

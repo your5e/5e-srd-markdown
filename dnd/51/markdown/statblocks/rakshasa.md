@@ -14,7 +14,6 @@ _Medium fiend, lawful evil_
 
 - **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
 - **Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks
-
 - **Senses** darkvision 60 ft., passive Perception 13
 - **Languages** Common, Infernal
 - **Challenge** 13 (10,000 XP)

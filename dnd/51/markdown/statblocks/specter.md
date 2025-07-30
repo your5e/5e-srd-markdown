@@ -12,7 +12,6 @@ _Medium undead, chaotic evil_
 
 - **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 - **Damage Immunities** necrotic, poison
-
 - **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 - **Senses** darkvision 60 ft., passive Perception 10
 - **Languages** understands all languages it knew in life but can't speak
