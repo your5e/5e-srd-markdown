@@ -401,6 +401,24 @@ def warn_midpara_italics(lines, index):
     return None
 
 
+def warn_inconsistent_list_formatting(lines, index):
+    # detect changes in list item emphasis formatting within a section
+    if index == 0:
+        return None
+
+    emphasis = re.match(r'^- [_\*]+', lines[index])
+    if not emphasis:
+        return None
+
+    previous_emphasis = re.match(r'^- [_\*]+', lines[index-1])
+    if not previous_emphasis:
+        return None
+    elif emphasis.group() != previous_emphasis.group():
+        return "inconsistent list formatting (emphasis type mismatch)"
+
+    return None
+
+
 def warn_unusual_unicode(lines, index):
     # let's not be too clever
     unusual_chars = set()
@@ -415,6 +433,7 @@ def warn_srd(lines):
     WARN_TABLE = [
         warn_table_runon,
         warn_midpara_italics,
+        warn_inconsistent_list_formatting,
         warn_unusual_unicode,
     ]
 

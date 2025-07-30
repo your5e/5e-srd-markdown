@@ -89,3 +89,19 @@ setup() {
     diff -u tests/clean/srd.md "$BATS_TEST_TMPDIR/srd.md"
     diff -u tests/clean/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
 }
+
+@test "detects various formatting warnings" {
+    expected_output=$(sed -e 's/^        //' <<'        EOF'
+        Warning: # List style changes, 6: inconsistent list formatting (emphasis type mismatch)
+        Warning: # Table run-on, 18: possible table run-on
+        Warning: # Mid-paragraph italic, 30: possible mistaken mid-paragraph italic: 'Ram, Portable.'
+        Warning: # Mid-paragraph italic, 33: possible mistaken mid-paragraph italic: 'Claw. Melee Weapon Attack:'
+        Warning: # Unusual unicode, 40: unusual Unicode characters: U+2212
+        Warning: # Unusual unicode, 42: unusual Unicode characters: U+2075
+        EOF
+    )
+
+    run python clean_srd.py --warn tests/clean/warnings.md
+    [ "$status" -eq 0 ]
+    diff -u <(echo "$expected_output") <(echo "$output")
+}
