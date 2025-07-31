@@ -2,7 +2,7 @@ name: Run Tests
 
 on:
   push:
-    branches: [ main ]
+  pull_request:
 
 jobs:
   test:
@@ -15,6 +15,7 @@ jobs:
       run: |
         sudo apt-get update
         sudo apt-get install -y bats
+        pip install tabulate
 
     - name: Run full tests
       run: bats tests/full/test.bats
