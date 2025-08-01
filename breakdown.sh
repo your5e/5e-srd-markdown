@@ -24,97 +24,119 @@ function main {
     command_file="${2:-$source_dir/breakdown.txt}"
     [ ! -f "$command_file" ] && abort "Command file '$command_file' not found"
 
-    source_line_count=$(wc -l < "$source_file")
 
-    declare -a ranges=()
+    mapfile -t original < "$source_file"
+    local source_line_count=$(wc -l < "$source_file")
+    local last_range_start=0
+    local last_line_used=0
     declare -a errors=()
     declare -a lines_claimed=()
     declare -A files_seen=()
+    declare -a output=()
+    declare -a commands=()
 
-    while IFS=' ' read -r start_line end_line target_file suppress; do
+    while IFS= read -r line; do
+        commands+=("$line")
+    done < <(
+        # filter blanks/comments
+        sed 's/^[[:space:]]*//; s/#.*$//; s/[[:space:]]*$//; /^$/d' "$command_file"
+    )
+
+    for line in "${commands[@]}"; do
+        read -r start_line end_line target_file fourth_param fifth_param <<< "$line"
+
+        if [[ "$start_line" =~ ^@ ]]; then
+            output+=("$start_line $end_line")
+            continue
+        fi
+
+        if [ $start_line -le $last_range_start ]; then
+            errors+=("${start_line}-${end_line} ${target_file} - not in numerical order")
+            continue
+        fi
+        last_range_start=$start_line
+
         if [ $start_line -gt $end_line ]; then
-            errors+=("${start_line}-${end_line} ${target_file} has descending line numbers")
+            errors+=("${start_line}-${end_line} ${target_file} - descending line numbers")
             continue
         fi
 
         if [ $end_line -gt $source_line_count ]; then
-            errors+=("${start_line}-${end_line} ${target_file} has lines larger than the source file")
+            errors+=("${start_line}-${end_line} ${target_file} - lines beyond the source")
             continue
         fi
 
         if [ -n "${files_seen[$target_file]:-}" ]; then
-            errors+=("${start_line}-${end_line} ${target_file} duplicates ${files_seen[$target_file]}")
+            errors+=("${start_line}-${end_line} ${target_file} - duplicate filename")
             continue
         fi
         files_seen[$target_file]="${start_line}-${end_line}"
 
-        for ((line_num=start_line; line_num<=end_line; line_num++)); do
-            if [ -n "${lines_claimed[$line_num]:-}" ]; then
-                errors+=("${start_line}-${end_line} ${target_file} overlaps with ${lines_claimed[$line_num]}")
+        for index in $(seq $start_line $end_line); do
+            if [ -n "${lines_claimed[$index]:-}" ]; then
+                errors+=("${start_line}-${end_line} ${target_file} - overlaps with ${lines_claimed[$index]}")
                 break
             fi
+            lines_claimed[$index]="$target_file"
         done
 
-        for ((line_num=start_line; line_num<=end_line; line_num++)); do
-            lines_claimed[$line_num]="$target_file"
-        done
+        if [ ${#errors[@]} = 0 -a $extract_only -eq 0 ]; then
+            if [ $last_line_used -lt $((start_line-1)) ]; then
+                for index in $(seq $last_line_used $((start_line-2))); do
+                    output+=("${original[$index]}")
+                done
+            fi
 
-        ranges+=("$start_line $end_line $target_file $suppress")
-    done < <(
-            # filters, then sorts the file based on start line number
-            sed '/^[[:space:]]*#/d; /^[[:space:]]*$/d; s/#.*$//' "$command_file" \
-                | sort -k1,1n
-        )
+            if [ "$fourth_param" = "-" ] && [[ "$fifth_param" =~ ^[0-9]+$ ]]; then
+                output+=("@include- $fifth_param $target_file")
+            elif [ "$fourth_param" = "-" ]; then
+                output+=("@include-   $target_file")
+            elif [[ "$fourth_param" =~ ^[0-9]+$ ]]; then
+                output+=("@include  $fourth_param $target_file")
+            else
+                output+=("@include    $target_file")
+            fi
+
+            [ "$fourth_param" = "-" ] \
+                && last_line_used=$end_line \
+                || last_line_used=$((end_line + 1))
+        fi
+    done
 
     if [ ${#errors[@]} -gt 0 ]; then
         printf '%s\n' "${errors[@]}" >&2
         exit 1
     fi
 
-    for range in "${ranges[@]}"; do
-        read -r start_line end_line target_file suppress <<< "$range"
+    for line in "${commands[@]}"; do
+        read -r start_line end_line target_file fourth_param fifth_param <<< "$line"
 
-        if [ -n "$match_pattern" ] && [[ ! "$target_file" =~ $match_pattern ]]; then
-            continue
-        fi
+        [[ "$start_line" =~ ^@ ]] \
+            && continue
+        [[ -n "$match_pattern" && ! "$target_file" =~ $match_pattern ]] \
+            && continue
 
         target_path="$source_dir/$target_file"
-        target_dir=$(dirname "$target_path")
-        mkdir -p "$target_dir"
-
+        mkdir -p "$(dirname "$target_path")"
         sed -n "${start_line},${end_line}p" "$source_file" > "$target_path"
-        if [ $quiet -eq 0 ]; then
-            if [[ ! -t 1 ]]; then
-                echo "$start_line-$end_line > $target_file"
-            else
-                printf '%-118s\r' "$start_line-$end_line > $target_file"
-            fi
+
+        [ $quiet -eq 1 ] \
+            && continue
+
+        if [[ ! -t 1 ]]; then
+            echo "$start_line-$end_line > $target_file"
+        else
+            printf '%-118s\r' "$start_line-$end_line > $target_file"
         fi
     done
 
     if [ $extract_only -eq 0 ]; then
-        mapfile -t edited < "$source_file"
-
-        for range in "${ranges[@]}"; do
-            read -r start_line end_line target_file suppress <<< "$range"
-
-            if [ -n "$suppress" ]; then
-                edited[$((start_line-1))]="@include- $target_file"
-            else
-                edited[$((start_line-1))]="@include  $target_file"
-            fi
-
-            for ((line_num=start_line+1; line_num<=end_line; line_num++)); do
-                unset edited[$((line_num-1))]
+        if [ $last_line_used -lt ${#original[@]} ]; then
+            for index in $(seq $last_line_used $((${#original[@]}-1))); do
+                output+=("${original[$index]}")
             done
-
-            if [ -z "$suppress" -a -z "${edited[$end_line]:-}" ]; then
-                # also remove trailing blank
-                unset edited[$end_line]
-            fi
-        done
-
-        printf '%s\n' "${edited[@]}" > "$source_file"
+        fi
+        printf '%s\n' "${output[@]}" > "$source_file"
     fi
 }
 

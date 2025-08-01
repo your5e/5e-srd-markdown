@@ -1,5 +1,6 @@
 # Extract sections from the sample file
 
-5  11   sections/section_one.md     # comments are fine
-13 19   sections/section_two.md
-21 25   sections/section_three.md   -
+5  11   sections/section_one.md - 1  # comments are fine
+14 20   sections/section_two.md   1
+        @adjust 1
+23 27   sections/section_three.md   -

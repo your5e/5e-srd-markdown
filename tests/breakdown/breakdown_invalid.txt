@@ -1,13 +1,18 @@
+  5   9    sections/section_one.md
+
 # overlaps cause corruption of source files
-  5  11    sections/section_one.md
-  9  15    sections/section_overlap.md
+  8  10    sections/section_overlap.md
+
+# no duplicate filenames
+ 11  11    sections/section_overlap.md
+
  13  19    sections/section_two.md
 
 # line numbers must ascend
  21  10    reversed.md
 
+# first line must continue to ascend
+ 20  20    sections/line_twenty.md
+
 # cannot extract lines that don't exist
 400 500    out_of_range.md
-
-# no duplicate filenames
- 20  20    sections/section_overlap.md
