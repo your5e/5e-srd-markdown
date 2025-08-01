@@ -1,4 +1,4 @@
-#### Staff of Healing
+# Staff of Healing
 
 _Staff, rare (requires attunement by a bard, cleric, or druid)_
 

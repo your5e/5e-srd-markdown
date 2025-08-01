@@ -1,4 +1,4 @@
-## Light
+# Light
 
 _Evocation cantrip_
 

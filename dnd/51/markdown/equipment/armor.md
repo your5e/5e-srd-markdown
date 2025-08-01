@@ -10,7 +10,7 @@ The Armor table shows the cost, weight, and other properties of the common types
 - _**Stealth.**_ If the Armor table shows "Disadvantage" in the Stealth column, the wearer has disadvantage on Dexterity (Stealth) checks.
 - _**Shields.**_ A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
 
-# Light Armor
+## Light Armor
 
 Made from supple and thin materials, light armor favors agile adventurers since it offers some protection without sacrificing mobility. If you wear light armor, you add your Dexterity modifier to the base number from your armor type to determine your Armor Class.
 
@@ -18,7 +18,7 @@ Made from supple and thin materials, light armor favors agile adventurers since 
 - _**Leather.**_ The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
 - _**Studded Leather.**_ Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 
-# Medium Armor
+## Medium Armor
 
 Medium armor offers more protection than light armor, but it also impairs movement more. If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.
 
@@ -28,7 +28,7 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 - _**Breastplate.**_ This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.
 - _**Half Plate.**_ Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.
 
-# Heavy Armor
+## Heavy Armor
 
 Of all the armor categories, heavy armor offers the best protection. These suits of armor cover the entire body and are designed to stop a wide range of attacks. Only proficient warriors can manage their weight and bulk.
 
@@ -39,7 +39,7 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 - _**Splint.**_ This armor is made of narrow vertical strips of metal riveted to a backing of leather that is worn over cloth padding. Flexible chain mail protects the joints.
 - _**Plate.**_ Plate consists of shaped, interlocking metal plates to cover the entire body. A suit of plate includes gauntlets, heavy leather boots, a visored helmet, and thick layers of padding underneath the armor. Buckles and straps distribute the weight over the body.
 
-#### Armor
+## Armor
 
 | Armor           | Cost     | Armor Class (AC)          | Strength   | Stealth      | Weight   |
 |-----------------|----------|---------------------------|------------|--------------|----------|
@@ -61,14 +61,14 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 | Shield          |          |                           |            |              |          |
 | Shield          | 10 gp    | +2                        | —          | —            | 6 lb.    |
 
-# Getting Into and Out of Armor
+## Getting Into and Out of Armor
 
 The time it takes to don or doff armor depends on the armor's category.
 
 - _**Don.**_ This is the time it takes to put on armor. You benefit from the armor's AC only if you take the full time to don the suit of armor.
 - _**Doff.**_ This is the time it takes to take off armor. If you have help, reduce this time by half.
 
-#### Donning and Doffing Armor
+## Donning and Doffing Armor
 
 | Category     | Don        | Doff      |
 |--------------|------------|-----------|

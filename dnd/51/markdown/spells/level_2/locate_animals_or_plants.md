@@ -1,4 +1,4 @@
-#### Locate Animals or Plants
+# Locate Animals or Plants
 
 _2nd-level divination (ritual)_
 

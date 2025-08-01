@@ -1,4 +1,4 @@
-## Scorching Ray
+# Scorching Ray
 
 _2nd-level evocation_
 

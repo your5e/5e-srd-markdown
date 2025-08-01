@@ -1,4 +1,4 @@
-#### Wand of Secrets
+# Wand of Secrets
 
 _Wand, uncommon_
 

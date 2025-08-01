@@ -1,4 +1,4 @@
-#### Knock
+# Knock
 
 _2nd-level transmutation_
 

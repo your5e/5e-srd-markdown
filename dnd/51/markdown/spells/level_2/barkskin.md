@@ -1,4 +1,4 @@
-#### Barkskin
+# Barkskin
 
 _2nd-level transmutation_
 

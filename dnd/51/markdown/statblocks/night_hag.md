@@ -1,4 +1,4 @@
-## Night Hag
+# Night Hag
 
 _Medium fiend, neutral evil_
 
@@ -17,7 +17,7 @@ _Medium fiend, neutral evil_
 - **Languages** Abyssal, Common, Infernal, Primordial
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Innate Spellcasting.**_ The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
@@ -26,7 +26,7 @@ _Medium fiend, neutral evil_
 
 _**Magic Resistance.**_ The hag has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 - _**Claws (Hag Form Only).** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.
 - _**Change Shape.**_ The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.

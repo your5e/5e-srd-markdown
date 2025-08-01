@@ -1,4 +1,4 @@
-#### Manticore
+# Manticore
 
 _Large monstrosity, lawful evil_
 
@@ -14,11 +14,11 @@ _Large monstrosity, lawful evil_
 - **Languages** Common
 - **Challenge** 3 (700 XP)
 
-#### Traits
+## Traits
 
 - _**Tail Spike Regrowth.**_ The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
 - _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage.

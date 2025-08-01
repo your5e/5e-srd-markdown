@@ -1,4 +1,4 @@
-### Nine Lives Stealer
+# Nine Lives Stealer
 
 _Weapon (any sword), very rare (requires attunement)_
 

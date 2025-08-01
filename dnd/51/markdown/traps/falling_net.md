@@ -1,4 +1,4 @@
-#### Falling Net
+### Falling Net
 
 _Mechanical trap_
 

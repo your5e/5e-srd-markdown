@@ -1,4 +1,4 @@
-#### Violet Fungus
+# Violet Fungus
 
 _Medium plant, unaligned_
 
@@ -15,11 +15,11 @@ _Medium plant, unaligned_
 - **Languages** —
 - **Challenge** 1/4 (50 XP)
 
-#### Traits
+## Traits
 
 - _**False Appearance.**_ While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The fungus makes 1d4 Rotting Touch attacks.
 - _**Rotting Touch.** Melee Weapon Attack:_ +2 to hit, reach 10 ft., one creature. _Hit:_ 4 (1d8) necrotic damage.

@@ -1,4 +1,4 @@
-## Inflict Wounds
+# Inflict Wounds
 
 _1st-level necromancy_
 

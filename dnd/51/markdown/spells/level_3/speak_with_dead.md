@@ -1,4 +1,4 @@
-#### Speak with Dead
+# Speak with Dead
 
 _3rd-level necromancy_
 

@@ -1,4 +1,4 @@
-#### Ettin
+# Ettin
 
 _Large giant, chaotic evil_
 
@@ -15,12 +15,12 @@ _Large giant, chaotic evil_
 - **Languages** Giant, Orc
 - **Challenge** 4 (1,100 XP)
 
-#### Traits
+## Traits
 
 - _**Two Heads.**_ The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
 - _**Wakeful.**_ When one of the ettin's heads is asleep, its other head is awake.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 - _**Battleaxe.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) slashing damage.

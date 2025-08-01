@@ -1,4 +1,4 @@
-#### Dust of Dryness
+# Dust of Dryness
 
 _Wondrous item, uncommon_
 

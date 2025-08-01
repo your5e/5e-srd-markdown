@@ -1,4 +1,4 @@
-#### Private Sanctum
+# Private Sanctum
 
 _4th-level abjuration_
 

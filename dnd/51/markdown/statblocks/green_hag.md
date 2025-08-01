@@ -1,4 +1,4 @@
-## Green Hag
+# Green Hag
 
 _Medium fey, neutral evil_
 
@@ -15,7 +15,7 @@ _Medium fey, neutral evil_
 - **Languages** Common, Draconic, Sylvan
 - **Challenge** 3 (700 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The hag can breathe air and water.
 - _**Innate Spellcasting.**_ The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
@@ -24,7 +24,7 @@ _Medium fey, neutral evil_
 
 - _**Mimicry.**_ The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 
-#### Actions
+## Actions
 
 - _**Claws.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.
 - _**Illusory Appearance.**_ The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.

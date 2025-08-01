@@ -1,4 +1,4 @@
-## Blur
+# Blur
 
 _2nd-level illusion_
 

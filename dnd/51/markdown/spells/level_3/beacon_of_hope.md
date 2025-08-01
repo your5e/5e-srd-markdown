@@ -1,4 +1,4 @@
-## Beacon of Hope
+# Beacon of Hope
 
 _3rd-level abjuration_
 

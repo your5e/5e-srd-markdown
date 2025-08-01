@@ -1,4 +1,4 @@
-## Aid
+# Aid
 
 _2nd-level abjuration_
 

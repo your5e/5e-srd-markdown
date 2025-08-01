@@ -1,4 +1,4 @@
-## Gentle Repose
+# Gentle Repose
 
 _2nd-level necromancy (ritual)_
 

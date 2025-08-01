@@ -1,4 +1,4 @@
-#### Pseudodragon
+# Pseudodragon
 
 _Tiny dragon, neutral good_
 
@@ -15,13 +15,13 @@ _Tiny dragon, neutral good_
 - **Languages** understands Common and Draconic but can't speak
 - **Challenge** 1/4 (50 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Senses.**_ The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.
 - _**Magic Resistance.**_ The pseudodragon has advantage on saving throws against spells and other magical effects.
 - _**Limited Telepathy.**_ The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 - _**Sting.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.

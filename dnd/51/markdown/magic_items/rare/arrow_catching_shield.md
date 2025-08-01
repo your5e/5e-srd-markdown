@@ -1,4 +1,4 @@
-## Arrow-Catching Shield
+# Arrow-Catching Shield
 
 _Armor (shield), rare (requires attunement)_
 

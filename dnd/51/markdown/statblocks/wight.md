@@ -1,4 +1,4 @@
-#### Wight
+# Wight
 
 _Medium undead, neutral evil_
 
@@ -18,11 +18,11 @@ _Medium undead, neutral evil_
 - **Languages** the languages it knew in life
 - **Challenge** 3 (700 XP)
 
-#### Traits
+## Traits
 
 - _**Sunlight Sensitivity.**_ While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
 - _**Life Drain.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.

@@ -1,4 +1,4 @@
-#### Prismatic Wall
+# Prismatic Wall
 
 _9th-level abjuration_
 

@@ -1,4 +1,4 @@
-#### Magic Mouth
+# Magic Mouth
 
 _2nd-level illusion (ritual)_
 

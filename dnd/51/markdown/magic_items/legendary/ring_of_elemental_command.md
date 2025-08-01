@@ -1,4 +1,4 @@
-## Ring of Elemental Command
+# Ring of Elemental Command
 
 _Ring, legendary (requires attunement)_
 

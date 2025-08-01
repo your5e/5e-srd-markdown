@@ -1,4 +1,4 @@
-#### Iron Bands of Binding
+# Iron Bands of Binding
 
 _Wondrous item, rare_
 

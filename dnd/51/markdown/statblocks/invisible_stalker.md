@@ -1,4 +1,4 @@
-#### Invisible Stalker
+# Invisible Stalker
 
 _Medium elemental, neutral_
 
@@ -18,12 +18,12 @@ _Medium elemental, neutral_
 - **Languages** Auran, understands Common but doesn't speak it
 - **Challenge** 6 (2,300 XP)
 
-#### Traits
+## Traits
 
 - _**Invisibility.**_ The stalker is invisible.
 - _**Faultless Tracker.**_ The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The stalker makes two slam attacks.
 - _**Slam.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage.

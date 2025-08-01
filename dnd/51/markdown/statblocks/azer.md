@@ -1,4 +1,4 @@
-#### Azer
+# Azer
 
 _Medium elemental, lawful neutral_
 
@@ -17,12 +17,12 @@ _Medium elemental, lawful neutral_
 - **Languages** Ignan
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Heated Body.**_ A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.
 - _**Heated Weapons.**_ When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).
 - _**Illumination.**_ The azer sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-#### Actions
+## Actions
 
 - _**Warhammer.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.

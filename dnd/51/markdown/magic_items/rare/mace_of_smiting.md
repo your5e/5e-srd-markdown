@@ -1,4 +1,4 @@
-## Mace of Smiting
+# Mace of Smiting
 
 _Weapon (mace), rare_
 

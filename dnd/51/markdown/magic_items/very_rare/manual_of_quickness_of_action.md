@@ -1,4 +1,4 @@
-## Manual of Quickness of Action
+# Manual of Quickness of Action
 
 _Wondrous item, very rare_
 

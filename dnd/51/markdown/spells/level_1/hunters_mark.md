@@ -1,4 +1,4 @@
-#### Hunter's Mark
+# Hunter's Mark
 
 _1st-level divination_
 

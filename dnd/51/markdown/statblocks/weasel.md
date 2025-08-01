@@ -1,4 +1,4 @@
-#### Weasel
+# Weasel
 
 _Tiny beast, unaligned_
 
@@ -15,10 +15,10 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Hearing and Smell.**_ The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.

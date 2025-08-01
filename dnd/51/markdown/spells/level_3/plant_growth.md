@@ -1,4 +1,4 @@
-#### Plant Growth
+# Plant Growth
 
 _3rd-level transmutation_
 

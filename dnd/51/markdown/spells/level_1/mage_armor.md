@@ -1,4 +1,4 @@
-## Mage Armor
+# Mage Armor
 
 _1st-level abjuration_
 

@@ -1,4 +1,4 @@
-#### Noble
+# Noble
 
 _Medium humanoid (any race), any alignment_
 
@@ -15,11 +15,11 @@ _Medium humanoid (any race), any alignment_
 - **Languages** any two languages
 - **Challenge** 1/8 (25 XP)
 
-#### Actions
+## Actions
 
 - _**Rapier.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
-#### Reactions
+## Reactions
 
 - _**Parry.**_ The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 

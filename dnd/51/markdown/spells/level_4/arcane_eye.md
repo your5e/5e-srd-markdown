@@ -1,4 +1,4 @@
-## Arcane Eye
+# Arcane Eye
 
 _4th-level divination_
 

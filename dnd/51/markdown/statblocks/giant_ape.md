@@ -1,4 +1,4 @@
-#### Giant Ape
+# Giant Ape
 
 _Huge beast, unaligned_
 
@@ -15,7 +15,7 @@ _Huge beast, unaligned_
 - **Languages** —
 - **Challenge** 7 (2,900 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The ape makes two fist attacks.
 - _**Fist.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 22 (3d10 + 6) bludgeoning damage.

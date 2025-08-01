@@ -1,4 +1,4 @@
-#### Wyvern
+# Wyvern
 
 _Large dragon, unaligned_
 
@@ -15,7 +15,7 @@ _Large dragon, unaligned_
 - **Languages** —
 - **Challenge** 6 (2,300 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack.
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one creature. _Hit:_ 11 (2d6 + 4) piercing damage.

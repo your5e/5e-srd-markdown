@@ -1,4 +1,4 @@
-#### Bugbear
+# Bugbear
 
 _Medium humanoid (goblinoid), chaotic evil_
 
@@ -15,12 +15,12 @@ _Medium humanoid (goblinoid), chaotic evil_
 - **Languages** Common, Goblin
 - **Challenge** 1 (200 XP)
 
-#### Traits
+## Traits
 
 - _**Brute.**_ A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).
 - _**Surprise Attack.**_ If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
-#### Actions
+## Actions
 
 - _**Morningstar.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 11 (2d8 + 2) piercing damage.
 - _**Javelin.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.

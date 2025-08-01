@@ -1,4 +1,4 @@
-### Water Breathing
+# Water Breathing
 
 _3rd-level transmutation (ritual)_
 

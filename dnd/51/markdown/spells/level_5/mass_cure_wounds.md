@@ -1,4 +1,4 @@
-#### Mass Cure Wounds
+# Mass Cure Wounds
 
 _5th-level evocation_
 

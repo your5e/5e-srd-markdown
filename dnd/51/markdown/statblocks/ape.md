@@ -1,4 +1,4 @@
-## Ape
+# Ape
 
 _Medium beast, unaligned_
 
@@ -15,7 +15,7 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 1/2 (100 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The ape makes two fist attacks.
 - _**Fist.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.

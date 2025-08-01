@@ -1,4 +1,4 @@
-#### Incendiary Cloud
+# Incendiary Cloud
 
 _8th-level conjuration_
 

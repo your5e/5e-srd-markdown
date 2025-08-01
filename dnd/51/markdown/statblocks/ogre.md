@@ -1,4 +1,4 @@
-#### Ogre
+# Ogre
 
 _Large giant, chaotic evil_
 
@@ -14,7 +14,7 @@ _Large giant, chaotic evil_
 - **Languages** Common, Giant
 - **Challenge** 2 (450 XP)
 
-#### Actions
+## Actions
 
 - _**Greatclub.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.
 - _**Javelin.** Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage.

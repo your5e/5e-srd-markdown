@@ -1,4 +1,4 @@
-#### Death Ward
+# Death Ward
 
 _4th-level abjuration_
 

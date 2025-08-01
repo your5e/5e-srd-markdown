@@ -1,4 +1,4 @@
-#### Wererat
+# Wererat
 
 _Medium humanoid (human, shapechanger), lawful evil_
 
@@ -19,7 +19,7 @@ _Medium humanoid (human, shapechanger), lawful evil_
 - _**Shapechanger.**_ The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 - _**Keen Smell.**_ The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### Actions
+## Actions
 
 - _**Multiattack (Humanoid or Hybrid Form Only).**_ The wererat makes two attacks, only one of which can be a bite.
 - _**Bite (Rat or Hybrid Form Only).** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy.

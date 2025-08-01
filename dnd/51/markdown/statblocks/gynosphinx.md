@@ -1,4 +1,4 @@
-#### Gynosphinx
+# Gynosphinx
 
 _Large monstrosity, lawful neutral_
 
@@ -18,7 +18,7 @@ _Large monstrosity, lawful neutral_
 - **Languages** Common, Sphinx
 - **Challenge** 11 (7,200 XP)
 
-#### Traits
+## Traits
 
 - _**Inscrutable.**_ The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 - _**Magic Weapons.**_ The sphinx's weapon attacks are magical.
@@ -27,12 +27,12 @@ _Large monstrosity, lawful neutral_
     - Cantrips (at will): _Mage Hand_, _Minor Illusion_, _Prestidigitation_
     - 1st level (4 slots): _Detect Magic_, _Identify_, _Shield_ 2nd level (3 slots): _Darkness_, _Locate Object_, _Suggestion_ 3rd level (3 slots): _Dispel Magic_, _Remove Curse_, _Tongues_ 4th level (3 slots): _Banishment_, _Greater Invisibility_ 5th level (1 slot): _Legend Lore_
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The sphinx makes two claw attacks.
 - _**Claw.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage.
 
-#### Legendary Actions
+## Legendary Actions
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 

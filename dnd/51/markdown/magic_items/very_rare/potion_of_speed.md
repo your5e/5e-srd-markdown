@@ -1,4 +1,4 @@
-## Potion of Speed
+# Potion of Speed
 
 _Potion, very rare_
 

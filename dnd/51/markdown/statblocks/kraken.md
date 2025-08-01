@@ -1,4 +1,4 @@
-## Kraken
+# Kraken
 
 _Gargantuan monstrosity (titan), chaotic evil_
 
@@ -17,13 +17,13 @@ _Gargantuan monstrosity (titan), chaotic evil_
 - **Languages** understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.
 - **Challenge** 23 (50,000 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The kraken can breathe air and water.
 - _**Freedom of Movement.**_ The kraken ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled.
 - _**Siege Monster.**_ The kraken deals double damage to objects and structures.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 - _**Bite.** Melee Weapon Attack:_ +17 to hit, reach 5 ft., one target. _Hit:_ 23 (3d8 + 10) piercing damage. If the target is a Large or smaller creature grappled by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 42 (12d6) acid damage at the start of each of the kraken's turns.
@@ -34,7 +34,7 @@ _Gargantuan monstrosity (titan), chaotic evil_
 - _**Fling.**_ One Large or smaller object held or creature grappled by the kraken is thrown up to 60 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 18 Dexterity saving throw or take the same damage and be knocked prone.
 - _**Lightning Storm.**_ The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-#### Legendary Actions
+## Legendary Actions
 
 The kraken can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The kraken regains spent legendary actions at the start of its turn.
 

@@ -1,4 +1,4 @@
-## Heroism
+# Heroism
 
 _1st-level enchantment_
 

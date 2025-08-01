@@ -1,4 +1,4 @@
-#### Enhance Ability
+# Enhance Ability
 
 _2nd-level transmutation_
 

@@ -1,4 +1,4 @@
-## Acid Splash
+# Acid Splash
 
 _Conjuration cantrip_
 

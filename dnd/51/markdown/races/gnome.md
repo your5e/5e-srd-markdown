@@ -1,4 +1,6 @@
-# Gnome Gnome Traits
+## Gnome
+
+### Gnome Traits
 
 Your gnome character has certain characteristics in common with all other gnomes.
 
@@ -11,7 +13,7 @@ Your gnome character has certain characteristics in common with all other gnomes
 - _**Gnome Cunning.**_ You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
 - _**Languages.**_ You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.
 
-#### Rock Gnome
+### Rock Gnome
 
 As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes.
 

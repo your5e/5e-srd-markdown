@@ -1,4 +1,4 @@
-### Power Word Kill
+# Power Word Kill
 
 _9th-level enchantment_
 

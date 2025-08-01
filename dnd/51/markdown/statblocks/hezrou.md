@@ -1,4 +1,4 @@
-#### Hezrou
+# Hezrou
 
 _Large fiend (demon), chaotic evil_
 
@@ -18,12 +18,12 @@ _Large fiend (demon), chaotic evil_
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 8 (3,900 XP)
 
-#### Traits
+## Traits
 
 - _**Magic Resistance.**_ The hezrou has advantage on saving throws against spells and other magical effects.
 - _**Stench.**_ Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The hezrou makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage.

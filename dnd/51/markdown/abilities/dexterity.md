@@ -1,8 +1,8 @@
-# Dexterity
+## Dexterity
 
 Dexterity measures agility, reflexes, and balance.
 
-#### Dexterity Checks
+### Dexterity Checks
 
 A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing. The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
 
@@ -23,19 +23,19 @@ check. The GM might also call for a Dexterity (Sleight of Hand) check to determi
 - Play a stringed instrument
 - Craft a small or detailed object
 
-## Attack Rolls and Damage
+### Attack Rolls and Damage
 
 You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
 
-## Armor Class
+### Armor Class
 
 Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class.
 
-#### Initiative
+### Initiative
 
 At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat.
 
-#### Hiding
+### Hiding
 
 The GM decides when circumstances are appropriate for hiding. When you try to hide, make a Dexterity (Stealth) check. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.
 

@@ -1,4 +1,4 @@
-#### Faerie Fire
+# Faerie Fire
 
 _1st-level evocation_
 

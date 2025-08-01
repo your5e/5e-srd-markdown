@@ -1,4 +1,4 @@
-#### Brass Dragon Wyrmling
+# Brass Dragon Wyrmling
 
 _Medium dragon, chaotic good_
 
@@ -17,7 +17,7 @@ _Medium dragon, chaotic good_
 - **Languages** Draconic
 - **Challenge** 1 (200 XP)
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.

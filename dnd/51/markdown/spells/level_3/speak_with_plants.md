@@ -1,4 +1,4 @@
-#### Speak with Plants
+# Speak with Plants
 
 _3rd-level transmutation_
 

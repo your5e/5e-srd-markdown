@@ -1,4 +1,4 @@
-## Poison Spray
+# Poison Spray
 
 _Conjuration cantrip_
 

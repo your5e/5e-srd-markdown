@@ -1,4 +1,4 @@
-#### Luck Blade
+# Luck Blade
 
 _Weapon (any sword), legendary (requires attunement)_
 

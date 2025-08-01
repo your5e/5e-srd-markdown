@@ -1,4 +1,4 @@
-# Cackle Fever
+### Cackle Fever
 
 This disease targets humanoids, although gnomes are strangely immune. While in the grips of this disease, victims frequently succumb to fits of mad laughter, giving the disease its common name and its morbid nickname: "the shrieks."
 

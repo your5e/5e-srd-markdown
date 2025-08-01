@@ -15,14 +15,14 @@ _Medium humanoid (any race), any alignment_
 - **Languages** any one language (usually Common)
 - **Challenge** 1/4 (50 XP)
 
-#### Traits
+## Traits
 
 - _**Spellcasting.**_ The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
     - Cantrips (at will): _Light_, _Sacred Flame_, _Thaumaturgy_
     - 1st level (3 slots): _Bless_, _Cure Wounds_, _Sanctuary_
 
-#### Actions
+## Actions
 
 - _**Club.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
 

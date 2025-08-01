@@ -1,4 +1,4 @@
-#### Young Blue Dragon
+# Young Blue Dragon
 
 _Large dragon, lawful evil_
 
@@ -17,7 +17,7 @@ _Large dragon, lawful evil_
 - **Languages** Common, Draconic
 - **Challenge** 9 (5,000 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10 + 5) piercing damage plus 5 (1d10) lightning damage.

@@ -1,4 +1,4 @@
-#### Manual of Golems
+# Manual of Golems
 
 _Wondrous item, very rare_
 

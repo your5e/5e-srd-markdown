@@ -1,4 +1,4 @@
-## Charm Person
+# Charm Person
 
 _1st-level enchantment_
 

@@ -1,4 +1,4 @@
-#### Ettercap
+# Ettercap
 
 _Medium monstrosity, neutral evil_
 
@@ -15,13 +15,13 @@ _Medium monstrosity, neutral evil_
 - **Languages** —
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Spider Climb.**_ The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 - _**Web Sense.**_ While in contact with a web, the ettercap knows the exact location of any other creature in contact with the same web.
 - _**Web Walker.**_ The ettercap ignores movement restrictions caused by webbing.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The ettercap makes two attacks: one with its bite and one with its claws.
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

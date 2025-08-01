@@ -1,4 +1,4 @@
-#### Comprehend Languages
+# Comprehend Languages
 
 _1st-level divination (ritual)_
 

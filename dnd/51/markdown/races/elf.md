@@ -1,4 +1,6 @@
-# Elf Elf Traits
+## Elf
+
+### Elf Traits
 
 Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
 

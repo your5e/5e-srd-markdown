@@ -1,4 +1,4 @@
-#### Griffon
+# Griffon
 
 _Large monstrosity, unaligned_
 
@@ -15,11 +15,11 @@ _Large monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Sight.**_ The griffon has advantage on Wisdom (Perception) checks that rely on sight.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The griffon makes two attacks: one with its beak and one with its claws.
 - _**Beak.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.

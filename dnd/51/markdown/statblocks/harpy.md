@@ -1,4 +1,4 @@
-## Harpy
+# Harpy
 
 _Medium monstrosity, chaotic evil_
 
@@ -14,7 +14,7 @@ _Medium monstrosity, chaotic evil_
 - **Languages** Common
 - **Challenge** 1 (200 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The harpy makes two attacks: one with its claws and one with its club.
 - _**Claws.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) slashing damage.

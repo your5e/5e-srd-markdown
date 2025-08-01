@@ -1,4 +1,4 @@
-#### Young Green Dragon
+# Young Green Dragon
 
 _Large dragon, lawful evil_
 
@@ -18,11 +18,11 @@ _Large dragon, lawful evil_
 - **Languages** Common, Draconic
 - **Challenge** 8 (3,900 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The dragon can breathe air and water.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage.

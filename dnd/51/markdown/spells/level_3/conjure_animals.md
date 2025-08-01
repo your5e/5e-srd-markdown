@@ -1,4 +1,4 @@
-## Conjure Animals
+# Conjure Animals
 
 _3rd-level conjuration_
 

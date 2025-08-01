@@ -1,4 +1,4 @@
-## Spiritual Weapon
+# Spiritual Weapon
 
 _2nd-level evocation_
 

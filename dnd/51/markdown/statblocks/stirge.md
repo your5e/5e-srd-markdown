@@ -1,4 +1,4 @@
-## Stirge
+# Stirge
 
 _Tiny beast, unaligned_
 
@@ -14,7 +14,7 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 1/8 (25 XP)
 
-#### Actions
+## Actions
 
 - _**Blood Drain.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss.
 

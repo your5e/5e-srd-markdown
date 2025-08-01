@@ -1,4 +1,4 @@
-#### Young Bronze Dragon
+# Young Bronze Dragon
 
 _Large dragon, lawful good_
 
@@ -17,11 +17,11 @@ _Large dragon, lawful good_
 - **Languages** Common, Draconic
 - **Challenge** 8 (3,900 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The dragon can breathe air and water.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10 + 5) piercing damage.

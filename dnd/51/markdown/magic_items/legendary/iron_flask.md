@@ -1,4 +1,4 @@
-#### Iron Flask
+# Iron Flask
 
 _Wondrous item, legendary_
 

@@ -1,4 +1,4 @@
-#### Ice Devil
+# Ice Devil
 
 _Large fiend (devil), lawful evil_
 
@@ -18,12 +18,12 @@ _Large fiend (devil), lawful evil_
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 14 (11,500 XP)
 
-#### Traits
+## Traits
 
 - _**Devil's Sight.**_ Magical darkness doesn't impede the devil's darkvision.
 - _**Magic Resistance.**_ The devil has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The devil makes three attacks: one with its bite, one with its claws, and one with its tail.
 - _**Bite.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.

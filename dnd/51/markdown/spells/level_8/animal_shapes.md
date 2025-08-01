@@ -1,4 +1,4 @@
-## Animal Shapes
+# Animal Shapes
 
 _8th-level transmutation_
 

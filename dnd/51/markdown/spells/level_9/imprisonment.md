@@ -1,4 +1,4 @@
-#### Imprisonment
+# Imprisonment
 
 _9th-level abjuration_
 

@@ -1,4 +1,4 @@
-## Horseshoes of a Zephyr
+# Horseshoes of a Zephyr
 
 _Wondrous item, very rare_
 

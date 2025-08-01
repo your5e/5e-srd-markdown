@@ -1,4 +1,4 @@
-#### Lich
+# Lich
 
 _Medium undead, any evil alignment_
 
@@ -19,7 +19,7 @@ _Medium undead, any evil alignment_
 - **Languages** Common plus up to five other languages
 - **Challenge** 21 (33,000 XP)
 
-#### Traits
+## Traits
 
 - _**Legendary Resistance (3/Day).**_ If the lich fails a saving throw, it can choose to succeed instead.
 - _**Rejuvenation.**_ If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
@@ -38,11 +38,11 @@ _Medium undead, any evil alignment_
 
 _**Turn Resistance.**_ The lich has advantage on saving throws against any effect that turns undead.
 
-#### Actions
+## Actions
 
 - _**Paralyzing Touch.** Melee Spell Attack:_ +12 to hit, reach 5 ft., one creature. _Hit:_ 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-#### Legendary Actions
+## Legendary Actions
 
 The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.
 

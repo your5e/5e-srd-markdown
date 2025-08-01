@@ -1,4 +1,4 @@
-## Protection from Evil and Good
+# Protection from Evil and Good
 
 _1st-level abjuration_
 

@@ -1,4 +1,4 @@
-### Potion of Climbing
+# Potion of Climbing
 
 _Potion, common_
 

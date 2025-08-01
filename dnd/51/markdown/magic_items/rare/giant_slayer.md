@@ -1,4 +1,4 @@
-#### Giant Slayer
+# Giant Slayer
 
 _Weapon (any axe or sword), rare_
 

@@ -1,4 +1,4 @@
-#### Cultist
+# Cultist
 
 _Medium humanoid (any race), any non-good alignment_
 
@@ -15,11 +15,11 @@ _Medium humanoid (any race), any non-good alignment_
 - **Languages** any one language (usually Common)
 - **Challenge** 1/8 (25 XP)
 
-#### Traits
+## Traits
 
 - _**Dark Devotion.**_ The cultist has advantage on saving throws against being charmed or frightened.
 
-#### Actions
+## Actions
 
 - _**Scimitar.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d6 + 1) slashing damage.
 

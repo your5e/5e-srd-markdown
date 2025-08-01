@@ -1,4 +1,4 @@
-#### Elf, Drow
+# Elf, Drow
 
 _Medium humanoid (elf), neutral evil_
 
@@ -15,7 +15,7 @@ _Medium humanoid (elf), neutral evil_
 - **Languages** Elvish, Undercommon
 - **Challenge** 1/4 (50 XP)
 
-#### Traits
+## Traits
 
 - _**Fey Ancestry.**_ The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 - _**Innate Spellcasting.**_ The drow's spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
@@ -25,7 +25,7 @@ _Medium humanoid (elf), neutral evil_
 
 _**Sunlight Sensitivity.**_ While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-#### Actions
+## Actions
 
 - _**Shortsword.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 - _**Hand Crossbow.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.

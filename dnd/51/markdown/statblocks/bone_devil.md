@@ -1,4 +1,4 @@
-#### Bone Devil
+# Bone Devil
 
 _Large fiend (devil), lawful evil_
 
@@ -19,12 +19,12 @@ _Large fiend (devil), lawful evil_
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 9 (5,000 XP)
 
-#### Traits
+## Traits
 
 - _**Devil's Sight.**_ Magical darkness doesn't impede the devil's darkvision.
 - _**Magic Resistance.**_ The devil has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The devil makes three attacks: two with its claws and one with its sting.
 - _**Claw.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage.

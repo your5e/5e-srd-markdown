@@ -1,4 +1,4 @@
-#### Adult Blue Dragon
+# Adult Blue Dragon
 
 _Huge dragon, lawful evil_
 
@@ -17,11 +17,11 @@ _Huge dragon, lawful evil_
 - **Languages** Common, Draconic
 - **Challenge** 16 (15,000 XP)
 
-#### Traits
+## Traits
 
 - _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +12 to hit, reach 10 ft., one target. _Hit:_ 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage.
@@ -30,7 +30,7 @@ _Huge dragon, lawful evil_
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Lightning Breath (Recharge 5–6).**_ The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-#### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 

@@ -1,4 +1,4 @@
-## Daylight
+# Daylight
 
 _3rd-level evocation_
 

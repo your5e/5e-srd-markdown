@@ -1,4 +1,4 @@
-#### Troll
+# Troll
 
 _Large giant, chaotic evil_
 
@@ -15,12 +15,12 @@ _Large giant, chaotic evil_
 - **Languages** Giant
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Smell.**_ The troll has advantage on Wisdom (Perception) checks that rely on smell.
 - _**Regeneration.**_ The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The troll makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) piercing damage.

@@ -16,11 +16,11 @@ _Small plant, unaligned_
 - **Languages** one language known by its creator
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**False Appearance.**_ While the shrub remains motionless, it is indistinguishable from a normal shrub.
 
-#### Actions
+## Actions
 
 - _**Rake.** Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 - 1) slashing damage.
 

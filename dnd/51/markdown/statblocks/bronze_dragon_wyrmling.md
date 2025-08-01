@@ -1,4 +1,4 @@
-#### Bronze Dragon Wyrmling
+# Bronze Dragon Wyrmling
 
 _Medium dragon, lawful good_
 
@@ -17,11 +17,11 @@ _Medium dragon, lawful good_
 - **Languages** Draconic
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The dragon can breathe air and water.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.

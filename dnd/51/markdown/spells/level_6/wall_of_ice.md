@@ -1,4 +1,4 @@
-#### Wall of Ice
+# Wall of Ice
 
 _6th-level evocation_
 

@@ -1,4 +1,4 @@
-## Giant Badger
+# Giant Badger
 
 _Medium beast, unaligned_
 
@@ -14,11 +14,11 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 1/4 (50 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Smell.**_ The badger has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The badger makes two attacks: one with its bite and one with its claws.
 - _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage.

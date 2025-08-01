@@ -1,4 +1,4 @@
-#### Power Word Stun
+# Power Word Stun
 
 _8th-level enchantment_
 

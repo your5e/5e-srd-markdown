@@ -1,4 +1,4 @@
-#### Giant Sea Horse
+# Giant Sea Horse
 
 _Large beast, unaligned_
 
@@ -14,12 +14,12 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 1/2 (100 XP)
 
-#### Traits
+## Traits
 
 - _**Charge.**_ If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. It the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 - _**Water Breathing.**_ The sea horse can breathe only underwater.
 
-#### Actions
+## Actions
 
 - _**Ram.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage.
 

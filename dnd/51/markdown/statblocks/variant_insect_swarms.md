@@ -1,4 +1,4 @@
-#### Variant: Insect Swarms
+# Variant: Insect Swarms
 
 Different kinds of insects can gather in swarms, and each swarm has the special characteristics described below.
 

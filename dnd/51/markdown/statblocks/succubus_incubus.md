@@ -1,4 +1,4 @@
-#### Succubus/Incubus
+# Succubus/Incubus
 
 _Medium fiend (shapechanger), neutral evil_
 
@@ -16,12 +16,12 @@ _Medium fiend (shapechanger), neutral evil_
 - **Languages** Abyssal, Common, Infernal, telepathy 60 ft.
 - **Challenge** 4 (1,100 XP)
 
-#### Traits
+## Traits
 
 - _**Telepathic Bond.**_ The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.
 - _**Shapechanger.**_ The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-#### Actions
+## Actions
 
 - _**Claw (Fiend Form Only).** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 - _**Charm.**_ One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.

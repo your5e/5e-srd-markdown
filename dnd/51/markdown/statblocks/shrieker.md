@@ -1,4 +1,4 @@
-#### Shrieker
+# Shrieker
 
 _Medium plant, unaligned_
 
@@ -15,10 +15,10 @@ _Medium plant, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**False Appearance.**_ While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 
-#### Reactions
+## Reactions
 
 - _**Shriek.**_ When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward.

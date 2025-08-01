@@ -1,4 +1,4 @@
-#### Helm of Telepathy
+# Helm of Telepathy
 
 _Wondrous item, uncommon (requires attunement)_
 

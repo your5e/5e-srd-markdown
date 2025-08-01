@@ -1,4 +1,4 @@
-#### Cat
+# Cat
 
 _Tiny beast, unaligned_
 
@@ -15,10 +15,10 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Smell.**_ The cat has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### Actions
+## Actions
 
 - _**Claws.** Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.

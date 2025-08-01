@@ -1,4 +1,4 @@
-#### Flying Snake
+# Flying Snake
 
 _Tiny beast, unaligned_
 
@@ -14,11 +14,11 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 1/8 (25 XP)
 
-#### Traits
+## Traits
 
 - _**Flyby.**_ The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage plus 7 (3d4) poison damage.
 

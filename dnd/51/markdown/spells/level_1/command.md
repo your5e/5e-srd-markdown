@@ -1,4 +1,4 @@
-## Command
+# Command
 
 _1st-level enchantment_
 

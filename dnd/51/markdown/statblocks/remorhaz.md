@@ -1,4 +1,4 @@
-## Remorhaz
+# Remorhaz
 
 _Huge monstrosity, unaligned_
 
@@ -15,11 +15,11 @@ _Huge monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 11 (7,200 XP)
 
-#### Traits
+## Traits
 
 - _**Heated Body.**_ A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.
 - _**Swallow.**_ The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns.

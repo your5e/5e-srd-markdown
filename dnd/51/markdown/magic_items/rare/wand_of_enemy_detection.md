@@ -1,4 +1,4 @@
-## Wand of Enemy Detection
+# Wand of Enemy Detection
 
 _Wand, rare (requires attunement)_
 

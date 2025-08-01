@@ -1,4 +1,4 @@
-#### Contagion
+# Contagion
 
 _5th-level necromancy_
 

@@ -1,4 +1,4 @@
-### Mass Healing Word
+# Mass Healing Word
 
 _3rd-level evocation_
 

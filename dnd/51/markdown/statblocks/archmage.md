@@ -1,4 +1,4 @@
-#### Archmage
+# Archmage
 
 _Medium humanoid (any race), any alignment_
 
@@ -17,7 +17,7 @@ _Medium humanoid (any race), any alignment_
 - **Languages** any six languages
 - **Challenge** 12 (8,400 XP)
 
-#### Traits
+## Traits
 
 - _**Magic Resistance.**_ The archmage has advantage on saving throws against spells and other magical effects.
 - _**Spellcasting.**_ The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast _Disguise Self_ and _Invisibility_ at will and has the following wizard spells prepared:
@@ -35,7 +35,7 @@ _Medium humanoid (any race), any alignment_
 
     \**The archmage casts these spells on itself before combat.*
 
-#### Actions
+## Actions
 
 - _**Dagger.** Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 

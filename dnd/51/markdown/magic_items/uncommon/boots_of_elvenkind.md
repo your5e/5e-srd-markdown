@@ -1,4 +1,4 @@
-#### Boots of Elvenkind
+# Boots of Elvenkind
 
 _Wondrous item, uncommon_
 

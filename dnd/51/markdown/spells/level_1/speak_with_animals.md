@@ -1,4 +1,4 @@
-#### Speak with Animals
+# Speak with Animals
 
 _1st-level divination (ritual)_
 

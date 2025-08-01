@@ -1,4 +1,4 @@
-#### Ogre Zombie
+# Ogre Zombie
 
 _Large undead, neutral evil_
 
@@ -17,10 +17,10 @@ _Large undead, neutral evil_
 - **Languages** understands Common and Giant but can't speak
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Undead Fortitude.**_ If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
-#### Actions
+## Actions
 
 - _**Morningstar.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.

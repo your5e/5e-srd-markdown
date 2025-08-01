@@ -1,4 +1,4 @@
-#### Vrock
+# Vrock
 
 _Large fiend (demon), chaotic evil_
 
@@ -18,11 +18,11 @@ _Large fiend (demon), chaotic evil_
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 6 (2,300 XP)
 
-#### Traits
+## Traits
 
 - _**Magic Resistance.**_ The vrock has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The vrock makes two attacks: one with its beak and one with its talons.
 - _**Beak.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.

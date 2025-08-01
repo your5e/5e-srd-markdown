@@ -1,4 +1,4 @@
-#### Merfolk
+# Merfolk
 
 _Medium humanoid (merfolk), neutral_
 
@@ -15,10 +15,10 @@ _Medium humanoid (merfolk), neutral_
 - **Languages** Aquan, Common
 - **Challenge** 1/8 (25 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The merfolk can breathe air and water.
 
-#### Actions
+## Actions
 
 - _**Spear.** Melee or Ranged Weapon Attack:_ +2 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.

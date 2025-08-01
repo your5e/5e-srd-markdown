@@ -1,4 +1,4 @@
-#### Deck of Many Things
+# Deck of Many Things
 
 _Wondrous item, legendary_
 
@@ -52,7 +52,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 - _**Ruin.**_ All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
 - _**Skull.**_ You summon an avatar of death—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the GM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can't be restored to life.
 
-### Avatar of Death
+## Avatar of Death
 
 _Medium undead, neutral evil_
 
@@ -70,12 +70,12 @@ _Medium undead, neutral evil_
 - **Languages** all languages known to its summoner
 - **Challenge** — (0 XP)
 
-#### Traits
+### Traits
 
 - _**Incorporeal Movement.**_ The avatar can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 - _**Turning Immunity.**_ The avatar is immune to features that turn undead.
 
-#### Actions
+### Actions
 
 - _**Reaping Scythe.**_ The avatar sweeps its spectral scythe through a creature within 5 feet of it, dealing 7 (1d8 + 3) slashing damage plus 4 (1d8) necrotic damage.
 - _**Star.**_ Increase one of your ability scores by 2. The score can exceed 20 but can't exceed 24.

@@ -1,4 +1,4 @@
-#### Grimlock
+# Grimlock
 
 _Medium humanoid (grimlock), neutral evil_
 
@@ -16,11 +16,11 @@ _Medium humanoid (grimlock), neutral evil_
 - **Languages** Undercommon
 - **Challenge** 1/4 (50 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Hearing and Smell.**_ The grimlock has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 - _**Stone Camouflage.**_ The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-# Actions
+## Actions
 
 - _**Spiked Bone Club.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.

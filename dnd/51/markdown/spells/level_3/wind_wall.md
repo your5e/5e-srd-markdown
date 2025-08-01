@@ -1,4 +1,4 @@
-## Wind Wall
+# Wind Wall
 
 _3rd-level evocation_
 

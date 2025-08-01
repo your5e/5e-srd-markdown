@@ -1,4 +1,4 @@
-#### Mantle of Spell Resistance
+# Mantle of Spell Resistance
 
 _Wondrous item, rare (requires attunement)_
 

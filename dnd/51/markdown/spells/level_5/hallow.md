@@ -1,4 +1,4 @@
-#### Hallow
+# Hallow
 
 _5th-level evocation_
 

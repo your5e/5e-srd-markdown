@@ -1,4 +1,4 @@
-### Young Black Dragon
+# Young Black Dragon
 
 _Large dragon, chaotic evil_
 
@@ -17,11 +17,11 @@ _Large dragon, chaotic evil_
 - **Languages** Common, Draconic
 - **Challenge** 7 (2,900 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The dragon can breathe air and water.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage plus 4 (1d8) acid damage.

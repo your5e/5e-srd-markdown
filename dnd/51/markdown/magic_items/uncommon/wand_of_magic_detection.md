@@ -1,4 +1,4 @@
-#### Wand of Magic Detection
+# Wand of Magic Detection
 
 _Wand, uncommon_
 

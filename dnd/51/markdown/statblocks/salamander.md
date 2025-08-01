@@ -1,4 +1,4 @@
-### Salamander
+# Salamander
 
 _Large elemental, neutral evil_
 
@@ -17,12 +17,12 @@ _Large elemental, neutral evil_
 - **Languages** Ignan
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Heated Body.**_ A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage.
 - _**Heated Weapons.**_ Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The salamander makes two attacks: one with its spear and one with its tail.
 - _**Spear.** Melee or Ranged Weapon Attack:_ +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.

@@ -1,4 +1,4 @@
-## Necklace of Adaptation
+# Necklace of Adaptation
 
 _Wondrous item, uncommon (requires attunement)_
 

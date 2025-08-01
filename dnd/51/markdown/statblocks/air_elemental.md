@@ -1,4 +1,4 @@
-## Air Elemental
+# Air Elemental
 
 _Large elemental, neutral_
 
@@ -17,11 +17,11 @@ _Large elemental, neutral_
 - **Languages** Auran
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Air Form.**_ The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The elemental makes two slam attacks.
 - _**Slam.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage.

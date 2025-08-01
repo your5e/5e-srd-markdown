@@ -1,4 +1,4 @@
-## Feather Token
+# Feather Token
 
 _Wondrous item, rare_
 

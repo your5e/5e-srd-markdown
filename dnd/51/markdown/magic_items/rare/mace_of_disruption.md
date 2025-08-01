@@ -1,4 +1,4 @@
-#### Mace of Disruption
+# Mace of Disruption
 
 _Weapon (mace), rare (requires attunement)_
 

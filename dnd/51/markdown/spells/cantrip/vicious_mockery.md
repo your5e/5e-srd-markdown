@@ -1,4 +1,4 @@
-## Vicious Mockery
+# Vicious Mockery
 
 _Enchantment cantrip_
 

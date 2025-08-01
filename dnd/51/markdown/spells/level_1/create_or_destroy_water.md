@@ -1,4 +1,4 @@
-## Create or Destroy Water
+# Create or Destroy Water
 
 _1st-level transmutation_
 

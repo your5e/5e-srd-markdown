@@ -1,4 +1,4 @@
-#### Invisibility
+# Invisibility
 
 _2nd-level illusion_
 

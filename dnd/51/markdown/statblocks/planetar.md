@@ -1,4 +1,4 @@
-#### Planetar
+# Planetar
 
 _Large celestial, lawful good_
 
@@ -18,7 +18,7 @@ _Large celestial, lawful good_
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 16 (15,000 XP)
 
-#### Traits
+## Traits
 
 - _**Angelic Weapons.**_ The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).
 - _**Divine Awareness.**_ The planetar knows if it hears a lie.
@@ -30,7 +30,7 @@ _Large celestial, lawful good_
 
 _**Magic Resistance.**_ The planetar has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The planetar makes two melee attacks.
 - _**Greatsword.** Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.

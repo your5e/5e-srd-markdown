@@ -1,4 +1,4 @@
-#### Giant Owl
+# Giant Owl
 
 _Large beast, neutral_
 
@@ -15,12 +15,12 @@ _Large beast, neutral_
 - **Languages** Giant Owl, understands Common, Elvish, and Sylvan but can't speak them
 - **Challenge** 1/4 (50 XP)
 
-#### Traits
+## Traits
 
 - _**Flyby.**_ The owl doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 - _**Keen Hearing and Sight.**_ The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-#### Actions
+## Actions
 
 - _**Talons.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 8 (2d6 + 1) slashing damage.
 

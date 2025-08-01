@@ -1,4 +1,4 @@
-#### Polar Bear
+# Polar Bear
 
 _Large beast, unaligned_
 
@@ -15,11 +15,11 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Smell.**_ The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The bear makes two attacks: one with its bite and one with its claws.
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 9 (1d8 + 5) piercing damage.

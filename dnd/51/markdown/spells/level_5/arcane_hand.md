@@ -1,4 +1,4 @@
-## Arcane Hand
+# Arcane Hand
 
 _5th-level evocation_
 

@@ -1,4 +1,4 @@
-### Animal Friendship
+# Animal Friendship
 
 _1st-level enchantment_
 

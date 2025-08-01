@@ -1,4 +1,4 @@
-## Pipes of Haunting
+# Pipes of Haunting
 
 _Wondrous item, uncommon_
 

@@ -1,4 +1,4 @@
-#### Grick
+# Grick
 
 _Medium monstrosity, neutral_
 
@@ -15,11 +15,11 @@ _Medium monstrosity, neutral_
 - **Languages** —
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Stone Camouflage.**_ The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target.
 - _**Tentacles.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 9 (2d6 + 2) slashing damage.

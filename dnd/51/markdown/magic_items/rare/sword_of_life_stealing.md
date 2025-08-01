@@ -1,4 +1,4 @@
-#### Sword of Life Stealing
+# Sword of Life Stealing
 
 _Weapon (any sword), rare (requires attunement)_
 

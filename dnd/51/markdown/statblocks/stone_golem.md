@@ -1,4 +1,4 @@
-#### Stone Golem
+# Stone Golem
 
 _Large construct, unaligned_
 
@@ -16,13 +16,13 @@ _Large construct, unaligned_
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 10 (5,900 XP)
 
-#### Traits
+## Traits
 
 - _**Immutable Form.**_ The golem is immune to any spell or effect that would alter its form.
 - _**Magic Resistance.**_ The golem has advantage on saving throws against spells and other magical effects.
 - _**Magic Weapons.**_ The golem's weapon attacks are magical.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The golem makes two slam attacks.
 - _**Slam.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 19 (3d8 + 6) bludgeoning damage.

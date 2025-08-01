@@ -1,4 +1,4 @@
-## Cube of Force
+# Cube of Force
 
 _Wondrous item, rare (requires attunement)_
 

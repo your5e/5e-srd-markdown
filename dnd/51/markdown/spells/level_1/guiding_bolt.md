@@ -1,4 +1,4 @@
-#### Guiding Bolt
+# Guiding Bolt
 
 _1st-level evocation_
 

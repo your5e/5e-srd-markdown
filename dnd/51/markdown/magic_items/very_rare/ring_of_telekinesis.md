@@ -1,4 +1,4 @@
-## Ring of Telekinesis
+# Ring of Telekinesis
 
 _Ring, very rare (requires attunement)_
 

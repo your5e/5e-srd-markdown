@@ -1,4 +1,4 @@
-#### Simulacrum
+# Simulacrum
 
 _7th-level illusion_
 

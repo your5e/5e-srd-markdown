@@ -1,4 +1,4 @@
-#### Boots of Levitation
+# Boots of Levitation
 
 _Wondrous item, rare (requires attunement)_
 

@@ -1,4 +1,4 @@
-#### Silver Dragon Wyrmling
+# Silver Dragon Wyrmling
 
 _Medium dragon, lawful good_
 
@@ -17,7 +17,7 @@ _Medium dragon, lawful good_
 - **Languages** Draconic
 - **Challenge** 2 (450 XP)
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.
 - _**Breath Weapons (Recharge 5–6).**_ The dragon uses one of the following breath weapons.

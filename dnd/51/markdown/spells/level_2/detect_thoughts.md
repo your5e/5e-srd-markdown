@@ -1,4 +1,4 @@
-## Detect Thoughts
+# Detect Thoughts
 
 _2nd-level divination_
 

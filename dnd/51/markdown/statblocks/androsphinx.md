@@ -1,4 +1,4 @@
-#### Androsphinx
+# Androsphinx
 
 _Large monstrosity, lawful neutral_
 
@@ -18,7 +18,7 @@ _Large monstrosity, lawful neutral_
 - **Languages** Common, Sphinx
 - **Challenge** 17 (18,000 XP)
 
-#### Traits
+## Traits
 
 - _**Inscrutable.**_ The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 - _**Magic Weapons.**_ The sphinx's weapon attacks are magical.
@@ -31,7 +31,7 @@ _Large monstrosity, lawful neutral_
     - 4th level (3 slots): _Banishment_, _Freedom of Movement_
     - 5th level (2 slots): _Flame Strike_, _Greater Restoration_ 6th level (1 slot): _heroes' feast_
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The sphinx makes two claw attacks.
 - _**Claw.** Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 17 (2d10 + 6) slashing damage.
@@ -40,7 +40,7 @@ _Large monstrosity, lawful neutral_
     - **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
     - **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
 
-#### Legendary Actions
+## Legendary Actions
 
 The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn.
 

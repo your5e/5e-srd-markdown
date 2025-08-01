@@ -1,4 +1,4 @@
-## Create Food and Water
+# Create Food and Water
 
 _3rd-level conjuration_
 

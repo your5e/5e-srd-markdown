@@ -1,4 +1,4 @@
-#### Chimera
+# Chimera
 
 _Large monstrosity, chaotic evil_
 
@@ -15,7 +15,7 @@ _Large monstrosity, chaotic evil_
 - **Languages** understands Draconic but can't speak
 - **Challenge** 6 (2,300 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage.

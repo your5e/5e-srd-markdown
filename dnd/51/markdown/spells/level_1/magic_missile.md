@@ -1,4 +1,4 @@
-#### Magic Missile
+# Magic Missile
 
 _1st-level evocation_
 

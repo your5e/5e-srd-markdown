@@ -1,4 +1,4 @@
-#### Teleport
+# Teleport
 
 _7th-level conjuration_
 

@@ -1,4 +1,4 @@
-## Mage
+# Mage
 
 _Medium humanoid (any race), any alignment_
 
@@ -16,7 +16,7 @@ _Medium humanoid (any race), any alignment_
 - **Languages** any four languages
 - **Challenge** 6 (2,300 XP)
 
-#### Traits
+## Traits
 
 - _**Spellcasting.**_ The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 

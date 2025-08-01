@@ -1,4 +1,4 @@
-#### Detect Magic
+# Detect Magic
 
 _1st-level divination (ritual)_
 

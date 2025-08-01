@@ -1,4 +1,4 @@
-#### Antimagic Field
+# Antimagic Field
 
 _8th-level abjuration_
 

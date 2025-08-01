@@ -1,4 +1,4 @@
-#### Legend Lore
+# Legend Lore
 
 _5th-level divination_
 

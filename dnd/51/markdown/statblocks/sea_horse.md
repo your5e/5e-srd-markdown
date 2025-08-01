@@ -1,4 +1,4 @@
-#### Sea Horse
+# Sea Horse
 
 _Tiny beast, unaligned_
 
@@ -14,6 +14,6 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (0 XP)
 
-#### Traits
+## Traits
 
 - _**Water Breathing.**_ The sea horse can breathe only underwater.

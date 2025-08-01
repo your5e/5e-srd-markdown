@@ -1,4 +1,4 @@
-## Satyr
+# Satyr
 
 _Medium fey, chaotic neutral_
 
@@ -15,11 +15,11 @@ _Medium fey, chaotic neutral_
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 1/2 (100 XP)
 
-#### Traits
+## Traits
 
 - _**Magic Resistance.**_ The satyr has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 - _**Ram.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 6 (2d4 + 1) bludgeoning damage.
 - _**Shortsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.

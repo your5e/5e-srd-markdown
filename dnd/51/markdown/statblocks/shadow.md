@@ -1,4 +1,4 @@
-#### Shadow
+# Shadow
 
 _Medium undead, chaotic evil_
 
@@ -19,13 +19,13 @@ _Medium undead, chaotic evil_
 - **Languages** —
 - **Challenge** 1/2 (100 XP)
 
-#### Traits
+## Traits
 
 - _**Amorphous.**_ The shadow can move through a space as narrow as 1 inch wide without squeezing.
 - _**Shadow Stealth.**_ While in dim light or darkness, the shadow can take the Hide action as a bonus action.
 - _**Sunlight Weakness.**_ While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
 
-#### Actions
+## Actions
 
 - _**Strength Drain.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 

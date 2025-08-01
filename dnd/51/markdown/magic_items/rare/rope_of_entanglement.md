@@ -1,4 +1,4 @@
-## Rope of Entanglement
+# Rope of Entanglement
 
 _Wondrous item, rare_
 

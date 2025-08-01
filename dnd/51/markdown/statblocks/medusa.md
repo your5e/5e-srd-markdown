@@ -1,4 +1,4 @@
-#### Medusa
+# Medusa
 
 _Medium monstrosity, lawful evil_
 
@@ -15,7 +15,7 @@ _Medium monstrosity, lawful evil_
 - **Languages** Common
 - **Challenge** 6 (2,300 XP)
 
-#### Traits
+## Traits
 
 - _**Petrifying Gaze.**_ When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the _Greater Restoration_ spell or other magic.
 
@@ -23,7 +23,7 @@ _Medium monstrosity, lawful evil_
 
     If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The medusa makes either three melee attacks—one with its snake hair and two with its shortsword—or two ranged attacks with its longbow.
 - _**Snake Hair.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.

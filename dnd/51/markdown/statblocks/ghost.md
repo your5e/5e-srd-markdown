@@ -1,4 +1,4 @@
-#### Ghost
+# Ghost
 
 _Medium undead, any alignment_
 
@@ -17,12 +17,12 @@ _Medium undead, any alignment_
 - **Languages** any languages it knew in life
 - **Challenge** 4 (1,100 XP)
 
-#### Traits
+## Traits
 
 - _**Ethereal Sight.**_ The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
 - _**Incorporeal Movement.**_ The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-#### Actions
+## Actions
 
 - _**Withering Touch.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 17 (4d6 + 3) necrotic damage.
 - _**Etherealness.**_ The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.

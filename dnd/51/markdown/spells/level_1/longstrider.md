@@ -1,4 +1,4 @@
-#### Longstrider
+# Longstrider
 
 _1st-level transmutation_
 

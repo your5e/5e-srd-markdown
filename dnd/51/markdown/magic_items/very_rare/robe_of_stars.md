@@ -1,4 +1,4 @@
-### Robe of Stars
+# Robe of Stars
 
 _Wondrous item, very rare (requires attunement)_
 

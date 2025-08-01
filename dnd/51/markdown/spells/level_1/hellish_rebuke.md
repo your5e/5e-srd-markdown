@@ -1,4 +1,4 @@
-## Hellish Rebuke
+# Hellish Rebuke
 
 _1st-level evocation_
 

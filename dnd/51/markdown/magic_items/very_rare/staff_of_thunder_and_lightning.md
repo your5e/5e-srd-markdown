@@ -1,4 +1,4 @@
-## Staff of Thunder and Lightning
+# Staff of Thunder and Lightning
 
 _Staff, very rare (requires attunement)_
 

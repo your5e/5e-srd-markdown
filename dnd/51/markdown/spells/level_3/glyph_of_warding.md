@@ -1,4 +1,4 @@
-#### Glyph of Warding
+# Glyph of Warding
 
 _3rd-level abjuration_
 

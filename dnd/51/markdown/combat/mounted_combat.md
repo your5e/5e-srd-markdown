@@ -4,7 +4,7 @@ A knight charging into battle on a warhorse, a wizard casting spells from the ba
 
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 
-# Mounting and Dismounting
+## Mounting and Dismounting
 
 Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
 
@@ -12,7 +12,7 @@ If an effect moves your mount against its will while you're on it, you must succ
 
 If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
 
-# Controlling a Mount
+## Controlling a Mount
 
 While you're mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
 

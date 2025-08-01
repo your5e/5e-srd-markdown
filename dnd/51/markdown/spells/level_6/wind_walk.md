@@ -1,4 +1,4 @@
-## Wind Walk
+# Wind Walk
 
 _6th-level transmutation_
 

@@ -1,4 +1,4 @@
-#### Draft Horse
+# Draft Horse
 
 _Large beast, unaligned_
 
@@ -14,6 +14,6 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 1/4 (50 XP)
 
-#### Actions
+## Actions
 
 - _**Hooves.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (2d4 + 4) bludgeoning damage.

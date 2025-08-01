@@ -1,4 +1,4 @@
-## Sun Blade
+# Sun Blade
 
 _Weapon (longsword), rare (requires attunement)_
 

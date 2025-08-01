@@ -1,4 +1,4 @@
-## Hypnotic Pattern
+# Hypnotic Pattern
 
 _3rd-level illusion_
 

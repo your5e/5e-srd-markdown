@@ -1,4 +1,4 @@
-#### Owlbear
+# Owlbear
 
 _Large monstrosity, unaligned_
 
@@ -15,11 +15,11 @@ _Large monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 3 (700 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Sight and Smell.**_ The owlbear has advantage on Wisdom (Perception) checks that rely on sight or smell.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The owlbear makes two attacks: one with its beak and one with its claws.
 - _**Beak.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one creature. _Hit:_ 10 (1d10 + 5) piercing damage.

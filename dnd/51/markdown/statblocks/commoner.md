@@ -1,4 +1,4 @@
-#### Commoner
+# Commoner
 
 _Medium humanoid (any race), any alignment_
 
@@ -14,7 +14,7 @@ _Medium humanoid (any race), any alignment_
 - **Languages** any one language (usually Common)
 - **Challenge** 0 (10 XP)
 
-#### Actions
+## Actions
 
 - _**Club.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.
 

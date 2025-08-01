@@ -1,4 +1,4 @@
-## Hammer of Thunderbolts
+# Hammer of Thunderbolts
 
 _Weapon (maul), legendary_
 

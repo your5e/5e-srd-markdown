@@ -1,4 +1,4 @@
-## Adult Bronze Dragon
+# Adult Bronze Dragon
 
 _Huge dragon, lawful good_
 
@@ -17,12 +17,12 @@ _Huge dragon, lawful good_
 - **Languages** Common, Draconic
 - **Challenge** 15 (13,000 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The dragon can breathe air and water.
 - _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +12 to hit, reach 10 ft., one target. _Hit:_ 18 (2d10 + 7) piercing damage.
@@ -36,7 +36,7 @@ _Huge dragon, lawful good_
 
     In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-#### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 

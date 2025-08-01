@@ -1,4 +1,4 @@
-#### Dryad
+# Dryad
 
 _Medium fey, neutral_
 
@@ -15,7 +15,7 @@ _Medium fey, neutral_
 - **Languages** Elvish, Sylvan
 - **Challenge** 1 (200 XP)
 
-#### Traits
+## Traits
 
 - _**Innate Spellcasting.**_ The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
 
@@ -27,7 +27,7 @@ _Medium fey, neutral_
 - _**Speak with Beasts and Plants.**_ The dryad can communicate with beasts and plants as if they shared a language.
 - _**Tree Stride.**_ Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
-#### Actions
+## Actions
 
 - _**Club.** Melee Weapon Attack:_ +2 to hit (+6 to hit with _Shillelagh_), reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with _Shillelagh_.
 - _**Fey Charm.**_ The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.

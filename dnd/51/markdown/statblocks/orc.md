@@ -1,4 +1,4 @@
-#### Orc
+# Orc
 
 _Medium humanoid (orc), chaotic evil_
 
@@ -15,11 +15,11 @@ _Medium humanoid (orc), chaotic evil_
 - **Languages** Common, Orc
 - **Challenge** 1/2 (100 XP)
 
-#### Traits
+## Traits
 
 - _**Aggressive.**_ As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-#### Actions
+## Actions
 
 - _**Greataxe.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12 + 3) slashing damage.
 - _**Javelin.** Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 30/120 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.

@@ -1,4 +1,4 @@
-## Boots of Striding and Springing
+# Boots of Striding and Springing
 
 _Wondrous item, uncommon (requires attunement)_
 

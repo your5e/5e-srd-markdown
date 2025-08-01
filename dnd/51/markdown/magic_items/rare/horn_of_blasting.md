@@ -1,4 +1,4 @@
-#### Horn of Blasting
+# Horn of Blasting
 
 _Wondrous item, rare_
 

@@ -1,4 +1,4 @@
-## Insect Plague
+# Insect Plague
 
 _5th-level conjuration_
 

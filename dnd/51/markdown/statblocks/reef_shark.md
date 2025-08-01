@@ -1,4 +1,4 @@
-#### Reef Shark
+# Reef Shark
 
 _Medium beast, unaligned_
 
@@ -15,12 +15,12 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 1/2 (100 XP)
 
-#### Traits
+## Traits
 
 - _**Pack Tactics.**_ The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.
 - _**Water Breathing.**_ The shark can breathe only underwater.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 

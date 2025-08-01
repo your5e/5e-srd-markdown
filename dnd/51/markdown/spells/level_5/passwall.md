@@ -1,4 +1,4 @@
-## Passwall
+# Passwall
 
 _5th-level transmutation_
 

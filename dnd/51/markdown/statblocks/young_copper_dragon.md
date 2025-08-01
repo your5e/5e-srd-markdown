@@ -1,4 +1,4 @@
-#### Young Copper Dragon
+# Young Copper Dragon
 
 _Large dragon, chaotic good_
 
@@ -17,7 +17,7 @@ _Large dragon, chaotic good_
 - **Languages** Common, Draconic
 - **Challenge** 7 (2,900 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage.

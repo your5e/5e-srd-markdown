@@ -1,4 +1,4 @@
-#### Hippogriff
+# Hippogriff
 
 _Large monstrosity, unaligned_
 
@@ -15,11 +15,11 @@ _Large monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 1 (200 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Sight.**_ The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The hippogriff makes two attacks: one with its beak and one with its claws.
 - _**Beak.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (1d10 + 3) piercing damage.

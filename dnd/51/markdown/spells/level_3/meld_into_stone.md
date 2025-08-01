@@ -1,4 +1,4 @@
-#### Meld into Stone
+# Meld into Stone
 
 _3rd-level transmutation (ritual)_
 

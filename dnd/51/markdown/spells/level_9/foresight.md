@@ -1,4 +1,4 @@
-## Foresight
+# Foresight
 
 _9th-level divination_
 

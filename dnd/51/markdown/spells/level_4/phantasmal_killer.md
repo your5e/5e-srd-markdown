@@ -1,4 +1,4 @@
-## Phantasmal Killer
+# Phantasmal Killer
 
 _4th-level illusion_
 

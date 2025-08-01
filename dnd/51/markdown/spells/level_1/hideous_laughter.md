@@ -1,4 +1,4 @@
-## Hideous Laughter
+# Hideous Laughter
 
 _1st-level enchantment_
 

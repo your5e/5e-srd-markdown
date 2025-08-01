@@ -1,4 +1,4 @@
-## Blade Barrier
+# Blade Barrier
 
 _6th-level evocation_
 

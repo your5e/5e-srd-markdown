@@ -1,4 +1,6 @@
-# Human Human Traits
+## Human
+
+### Human Traits
 
 It's hard to make generalizations about humans, but your human character has these traits.
 

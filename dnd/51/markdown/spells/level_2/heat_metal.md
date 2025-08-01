@@ -1,4 +1,4 @@
-#### Heat Metal
+# Heat Metal
 
 _2nd-level transmutation_
 

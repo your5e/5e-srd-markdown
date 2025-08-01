@@ -158,7 +158,7 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 | Waterskin                    | 2 sp     | 5 lb. (full) |
 | Whetstone                    | 1 cp     | 1 lb.        |
 
-#### Container Capacity
+## Container Capacity
 
 | Container        | Capacity                               |
 |------------------|----------------------------------------|
@@ -178,7 +178,7 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 
 \* You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
 
-#### Equipment Packs
+## Equipment Packs
 
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
 

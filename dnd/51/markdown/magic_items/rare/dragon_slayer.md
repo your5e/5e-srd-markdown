@@ -1,4 +1,4 @@
-## Dragon Slayer
+# Dragon Slayer
 
 _Weapon (any sword), rare_
 

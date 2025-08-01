@@ -1,4 +1,4 @@
-## Mithral Armor
+# Mithral Armor
 
 _Armor (medium or heavy, but not hide), uncommon_
 

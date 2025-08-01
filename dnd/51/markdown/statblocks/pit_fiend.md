@@ -1,4 +1,4 @@
-#### Pit Fiend
+# Pit Fiend
 
 _Large fiend (devil), lawful evil_
 
@@ -18,7 +18,7 @@ _Large fiend (devil), lawful evil_
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 20 (25,000 XP)
 
-#### Traits
+## Traits
 
 - _**Fear Aura.**_ Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
 - _**Magic Resistance.**_ The pit fiend has advantage on saving throws against spells and other magical effects.
@@ -28,7 +28,7 @@ _Large fiend (devil), lawful evil_
     - At will: _Detect Magic_, _Fireball_
     - 3/day each: _Hold Monster_, _Wall of Fire_
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
 - _**Bite.** Melee Weapon Attack:_ +14 to hit, reach 5 ft., one target. _Hit:_ 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

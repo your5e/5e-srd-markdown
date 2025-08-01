@@ -1,4 +1,4 @@
-#### Holy Avenger
+# Holy Avenger
 
 _Weapon (any sword), legendary (requires attunement by a paladin)_
 

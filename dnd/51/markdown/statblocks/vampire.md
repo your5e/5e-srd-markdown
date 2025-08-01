@@ -1,4 +1,4 @@
-#### Vampire
+# Vampire
 
 _Medium undead (shapechanger), lawful evil_
 
@@ -17,7 +17,7 @@ _Medium undead (shapechanger), lawful evil_
 - **Languages** the languages it knew in life
 - **Challenge** 13 (10,000 XP)
 
-#### Traits
+## Traits
 
 - _**Shapechanger.**_ If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.
 
@@ -38,7 +38,7 @@ _Medium undead (shapechanger), lawful evil_
 - _**Stake to the Heart.**_ If a piercing weapon made of wood is driven into the vampire's heart while the vampire is incapacitated in its resting place, the vampire is paralyzed until the stake is removed.
 - _**Sunlight Hypersensitivity.**_ The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-#### Actions
+## Actions
 
 - _**Multiattack (Vampire Form Only).**_ The vampire makes two attacks, only one of which can be a bite attack.
 - _**Unarmed Strike (Vampire Form Only).** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one creature. _Hit:_ 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18).
@@ -49,7 +49,7 @@ _Medium undead (shapechanger), lawful evil_
 
 - _**Children of the Night (1/Day).**_ The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
 
-#### Legendary Actions
+## Legendary Actions
 
 The vampire can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The vampire regains spent legendary actions at the start of its turn.
 

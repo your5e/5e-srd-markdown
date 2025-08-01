@@ -1,4 +1,4 @@
-## Ring of X-ray Vision
+# Ring of X-ray Vision
 
 _Ring, rare (requires attunement)_
 

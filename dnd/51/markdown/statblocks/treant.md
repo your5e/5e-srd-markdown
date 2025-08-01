@@ -1,4 +1,4 @@
-#### Treant
+# Treant
 
 _Huge plant, chaotic good_
 
@@ -16,12 +16,12 @@ _Huge plant, chaotic good_
 - **Languages** Common, Druidic, Elvish, Sylvan
 - **Challenge** 9 (5,000 XP)
 
-#### Traits
+## Traits
 
 - _**False Appearance.**_ While the treant remains motionless, it is indistinguishable from a normal tree.
 - _**Siege Monster.**_ The treant deals double damage to objects and structures.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The treant makes two slam attacks.
 - _**Slam.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 16 (3d6 + 6) bludgeoning damage.

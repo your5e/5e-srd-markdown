@@ -1,4 +1,4 @@
-#### Expeditious Retreat
+# Expeditious Retreat
 
 _1st-level transmutation_
 

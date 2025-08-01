@@ -1,4 +1,4 @@
-#### Immovable Rod
+# Immovable Rod
 
 _Rod, uncommon_
 

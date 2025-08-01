@@ -1,4 +1,4 @@
-#### Plesiosaurus
+# Plesiosaurus
 
 _Large beast, unaligned_
 
@@ -15,10 +15,10 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Hold Breath.**_ The plesiosaurus can hold its breath for 1 hour.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) piercing damage.

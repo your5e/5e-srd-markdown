@@ -1,4 +1,4 @@
-#### Barbed Devil
+# Barbed Devil
 
 _Medium fiend (devil), lawful evil_
 
@@ -19,13 +19,13 @@ _Medium fiend (devil), lawful evil_
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Barbed Hide.**_ At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.
 - _**Devil's Sight.**_ Magical darkness doesn't impede the devil's darkvision.
 - _**Magic Resistance.**_ The devil has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 - _**Claw.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.

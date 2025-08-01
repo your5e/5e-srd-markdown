@@ -1,4 +1,4 @@
-#### Freedom of Movement
+# Freedom of Movement
 
 _4th-level abjuration_
 

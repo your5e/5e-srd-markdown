@@ -1,4 +1,4 @@
-#### Protection from Poison
+# Protection from Poison
 
 _2nd-level abjuration_
 

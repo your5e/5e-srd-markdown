@@ -1,4 +1,4 @@
-#### Deer
+# Deer
 
 _Medium beast, unaligned_
 
@@ -14,6 +14,6 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) piercing damage.

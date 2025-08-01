@@ -1,4 +1,4 @@
-#### Irresistible Dance
+# Irresistible Dance
 
 _6th-level enchantment_
 

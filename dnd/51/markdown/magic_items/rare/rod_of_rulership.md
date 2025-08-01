@@ -1,4 +1,4 @@
-#### Rod of Rulership
+# Rod of Rulership
 
 _Rod, rare (requires attunement)_
 

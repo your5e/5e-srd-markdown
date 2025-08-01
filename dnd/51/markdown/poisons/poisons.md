@@ -9,7 +9,7 @@ Poisons come in the following four types.
 - _**Inhaled.**_ These poisons are powders or gases that take effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its effect. The resulting cloud dissipates immediately afterward. Holding one's breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
 - _**Injury.**_ Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
-#### Poisons
+## Poisons
 
 | Item               | Type     | Price per Dose   |
 |--------------------|----------|------------------|
@@ -28,7 +28,7 @@ Poisons come in the following four types.
 | Truth serum        | Ingested | 150 gp           |
 | Wyvern poison      | Injury   | 1,200 gp         |
 
-# Sample Poisons
+## Sample Poisons
 
 Each type of poison has its own debilitating effects.
 

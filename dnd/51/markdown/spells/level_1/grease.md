@@ -1,4 +1,4 @@
-#### Grease
+# Grease
 
 _1st-level conjuration_
 

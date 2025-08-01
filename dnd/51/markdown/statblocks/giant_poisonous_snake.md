@@ -1,4 +1,4 @@
-#### Giant Poisonous Snake
+# Giant Poisonous Snake
 
 _Medium beast, unaligned_
 
@@ -15,6 +15,6 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 1/4 (50 XP)
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.

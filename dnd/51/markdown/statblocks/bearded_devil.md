@@ -18,13 +18,13 @@ _Medium fiend (devil), lawful evil_
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 3 (700 XP)
 
-#### Traits
+## Traits
 
 - _**Devil's Sight.**_ Magical darkness doesn't impede the devil's darkvision.
 - _**Magic Resistance.**_ The devil has advantage on saving throws against spells and other magical effects.
 - _**Steadfast.**_ The devil can't be frightened while it can see an allied creature within 30 feet of it.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The devil makes two attacks: one with its beard and one with its glaive.
 - _**Beard.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

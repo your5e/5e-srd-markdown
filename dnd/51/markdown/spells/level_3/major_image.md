@@ -1,4 +1,4 @@
-#### Major Image
+# Major Image
 
 _3rd-level illusion_
 

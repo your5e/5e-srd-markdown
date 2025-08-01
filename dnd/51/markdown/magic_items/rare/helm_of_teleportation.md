@@ -1,4 +1,4 @@
-#### Helm of Teleportation
+# Helm of Teleportation
 
 _Wondrous item, rare (requires attunement)_
 

@@ -11,7 +11,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 - _**Bronze Griffon (Rare).**_ This bronze statuette is of a griffon rampant. It can become a griffon for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
 - _**Ebony Fly (Rare).**_ This ebony statuette is carved in the likeness of a horsefly. It can become a giant fly for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
 
-#### Giant Fly
+## Giant Fly
 
 _Large beast, unaligned_
 

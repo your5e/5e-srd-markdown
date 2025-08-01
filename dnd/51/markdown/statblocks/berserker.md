@@ -1,4 +1,4 @@
-#### Berserker
+# Berserker
 
 _Medium humanoid (any race), any chaotic alignment_
 
@@ -14,11 +14,11 @@ _Medium humanoid (any race), any chaotic alignment_
 - **Languages** any one language (usually Common)
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Reckless.**_ At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-#### Actions
+## Actions
 
 - _**Greataxe.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 9 (1d12 + 3) slashing damage.
 

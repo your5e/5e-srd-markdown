@@ -1,4 +1,4 @@
-#### Greater Restoration
+# Greater Restoration
 
 _5th-level abjuration_
 

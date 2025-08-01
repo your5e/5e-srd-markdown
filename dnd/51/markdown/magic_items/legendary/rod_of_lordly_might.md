@@ -1,4 +1,4 @@
-#### Rod of Lordly Might
+# Rod of Lordly Might
 
 _Rod, legendary (requires attunement)_
 

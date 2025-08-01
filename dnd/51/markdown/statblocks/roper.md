@@ -1,4 +1,4 @@
-#### Roper
+# Roper
 
 _Large monstrosity, neutral evil_
 
@@ -15,13 +15,13 @@ _Large monstrosity, neutral evil_
 - **Languages** —
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**False Appearance.**_ While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.
 - _**Grasping Tendrils.**_ The roper can have up to six tendrils at a time. Each tendril can be attacked (AC 20; 10 hit points; immunity to poison and psychic damage). Destroying a tendril deals no damage to the roper, which can extrude a replacement tendril on its next turn. A tendril can also be broken if a creature takes an action and succeeds on a DC 15 Strength check against it.
 - _**Spider Climb.**_ The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 22 (4d8 + 4) piercing damage.

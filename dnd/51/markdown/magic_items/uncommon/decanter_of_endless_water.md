@@ -1,4 +1,4 @@
-#### Decanter of Endless Water
+# Decanter of Endless Water
 
 _Wondrous item, uncommon_
 

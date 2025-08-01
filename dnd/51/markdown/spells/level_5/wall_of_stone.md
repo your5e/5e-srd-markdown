@@ -1,4 +1,4 @@
-#### Wall of Stone
+# Wall of Stone
 
 _5th-level evocation_
 

@@ -1,4 +1,4 @@
-#### Telepathic Bond
+# Telepathic Bond
 
 _5th-level divination (ritual)_
 

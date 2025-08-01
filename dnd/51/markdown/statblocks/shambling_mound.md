@@ -1,4 +1,4 @@
-#### Shambling Mound
+# Shambling Mound
 
 _Large plant, unaligned_
 
@@ -18,11 +18,11 @@ _Large plant, unaligned_
 - **Languages** —
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Lightning Absorption.**_ Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
 - _**Slam.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.

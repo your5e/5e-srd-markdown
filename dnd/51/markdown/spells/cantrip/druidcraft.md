@@ -1,4 +1,4 @@
-#### Druidcraft
+# Druidcraft
 
 _Transmutation cantrip_
 

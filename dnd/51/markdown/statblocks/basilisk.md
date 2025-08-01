@@ -1,4 +1,4 @@
-#### Basilisk
+# Basilisk
 
 _Medium monstrosity, unaligned_
 
@@ -14,7 +14,7 @@ _Medium monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 3 (700 XP)
 
-#### Traits
+## Traits
 
 - _**Petrifying Gaze.**_ If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the _Greater Restoration_ spell or other magic.
 
@@ -22,6 +22,6 @@ _Medium monstrosity, unaligned_
 
     If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. H_it:_ 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.

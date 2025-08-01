@@ -1,4 +1,4 @@
-## Divination
+# Divination
 
 _4th-level divination (ritual)_
 

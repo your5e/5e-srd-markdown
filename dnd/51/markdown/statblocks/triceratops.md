@@ -1,4 +1,4 @@
-#### Triceratops
+# Triceratops
 
 _Huge beast, unaligned_
 
@@ -14,11 +14,11 @@ _Huge beast, unaligned_
 - **Languages** —
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Trampling Charge.**_ If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
 
-#### Actions
+## Actions
 
 - _**Gore.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 24 (4d8 + 6) piercing damage.
 - _**Stomp.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one prone creature. _Hit:_ 22 (3d10 + 6) bludgeoning damage.

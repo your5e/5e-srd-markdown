@@ -1,4 +1,4 @@
-#### Storm Giant
+# Storm Giant
 
 _Huge giant, chaotic good_
 
@@ -18,7 +18,7 @@ _Huge giant, chaotic good_
 - **Languages** Common, Giant
 - **Challenge** 13 (10,000 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The giant can breathe air and water.
 - _**Innate Spellcasting.**_ The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
@@ -26,7 +26,7 @@ _Huge giant, chaotic good_
     - At will: _Detect Magic_, _Feather Fall_, _Levitate_, _Light_
     - 3/day each: _Control Weather_, _Water Breathing_
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The giant makes two greatsword attacks.
 - _**Greatsword.** Melee Weapon Attack:_ +14 to hit, reach 10 ft., one target. _Hit:_ 30 (6d6 + 9) slashing damage.

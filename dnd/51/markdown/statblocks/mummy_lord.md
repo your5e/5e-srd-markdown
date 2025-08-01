@@ -1,4 +1,4 @@
-#### Mummy Lord
+# Mummy Lord
 
 _Medium undead, lawful evil_
 
@@ -19,7 +19,7 @@ _Medium undead, lawful evil_
 - **Languages** the languages it knew in life
 - **Challenge** 15 (13,000 XP)
 
-#### Traits
+## Traits
 
 - _**Magic Resistance.**_ The mummy lord has advantage on saving throws against spells and other magical effects.
 - _**Rejuvenation.**_ A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord's heart.
@@ -33,13 +33,13 @@ _Medium undead, lawful evil_
     - 5th level (2 slots): _Contagion_, _Insect Plague_
     - 6th level (1 slot): _Harm_
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 - _**Rotting Fist.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the _Remove Curse_ spell or other magic.
 - _**Dreadful Glare.**_ The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
-#### Legendary Actions
+## Legendary Actions
 
 The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.
 

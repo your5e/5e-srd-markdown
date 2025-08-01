@@ -1,4 +1,4 @@
-#### Druid
+# Druid
 
 _Medium humanoid (any race), any alignment_
 
@@ -15,7 +15,7 @@ _Medium humanoid (any race), any alignment_
 - **Languages** Druidic plus any two languages
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Spellcasting.**_ The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
@@ -23,7 +23,7 @@ _Medium humanoid (any race), any alignment_
     - 1st level (4 slots): _Entangle_, _Longstrider_, _Speak with Animals_, _Thunderwave_
     - 2nd level (3 slots): _Animal Messenger_, _Barkskin_
 
-#### Actions
+## Actions
 
 - _**Quarterstaff.** Melee Weapon Attack:_ +2 to hit (+4 to hit with _Shillelagh_), reach 5 ft., one target. _Hit:_ 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with _Shillelagh_.
 

@@ -1,4 +1,4 @@
-#### Regenerate
+# Regenerate
 
 _7th-level transmutation_
 

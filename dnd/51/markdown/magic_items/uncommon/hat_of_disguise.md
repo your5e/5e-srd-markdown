@@ -1,4 +1,4 @@
-## Hat of Disguise
+# Hat of Disguise
 
 _Wondrous item, uncommon (requires attunement)_
 

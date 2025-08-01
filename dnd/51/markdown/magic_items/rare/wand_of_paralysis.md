@@ -1,4 +1,4 @@
-#### Wand of Paralysis
+# Wand of Paralysis
 
 _Wand, rare (requires attunement by a spellcaster)_
 

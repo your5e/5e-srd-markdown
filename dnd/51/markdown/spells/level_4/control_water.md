@@ -1,4 +1,4 @@
-## Control Water
+# Control Water
 
 _4th-level transmutation_
 

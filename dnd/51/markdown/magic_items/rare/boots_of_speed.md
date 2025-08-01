@@ -1,4 +1,4 @@
-#### Boots of Speed
+# Boots of Speed
 
 _Wondrous item, rare (requires attunement)_
 

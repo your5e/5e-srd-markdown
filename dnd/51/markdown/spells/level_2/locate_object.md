@@ -1,4 +1,4 @@
-## Locate Object
+# Locate Object
 
 _2nd-level divination_
 

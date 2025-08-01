@@ -1,4 +1,4 @@
-#### Swarm of Poisonous Snakes
+# Swarm of Poisonous Snakes
 
 _Medium swarm of Tiny beasts, unaligned_
 
@@ -16,10 +16,10 @@ _Medium swarm of Tiny beasts, unaligned_
 - **Languages** —
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Swarm.**_ The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
 
-#### Actions
+## Actions
 
 - _**Bites.** Melee Weapon Attack:_ +6 to hit, reach 0 ft., one creature in the swarm's space. _Hit:_ 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.

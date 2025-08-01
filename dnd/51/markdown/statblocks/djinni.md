@@ -1,4 +1,4 @@
-## Djinni
+# Djinni
 
 _Large elemental, chaotic good_
 
@@ -16,7 +16,7 @@ _Large elemental, chaotic good_
 - **Languages** Auran
 - **Challenge** 11 (7,200 XP)
 
-#### Traits
+## Traits
 
 - _**Elemental Demise.**_ If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
 - _**Innate Spellcasting.**_ The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
@@ -25,7 +25,7 @@ _Large elemental, chaotic good_
     - 3/day each: _Create Food and Water_ (can create wine instead of water), _Tongues_, _Wind Walk_
     - 1/day each: _Conjure Elemental_ (air elemental only), _Creation_, _Gaseous Form_, _Invisibility_, _Major Image_, _Plane Shift_
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The djinni makes three scimitar attacks.
 - _**Scimitar.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice).

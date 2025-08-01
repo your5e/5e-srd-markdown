@@ -1,4 +1,4 @@
-## See Invisibility
+# See Invisibility
 
 _2nd-level divination_
 

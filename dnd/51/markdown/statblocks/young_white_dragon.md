@@ -1,4 +1,4 @@
-## Young White Dragon
+# Young White Dragon
 
 _Large dragon, chaotic evil_
 
@@ -17,11 +17,11 @@ _Large dragon, chaotic evil_
 - **Languages** Common, Draconic
 - **Challenge** 6 (2,300 XP)
 
-#### Traits
+## Traits
 
 - _**Ice Walk.**_ The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage.

@@ -1,4 +1,4 @@
-#### Couatl
+# Couatl
 
 _Medium celestial, lawful good_
 
@@ -17,7 +17,7 @@ _Medium celestial, lawful good_
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 4 (1,100 XP)
 
-#### Traits
+## Traits
 
 - _**Innate Spellcasting.**_ The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
 
@@ -28,7 +28,7 @@ _Medium celestial, lawful good_
 - _**Magic Weapons.**_ The couatl's weapon attacks are magical.
 - _**Shielded Mind.**_ The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one creature. _Hit:_ 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake.
 - _**Constrict.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one Medium or smaller creature. _Hit:_ 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target.

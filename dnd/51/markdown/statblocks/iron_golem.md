@@ -1,4 +1,4 @@
-#### Iron Golem
+# Iron Golem
 
 _Large construct, unaligned_
 
@@ -16,14 +16,14 @@ _Large construct, unaligned_
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 16 (15,000 XP)
 
-#### Traits
+## Traits
 
 - _**Fire Absorption.**_ Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
 - _**Immutable Form.**_ The golem is immune to any spell or effect that would alter its form.
 - _**Magic Resistance.**_ The golem has advantage on saving throws against spells and other magical effects.
 - _**Magic Weapons.**_ The golem's weapon attacks are magical.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The golem makes two melee attacks.
 - _**Slam.** Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 20 (3d8 + 7) bludgeoning damage.

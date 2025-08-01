@@ -1,4 +1,4 @@
-#### Awaken
+# Awaken
 
 _5th-level transmutation_
 

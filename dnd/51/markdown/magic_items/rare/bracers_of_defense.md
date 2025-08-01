@@ -1,4 +1,4 @@
-## Bracers of Defense
+# Bracers of Defense
 
 _Wondrous item, rare (requires attunement)_
 

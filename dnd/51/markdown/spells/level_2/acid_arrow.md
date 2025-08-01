@@ -1,4 +1,4 @@
-#### Acid Arrow
+# Acid Arrow
 
 _2nd-level evocation_
 

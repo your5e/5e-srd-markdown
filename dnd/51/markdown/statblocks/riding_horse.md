@@ -1,4 +1,4 @@
-#### Riding Horse
+# Riding Horse
 
 _Large beast, unaligned_
 
@@ -14,6 +14,6 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 1/4 (50 XP)
 
-#### Actions
+## Actions
 
 - _**Hooves.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 8 (2d4 + 3) bludgeoning damage.

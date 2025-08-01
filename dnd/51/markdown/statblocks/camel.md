@@ -1,4 +1,4 @@
-#### Camel
+# Camel
 
 _Large beast, unaligned_
 
@@ -14,6 +14,6 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 1/8 (25 XP)
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 2 (1d4) bludgeoning damage.

@@ -1,4 +1,4 @@
-#### Flame Blade
+# Flame Blade
 
 _2nd-level evocation_
 

@@ -1,4 +1,4 @@
-#### Eyebite
+# Eyebite
 
 _6th-level necromancy_
 

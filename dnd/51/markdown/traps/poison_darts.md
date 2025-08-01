@@ -1,4 +1,4 @@
-#### Poison Darts
+### Poison Darts
 
 _Mechanical trap_
 

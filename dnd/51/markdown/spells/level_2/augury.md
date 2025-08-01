@@ -1,4 +1,4 @@
-#### Augury
+# Augury
 
 _2nd-level divination (ritual)_
 

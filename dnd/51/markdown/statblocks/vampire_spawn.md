@@ -1,4 +1,4 @@
-#### Vampire Spawn
+# Vampire Spawn
 
 _Medium undead, neutral evil_
 
@@ -17,7 +17,7 @@ _Medium undead, neutral evil_
 - **Languages** the languages it knew in life
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Regeneration.**_ The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
 - _**Spider Climb.**_ The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
@@ -27,7 +27,7 @@ _Medium undead, neutral evil_
 - _**Stake to the Heart.**_ The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.
 - _**Sunlight Hypersensitivity.**_ The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The vampire makes two attacks, only one of which can be a bite attack.
 - _**Claws.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).

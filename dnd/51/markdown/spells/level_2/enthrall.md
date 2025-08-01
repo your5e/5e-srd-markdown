@@ -1,4 +1,4 @@
-#### Enthrall
+# Enthrall
 
 _2nd-level enchantment_
 

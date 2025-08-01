@@ -1,4 +1,4 @@
-#### Stoneskin
+# Stoneskin
 
 _4th-level abjuration_
 

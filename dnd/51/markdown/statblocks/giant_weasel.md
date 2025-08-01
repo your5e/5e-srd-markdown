@@ -1,4 +1,4 @@
-#### Giant Weasel
+# Giant Weasel
 
 _Medium beast, unaligned_
 
@@ -15,10 +15,10 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 1/8 (25 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Hearing and Smell.**_ The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.

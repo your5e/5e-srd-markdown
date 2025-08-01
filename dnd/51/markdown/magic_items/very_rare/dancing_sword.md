@@ -1,4 +1,4 @@
-#### Dancing Sword
+# Dancing Sword
 
 _Weapon (any sword), very rare (requires attunement)_
 

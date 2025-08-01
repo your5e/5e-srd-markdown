@@ -1,4 +1,4 @@
-### Horned Devil
+# Horned Devil
 
 _Large fiend (devil), lawful evil_
 
@@ -18,12 +18,12 @@ _Large fiend (devil), lawful evil_
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 11 (7,200 XP)
 
-#### Traits
+## Traits
 
 - _**Devil's Sight.**_ Magical darkness doesn't impede the devil's darkvision.
 - _**Magic Resistance.**_ The devil has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
 - _**Fork.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 15 (2d8 + 6) piercing damage.

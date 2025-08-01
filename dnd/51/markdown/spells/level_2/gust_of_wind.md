@@ -1,4 +1,4 @@
-#### Gust of Wind
+# Gust of Wind
 
 _2nd-level evocation_
 

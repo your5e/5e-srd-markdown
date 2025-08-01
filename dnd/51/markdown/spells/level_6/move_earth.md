@@ -1,4 +1,4 @@
-## Move Earth
+# Move Earth
 
 _6th-level transmutation_
 

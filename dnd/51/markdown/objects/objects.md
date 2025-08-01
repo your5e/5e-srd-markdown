@@ -4,13 +4,13 @@ When characters need to saw through ropes, shatter a window, or smash a vampire'
 
 For the purpose of these rules, an object is a discrete, inanimate item like a window, door, sword, book, table, chair, or stone, not a building or a vehicle that is composed of many other objects.
 
-#### Statistics for Objects
+## Statistics for Objects
 
 When time is a factor, you can assign an Armor Class and hit points to a destructible object. You can also give it immunities, resistances, and vulnerabilities to specific types of damage.
 
 _**Armor Class.**_ An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-#### Object Armor Class
+### Object Armor Class
 
 | Substance           |   AC |
 |---------------------|------|
@@ -24,7 +24,7 @@ _**Armor Class.**_ An object's Armor Class is a measure of how difficult it is t
 
 _**Hit Points.**_ An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-#### Object Hit Points
+### Object Hit Points
 
 | Size                                  | Fragile   | Resilient   |
 |---------------------------------------|-----------|-------------|

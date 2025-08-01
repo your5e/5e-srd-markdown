@@ -1,4 +1,4 @@
-#### Merrow
+# Merrow
 
 _Large monstrosity, chaotic evil_
 
@@ -14,11 +14,11 @@ _Large monstrosity, chaotic evil_
 - **Languages** Abyssal, Aquan
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The merrow can breathe air and water.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The merrow makes two attacks: one with its bite and one with its claws or harpoon.
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) piercing damage.

@@ -1,4 +1,4 @@
-#### Veteran
+# Veteran
 
 _Medium humanoid (any race), any alignment_
 
@@ -15,7 +15,7 @@ _Medium humanoid (any race), any alignment_
 - **Languages** any one language (usually Common)
 - **Challenge** 3 (700 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 - _**Longsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.

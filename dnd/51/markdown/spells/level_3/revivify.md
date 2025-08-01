@@ -1,4 +1,4 @@
-## Revivify
+# Revivify
 
 _3rd-level necromancy_
 

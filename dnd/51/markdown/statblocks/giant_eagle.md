@@ -1,4 +1,4 @@
-#### Giant Eagle
+# Giant Eagle
 
 _Large beast, neutral good_
 
@@ -15,11 +15,11 @@ _Large beast, neutral good_
 - **Languages** Giant Eagle, understands Common and Auran but can't speak them
 - **Challenge** 1 (200 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Sight.**_ The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The eagle makes two attacks: one with its beak and one with its talons.
 - _**Beak.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) piercing damage.

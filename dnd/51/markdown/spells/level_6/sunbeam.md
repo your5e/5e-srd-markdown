@@ -1,4 +1,4 @@
-#### Sunbeam
+# Sunbeam
 
 _6th-level evocation_
 

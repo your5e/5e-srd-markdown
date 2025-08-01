@@ -1,4 +1,4 @@
-## Mirror Image
+# Mirror Image
 
 _2nd-level illusion_
 

@@ -1,4 +1,4 @@
-## Hold Person
+# Hold Person
 
 _2nd-level enchantment_
 

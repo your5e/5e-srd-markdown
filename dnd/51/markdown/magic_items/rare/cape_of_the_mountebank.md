@@ -1,4 +1,4 @@
-#### Cape of the Mountebank
+# Cape of the Mountebank
 
 _Wondrous item, rare_
 

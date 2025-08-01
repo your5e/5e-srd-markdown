@@ -1,4 +1,4 @@
-## Circle of Death
+# Circle of Death
 
 _6th-level necromancy_
 

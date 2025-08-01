@@ -1,4 +1,4 @@
-#### Arrow of Slaying
+# Arrow of Slaying
 
 _Weapon (arrow), very rare_
 

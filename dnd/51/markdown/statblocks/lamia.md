@@ -1,4 +1,4 @@
-#### Lamia
+# Lamia
 
 _Large monstrosity, chaotic evil_
 
@@ -15,7 +15,7 @@ _Large monstrosity, chaotic evil_
 - **Languages** Abyssal, Common
 - **Challenge** 4 (1,100 XP)
 
-#### Traits
+## Traits
 
 - _**Innate Spellcasting.**_ The lamia's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components.
 
@@ -23,7 +23,7 @@ _Large monstrosity, chaotic evil_
     - 3/day each: _Charm Person_, _Mirror Image_, _Scrying_, _Suggestion_
     - 1/day: _Geas_
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.
 - _**Claws.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 14 (2d10 + 3) slashing damage.

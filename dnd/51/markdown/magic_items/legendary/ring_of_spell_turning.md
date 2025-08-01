@@ -1,4 +1,4 @@
-## Ring of Spell Turning
+# Ring of Spell Turning
 
 _Ring, legendary (requires attunement)_
 

@@ -1,4 +1,4 @@
-#### Vicious Weapon
+# Vicious Weapon
 
 _Weapon (any), rare_
 

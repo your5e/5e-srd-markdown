@@ -1,4 +1,4 @@
-#### Adult Copper Dragon
+# Adult Copper Dragon
 
 _Huge dragon, chaotic good_
 
@@ -17,11 +17,11 @@ _Huge dragon, chaotic good_
 - **Languages** Common, Draconic
 - **Challenge** 14 (11,500 XP)
 
-#### Traits
+## Traits
 
 - _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage.
@@ -32,7 +32,7 @@ _Huge dragon, chaotic good_
     - **Acid Breath.** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
     - **Slowing Breath.** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 
-#### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 

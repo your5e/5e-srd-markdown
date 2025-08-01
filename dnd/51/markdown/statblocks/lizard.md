@@ -1,4 +1,4 @@
-#### Lizard
+# Lizard
 
 _Tiny beast, unaligned_
 
@@ -14,6 +14,6 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.

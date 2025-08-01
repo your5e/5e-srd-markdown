@@ -1,4 +1,4 @@
-#### Mummy
+# Mummy
 
 _Medium undead, lawful evil_
 
@@ -19,7 +19,7 @@ _Medium undead, lawful evil_
 - **Languages** the languages it knew in life
 - **Challenge** 3 (700 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 - _**Rotting Fist.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the _Remove Curse_ spell or other magic.

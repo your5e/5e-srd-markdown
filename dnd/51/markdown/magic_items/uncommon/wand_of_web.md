@@ -1,4 +1,4 @@
-#### Wand of Web
+# Wand of Web
 
 _Wand, uncommon (requires attunement by a spellcaster)_
 

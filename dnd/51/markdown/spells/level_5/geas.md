@@ -1,4 +1,4 @@
-#### Geas
+# Geas
 
 _5th-level enchantment_
 

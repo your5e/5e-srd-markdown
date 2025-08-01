@@ -1,4 +1,4 @@
-## Black Dragon Wyrmling
+# Black Dragon Wyrmling
 
 _Medium dragon, chaotic evil_
 
@@ -17,11 +17,11 @@ _Medium dragon, chaotic evil_
 - **Languages** Draconic
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The dragon can breathe air and water.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
 - _**Acid Breath (Recharge 5–6).**_ The dragon exhales acid in a 15-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.

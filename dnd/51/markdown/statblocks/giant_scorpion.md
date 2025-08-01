@@ -1,4 +1,4 @@
-#### Giant Scorpion
+# Giant Scorpion
 
 _Large beast, unaligned_
 
@@ -14,7 +14,7 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 3 (700 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The scorpion makes three attacks: two with its claws and one with its sting.
 - _**Claw.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.

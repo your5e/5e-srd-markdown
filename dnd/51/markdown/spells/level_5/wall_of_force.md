@@ -1,4 +1,4 @@
-### Wall of Force
+# Wall of Force
 
 _5th-level evocation_
 

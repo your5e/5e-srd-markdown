@@ -1,4 +1,4 @@
-## Blight
+# Blight
 
 _4th-level necromancy_
 

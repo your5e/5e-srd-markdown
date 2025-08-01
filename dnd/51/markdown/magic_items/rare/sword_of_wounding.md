@@ -1,4 +1,4 @@
-## Sword of Wounding
+# Sword of Wounding
 
 _Weapon (any sword), rare (requires attunement)_
 

@@ -1,4 +1,6 @@
-# Half-Orc Half-Orc Traits
+## Half-Orc
+
+### Half-Orc Traits
 
 Your half-orc character has certain traits deriving from your orc ancestry.
 

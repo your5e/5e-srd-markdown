@@ -1,4 +1,4 @@
-#### Hyena
+# Hyena
 
 _Medium beast, unaligned_
 
@@ -15,10 +15,10 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**Pack Tactics.**_ The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing damage.

@@ -1,4 +1,4 @@
-#### Spellguard Shield
+# Spellguard Shield
 
 _Armor (shield), very rare (requires attunement)_
 

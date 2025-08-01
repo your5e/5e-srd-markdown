@@ -1,4 +1,4 @@
-#### Hawk
+# Hawk
 
 _Tiny beast, unaligned_
 
@@ -15,10 +15,10 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Sight.**_ The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 
-#### Actions
+## Actions
 
 - _**Talons.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.

@@ -1,4 +1,4 @@
-#### Bag of Beans
+# Bag of Beans
 
 _Wondrous item, rare_
 

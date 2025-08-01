@@ -1,4 +1,4 @@
-#### Earth Elemental
+# Earth Elemental
 
 _Large elemental, neutral_
 
@@ -18,12 +18,12 @@ _Large elemental, neutral_
 - **Languages** Terran
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Earth Glide.**_ The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
 - _**Siege Monster.**_ The elemental deals double damage to objects and structures.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The elemental makes two slam attacks.
 - _**Slam.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 14 (2d8 + 5) bludgeoning damage.

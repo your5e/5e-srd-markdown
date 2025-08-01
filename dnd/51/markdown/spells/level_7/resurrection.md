@@ -1,4 +1,4 @@
-#### Resurrection
+# Resurrection
 
 _7th-level necromancy_
 

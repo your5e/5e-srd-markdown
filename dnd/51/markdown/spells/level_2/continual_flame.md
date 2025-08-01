@@ -1,4 +1,4 @@
-## Continual Flame
+# Continual Flame
 
 _2nd-level evocation_
 

@@ -1,4 +1,4 @@
-#### Message
+# Message
 
 _Transmutation cantrip_
 

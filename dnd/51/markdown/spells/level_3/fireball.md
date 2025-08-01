@@ -1,4 +1,4 @@
-## Fireball
+# Fireball
 
 _3rd-level evocation_
 

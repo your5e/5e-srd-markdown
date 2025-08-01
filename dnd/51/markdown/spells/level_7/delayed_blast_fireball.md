@@ -1,4 +1,4 @@
-#### Delayed Blast Fireball
+# Delayed Blast Fireball
 
 _7th-level evocation_
 

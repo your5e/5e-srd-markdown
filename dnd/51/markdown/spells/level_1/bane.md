@@ -1,4 +1,4 @@
-#### Bane
+# Bane
 
 _1st-level enchantment_
 

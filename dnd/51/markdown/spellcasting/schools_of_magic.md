@@ -1,4 +1,4 @@
-#### The Schools of Magic
+### The Schools of Magic
 
 Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
 

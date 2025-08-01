@@ -1,4 +1,4 @@
-## Dominate Beast
+# Dominate Beast
 
 _4th-level enchantment_
 

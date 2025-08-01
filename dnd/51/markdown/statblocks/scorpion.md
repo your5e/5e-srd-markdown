@@ -1,4 +1,4 @@
-#### Scorpion
+# Scorpion
 
 _Tiny beast, unaligned_
 
@@ -14,6 +14,6 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Actions
+## Actions
 
 - _**Sting.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.

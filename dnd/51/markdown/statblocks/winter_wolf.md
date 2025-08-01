@@ -1,4 +1,4 @@
-#### Winter Wolf
+# Winter Wolf
 
 _Large monstrosity, neutral evil_
 
@@ -16,13 +16,13 @@ _Large monstrosity, neutral evil_
 - **Languages** Common, Giant, Winter Wolf
 - **Challenge** 3 (700 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Hearing and Smell.**_ The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 - _**Pack Tactics.**_ The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 - _**Snow Camouflage.**_ The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 - _**Cold Breath (Recharge 5–6).**_ The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.

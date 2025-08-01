@@ -1,4 +1,4 @@
-## Gnome, Deep (Svirfneblin)
+# Gnome, Deep (Svirfneblin)
 
 _Small humanoid (gnome), neutral good_
 
@@ -15,7 +15,7 @@ _Small humanoid (gnome), neutral good_
 - **Languages** Gnomish, Terran, Undercommon
 - **Challenge** 1/2 (100 XP)
 
-#### Traits
+## Traits
 
 - _**Stone Camouflage.**_ The gnome has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 - _**Gnome Cunning.**_ The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
@@ -24,7 +24,7 @@ _Small humanoid (gnome), neutral good_
     - At will: _Nondetection_ (self only)
     - 1/day each: _Blindness/Deafness_, _Blur_, _Disguise Self_
 
-#### Actions
+## Actions
 
 - _**War Pick.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage.
 - _**Poisoned Dart.** Ranged Weapon Attack:_ +4 to hit, range 30/120 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

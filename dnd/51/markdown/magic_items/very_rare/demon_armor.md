@@ -1,4 +1,4 @@
-#### Demon Armor
+# Demon Armor
 
 _Armor (plate), very rare (requires attunement)_
 

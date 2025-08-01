@@ -1,4 +1,4 @@
-#### Slippers of Spider Climbing
+# Slippers of Spider Climbing
 
 _Wondrous item, uncommon (requires attunement)_
 

@@ -1,4 +1,4 @@
-#### Banishment
+# Banishment
 
 _4th-level abjuration_
 

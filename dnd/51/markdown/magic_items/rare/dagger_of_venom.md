@@ -1,4 +1,4 @@
-#### Dagger of Venom
+# Dagger of Venom
 
 _Weapon (dagger), rare_
 

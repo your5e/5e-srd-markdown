@@ -1,4 +1,4 @@
-#### Deva
+# Deva
 
 _Medium celestial, lawful good_
 
@@ -18,7 +18,7 @@ _Medium celestial, lawful good_
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 10 (5,900 XP)
 
-#### Traits
+## Traits
 
 - _**Angelic Weapons.**_ The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).
 - _**Innate Spellcasting.**_ The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:
@@ -28,7 +28,7 @@ _Medium celestial, lawful good_
 
 - _**Magic Resistance.**_ The deva has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The deva makes two melee attacks.
 - _**Mace.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage.

@@ -1,4 +1,4 @@
-## Fire Storm
+# Fire Storm
 
 _7th-level evocation_
 

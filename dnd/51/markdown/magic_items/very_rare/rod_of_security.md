@@ -1,4 +1,4 @@
-#### Rod of Security
+# Rod of Security
 
 _Rod, very rare_
 

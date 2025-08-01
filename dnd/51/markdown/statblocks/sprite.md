@@ -1,4 +1,4 @@
-#### Sprite
+# Sprite
 
 _Tiny fey, neutral good_
 
@@ -15,7 +15,7 @@ _Tiny fey, neutral good_
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 1/4 (50 XP)
 
-#### Actions
+## Actions
 
 - _**Longsword.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 1 slashing damage.
 - _**Shortbow.** Ranged Weapon Attack:_ +6 to hit, range 40/160 ft., one target. _Hit:_ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.

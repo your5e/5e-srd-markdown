@@ -1,4 +1,4 @@
-#### Bracers of Archery
+# Bracers of Archery
 
 _Wondrous item, uncommon (requires attunement)_
 

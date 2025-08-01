@@ -1,4 +1,4 @@
-#### Young Silver Dragon
+# Young Silver Dragon
 
 _Large dragon, lawful good_
 
@@ -17,7 +17,7 @@ _Large dragon, lawful good_
 - **Languages** Common, Draconic
 - **Challenge** 9 (5,000 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage.

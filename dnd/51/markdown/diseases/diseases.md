@@ -6,6 +6,6 @@ A simple outbreak might amount to little more than a small drain on party resour
 
 A disease that does more than infect a few party members is primarily a plot device. The rules help describe the effects of the disease and how it can be cured, but the specifics of how a disease works aren't bound by a common set of rules. Diseases can affect any creature, and a given illness might or might not pass from one race or kind of creature to another. A plague might affect only constructs or undead, or sweep through a halfling neighborhood but leave other races untouched. What matters is the story you want to tell.
 
-# Sample Diseases
+## Sample Diseases
 
 The diseases here illustrate the variety of ways disease can work in the game. Feel free to alter the saving throw DCs, incubation times, symptoms, and other characteristics of these diseases to suit your campaign.

@@ -1,4 +1,4 @@
-#### Tome of Leadership and Influence
+# Tome of Leadership and Influence
 
 _Wondrous item, very rare_
 

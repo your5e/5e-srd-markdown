@@ -1,4 +1,4 @@
-#### Mirror of Life Trapping
+# Mirror of Life Trapping
 
 _Wondrous item, very rare_
 

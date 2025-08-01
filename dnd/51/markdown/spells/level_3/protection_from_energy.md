@@ -1,4 +1,4 @@
-#### Protection from Energy
+# Protection from Energy
 
 _3rd-level abjuration_
 

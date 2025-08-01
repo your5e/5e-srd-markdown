@@ -1,4 +1,4 @@
-#### Centaur
+# Centaur
 
 _Large monstrosity, neutral good_
 
@@ -15,11 +15,11 @@ _Large monstrosity, neutral good_
 - **Languages** Elvish, Sylvan
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Charge.**_ If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow.
 - _**Pike.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage.

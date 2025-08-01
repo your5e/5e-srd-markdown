@@ -1,4 +1,4 @@
-## True Strike
+# True Strike
 
 _Divination cantrip_
 

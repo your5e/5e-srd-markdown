@@ -1,4 +1,4 @@
-#### Giant Fire Beetle
+# Giant Fire Beetle
 
 _Small beast, unaligned_
 
@@ -14,11 +14,11 @@ _Small beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**Illumination.**_ The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 2 (1d6 - 1) slashing damage.
 

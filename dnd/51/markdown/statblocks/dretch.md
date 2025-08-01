@@ -1,4 +1,4 @@
-## Dretch
+# Dretch
 
 _Small fiend (demon), chaotic evil_
 
@@ -17,7 +17,7 @@ _Small fiend (demon), chaotic evil_
 - **Languages** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
 - **Challenge** 1/4 (50 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dretch makes two attacks: one with its bite and one with its claws.
 - _**Bite.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. _Hit:_ 3 (1d6) piercing damage.

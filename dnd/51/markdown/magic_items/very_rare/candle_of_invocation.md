@@ -1,4 +1,4 @@
-## Candle of Invocation
+# Candle of Invocation
 
 _Wondrous item, very rare (requires attunement)_
 

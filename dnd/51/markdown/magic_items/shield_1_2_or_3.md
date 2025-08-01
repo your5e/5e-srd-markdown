@@ -1,4 +1,4 @@
-#### Shield, +1, +2, or +3
+# Shield, +1, +2, or +3
 
 _Armor (shield), uncommon (+1), rare (+2), or very rare (+3)_
 

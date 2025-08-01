@@ -14,7 +14,7 @@ In addition, most backgrounds give a character proficiency with one or more tool
 
 If a character would gain the same proficiency from two different sources, he or she can choose a different proficiency of the same kind (skill or tool) instead.
 
-#### Languages
+## Languages
 
 Some backgrounds also allow characters to learn additional languages beyond those given by race. See "Languages."
 

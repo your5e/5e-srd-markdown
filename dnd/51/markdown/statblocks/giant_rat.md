@@ -1,4 +1,4 @@
-#### Giant Rat
+# Giant Rat
 
 _Small beast, unaligned_
 
@@ -14,16 +14,16 @@ _Small beast, unaligned_
 - **Languages** —
 - **Challenge** 1/8 (25 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Smell.**_ The rat has advantage on Wisdom (Perception) checks that rely on smell.
 - _**Pack Tactics.**_ The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage.
 
-#### Variant: Diseased Giant Rats
+## Variant: Diseased Giant Rats
 
 Some giant rats carry vile diseases that they spread with their bites. A diseased giant rat has a challenge rating of 1/8 (25 XP) and the following action instead of its normal bite attack.
 

@@ -1,4 +1,4 @@
-## Winged Boots
+# Winged Boots
 
 _Wondrous item, uncommon (requires attunement)_
 

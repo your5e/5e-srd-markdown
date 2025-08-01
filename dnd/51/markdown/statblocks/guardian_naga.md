@@ -1,4 +1,4 @@
-#### Guardian Naga
+# Guardian Naga
 
 _Large monstrosity, lawful good_
 
@@ -17,7 +17,7 @@ _Large monstrosity, lawful good_
 - **Languages** Celestial, Common
 - **Challenge** 10 (5,900 XP)
 
-#### Traits
+## Traits
 
 - _**Rejuvenation.**_ If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _Wish_ spell can prevent this trait from functioning.
 - _**Spellcasting.**_ The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
@@ -30,7 +30,7 @@ _Large monstrosity, lawful good_
     - 5th level (2 slots): _Flame Strike_, _Geas_
     - 6th level (1 slot): _True Seeing_
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one creature. _Hit:_ 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 - _**Spit Poison.** Ranged Weapon Attack:_ +8 to hit, range 15/30 ft., one creature. _Hit:_ The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.

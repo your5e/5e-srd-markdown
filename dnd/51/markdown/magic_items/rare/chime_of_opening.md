@@ -1,4 +1,4 @@
-#### Chime of Opening
+# Chime of Opening
 
 _Wondrous item, rare_
 

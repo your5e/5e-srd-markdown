@@ -1,4 +1,4 @@
-#### Tarrasque
+# Tarrasque
 
 _Gargantuan monstrosity (titan), unaligned_
 
@@ -17,14 +17,14 @@ _Gargantuan monstrosity (titan), unaligned_
 - **Languages** —
 - **Challenge** 30 (155,000 XP)
 
-#### Traits
+## Traits
 
 - _**Legendary Resistance (3/Day).**_ If the tarrasque fails a saving throw, it can choose to succeed instead.
 - _**Magic Resistance.**_ The tarrasque has advantage on saving throws against spells and other magical effects.
 - _**Reflective Carapace.**_ Any time the tarrasque is targeted by a _Magic Missile_ spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, the tarrasque is unaffected. On a 6, the tarrasque is unaffected, and the effect is reflected back at the caster as though it originated from the tarrasque, turning the caster into the target.
 - _**Siege Monster.**_ The tarrasque deals double damage to objects and structures.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.
 - _**Bite.** Melee Weapon Attack:_ +19 to hit, reach 10 ft., one target. _Hit:_ 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target.
@@ -36,7 +36,7 @@ _Gargantuan monstrosity (titan), unaligned_
 
     If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
 
-#### Legendary Actions
+## Legendary Actions
 
 The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
 

@@ -1,4 +1,4 @@
-#### Bag of Tricks
+# Bag of Tricks
 
 _Wondrous item, uncommon_
 
@@ -37,7 +37,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 - 7 Lion
 - 8 Brown bear
 
-# Tan Bag of Tricks
+## Tan Bag of Tricks
 
 ## d8 Creature
 

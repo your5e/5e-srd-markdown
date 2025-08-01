@@ -1,4 +1,4 @@
-#### Crocodile
+# Crocodile
 
 _Large beast, unaligned_
 
@@ -15,10 +15,10 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 1/2 (100 XP)
 
-#### Traits
+## Traits
 
 - _**Hold Breath.**_ The crocodile can hold its breath for 15 minutes.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.

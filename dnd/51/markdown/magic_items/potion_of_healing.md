@@ -1,4 +1,4 @@
-## Potion of Healing
+# Potion of Healing
 
 _Potion, rarity varies_
 
@@ -6,7 +6,7 @@ You regain hit points when you drink this potion. The number of hit points depen
 
 Whatever its potency, the potion's red liquid glimmers when agitated.
 
-# Potions of Healing
+## Potions of Healing
 
 | Potion of …      | Rarity    | HP Regained   |
 |------------------|-----------|---------------|

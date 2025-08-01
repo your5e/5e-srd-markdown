@@ -1,4 +1,4 @@
-#### Giant Hyena
+# Giant Hyena
 
 _Large beast, unaligned_
 
@@ -15,10 +15,10 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 1 (200 XP)
 
-#### Traits
+## Traits
 
 - _**Rampage.**_ When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.

@@ -1,4 +1,4 @@
-#### Sovereign Glue
+# Sovereign Glue
 
 _Wondrous item, legendary_
 

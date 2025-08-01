@@ -1,4 +1,4 @@
-## Flame Strike
+# Flame Strike
 
 _5th-level evocation_
 

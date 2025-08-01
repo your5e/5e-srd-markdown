@@ -1,4 +1,4 @@
-### Spider
+# Spider
 
 _Tiny beast, unaligned_
 
@@ -15,12 +15,12 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**Spider Climb.**_ The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 - _**Web Sense.**_ While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
 - _**Web Walker.**_ The spider ignores movement restrictions caused by webbing.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.

@@ -1,4 +1,4 @@
-#### Robe of the Archmagi
+# Robe of the Archmagi
 
 _Wondrous item, legendary (requires attunement by a sorcerer, warlock, or wizard)_
 

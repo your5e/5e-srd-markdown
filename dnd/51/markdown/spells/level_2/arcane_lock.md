@@ -1,4 +1,4 @@
-#### Arcane Lock
+# Arcane Lock
 
 _2nd-level abjuration_
 

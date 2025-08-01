@@ -1,4 +1,4 @@
-#### Hill Giant
+# Hill Giant
 
 _Huge giant, chaotic evil_
 
@@ -15,7 +15,7 @@ _Huge giant, chaotic evil_
 - **Languages** Giant
 - **Challenge** 5 (1,800 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The giant makes two greatclub attacks.
 - _**Greatclub.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 18 (3d8 + 5) bludgeoning damage.

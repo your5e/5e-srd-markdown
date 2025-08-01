@@ -1,4 +1,4 @@
-#### Talisman of the Sphere
+# Talisman of the Sphere
 
 _Wondrous item, legendary (requires attunement)_
 

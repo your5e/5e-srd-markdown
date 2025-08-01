@@ -1,4 +1,4 @@
-#### Levitate
+# Levitate
 
 _2nd-level transmutation_
 

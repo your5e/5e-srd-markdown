@@ -1,4 +1,4 @@
-#### Greater Invisibility
+# Greater Invisibility
 
 _4th-level illusion_
 

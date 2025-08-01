@@ -1,4 +1,4 @@
-#### Jackal
+# Jackal
 
 _Small beast, unaligned_
 
@@ -15,11 +15,11 @@ _Small beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Hearing and Smell.**_ The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 - _**Pack Tactics.**_ The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 – 1) piercing damage.

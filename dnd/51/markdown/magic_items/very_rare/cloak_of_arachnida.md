@@ -1,4 +1,4 @@
-## Cloak of Arachnida
+# Cloak of Arachnida
 
 _Wondrous item, very rare (requires attunement)_
 

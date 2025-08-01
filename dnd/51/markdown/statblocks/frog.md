@@ -1,4 +1,4 @@
-### Frog
+# Frog
 
 _Tiny beast, unaligned_
 
@@ -15,7 +15,7 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (0 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The frog can breathe air and water.
 - _**Standing Leap.**_ The frog's long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.

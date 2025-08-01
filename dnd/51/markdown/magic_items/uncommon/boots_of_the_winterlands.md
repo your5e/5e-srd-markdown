@@ -1,4 +1,4 @@
-#### Boots of the Winterlands
+# Boots of the Winterlands
 
 _Wondrous item, uncommon (requires attunement)_
 

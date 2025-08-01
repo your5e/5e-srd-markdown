@@ -1,4 +1,4 @@
-#### Wraith
+# Wraith
 
 _Medium undead, neutral evil_
 
@@ -17,12 +17,12 @@ _Medium undead, neutral evil_
 - **Languages** the languages it knew in life
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Incorporeal Movement.**_ The wraith can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 - _**Sunlight Sensitivity.**_ While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-#### Actions
+## Actions
 
 - _**Life Drain.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 - _**Create Specter.**_ The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.

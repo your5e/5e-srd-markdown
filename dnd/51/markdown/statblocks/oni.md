@@ -1,4 +1,4 @@
-#### Oni
+# Oni
 
 _Large giant, lawful evil_
 
@@ -16,7 +16,7 @@ _Large giant, lawful evil_
 - **Languages** Common, Giant
 - **Challenge** 7 (2,900 XP)
 
-#### Traits
+## Traits
 
 - _**Innate Spellcasting.**_ The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
 
@@ -26,7 +26,7 @@ _Large giant, lawful evil_
 - _**Magic Weapons.**_ The oni's weapon attacks are magical.
 - _**Regeneration.**_ The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The oni makes two attacks, either with its claws or its glaive.
 - _**Claw (Oni Form Only).** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage.

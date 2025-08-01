@@ -1,4 +1,4 @@
-## Thug
+# Thug
 
 _Medium humanoid (any race), any non-good alignment_
 
@@ -15,11 +15,11 @@ _Medium humanoid (any race), any non-good alignment_
 - **Languages** any one language (usually Common)
 - **Challenge** 1/2 (100 XP)
 
-#### Traits
+## Traits
 
 - _**Pack Tactics.**_ The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The thug makes two melee attacks.
 - _**Mace.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) bludgeoning damage.

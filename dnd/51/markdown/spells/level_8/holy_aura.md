@@ -1,4 +1,4 @@
-#### Holy Aura
+# Holy Aura
 
 _8th-level abjuration_
 

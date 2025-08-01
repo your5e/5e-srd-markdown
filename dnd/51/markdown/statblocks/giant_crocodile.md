@@ -1,4 +1,4 @@
-#### Giant Crocodile
+# Giant Crocodile
 
 _Huge beast, unaligned_
 
@@ -15,11 +15,11 @@ _Huge beast, unaligned_
 - **Languages** —
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Hold Breath.**_ The crocodile can hold its breath for 30 minutes.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The crocodile makes two attacks: one with its bite and one with its tail.
 - _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.

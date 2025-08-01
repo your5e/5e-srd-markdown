@@ -1,4 +1,4 @@
-#### Cult Fanatic
+# Cult Fanatic
 
 _Medium humanoid (any race), any non-good alignment_
 
@@ -15,7 +15,7 @@ _Medium humanoid (any race), any non-good alignment_
 - **Languages** any one language (usually Common)
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Dark Devotion.**_ The fanatic has advantage on saving throws against being charmed or frightened.
 - _**Spellcasting.**_ The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
@@ -24,7 +24,7 @@ _Medium humanoid (any race), any non-good alignment_
     - 1st level (4 slots): _Command_, _Inflict Wounds_, _Shield of Faith_
     - 2nd level (3 slots): _Hold Person_, _Spiritual Weapon_
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The fanatic makes two melee attacks.
 - _**Dagger.** Melee or Ranged Weapon Attack:_ +4 to hit, reach 5 ft. or range 20/60 ft., one creature. _Hit_: 4 (1d4 + 2) piercing damage.

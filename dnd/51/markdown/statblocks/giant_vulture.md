@@ -1,4 +1,4 @@
-#### Giant Vulture
+# Giant Vulture
 
 _Large beast, neutral evil_
 
@@ -15,12 +15,12 @@ _Large beast, neutral evil_
 - **Languages** understands Common but can't speak
 - **Challenge** 1 (200 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Sight and Smell.**_ The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
 - _**Pack Tactics.**_ The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The vulture makes two attacks: one with its beak and one with its talons.
 - _**Beak.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage.

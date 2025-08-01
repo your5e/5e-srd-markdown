@@ -1,4 +1,4 @@
-#### Universal Solvent
+# Universal Solvent
 
 _Wondrous item, legendary_
 

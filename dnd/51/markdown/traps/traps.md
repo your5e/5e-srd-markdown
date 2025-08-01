@@ -4,15 +4,15 @@ Traps can be found almost anywhere. One wrong step in an ancient tomb might trig
 
 A trap can be either mechanical or magical in nature. **Mechanical traps** include pits, arrow traps, falling blocks, water-filled rooms, whirling blades, and anything else that depends on a mechanism to operate. **Magic traps** are either magical device traps or spell traps. Magical device traps initiate spell effects when activated. Spell traps are spells such as _Glyph of Warding_ and _Symbol_ that function as traps.
 
-# Traps in Play
+## Traps in Play
 
 When adventurers come across a trap, you need to know how the trap is triggered and what it does, as well as the possibility for the characters to detect the trap and to disable or avoid it.
 
-# Triggering a Trap
+### Triggering a Trap
 
 Most traps are triggered when a creature goes somewhere or touches something that the trap's creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. Magic traps are often set to go off when a creature enters an area or touches an object. Some magic traps (such as the _Glyph of Warding_ spell) have more complicated trigger conditions, including a password that prevents the trap from activating.
 
-# Detecting and Disabling a Trap
+### Detecting and Disabling a Trap
 
 Usually, some element of a trap is visible to careful inspection. Characters might notice an uneven flagstone that conceals a pressure plate, spot the gleam of light off a trip wire, notice small holes in the walls from which jets of flame will erupt, or otherwise detect something that points to a trap's presence.
 
@@ -28,7 +28,7 @@ Foiling traps can be a little more complicated. Consider a trapped treasure ches
 
 Traps are often designed with mechanisms that allow them to be disarmed or bypassed. Intelligent monsters that place traps in or around their lairs need ways to get past those traps without harming themselves. Such traps might have hidden levers that disable their triggers, or a secret door might conceal a passage that goes around the trap.
 
-## Trap Effects
+### Trap Effects
 
 The effects of traps can range from inconvenient to deadly, making use of elements such as arrows, spikes, blades, poison, toxic gas, blasts of fire, and deep pits. The deadliest traps combine multiple elements to kill, injure, contain, or drive off any creature unfortunate enough to trigger them. A trap's description specifies what happens when it is triggered.
 
@@ -36,7 +36,7 @@ The attack bonus of a trap, the save DC to resist its effects, and the damage it
 
 A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A **deadly** trap is likely to kill characters of the indicated levels.
 
-### Trap Save DCs and Attack Bonuses
+#### Trap Save DCs and Attack Bonuses
 
 | Trap Danger   | Save DC   | Attack Bonus   |
 |---------------|-----------|----------------|
@@ -44,7 +44,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 | Dangerous     | 12–15     | +6 to +8       |
 | Deadly        | 16–20     | +9 to +12      |
 
-## Damage Severity by Level
+#### Damage Severity by Level
 
 | Character Level   | Setback   | Dangerous   | Deadly   |
 |-------------------|-----------|-------------|----------|
@@ -53,7 +53,7 @@ A trap intended to be a **setback** is unlikely to kill or seriously harm charac
 | 11th–16th         | 4d10      | 10d10       | 18d10    |
 | 17th–20th         | 10d10     | 18d10       | 24d10    |
 
-## Complex Traps
+### Complex Traps
 
 Complex traps work like standard traps, except once activated they execute a series of actions each round. A complex trap turns the process of dealing with a trap into something more like a combat encounter.
 

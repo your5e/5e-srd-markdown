@@ -1,4 +1,4 @@
-#### Spell Scroll
+# Spell Scroll
 
 _Scroll, varies_
 
@@ -8,7 +8,7 @@ If the spell is on your class's spell list but of a higher level than you can no
 
 The level of the spell on the scroll determines the spell's saving throw DC and attack bonus, as well as the scroll's rarity, as shown in the Spell Scroll table.
 
-#### Spell Scroll
+## Spell Scroll
 
 | Spell Level   | Rarity    |   Save DC |   Attack Bonus |
 |---------------|-----------|-----------|----------------|

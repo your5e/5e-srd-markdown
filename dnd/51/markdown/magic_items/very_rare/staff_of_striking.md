@@ -1,4 +1,4 @@
-## Staff of Striking
+# Staff of Striking
 
 _Staff, very rare (requires attunement)_
 

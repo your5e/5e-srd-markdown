@@ -1,4 +1,4 @@
-## Chill Touch
+# Chill Touch
 
 _Necromancy cantrip_
 

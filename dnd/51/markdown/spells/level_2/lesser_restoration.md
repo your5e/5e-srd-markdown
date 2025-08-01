@@ -1,4 +1,4 @@
-#### Lesser Restoration
+# Lesser Restoration
 
 _2nd-level abjuration_
 

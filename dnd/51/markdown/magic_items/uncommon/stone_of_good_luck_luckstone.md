@@ -1,4 +1,4 @@
-## Stone of Good Luck (Luckstone)
+# Stone of Good Luck (Luckstone)
 
 _Wondrous item, uncommon (requires attunement)_
 

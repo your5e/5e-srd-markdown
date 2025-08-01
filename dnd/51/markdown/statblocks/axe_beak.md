@@ -1,4 +1,4 @@
-## Axe Beak
+# Axe Beak
 
 _Large beast, unaligned_
 
@@ -14,7 +14,7 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 1/4 (50 XP)
 
-#### Actions
+## Actions
 
 - _**Beak.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) slashing damage.
 

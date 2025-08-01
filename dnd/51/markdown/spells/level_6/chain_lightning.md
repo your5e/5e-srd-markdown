@@ -1,4 +1,4 @@
-## Chain Lightning
+# Chain Lightning
 
 _6th-level evocation_
 

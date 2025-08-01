@@ -1,4 +1,4 @@
-#### Wand of Polymorph
+# Wand of Polymorph
 
 _Wand, very rare (requires attunement by a spellcaster)_
 

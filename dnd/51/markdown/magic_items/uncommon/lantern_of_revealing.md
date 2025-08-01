@@ -1,4 +1,4 @@
-#### Lantern of Revealing
+# Lantern of Revealing
 
 _Wondrous item, uncommon_
 

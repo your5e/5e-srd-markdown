@@ -1,4 +1,4 @@
-### Drider
+# Drider
 
 _Large monstrosity, chaotic evil_
 
@@ -15,7 +15,7 @@ _Large monstrosity, chaotic evil_
 - **Languages** Elvish, Undercommon
 - **Challenge** 6 (2,300 XP)
 
-#### Traits
+## Traits
 
 - _**Fey Ancestry.**_ The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.
 - _**Innate Spellcasting.**_ The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
@@ -27,7 +27,7 @@ _Large monstrosity, chaotic evil_
 - _**Sunlight Sensitivity.**_ While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 - _**Web Walker.**_ The drider ignores movement restrictions caused by webbing.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 2 (1d4) piercing damage plus 9 (2d8) poison damage.

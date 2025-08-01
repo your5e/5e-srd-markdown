@@ -1,4 +1,4 @@
-#### Purify Food and Drink
+# Purify Food and Drink
 
 _1st-level transmutation (ritual)_
 

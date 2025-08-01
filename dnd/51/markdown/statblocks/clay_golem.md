@@ -1,4 +1,4 @@
-#### Clay Golem
+# Clay Golem
 
 _Large construct, unaligned_
 
@@ -16,7 +16,7 @@ _Large construct, unaligned_
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 9 (5,000 XP)
 
-#### Traits
+## Traits
 
 - _**Acid Absorption.**_ Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.
 - _**Berserk.**_ Whenever the golem starts its turn with 60 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
@@ -24,7 +24,7 @@ _Large construct, unaligned_
 - _**Magic Resistance.**_ The golem has advantage on saving throws against spells and other magical effects.
 - _**Magic Weapons.**_ The golem's weapon attacks are magical.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The golem makes two slam attacks.
 - _**Slam.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the _Greater Restoration_ spell or other magic.

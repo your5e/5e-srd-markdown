@@ -1,4 +1,4 @@
-## Spare the Dying
+# Spare the Dying
 
 _Necromancy cantrip_
 

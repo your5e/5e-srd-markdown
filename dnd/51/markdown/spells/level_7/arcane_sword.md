@@ -1,4 +1,4 @@
-## Arcane Sword
+# Arcane Sword
 
 _7th-level evocation_
 

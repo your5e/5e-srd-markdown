@@ -1,4 +1,4 @@
-#### Fire Giant
+# Fire Giant
 
 _Huge giant, lawful evil_
 
@@ -17,7 +17,7 @@ _Huge giant, lawful evil_
 - **Languages** Giant
 - **Challenge** 9 (5,000 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The giant makes two greatsword attacks.
 - _**Greatsword.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 28 (6d6 + 7) slashing damage.

@@ -1,4 +1,4 @@
-#### Dust of Disappearance
+# Dust of Disappearance
 
 _Wondrous item, uncommon_
 

@@ -1,4 +1,4 @@
-#### Saber-Toothed Tiger
+# Saber-Toothed Tiger
 
 _Large beast, unaligned_
 
@@ -15,12 +15,12 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Smell.**_ The tiger has advantage on Wisdom (Perception) checks that rely on smell.
 - _**Pounce.**_ If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 10 (1d10 + 5) piercing damage.
 - _**Claw.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage.

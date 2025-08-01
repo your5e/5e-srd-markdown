@@ -1,4 +1,4 @@
-#### Crab
+# Crab
 
 _Tiny beast, unaligned_
 
@@ -15,10 +15,10 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The crab can breathe air and water.
 
-#### Actions
+## Actions
 
 - _**Claw.** Melee Weapon Attack:_ +0 to hit, reach 5 ft., one target. _Hit:_ 1 bludgeoning damage.

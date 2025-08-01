@@ -1,4 +1,4 @@
-## Control Weather
+# Control Weather
 
 _8th-level transmutation_
 
@@ -34,7 +34,7 @@ When you change the weather conditions, find a current condition on the followin
 |       5 | Cold            |
 |       6 | Arctic cold     |
 
-#### Wind
+## Wind
 
 |   Stage | Condition     |
 |---------|---------------|

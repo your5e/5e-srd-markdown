@@ -1,4 +1,4 @@
-#### Planar Ally
+# Planar Ally
 
 _6th-level conjuration_
 

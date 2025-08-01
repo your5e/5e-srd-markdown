@@ -1,4 +1,4 @@
-### Water Elemental
+# Water Elemental
 
 _Large elemental, neutral_
 
@@ -17,12 +17,12 @@ _Large elemental, neutral_
 - **Languages** Aquan
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Water Form.**_ The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 - _**Freeze.**_ If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The elemental makes two slam attacks.
 - _**Slam.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.

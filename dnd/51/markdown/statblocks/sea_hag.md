@@ -1,4 +1,4 @@
-## Sea Hag
+# Sea Hag
 
 _Medium fey, chaotic evil_
 
@@ -14,14 +14,14 @@ _Medium fey, chaotic evil_
 - **Languages** Aquan, Common, Giant
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The hag can breathe air and water.
 - _**Horrific Appearance.**_ Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
 
     Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
 
-#### Actions
+## Actions
 
 - _**Claws.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage.
 - _**Death Glare.**_ The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points.

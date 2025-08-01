@@ -1,4 +1,4 @@
-#### Worg
+# Worg
 
 _Large monstrosity, neutral evil_
 
@@ -15,11 +15,11 @@ _Large monstrosity, neutral evil_
 - **Languages** Goblin, Worg
 - **Challenge** 1/2 (100 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Hearing and Smell.**_ The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 

@@ -1,4 +1,4 @@
-#### Wall of Thorns
+# Wall of Thorns
 
 _6th-level conjuration_
 

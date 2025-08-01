@@ -1,4 +1,4 @@
-#### Find Traps
+# Find Traps
 
 _2nd-level divination_
 

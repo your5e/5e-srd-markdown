@@ -1,4 +1,4 @@
-#### Adult Brass Dragon
+# Adult Brass Dragon
 
 _Huge dragon, chaotic good_
 
@@ -17,11 +17,11 @@ _Huge dragon, chaotic good_
 - **Languages** Common, Draconic
 - **Challenge** 13 (10,000 XP)
 
-#### Traits
+## Traits
 
 - _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage.
@@ -32,7 +32,7 @@ _Huge dragon, chaotic good_
     - **Fire Breath.** The dragon exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one.
     - **Sleep Breath.** The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 
-#### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 

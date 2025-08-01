@@ -1,4 +1,4 @@
-## Prismatic Spray
+# Prismatic Spray
 
 _7th-level evocation_
 

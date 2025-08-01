@@ -1,4 +1,4 @@
-#### Roc
+# Roc
 
 _Gargantuan monstrosity, unaligned_
 
@@ -16,11 +16,11 @@ _Gargantuan monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 11 (7,200 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Sight.**_ The roc has advantage on Wisdom (Perception) checks that rely on sight.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The roc makes two attacks: one with its beak and one with its talons.
 - _**Beak.** Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 27 (4d8 + 9) piercing damage.

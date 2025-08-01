@@ -1,4 +1,4 @@
-## Manual of Gainful Exercise
+# Manual of Gainful Exercise
 
 _Wondrous item, very rare_
 

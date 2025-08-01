@@ -1,4 +1,4 @@
-#### Staff of Swarming Insects
+# Staff of Swarming Insects
 
 _Staff, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)_
 

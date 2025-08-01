@@ -1,4 +1,4 @@
-#### Behir
+# Behir
 
 _Huge monstrosity, neutral evil_
 
@@ -16,7 +16,7 @@ _Huge monstrosity, neutral evil_
 - **Languages** Draconic
 - **Challenge** 11 (7,200 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The behir makes two attacks: one with its bite and one to constrict.
 - _**Bite.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 22 (3d10 + 6) piercing damage.

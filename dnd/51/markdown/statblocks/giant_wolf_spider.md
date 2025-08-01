@@ -1,4 +1,4 @@
-#### Giant Wolf Spider
+# Giant Wolf Spider
 
 _Medium beast, unaligned_
 
@@ -15,13 +15,13 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 1/4 (50 XP)
 
-#### Traits
+## Traits
 
 - _**Spider Climb.**_ The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 - _**Web Sense.**_ While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
 - _**Web Walker.**_ The spider ignores movement restrictions caused by webbing.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 

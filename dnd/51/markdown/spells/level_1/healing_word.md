@@ -1,4 +1,4 @@
-#### Healing Word
+# Healing Word
 
 _1st-level evocation_
 

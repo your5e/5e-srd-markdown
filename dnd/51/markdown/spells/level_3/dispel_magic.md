@@ -1,4 +1,4 @@
-## Dispel Magic
+# Dispel Magic
 
 _3rd-level abjuration_
 

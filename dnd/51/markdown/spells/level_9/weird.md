@@ -1,4 +1,4 @@
-#### Weird
+# Weird
 
 _9th-level illusion_
 

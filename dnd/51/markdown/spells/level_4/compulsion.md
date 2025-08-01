@@ -1,4 +1,4 @@
-#### Compulsion
+# Compulsion
 
 _4th-level enchantment_
 

@@ -1,4 +1,4 @@
-## Pipes of the Sewers
+# Pipes of the Sewers
 
 _Wondrous item, uncommon (requires attunement)_
 

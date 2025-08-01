@@ -1,4 +1,4 @@
-#### Robe of Useful Items
+# Robe of Useful Items
 
 _Wondrous item, uncommon_
 

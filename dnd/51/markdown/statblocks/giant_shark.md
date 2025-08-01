@@ -1,4 +1,4 @@
-#### Giant Shark
+# Giant Shark
 
 _Huge beast, unaligned_
 
@@ -15,12 +15,12 @@ _Huge beast, unaligned_
 - **Languages** —
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Blood Frenzy.**_ The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 - _**Water Breathing.**_ The shark can breathe only underwater.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 22 (3d10 + 6) piercing damage.
 

@@ -1,4 +1,4 @@
-## True Seeing
+# True Seeing
 
 _6th-level divination_
 

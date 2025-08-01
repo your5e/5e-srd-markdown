@@ -11,7 +11,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 - _**Vehicle Proficiency.**_ If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.
 - _**Rowed Vessels.**_ Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A rowboat weighs 100 pounds, in case adventurers carry it over land.
 
-### Mounts and Other Animals
+## Mounts and Other Animals
 
 | Item           | Cost   | Speed   | Carrying Capacity   |
 |----------------|--------|---------|---------------------|
@@ -44,7 +44,7 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Stabling (per day) | 5 sp   | —        |
 | Wagon              | 35 gp  | 400 lb.  |
 
-### Waterborne Vehicles
+## Waterborne Vehicles
 
 | Item         | Cost      | Speed   |
 |--------------|-----------|---------|

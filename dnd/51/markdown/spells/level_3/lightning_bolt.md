@@ -1,4 +1,4 @@
-#### Lightning Bolt
+# Lightning Bolt
 
 _3rd-level evocation_
 

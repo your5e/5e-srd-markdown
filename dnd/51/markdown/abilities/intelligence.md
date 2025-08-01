@@ -1,4 +1,4 @@
-# Intelligence
+## Intelligence
 
 Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
 
@@ -20,6 +20,6 @@ An Intelligence check comes into play when you need to draw on logic, education,
 - Recall lore about a craft or trade
 - Win a game of skill
 
-## Spellcasting Ability
+### Spellcasting Ability
 
 Wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast.

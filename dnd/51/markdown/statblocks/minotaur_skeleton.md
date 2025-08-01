@@ -1,4 +1,4 @@
-#### Minotaur Skeleton
+# Minotaur Skeleton
 
 _Large undead, lawful evil_
 
@@ -17,11 +17,11 @@ _Large undead, lawful evil_
 - **Languages** understands Abyssal but can't speak
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Charge.**_ If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 
-#### Actions
+## Actions
 
 - _**Greataxe.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 17 (2d12 + 4) slashing damage.
 - _**Gore.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage.

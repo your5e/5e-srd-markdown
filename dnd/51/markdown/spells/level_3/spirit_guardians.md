@@ -1,4 +1,4 @@
-#### Spirit Guardians
+# Spirit Guardians
 
 _3rd-level conjuration_
 

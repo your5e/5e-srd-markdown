@@ -1,4 +1,4 @@
-#### Pony
+# Pony
 
 _Medium beast, unaligned_
 
@@ -14,6 +14,6 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 1/8 (25 XP)
 
-#### Actions
+## Actions
 
 - _**Hooves.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) bludgeoning damage.

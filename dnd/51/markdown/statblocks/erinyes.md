@@ -1,4 +1,4 @@
-#### Erinyes
+# Erinyes
 
 _Medium fiend (devil), lawful evil_
 
@@ -18,17 +18,17 @@ _Medium fiend (devil), lawful evil_
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 12 (8,400 XP)
 
-#### Traits
+## Traits
 
 - _**Hellish Weapons.**_ The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).
 - _**Magic Resistance.**_ The erinyes has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The erinyes makes three attacks.
 - _**Longsword.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage.
 - _**Longbow.** Ranged Weapon Attack:_ +7 to hit, range 150/600 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the _Lesser Restoration_ spell or similar magic.
 
-#### Reactions
+## Reactions
 
 - _**Parry.**_ The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.

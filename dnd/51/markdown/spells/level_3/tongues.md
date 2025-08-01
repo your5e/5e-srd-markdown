@@ -1,4 +1,4 @@
-### Tongues
+# Tongues
 
 _3rd-level divination_
 

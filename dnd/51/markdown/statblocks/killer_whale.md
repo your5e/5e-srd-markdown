@@ -1,4 +1,4 @@
-#### Killer Whale
+# Killer Whale
 
 _Huge beast, unaligned_
 
@@ -15,12 +15,12 @@ _Huge beast, unaligned_
 - **Languages** —
 - **Challenge** 3 (700 XP)
 
-#### Traits
+## Traits
 
 - _**Echolocation.**_ The whale can't use its blindsight while deafened.
 - _**Hold Breath.**_ The whale can hold its breath for 30 minutes.
 - _**Keen Hearing.**_ The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 21 (5d6 + 4) piercing damage.

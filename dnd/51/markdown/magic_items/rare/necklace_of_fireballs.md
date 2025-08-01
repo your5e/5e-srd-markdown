@@ -1,4 +1,4 @@
-## Necklace of Fireballs
+# Necklace of Fireballs
 
 _Wondrous item, rare_
 

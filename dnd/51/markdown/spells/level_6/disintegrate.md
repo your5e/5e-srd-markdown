@@ -1,4 +1,4 @@
-#### Disintegrate
+# Disintegrate
 
 _6th-level transmutation_
 

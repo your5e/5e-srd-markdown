@@ -1,4 +1,4 @@
-## Gauntlets of Ogre Power
+# Gauntlets of Ogre Power
 
 _Wondrous item, uncommon (requires attunement)_
 

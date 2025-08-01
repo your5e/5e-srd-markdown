@@ -1,4 +1,4 @@
-## Bag of Holding
+# Bag of Holding
 
 _Wondrous item, uncommon_
 

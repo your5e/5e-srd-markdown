@@ -1,4 +1,4 @@
-#### Broom of Flying
+# Broom of Flying
 
 _Wondrous item, uncommon_
 

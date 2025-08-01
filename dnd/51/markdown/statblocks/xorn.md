@@ -1,4 +1,4 @@
-#### Xorn
+# Xorn
 
 _Medium elemental, neutral_
 
@@ -16,13 +16,13 @@ _Medium elemental, neutral_
 - **Languages** Terran
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Earth Glide.**_ The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.
 - _**Stone Camouflage.**_ The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 - _**Treasure Sense.**_ The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The xorn makes three claw attacks and one bite attack.
 - _**Claw.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.

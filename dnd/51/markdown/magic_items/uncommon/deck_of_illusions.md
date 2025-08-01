@@ -1,4 +1,4 @@
-#### Deck of Illusions
+# Deck of Illusions
 
 _Wondrous item, uncommon_
 

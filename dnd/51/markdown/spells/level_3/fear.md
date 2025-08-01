@@ -1,4 +1,4 @@
-#### Fear
+# Fear
 
 _3rd-level illusion_
 

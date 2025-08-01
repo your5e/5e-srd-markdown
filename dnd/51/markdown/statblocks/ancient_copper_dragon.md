@@ -1,4 +1,4 @@
-#### Ancient Copper Dragon
+# Ancient Copper Dragon
 
 _Gargantuan dragon, chaotic good_
 
@@ -17,11 +17,11 @@ _Gargantuan dragon, chaotic good_
 - **Languages** Common, Draconic
 - **Challenge** 21 (33,000 XP)
 
-#### Traits
+## Traits
 
 - _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +15 to hit, reach 15 ft., one target. _Hit:_ 19 (2d10 + 8) piercing damage.
@@ -35,7 +35,7 @@ _Gargantuan dragon, chaotic good_
 
     In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-#### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 

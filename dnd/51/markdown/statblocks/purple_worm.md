@@ -1,4 +1,4 @@
-#### Purple Worm
+# Purple Worm
 
 _Gargantuan monstrosity, unaligned_
 
@@ -15,11 +15,11 @@ _Gargantuan monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 15 (13,000 XP)
 
-#### Traits
+## Traits
 
 - _**Tunneler.**_ The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The worm makes two attacks: one with its bite and one with its stinger.
 - _**Bite.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm's turns.

@@ -1,4 +1,4 @@
-#### Shield of Missile Attraction
+# Shield of Missile Attraction
 
 _Armor (shield), rare (requires attunement)_
 

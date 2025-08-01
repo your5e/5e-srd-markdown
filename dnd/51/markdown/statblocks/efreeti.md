@@ -1,4 +1,4 @@
-#### Efreeti
+# Efreeti
 
 _Large elemental, lawful evil_
 
@@ -16,7 +16,7 @@ _Large elemental, lawful evil_
 - **Languages** Ignan
 - **Challenge** 11 (7,200 XP)
 
-#### Traits
+## Traits
 
 - _**Elemental Demise.**_ If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
 - _**Innate Spellcasting.**_ The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
@@ -25,7 +25,7 @@ _Large elemental, lawful evil_
     - 3/day: _enlarge/reduce_, _Tongues_
     - 1/day each: _Conjure Elemental_ (fire elemental only), _gaseous form, invisibility_, _Major Image_, _Plane Shift_, _Wall of Fire_
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 - _**Scimitar.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.

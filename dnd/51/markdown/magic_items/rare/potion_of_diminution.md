@@ -1,4 +1,4 @@
-#### Potion of Diminution
+# Potion of Diminution
 
 _Potion, rare_
 

@@ -1,4 +1,4 @@
-#### Haste
+# Haste
 
 _3rd-level transmutation_
 

@@ -1,4 +1,4 @@
-#### Defender
+# Defender
 
 _Weapon (any sword), legendary (requires attunement)_
 

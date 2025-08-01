@@ -1,4 +1,4 @@
-## Mass Heal
+# Mass Heal
 
 _9th-level evocation_
 

@@ -1,4 +1,4 @@
-## Sphere of Annihilation
+### Sphere of Annihilation
 
 _Magic trap_
 

@@ -1,4 +1,4 @@
-#### Quipper
+# Quipper
 
 _Tiny beast, unaligned_
 
@@ -14,12 +14,12 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**Blood Frenzy.**_ The quipper has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 - _**Water Breathing.**_ The quipper can breathe only underwater.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.
 

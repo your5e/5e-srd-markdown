@@ -1,4 +1,4 @@
-#### Reverse Gravity
+# Reverse Gravity
 
 _7th-level transmutation_
 

@@ -1,4 +1,4 @@
-#### Word of Recall
+# Word of Recall
 
 _6th-level conjuration_
 

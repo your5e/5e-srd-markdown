@@ -1,4 +1,4 @@
-## Commune with Nature
+# Commune with Nature
 
 _5th-level divination (ritual)_
 

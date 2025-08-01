@@ -1,4 +1,4 @@
-#### Trident of Fish Command
+# Trident of Fish Command
 
 _Weapon (trident), uncommon (requires attunement)_
 

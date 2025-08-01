@@ -1,4 +1,4 @@
-## Earthquake
+# Earthquake
 
 _8th-level evocation_
 

@@ -1,4 +1,4 @@
-#### Dimension Door
+# Dimension Door
 
 _4th-level conjuration_
 

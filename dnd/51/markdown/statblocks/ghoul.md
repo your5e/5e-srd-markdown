@@ -1,4 +1,4 @@
-#### Ghoul
+# Ghoul
 
 _Medium undead, chaotic evil_
 
@@ -16,7 +16,7 @@ _Medium undead, chaotic evil_
 - **Languages** Common
 - **Challenge** 1 (200 XP)
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +2 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d6 + 2) piercing damage.
 - _**Claws.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

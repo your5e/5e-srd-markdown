@@ -1,4 +1,4 @@
-### Hydra
+# Hydra
 
 _Huge monstrosity, unaligned_
 
@@ -15,7 +15,7 @@ _Huge monstrosity, unaligned_
 - **Languages** —
 - **Challenge** 8 (3,900 XP)
 
-#### Traits
+## Traits
 
 - _**Hold Breath.**_ The hydra can hold its breath for 1 hour.
 - _**Multiple Heads.**_ The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
@@ -27,7 +27,7 @@ _Huge monstrosity, unaligned_
 - _**Reactive Heads.**_ For each head the hydra has beyond one, it gets an extra reaction that can be used only for opportunity attacks.
 - _**Wakeful.**_ While the hydra sleeps, at least one of its heads is awake.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The hydra makes as many bite attacks as it has heads.
 - _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 10 (1d10 + 5) piercing damage.

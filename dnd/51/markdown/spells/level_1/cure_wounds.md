@@ -1,4 +1,4 @@
-## Cure Wounds
+# Cure Wounds
 
 _1st-level evocation_
 

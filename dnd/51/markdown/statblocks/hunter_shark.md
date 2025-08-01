@@ -1,4 +1,4 @@
-#### Hunter Shark
+# Hunter Shark
 
 _Large beast, unaligned_
 
@@ -15,12 +15,12 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**Blood Frenzy.**_ The shark has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 - _**Water Breathing.**_ The shark can breathe only underwater.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage.
 

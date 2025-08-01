@@ -1,4 +1,4 @@
-#### Goblin
+# Goblin
 
 _Small humanoid (goblinoid), neutral evil_
 
@@ -15,11 +15,11 @@ _Small humanoid (goblinoid), neutral evil_
 - **Languages** Common, Goblin
 - **Challenge** 1/4 (50 XP)
 
-#### Traits
+## Traits
 
 - _**Nimble Escape.**_ The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 
-#### Actions
+## Actions
 
 - _**Scimitar.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) slashing damage.
 - _**Shortbow.** Ranged Weapon Attack:_ +4 to hit, range 80/320 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.

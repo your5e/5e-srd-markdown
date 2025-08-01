@@ -1,4 +1,4 @@
-#### Flesh to Stone
+# Flesh to Stone
 
 _6th-level transmutation_
 

@@ -1,4 +1,4 @@
-#### Commune
+# Commune
 
 _5th-level divination (ritual)_
 

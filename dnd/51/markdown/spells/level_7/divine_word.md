@@ -1,4 +1,4 @@
-#### Divine Word
+# Divine Word
 
 _7th-level evocation_
 

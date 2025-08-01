@@ -1,4 +1,4 @@
-#### Potion of Resistance
+# Potion of Resistance
 
 _Potion, uncommon_
 

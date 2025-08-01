@@ -1,4 +1,4 @@
-#### Raven
+# Raven
 
 _Tiny beast, unaligned_
 
@@ -15,10 +15,10 @@ _Tiny beast, unaligned_
 - **Languages** —
 - **Challenge** 0 (10 XP)
 
-#### Traits
+## Traits
 
 - _**Mimicry.**_ The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 
-#### Actions
+## Actions
 
 - _**Beak.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage.

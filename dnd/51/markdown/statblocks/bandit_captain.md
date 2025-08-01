@@ -1,4 +1,4 @@
-#### Bandit Captain
+# Bandit Captain
 
 _Medium humanoid (any race), any non-lawful alignment_
 
@@ -16,13 +16,13 @@ _Medium humanoid (any race), any non-lawful alignment_
 - **Languages** any two languages
 - **Challenge** 2 (450 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
 - _**Scimitar.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 6 (1d6 + 3) slashing damage.
 - _**Dagger.** Melee or Ranged Weapon Attack:_ +5 to hit, reach 5 ft. or range 20/60 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage.
 
-#### Reactions
+## Reactions
 
 - _**Parry.**_ The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 

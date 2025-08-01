@@ -1,4 +1,4 @@
-#### Flesh Golem
+# Flesh Golem
 
 _Medium construct, neutral_
 
@@ -16,7 +16,7 @@ _Medium construct, neutral_
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 5 (1,800 XP)
 
-#### Traits
+## Traits
 
 - _**Berserk.**_ Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
 
@@ -28,7 +28,7 @@ _Medium construct, neutral_
 - _**Magic Resistance.**_ The golem has advantage on saving throws against spells and other magical effects.
 - _**Magic Weapons.**_ The golem's weapon attacks are magical.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The golem makes two slam attacks.
 - _**Slam.** Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.

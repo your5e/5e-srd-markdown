@@ -1,4 +1,4 @@
-#### Doppelganger
+# Doppelganger
 
 _Medium monstrosity (shapechanger), neutral_
 
@@ -16,13 +16,13 @@ _Medium monstrosity (shapechanger), neutral_
 - **Languages** Common
 - **Challenge** 3 (700 XP)
 
-#### Traits
+## Traits
 
 - _**Shapechanger.**_ The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 - _**Ambusher.**_ In the first round of a combat, the doppelganger has advantage on attack rolls against any creature it has surprised.
 - _**Surprise Attack.**_ If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (3d6) damage from the attack.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The doppelganger makes two melee attacks.
 - _**Slam.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 7 (1d6 + 4) bludgeoning damage.

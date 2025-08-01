@@ -1,4 +1,4 @@
-### Frost Giant
+# Frost Giant
 
 _Huge giant, neutral evil_
 
@@ -17,7 +17,7 @@ _Huge giant, neutral evil_
 - **Languages** Giant
 - **Challenge** 8 (3,900 XP)
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The giant makes two greataxe attacks.
 - _**Greataxe.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 25 (3d12 + 6) slashing damage.

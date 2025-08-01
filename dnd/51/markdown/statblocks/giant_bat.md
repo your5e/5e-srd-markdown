@@ -1,4 +1,4 @@
-#### Giant Bat
+# Giant Bat
 
 _Large beast, unaligned_
 
@@ -14,11 +14,11 @@ _Large beast, unaligned_
 - **Languages** —
 - **Challenge** 1/4 (50 XP)
 
-#### Traits
+## Traits
 
 - _**Echolocation.**_ The bat can't use its blindsight while deafened.
 - _**Keen Hearing.**_ The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 5 (1d6 + 2) piercing damage.

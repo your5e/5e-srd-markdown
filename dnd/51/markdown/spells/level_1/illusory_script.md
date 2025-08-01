@@ -1,4 +1,4 @@
-#### Illusory Script
+# Illusory Script
 
 _1st-level illusion (ritual)_
 

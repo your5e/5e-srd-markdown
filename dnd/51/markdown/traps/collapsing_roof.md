@@ -1,4 +1,4 @@
-#### Collapsing Roof
+### Collapsing Roof
 
 _Mechanical trap_
 

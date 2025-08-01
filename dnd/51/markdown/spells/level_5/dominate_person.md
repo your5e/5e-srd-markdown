@@ -1,4 +1,4 @@
-#### Dominate Person
+# Dominate Person
 
 _5th-level enchantment_
 

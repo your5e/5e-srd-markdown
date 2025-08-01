@@ -1,4 +1,4 @@
-#### Fabricate
+# Fabricate
 
 _4th-level transmutation_
 

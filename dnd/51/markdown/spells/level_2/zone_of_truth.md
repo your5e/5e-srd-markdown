@@ -1,4 +1,4 @@
-#### Zone of Truth
+# Zone of Truth
 
 _2nd-level enchantment_
 

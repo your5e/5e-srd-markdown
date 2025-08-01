@@ -1,4 +1,4 @@
-## Hell Hound
+# Hell Hound
 
 _Medium fiend, lawful evil_
 
@@ -16,12 +16,12 @@ _Medium fiend, lawful evil_
 - **Languages** understands Infernal but can't speak it
 - **Challenge** 3 (700 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Hearing and Smell.**_ The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 - _**Pack Tactics.**_ The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.
 - _**Fire Breath (Recharge 5–6).**_ The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.

@@ -1,4 +1,4 @@
-#### Manual of Bodily Health
+# Manual of Bodily Health
 
 _Wondrous item, very rare_
 

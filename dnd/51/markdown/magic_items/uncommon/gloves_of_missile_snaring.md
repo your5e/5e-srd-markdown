@@ -1,4 +1,4 @@
-#### Gloves of Missile Snaring
+# Gloves of Missile Snaring
 
 _Wondrous item, uncommon (requires attunement)_
 

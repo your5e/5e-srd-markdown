@@ -1,4 +1,4 @@
-## Potion of Invisibility
+# Potion of Invisibility
 
 _Potion, very rare_
 

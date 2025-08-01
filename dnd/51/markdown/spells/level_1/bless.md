@@ -1,4 +1,4 @@
-## Bless
+# Bless
 
 _1st-level enchantment_
 

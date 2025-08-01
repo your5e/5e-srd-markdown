@@ -1,4 +1,4 @@
-## Scimitar of Speed
+# Scimitar of Speed
 
 _Weapon (scimitar), very rare (requires attunement)_
 

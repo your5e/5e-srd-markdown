@@ -1,4 +1,4 @@
-#### Ioun Stone
+# Ioun Stone
 
 _Wondrous item, rarity varies (requires attunement)_
 

@@ -1,4 +1,4 @@
-## Fire Bolt
+# Fire Bolt
 
 _Evocation cantrip_
 

@@ -1,4 +1,4 @@
-#### Stone Shape
+# Stone Shape
 
 _4th-level transmutation_
 

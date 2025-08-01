@@ -1,4 +1,4 @@
-#### Plate Armor of Etherealness
+# Plate Armor of Etherealness
 
 _Armor (plate), legendary (requires attunement)_
 

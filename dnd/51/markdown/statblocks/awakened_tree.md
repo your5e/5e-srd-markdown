@@ -16,11 +16,11 @@ _Huge plant, unaligned_
 - **Languages** one language known by its creator
 - **Challenge** 2 (450 XP)
 
-#### Traits
+## Traits
 
 - _**False Appearance.**_ While the tree remains motionless, it is indistinguishable from a normal tree.
 
-#### Actions
+## Actions
 
 - _**Slam.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage.
 

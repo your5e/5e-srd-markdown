@@ -1,4 +1,4 @@
-## Hold Monster
+# Hold Monster
 
 _5th-level enchantment_
 

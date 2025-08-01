@@ -1,4 +1,4 @@
-## Apparatus of the Crab
+# Apparatus of the Crab
 
 _Wondrous item, legendary_
 
@@ -17,7 +17,7 @@ The apparatus floats on water. It can also go underwater to a depth of 900 feet.
 
 A creature in the compartment can use an action to move as many as two of the apparatus's levers up or down. After each use, a lever goes back to its neutral position. Each lever, from left to right, functions as shown in the Apparatus of the Crab Levers table.
 
-#### Apparatus of the Crab Levers
+## Apparatus of the Crab Levers
 
 |   Lever | Up                                                                                                                               | Down                                                                                                                                        |
 |---------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|

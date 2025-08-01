@@ -1,4 +1,4 @@
-#### Hobgoblin
+# Hobgoblin
 
 _Medium humanoid (goblinoid), lawful evil_
 
@@ -14,11 +14,11 @@ _Medium humanoid (goblinoid), lawful evil_
 - **Languages** Common, Goblin
 - **Challenge** 1/2 (100 XP)
 
-#### Traits
+## Traits
 
 - _**Martial Advantage.**_ Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
-#### Actions
+## Actions
 
 - _**Longsword.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.
 - _**Longbow.** Ranged Weapon Attack:_ +3 to hit, range 150/600 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.

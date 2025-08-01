@@ -1,4 +1,4 @@
-## Project Image
+# Project Image
 
 _7th-level illusion_
 

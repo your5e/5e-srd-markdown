@@ -22,7 +22,7 @@ A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 | Gold (gp)     | 100   | 10   | 2    | 1     | 1/10    |
 | Platinum (pp) | 1,000 | 100  | 20   | 10    | 1       |
 
-# Selling Treasure
+## Selling Treasure
 
 Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
 

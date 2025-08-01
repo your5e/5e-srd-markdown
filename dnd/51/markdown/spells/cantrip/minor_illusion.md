@@ -1,4 +1,4 @@
-#### Minor Illusion
+# Minor Illusion
 
 _Illusion cantrip_
 

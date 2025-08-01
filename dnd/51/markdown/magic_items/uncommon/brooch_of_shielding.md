@@ -1,4 +1,4 @@
-#### Brooch of Shielding
+# Brooch of Shielding
 
 _Wondrous item, uncommon (requires attunement)_
 

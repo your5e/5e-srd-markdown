@@ -1,4 +1,4 @@
-#### Animal Messenger
+# Animal Messenger
 
 _2nd-level enchantment (ritual)_
 

@@ -1,4 +1,4 @@
-#### Wind Fan
+# Wind Fan
 
 _Wondrous item, uncommon_
 

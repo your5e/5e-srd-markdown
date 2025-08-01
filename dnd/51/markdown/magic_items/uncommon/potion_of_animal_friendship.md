@@ -1,4 +1,4 @@
-## Potion of Animal Friendship
+# Potion of Animal Friendship
 
 _Potion, uncommon_
 

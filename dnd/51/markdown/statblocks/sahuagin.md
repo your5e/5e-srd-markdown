@@ -1,4 +1,4 @@
-#### Sahuagin
+# Sahuagin
 
 _Medium humanoid (sahuagin), lawful evil_
 
@@ -15,13 +15,13 @@ _Medium humanoid (sahuagin), lawful evil_
 - **Languages** Sahuagin
 - **Challenge** 1/2 (100 XP)
 
-#### Traits
+## Traits
 
 - _**Blood Frenzy.**_ The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 - _**Limited Amphibiousness.**_ The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating.
 - _**Shark Telepathy.**_ The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
 - _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 3 (1d4 + 1) piercing damage.

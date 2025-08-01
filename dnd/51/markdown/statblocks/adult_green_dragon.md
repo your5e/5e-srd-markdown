@@ -1,4 +1,4 @@
-#### Adult Green Dragon
+# Adult Green Dragon
 
 _Huge dragon, lawful evil_
 
@@ -18,12 +18,12 @@ _Huge dragon, lawful evil_
 - **Languages** Common, Draconic
 - **Challenge** 15 (13,000 XP)
 
-#### Traits
+## Traits
 
 - _**Amphibious.**_ The dragon can breathe air and water.
 - _**Legendary Resistance (3/Day).**_ If the dragon fails a saving throw, it can choose to succeed instead.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 - _**Bite.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage plus 7 (2d6) poison damage.
@@ -32,7 +32,7 @@ _Huge dragon, lawful evil_
 - _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Poison Breath (Recharge 5–6).**_ The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
 
-#### Legendary Actions
+## Legendary Actions
 
 The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 

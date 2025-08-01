@@ -1,4 +1,4 @@
-#### Red Dragon Wyrmling
+# Red Dragon Wyrmling
 
 _Medium dragon, chaotic evil_
 
@@ -17,7 +17,7 @@ _Medium dragon, chaotic evil_
 - **Languages** Draconic
 - **Challenge** 4 (1,100 XP)
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage.
 - _**Fire Breath (Recharge 5–6).**_ The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.

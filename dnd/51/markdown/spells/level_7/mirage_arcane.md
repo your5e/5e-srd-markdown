@@ -1,4 +1,4 @@
-#### Mirage Arcane
+# Mirage Arcane
 
 _7th-level illusion_
 

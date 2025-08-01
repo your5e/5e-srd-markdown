@@ -1,4 +1,4 @@
-#### Flying Sword
+# Flying Sword
 
 _Small construct, unaligned_
 
@@ -17,11 +17,11 @@ _Small construct, unaligned_
 - **Languages** —
 - **Challenge** 1/4 (50 XP)
 
-#### Traits
+## Traits
 
 - _**Antimagic Susceptibility.**_ The sword is incapacitated while in the area of an _Antimagic Field_. If targeted by _Dispel Magic_, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 - _**False Appearance.**_ While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
 
-#### Actions
+## Actions
 
 - _**Longsword.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 5 (1d8 + 1) slashing damage.

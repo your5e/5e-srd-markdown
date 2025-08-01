@@ -1,4 +1,4 @@
-## Glabrezu
+# Glabrezu
 
 _Large fiend (demon), chaotic evil_
 
@@ -18,7 +18,7 @@ _Large fiend (demon), chaotic evil_
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 9 (5,000 XP)
 
-#### Traits
+## Traits
 
 - _**Innate Spellcasting.**_ The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 
@@ -27,7 +27,7 @@ _Large fiend (demon), chaotic evil_
 
 _**Magic Resistance.**_ The glabrezu has advantage on saving throws against spells and other magical effects.
 
-#### Actions
+## Actions
 
 - _**Multiattack.**_ The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 - _**Pincer.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.

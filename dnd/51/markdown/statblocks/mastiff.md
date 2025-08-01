@@ -1,4 +1,4 @@
-## Mastiff
+# Mastiff
 
 _Medium beast, unaligned_
 
@@ -15,11 +15,11 @@ _Medium beast, unaligned_
 - **Languages** —
 - **Challenge** 1/8 (25 XP)
 
-#### Traits
+## Traits
 
 - _**Keen Hearing and Smell.**_ The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-#### Actions
+## Actions
 
 - _**Bite.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 

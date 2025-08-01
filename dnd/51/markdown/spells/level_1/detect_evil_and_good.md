@@ -1,4 +1,4 @@
-#### Detect Evil and Good
+# Detect Evil and Good
 
 _1st-level divination_
 

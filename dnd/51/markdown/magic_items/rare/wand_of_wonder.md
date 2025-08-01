@@ -1,4 +1,4 @@
-#### Wand of Wonder
+# Wand of Wonder
 
 _Wand, rare (requires attunement by a spellcaster)_
 
