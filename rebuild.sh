@@ -57,16 +57,16 @@ function process_includes {
             local include="${BASH_REMATCH[3]}"
             local full_path="$(dirname "$file")/$include"
 
-            adjustment="${include_adjustment:-$adjustment}"
+            include_adjustment="${include_adjustment:-$adjustment}"
 
             [ ! -f "$full_path" ] && \
                 abort "'$file' includes '$include': not found"
 
-            if [ $adjustment -ne 0 ]; then
-                adjust_header_depth "$full_path" "$adjustment" \
-                    | process_includes /dev/stdin "$adjustment"
+            if [ $include_adjustment -ne 0 ]; then
+                adjust_header_depth "$full_path" "$include_adjustment" \
+                    | process_includes /dev/stdin "$include_adjustment"
             else
-                process_includes "$full_path" "$adjustment"
+                process_includes "$full_path" "$include_adjustment"
             fi
 
             [ -n "$suppress_newline" ] \
