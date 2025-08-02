@@ -58,17 +58,17 @@ and then refined by hand (as either `marker` detects far too many lines as
 headers, or the PDF was styled poorly). While refining the breakdown, this is
 run repeatedly to spot mistakes:
 
-```
+```bash
 cp dnd/51/SRD_CC_v5.1.md dnd/51/breakdown.md \
-  && ./breakdown.sh dnd/51/breakdown.md \
-  && ./compare.sh dnd/51/breakdown.md dnd/51/SRD_CC_v5.1.md
+    && ./breakdown.sh dnd/51/breakdown.md \
+    && diff -u dnd/51/SRD_CC_v5.1.md <(./rebuild.sh dnd/51/breakdown.md)
 ```
 
 ### Clean the Markdown
 
 Run the cleaning script:
 
-```
+```bash
 python clean_srd.py dnd/51/SRD_CC_v5.1.md
 ```
 
@@ -81,7 +81,7 @@ When changing the source by hand and lines are added/removed, use
 `alter_breakdown.sh` to add/subtract line boundaries from a matching
 section onwards:
 
-```
+```bash
 ./alter_breakdown.sh dnd/51/breakdown.txt /black_tentacles -2
 ```
 
@@ -102,4 +102,10 @@ to open the file at the right line (in Sublime Text).
 ```bash
 ./fix_statblock_headers.sh dnd/51/markdown/statblocks \
     | ./edit_warnings.sh
+```
+
+To check, use
+
+```bash
+diff -u dnd/51/SRD_CC_v5.1.md <(./rebuild.sh dnd/51/breakdown.md)
 ```

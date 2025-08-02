@@ -1,4 +1,4 @@
-## Section One
+# Section One
 
 This is the content of section one.
 It has multiple lines.
