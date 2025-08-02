@@ -84,3 +84,22 @@ section onwards:
 ```
 ./alter_breakdown.sh dnd/51/breakdown.txt /black_tentacles -2
 ```
+
+### Fix header progression
+
+The broken down fragments of the SRD should start with a first level header.
+Some fragments can be fixed automatically (most statblocks, anything with
+a clear header progression), but some will have to be edited by hand.
+
+```bash
+./fix_statblock_headers.sh dnd/51/markdown/statblocks \
+./fix_headers.sh dnd/51/markdown
+```
+
+The warnings from the `fix*` scripts can be piped to `edit_warnings.sh`
+to open the file at the right line (in Sublime Text).
+
+```bash
+./fix_statblock_headers.sh dnd/51/markdown/statblocks \
+    | ./edit_warnings.sh
+```
