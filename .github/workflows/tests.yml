@@ -17,5 +17,5 @@ jobs:
         sudo apt-get install -y bats
         pip install tabulate
 
-    - name: Run full tests
-      run: bats tests/full/test.bats
+    - name: Run tests
+      run: make test
