@@ -24,4 +24,4 @@ _Gargantuan monstrosity, unaligned_
 
 - _**Multiattack.**_ The roc makes two attacks: one with its beak and one with its talons.
 - _**Beak.** Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 27 (4d8 + 9) piercing damage.
-- _**Talons.** Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+- _**Talons.** Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.

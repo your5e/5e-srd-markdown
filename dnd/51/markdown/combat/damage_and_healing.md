@@ -14,7 +14,7 @@ Whenever a creature takes damage, that damage is subtracted from its hit points.
 
 Each weapon, spell, and harmful monster ability specifies the damage it deals. You roll the damage die or dice, add any modifiers, and apply the damage to your target. Magic weapons, special abilities, and other factors can grant a bonus to damage. With a penalty, it is possible to deal 0 damage, but never negative damage.
 
-When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage. A **spell** tells you which dice to roll for damage and whether to add any modifiers.
+When attacking with a **weapon**, you add your ability modifier — the same modifier used for the attack roll — to the damage. A **spell** tells you which dice to roll for damage and whether to add any modifiers.
 
 If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts _Fireball_ or a cleric casts _Flame Strike_, the spell's damage is rolled once for all creatures caught in the blast.
 
@@ -31,7 +31,7 @@ Different attacks, damaging spells, and other harmful effects deal different typ
 The damage types follow, with examples to help a GM assign a damage type to a new effect.
 
 - _**Acid.**_ The corrosive spray of a black dragon's breath and the dissolving enzymes secreted by a black pudding deal acid damage.
-- _**Bludgeoning.**_ Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
+- _**Bludgeoning.**_ Blunt force attacks — hammers, falling, constriction, and the like — deal bludgeoning damage.
 - _**Cold.**_ The infernal chill radiating from an ice devil's spear and the frigid blast of a white dragon's breath deal cold damage.
 - _**Fire.**_ Red dragons breathe fire, and many spells conjure flames to deal fire damage.
 - _**Force.**_ Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including _Magic Missile_ and _Spiritual Weapon_.

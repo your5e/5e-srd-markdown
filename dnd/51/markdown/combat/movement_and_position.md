@@ -22,7 +22,7 @@ For example, if you have a speed of 30 and a flying speed of 60 because a wizard
 
 ## Difficult Terrain
 
-Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briarchoked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
+Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briarchoked forests, treacherous staircases — the setting of a typical fight contains difficult terrain.
 
 Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.
 

@@ -1,4 +1,4 @@
-# Bag of Tricks
+## Bag of Tricks
 
 _Wondrous item, uncommon_
 
@@ -10,41 +10,41 @@ The creature is friendly to you and your companions, and it acts on your turn. Y
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-## Gray Bag of Tricks
+### Gray Bag of Tricks
 
-- **d8 Creature**
-- 1 Weasel
-- 2 Giant rat
-- 3 Badger
-- 4 Boar
-- 5 Panther
-- 6 Giant badger
+|   d8 | Creature     |
+|------|--------------|
+|    1 | Weasel       |
+|    2 | Giant rat    |
+|    3 | Badger       |
+|    4 | Boar         |
+|    5 | Panther      |
+|    6 | Giant badger |
+|    7 | Dire wolf    |
+|    8 | Giant elk    |
 
-| 7   | Dire wolf   |
-|-----|-------------|
+### Rust Bag of Tricks
 
-8 Giant elk
+|   d8 | Creature   |
+|------|------------|
+|    1 | Rat        |
+|    2 | Owl        |
+|    3 | Mastiff    |
+|    4 | Goat       |
+|    5 | Giant goat |
+|    6 | Giant boar |
+|    7 | Lion       |
+|    8 | Brown bear |
 
-## Rust Bag of Tricks
+### Tan Bag of Tricks
 
-#### d8 Creature
-
-- 1 Rat
-- 2 Owl 3 Mastiff
-- 4 Goat
-- 5 Giant goat
-- 6 Giant boar
-- 7 Lion
-- 8 Brown bear
-
-## Tan Bag of Tricks
-
-## d8 Creature
-
-- 1 Jackal
-- 2 Ape
-- 3 Baboon 4 Axe beak
-- 5 Black bear
-- 6 Giant weasel
-- 7 Giant hyena
-- 8 Tiger
+|   d8 | Creature     |
+|------|--------------|
+|    1 | Jackal       |
+|    2 | Ape          |
+|    3 | Baboon       |
+|    4 | Axe beak     |
+|    5 | Black bear   |
+|    6 | Giant weasel |
+|    7 | Giant hyena  |
+|    8 | Tiger        |

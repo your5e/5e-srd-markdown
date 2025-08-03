@@ -1,6 +1,6 @@
 # Movement
 
-Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope—all sorts of movement play a key role in fantasy gaming adventures.
+Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope — all sorts of movement play a key role in fantasy gaming adventures.
 
 The GM can summarize the adventurers' movement without calculating exact distances or travel times: "You travel through the forest and find the dungeon entrance late in the evening of the third day." Even in a dungeon, particularly a large dungeon or a cave network, the GM can summarize movement between encounters: "After killing the guardian at the entrance to the ancient dwarven stronghold, you consult your map, which leads you through miles of echoing corridors to a chasm bridged by a narrow stone arch."
 
@@ -36,9 +36,9 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
 
 ### Difficult Terrain
 
-The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground—all considered difficult terrain.
+The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground — all considered difficult terrain.
 
-You move at half speed in difficult terrain moving 1 foot in difficult terrain costs 2 feet of speed—so you can cover only half the normal distance in a minute, an hour, or a day.
+You move at half speed in difficult terrain moving 1 foot in difficult terrain costs 2 feet of speed — so you can cover only half the normal distance in a minute, an hour, or a day.
 
 ## Special Types of Movement
 

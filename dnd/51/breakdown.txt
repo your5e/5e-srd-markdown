@@ -36,1045 +36,1045 @@
   3067   3144  markdown/equipment/armor.md
   3146   3242  markdown/equipment/weapons.md
   3244   3434  markdown/equipment/adventuring_gear.md
-  3436   3497  markdown/equipment/tools.md
-  3499   3554  markdown/equipment/mounts_and_vehicles.md
-  3556   3578  markdown/equipment/trade_goods.md
-  3580   3679  markdown/equipment/expenses.md
+  3436   3496  markdown/equipment/tools.md
+  3498   3553  markdown/equipment/mounts_and_vehicles.md
+  3555   3577  markdown/equipment/trade_goods.md
+  3579   3678  markdown/equipment/expenses.md
 
-  3681   3687  markdown/feats/feats.md
-  3689   3696  markdown/feats/grappler.md
+  3680   3686  markdown/feats/feats.md
+  3688   3695  markdown/feats/grappler.md
 
-  3698   3874  markdown/abilities/ability_scores.md -
-  3880   3921  markdown/abilities/strength.md
-  3923   3970  markdown/abilities/dexterity.md
-  3972   3992  markdown/abilities/constitution.md
-  3994   4018  markdown/abilities/intelligence.md
-  4020   4040  markdown/abilities/wisdom.md
-  4042   4061  markdown/abilities/charisma.md
-  4063   4075  markdown/abilities/saving_throws.md -
+  3697   3873  markdown/abilities/ability_scores.md -
+  3879   3920  markdown/abilities/strength.md
+  3922   3969  markdown/abilities/dexterity.md
+  3971   3991  markdown/abilities/constitution.md
+  3993   4017  markdown/abilities/intelligence.md
+  4019   4039  markdown/abilities/wisdom.md
+  4041   4060  markdown/abilities/charisma.md
+  4062   4074  markdown/abilities/saving_throws.md -
 
-  4077   4085  markdown/time/time.md -
+  4076   4084  markdown/time/time.md -
 
-  4087   4151  markdown/movement/movement.md -
+  4086   4150  markdown/movement/movement.md -
 
-  4153   4223  markdown/environment/environment.md -
+  4152   4222  markdown/environment/environment.md -
 
-  4225   4229  markdown/resting/resting.md
-  4231   4235  markdown/resting/short_rest.md
-  4237   4243  markdown/resting/long_rest.md -
+  4224   4228  markdown/resting/resting.md
+  4230   4234  markdown/resting/short_rest.md
+  4236   4242  markdown/resting/long_rest.md -
 
-  4245   4304  markdown/between_adventures/between_adventures.md -
+  4244   4303  markdown/between_adventures/between_adventures.md -
 
-  4306   4368  markdown/combat/the_order_of_combat.md
-  4370   4473  markdown/combat/movement_and_position.md
-  4475   4533  markdown/combat/actions_in_combat.md
-  4535   4630  markdown/combat/making_an_attack.md
-  4632   4642  markdown/combat/cover.md
-  4644   4761  markdown/combat/damage_and_healing.md
-  4763   4785  markdown/combat/mounted_combat.md
-  4787   4795  markdown/combat/underwater_combat.md -
+  4305   4367  markdown/combat/the_order_of_combat.md
+  4369   4472  markdown/combat/movement_and_position.md
+  4474   4532  markdown/combat/actions_in_combat.md
+  4534   4629  markdown/combat/making_an_attack.md
+  4631   4641  markdown/combat/cover.md
+  4643   4760  markdown/combat/damage_and_healing.md
+  4762   4784  markdown/combat/mounted_combat.md
+  4786   4794  markdown/combat/underwater_combat.md -
 
-  4797   4851  markdown/spellcasting/spellcasting.md
-  4853   4992  markdown/spellcasting/casting.md
-  4994   5010  markdown/spellcasting/schools_of_magic.md
-  5012   5016  markdown/spellcasting/combining.md -
+  4796   4850  markdown/spellcasting/spellcasting.md
+  4852   4990  markdown/spellcasting/casting.md
+  4992   5008  markdown/spellcasting/schools_of_magic.md
+  5010   5014  markdown/spellcasting/combining.md -
 
-  5018   5062  markdown/classes/bard/spell_lists_bard_spells.md         # fixme
-  5064   5108  markdown/classes/cleric/cleric_spells.md
-  5110   5152  markdown/classes/druid/druid_spells.md
-  5154   5174  markdown/classes/paladin/paladin_spells.md
-  5176   5198  markdown/classes/ranger/ranger_spells.md
-  5200   5242  markdown/classes/sorcerer/sorcerer_spells.md
-  5244   5284  markdown/classes/warlock/warlock_spells.md
-  5286   5334  markdown/classes/wizard/wizard_spells.md -
+  5016   5060  markdown/classes/bard/spell_lists_bard_spells.md         # fixme
+  5062   5106  markdown/classes/cleric/cleric_spells.md
+  5108   5150  markdown/classes/druid/druid_spells.md
+  5152   5172  markdown/classes/paladin/paladin_spells.md
+  5174   5196  markdown/classes/ranger/ranger_spells.md
+  5198   5240  markdown/classes/sorcerer/sorcerer_spells.md
+  5242   5282  markdown/classes/warlock/warlock_spells.md
+  5284   5332  markdown/classes/wizard/wizard_spells.md -
 
                @adjust 1
-  5338   5349  markdown/spells/level_2/acid_arrow.md
-  5351   5362  markdown/spells/cantrip/acid_splash.md
-  5364   5375  markdown/spells/level_2/aid.md
-  5377   5390  markdown/spells/level_1/alarm.md
-  5392   5405  markdown/spells/level_2/alter_self.md
-  5407   5418  markdown/spells/level_1/animal_friendship.md
-  5420   5433  markdown/spells/level_2/animal_messenger.md
-  5435   5448  markdown/spells/level_8/animal_shapes.md
-  5450   5465  markdown/spells/level_3/animate_dead.md
-  5467   5494  markdown/spells/level_5/animate_objects.md
-  5496   5509  markdown/spells/level_5/antilife_shell.md
-  5511   5533  markdown/spells/level_8/antimagic_field.md
-  5535   5555  markdown/spells/level_8/antipathy_sympathy.md
-  5557   5570  markdown/spells/level_4/arcane_eye.md
-  5572   5591  markdown/spells/level_5/arcane_hand.md
-  5593   5604  markdown/spells/level_2/arcane_lock.md
-  5606   5617  markdown/spells/level_7/arcane_sword.md
-  5619   5633  markdown/spells/level_2/arcanists_magic_aura.md
-  5635   5654  markdown/spells/level_9/astral_projection.md
-  5656   5674  markdown/spells/level_2/augury.md
-  5676   5687  markdown/spells/level_5/awaken.md
-  5689   5700  markdown/spells/level_1/bane.md
-  5702   5717  markdown/spells/level_4/banishment.md
-  5719   5728  markdown/spells/level_2/barkskin.md
-  5730   5739  markdown/spells/level_3/beacon_of_hope.md
-  5741   5759  markdown/spells/level_3/bestow_curse.md
-  5761   5774  markdown/spells/level_4/black_tentacles.md
-  5776   5787  markdown/spells/level_6/blade_barrier.md
-  5789   5800  markdown/spells/level_1/bless.md
-  5802   5817  markdown/spells/level_4/blight.md
-  5819   5830  markdown/spells/level_2/blindness_deafness.md
-  5832   5845  markdown/spells/level_3/blink.md
-  5847   5856  markdown/spells/level_2/blur.md
-  5858   5869  markdown/spells/level_2/branding_smite.md
-  5871   5884  markdown/spells/level_1/burning_hands.md
-  5886   5901  markdown/spells/level_3/call_lightning.md
-  5903   5916  markdown/spells/level_2/calm_emotions.md
-  5918   5931  markdown/spells/level_6/chain_lightning.md
-  5933   5944  markdown/spells/level_1/charm_person.md
-  5946   5959  markdown/spells/cantrip/chill_touch.md
-  5961   5972  markdown/spells/level_6/circle_of_death.md
-  5974   5987  markdown/spells/level_3/clairvoyance.md
-  5989   6000  markdown/spells/level_8/clone.md
-  6002   6019  markdown/spells/level_5/cloudkill.md
-  6021   6034  markdown/spells/level_1/color_spray.md
-  6036   6054  markdown/spells/level_1/command.md
-  6056   6069  markdown/spells/level_5/commune.md
-  6071   6090  markdown/spells/level_5/commune_with_nature.md
-  6092   6103  markdown/spells/level_1/comprehend_languages.md
-  6105   6116  markdown/spells/level_4/compulsion.md
-  6118   6131  markdown/spells/level_5/cone_of_cold.md
-  6133   6155  markdown/spells/level_4/confusion.md
-  6157   6179  markdown/spells/level_3/conjure_animals.md
-  6181   6196  markdown/spells/level_7/conjure_celestial.md
-  6198   6215  markdown/spells/level_5/conjure_elemental.md
-  6217   6234  markdown/spells/level_6/conjure_fey.md
-  6236   6260  markdown/spells/level_4/conjure_minor_elementals.md
-  6262   6284  markdown/spells/level_4/conjure_woodland_beings.md
-  6286   6297  markdown/spells/level_5/contact_other_plane.md
-  6299   6319  markdown/spells/level_5/contagion.md
-  6321   6334  markdown/spells/level_6/contingency.md
-  6336   6345  markdown/spells/level_2/continual_flame.md
-  6347   6370  markdown/spells/level_4/control_water.md
-  6372   6416  markdown/spells/level_8/control_weather.md
-  6418   6429  markdown/spells/level_3/counterspell.md
-  6431   6440  markdown/spells/level_3/create_food_and_water.md
-  6442   6455  markdown/spells/level_1/create_or_destroy_water.md
-  6457   6472  markdown/spells/level_6/create_undead.md
-  6474   6497  markdown/spells/level_5/creation.md
-  6499   6510  markdown/spells/level_1/cure_wounds.md
-  6512   6523  markdown/spells/cantrip/dancing_lights.md
-  6525   6538  markdown/spells/level_2/darkness.md
-  6540   6549  markdown/spells/level_2/darkvision.md
-  6551   6564  markdown/spells/level_3/daylight.md
-  6566   6579  markdown/spells/level_4/death_ward.md
-  6581   6598  markdown/spells/level_7/delayed_blast_fireball.md
-  6600   6611  markdown/spells/level_8/demiplane.md
-  6613   6624  markdown/spells/level_1/detect_evil_and_good.md
-  6626   6637  markdown/spells/level_1/detect_magic.md
-  6639   6650  markdown/spells/level_1/detect_poison_and_disease.md
-  6652   6669  markdown/spells/level_2/detect_thoughts.md
-  6671   6684  markdown/spells/level_4/dimension_door.md
-  6686   6699  markdown/spells/level_1/disguise_self.md
-  6701   6718  markdown/spells/level_6/disintegrate.md
-  6720   6734  markdown/spells/level_5/dispel_evil_and_good.md
-  6736   6747  markdown/spells/level_3/dispel_magic.md
-  6749   6762  markdown/spells/level_4/divination.md
-  6764   6773  markdown/spells/level_1/divine_favor.md
-  6775   6791  markdown/spells/level_7/divine_word.md
-  6793   6810  markdown/spells/level_4/dominate_beast.md
-  6812   6829  markdown/spells/level_8/dominate_monster.md
-  6831   6848  markdown/spells/level_5/dominate_person.md
-  6850   6865  markdown/spells/level_5/dream.md
-  6867   6881  markdown/spells/cantrip/druidcraft.md
-  6883   6906  markdown/spells/level_8/earthquake.md
-  6908   6919  markdown/spells/cantrip/eldritch_blast.md
-  6921   6944  markdown/spells/level_2/enhance_ability.md
-  6946   6960  markdown/spells/level_2/enlarge_reduce.md
-  6962   6975  markdown/spells/level_1/entangle.md
-  6977   6986  markdown/spells/level_2/enthrall.md
-  6988   7007  markdown/spells/level_7/etherealness.md
-  7009   7018  markdown/spells/level_1/expeditious_retreat.md
-  7020   7033  markdown/spells/level_6/eyebite.md
-  7035   7048  markdown/spells/level_4/fabricate.md
-  7050   7061  markdown/spells/level_1/faerie_fire.md
-  7063   7076  markdown/spells/level_4/faithful_hound.md
-  7078   7089  markdown/spells/level_1/false_life.md
-  7091   7102  markdown/spells/level_3/fear.md
-  7104   7113  markdown/spells/level_1/feather_fall.md
-  7115   7130  markdown/spells/level_8/feeblemind.md
-  7132   7153  markdown/spells/level_1/find_familiar.md
-  7155   7172  markdown/spells/level_2/find_steed.md
-  7174   7185  markdown/spells/level_6/find_the_path.md
-  7187   7198  markdown/spells/level_2/find_traps.md
-  7200   7211  markdown/spells/level_7/finger_of_death.md
-  7213   7226  markdown/spells/level_3/fireball.md
-  7228   7239  markdown/spells/cantrip/fire_bolt.md
-  7241   7254  markdown/spells/level_4/fire_shield.md
-  7256   7267  markdown/spells/level_7/fire_storm.md
-  7269   7284  markdown/spells/level_2/flame_blade.md
-  7286   7299  markdown/spells/level_5/flame_strike.md
-  7301   7316  markdown/spells/level_2/flaming_sphere.md
-  7318   7333  markdown/spells/level_6/flesh_to_stone.md
-  7335   7348  markdown/spells/level_1/floating_disk.md
-  7350   7361  markdown/spells/level_3/fly.md
-  7363   7374  markdown/spells/level_1/fog_cloud.md
-  7376   7391  markdown/spells/level_6/forbiddance.md
-  7393   7412  markdown/spells/level_7/forcecage.md
-  7414   7425  markdown/spells/level_9/foresight.md
-  7427   7438  markdown/spells/level_4/freedom_of_movement.md
-  7440   7455  markdown/spells/level_6/freezing_sphere.md
-  7457   7470  markdown/spells/level_3/gaseous_form.md
-  7472   7487  markdown/spells/level_9/gate.md
-  7489   7504  markdown/spells/level_5/geas.md
-  7506   7517  markdown/spells/level_2/gentle_repose.md
-  7519   7534  markdown/spells/level_4/giant_insect.md
-  7536   7545  markdown/spells/level_8/glibness.md
-  7547   7560  markdown/spells/level_6/globe_of_invulnerability.md
-  7562   7583  markdown/spells/level_3/glyph_of_warding.md
-  7585   7596  markdown/spells/level_1/goodberry.md
-  7598   7609  markdown/spells/level_1/grease.md
-  7611   7620  markdown/spells/level_4/greater_invisibility.md
-  7622   7636  markdown/spells/level_5/greater_restoration.md
-  7638   7649  markdown/spells/level_4/guardian_of_faith.md
-  7651   7679  markdown/spells/level_6/guards_and_wards.md
-  7681   7690  markdown/spells/cantrip/guidance.md
-  7692   7703  markdown/spells/level_1/guiding_bolt.md
-  7705   7720  markdown/spells/level_2/gust_of_wind.md
-  7722   7748  markdown/spells/level_5/hallow.md
-  7750   7761  markdown/spells/level_4/hallucinatory_terrain.md
-  7763   7772  markdown/spells/level_6/harm.md
-  7774   7785  markdown/spells/level_3/haste.md
-  7787   7798  markdown/spells/level_6/heal.md
-  7800   7811  markdown/spells/level_1/healing_word.md
-  7813   7826  markdown/spells/level_2/heat_metal.md
-  7828   7839  markdown/spells/level_1/hellish_rebuke.md
-  7841   7852  markdown/spells/level_6/heroes_feast.md
-  7854   7865  markdown/spells/level_1/heroism.md
-  7867   7878  markdown/spells/level_1/hideous_laughter.md
-  7880   7891  markdown/spells/level_5/hold_monster.md
-  7893   7904  markdown/spells/level_2/hold_person.md
-  7906   7915  markdown/spells/level_8/holy_aura.md
-  7917   7928  markdown/spells/level_1/hunters_mark.md
-  7930   7941  markdown/spells/level_3/hypnotic_pattern.md
-  7943   7956  markdown/spells/level_4/ice_storm.md
-  7958   7969  markdown/spells/level_1/identify.md
-  7971   7986  markdown/spells/level_1/illusory_script.md
-  7988   8022  markdown/spells/level_9/imprisonment.md
-  8024   8037  markdown/spells/level_8/incendiary_cloud.md
-  8039   8050  markdown/spells/level_1/inflict_wounds.md
-  8052   8065  markdown/spells/level_5/insect_plague.md
-  8067   8082  markdown/spells/level_6/instant_summons.md
-  8084   8095  markdown/spells/level_2/invisibility.md
-  8097   8108  markdown/spells/level_6/irresistible_dance.md
-  8110   8119  markdown/spells/level_1/jump.md
-  8121   8136  markdown/spells/level_2/knock.md
-  8138   8149  markdown/spells/level_5/legend_lore.md
-  8151   8160  markdown/spells/level_2/lesser_restoration.md
-  8162   8175  markdown/spells/level_2/levitate.md
-  8177   8188  markdown/spells/cantrip/light.md
-  8190   8205  markdown/spells/level_3/lightning_bolt.md
-  8207   8216  markdown/spells/level_2/locate_animals_or_plants.md
-  8218   8231  markdown/spells/level_4/locate_creature.md
-  8233   8246  markdown/spells/level_2/locate_object.md
-  8248   8259  markdown/spells/level_1/longstrider.md
-  8261   8270  markdown/spells/level_1/mage_armor.md
-  8272   8285  markdown/spells/cantrip/mage_hand.md
-  8287   8306  markdown/spells/level_3/magic_circle.md
-  8308   8329  markdown/spells/level_6/magic_jar.md
-  8331   8342  markdown/spells/level_1/magic_missile.md
-  8344   8357  markdown/spells/level_2/magic_mouth.md
-  8359   8370  markdown/spells/level_2/magic_weapon.md
-  8372   8385  markdown/spells/level_7/magnificent_mansion.md
-  8387   8402  markdown/spells/level_3/major_image.md
-  8404   8415  markdown/spells/level_5/mass_cure_wounds.md
-  8417   8426  markdown/spells/level_9/mass_heal.md
-  8428   8439  markdown/spells/level_3/mass_healing_word.md
-  8441   8458  markdown/spells/level_6/mass_suggestion.md
-  8460   8473  markdown/spells/level_8/maze.md
-  8475   8490  markdown/spells/level_3/meld_into_stone.md
-  8492   8503  markdown/spells/cantrip/mending.md
-  8505   8516  markdown/spells/cantrip/message.md
-  8518   8529  markdown/spells/level_9/meteor_swarm.md
-  8531   8540  markdown/spells/level_8/mind_blank.md
-  8542   8557  markdown/spells/cantrip/minor_illusion.md
-  8559   8574  markdown/spells/level_7/mirage_arcane.md
-  8576   8593  markdown/spells/level_2/mirror_image.md
-  8595   8608  markdown/spells/level_5/mislead.md
-  8610   8619  markdown/spells/level_2/misty_step.md
-  8621   8642  markdown/spells/level_5/modify_memory.md
-  8644   8661  markdown/spells/level_2/moonbeam.md
-  8663   8680  markdown/spells/level_6/move_earth.md
-  8682   8691  markdown/spells/level_3/nondetection.md
-  8693   8702  markdown/spells/level_2/pass_without_trace.md
-  8704   8715  markdown/spells/level_5/passwall.md
-  8717   8728  markdown/spells/level_4/phantasmal_killer.md
-  8730   8741  markdown/spells/level_3/phantom_steed.md
-  8743   8762  markdown/spells/level_6/planar_ally.md
-  8764   8777  markdown/spells/level_5/planar_binding.md
-  8779   8792  markdown/spells/level_7/plane_shift.md
-  8794   8809  markdown/spells/level_3/plant_growth.md
-  8811   8822  markdown/spells/cantrip/poison_spray.md
-  8824   8841  markdown/spells/level_4/polymorph.md
-  8843   8852  markdown/spells/level_9/power_word_kill.md
-  8854   8865  markdown/spells/level_8/power_word_stun.md
-  8867   8878  markdown/spells/level_2/prayer_of_healing.md
-  8880   8898  markdown/spells/cantrip/prestidigitation.md
-  8900   8918  markdown/spells/level_7/prismatic_spray.md
-  8920   8946  markdown/spells/level_9/prismatic_wall.md
-  8948   8972  markdown/spells/level_4/private_sanctum.md
-  8974   8987  markdown/spells/cantrip/produce_flame.md
-  8989   9004  markdown/spells/level_6/programmed_illusion.md
-  9006   9021  markdown/spells/level_7/project_image.md
-  9023   9032  markdown/spells/level_3/protection_from_energy.md
-  9034   9045  markdown/spells/level_1/protection_from_evil_and_good.md
-  9047   9058  markdown/spells/level_2/protection_from_poison.md
-  9060   9069  markdown/spells/level_1/purify_food_and_drink.md
-  9071   9086  markdown/spells/level_5/raise_dead.md
-  9088   9099  markdown/spells/level_2/ray_of_enfeeblement.md
-  9101   9112  markdown/spells/cantrip/ray_of_frost.md
-  9114   9125  markdown/spells/level_7/regenerate.md
-  9127   9157  markdown/spells/level_5/reincarnate.md
-  9159   9168  markdown/spells/level_3/remove_curse.md
-  9170   9185  markdown/spells/level_4/resilient_sphere.md
-  9187   9196  markdown/spells/cantrip/resistance.md
-  9198   9215  markdown/spells/level_7/resurrection.md
-  9217   9230  markdown/spells/level_7/reverse_gravity.md
-  9232   9241  markdown/spells/level_3/revivify.md
-  9243   9258  markdown/spells/level_2/rope_trick.md
-  9260   9271  markdown/spells/cantrip/sacred_flame.md
-  9273   9284  markdown/spells/level_1/sanctuary.md
-  9286   9299  markdown/spells/level_2/scorching_ray.md
-  9301   9326  markdown/spells/level_5/scrying.md
-  9328   9341  markdown/spells/level_4/secret_chest.md
-  9343   9352  markdown/spells/level_2/see_invisibility.md
-  9354   9369  markdown/spells/level_5/seeming.md
-  9371   9382  markdown/spells/level_3/sending.md
-  9384   9397  markdown/spells/level_7/sequester.md
-  9399   9418  markdown/spells/level_9/shapechange.md
-  9420   9435  markdown/spells/level_2/shatter.md
-  9437   9446  markdown/spells/level_1/shield.md
-  9448   9457  markdown/spells/level_1/shield_of_faith.md
-  9459   9468  markdown/spells/cantrip/shillelagh.md
-  9470   9481  markdown/spells/cantrip/shocking_grasp.md
-  9483   9492  markdown/spells/level_2/silence.md
-  9494   9507  markdown/spells/level_1/silent_image.md
-  9509   9524  markdown/spells/level_7/simulacrum.md
-  9526   9541  markdown/spells/level_1/sleep.md
-  9543   9556  markdown/spells/level_3/sleet_storm.md
-  9558   9573  markdown/spells/level_3/slow.md
-  9575   9584  markdown/spells/cantrip/spare_the_dying.md
-  9586   9595  markdown/spells/level_1/speak_with_animals.md
-  9597   9608  markdown/spells/level_3/speak_with_dead.md
-  9610   9627  markdown/spells/level_3/speak_with_plants.md
-  9629   9638  markdown/spells/level_2/spider_climb.md
-  9640   9651  markdown/spells/level_2/spike_growth.md
-  9653   9666  markdown/spells/level_3/spirit_guardians.md
-  9668   9683  markdown/spells/level_2/spiritual_weapon.md
-  9685   9698  markdown/spells/level_3/stinking_cloud.md
-  9700   9709  markdown/spells/level_4/stone_shape.md
-  9711   9720  markdown/spells/level_4/stoneskin.md
-  9722   9738  markdown/spells/level_9/storm_of_vengeance.md
-  9740   9755  markdown/spells/level_2/suggestion.md
-  9757   9770  markdown/spells/level_6/sunbeam.md
-  9772   9785  markdown/spells/level_8/sunburst.md
-  9787   9813  markdown/spells/level_7/symbol.md
-  9815   9834  markdown/spells/level_5/telekinesis.md
-  9836   9847  markdown/spells/level_5/telepathic_bond.md
-  9849   9881  markdown/spells/level_7/teleport.md
-  9883   9896  markdown/spells/level_5/teleportation_circle.md
-  9898   9916  markdown/spells/cantrip/thaumaturgy.md
-  9918   9931  markdown/spells/level_1/thunderwave.md
-  9933   9944  markdown/spells/level_9/time_stop.md
-  9946   9959  markdown/spells/level_3/tiny_hut.md
-  9961   9972  markdown/spells/level_3/tongues.md
-  9974   9983  markdown/spells/level_6/transport_via_plants.md
-  9985   9996  markdown/spells/level_5/tree_stride.md
-  9998  10023  markdown/spells/level_9/true_polymorph.md
- 10025  10038  markdown/spells/level_9/true_resurrection.md
- 10040  10049  markdown/spells/level_6/true_seeing.md
- 10051  10060  markdown/spells/cantrip/true_strike.md
- 10062  10075  markdown/spells/level_1/unseen_servant.md
- 10077  10088  markdown/spells/level_3/vampiric_touch.md
- 10090  10101  markdown/spells/cantrip/vicious_mockery.md
- 10103  10118  markdown/spells/level_4/wall_of_fire.md
- 10120  10131  markdown/spells/level_5/wall_of_force.md
- 10133  10148  markdown/spells/level_6/wall_of_ice.md
- 10150  10169  markdown/spells/level_5/wall_of_stone.md
- 10171  10186  markdown/spells/level_6/wall_of_thorns.md
- 10188  10199  markdown/spells/level_2/warding_bond.md
- 10201  10210  markdown/spells/level_3/water_breathing.md
- 10212  10223  markdown/spells/level_3/water_walk.md
- 10225  10242  markdown/spells/level_2/web.md
- 10244  10253  markdown/spells/level_9/weird.md
- 10255  10266  markdown/spells/level_6/wind_walk.md
- 10268  10281  markdown/spells/level_3/wind_wall.md
- 10283  10306  markdown/spells/level_9/wish.md
- 10308  10319  markdown/spells/level_6/word_of_recall.md
- 10321  10332  markdown/spells/level_2/zone_of_truth.md -
+  5336   5347  markdown/spells/level_2/acid_arrow.md
+  5349   5360  markdown/spells/cantrip/acid_splash.md
+  5362   5373  markdown/spells/level_2/aid.md
+  5375   5388  markdown/spells/level_1/alarm.md
+  5390   5403  markdown/spells/level_2/alter_self.md
+  5405   5416  markdown/spells/level_1/animal_friendship.md
+  5418   5431  markdown/spells/level_2/animal_messenger.md
+  5433   5446  markdown/spells/level_8/animal_shapes.md
+  5448   5463  markdown/spells/level_3/animate_dead.md
+  5465   5492  markdown/spells/level_5/animate_objects.md
+  5494   5507  markdown/spells/level_5/antilife_shell.md
+  5509   5531  markdown/spells/level_8/antimagic_field.md
+  5533   5553  markdown/spells/level_8/antipathy_sympathy.md
+  5555   5568  markdown/spells/level_4/arcane_eye.md
+  5570   5589  markdown/spells/level_5/arcane_hand.md
+  5591   5602  markdown/spells/level_2/arcane_lock.md
+  5604   5615  markdown/spells/level_7/arcane_sword.md
+  5617   5631  markdown/spells/level_2/arcanists_magic_aura.md
+  5633   5652  markdown/spells/level_9/astral_projection.md
+  5654   5672  markdown/spells/level_2/augury.md
+  5674   5685  markdown/spells/level_5/awaken.md
+  5687   5698  markdown/spells/level_1/bane.md
+  5700   5715  markdown/spells/level_4/banishment.md
+  5717   5726  markdown/spells/level_2/barkskin.md
+  5728   5737  markdown/spells/level_3/beacon_of_hope.md
+  5739   5757  markdown/spells/level_3/bestow_curse.md
+  5759   5772  markdown/spells/level_4/black_tentacles.md
+  5774   5785  markdown/spells/level_6/blade_barrier.md
+  5787   5798  markdown/spells/level_1/bless.md
+  5800   5815  markdown/spells/level_4/blight.md
+  5817   5828  markdown/spells/level_2/blindness_deafness.md
+  5830   5843  markdown/spells/level_3/blink.md
+  5845   5854  markdown/spells/level_2/blur.md
+  5856   5867  markdown/spells/level_2/branding_smite.md
+  5869   5882  markdown/spells/level_1/burning_hands.md
+  5884   5899  markdown/spells/level_3/call_lightning.md
+  5901   5914  markdown/spells/level_2/calm_emotions.md
+  5916   5929  markdown/spells/level_6/chain_lightning.md
+  5931   5942  markdown/spells/level_1/charm_person.md
+  5944   5957  markdown/spells/cantrip/chill_touch.md
+  5959   5970  markdown/spells/level_6/circle_of_death.md
+  5972   5985  markdown/spells/level_3/clairvoyance.md
+  5987   5998  markdown/spells/level_8/clone.md
+  6000   6017  markdown/spells/level_5/cloudkill.md
+  6019   6032  markdown/spells/level_1/color_spray.md
+  6034   6052  markdown/spells/level_1/command.md
+  6054   6067  markdown/spells/level_5/commune.md
+  6069   6088  markdown/spells/level_5/commune_with_nature.md
+  6090   6101  markdown/spells/level_1/comprehend_languages.md
+  6103   6114  markdown/spells/level_4/compulsion.md
+  6116   6129  markdown/spells/level_5/cone_of_cold.md
+  6131   6153  markdown/spells/level_4/confusion.md
+  6155   6177  markdown/spells/level_3/conjure_animals.md
+  6179   6194  markdown/spells/level_7/conjure_celestial.md
+  6196   6213  markdown/spells/level_5/conjure_elemental.md
+  6215   6232  markdown/spells/level_6/conjure_fey.md
+  6234   6258  markdown/spells/level_4/conjure_minor_elementals.md
+  6260   6282  markdown/spells/level_4/conjure_woodland_beings.md
+  6284   6295  markdown/spells/level_5/contact_other_plane.md
+  6297   6317  markdown/spells/level_5/contagion.md
+  6319   6332  markdown/spells/level_6/contingency.md
+  6334   6343  markdown/spells/level_2/continual_flame.md
+  6345   6368  markdown/spells/level_4/control_water.md
+  6370   6414  markdown/spells/level_8/control_weather.md
+  6416   6427  markdown/spells/level_3/counterspell.md
+  6429   6438  markdown/spells/level_3/create_food_and_water.md
+  6440   6453  markdown/spells/level_1/create_or_destroy_water.md
+  6455   6470  markdown/spells/level_6/create_undead.md
+  6472   6495  markdown/spells/level_5/creation.md
+  6497   6508  markdown/spells/level_1/cure_wounds.md
+  6510   6521  markdown/spells/cantrip/dancing_lights.md
+  6523   6536  markdown/spells/level_2/darkness.md
+  6538   6547  markdown/spells/level_2/darkvision.md
+  6549   6562  markdown/spells/level_3/daylight.md
+  6564   6577  markdown/spells/level_4/death_ward.md
+  6579   6596  markdown/spells/level_7/delayed_blast_fireball.md
+  6598   6609  markdown/spells/level_8/demiplane.md
+  6611   6622  markdown/spells/level_1/detect_evil_and_good.md
+  6624   6635  markdown/spells/level_1/detect_magic.md
+  6637   6648  markdown/spells/level_1/detect_poison_and_disease.md
+  6650   6667  markdown/spells/level_2/detect_thoughts.md
+  6669   6682  markdown/spells/level_4/dimension_door.md
+  6684   6697  markdown/spells/level_1/disguise_self.md
+  6699   6716  markdown/spells/level_6/disintegrate.md
+  6718   6732  markdown/spells/level_5/dispel_evil_and_good.md
+  6734   6745  markdown/spells/level_3/dispel_magic.md
+  6747   6760  markdown/spells/level_4/divination.md
+  6762   6771  markdown/spells/level_1/divine_favor.md
+  6773   6789  markdown/spells/level_7/divine_word.md
+  6791   6808  markdown/spells/level_4/dominate_beast.md
+  6810   6827  markdown/spells/level_8/dominate_monster.md
+  6829   6846  markdown/spells/level_5/dominate_person.md
+  6848   6863  markdown/spells/level_5/dream.md
+  6865   6879  markdown/spells/cantrip/druidcraft.md
+  6881   6904  markdown/spells/level_8/earthquake.md
+  6906   6917  markdown/spells/cantrip/eldritch_blast.md
+  6919   6942  markdown/spells/level_2/enhance_ability.md
+  6944   6958  markdown/spells/level_2/enlarge_reduce.md
+  6960   6973  markdown/spells/level_1/entangle.md
+  6975   6984  markdown/spells/level_2/enthrall.md
+  6986   7005  markdown/spells/level_7/etherealness.md
+  7007   7016  markdown/spells/level_1/expeditious_retreat.md
+  7018   7031  markdown/spells/level_6/eyebite.md
+  7033   7046  markdown/spells/level_4/fabricate.md
+  7048   7059  markdown/spells/level_1/faerie_fire.md
+  7061   7074  markdown/spells/level_4/faithful_hound.md
+  7076   7087  markdown/spells/level_1/false_life.md
+  7089   7100  markdown/spells/level_3/fear.md
+  7102   7111  markdown/spells/level_1/feather_fall.md
+  7113   7128  markdown/spells/level_8/feeblemind.md
+  7130   7151  markdown/spells/level_1/find_familiar.md
+  7153   7170  markdown/spells/level_2/find_steed.md
+  7172   7183  markdown/spells/level_6/find_the_path.md
+  7185   7196  markdown/spells/level_2/find_traps.md
+  7198   7209  markdown/spells/level_7/finger_of_death.md
+  7211   7224  markdown/spells/level_3/fireball.md
+  7226   7237  markdown/spells/cantrip/fire_bolt.md
+  7239   7252  markdown/spells/level_4/fire_shield.md
+  7254   7265  markdown/spells/level_7/fire_storm.md
+  7267   7282  markdown/spells/level_2/flame_blade.md
+  7284   7297  markdown/spells/level_5/flame_strike.md
+  7299   7314  markdown/spells/level_2/flaming_sphere.md
+  7316   7331  markdown/spells/level_6/flesh_to_stone.md
+  7333   7346  markdown/spells/level_1/floating_disk.md
+  7348   7359  markdown/spells/level_3/fly.md
+  7361   7372  markdown/spells/level_1/fog_cloud.md
+  7374   7389  markdown/spells/level_6/forbiddance.md
+  7391   7410  markdown/spells/level_7/forcecage.md
+  7412   7423  markdown/spells/level_9/foresight.md
+  7425   7436  markdown/spells/level_4/freedom_of_movement.md
+  7438   7453  markdown/spells/level_6/freezing_sphere.md
+  7455   7468  markdown/spells/level_3/gaseous_form.md
+  7470   7485  markdown/spells/level_9/gate.md
+  7487   7502  markdown/spells/level_5/geas.md
+  7504   7515  markdown/spells/level_2/gentle_repose.md
+  7517   7532  markdown/spells/level_4/giant_insect.md
+  7534   7543  markdown/spells/level_8/glibness.md
+  7545   7558  markdown/spells/level_6/globe_of_invulnerability.md
+  7560   7581  markdown/spells/level_3/glyph_of_warding.md
+  7583   7594  markdown/spells/level_1/goodberry.md
+  7596   7607  markdown/spells/level_1/grease.md
+  7609   7618  markdown/spells/level_4/greater_invisibility.md
+  7620   7634  markdown/spells/level_5/greater_restoration.md
+  7636   7647  markdown/spells/level_4/guardian_of_faith.md
+  7649   7677  markdown/spells/level_6/guards_and_wards.md
+  7679   7688  markdown/spells/cantrip/guidance.md
+  7690   7701  markdown/spells/level_1/guiding_bolt.md
+  7703   7718  markdown/spells/level_2/gust_of_wind.md
+  7720   7746  markdown/spells/level_5/hallow.md
+  7748   7759  markdown/spells/level_4/hallucinatory_terrain.md
+  7761   7770  markdown/spells/level_6/harm.md
+  7772   7783  markdown/spells/level_3/haste.md
+  7785   7796  markdown/spells/level_6/heal.md
+  7798   7809  markdown/spells/level_1/healing_word.md
+  7811   7824  markdown/spells/level_2/heat_metal.md
+  7826   7837  markdown/spells/level_1/hellish_rebuke.md
+  7839   7850  markdown/spells/level_6/heroes_feast.md
+  7852   7863  markdown/spells/level_1/heroism.md
+  7865   7876  markdown/spells/level_1/hideous_laughter.md
+  7878   7889  markdown/spells/level_5/hold_monster.md
+  7891   7902  markdown/spells/level_2/hold_person.md
+  7904   7913  markdown/spells/level_8/holy_aura.md
+  7915   7926  markdown/spells/level_1/hunters_mark.md
+  7928   7939  markdown/spells/level_3/hypnotic_pattern.md
+  7941   7954  markdown/spells/level_4/ice_storm.md
+  7956   7967  markdown/spells/level_1/identify.md
+  7969   7984  markdown/spells/level_1/illusory_script.md
+  7986   8020  markdown/spells/level_9/imprisonment.md
+  8022   8035  markdown/spells/level_8/incendiary_cloud.md
+  8037   8048  markdown/spells/level_1/inflict_wounds.md
+  8050   8063  markdown/spells/level_5/insect_plague.md
+  8065   8080  markdown/spells/level_6/instant_summons.md
+  8082   8093  markdown/spells/level_2/invisibility.md
+  8095   8106  markdown/spells/level_6/irresistible_dance.md
+  8108   8117  markdown/spells/level_1/jump.md
+  8119   8134  markdown/spells/level_2/knock.md
+  8136   8147  markdown/spells/level_5/legend_lore.md
+  8149   8158  markdown/spells/level_2/lesser_restoration.md
+  8160   8173  markdown/spells/level_2/levitate.md
+  8175   8186  markdown/spells/cantrip/light.md
+  8188   8203  markdown/spells/level_3/lightning_bolt.md
+  8205   8214  markdown/spells/level_2/locate_animals_or_plants.md
+  8216   8229  markdown/spells/level_4/locate_creature.md
+  8231   8244  markdown/spells/level_2/locate_object.md
+  8246   8257  markdown/spells/level_1/longstrider.md
+  8259   8268  markdown/spells/level_1/mage_armor.md
+  8270   8283  markdown/spells/cantrip/mage_hand.md
+  8285   8304  markdown/spells/level_3/magic_circle.md
+  8306   8327  markdown/spells/level_6/magic_jar.md
+  8329   8340  markdown/spells/level_1/magic_missile.md
+  8342   8355  markdown/spells/level_2/magic_mouth.md
+  8357   8368  markdown/spells/level_2/magic_weapon.md
+  8370   8383  markdown/spells/level_7/magnificent_mansion.md
+  8385   8400  markdown/spells/level_3/major_image.md
+  8402   8413  markdown/spells/level_5/mass_cure_wounds.md
+  8415   8424  markdown/spells/level_9/mass_heal.md
+  8426   8437  markdown/spells/level_3/mass_healing_word.md
+  8439   8456  markdown/spells/level_6/mass_suggestion.md
+  8458   8471  markdown/spells/level_8/maze.md
+  8473   8488  markdown/spells/level_3/meld_into_stone.md
+  8490   8501  markdown/spells/cantrip/mending.md
+  8503   8514  markdown/spells/cantrip/message.md
+  8516   8527  markdown/spells/level_9/meteor_swarm.md
+  8529   8538  markdown/spells/level_8/mind_blank.md
+  8540   8555  markdown/spells/cantrip/minor_illusion.md
+  8557   8572  markdown/spells/level_7/mirage_arcane.md
+  8574   8591  markdown/spells/level_2/mirror_image.md
+  8593   8606  markdown/spells/level_5/mislead.md
+  8608   8617  markdown/spells/level_2/misty_step.md
+  8619   8640  markdown/spells/level_5/modify_memory.md
+  8642   8659  markdown/spells/level_2/moonbeam.md
+  8661   8678  markdown/spells/level_6/move_earth.md
+  8680   8689  markdown/spells/level_3/nondetection.md
+  8691   8700  markdown/spells/level_2/pass_without_trace.md
+  8702   8713  markdown/spells/level_5/passwall.md
+  8715   8726  markdown/spells/level_4/phantasmal_killer.md
+  8728   8739  markdown/spells/level_3/phantom_steed.md
+  8741   8760  markdown/spells/level_6/planar_ally.md
+  8762   8775  markdown/spells/level_5/planar_binding.md
+  8777   8790  markdown/spells/level_7/plane_shift.md
+  8792   8807  markdown/spells/level_3/plant_growth.md
+  8809   8820  markdown/spells/cantrip/poison_spray.md
+  8822   8839  markdown/spells/level_4/polymorph.md
+  8841   8850  markdown/spells/level_9/power_word_kill.md
+  8852   8863  markdown/spells/level_8/power_word_stun.md
+  8865   8876  markdown/spells/level_2/prayer_of_healing.md
+  8878   8896  markdown/spells/cantrip/prestidigitation.md
+  8898   8916  markdown/spells/level_7/prismatic_spray.md
+  8918   8944  markdown/spells/level_9/prismatic_wall.md
+  8946   8970  markdown/spells/level_4/private_sanctum.md
+  8972   8985  markdown/spells/cantrip/produce_flame.md
+  8987   9002  markdown/spells/level_6/programmed_illusion.md
+  9004   9019  markdown/spells/level_7/project_image.md
+  9021   9030  markdown/spells/level_3/protection_from_energy.md
+  9032   9043  markdown/spells/level_1/protection_from_evil_and_good.md
+  9045   9056  markdown/spells/level_2/protection_from_poison.md
+  9058   9067  markdown/spells/level_1/purify_food_and_drink.md
+  9069   9084  markdown/spells/level_5/raise_dead.md
+  9086   9097  markdown/spells/level_2/ray_of_enfeeblement.md
+  9099   9110  markdown/spells/cantrip/ray_of_frost.md
+  9112   9123  markdown/spells/level_7/regenerate.md
+  9125   9155  markdown/spells/level_5/reincarnate.md
+  9157   9166  markdown/spells/level_3/remove_curse.md
+  9168   9183  markdown/spells/level_4/resilient_sphere.md
+  9185   9194  markdown/spells/cantrip/resistance.md
+  9196   9213  markdown/spells/level_7/resurrection.md
+  9215   9228  markdown/spells/level_7/reverse_gravity.md
+  9230   9239  markdown/spells/level_3/revivify.md
+  9241   9256  markdown/spells/level_2/rope_trick.md
+  9258   9269  markdown/spells/cantrip/sacred_flame.md
+  9271   9282  markdown/spells/level_1/sanctuary.md
+  9284   9297  markdown/spells/level_2/scorching_ray.md
+  9299   9324  markdown/spells/level_5/scrying.md
+  9326   9339  markdown/spells/level_4/secret_chest.md
+  9341   9350  markdown/spells/level_2/see_invisibility.md
+  9352   9367  markdown/spells/level_5/seeming.md
+  9369   9380  markdown/spells/level_3/sending.md
+  9382   9395  markdown/spells/level_7/sequester.md
+  9397   9416  markdown/spells/level_9/shapechange.md
+  9418   9433  markdown/spells/level_2/shatter.md
+  9435   9444  markdown/spells/level_1/shield.md
+  9446   9455  markdown/spells/level_1/shield_of_faith.md
+  9457   9466  markdown/spells/cantrip/shillelagh.md
+  9468   9479  markdown/spells/cantrip/shocking_grasp.md
+  9481   9490  markdown/spells/level_2/silence.md
+  9492   9505  markdown/spells/level_1/silent_image.md
+  9507   9522  markdown/spells/level_7/simulacrum.md
+  9524   9539  markdown/spells/level_1/sleep.md
+  9541   9554  markdown/spells/level_3/sleet_storm.md
+  9556   9571  markdown/spells/level_3/slow.md
+  9573   9582  markdown/spells/cantrip/spare_the_dying.md
+  9584   9593  markdown/spells/level_1/speak_with_animals.md
+  9595   9606  markdown/spells/level_3/speak_with_dead.md
+  9608   9625  markdown/spells/level_3/speak_with_plants.md
+  9627   9636  markdown/spells/level_2/spider_climb.md
+  9638   9649  markdown/spells/level_2/spike_growth.md
+  9651   9664  markdown/spells/level_3/spirit_guardians.md
+  9666   9681  markdown/spells/level_2/spiritual_weapon.md
+  9683   9696  markdown/spells/level_3/stinking_cloud.md
+  9698   9707  markdown/spells/level_4/stone_shape.md
+  9709   9718  markdown/spells/level_4/stoneskin.md
+  9720   9736  markdown/spells/level_9/storm_of_vengeance.md
+  9738   9753  markdown/spells/level_2/suggestion.md
+  9755   9768  markdown/spells/level_6/sunbeam.md
+  9770   9783  markdown/spells/level_8/sunburst.md
+  9785   9811  markdown/spells/level_7/symbol.md
+  9813   9832  markdown/spells/level_5/telekinesis.md
+  9834   9845  markdown/spells/level_5/telepathic_bond.md
+  9847   9879  markdown/spells/level_7/teleport.md
+  9881   9894  markdown/spells/level_5/teleportation_circle.md
+  9896   9914  markdown/spells/cantrip/thaumaturgy.md
+  9916   9929  markdown/spells/level_1/thunderwave.md
+  9931   9942  markdown/spells/level_9/time_stop.md
+  9944   9957  markdown/spells/level_3/tiny_hut.md
+  9959   9970  markdown/spells/level_3/tongues.md
+  9972   9981  markdown/spells/level_6/transport_via_plants.md
+  9983   9994  markdown/spells/level_5/tree_stride.md
+  9996  10021  markdown/spells/level_9/true_polymorph.md
+ 10023  10036  markdown/spells/level_9/true_resurrection.md
+ 10038  10047  markdown/spells/level_6/true_seeing.md
+ 10049  10058  markdown/spells/cantrip/true_strike.md
+ 10060  10073  markdown/spells/level_1/unseen_servant.md
+ 10075  10086  markdown/spells/level_3/vampiric_touch.md
+ 10088  10099  markdown/spells/cantrip/vicious_mockery.md
+ 10101  10116  markdown/spells/level_4/wall_of_fire.md
+ 10118  10129  markdown/spells/level_5/wall_of_force.md
+ 10131  10146  markdown/spells/level_6/wall_of_ice.md
+ 10148  10167  markdown/spells/level_5/wall_of_stone.md
+ 10169  10184  markdown/spells/level_6/wall_of_thorns.md
+ 10186  10197  markdown/spells/level_2/warding_bond.md
+ 10199  10208  markdown/spells/level_3/water_breathing.md
+ 10210  10221  markdown/spells/level_3/water_walk.md
+ 10223  10240  markdown/spells/level_2/web.md
+ 10242  10251  markdown/spells/level_9/weird.md
+ 10253  10264  markdown/spells/level_6/wind_walk.md
+ 10266  10279  markdown/spells/level_3/wind_wall.md
+ 10281  10304  markdown/spells/level_9/wish.md
+ 10306  10317  markdown/spells/level_6/word_of_recall.md
+ 10319  10330  markdown/spells/level_2/zone_of_truth.md -
 
                @adjust 0
- 10334  10395  markdown/traps/traps.md -
+ 10332  10393  markdown/traps/traps.md -
 
- 10401  10413  markdown/traps/collapsing_roof.md
- 10415  10425  markdown/traps/falling_net.md
- 10427  10437  markdown/traps/fire_breathing_statue.md
- 10439  10461  markdown/traps/pits.md
- 10463  10473  markdown/traps/poison_darts.md
- 10475  10483  markdown/traps/poison_needle.md
- 10485  10497  markdown/traps/rolling_sphere.md
- 10499  10507  markdown/traps/sphere_of_annihilation.md -
+ 10399  10411  markdown/traps/collapsing_roof.md
+ 10413  10423  markdown/traps/falling_net.md
+ 10425  10435  markdown/traps/fire_breathing_statue.md
+ 10437  10459  markdown/traps/pits.md
+ 10461  10471  markdown/traps/poison_darts.md
+ 10473  10481  markdown/traps/poison_needle.md
+ 10483  10495  markdown/traps/rolling_sphere.md
+ 10497  10505  markdown/traps/sphere_of_annihilation.md -
 
- 10509  10519  markdown/diseases/diseases.md
- 10521  10531  markdown/diseases/cackle_fever.md
- 10533  10541  markdown/diseases/sewer_plague.md
- 10543  10549  markdown/diseases/sight_rot.md -
+ 10507  10517  markdown/diseases/diseases.md
+ 10519  10529  markdown/diseases/cackle_fever.md
+ 10531  10539  markdown/diseases/sewer_plague.md
+ 10541  10547  markdown/diseases/sight_rot.md -
 
- 10551  10634  markdown/madness/madness.md -
+ 10549  10620  markdown/madness/madness.md -
 
- 10636  10673  markdown/objects/objects.md -
+ 10622  10659  markdown/objects/objects.md -
 
- 10675  10722  markdown/poisons/poisons.md -
+ 10661  10708  markdown/poisons/poisons.md -
 
- 10724  10778  markdown/magic_items/magic_items.md -
+ 10710  10764  markdown/magic_items/magic_items.md -
 
                @adjust 1
- 10784  10788  markdown/magic_items/uncommon/adamantine_armor.md
- 10790  10794  markdown/magic_items/ammunition_1_2_or_3.md
- 10796  10800  markdown/magic_items/rare/amulet_of_health.md
- 10802  10806  markdown/magic_items/uncommon/amulet_of_proof_against_detection_and_location.md
- 10808  10812  markdown/magic_items/very_rare/amulet_of_the_planes.md
- 10814  10818  markdown/magic_items/very_rare/animated_shield.md
- 10820  10852  markdown/magic_items/legendary/apparatus_of_the_crab.md
- 10854  10858  markdown/magic_items/armor_1_2_or_3.md
- 10860  10864  markdown/magic_items/legendary/armor_of_invulnerability.md
- 10866  10878  markdown/magic_items/rare/armor_of_resistance.md
- 10880  10886  markdown/magic_items/rare/armor_of_vulnerability.md
- 10888  10892  markdown/magic_items/rare/arrow_catching_shield.md
- 10894  10902  markdown/magic_items/very_rare/arrow_of_slaying.md
- 10904  10929  markdown/magic_items/rare/bag_of_beans.md
- 10931  10941  markdown/magic_items/very_rare/bag_of_devouring.md
- 10943  10951  markdown/magic_items/uncommon/bag_of_holding.md
- 10953  11002  markdown/magic_items/uncommon/bag_of_tricks.md
- 11004  11012  markdown/magic_items/rare/bead_of_force.md
- 11014  11029  markdown/magic_items/rare/belt_of_dwarvenkind.md
- 11031  11045  markdown/magic_items/belt_of_giant_strength.md
- 11047  11055  markdown/magic_items/rare/berserker_axe.md
- 11057  11061  markdown/magic_items/uncommon/boots_of_elvenkind.md
- 11063  11067  markdown/magic_items/rare/boots_of_levitation.md
- 11069  11075  markdown/magic_items/rare/boots_of_speed.md
- 11077  11081  markdown/magic_items/uncommon/boots_of_striding_and_springing.md
- 11083  11091  markdown/magic_items/uncommon/boots_of_the_winterlands.md
- 11093  11099  markdown/magic_items/rare/bowl_of_commanding_water_elementals.md
- 11101  11105  markdown/magic_items/uncommon/bracers_of_archery.md
- 11107  11111  markdown/magic_items/rare/bracers_of_defense.md
- 11113  11119  markdown/magic_items/rare/brazier_of_commanding_fire_elementals.md
- 11121  11125  markdown/magic_items/uncommon/brooch_of_shielding.md
- 11127  11133  markdown/magic_items/uncommon/broom_of_flying.md
- 11135  11157  markdown/magic_items/very_rare/candle_of_invocation.md
- 11159  11165  markdown/magic_items/rare/cape_of_the_mountebank.md
- 11167  11182  markdown/magic_items/very_rare/carpet_of_flying.md
- 11184  11190  markdown/magic_items/rare/censer_of_controlling_air_elementals.md
- 11192  11198  markdown/magic_items/rare/chime_of_opening.md
- 11200  11204  markdown/magic_items/uncommon/circlet_of_blasting.md
- 11206  11216  markdown/magic_items/very_rare/cloak_of_arachnida.md
- 11218  11222  markdown/magic_items/rare/cloak_of_displacement.md
- 11224  11228  markdown/magic_items/uncommon/cloak_of_elvenkind.md
- 11230  11234  markdown/magic_items/uncommon/cloak_of_protection.md
- 11236  11242  markdown/magic_items/rare/cloak_of_the_bat.md
- 11244  11248  markdown/magic_items/uncommon/cloak_of_the_manta_ray.md
- 11250  11260  markdown/magic_items/crystal_ball.md
- 11262  11270  markdown/magic_items/rare/cube_of_force.md
- 11272  11291  markdown/magic_items/cube_of_force_faces.md
- 11293  11301  markdown/magic_items/legendary/cubic_gate.md
- 11303  11309  markdown/magic_items/rare/dagger_of_venom.md
- 11311  11319  markdown/magic_items/very_rare/dancing_sword.md
- 11321  11331  markdown/magic_items/uncommon/decanter_of_endless_water.md
- 11333  11378  markdown/magic_items/uncommon/deck_of_illusions.md
- 11380  11465  markdown/magic_items/legendary/deck_of_many_things.md
- 11467  11473  markdown/magic_items/legendary/defender.md
- 11475  11481  markdown/magic_items/very_rare/demon_armor.md
- 11483  11489  markdown/magic_items/rare/dimensional_shackles.md
- 11491  11507  markdown/magic_items/very_rare/dragon_scale_mail.md
- 11509  11517  markdown/magic_items/rare/dragon_slayer.md
- 11519  11523  markdown/magic_items/uncommon/dust_of_disappearance.md
- 11525  11533  markdown/magic_items/uncommon/dust_of_dryness.md
- 11535  11541  markdown/magic_items/uncommon/dust_of_sneezing_and_choking.md
- 11543  11547  markdown/magic_items/very_rare/dwarven_plate.md
- 11549  11553  markdown/magic_items/very_rare/dwarven_thrower.md
- 11555  11561  markdown/magic_items/uncommon/efficient_quiver.md
- 11563  11580  markdown/magic_items/very_rare/efreeti_bottle.md
- 11582  11593  markdown/magic_items/uncommon/elemental_gem.md
- 11595  11599  markdown/magic_items/rare/elven_chain.md
- 11601  11607  markdown/magic_items/uncommon/eversmoking_bottle.md
- 11609  11615  markdown/magic_items/uncommon/eyes_of_charming.md
- 11617  11621  markdown/magic_items/uncommon/eyes_of_minute_seeing.md
- 11623  11627  markdown/magic_items/uncommon/eyes_of_the_eagle.md
- 11629  11648  markdown/magic_items/rare/feather_token.md
- 11650  11693  markdown/magic_items/figurine_of_wondrous_power.md
- 11695  11699  markdown/magic_items/rare/flame_tongue.md
- 11701  11713  markdown/magic_items/rare/folding_boat.md
- 11715  11723  markdown/magic_items/very_rare/frost_brand.md
- 11725  11729  markdown/magic_items/uncommon/gauntlets_of_ogre_power.md
- 11731  11741  markdown/magic_items/uncommon/gem_of_brightness.md
- 11743  11749  markdown/magic_items/rare/gem_of_seeing.md
- 11751  11757  markdown/magic_items/rare/giant_slayer.md
- 11759  11763  markdown/magic_items/rare/glamoured_studded_leather.md
- 11765  11769  markdown/magic_items/uncommon/gloves_of_missile_snaring.md
- 11771  11775  markdown/magic_items/uncommon/gloves_of_swimming_and_climbing.md
- 11777  11781  markdown/magic_items/uncommon/goggles_of_night.md
- 11783  11791  markdown/magic_items/legendary/hammer_of_thunderbolts.md
- 11793  11803  markdown/magic_items/rare/handy_haversack.md
- 11805  11809  markdown/magic_items/uncommon/hat_of_disguise.md
- 11811  11815  markdown/magic_items/uncommon/headband_of_intellect.md
- 11817  11832  markdown/magic_items/very_rare/helm_of_brilliance.md
- 11834  11838  markdown/magic_items/uncommon/helm_of_comprehending_languages.md
- 11840  11846  markdown/magic_items/uncommon/helm_of_telepathy.md
- 11848  11852  markdown/magic_items/rare/helm_of_teleportation.md
- 11854  11860  markdown/magic_items/legendary/holy_avenger.md
- 11862  11868  markdown/magic_items/rare/horn_of_blasting.md
- 11870  11885  markdown/magic_items/horn_of_valhalla.md
- 11887  11891  markdown/magic_items/very_rare/horseshoes_of_a_zephyr.md
- 11893  11897  markdown/magic_items/rare/horseshoes_of_speed.md
- 11899  11903  markdown/magic_items/uncommon/immovable_rod.md
- 11905  11915  markdown/magic_items/rare/instant_fortress.md
- 11917  11951  markdown/magic_items/ioun_stone.md
- 11953  11963  markdown/magic_items/rare/iron_bands_of_binding.md
- 11965  11996  markdown/magic_items/legendary/iron_flask.md
- 11998  12004  markdown/magic_items/uncommon/javelin_of_lightning.md
- 12006  12010  markdown/magic_items/uncommon/lantern_of_revealing.md
- 12012  12019  markdown/magic_items/legendary/luck_blade.md
- 12021  12027  markdown/magic_items/rare/mace_of_disruption.md
- 12029  12035  markdown/magic_items/rare/mace_of_smiting.md
- 12037  12043  markdown/magic_items/rare/mace_of_terror.md
- 12045  12049  markdown/magic_items/rare/mantle_of_spell_resistance.md
- 12051  12055  markdown/magic_items/very_rare/manual_of_bodily_health.md
- 12057  12061  markdown/magic_items/very_rare/manual_of_gainful_exercise.md
- 12063  12078  markdown/magic_items/very_rare/manual_of_golems.md
- 12080  12084  markdown/magic_items/very_rare/manual_of_quickness_of_action.md
- 12086  12098  markdown/magic_items/very_rare/marvelous_pigments.md
- 12100  12104  markdown/magic_items/uncommon/medallion_of_thoughts.md
- 12106  12122  markdown/magic_items/very_rare/mirror_of_life_trapping.md
- 12124  12128  markdown/magic_items/uncommon/mithral_armor.md
- 12130  12134  markdown/magic_items/uncommon/necklace_of_adaptation.md
- 12136  12142  markdown/magic_items/rare/necklace_of_fireballs.md
- 12144  12159  markdown/magic_items/rare/necklace_of_prayer_beads.md
- 12161  12167  markdown/magic_items/very_rare/nine_lives_stealer.md
- 12169  12177  markdown/magic_items/very_rare/oathbow.md
- 12179  12183  markdown/magic_items/rare/oil_of_etherealness.md
- 12185  12189  markdown/magic_items/very_rare/oil_of_sharpness.md
- 12191  12197  markdown/magic_items/uncommon/oil_of_slipperiness.md
- 12199  12203  markdown/magic_items/uncommon/pearl_of_power.md
- 12205  12209  markdown/magic_items/uncommon/periapt_of_health.md
- 12211  12215  markdown/magic_items/rare/periapt_of_proof_against_poison.md
- 12217  12221  markdown/magic_items/uncommon/periapt_of_wound_closure.md
- 12223  12227  markdown/magic_items/uncommon/philter_of_love.md
- 12229  12233  markdown/magic_items/uncommon/pipes_of_haunting.md
- 12235  12243  markdown/magic_items/uncommon/pipes_of_the_sewers.md
- 12245  12249  markdown/magic_items/legendary/plate_armor_of_etherealness.md
- 12251  12263  markdown/magic_items/rare/portable_hole.md
- 12265  12269  markdown/magic_items/uncommon/potion_of_animal_friendship.md
- 12271  12275  markdown/magic_items/rare/potion_of_clairvoyance.md
- 12277  12281  markdown/magic_items/common/potion_of_climbing.md
- 12283  12287  markdown/magic_items/rare/potion_of_diminution.md
- 12289  12293  markdown/magic_items/very_rare/potion_of_flying.md
- 12295  12299  markdown/magic_items/rare/potion_of_gaseous_form.md
- 12301  12315  markdown/magic_items/potion_of_giant_strength.md
- 12317  12321  markdown/magic_items/uncommon/potion_of_growth.md
- 12323  12338  markdown/magic_items/potion_of_healing.md
- 12340  12344  markdown/magic_items/rare/potion_of_heroism.md
- 12346  12350  markdown/magic_items/very_rare/potion_of_invisibility.md
- 12352  12356  markdown/magic_items/rare/potion_of_mind_reading.md
- 12358  12364  markdown/magic_items/uncommon/potion_of_poison.md
- 12366  12378  markdown/magic_items/uncommon/potion_of_resistance.md
- 12380  12384  markdown/magic_items/very_rare/potion_of_speed.md
- 12386  12390  markdown/magic_items/uncommon/potion_of_water_breathing.md
- 12392  12398  markdown/magic_items/uncommon/restorative_ointment.md
- 12400  12408  markdown/magic_items/rare/ring_of_animal_influence.md
- 12410  12418  markdown/magic_items/legendary/ring_of_djinni_summoning.md
- 12420  12458  markdown/magic_items/legendary/ring_of_elemental_command.md
- 12460  12464  markdown/magic_items/rare/ring_of_evasion.md
- 12466  12470  markdown/magic_items/rare/ring_of_feather_falling.md
- 12472  12476  markdown/magic_items/rare/ring_of_free_action.md
- 12478  12482  markdown/magic_items/legendary/ring_of_invisibility.md
- 12484  12488  markdown/magic_items/uncommon/ring_of_jumping.md
- 12490  12498  markdown/magic_items/uncommon/ring_of_mind_shielding.md
- 12500  12504  markdown/magic_items/rare/ring_of_protection.md
- 12506  12510  markdown/magic_items/very_rare/ring_of_regeneration.md
- 12512  12529  markdown/magic_items/rare/ring_of_resistance.md
- 12531  12553  markdown/magic_items/very_rare/ring_of_shooting_stars.md
- 12555  12563  markdown/magic_items/rare/ring_of_spell_storing.md
- 12565  12569  markdown/magic_items/legendary/ring_of_spell_turning.md
- 12571  12575  markdown/magic_items/uncommon/ring_of_swimming.md
- 12577  12581  markdown/magic_items/very_rare/ring_of_telekinesis.md
- 12583  12589  markdown/magic_items/rare/ring_of_the_ram.md
- 12591  12595  markdown/magic_items/legendary/ring_of_three_wishes.md
- 12597  12601  markdown/magic_items/uncommon/ring_of_warmth.md
- 12603  12607  markdown/magic_items/uncommon/ring_of_water_walking.md
- 12609  12615  markdown/magic_items/rare/ring_of_x_ray_vision.md
- 12617  12629  markdown/magic_items/rare/robe_of_eyes.md
- 12631  12635  markdown/magic_items/very_rare/robe_of_scintillating_colors.md
- 12637  12645  markdown/magic_items/very_rare/robe_of_stars.md
- 12647  12657  markdown/magic_items/legendary/robe_of_the_archmagi.md
- 12659  12690  markdown/magic_items/uncommon/robe_of_useful_items.md
- 12692  12702  markdown/magic_items/very_rare/rod_of_absorption.md
- 12704  12714  markdown/magic_items/very_rare/rod_of_alertness.md
- 12716  12738  markdown/magic_items/legendary/rod_of_lordly_might.md
- 12740  12744  markdown/magic_items/rare/rod_of_rulership.md
- 12746  12754  markdown/magic_items/very_rare/rod_of_security.md
- 12756  12764  markdown/magic_items/uncommon/rope_of_climbing.md
- 12766  12774  markdown/magic_items/rare/rope_of_entanglement.md
- 12776  12783  markdown/magic_items/legendary/scarab_of_protection.md
- 12785  12789  markdown/magic_items/very_rare/scimitar_of_speed.md
- 12791  12795  markdown/magic_items/shield_1_2_or_3.md
- 12797  12803  markdown/magic_items/rare/shield_of_missile_attraction.md
- 12805  12809  markdown/magic_items/uncommon/slippers_of_spider_climbing.md
- 12811  12817  markdown/magic_items/legendary/sovereign_glue.md
- 12819  12844  markdown/magic_items/spell_scroll.md
- 12846  12850  markdown/magic_items/very_rare/spellguard_shield.md
- 12852  12873  markdown/magic_items/legendary/sphere_of_annihilation.md
- 12875  12883  markdown/magic_items/rare/staff_of_charming.md
- 12885  12893  markdown/magic_items/very_rare/staff_of_fire.md
- 12895  12903  markdown/magic_items/very_rare/staff_of_frost.md
- 12905  12911  markdown/magic_items/rare/staff_of_healing.md
- 12913  12931  markdown/magic_items/very_rare/staff_of_power.md
- 12933  12939  markdown/magic_items/very_rare/staff_of_striking.md
- 12941  12948  markdown/magic_items/rare/staff_of_swarming_insects.md
- 12950  12973  markdown/magic_items/legendary/staff_of_the_magi.md
- 12975  12983  markdown/magic_items/uncommon/staff_of_the_python.md
- 12985  12997  markdown/magic_items/rare/staff_of_the_woodlands.md
- 12999  13012  markdown/magic_items/very_rare/staff_of_thunder_and_lightning.md
- 13014  13020  markdown/magic_items/rare/staff_of_withering.md
- 13022  13026  markdown/magic_items/rare/stone_of_controlling_earth_elementals.md
- 13028  13032  markdown/magic_items/uncommon/stone_of_good_luck_luckstone.md
- 13034  13042  markdown/magic_items/rare/sun_blade.md
- 13044  13048  markdown/magic_items/rare/sword_of_life_stealing.md
- 13050  13058  markdown/magic_items/very_rare/sword_of_sharpness.md
- 13060  13068  markdown/magic_items/rare/sword_of_wounding.md
- 13070  13078  markdown/magic_items/legendary/talisman_of_pure_good.md
- 13080  13084  markdown/magic_items/legendary/talisman_of_the_sphere.md
- 13086  13094  markdown/magic_items/legendary/talisman_of_ultimate_evil.md
- 13096  13100  markdown/magic_items/very_rare/tome_of_clear_thought.md
- 13102  13106  markdown/magic_items/very_rare/tome_of_leadership_and_influence.md
- 13108  13112  markdown/magic_items/very_rare/tome_of_understanding.md
- 13114  13118  markdown/magic_items/uncommon/trident_of_fish_command.md
- 13120  13124  markdown/magic_items/legendary/universal_solvent.md
- 13126  13130  markdown/magic_items/rare/vicious_weapon.md
- 13132  13138  markdown/magic_items/legendary/vorpal_sword.md
- 13140  13147  markdown/magic_items/rare/wand_of_binding.md
- 13149  13155  markdown/magic_items/rare/wand_of_enemy_detection.md
- 13157  13164  markdown/magic_items/rare/wand_of_fear.md
- 13166  13172  markdown/magic_items/rare/wand_of_fireballs.md
- 13174  13180  markdown/magic_items/rare/wand_of_lightning_bolts.md
- 13182  13186  markdown/magic_items/uncommon/wand_of_magic_detection.md
- 13188  13194  markdown/magic_items/uncommon/wand_of_magic_missiles.md
- 13196  13202  markdown/magic_items/rare/wand_of_paralysis.md
- 13204  13210  markdown/magic_items/very_rare/wand_of_polymorph.md
- 13212  13216  markdown/magic_items/uncommon/wand_of_secrets.md
- 13218  13222  markdown/magic_items/wand_of_the_war_mage_1_2_or_3.md
- 13224  13230  markdown/magic_items/uncommon/wand_of_web.md
- 13232  13271  markdown/magic_items/rare/wand_of_wonder.md
- 13273  13277  markdown/magic_items/weapon_1_2_or_3.md
- 13279  13285  markdown/magic_items/legendary/well_of_many_worlds.md
- 13287  13291  markdown/magic_items/uncommon/wind_fan.md
- 13293  13299  markdown/magic_items/uncommon/winged_boots.md
- 13301  13305  markdown/magic_items/rare/wings_of_flying.md
- 13307  13392  markdown/magic_items/sentient_magic_items.md - 0
+ 10770  10774  markdown/magic_items/uncommon/adamantine_armor.md
+ 10776  10780  markdown/magic_items/ammunition_1_2_or_3.md
+ 10782  10786  markdown/magic_items/rare/amulet_of_health.md
+ 10788  10792  markdown/magic_items/uncommon/amulet_of_proof_against_detection_and_location.md
+ 10794  10798  markdown/magic_items/very_rare/amulet_of_the_planes.md
+ 10800  10804  markdown/magic_items/very_rare/animated_shield.md
+ 10806  10838  markdown/magic_items/legendary/apparatus_of_the_crab.md
+ 10840  10844  markdown/magic_items/armor_1_2_or_3.md
+ 10846  10850  markdown/magic_items/legendary/armor_of_invulnerability.md
+ 10852  10864  markdown/magic_items/rare/armor_of_resistance.md
+ 10866  10872  markdown/magic_items/rare/armor_of_vulnerability.md
+ 10874  10878  markdown/magic_items/rare/arrow_catching_shield.md
+ 10880  10888  markdown/magic_items/very_rare/arrow_of_slaying.md
+ 10890  10915  markdown/magic_items/rare/bag_of_beans.md
+ 10917  10927  markdown/magic_items/very_rare/bag_of_devouring.md
+ 10929  10937  markdown/magic_items/uncommon/bag_of_holding.md
+ 10939  10988  markdown/magic_items/uncommon/bag_of_tricks.md
+ 10990  10998  markdown/magic_items/rare/bead_of_force.md
+ 11000  11015  markdown/magic_items/rare/belt_of_dwarvenkind.md
+ 11017  11031  markdown/magic_items/belt_of_giant_strength.md
+ 11033  11041  markdown/magic_items/rare/berserker_axe.md
+ 11043  11047  markdown/magic_items/uncommon/boots_of_elvenkind.md
+ 11049  11053  markdown/magic_items/rare/boots_of_levitation.md
+ 11055  11061  markdown/magic_items/rare/boots_of_speed.md
+ 11063  11067  markdown/magic_items/uncommon/boots_of_striding_and_springing.md
+ 11069  11077  markdown/magic_items/uncommon/boots_of_the_winterlands.md
+ 11079  11085  markdown/magic_items/rare/bowl_of_commanding_water_elementals.md
+ 11087  11091  markdown/magic_items/uncommon/bracers_of_archery.md
+ 11093  11097  markdown/magic_items/rare/bracers_of_defense.md
+ 11099  11105  markdown/magic_items/rare/brazier_of_commanding_fire_elementals.md
+ 11107  11111  markdown/magic_items/uncommon/brooch_of_shielding.md
+ 11113  11119  markdown/magic_items/uncommon/broom_of_flying.md
+ 11121  11143  markdown/magic_items/very_rare/candle_of_invocation.md
+ 11145  11151  markdown/magic_items/rare/cape_of_the_mountebank.md
+ 11153  11168  markdown/magic_items/very_rare/carpet_of_flying.md
+ 11170  11176  markdown/magic_items/rare/censer_of_controlling_air_elementals.md
+ 11178  11184  markdown/magic_items/rare/chime_of_opening.md
+ 11186  11190  markdown/magic_items/uncommon/circlet_of_blasting.md
+ 11192  11202  markdown/magic_items/very_rare/cloak_of_arachnida.md
+ 11204  11208  markdown/magic_items/rare/cloak_of_displacement.md
+ 11210  11214  markdown/magic_items/uncommon/cloak_of_elvenkind.md
+ 11216  11220  markdown/magic_items/uncommon/cloak_of_protection.md
+ 11222  11228  markdown/magic_items/rare/cloak_of_the_bat.md
+ 11230  11234  markdown/magic_items/uncommon/cloak_of_the_manta_ray.md
+ 11236  11246  markdown/magic_items/crystal_ball.md
+ 11248  11256  markdown/magic_items/rare/cube_of_force.md
+ 11258  11277  markdown/magic_items/cube_of_force_faces.md
+ 11279  11287  markdown/magic_items/legendary/cubic_gate.md
+ 11289  11295  markdown/magic_items/rare/dagger_of_venom.md
+ 11297  11305  markdown/magic_items/very_rare/dancing_sword.md
+ 11307  11317  markdown/magic_items/uncommon/decanter_of_endless_water.md
+ 11319  11364  markdown/magic_items/uncommon/deck_of_illusions.md
+ 11366  11451  markdown/magic_items/legendary/deck_of_many_things.md
+ 11453  11459  markdown/magic_items/legendary/defender.md
+ 11461  11467  markdown/magic_items/very_rare/demon_armor.md
+ 11469  11475  markdown/magic_items/rare/dimensional_shackles.md
+ 11477  11493  markdown/magic_items/very_rare/dragon_scale_mail.md
+ 11495  11503  markdown/magic_items/rare/dragon_slayer.md
+ 11505  11509  markdown/magic_items/uncommon/dust_of_disappearance.md
+ 11511  11519  markdown/magic_items/uncommon/dust_of_dryness.md
+ 11521  11527  markdown/magic_items/uncommon/dust_of_sneezing_and_choking.md
+ 11529  11533  markdown/magic_items/very_rare/dwarven_plate.md
+ 11535  11539  markdown/magic_items/very_rare/dwarven_thrower.md
+ 11541  11547  markdown/magic_items/uncommon/efficient_quiver.md
+ 11549  11566  markdown/magic_items/very_rare/efreeti_bottle.md
+ 11568  11579  markdown/magic_items/uncommon/elemental_gem.md
+ 11581  11585  markdown/magic_items/rare/elven_chain.md
+ 11587  11593  markdown/magic_items/uncommon/eversmoking_bottle.md
+ 11595  11601  markdown/magic_items/uncommon/eyes_of_charming.md
+ 11603  11607  markdown/magic_items/uncommon/eyes_of_minute_seeing.md
+ 11609  11613  markdown/magic_items/uncommon/eyes_of_the_eagle.md
+ 11615  11634  markdown/magic_items/rare/feather_token.md
+ 11636  11676  markdown/magic_items/figurine_of_wondrous_power.md
+ 11678  11682  markdown/magic_items/rare/flame_tongue.md
+ 11684  11696  markdown/magic_items/rare/folding_boat.md
+ 11698  11706  markdown/magic_items/very_rare/frost_brand.md
+ 11708  11712  markdown/magic_items/uncommon/gauntlets_of_ogre_power.md
+ 11714  11724  markdown/magic_items/uncommon/gem_of_brightness.md
+ 11726  11732  markdown/magic_items/rare/gem_of_seeing.md
+ 11734  11740  markdown/magic_items/rare/giant_slayer.md
+ 11742  11746  markdown/magic_items/rare/glamoured_studded_leather.md
+ 11748  11752  markdown/magic_items/uncommon/gloves_of_missile_snaring.md
+ 11754  11758  markdown/magic_items/uncommon/gloves_of_swimming_and_climbing.md
+ 11760  11764  markdown/magic_items/uncommon/goggles_of_night.md
+ 11766  11774  markdown/magic_items/legendary/hammer_of_thunderbolts.md
+ 11776  11786  markdown/magic_items/rare/handy_haversack.md
+ 11788  11792  markdown/magic_items/uncommon/hat_of_disguise.md
+ 11794  11798  markdown/magic_items/uncommon/headband_of_intellect.md
+ 11800  11815  markdown/magic_items/very_rare/helm_of_brilliance.md
+ 11817  11821  markdown/magic_items/uncommon/helm_of_comprehending_languages.md
+ 11823  11829  markdown/magic_items/uncommon/helm_of_telepathy.md
+ 11831  11835  markdown/magic_items/rare/helm_of_teleportation.md
+ 11837  11843  markdown/magic_items/legendary/holy_avenger.md
+ 11845  11851  markdown/magic_items/rare/horn_of_blasting.md
+ 11853  11868  markdown/magic_items/horn_of_valhalla.md
+ 11870  11874  markdown/magic_items/very_rare/horseshoes_of_a_zephyr.md
+ 11876  11880  markdown/magic_items/rare/horseshoes_of_speed.md
+ 11882  11886  markdown/magic_items/uncommon/immovable_rod.md
+ 11888  11898  markdown/magic_items/rare/instant_fortress.md
+ 11900  11934  markdown/magic_items/ioun_stone.md
+ 11936  11946  markdown/magic_items/rare/iron_bands_of_binding.md
+ 11948  11979  markdown/magic_items/legendary/iron_flask.md
+ 11981  11987  markdown/magic_items/uncommon/javelin_of_lightning.md
+ 11989  11993  markdown/magic_items/uncommon/lantern_of_revealing.md
+ 11995  12002  markdown/magic_items/legendary/luck_blade.md
+ 12004  12010  markdown/magic_items/rare/mace_of_disruption.md
+ 12012  12018  markdown/magic_items/rare/mace_of_smiting.md
+ 12020  12026  markdown/magic_items/rare/mace_of_terror.md
+ 12028  12032  markdown/magic_items/rare/mantle_of_spell_resistance.md
+ 12034  12038  markdown/magic_items/very_rare/manual_of_bodily_health.md
+ 12040  12044  markdown/magic_items/very_rare/manual_of_gainful_exercise.md
+ 12046  12061  markdown/magic_items/very_rare/manual_of_golems.md
+ 12063  12067  markdown/magic_items/very_rare/manual_of_quickness_of_action.md
+ 12069  12081  markdown/magic_items/very_rare/marvelous_pigments.md
+ 12083  12087  markdown/magic_items/uncommon/medallion_of_thoughts.md
+ 12089  12105  markdown/magic_items/very_rare/mirror_of_life_trapping.md
+ 12107  12111  markdown/magic_items/uncommon/mithral_armor.md
+ 12113  12117  markdown/magic_items/uncommon/necklace_of_adaptation.md
+ 12119  12125  markdown/magic_items/rare/necklace_of_fireballs.md
+ 12127  12142  markdown/magic_items/rare/necklace_of_prayer_beads.md
+ 12144  12150  markdown/magic_items/very_rare/nine_lives_stealer.md
+ 12152  12160  markdown/magic_items/very_rare/oathbow.md
+ 12162  12166  markdown/magic_items/rare/oil_of_etherealness.md
+ 12168  12172  markdown/magic_items/very_rare/oil_of_sharpness.md
+ 12174  12180  markdown/magic_items/uncommon/oil_of_slipperiness.md
+ 12182  12186  markdown/magic_items/uncommon/pearl_of_power.md
+ 12188  12192  markdown/magic_items/uncommon/periapt_of_health.md
+ 12194  12198  markdown/magic_items/rare/periapt_of_proof_against_poison.md
+ 12200  12204  markdown/magic_items/uncommon/periapt_of_wound_closure.md
+ 12206  12210  markdown/magic_items/uncommon/philter_of_love.md
+ 12212  12216  markdown/magic_items/uncommon/pipes_of_haunting.md
+ 12218  12226  markdown/magic_items/uncommon/pipes_of_the_sewers.md
+ 12228  12232  markdown/magic_items/legendary/plate_armor_of_etherealness.md
+ 12234  12246  markdown/magic_items/rare/portable_hole.md
+ 12248  12252  markdown/magic_items/uncommon/potion_of_animal_friendship.md
+ 12254  12258  markdown/magic_items/rare/potion_of_clairvoyance.md
+ 12260  12264  markdown/magic_items/common/potion_of_climbing.md
+ 12266  12270  markdown/magic_items/rare/potion_of_diminution.md
+ 12272  12276  markdown/magic_items/very_rare/potion_of_flying.md
+ 12278  12282  markdown/magic_items/rare/potion_of_gaseous_form.md
+ 12284  12298  markdown/magic_items/potion_of_giant_strength.md
+ 12300  12304  markdown/magic_items/uncommon/potion_of_growth.md
+ 12306  12321  markdown/magic_items/potion_of_healing.md
+ 12323  12327  markdown/magic_items/rare/potion_of_heroism.md
+ 12329  12333  markdown/magic_items/very_rare/potion_of_invisibility.md
+ 12335  12339  markdown/magic_items/rare/potion_of_mind_reading.md
+ 12341  12347  markdown/magic_items/uncommon/potion_of_poison.md
+ 12349  12361  markdown/magic_items/uncommon/potion_of_resistance.md
+ 12363  12367  markdown/magic_items/very_rare/potion_of_speed.md
+ 12369  12373  markdown/magic_items/uncommon/potion_of_water_breathing.md
+ 12375  12381  markdown/magic_items/uncommon/restorative_ointment.md
+ 12383  12391  markdown/magic_items/rare/ring_of_animal_influence.md
+ 12393  12401  markdown/magic_items/legendary/ring_of_djinni_summoning.md
+ 12403  12441  markdown/magic_items/legendary/ring_of_elemental_command.md
+ 12443  12447  markdown/magic_items/rare/ring_of_evasion.md
+ 12449  12453  markdown/magic_items/rare/ring_of_feather_falling.md
+ 12455  12459  markdown/magic_items/rare/ring_of_free_action.md
+ 12461  12465  markdown/magic_items/legendary/ring_of_invisibility.md
+ 12467  12471  markdown/magic_items/uncommon/ring_of_jumping.md
+ 12473  12481  markdown/magic_items/uncommon/ring_of_mind_shielding.md
+ 12483  12487  markdown/magic_items/rare/ring_of_protection.md
+ 12489  12493  markdown/magic_items/very_rare/ring_of_regeneration.md
+ 12495  12512  markdown/magic_items/rare/ring_of_resistance.md
+ 12514  12536  markdown/magic_items/very_rare/ring_of_shooting_stars.md
+ 12538  12546  markdown/magic_items/rare/ring_of_spell_storing.md
+ 12548  12552  markdown/magic_items/legendary/ring_of_spell_turning.md
+ 12554  12558  markdown/magic_items/uncommon/ring_of_swimming.md
+ 12560  12564  markdown/magic_items/very_rare/ring_of_telekinesis.md
+ 12566  12572  markdown/magic_items/rare/ring_of_the_ram.md
+ 12574  12578  markdown/magic_items/legendary/ring_of_three_wishes.md
+ 12580  12584  markdown/magic_items/uncommon/ring_of_warmth.md
+ 12586  12590  markdown/magic_items/uncommon/ring_of_water_walking.md
+ 12592  12598  markdown/magic_items/rare/ring_of_x_ray_vision.md
+ 12600  12612  markdown/magic_items/rare/robe_of_eyes.md
+ 12614  12618  markdown/magic_items/very_rare/robe_of_scintillating_colors.md
+ 12620  12628  markdown/magic_items/very_rare/robe_of_stars.md
+ 12630  12640  markdown/magic_items/legendary/robe_of_the_archmagi.md
+ 12642  12673  markdown/magic_items/uncommon/robe_of_useful_items.md
+ 12675  12685  markdown/magic_items/very_rare/rod_of_absorption.md
+ 12687  12697  markdown/magic_items/very_rare/rod_of_alertness.md
+ 12699  12721  markdown/magic_items/legendary/rod_of_lordly_might.md
+ 12723  12727  markdown/magic_items/rare/rod_of_rulership.md
+ 12729  12737  markdown/magic_items/very_rare/rod_of_security.md
+ 12739  12747  markdown/magic_items/uncommon/rope_of_climbing.md
+ 12749  12757  markdown/magic_items/rare/rope_of_entanglement.md
+ 12759  12766  markdown/magic_items/legendary/scarab_of_protection.md
+ 12768  12772  markdown/magic_items/very_rare/scimitar_of_speed.md
+ 12774  12778  markdown/magic_items/shield_1_2_or_3.md
+ 12780  12786  markdown/magic_items/rare/shield_of_missile_attraction.md
+ 12788  12792  markdown/magic_items/uncommon/slippers_of_spider_climbing.md
+ 12794  12800  markdown/magic_items/legendary/sovereign_glue.md
+ 12802  12827  markdown/magic_items/spell_scroll.md
+ 12829  12833  markdown/magic_items/very_rare/spellguard_shield.md
+ 12835  12856  markdown/magic_items/legendary/sphere_of_annihilation.md
+ 12858  12866  markdown/magic_items/rare/staff_of_charming.md
+ 12868  12876  markdown/magic_items/very_rare/staff_of_fire.md
+ 12878  12886  markdown/magic_items/very_rare/staff_of_frost.md
+ 12888  12894  markdown/magic_items/rare/staff_of_healing.md
+ 12896  12914  markdown/magic_items/very_rare/staff_of_power.md
+ 12916  12922  markdown/magic_items/very_rare/staff_of_striking.md
+ 12924  12931  markdown/magic_items/rare/staff_of_swarming_insects.md
+ 12933  12956  markdown/magic_items/legendary/staff_of_the_magi.md
+ 12958  12966  markdown/magic_items/uncommon/staff_of_the_python.md
+ 12968  12980  markdown/magic_items/rare/staff_of_the_woodlands.md
+ 12982  12995  markdown/magic_items/very_rare/staff_of_thunder_and_lightning.md
+ 12997  13003  markdown/magic_items/rare/staff_of_withering.md
+ 13005  13009  markdown/magic_items/rare/stone_of_controlling_earth_elementals.md
+ 13011  13015  markdown/magic_items/uncommon/stone_of_good_luck_luckstone.md
+ 13017  13025  markdown/magic_items/rare/sun_blade.md
+ 13027  13031  markdown/magic_items/rare/sword_of_life_stealing.md
+ 13033  13041  markdown/magic_items/very_rare/sword_of_sharpness.md
+ 13043  13051  markdown/magic_items/rare/sword_of_wounding.md
+ 13053  13061  markdown/magic_items/legendary/talisman_of_pure_good.md
+ 13063  13067  markdown/magic_items/legendary/talisman_of_the_sphere.md
+ 13069  13077  markdown/magic_items/legendary/talisman_of_ultimate_evil.md
+ 13079  13083  markdown/magic_items/very_rare/tome_of_clear_thought.md
+ 13085  13089  markdown/magic_items/very_rare/tome_of_leadership_and_influence.md
+ 13091  13095  markdown/magic_items/very_rare/tome_of_understanding.md
+ 13097  13101  markdown/magic_items/uncommon/trident_of_fish_command.md
+ 13103  13107  markdown/magic_items/legendary/universal_solvent.md
+ 13109  13113  markdown/magic_items/rare/vicious_weapon.md
+ 13115  13121  markdown/magic_items/legendary/vorpal_sword.md
+ 13123  13130  markdown/magic_items/rare/wand_of_binding.md
+ 13132  13138  markdown/magic_items/rare/wand_of_enemy_detection.md
+ 13140  13147  markdown/magic_items/rare/wand_of_fear.md
+ 13149  13155  markdown/magic_items/rare/wand_of_fireballs.md
+ 13157  13163  markdown/magic_items/rare/wand_of_lightning_bolts.md
+ 13165  13169  markdown/magic_items/uncommon/wand_of_magic_detection.md
+ 13171  13177  markdown/magic_items/uncommon/wand_of_magic_missiles.md
+ 13179  13185  markdown/magic_items/rare/wand_of_paralysis.md
+ 13187  13193  markdown/magic_items/very_rare/wand_of_polymorph.md
+ 13195  13199  markdown/magic_items/uncommon/wand_of_secrets.md
+ 13201  13205  markdown/magic_items/wand_of_the_war_mage_1_2_or_3.md
+ 13207  13213  markdown/magic_items/uncommon/wand_of_web.md
+ 13215  13254  markdown/magic_items/rare/wand_of_wonder.md
+ 13256  13260  markdown/magic_items/weapon_1_2_or_3.md
+ 13262  13268  markdown/magic_items/legendary/well_of_many_worlds.md
+ 13270  13274  markdown/magic_items/uncommon/wind_fan.md
+ 13276  13282  markdown/magic_items/uncommon/winged_boots.md
+ 13284  13288  markdown/magic_items/rare/wings_of_flying.md
+ 13290  13375  markdown/magic_items/sentient_magic_items.md - 0
 
- 13396  13423  markdown/magic_items/artifact/orb_of_dragonkind.md -
+ 13379  13406  markdown/magic_items/artifact/orb_of_dragonkind.md -
 
- 13425  13744  markdown/statblocks/monsters.md   0
- 13746  13766  markdown/statblocks/legendary.md -
+ 13408  13727  markdown/statblocks/monsters.md   0
+ 13729  13749  markdown/statblocks/legendary.md -
 
    # monsters, a
                @adjust 2
- 13770  13809  markdown/statblocks/aboleth.md -
- 13813  13850  markdown/statblocks/deva.md                     # angels
- 13852  13888  markdown/statblocks/planetar.md
- 13890  13937  markdown/statblocks/solar.md -
- 13941  13967  markdown/statblocks/animated_armor.md           # animated
- 13969  13995  markdown/statblocks/flying_sword.md
- 13997  14023  markdown/statblocks/rug_of_smothering.md -
- 14025  14044  markdown/statblocks/ankheg.md
- 14046  14073  markdown/statblocks/azer.md -
+ 13753  13792  markdown/statblocks/aboleth.md -
+ 13796  13833  markdown/statblocks/deva.md                     # angels
+ 13835  13871  markdown/statblocks/planetar.md
+ 13873  13920  markdown/statblocks/solar.md -
+ 13924  13950  markdown/statblocks/animated_armor.md           # animated
+ 13952  13978  markdown/statblocks/flying_sword.md
+ 13980  14006  markdown/statblocks/rug_of_smothering.md -
+ 14008  14027  markdown/statblocks/ankheg.md
+ 14029  14056  markdown/statblocks/azer.md -
 
    # monsters, b
- 14077  14103  markdown/statblocks/basilisk.md
- 14105  14131  markdown/statblocks/behir.md
- 14133  14158  markdown/statblocks/bugbear.md
- 14160  14184  markdown/statblocks/bulette.md -
+ 14060  14086  markdown/statblocks/basilisk.md
+ 14088  14114  markdown/statblocks/behir.md
+ 14116  14141  markdown/statblocks/bugbear.md
+ 14143  14167  markdown/statblocks/bulette.md -
 
    # monsters, c
- 14188  14214  markdown/statblocks/centaur.md
- 14216  14239  markdown/statblocks/chimera.md
- 14241  14269  markdown/statblocks/chuul.md
- 14271  14304  markdown/statblocks/cloaker.md
- 14306  14324  markdown/statblocks/cockatrice.md
- 14326  14362  markdown/statblocks/couatl.md -
+ 14171  14197  markdown/statblocks/centaur.md
+ 14199  14222  markdown/statblocks/chimera.md
+ 14224  14252  markdown/statblocks/chuul.md
+ 14254  14287  markdown/statblocks/cloaker.md
+ 14289  14307  markdown/statblocks/cockatrice.md
+ 14309  14345  markdown/statblocks/couatl.md -
 
    # monsters, d
- 14366  14396  markdown/statblocks/darkmantle.md -
- 14400  14432  markdown/statblocks/balor.md                    # demons
- 14434  14458  markdown/statblocks/dretch.md
- 14460  14493  markdown/statblocks/glabrezu.md
- 14495  14524  markdown/statblocks/hezrou.md
- 14526  14561  markdown/statblocks/marilith.md
- 14563  14593  markdown/statblocks/nalfeshnee.md
- 14595  14624  markdown/statblocks/quasit.md
- 14626  14656  markdown/statblocks/vrock.md -
- 14660  14692  markdown/statblocks/barbed_devil.md             # devils
- 14694  14724  markdown/statblocks/bearded_devil.md
- 14726  14756  markdown/statblocks/bone_devil.md
- 14758  14793  markdown/statblocks/chain_devil.md
- 14795  14828  markdown/statblocks/erinyes.md
- 14830  14860  markdown/statblocks/horned_devil.md
- 14862  14897  markdown/statblocks/ice_devil.md
- 14899  14928  markdown/statblocks/imp.md
- 14930  14956  markdown/statblocks/lemure.md
- 14958  14994  markdown/statblocks/pit_fiend.md -
- 14998  15021  markdown/statblocks/plesiosaurus.md             # dinos
- 15023  15046  markdown/statblocks/triceratops.md
- 15048  15069  markdown/statblocks/tyrannosaurus_rex.md -
- 15071  15099  markdown/statblocks/doppelganger.md -
- 15105  15144  markdown/statblocks/ancient_black_dragon.md     # dragons, chromatic, black
- 15146  15185  markdown/statblocks/adult_black_dragon.md
- 15187  15215  markdown/statblocks/young_black_dragon.md
- 15217  15243  markdown/statblocks/black_dragon_wyrmling.md -
- 15247  15285  markdown/statblocks/ancient_blue_dragon.md      # dragons, chromatic, blue
- 15287  15325  markdown/statblocks/adult_blue_dragon.md
- 15327  15351  markdown/statblocks/young_blue_dragon.md
- 15353  15375  markdown/statblocks/blue_dragon_wyrmling.md -
- 15379  15419  markdown/statblocks/ancient_green_dragon.md     # dragons, chromatic, green
- 15421  15461  markdown/statblocks/adult_green_dragon.md
- 15463  15492  markdown/statblocks/young_green_dragon.md
- 15494  15521  markdown/statblocks/green_dragon_wyrmling.md -
- 15525  15563  markdown/statblocks/ancient_red_dragon.md       # dragons, chromatic, red
- 15565  15603  markdown/statblocks/adult_red_dragon.md
- 15605  15629  markdown/statblocks/young_red_dragon.md
- 15631  15653  markdown/statblocks/red_dragon_wyrmling.md -
- 15657  15696  markdown/statblocks/ancient_white_dragon.md     # dragons, chromatic, white
- 15698  15737  markdown/statblocks/adult_white_dragon.md
- 15739  15767  markdown/statblocks/young_white_dragon.md
- 15769  15791  markdown/statblocks/white_dragon_wyrmling.md -
- 15797  15840  markdown/statblocks/ancient_brass_dragon.md     # dragons, metallic, brass
- 15842  15882  markdown/statblocks/adult_brass_dragon.md
- 15884  15910  markdown/statblocks/young_brass_dragon.md
- 15912  15936  markdown/statblocks/brass_dragon_wyrmling.md -
- 15940  15984  markdown/statblocks/ancient_bronze_dragon.md    # dragons, metallic, bronze
- 15986  16030  markdown/statblocks/adult_bronze_dragon.md
- 16032  16062  markdown/statblocks/young_bronze_dragon.md
- 16064  16092  markdown/statblocks/bronze_dragon_wyrmling.md -
- 16096  16139  markdown/statblocks/ancient_copper_dragon.md    # dragons, metallic, copper
- 16141  16181  markdown/statblocks/adult_copper_dragon.md
- 16183  16209  markdown/statblocks/young_copper_dragon.md
- 16211  16235  markdown/statblocks/copper_dragon_wyrmling.md -
- 16239  16283  markdown/statblocks/ancient_gold_dragon.md      # dragons, metallic, gold
- 16285  16329  markdown/statblocks/adult_gold_dragon.md
- 16331  16361  markdown/statblocks/young_gold_dragon.md
- 16363  16391  markdown/statblocks/gold_dragon_wyrmling.md -
- 16395  16438  markdown/statblocks/ancient_silver_dragon.md    # dragons, metallic, silver
- 16440  16483  markdown/statblocks/adult_silver_dragon.md
- 16485  16511  markdown/statblocks/young_silver_dragon.md
- 16513  16537  markdown/statblocks/silver_dragon_wyrmling.md -
- 16539  16567  markdown/statblocks/dragon_turtle.md -
- 16569  16603  markdown/statblocks/drider.md
- 16605  16641  markdown/statblocks/dryad.md
- 16643  16670  markdown/statblocks/duergar.md -
+ 14349  14379  markdown/statblocks/darkmantle.md -
+ 14383  14415  markdown/statblocks/balor.md                    # demons
+ 14417  14441  markdown/statblocks/dretch.md
+ 14443  14476  markdown/statblocks/glabrezu.md
+ 14478  14507  markdown/statblocks/hezrou.md
+ 14509  14544  markdown/statblocks/marilith.md
+ 14546  14576  markdown/statblocks/nalfeshnee.md
+ 14578  14607  markdown/statblocks/quasit.md
+ 14609  14639  markdown/statblocks/vrock.md -
+ 14643  14675  markdown/statblocks/barbed_devil.md             # devils
+ 14677  14707  markdown/statblocks/bearded_devil.md
+ 14709  14739  markdown/statblocks/bone_devil.md
+ 14741  14776  markdown/statblocks/chain_devil.md
+ 14778  14811  markdown/statblocks/erinyes.md
+ 14813  14843  markdown/statblocks/horned_devil.md
+ 14845  14880  markdown/statblocks/ice_devil.md
+ 14882  14911  markdown/statblocks/imp.md
+ 14913  14939  markdown/statblocks/lemure.md
+ 14941  14977  markdown/statblocks/pit_fiend.md -
+ 14981  15004  markdown/statblocks/plesiosaurus.md             # dinos
+ 15006  15029  markdown/statblocks/triceratops.md
+ 15031  15052  markdown/statblocks/tyrannosaurus_rex.md -
+ 15054  15082  markdown/statblocks/doppelganger.md -
+ 15088  15127  markdown/statblocks/ancient_black_dragon.md     # dragons, chromatic, black
+ 15129  15168  markdown/statblocks/adult_black_dragon.md
+ 15170  15198  markdown/statblocks/young_black_dragon.md
+ 15200  15226  markdown/statblocks/black_dragon_wyrmling.md -
+ 15230  15268  markdown/statblocks/ancient_blue_dragon.md      # dragons, chromatic, blue
+ 15270  15308  markdown/statblocks/adult_blue_dragon.md
+ 15310  15334  markdown/statblocks/young_blue_dragon.md
+ 15336  15358  markdown/statblocks/blue_dragon_wyrmling.md -
+ 15362  15402  markdown/statblocks/ancient_green_dragon.md     # dragons, chromatic, green
+ 15404  15444  markdown/statblocks/adult_green_dragon.md
+ 15446  15475  markdown/statblocks/young_green_dragon.md
+ 15477  15504  markdown/statblocks/green_dragon_wyrmling.md -
+ 15508  15546  markdown/statblocks/ancient_red_dragon.md       # dragons, chromatic, red
+ 15548  15586  markdown/statblocks/adult_red_dragon.md
+ 15588  15612  markdown/statblocks/young_red_dragon.md
+ 15614  15636  markdown/statblocks/red_dragon_wyrmling.md -
+ 15640  15679  markdown/statblocks/ancient_white_dragon.md     # dragons, chromatic, white
+ 15681  15720  markdown/statblocks/adult_white_dragon.md
+ 15722  15750  markdown/statblocks/young_white_dragon.md
+ 15752  15774  markdown/statblocks/white_dragon_wyrmling.md -
+ 15780  15823  markdown/statblocks/ancient_brass_dragon.md     # dragons, metallic, brass
+ 15825  15865  markdown/statblocks/adult_brass_dragon.md
+ 15867  15893  markdown/statblocks/young_brass_dragon.md
+ 15895  15919  markdown/statblocks/brass_dragon_wyrmling.md -
+ 15923  15967  markdown/statblocks/ancient_bronze_dragon.md    # dragons, metallic, bronze
+ 15969  16013  markdown/statblocks/adult_bronze_dragon.md
+ 16015  16045  markdown/statblocks/young_bronze_dragon.md
+ 16047  16075  markdown/statblocks/bronze_dragon_wyrmling.md -
+ 16079  16122  markdown/statblocks/ancient_copper_dragon.md    # dragons, metallic, copper
+ 16124  16164  markdown/statblocks/adult_copper_dragon.md
+ 16166  16192  markdown/statblocks/young_copper_dragon.md
+ 16194  16218  markdown/statblocks/copper_dragon_wyrmling.md -
+ 16222  16266  markdown/statblocks/ancient_gold_dragon.md      # dragons, metallic, gold
+ 16268  16312  markdown/statblocks/adult_gold_dragon.md
+ 16314  16344  markdown/statblocks/young_gold_dragon.md
+ 16346  16374  markdown/statblocks/gold_dragon_wyrmling.md -
+ 16378  16421  markdown/statblocks/ancient_silver_dragon.md    # dragons, metallic, silver
+ 16423  16466  markdown/statblocks/adult_silver_dragon.md
+ 16468  16494  markdown/statblocks/young_silver_dragon.md
+ 16496  16520  markdown/statblocks/silver_dragon_wyrmling.md -
+ 16522  16550  markdown/statblocks/dragon_turtle.md -
+ 16552  16586  markdown/statblocks/drider.md
+ 16588  16624  markdown/statblocks/dryad.md
+ 16626  16653  markdown/statblocks/duergar.md -
 
    # monsters, e
- 16676  16705  markdown/statblocks/air_elemental.md            # elementals
- 16707  16735  markdown/statblocks/earth_elemental.md
- 16737  16765  markdown/statblocks/fire_elemental.md
- 16767  16797  markdown/statblocks/water_elemental.md -
- 16799  16829  markdown/statblocks/elf_drow.md
- 16831  16859  markdown/statblocks/ettercap.md
- 16861  16887  markdown/statblocks/ettin.md -
+ 16659  16688  markdown/statblocks/air_elemental.md            # elementals
+ 16690  16718  markdown/statblocks/earth_elemental.md
+ 16720  16748  markdown/statblocks/fire_elemental.md
+ 16750  16780  markdown/statblocks/water_elemental.md -
+ 16782  16812  markdown/statblocks/elf_drow.md
+ 16814  16842  markdown/statblocks/ettercap.md
+ 16844  16870  markdown/statblocks/ettin.md -
 
    # monsters, f
- 16893  16916  markdown/statblocks/shrieker.md                 # fungi
- 16918  16942  markdown/statblocks/violet_fungus.md -
+ 16876  16899  markdown/statblocks/shrieker.md                 # fungi
+ 16901  16925  markdown/statblocks/violet_fungus.md -
 
    # monsters, g
- 16946  16973  markdown/statblocks/gargoyle.md -
- 16977  17010  markdown/statblocks/djinni.md                   # genies
- 17012  17043  markdown/statblocks/efreeti.md -
- 17045  17076  markdown/statblocks/ghost.md -
- 17080  17107  markdown/statblocks/ghast.md                    # ghouls
- 17109  17130  markdown/statblocks/ghoul.md -
- 17134  17164  markdown/statblocks/cloud_giant.md              # giants
- 17166  17189  markdown/statblocks/fire_giant.md
- 17191  17214  markdown/statblocks/frost_giant.md
- 17216  17237  markdown/statblocks/hill_giant.md
- 17239  17269  markdown/statblocks/stone_giant.md
- 17271  17304  markdown/statblocks/storm_giant.md -
- 17306  17332  markdown/statblocks/gibbering_mouther.md
- 17334  17358  markdown/statblocks/gnoll.md
- 17360  17389  markdown/statblocks/gnome_deep_svirfneblin.md
- 17391  17415  markdown/statblocks/goblin.md -
- 17419  17449  markdown/statblocks/clay_golem.md               # golems
- 17451  17484  markdown/statblocks/flesh_golem.md
- 17486  17516  markdown/statblocks/iron_golem.md
- 17518  17546  markdown/statblocks/stone_golem.md -
- 17548  17574  markdown/statblocks/gorgon.md
- 17576  17601  markdown/statblocks/grick.md
- 17603  17628  markdown/statblocks/griffon.md
- 17630  17655  markdown/statblocks/grimlock.md -
+ 16929  16956  markdown/statblocks/gargoyle.md -
+ 16960  16993  markdown/statblocks/djinni.md                   # genies
+ 16995  17026  markdown/statblocks/efreeti.md -
+ 17028  17059  markdown/statblocks/ghost.md -
+ 17063  17090  markdown/statblocks/ghast.md                    # ghouls
+ 17092  17113  markdown/statblocks/ghoul.md -
+ 17117  17147  markdown/statblocks/cloud_giant.md              # giants
+ 17149  17172  markdown/statblocks/fire_giant.md
+ 17174  17197  markdown/statblocks/frost_giant.md
+ 17199  17220  markdown/statblocks/hill_giant.md
+ 17222  17252  markdown/statblocks/stone_giant.md
+ 17254  17287  markdown/statblocks/storm_giant.md -
+ 17289  17315  markdown/statblocks/gibbering_mouther.md
+ 17317  17341  markdown/statblocks/gnoll.md
+ 17343  17372  markdown/statblocks/gnome_deep_svirfneblin.md
+ 17374  17398  markdown/statblocks/goblin.md -
+ 17402  17432  markdown/statblocks/clay_golem.md               # golems
+ 17434  17467  markdown/statblocks/flesh_golem.md
+ 17469  17499  markdown/statblocks/iron_golem.md
+ 17501  17529  markdown/statblocks/stone_golem.md -
+ 17531  17557  markdown/statblocks/gorgon.md
+ 17559  17584  markdown/statblocks/grick.md
+ 17586  17611  markdown/statblocks/griffon.md
+ 17613  17638  markdown/statblocks/grimlock.md -
 
    # monsters, h
- 17661  17694  markdown/statblocks/green_hag.md                # hags
- 17696  17729  markdown/statblocks/night_hag.md
- 17731  17760  markdown/statblocks/sea_hag.md -
- 17762  17811  markdown/statblocks/half_dragon.md
- 17813  17838  markdown/statblocks/harpy.md
- 17840  17866  markdown/statblocks/hell_hound.md
- 17868  17893  markdown/statblocks/hippogriff.md
- 17895  17918  markdown/statblocks/hobgoblin.md
- 17920  17944  markdown/statblocks/homunculus.md
- 17946  17978  markdown/statblocks/hydra.md -
+ 17644  17677  markdown/statblocks/green_hag.md                # hags
+ 17679  17712  markdown/statblocks/night_hag.md
+ 17714  17743  markdown/statblocks/sea_hag.md -
+ 17745  17794  markdown/statblocks/half_dragon.md
+ 17796  17821  markdown/statblocks/harpy.md
+ 17823  17849  markdown/statblocks/hell_hound.md
+ 17851  17876  markdown/statblocks/hippogriff.md
+ 17878  17901  markdown/statblocks/hobgoblin.md
+ 17903  17927  markdown/statblocks/homunculus.md
+ 17929  17961  markdown/statblocks/hydra.md -
 
    # monsters, i
- 17982  18010  markdown/statblocks/invisible_stalker.md -
+ 17965  17993  markdown/statblocks/invisible_stalker.md -
 
    # monsters, k
- 18014  18038  markdown/statblocks/kobold.md
- 18040  18082  markdown/statblocks/kraken.md -
+ 17997  18021  markdown/statblocks/kobold.md
+ 18023  18065  markdown/statblocks/kraken.md -
 
    # monsters, l
- 18086  18116  markdown/statblocks/lamia.md
- 18118  18169  markdown/statblocks/lich.md
- 18171  18198  markdown/statblocks/lizardfolk.md -
- 18202  18230  markdown/statblocks/werebear.md                 # lycanthropes
- 18232  18260  markdown/statblocks/wereboar.md
- 18262  18288  markdown/statblocks/wererat.md
- 18290  18320  markdown/statblocks/weretiger.md
- 18322  18350  markdown/statblocks/werewolf.md -
+ 18069  18099  markdown/statblocks/lamia.md
+ 18101  18152  markdown/statblocks/lich.md
+ 18154  18181  markdown/statblocks/lizardfolk.md -
+ 18185  18213  markdown/statblocks/werebear.md                 # lycanthropes
+ 18215  18243  markdown/statblocks/wereboar.md
+ 18245  18271  markdown/statblocks/wererat.md
+ 18273  18303  markdown/statblocks/weretiger.md
+ 18305  18333  markdown/statblocks/werewolf.md -
 
    # monsters, m
- 18354  18379  markdown/statblocks/magmin.md
- 18381  18406  markdown/statblocks/manticore.md
- 18408  18438  markdown/statblocks/medusa.md -
- 18442  18470  markdown/statblocks/dust_mephit.md              # mephits
- 18472  18501  markdown/statblocks/ice_mephit.md
- 18503  18532  markdown/statblocks/magma_mephit.md
- 18534  18560  markdown/statblocks/steam_mephit.md -
- 18562  18585  markdown/statblocks/merfolk.md
- 18587  18612  markdown/statblocks/merrow.md
- 18614  18643  markdown/statblocks/mimic.md
- 18645  18671  markdown/statblocks/minotaur.md -
- 18675  18700  markdown/statblocks/mummy.md                    # mummies
- 18702  18751  markdown/statblocks/mummy_lord.md -
+ 18337  18362  markdown/statblocks/magmin.md
+ 18364  18389  markdown/statblocks/manticore.md
+ 18391  18421  markdown/statblocks/medusa.md -
+ 18425  18453  markdown/statblocks/dust_mephit.md              # mephits
+ 18455  18484  markdown/statblocks/ice_mephit.md
+ 18486  18515  markdown/statblocks/magma_mephit.md
+ 18517  18543  markdown/statblocks/steam_mephit.md -
+ 18545  18568  markdown/statblocks/merfolk.md
+ 18570  18595  markdown/statblocks/merrow.md
+ 18597  18626  markdown/statblocks/mimic.md
+ 18628  18654  markdown/statblocks/minotaur.md -
+ 18658  18683  markdown/statblocks/mummy.md                    # mummies
+ 18685  18734  markdown/statblocks/mummy_lord.md -
 
    # monsters, n
- 18757  18792  markdown/statblocks/guardian_naga.md            # nagas
- 18794  18823  markdown/statblocks/spirit_naga.md -
- 18825  18850  markdown/statblocks/nightmare.md -
+ 18740  18775  markdown/statblocks/guardian_naga.md            # nagas
+ 18777  18806  markdown/statblocks/spirit_naga.md -
+ 18808  18833  markdown/statblocks/nightmare.md -
 
    # monsters, o
- 18854  18873  markdown/statblocks/ogre.md
- 18875  18908  markdown/statblocks/oni.md -
- 18912  18945  markdown/statblocks/black_pudding.md            # oozes
- 18947  18985  markdown/statblocks/gelatinous_cube.md
- 18987  19017  markdown/statblocks/gray_ooze.md
- 19019  19049  markdown/statblocks/ochre_jelly.md -
- 19051  19075  markdown/statblocks/orc.md
- 19077  19103  markdown/statblocks/otyugh.md
- 19105  19130  markdown/statblocks/owlbear.md -
+ 18837  18856  markdown/statblocks/ogre.md
+ 18858  18891  markdown/statblocks/oni.md -
+ 18895  18928  markdown/statblocks/black_pudding.md            # oozes
+ 18930  18968  markdown/statblocks/gelatinous_cube.md
+ 18970  19000  markdown/statblocks/gray_ooze.md
+ 19002  19032  markdown/statblocks/ochre_jelly.md -
+ 19034  19058  markdown/statblocks/orc.md
+ 19060  19086  markdown/statblocks/otyugh.md
+ 19088  19113  markdown/statblocks/owlbear.md -
 
    # monsters, p
- 19134  19154  markdown/statblocks/pegasus.md
- 19156  19182  markdown/statblocks/pseudodragon.md
- 19184  19212  markdown/statblocks/purple_worm.md -
+ 19117  19137  markdown/statblocks/pegasus.md
+ 19139  19165  markdown/statblocks/pseudodragon.md
+ 19167  19195  markdown/statblocks/purple_worm.md -
 
    # monsters, r
- 19216  19247  markdown/statblocks/rakshasa.md
- 19249  19275  markdown/statblocks/remorhaz.md
- 19277  19303  markdown/statblocks/roc.md
- 19305  19333  markdown/statblocks/roper.md
- 19335  19361  markdown/statblocks/rust_monster.md -
+ 19199  19230  markdown/statblocks/rakshasa.md
+ 19232  19258  markdown/statblocks/remorhaz.md
+ 19260  19286  markdown/statblocks/roc.md
+ 19288  19316  markdown/statblocks/roper.md
+ 19318  19344  markdown/statblocks/rust_monster.md -
 
    # monsters, s
- 19365  19393  markdown/statblocks/sahuagin.md
- 19395  19423  markdown/statblocks/salamander.md
- 19425  19450  markdown/statblocks/satyr.md
- 19452  19483  markdown/statblocks/shadow.md
- 19485  19513  markdown/statblocks/shambling_mound.md
- 19515  19546  markdown/statblocks/shield_guardian.md -
- 19550  19572  markdown/statblocks/skeleton.md                 # skeletons
- 19574  19600  markdown/statblocks/minotaur_skeleton.md
- 19602  19623  markdown/statblocks/warhorse_skeleton.md -
- 19625  19651  markdown/statblocks/specter.md  -
- 19655  19703  markdown/statblocks/androsphinx.md              # sphinxes
- 19705  19745  markdown/statblocks/gynosphinx.md -
- 19747  19769  markdown/statblocks/sprite.md
- 19771  19791  markdown/statblocks/stirge.md
- 19793  19824  markdown/statblocks/succubus_incubus.md -
+ 19348  19376  markdown/statblocks/sahuagin.md
+ 19378  19406  markdown/statblocks/salamander.md
+ 19408  19433  markdown/statblocks/satyr.md
+ 19435  19466  markdown/statblocks/shadow.md
+ 19468  19496  markdown/statblocks/shambling_mound.md
+ 19498  19529  markdown/statblocks/shield_guardian.md -
+ 19533  19555  markdown/statblocks/skeleton.md                 # skeletons
+ 19557  19583  markdown/statblocks/minotaur_skeleton.md
+ 19585  19606  markdown/statblocks/warhorse_skeleton.md -
+ 19608  19634  markdown/statblocks/specter.md  -
+ 19638  19686  markdown/statblocks/androsphinx.md              # sphinxes
+ 19688  19728  markdown/statblocks/gynosphinx.md -
+ 19730  19752  markdown/statblocks/sprite.md
+ 19754  19774  markdown/statblocks/stirge.md
+ 19776  19807  markdown/statblocks/succubus_incubus.md -
 
    # monsters, t
- 19828  19872  markdown/statblocks/tarrasque.md
- 19874  19902  markdown/statblocks/treant.md
- 19904  19930  markdown/statblocks/troll.md -
+ 19811  19855  markdown/statblocks/tarrasque.md
+ 19857  19885  markdown/statblocks/treant.md
+ 19887  19913  markdown/statblocks/troll.md -
 
    # monsters, u
- 19934  19977  markdown/statblocks/unicorn.md -
+ 19917  19960  markdown/statblocks/unicorn.md -
 
    # monsters, v
- 19983  20040  markdown/statblocks/vampire.md                  # vampires
- 20042  20075  markdown/statblocks/vampire_spawn.md -
+ 19966  20023  markdown/statblocks/vampire.md                  # vampires
+ 20025  20058  markdown/statblocks/vampire_spawn.md -
 
    # monsters, w
- 20079  20111  markdown/statblocks/wight.md
- 20113  20142  markdown/statblocks/will_o_wisp.md
- 20144  20171  markdown/statblocks/wraith.md
- 20173  20195  markdown/statblocks/wyvern.md -
+ 20062  20094  markdown/statblocks/wight.md
+ 20096  20125  markdown/statblocks/will_o_wisp.md
+ 20127  20154  markdown/statblocks/wraith.md
+ 20156  20178  markdown/statblocks/wyvern.md -
 
    # monsters, x
- 20199  20227  markdown/statblocks/xorn.md -
+ 20182  20210  markdown/statblocks/xorn.md -
 
    # monsters, z
- 20233  20258  markdown/statblocks/zombie.md                   # zombies
- 20260  20285  markdown/statblocks/ogre_zombie.md -
+ 20216  20241  markdown/statblocks/zombie.md                   # zombies
+ 20243  20268  markdown/statblocks/ogre_zombie.md -
 
                @adjust 0
- 20287  20295  markdown/conditions/conditions.md
- 20297  20300  markdown/conditions/blinded.md
- 20302  20305  markdown/conditions/charmed.md
- 20307  20309  markdown/conditions/deafened.md
- 20311  20330  markdown/conditions/exhaustion.md
- 20332  20335  markdown/conditions/frightened.md
- 20337  20341  markdown/conditions/grappled.md
- 20343  20345  markdown/conditions/incapacitated.md
- 20347  20350  markdown/conditions/invisible.md
- 20352  20358  markdown/conditions/paralyzed.md
- 20360  20367  markdown/conditions/petrified.md
- 20369  20371  markdown/conditions/poisoned.md
- 20373  20377  markdown/conditions/prone.md
- 20379  20383  markdown/conditions/restrained.md
- 20385  20389  markdown/conditions/stunned.md
- 20391  20397  markdown/conditions/unconscious.md -
+ 20270  20278  markdown/conditions/conditions.md
+ 20280  20283  markdown/conditions/blinded.md
+ 20285  20288  markdown/conditions/charmed.md
+ 20290  20292  markdown/conditions/deafened.md
+ 20294  20313  markdown/conditions/exhaustion.md
+ 20315  20318  markdown/conditions/frightened.md
+ 20320  20324  markdown/conditions/grappled.md
+ 20326  20328  markdown/conditions/incapacitated.md
+ 20330  20333  markdown/conditions/invisible.md
+ 20335  20340  markdown/conditions/paralyzed.md
+ 20342  20349  markdown/conditions/petrified.md
+ 20351  20353  markdown/conditions/poisoned.md
+ 20355  20359  markdown/conditions/prone.md
+ 20361  20365  markdown/conditions/restrained.md
+ 20367  20371  markdown/conditions/stunned.md
+ 20373  20379  markdown/conditions/unconscious.md -
 
- 20399  20423  markdown/gods/pantheons.md
- 20425  20442  markdown/gods/celtic_deities.md
- 20444  20466  markdown/gods/greek_deities.md
- 20468  20485  markdown/gods/egyptian_deities.md
- 20487  20510  markdown/gods/norse_deities.md
+ 20381  20405  markdown/gods/pantheons.md
+ 20407  20424  markdown/gods/celtic_deities.md
+ 20426  20448  markdown/gods/greek_deities.md
+ 20450  20467  markdown/gods/egyptian_deities.md
+ 20469  20492  markdown/gods/norse_deities.md
 
- 20512  20571  markdown/planes/the_planes_of_existence.md -
+ 20494  20553  markdown/planes/the_planes_of_existence.md -
 
                                                                # creatures
                @adjust 1
- 20577  20598  markdown/statblocks/ape.md
- 20600  20626  markdown/statblocks/awakened_shrub.md
- 20628  20654  markdown/statblocks/awakened_tree.md
- 20656  20676  markdown/statblocks/axe_beak.md
- 20678  20700  markdown/statblocks/baboon.md
- 20702  20724  markdown/statblocks/badger.md
- 20726  20749  markdown/statblocks/bat.md
- 20751  20776  markdown/statblocks/black_bear.md
- 20778  20804  markdown/statblocks/blink_dog.md
- 20806  20832  markdown/statblocks/blood_hawk.md
- 20834  20857  markdown/statblocks/boar.md
- 20859  20884  markdown/statblocks/brown_bear.md
- 20886  20904  markdown/statblocks/camel.md
- 20906  20929  markdown/statblocks/cat.md
- 20931  20950  markdown/statblocks/constrictor_snake.md
- 20952  20975  markdown/statblocks/crab.md
- 20977  21000  markdown/statblocks/crocodile.md
- 21002  21028  markdown/statblocks/death_dog.md
- 21030  21048  markdown/statblocks/deer.md
- 21050  21074  markdown/statblocks/dire_wolf.md
- 21076  21094  markdown/statblocks/draft_horse.md
- 21096  21119  markdown/statblocks/eagle.md
- 21121  21144  markdown/statblocks/elephant.md
- 21146  21169  markdown/statblocks/elk.md
- 21171  21195  markdown/statblocks/flying_snake.md
- 21197  21219  markdown/statblocks/frog.md
- 21221  21242  markdown/statblocks/giant_ape.md
- 21244  21268  markdown/statblocks/giant_badger.md
- 21270  21293  markdown/statblocks/giant_bat.md
- 21295  21318  markdown/statblocks/giant_boar.md
- 21320  21338  markdown/statblocks/giant_centipede.md
- 21340  21360  markdown/statblocks/giant_constrictor_snake.md
- 21362  21385  markdown/statblocks/giant_crab.md
- 21387  21412  markdown/statblocks/giant_crocodile.md
- 21414  21441  markdown/statblocks/giant_eagle.md
- 21443  21469  markdown/statblocks/giant_elk.md
- 21471  21495  markdown/statblocks/giant_fire_beetle.md
- 21497  21524  markdown/statblocks/giant_frog.md
- 21526  21549  markdown/statblocks/giant_goat.md
- 21551  21574  markdown/statblocks/giant_hyena.md
- 21576  21596  markdown/statblocks/giant_lizard.md
- 21598  21624  markdown/statblocks/giant_octopus.md
- 21626  21652  markdown/statblocks/giant_owl.md
- 21654  21673  markdown/statblocks/giant_poisonous_snake.md
- 21675  21704  markdown/statblocks/giant_rat.md
- 21706  21726  markdown/statblocks/giant_scorpion.md
- 21728  21753  markdown/statblocks/giant_sea_horse.md
- 21755  21781  markdown/statblocks/giant_shark.md
- 21783  21811  markdown/statblocks/giant_spider.md
- 21813  21839  markdown/statblocks/giant_toad.md
- 21841  21869  markdown/statblocks/giant_vulture.md
- 21871  21889  markdown/statblocks/giant_wasp.md
- 21891  21914  markdown/statblocks/giant_weasel.md
- 21916  21943  markdown/statblocks/giant_wolf_spider.md
- 21945  21968  markdown/statblocks/goat.md
- 21970  21993  markdown/statblocks/hawk.md
- 21995  22021  markdown/statblocks/hunter_shark.md
- 22023  22046  markdown/statblocks/hyena.md
- 22048  22072  markdown/statblocks/jackal.md
- 22074  22099  markdown/statblocks/killer_whale.md
- 22101  22128  markdown/statblocks/lion.md
- 22130  22148  markdown/statblocks/lizard.md
- 22150  22175  markdown/statblocks/mammoth.md
- 22177  22202  markdown/statblocks/mastiff.md
- 22204  22227  markdown/statblocks/mule.md
- 22229  22255  markdown/statblocks/octopus.md
- 22257  22281  markdown/statblocks/owl.md
- 22283  22308  markdown/statblocks/panther.md
- 22310  22337  markdown/statblocks/phase_spider.md
- 22339  22357  markdown/statblocks/poisonous_snake.md
- 22359  22384  markdown/statblocks/polar_bear.md
- 22386  22404  markdown/statblocks/pony.md
- 22406  22431  markdown/statblocks/quipper.md
- 22433  22455  markdown/statblocks/rat.md
- 22457  22480  markdown/statblocks/raven.md
- 22482  22508  markdown/statblocks/reef_shark.md
- 22510  22532  markdown/statblocks/rhinoceros.md
- 22534  22552  markdown/statblocks/riding_horse.md
- 22554  22579  markdown/statblocks/saber_toothed_tiger.md
- 22581  22599  markdown/statblocks/scorpion.md
- 22601  22619  markdown/statblocks/sea_horse.md
- 22621  22646  markdown/statblocks/spider.md
- 22648  22674  markdown/statblocks/swarm_of_bats.md
- 22676  22700  markdown/statblocks/swarm_of_insects.md
- 22702  22726  markdown/statblocks/swarm_of_poisonous_snakes.md
- 22728  22754  markdown/statblocks/swarm_of_quippers.md
- 22756  22781  markdown/statblocks/swarm_of_rats.md
- 22783  22808  markdown/statblocks/swarm_of_ravens.md
- 22810  22820  markdown/statblocks/variant_insect_swarms.md
- 22822  22847  markdown/statblocks/tiger.md
- 22849  22873  markdown/statblocks/vulture.md
- 22875  22897  markdown/statblocks/warhorse.md
- 22899  22922  markdown/statblocks/weasel.md
- 22924  22953  markdown/statblocks/winter_wolf.md
- 22955  22979  markdown/statblocks/wolf.md
- 22981  23006  markdown/statblocks/worg.md -
+ 20559  20580  markdown/statblocks/ape.md
+ 20582  20608  markdown/statblocks/awakened_shrub.md
+ 20610  20636  markdown/statblocks/awakened_tree.md
+ 20638  20658  markdown/statblocks/axe_beak.md
+ 20660  20682  markdown/statblocks/baboon.md
+ 20684  20706  markdown/statblocks/badger.md
+ 20708  20731  markdown/statblocks/bat.md
+ 20733  20758  markdown/statblocks/black_bear.md
+ 20760  20786  markdown/statblocks/blink_dog.md
+ 20788  20814  markdown/statblocks/blood_hawk.md
+ 20816  20839  markdown/statblocks/boar.md
+ 20841  20866  markdown/statblocks/brown_bear.md
+ 20868  20886  markdown/statblocks/camel.md
+ 20888  20911  markdown/statblocks/cat.md
+ 20913  20932  markdown/statblocks/constrictor_snake.md
+ 20934  20957  markdown/statblocks/crab.md
+ 20959  20982  markdown/statblocks/crocodile.md
+ 20984  21010  markdown/statblocks/death_dog.md
+ 21012  21030  markdown/statblocks/deer.md
+ 21032  21056  markdown/statblocks/dire_wolf.md
+ 21058  21076  markdown/statblocks/draft_horse.md
+ 21078  21101  markdown/statblocks/eagle.md
+ 21103  21126  markdown/statblocks/elephant.md
+ 21128  21151  markdown/statblocks/elk.md
+ 21153  21177  markdown/statblocks/flying_snake.md
+ 21179  21201  markdown/statblocks/frog.md
+ 21203  21224  markdown/statblocks/giant_ape.md
+ 21226  21250  markdown/statblocks/giant_badger.md
+ 21252  21275  markdown/statblocks/giant_bat.md
+ 21277  21300  markdown/statblocks/giant_boar.md
+ 21302  21320  markdown/statblocks/giant_centipede.md
+ 21322  21342  markdown/statblocks/giant_constrictor_snake.md
+ 21344  21367  markdown/statblocks/giant_crab.md
+ 21369  21394  markdown/statblocks/giant_crocodile.md
+ 21396  21423  markdown/statblocks/giant_eagle.md
+ 21425  21451  markdown/statblocks/giant_elk.md
+ 21453  21477  markdown/statblocks/giant_fire_beetle.md
+ 21479  21506  markdown/statblocks/giant_frog.md
+ 21508  21531  markdown/statblocks/giant_goat.md
+ 21533  21556  markdown/statblocks/giant_hyena.md
+ 21558  21578  markdown/statblocks/giant_lizard.md
+ 21580  21606  markdown/statblocks/giant_octopus.md
+ 21608  21634  markdown/statblocks/giant_owl.md
+ 21636  21655  markdown/statblocks/giant_poisonous_snake.md
+ 21657  21686  markdown/statblocks/giant_rat.md
+ 21688  21708  markdown/statblocks/giant_scorpion.md
+ 21710  21735  markdown/statblocks/giant_sea_horse.md
+ 21737  21763  markdown/statblocks/giant_shark.md
+ 21765  21793  markdown/statblocks/giant_spider.md
+ 21795  21821  markdown/statblocks/giant_toad.md
+ 21823  21851  markdown/statblocks/giant_vulture.md
+ 21853  21871  markdown/statblocks/giant_wasp.md
+ 21873  21896  markdown/statblocks/giant_weasel.md
+ 21898  21925  markdown/statblocks/giant_wolf_spider.md
+ 21927  21950  markdown/statblocks/goat.md
+ 21952  21975  markdown/statblocks/hawk.md
+ 21977  22003  markdown/statblocks/hunter_shark.md
+ 22005  22028  markdown/statblocks/hyena.md
+ 22030  22054  markdown/statblocks/jackal.md
+ 22056  22081  markdown/statblocks/killer_whale.md
+ 22083  22110  markdown/statblocks/lion.md
+ 22112  22130  markdown/statblocks/lizard.md
+ 22132  22157  markdown/statblocks/mammoth.md
+ 22159  22184  markdown/statblocks/mastiff.md
+ 22186  22209  markdown/statblocks/mule.md
+ 22211  22237  markdown/statblocks/octopus.md
+ 22239  22263  markdown/statblocks/owl.md
+ 22265  22290  markdown/statblocks/panther.md
+ 22292  22319  markdown/statblocks/phase_spider.md
+ 22321  22339  markdown/statblocks/poisonous_snake.md
+ 22341  22366  markdown/statblocks/polar_bear.md
+ 22368  22386  markdown/statblocks/pony.md
+ 22388  22413  markdown/statblocks/quipper.md
+ 22415  22437  markdown/statblocks/rat.md
+ 22439  22462  markdown/statblocks/raven.md
+ 22464  22490  markdown/statblocks/reef_shark.md
+ 22492  22514  markdown/statblocks/rhinoceros.md
+ 22516  22534  markdown/statblocks/riding_horse.md
+ 22536  22561  markdown/statblocks/saber_toothed_tiger.md
+ 22563  22581  markdown/statblocks/scorpion.md
+ 22583  22601  markdown/statblocks/sea_horse.md
+ 22603  22628  markdown/statblocks/spider.md
+ 22630  22656  markdown/statblocks/swarm_of_bats.md
+ 22658  22682  markdown/statblocks/swarm_of_insects.md
+ 22684  22708  markdown/statblocks/swarm_of_poisonous_snakes.md
+ 22710  22736  markdown/statblocks/swarm_of_quippers.md
+ 22738  22763  markdown/statblocks/swarm_of_rats.md
+ 22765  22790  markdown/statblocks/swarm_of_ravens.md
+ 22792  22802  markdown/statblocks/variant_insect_swarms.md
+ 22804  22829  markdown/statblocks/tiger.md
+ 22831  22855  markdown/statblocks/vulture.md
+ 22857  22879  markdown/statblocks/warhorse.md
+ 22881  22904  markdown/statblocks/weasel.md
+ 22906  22935  markdown/statblocks/winter_wolf.md
+ 22937  22961  markdown/statblocks/wolf.md
+ 22963  22988  markdown/statblocks/worg.md -
 
- 23012  23019  markdown/npcs/customizing_npcs.md - 0
+ 22994  23001  markdown/npcs/customizing_npcs.md - 0
 
- 23021  23049  markdown/statblocks/acolyte.md                  # npcs
- 23051  23094  markdown/statblocks/archmage.md
- 23096  23127  markdown/statblocks/assassin.md
- 23129  23151  markdown/statblocks/bandit.md
- 23153  23185  markdown/statblocks/bandit_captain.md
- 23187  23211  markdown/statblocks/berserker.md
- 23213  23233  markdown/statblocks/commoner.md
- 23235  23260  markdown/statblocks/cultist.md
- 23262  23293  markdown/statblocks/cult_fanatic.md
- 23295  23324  markdown/statblocks/druid.md
- 23326  23359  markdown/statblocks/gladiator.md
- 23361  23382  markdown/statblocks/guard.md
- 23384  23416  markdown/statblocks/knight.md
- 23418  23451  markdown/statblocks/mage.md
- 23453  23480  markdown/statblocks/noble.md
- 23482  23515  markdown/statblocks/priest.md
- 23517  23544  markdown/statblocks/scout.md
- 23546  23574  markdown/statblocks/spy.md
- 23576  23603  markdown/statblocks/thug.md
- 23605  23629  markdown/statblocks/tribal_warrior.md
- 23631  23655  markdown/statblocks/veteran.md -
+ 23003  23031  markdown/statblocks/acolyte.md                  # npcs
+ 23033  23076  markdown/statblocks/archmage.md
+ 23078  23109  markdown/statblocks/assassin.md
+ 23111  23133  markdown/statblocks/bandit.md
+ 23135  23167  markdown/statblocks/bandit_captain.md
+ 23169  23193  markdown/statblocks/berserker.md
+ 23195  23215  markdown/statblocks/commoner.md
+ 23217  23242  markdown/statblocks/cultist.md
+ 23244  23275  markdown/statblocks/cult_fanatic.md
+ 23277  23306  markdown/statblocks/druid.md
+ 23308  23341  markdown/statblocks/gladiator.md
+ 23343  23364  markdown/statblocks/guard.md
+ 23366  23398  markdown/statblocks/knight.md
+ 23400  23433  markdown/statblocks/mage.md
+ 23435  23462  markdown/statblocks/noble.md
+ 23464  23497  markdown/statblocks/priest.md
+ 23499  23526  markdown/statblocks/scout.md
+ 23528  23556  markdown/statblocks/spy.md
+ 23558  23585  markdown/statblocks/thug.md
+ 23587  23611  markdown/statblocks/tribal_warrior.md
+ 23613  23637  markdown/statblocks/veteran.md -

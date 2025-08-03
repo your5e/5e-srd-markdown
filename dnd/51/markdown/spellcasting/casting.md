@@ -48,7 +48,7 @@ Casting some spells requires particular objects, specified in parentheses in the
 
 If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.
 
-A spellcaster must have a hand free to access a spell's material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.
+A spellcaster must have a hand free to access a spell's material components — or to hold a spellcasting focus — but it can be the same hand that he or she uses to perform somatic components.
 
 ### Duration
 
@@ -68,8 +68,7 @@ Normal activity, such as moving and attacking, doesn't interfere with concentrat
 
 - **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.
 - **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
-
-• **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
+- **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
 
 The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
 

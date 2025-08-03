@@ -48,7 +48,7 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 - _**Spellbook.**_ Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
 - _**Spyglass.**_ Objects viewed through a spyglass are magnified to twice their size.
 - _**Tent.**_ A simple and portable canvas shelter, a tent sleeps two.
-- _**Tinderbox.**_ This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
+- _**Tinderbox.**_ This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch — or anything else with abundant, exposed fuel — takes an action. Lighting any other fire takes 1 minute.
 - _**Torch.**_ A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
 ## Adventuring Gear

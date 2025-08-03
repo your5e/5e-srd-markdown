@@ -666,7 +666,7 @@ Choose one domain related to your deity, such as Life. Each domain is detailed a
 
 #### Domain Spells
 
-Each domain has a list of spells—its domain spells that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+Each domain has a list of spells — its domain spells that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
 If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
@@ -716,7 +716,7 @@ At 20th level, your call for intervention succeeds automatically, no roll requir
 
 ### Life Domain
 
-The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
+The Life domain focuses on the vibrant positive energy — one of the fundamental forces of the universe — that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, Arawai, and Demeter), sun gods (such as Lathander, Pelor, and Re-Horakhty), gods of healing or endurance (such as Ilmater, Mishakal, Apollo, and Diancecht), and gods of home and community (such as Hestia, Hathor, and Boldrei).
 
 #### Life Domain Spells
 
@@ -909,7 +909,7 @@ For example, when you are a 4th-level druid, you can recover up to two levels wo
 
 #### Circle Spells
 
-Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land—arctic, coast, desert, forest, grassland, mountain, or swamp—and consult the associated list of spells.
+Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land — arctic, coast, desert, forest, grassland, mountain, or swamp — and consult the associated list of spells.
 
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
@@ -1520,7 +1520,7 @@ Becoming a paladin involves taking vows that commit the paladin to the cause of 
 
 ### Oath of Devotion
 
-The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels—the perfect servants of good—as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
+The Oath of Devotion binds a paladin to the loftiest ideals of justice, virtue, and order. Sometimes called cavaliers, white knights, or holy warriors, these paladins meet the ideal of the knight in shining armor, acting with honor in pursuit of justice and the greater good. They hold themselves to the highest standards of conduct, and some, for better or worse, hold the rest of the world to the same standards. Many who swear this oath are devoted to gods of law and good and use their gods' tenets as the measure of their devotion. They hold angels — the perfect servants of good — as their ideals, and incorporate images of angelic wings into their helmets or coats of arms.
 
 #### Tenets of Devotion
 
@@ -1911,7 +1911,7 @@ Once you use this feature, you can't use it again until you finish a short or lo
 
 ## Roguish Archetypes
 
-Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus—not necessarily an indication of your chosen profession, but a description of your preferred techniques.
+Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes. But different rogues steer those talents in varying directions, embodied by the rogue archetypes. Your choice of archetype is a reflection of your focus — not necessarily an indication of your chosen profession, but a description of your preferred techniques.
 
 ### Thief
 
@@ -2349,7 +2349,7 @@ On your adventures, you can add other ritual spells to your Book of Shadows. Whe
 
 _Prerequisite: 15th level, Pact of the Chain feature_
 
-You can cast _Hold Monster_ at will—targeting a celestial, fiend, or elemental—without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+You can cast _Hold Monster_ at will — targeting a celestial, fiend, or elemental — without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
 ### Devil's Sight
 
@@ -2481,7 +2481,7 @@ You can see the true form of any shapechanger or creature concealed by illusion 
 
 ## Otherworldly Patrons
 
-The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.
+The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence — not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.
 
 Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
 
@@ -2698,7 +2698,7 @@ Copying that spell into your spellbook involves reproducing the basic form of th
 
 For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 
-_**Replacing the Book.**_ You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+_**Replacing the Book.**_ You can copy a spell from your own spellbook into another book — for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
 
 If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many wizards keep backup spellbooks in a safe place.
 
@@ -2836,7 +2836,7 @@ _**Spell Slots.**_ You determine your available spell slots by adding together a
 
 If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare. You can use those slots, but only to cast your lower-level spells. If a lower-level spell that you cast, like _Burning Hands_, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don't have any spells of that higher level.
 
-For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
+For example, if you are the aforementioned ranger 4/wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots. However, you don't know any 3rd-level spells, nor do you know any 2nd-level ranger spells. You can use the spell slots of those levels to cast the spells you do know — and potentially enhance their effects.
 
 _**Pact Magic.**_ If you have both the Spellcasting class feature and the Pact Magic class feature from the warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast warlock spells you know.
 
@@ -2889,7 +2889,7 @@ The evil deities who created other races, though, made those races to serve them
 
 Alignment is an essential part of the nature of celestials and fiends. A devil does not choose to be lawful evil, and it doesn't tend toward lawful evil, but rather it is lawful evil in its essence. If it somehow ceased to be lawful evil, it would cease to be a devil.
 
-Most creatures that lack the capacity for rational thought do not have alignments—they are **unaligned**. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
+Most creatures that lack the capacity for rational thought do not have alignments — they are **unaligned**. Such a creature is incapable of making a moral or ethical choice and acts according to its bestial nature. Sharks are savage predators, for example, but they are not evil; they have no alignment.
 
 # Languages
 
@@ -2933,7 +2933,7 @@ Inspiration is a rule the game master can use to reward you for playing your cha
 
 Your GM can choose to give you inspiration for a variety of reasons. Typically, GMs award it when you play out your personality traits, give in to the drawbacks presented by a flaw or bond, and otherwise portray your character in a compelling way. Your GM will tell you how you can earn inspiration in the game.
 
-You either have inspiration or you don't—you can't stockpile multiple "inspirations" for later use.
+You either have inspiration or you don't — you can't stockpile multiple "inspirations" for later use.
 
 ## Using Inspiration
 
@@ -2975,7 +2975,7 @@ You might want to tweak some of the features of a background so it better fits y
 
 # Acolyte
 
-You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
+You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric — performing sacred rites is not the same thing as channeling divine power.
 
 Choose a god, a pantheon of gods, or some other quasi-divine being from among those listed in "Fantasy-Historical Pantheons" or those specified by your GM, and work with your GM to detail the nature of your religious service. Were you a lesser functionary in a temple, raised from childhood to assist the priests in the sacred rites? Or were you a high priest who suddenly experienced a call to serve your god in a different way? Perhaps you were the leader of a small cult outside of any established temple structure, or even an occult group that served a fiendish master that you now deny.
 
@@ -3062,7 +3062,7 @@ Opportunities abound to find treasure, equipment, weapons, armor, and more in th
 - _**Arms, Armor, and Other Equipment.**_ As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by monsters are rarely in good enough condition to sell.
 - _**Magic Items.**_ Selling magic items is problematic. Finding someone to buy a potion or a scroll isn't too hard, but other items are out of the realm of most but the wealthiest nobles. Likewise, aside from a few common magic items, you won't normally come across magic items or spells to purchase. The value of magic is far beyond simple gold and should always be treated as such.
 - _**Gems, Jewelry, and Art Objects.**_ These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable treasures, the GM might require you to find a buyer in a large town or larger community first.
-- _**Trade Goods.**_ On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
+- _**Trade Goods.**_ On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods — bars of iron, bags of salt, livestock, and so on — retain their full value in the market and can be used as currency.
 
 # Armor
 
@@ -3172,7 +3172,7 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 - _**Special.**_ A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see "Special Weapons" later in this section).
 - _**Thrown.**_ If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 - _**Two-Handed.**_ This weapon requires two hands when you attack with it.
-- _**Versatile.**_ This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
+- _**Versatile.**_ This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands to make a melee attack.
 
 ### Improvised Weapons
 
@@ -3291,7 +3291,7 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 - _**Spellbook.**_ Essential for wizards, a spellbook is a leather-bound tome with 100 blank vellum pages suitable for recording spells.
 - _**Spyglass.**_ Objects viewed through a spyglass are magnified to twice their size.
 - _**Tent.**_ A simple and portable canvas shelter, a tent sleeps two.
-- _**Tinderbox.**_ This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
+- _**Tinderbox.**_ This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch — or anything else with abundant, exposed fuel — takes an action. Lighting any other fire takes 1 minute.
 - _**Torch.**_ A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
 
 ## Adventuring Gear
@@ -3441,48 +3441,47 @@ might ask you to make a Dexterity check to carve a fine detail with your woodcar
 
 #### Tools
 
-| Item                    | Cost   | Weight   |
-|-------------------------|--------|----------|
-| Artisan's tools         |        |          |
-| Alchemist's supplies    | 50 gp  | 8 lb.    |
-| Brewer's supplies       | 20 gp  | 9 lb.    |
-| Calligrapher's supplies | 10 gp  | 5 lb.    |
-| Carpenter's tools       | 8 gp   | 6 lb.    |
-| Cartographer's tools    | 15 gp  | 6 lb.    |
-| Cobbler's tools         | 5 gp   | 5 lb.    |
-| Cook's utensils         | 1 gp   | 8 lb.    |
-| Glassblower's tools     | 30 gp  | 5 lb.    |
-| Jeweler's tools         | 25 gp  | 2 lb.    |
-| Leatherworker's tools   | 5 gp   | 5 lb.    |
-| Mason's tools           | 10 gp  | 8 lb.    |
-| Painter's supplies      | 10 gp  | 5 lb.    |
-| Potter's tools          | 10 gp  | 3 lb.    |
-| Smith's tools           | 20 gp  | 8 lb.    |
-| Tinker's tools          | 50 gp  | 10 lb.   |
-| Weaver's tools          | 1 gp   | 5 lb.    |
-| Woodcarver's tools      | 1 gp   | 5 lb.    |
-| Disguise kit            | 25 gp  | 3 lb.    |
-| Forgery kit             | 15 gp  | 5 lb.    |
-| Gaming set              |        |          |
-| Dice set                | 1 sp   | —        |
-| Playing card set        | 5 sp   | —        |
-| Herbalism kit           | 5 gp   | 3 lb.    |
-| Musical instrument      |        |          |
-| Bagpipes                | 30 gp  | 6 lb.    |
-| Drum                    | 6 gp   | 3 lb.    |
-| Dulcimer                | 25 gp  | 10 lb.   |
-| Flute                   | 2 gp   | 1 lb.    |
-| Lute                    | 35 gp  | 2 lb.    |
-| Lyre                    | 30 gp  | 2 lb.    |
-| Horn                    | 3 gp   | 2 lb.    |
-| Pan flute               | 12 gp  | 2 lb.    |
-| Shawm                   | 2 gp   | 1 lb.    |
-| Viol                    | 30 gp  | 1 lb.    |
-| Navigator's tools       | 25 gp  | 2 lb.    |
-| Poisoner's kit          | 50 gp  | 2 lb.    |
-| Thieves' tools          | 25 gp  | 1 lb.    |
-
-Vehicles (land or water) \_ \_
+| Item                     | Cost   | Weight   |
+|--------------------------|--------|----------|
+| Artisan's tools          |        |          |
+| Alchemist's supplies     | 50 gp  | 8 lb.    |
+| Brewer's supplies        | 20 gp  | 9 lb.    |
+| Calligrapher's supplies  | 10 gp  | 5 lb.    |
+| Carpenter's tools        | 8 gp   | 6 lb.    |
+| Cartographer's tools     | 15 gp  | 6 lb.    |
+| Cobbler's tools          | 5 gp   | 5 lb.    |
+| Cook's utensils          | 1 gp   | 8 lb.    |
+| Glassblower's tools      | 30 gp  | 5 lb.    |
+| Jeweler's tools          | 25 gp  | 2 lb.    |
+| Leatherworker's tools    | 5 gp   | 5 lb.    |
+| Mason's tools            | 10 gp  | 8 lb.    |
+| Painter's supplies       | 10 gp  | 5 lb.    |
+| Potter's tools           | 10 gp  | 3 lb.    |
+| Smith's tools            | 20 gp  | 8 lb.    |
+| Tinker's tools           | 50 gp  | 10 lb.   |
+| Weaver's tools           | 1 gp   | 5 lb.    |
+| Woodcarver's tools       | 1 gp   | 5 lb.    |
+| Disguise kit             | 25 gp  | 3 lb.    |
+| Forgery kit              | 15 gp  | 5 lb.    |
+| Gaming set               |        |          |
+| Dice set                 | 1 sp   | —        |
+| Playing card set         | 5 sp   | —        |
+| Herbalism kit            | 5 gp   | 3 lb.    |
+| Musical instrument       |        |          |
+| Bagpipes                 | 30 gp  | 6 lb.    |
+| Drum                     | 6 gp   | 3 lb.    |
+| Dulcimer                 | 25 gp  | 10 lb.   |
+| Flute                    | 2 gp   | 1 lb.    |
+| Lute                     | 35 gp  | 2 lb.    |
+| Lyre                     | 30 gp  | 2 lb.    |
+| Horn                     | 3 gp   | 2 lb.    |
+| Pan flute                | 12 gp  | 2 lb.    |
+| Shawm                    | 2 gp   | 1 lb.    |
+| Viol                     | 30 gp  | 1 lb.    |
+| Navigator's tools        | 25 gp  | 2 lb.    |
+| Poisoner's kit           | 50 gp  | 2 lb.    |
+| Thieves' tools           | 25 gp  | 1 lb.    |
+| Vehicles (land or water) | \*     | \*       |
 
 \* See the "Mounts and Vehicles" section.
 
@@ -3611,7 +3610,7 @@ Your lifestyle choice can have consequences. Maintaining a wealthy lifestyle mig
 
 ## Self-Sufficiency
 
-The expenses and lifestyles described here assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford—paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
+The expenses and lifestyles described here assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford — paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
 
 Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, you can eke out the equivalent of a poor lifestyle. Proficiency in the Survival skill lets you live at the equivalent of a comfortable lifestyle.
 
@@ -3676,7 +3675,7 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 
 People who are able to cast spells don't fall into the category of ordinary hirelings. It might be possible to find someone willing to cast a spell in exchange for coin or favors, but it is rarely easy and no established pay rates exist. As a rule, the higher the level of the desired spell, the harder it is to find someone who can cast it and the more it costs.
 
-Hiring someone to cast a relatively common spell of 1st or 2nd level, such as _Cure Wounds_ or _Identify_, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment—the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant settlement.
+Hiring someone to cast a relatively common spell of 1st or 2nd level, such as _Cure Wounds_ or _Identify_, is easy enough in a city or town, and might cost 10 to 50 gold pieces (plus the cost of any expensive material components). Finding someone able and willing to cast a higher-level spell might involve traveling to a large city, perhaps one with a university or prominent temple. Once found, the spellcaster might ask for a service instead of payment — the kind of service that only adventurers can provide, such as retrieving a rare item from a dangerous locale or traversing a monster-infested wilderness to deliver something important to a distant settlement.
 
 # Feats
 
@@ -3684,7 +3683,7 @@ A feat represents a talent or an area of expertise that gives a character specia
 
 At certain levels, your class gives you the Ability Score Improvement feature. Using the optional feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
 
-You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow—perhaps by a withering curse—you can't benefit from the Grappler feat until your Strength is restored.
+You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler feat requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow — perhaps by a withering curse — you can't benefit from the Grappler feat until your Strength is restored.
 
 # Grappler
 
@@ -3706,9 +3705,9 @@ Six abilities provide a quick description of every creature's physical and menta
 - **Wisdom**, measuring perception and insight
 - **Charisma**, measuring force of personality
 
-Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities—a creature's assets as well as weaknesses.
+Is a character muscle-bound and insightful? Brilliant and charming? Nimble and hardy? Ability scores define these qualities — a creature's assets as well as weaknesses.
 
-The three main rolls of the game—the ability check, the saving throw, and the attack roll—rely on the six ability scores. The book's introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
+The three main rolls of the game — the ability check, the saving throw, and the attack roll — rely on the six ability scores. The book's introduction describes the basic rule behind these rolls: roll a d20, add an ability modifier derived from one of the six ability scores, and compare the total to a target number.
 
 ## Ability Scores and Modifiers
 
@@ -3786,7 +3785,7 @@ For every ability check, the GM decides which of the six abilities is relevant t
 | Very hard         |   25 |
 | Nearly impossible |   30 |
 
-To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
+To make an ability check, roll a d20 and add the relevant ability modifier. As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC. If the total equals or exceeds the DC, the ability check is a success — the creature overcomes the challenge at hand. Otherwise, it's a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the GM.
 
 ### Contests
 
@@ -3806,7 +3805,7 @@ The skills related to each ability score are shown in the following list. (No sk
 
 #### Strength
 
-• Athletics
+- Athletics
 
 #### Dexterity
 
@@ -3837,7 +3836,7 @@ The skills related to each ability score are shown in the following list. (No sk
 - Performance
 - Persuasion
 
-Sometimes, the GM might ask for an ability check using a specific skill—for example, "Make a Wisdom (Perception) check." At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
+Sometimes, the GM might ask for an ability check using a specific skill — for example, "Make a Wisdom (Perception) check." At other times, a player might ask the GM if proficiency in a particular skill applies to a check. In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill. Without proficiency in the skill, the individual makes a normal ability check.
 
 For example, if a character attempts to climb up a dangerous cliff, the GM might ask for a Strength (Athletics) check. If the character is proficient in Athletics, the character's proficiency bonus is added to the Strength check. If the character lacks that proficiency, he or she just makes a Strength check.
 
@@ -3861,7 +3860,7 @@ The rules on hiding in the "Dexterity" section below rely on passive checks, as 
 
 ### Working Together
 
-Sometimes two or more characters team up to attempt a task. The character who's leading the effort—or the one with the highest ability modifier—can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.
+Sometimes two or more characters team up to attempt a task. The character who's leading the effort — or the one with the highest ability modifier — can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.
 
 A character can only provide help if the task is one that he or she could attempt alone. For example, trying to open a lock requires proficiency with thieves' tools, so a character who lacks that proficiency can't help another character in that task. Moreover, a character can help only when two or more individuals working together would actually be productive. Some tasks, such as threading a needle, are no easier with help.
 
@@ -4062,7 +4061,7 @@ Bards, paladins, sorcerers, and warlocks use Charisma as their spellcasting abil
 
 # Saving Throws
 
-A saving throw—also called a save—represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don't normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
+A saving throw — also called a save — represents an attempt to resist a spell, a trap, a poison, a disease, or a similar threat. You don't normally decide to make a saving throw; you are forced to make one because your character or monster is at risk of harm.
 
 To make a saving throw, roll a d20 and add the appropriate ability modifier. For example, you use your Dexterity modifier for a Dexterity saving throw.
 
@@ -4086,7 +4085,7 @@ In combat and other fast-paced situations, the game relies on **rounds**, a 6-se
 
 # Movement
 
-Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope—all sorts of movement play a key role in fantasy gaming adventures.
+Swimming across a rushing river, sneaking down a dungeon corridor, scaling a treacherous mountain slope — all sorts of movement play a key role in fantasy gaming adventures.
 
 The GM can summarize the adventurers' movement without calculating exact distances or travel times: "You travel through the forest and find the dungeon entrance late in the evening of the third day." Even in a dungeon, particularly a large dungeon or a cave network, the GM can summarize movement between encounters: "After killing the guardian at the entrance to the ancient dwarven stronghold, you consult your map, which leads you through miles of echoing corridors to a chasm bridged by a narrow stone arch."
 
@@ -4122,9 +4121,9 @@ Certain special mounts, such as a pegasus or griffon, or special vehicles, such 
 
 ### Difficult Terrain
 
-The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground—all considered difficult terrain.
+The travel speeds given in the Travel Pace table assume relatively simple terrain: roads, open plains, or clear dungeon corridors. But adventurers often face dense forests, deep swamps, rubble-filled ruins, steep mountains, and ice-covered ground — all considered difficult terrain.
 
-You move at half speed in difficult terrain moving 1 foot in difficult terrain costs 2 feet of speed—so you can cover only half the normal distance in a minute, an hour, or a day.
+You move at half speed in difficult terrain moving 1 foot in difficult terrain costs 2 feet of speed — so you can cover only half the normal distance in a minute, an hour, or a day.
 
 ## Special Types of Movement
 
@@ -4168,11 +4167,11 @@ For example, a creature with a Constitution of 14 can hold its breath for 3 minu
 
 ## Vision and Light
 
-The most fundamental tasks of adventuring noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few—rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
+The most fundamental tasks of adventuring noticing danger, finding hidden objects, hitting an enemy in combat, and targeting a spell, to name just a few — rely heavily on a character's ability to see. Darkness and other effects that obscure vision can prove a significant hindrance.
 
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
 
-A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely. A creature effectively suffers from the blinded condition (see appendix PH-A) when trying to see something in that area.
+A **heavily obscured** area — such as darkness, opaque fog, or dense foliage — blocks vision entirely. A creature effectively suffers from the blinded condition (see appendix PH-A) when trying to see something in that area.
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
@@ -4224,7 +4223,7 @@ A character can also attempt a Strength check to break an object. The GM sets th
 
 # Resting
 
-Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest—time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
+Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest — time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
 
 Adventurers can take short rests in the midst of an adventuring day and a long rest to end the day.
 
@@ -4236,7 +4235,7 @@ A character can spend one or more Hit Dice at the end of a short rest, up to the
 
 ## Long Rest
 
-A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting spells, or similar adventuring activity—the characters must begin the rest again to gain any benefit from it.
+A long rest is a period of extended downtime, at least 8 hours long, during which a character sleeps or performs light activity: reading, talking, eating, or standing watch for no more than 2 hours. If the rest is interrupted by a period of strenuous activity — at least 1 hour of walking, fighting, casting spells, or similar adventuring activity — the characters must begin the rest again to gain any benefit from it.
 
 At the end of a long rest, a character regains all lost hit points. The character also regains spent Hit Dice, up to a number of dice equal to half of the character's total number of them (minimum of one die). For example, if a character has eight Hit Dice, he or she can regain four spent Hit Dice upon finishing a long rest.
 
@@ -4310,7 +4309,7 @@ A typical combat encounter is a clash between two sides, a flurry of weapon swin
 ## Combat Step by Step
 
 - **1. Determine surprise.** The GM determines whether anyone involved in the combat encounter is surprised.
-- **2. Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are—how far away and in what direction.
+- **2. Establish positions.** The GM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the GM figures out where the adversaries are — how far away and in what direction.
 - **3. Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.
 - **4. Take turns.** Each participant in the battle takes a turn in initiative order.
 - **5. Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
@@ -4333,7 +4332,7 @@ If a tie occurs, the GM decides the order among tied GM-controlled creatures, an
 
 ## Your Turn
 
-On your turn, you can **move** a distance up to your speed and **take one action**. You decide whether to move first or take your action first. Your speed sometimes called your walking speed—is noted on your character sheet.
+On your turn, you can **move** a distance up to your speed and **take one action**. You decide whether to move first or take your action first. Your speed sometimes called your walking speed — is noted on your character sheet.
 
 The most common actions you can take are described in the "Actions in Combat" section. Many class features and other abilities provide additional options for your action.
 
@@ -4391,7 +4390,7 @@ For example, if you have a speed of 30 and a flying speed of 60 because a wizard
 
 ## Difficult Terrain
 
-Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briarchoked forests, treacherous staircases—the setting of a typical fight contains difficult terrain.
+Combat rarely takes place in bare rooms or on featureless plains. Boulder-strewn caverns, briarchoked forests, treacherous staircases — the setting of a typical fight contains difficult terrain.
 
 Every foot of movement in difficult terrain costs 1 extra foot. This rule is true even if multiple things in a space count as difficult terrain.
 
@@ -4570,7 +4569,7 @@ Combatants often try to escape their foes' notice by hiding, casting the invisib
 
 When you attack a target that you can't see, you have disadvantage on the attack roll. This is true whether you're guessing the target's location or you're targeting a creature you can hear but not see. If the target isn't in the location you targeted, you automatically miss, but the GM typically just says that the attack missed, not whether you guessed the target's location correctly.
 
-When a creature can't see you, you have advantage on attack rolls against it. If you are hidden—both unseen and unheard—when you make an attack, you give away your location when the attack hits or misses.
+When a creature can't see you, you have advantage on attack rolls against it. If you are hidden — both unseen and unheard — when you make an attack, you give away your location when the attack hits or misses.
 
 ## Ranged Attacks
 
@@ -4657,7 +4656,7 @@ Whenever a creature takes damage, that damage is subtracted from its hit points.
 
 Each weapon, spell, and harmful monster ability specifies the damage it deals. You roll the damage die or dice, add any modifiers, and apply the damage to your target. Magic weapons, special abilities, and other factors can grant a bonus to damage. With a penalty, it is possible to deal 0 damage, but never negative damage.
 
-When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage. A **spell** tells you which dice to roll for damage and whether to add any modifiers.
+When attacking with a **weapon**, you add your ability modifier — the same modifier used for the attack roll — to the damage. A **spell** tells you which dice to roll for damage and whether to add any modifiers.
 
 If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts _Fireball_ or a cleric casts _Flame Strike_, the spell's damage is rolled once for all creatures caught in the blast.
 
@@ -4674,7 +4673,7 @@ Different attacks, damaging spells, and other harmful effects deal different typ
 The damage types follow, with examples to help a GM assign a damage type to a new effect.
 
 - _**Acid.**_ The corrosive spray of a black dragon's breath and the dissolving enzymes secreted by a black pudding deal acid damage.
-- _**Bludgeoning.**_ Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
+- _**Bludgeoning.**_ Blunt force attacks — hammers, falling, constriction, and the like — deal bludgeoning damage.
 - _**Cold.**_ The infernal chill radiating from an ice devil's spear and the frigid blast of a white dragon's breath deal cold damage.
 - _**Fire.**_ Red dragons breathe fire, and many spells conjure flames to deal fire damage.
 - _**Force.**_ Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including _Magic Missile_ and _Spiritual Weapon_.
@@ -4802,7 +4801,7 @@ This section provides the rules for casting spells. Different character classes 
 
 ## What Is a Spell?
 
-A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect—in most cases, all in the span of seconds.
+A spell is a discrete magical effect, a single shaping of the magical energies that suffuse the multiverse into a specific, limited expression. In casting a spell, a character carefully plucks at the invisible strands of raw magic suffusing the world, pins them in place in a particular pattern, sets them vibrating in a specific way, and then releases them to unleash the desired effect — in most cases, all in the span of seconds.
 
 Spells can be versatile tools, weapons, or protective wards. They can deal damage or undo it, impose or remove conditions (see appendix PH-A), drain life energy away, and restore life to the dead.
 
@@ -4810,7 +4809,7 @@ Uncounted thousands of spells have been created over the course of the multivers
 
 ### Spell Level
 
-Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) _Magic Missile_ at 1st level and the earth-shaking _Wish_ at 9th. Cantrips—simple but powerful spells that characters can cast almost by rote—are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
+Every spell has a level from 0 to 9. A spell's level is a general indicator of how powerful it is, with the lowly (but still impressive) _Magic Missile_ at 1st level and the earth-shaking _Wish_ at 9th. Cantrips — simple but powerful spells that characters can cast almost by rote — are level 0. The higher a spell's level, the higher level a spellcaster must be to use that spell.
 
 Spell level and character level don't correspond directly. Typically, a character has to be at least 17th level, not 9th level, to cast a 9th-level spell.
 
@@ -4824,7 +4823,7 @@ In every case, the number of spells a caster can have fixed in mind at any given
 
 Regardless of how many spells a caster knows or prepares, he or she can cast only a limited number of spells before resting. Manipulating the fabric of magic and channeling its energy into even a simple spell is physically and mentally taxing, and higherlevel spells are even more so. Thus, each spellcasting class's description (except that of the warlock) includes a table showing how many spell slots of each spell level a character can use at each character level. For example, the 3rd-level wizard Umara has four 1st-level spell slots and two 2nd-level slots.
 
-When a character casts a spell, he or she expends a slot of that spell's level or higher, effectively "filling" a slot with the spell. You can think of a spell slot as a groove of a certain size—small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts _Magic Missile_, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
+When a character casts a spell, he or she expends a slot of that spell's level or higher, effectively "filling" a slot with the spell. You can think of a spell slot as a groove of a certain size — small for a 1st-level slot, larger for a spell of higher level. A 1st-level spell fits into a slot of any size, but a 9th-level spell fits only in a 9th-level slot. So when Umara casts _Magic Missile_, a 1st-level spell, she spends one of her four 1st-level slots and has three remaining.
 
 Finishing a long rest restores any expended spell slots.
 
@@ -4900,7 +4899,7 @@ Casting some spells requires particular objects, specified in parentheses in the
 
 If a spell states that a material component is consumed by the spell, the caster must provide this component for each casting of the spell.
 
-A spellcaster must have a hand free to access a spell's material components—or to hold a spellcasting focus—but it can be the same hand that he or she uses to perform somatic components.
+A spellcaster must have a hand free to access a spell's material components — or to hold a spellcasting focus — but it can be the same hand that he or she uses to perform somatic components.
 
 ### Duration
 
@@ -4920,8 +4919,7 @@ Normal activity, such as moving and attacking, doesn't interfere with concentrat
 
 - **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.
 - **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
-
-• **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
+- **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
 
 The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
 
@@ -5011,7 +5009,7 @@ Creating the undead through the use of necromancy spells such as _Animate Dead_ 
 
 ## Combining Magical Effects
 
-The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect—such as the highest bonus—from those castings applies while their durations overlap.
+The effects of different spells add together while the durations of those spells overlap. The effects of the same spell cast multiple times don't combine, however. Instead, the most potent effect — such as the highest bonus — from those castings applies while their durations overlap.
 
 For example, if two clerics cast _Bless_ on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
 
@@ -5643,7 +5641,7 @@ _9th-level necromancy_
 
 You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell fails and the casting is wasted if you are already on that plane). The material body you leave behind is unconscious and in a state of suspended animation; it doesn't need food or air and doesn't age.
 
-Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut—something that can happen only when an effect specifically states that it does—your soul and body are separated, killing you instantly.
+Your astral body resembles your mortal form in almost every way, replicating your game statistics and possessions. The principal difference is the addition of a silvery cord that extends from between your shoulder blades and trails behind you, fading to invisibility after 1 foot. This cord is your tether to your material body. As long as the tether remains intact, you can find your way home. If the cord is cut — something that can happen only when an effect specifically states that it does — your soul and body are separated, killing you instantly.
 
 Your astral form can freely travel through the Astral Plane and can pass through portals there leading to any other plane. If you enter a new plane or return to the plane you were on when casting this spell, your body and possessions are transported along the silver cord, allowing you to re-enter your body as you enter the new plane. Your astral form is a separate incarnation. Any damage or other effects that apply to it have no effect on your physical body, nor do they persist when you return to it.
 
@@ -6327,7 +6325,7 @@ _6th-level evocation_
 - **Components:** V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)
 - **Duration:** 10 days
 
-Choose a spell of 5th level or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that spell—called the contingent spell—as part of casting _Contingency_, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a _Contingency_ cast with _Water Breathing_ might stipulate that _Water Breathing_ comes into effect when you are engulfed in water or a similar liquid.
+Choose a spell of 5th level or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that spell — called the contingent spell — as part of casting _Contingency_, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a _Contingency_ cast with _Water Breathing_ might stipulate that _Water Breathing_ comes into effect when you are engulfed in water or a similar liquid.
 
 The contingent spell takes effect immediately after the circumstance is met for the first time, whether or not you want it to, and then _Contingency_ ends.
 
@@ -6660,7 +6658,7 @@ _2nd-level divination_
 
 For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn until the spell ends, you can focus your mind on any one creature that you can see within 30 feet of you. If the creature you choose has an Intelligence of 3 or lower or doesn't speak any language, the creature is unaffected.
 
-You initially learn the surface thoughts of the creature—what is most on its mind in that moment. As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.
+You initially learn the surface thoughts of the creature — what is most on its mind in that moment. As an action, you can either shift your attention to another creature's thoughts or attempt to probe deeper into the same creature's mind. If you probe deeper, the target must make a Wisdom saving throw. If it fails, you gain insight into its reasoning (if any), its emotional state, and something that looms large in its mind (such as something it worries over, loves, or hates). If it succeeds, the spell ends. Either way, the target knows that you are probing into its mind, and unless you shift your attention to another creature's thoughts, the creature can use its action on its turn to make an Intelligence check contested by your Intelligence check; if it succeeds, the spell ends.
 
 Questions verbally directed at the target creature naturally shape the course of its thoughts, so this spell is particularly effective as part of an interrogation.
 
@@ -6692,7 +6690,7 @@ _1st-level illusion_
 - **Components:** V, S
 - **Duration:** 1 hour
 
-You make yourself—including your clothing, armor, weapons, and other belongings on your person look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
+You make yourself — including your clothing, armor, weapons, and other belongings on your person look different until the spell ends or until you use your action to dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you.
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
@@ -6957,7 +6955,7 @@ You cause a creature or an object you can see within range to grow larger or sma
 If the target is a creature, everything it is wearing and carrying changes size with it. Any item dropped by an affected creature returns to normal size at once.
 
 - _**Enlarge.**_ The target's size doubles in all dimensions, and its weight is multiplied by eight. This growth increases its size by one category from Medium to Large, for example. If there isn't enough room for the target to double its size, the creature or object attains the maximum possible size in the space available. Until the spell ends, the target also has advantage on Strength checks and Strength saving throws. The target's weapons also grow to match its new size. While these weapons are enlarged, the target's attacks with them deal 1d4 extra damage.
-- _**Reduce.**_ The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category—from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1).
+- _**Reduce.**_ The target's size is halved in all dimensions, and its weight is reduced to one-eighth of normal. This reduction decreases its size by one category — from Medium to Small, for example. Until the spell ends, the target also has disadvantage on Strength checks and Strength saving throws. The target's weapons also shrink to match its new size. While these weapons are reduced, the target's attacks with them deal 1d4 less damage (this can't reduce the damage below 1).
 
 ## Entangle
 
@@ -7177,7 +7175,7 @@ _6th-level divination_
 
 - **Casting Time:** 1 minute
 - **Range:** Self
-- **Components:** V, S, M (a set of divinatory tools such as bones, ivory sticks, cards, teeth, or carved runes—worth 100 gp and an object from the location you wish to find)
+- **Components:** V, S, M (a set of divinatory tools such as bones, ivory sticks, cards, teeth, or carved runes — worth 100 gp and an object from the location you wish to find)
 - **Duration:** Concentration, up to 1 day
 
 This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence. If you name a destination on another plane of existence, a destination that moves (such as a mobile fortress), or a destination that isn't specific (such as "a green dragon's lair"), the spell fails.
@@ -8226,7 +8224,7 @@ _4th-level divination_
 
 Describe or name a creature that is familiar to you. You sense the direction to the creature's location, as long as that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
 
-The spell can locate a specific creature known to you, or the nearest creature of a specific kind (such as a human or a unicorn), so long as you have seen such a creature up close—within 30 feet—at least once. If the creature you described or named is in a different form, such as being under the effects of a _Polymorph_ spell, this spell doesn't locate the creature.
+The spell can locate a specific creature known to you, or the nearest creature of a specific kind (such as a human or a unicorn), so long as you have seen such a creature up close — within 30 feet — at least once. If the creature you described or named is in a different form, such as being under the effects of a _Polymorph_ spell, this spell doesn't locate the creature.
 
 This spell can't locate a creature if running water at least 10 feet wide blocks a direct path between you and the creature.
 
@@ -8241,7 +8239,7 @@ _2nd-level divination_
 
 Describe or name an object that is familiar to you. You sense the direction to the object's location, as long as that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 
-The spell can locate a specific object known to you, as long as you have seen it up close—within 30 feet—at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
+The spell can locate a specific object known to you, as long as you have seen it up close — within 30 feet — at least once. Alternatively, the spell can locate the nearest object of a particular kind, such as a certain kind of apparel, jewelry, furniture, tool, or weapon.
 
 This spell can't locate an object if any thickness of lead, even a thin sheet, blocks a direct path between you and the object.
 
@@ -8552,7 +8550,7 @@ You create a sound or an image of an object within range that lasts for the dura
 
 If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends.
 
-If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
+If you create an image of an object — such as a chair, muddy footprints, or a small chest — it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
 
 If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
@@ -8666,7 +8664,7 @@ _6th-level transmutation_
 
 - **Casting Time:** 1 action
 - **Range:** 120 feet
-- **Components:** V, S, M (an iron blade and a small bag containing a mixture of soils—clay, loam, and sand)
+- **Components:** V, S, M (an iron blade and a small bag containing a mixture of soils — clay, loam, and sand)
 - **Duration:** Concentration, up to 2 hours
 
 Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. So, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square's elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete.
@@ -8926,7 +8924,7 @@ _9th-level abjuration_
 - **Components:** V, S
 - **Duration:** 10 minutes
 
-A shimmering, multicolored plane of light forms a vertical opaque wall—up to 90 feet long, 30 feet high, and 1 inch thick—centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.
+A shimmering, multicolored plane of light forms a vertical opaque wall — up to 90 feet long, 30 feet high, and 1 inch thick — centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 30 feet in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your action and the spell slot are wasted.
 
 The wall sheds bright light out to a range of 100 feet and dim light for an additional 100 feet. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves to within 20 feet of it or starts its turn there, the creature must succeed on a Constitution saving throw or become blinded for 1 minute.
 
@@ -9081,7 +9079,7 @@ You return a dead creature you touch to life, provided that it has been dead no 
 
 This spell also neutralizes any poisons and cures nonmagical diseases that affected the creature at the time it died. This spell doesn't, however, remove magical diseases, curses, or similar effects; if these aren't first removed prior to casting the spell, they take effect when the creature returns to life. The spell can't return an undead creature to life.
 
-This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival—its head, for instance—the spell automatically fails.
+This spell closes all mortal wounds, but it doesn't restore missing body parts. If the creature is lacking body parts or organs integral for its survival — its head, for instance — the spell automatically fails.
 
 Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.
 
@@ -9178,7 +9176,7 @@ _4th-level evocation_
 
 A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw. On a failed save, the creature is enclosed for the duration.
 
-Nothing—not physical objects, energy, or other spell effects—can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
+Nothing — not physical objects, energy, or other spell effects — can pass through the barrier, in or out, though a creature in the sphere can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it.
 
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere's walls and thus roll the sphere at up to half the creature's speed. Similarly, the globe can be picked up and moved by other creatures.
 
@@ -9891,7 +9889,7 @@ _5th-level conjuration_
 
 As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
 
-Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle includes a unique sigil sequence—a string of magical runes arranged in a particular pattern. When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You can learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
+Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle includes a unique sigil sequence — a string of magical runes arranged in a particular pattern. When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the GM. You can learn additional sigil sequences during your adventures. You can commit a new sigil sequence to memory after studying it for 1 minute.
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
 
@@ -10218,7 +10216,7 @@ _3rd-level transmutation (ritual)_
 - **Components:** V, S, M (a piece of cork)
 - **Duration:** 1 hour
 
-This spell grants the ability to move across any liquid surface—such as water, acid, mud, snow, quicksand, or lava—as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures you can see within range gain this ability for the duration.
+This spell grants the ability to move across any liquid surface — such as water, acid, mud, snow, quicksand, or lava — as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures you can see within range gain this ability for the duration.
 
 If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.
 
@@ -10524,7 +10522,7 @@ This disease targets humanoids, although gnomes are strangely immune. While in t
 
 Symptoms manifest 1d4 hours after infection and include fever and disorientation. The infected creature gains one level of exhaustion that can't be removed until the disease is cured.
 
-Any event that causes the infected creature great stress—including entering combat, taking damage, experiencing fear, or having a nightmare—forces the creature to make a DC 13 Constitution saving throw. On a failed save, the creature takes 5 (1d10) psychic damage and becomes incapacitated with mad laughter for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the mad laughter and the incapacitated condition on a success.
+Any event that causes the infected creature great stress — including entering combat, taking damage, experiencing fear, or having a nightmare — forces the creature to make a DC 13 Constitution saving throw. On a failed save, the creature takes 5 (1d10) psychic damage and becomes incapacitated with mad laughter for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the mad laughter and the incapacitated condition on a success.
 
 Any humanoid creature that starts its turn within 10 feet of an infected creature in the throes of mad laughter must succeed on a DC 10 Constitution saving throw or also become infected with the disease. Once a creature succeeds on this save, it is immune to the mad laughter of that particular infected creature for 24 hours.
 
@@ -10602,32 +10600,20 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 ### Indefinite Madness
 
-| d100   | Flaw (lasts until cured)                             |
-|--------|------------------------------------------------------|
-| 01–15  | "Being drunk keeps me sane."                         |
-| 16–25  | "I keep whatever I find."                            |
-| 26–30  | "I try to become more like someone else I            |
-|        | know—adopting his or her style of dress,             |
-|        | mannerisms, and name."                               |
-| 31–35  | "I must bend the truth, exaggerate, or outright      |
-|        | lie to be interesting to other people."              |
-| 36–45  | "Achieving my goal is the only thing of interest     |
-|        | to me, and I'll ignore everything else to pursue     |
-|        | it."                                                 |
-| 46–50  | "I find it hard to care about anything that goes     |
-|        | on around me."                                       |
-| 51–55  | "I don't like the way people judge me all the        |
-|        | time."                                               |
-| 56–70  | "I am the smartest, wisest, strongest, fastest,      |
-|        | and most beautiful person I know."                   |
-| 71–80  | "I am convinced that powerful enemies are            |
-|        | hunting me, and their agents are everywhere I        |
-|        | go. I am sure they're watching me all the time."     |
-| 81–85  | "There's only one person I can trust. And only I     |
-|        | can see this special friend."                        |
-| 86–95  | "I can't take anything seriously. The more           |
-|        | serious the situation, the funnier I find it."       |
-| 96–100 | "I've discovered that I really like killing people." |
+| d100   | Flaw (lasts until cured)                                                                                                                 |
+|--------|------------------------------------------------------------------------------------------------------------------------------------------|
+| 01–15  | "Being drunk keeps me sane."                                                                                                             |
+| 16–25  | "I keep whatever I find."                                                                                                                |
+| 26–30  | "I try to become more like someone else I know — adopting his or her style of dress, mannerisms, and name."                              |
+| 31–35  | "I must bend the truth, exaggerate, or outright lie to be interesting to other people."                                                  |
+| 36–45  | "Achieving my goal is the only thing of interest to me, and I'll ignore everything else to pursue it."                                   |
+| 46–50  | "I find it hard to care about anything that goes on around me."                                                                          |
+| 51–55  | "I don't like the way people judge me all the time."                                                                                     |
+| 56–70  | "I am the smartest, wisest, strongest, fastest, and most beautiful person I know."                                                       |
+| 71–80  | "I am convinced that powerful enemies are hunting me, and their agents are everywhere I go. I am sure they're watching me all the time." |
+| 81–85  | "There's only one person I can trust. And only I can see this special friend."                                                           |
+| 86–95  | "I can't take anything seriously. The more serious the situation, the funnier I find it."                                                |
+| 96–100 | "I've discovered that I really like killing people."                                                                                     |
 
 ## Curing Madness
 
@@ -10751,7 +10737,7 @@ Use common sense to determine whether more than one of a given kind of magic ite
 
 ### Paired Items
 
-Items that come in pairs—such as boots, bracers, gauntlets, and gloves—impart their benefits only if both items of the pair are worn. For example, a character wearing a boot of striding and springing on one foot and a boot of elvenkind on the other foot gains no benefit from either.
+Items that come in pairs — such as boots, bracers, gauntlets, and gloves — impart their benefits only if both items of the pair are worn. For example, a character wearing a boot of striding and springing on one foot and a boot of elvenkind on the other foot gains no benefit from either.
 
 ## Activating an Item
 
@@ -10771,7 +10757,7 @@ Some items are used up when they are activated. A potion or an elixir must be sw
 
 Some magic items allow the user to cast a spell from the item. The spell is cast at the lowest possible spell level, doesn't expend any of the user's spell slots, and requires no components, unless the item's description says otherwise. The spell uses its normal casting time, range, and duration, and the user of the item must concentrate if the spell requires concentration. Many items, such as potions, bypass the casting of a spell and confer the spell's effects, with their usual duration. Certain items make exceptions to these rules, changing the casting time, duration, or other parts of a spell.
 
-A magic item, such as certain staffs, may require you to use your own spellcasting ability when you cast a spell from the item. If you have more than one spellcasting ability, you choose which one to use with the item. If you don't have a spellcasting ability—perhaps you're a rogue with the Use Magic Device feature—your spellcasting ability modifier is +0 for the item, and your proficiency bonus does apply.
+A magic item, such as certain staffs, may require you to use your own spellcasting ability when you cast a spell from the item. If you have more than one spellcasting ability, you choose which one to use with the item. If you don't have a spellcasting ability — perhaps you're a rogue with the Use Magic Device feature — your spellcasting ability modifier is +0 for the item, and your proficiency bonus does apply.
 
 ### Charges
 
@@ -10964,42 +10950,42 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 ### Gray Bag of Tricks
 
-- **d8 Creature**
-- 1 Weasel
-- 2 Giant rat
-- 3 Badger
-- 4 Boar
-- 5 Panther
-- 6 Giant badger
-
-| 7   | Dire wolf   |
-|-----|-------------|
-
-8 Giant elk
+|   d8 | Creature     |
+|------|--------------|
+|    1 | Weasel       |
+|    2 | Giant rat    |
+|    3 | Badger       |
+|    4 | Boar         |
+|    5 | Panther      |
+|    6 | Giant badger |
+|    7 | Dire wolf    |
+|    8 | Giant elk    |
 
 ### Rust Bag of Tricks
 
-#### d8 Creature
-
-- 1 Rat
-- 2 Owl 3 Mastiff
-- 4 Goat
-- 5 Giant goat
-- 6 Giant boar
-- 7 Lion
-- 8 Brown bear
+|   d8 | Creature   |
+|------|------------|
+|    1 | Rat        |
+|    2 | Owl        |
+|    3 | Mastiff    |
+|    4 | Goat       |
+|    5 | Giant goat |
+|    6 | Giant boar |
+|    7 | Lion       |
+|    8 | Brown bear |
 
 ### Tan Bag of Tricks
 
-## d8 Creature
-
-- 1 Jackal
-- 2 Ape
-- 3 Baboon 4 Axe beak
-- 5 Black bear
-- 6 Giant weasel
-- 7 Giant hyena
-- 8 Tiger
+|   d8 | Creature     |
+|------|--------------|
+|    1 | Jackal       |
+|    2 | Ape          |
+|    3 | Baboon       |
+|    4 | Axe beak     |
+|    5 | Black bear   |
+|    6 | Giant weasel |
+|    7 | Giant hyena  |
+|    8 | Tiger        |
 
 ## Bead of Force
 
@@ -11429,7 +11415,7 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 - _**Moon.**_ You are granted the ability to cast the _Wish_ spell 1d3 times.
 - _**Rogue.**_ A nonplayer character of the GM's choice becomes hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Nothing less than a _Wish_ spell or divine intervention can end the NPC's hostility toward you.
 - _**Ruin.**_ All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
-- _**Skull.**_ You summon an avatar of death—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the GM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can't be restored to life.
+- _**Skull.**_ You summon an avatar of death — a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the GM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can't be restored to life.
 
 ### Avatar of Death
 
@@ -11660,33 +11646,30 @@ The creature exists for a duration specific to each figurine. At the end of the 
 - _**Bronze Griffon (Rare).**_ This bronze statuette is of a griffon rampant. It can become a griffon for up to 6 hours. Once it has been used, it can't be used again until 5 days have passed.
 - _**Ebony Fly (Rare).**_ This ebony statuette is carved in the likeness of a horsefly. It can become a giant fly for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
 
-### Giant Fly
+    ### Giant Fly
 
-_Large beast, unaligned_
+    _Large beast, unaligned_
 
-- **Armor Class** 11
-- **Hit Points** 19 (3d10 + 3)
-- **Speed** 30 ft., fly 60 ft.
+    - **Armor Class** 11
+    - **Hit Points** 19 (3d10 + 3)
+    - **Speed** 30 ft., fly 60 ft.
 
-| STR     | DEX     | CON     | INT    | WIS     | CHA    |
-|---------|---------|---------|--------|---------|--------|
-| 14 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
+    | STR     | DEX     | CON     | INT    | WIS     | CHA    |
+    |---------|---------|---------|--------|---------|--------|
+    | 14 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (+0) | 3 (-4) |
 
-- **Senses** darkvision 60 ft., passive Perception 10
-- **Languages** —
+    - **Senses** darkvision 60 ft., passive Perception 10
+    - **Languages** —
 
 - _**Golden Lions (Rare).**_ These gold statuettes of lions are always created in pairs. You can use one figurine or both simultaneously. Each can become a lion for up to 1 hour. Once a lion has been used, it can't be used again until 7 days have passed.
 - _**Ivory Goats (Rare).**_ These ivory statuettes of goats are always created in sets of three. Each goat looks unique and functions differently from the others. Their properties are as follows:
-
-• The _goat of traveling_ can become a Large goat with the same statistics as a riding horse. It has 24 charges, and each hour or portion thereof it spends in beast form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all its charges.
-
+- The _goat of traveling_ can become a Large goat with the same statistics as a riding horse. It has 24 charges, and each hour or portion thereof it spends in beast form costs 1 charge. While it has charges, you can use it as often as you wish. When it runs out of charges, it reverts to a figurine and can't be used again until 7 days have passed, when it regains all its charges.
 - The _goat of travail_ becomes a giant goat for up to 3 hours. Once it has been used, it can't be used again until 30 days have passed.
 - The _goat of terror_ becomes a giant goat for up to 3 hours. The goat can't attack, but you can remove its horns and use them as weapons. One horn becomes a _+1 lance_, and the other becomes a _+2 longsword_. Removing a horn requires an action, and the weapons disappear and the horns return when the goat reverts to figurine form. In addition, the goat radiates a 30-foot-radius aura of terror while you are riding it. Any creature hostile to you that starts its turn in the aura must succeed on a DC 15 Wisdom saving throw or be frightened of the goat for 1 minute, or until the goat reverts to figurine form. The frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it successfully saves against the effect, a creature is immune to the goat's aura for the next 24 hours. Once the figurine has been used, it can't be used again until 15 days have passed.
-
 - _**Marble Elephant (Rare).**_ This marble statuette is about 4 inches high and long. It can become an elephant for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
 - _**Obsidian Steed (Very Rare).**_ This polished obsidian horse can become a nightmare for up to 24 hours. The nightmare fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.
 
-If you have a good alignment, the figurine has a 10 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the plane of Hades, where the nightmare reverts to figurine form.
+    If you have a good alignment, the figurine has a 10 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the nightmare while it is ignoring your orders, you and the nightmare are instantly transported to a random location on the plane of Hades, where the nightmare reverts to figurine form.
 
 - _**Onyx Dog (Rare).**_ This onyx statuette of a dog can become a mastiff for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has darkvision out to a range of 60 feet and can see invisible creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.
 - _**Serpentine Owl (Rare).**_ This serpentine statuette of an owl can become a giant owl for up to 8 hours. Once it has been used, it can't be used again until 2 days have passed. The owl can telepathically communicate with you at any range if you and it are on the same plane of existence.
@@ -11841,7 +11824,7 @@ While wearing this helm, you can use an action to cast the _Comprehend Languages
 
 _Wondrous item, uncommon (requires attunement)_
 
-While wearing this helm, you can use an action to cast the _Detect Thoughts_ spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply—using a bonus action to do so—while your focus on it continues.
+While wearing this helm, you can use an action to cast the _Detect Thoughts_ spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply — using a bonus action to do so — while your focus on it continues.
 
 While focusing on a creature with _Detect Thoughts_, you can use an action to cast the _Suggestion_ spell (save DC 13) from the helm on that creature. Once used, the _Suggestion_ property can't be used again until the next dawn.
 
@@ -12089,7 +12072,7 @@ _Wondrous item, very rare_
 
 Typically found in 1d4 pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
 
-Each pot of paint is sufficient to cover 1,000 square feet of a surface, which lets you create inanimate objects or terrain features—such as a door, a pit, flowers, trees, cells, rooms, or weapons that are up to 10,000 cubic feet. It takes 10 minutes to cover 100 square feet.
+Each pot of paint is sufficient to cover 1,000 square feet of a surface, which lets you create inanimate objects or terrain features — such as a door, a pit, flowers, trees, cells, rooms, or weapons that are up to 10,000 cubic feet. It takes 10 minutes to cover 100 square feet.
 
 When you complete the painting, the object or terrain feature depicted becomes a real, nonmagical object. Thus, painting a door on a wall creates an actual door that can be opened to whatever is beyond. Painting a pit on a floor creates a real pit, and its depth counts against the total area of objects you create.
 
@@ -12693,7 +12676,7 @@ In addition, the robe has 4d4 other patches. The GM chooses the patches or deter
 
 _Rod, very rare (requires attunement)_
 
-While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell's effect is canceled, and the spell's energy—not the spell itself—is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can't absorb more. If you are targeted by a spell that the rod can't store, the rod has no effect on that spell.
+While holding this rod, you can use your reaction to absorb a spell that is targeting only you and not with an area of effect. The absorbed spell's effect is canceled, and the spell's energy — not the spell itself — is stored in the rod. The energy has the same level as the spell when it was cast. The rod can absorb and store up to 50 levels of energy over the course of its existence. Once the rod absorbs 50 levels of energy, it can't absorb more. If you are targeted by a spell that the rod can't store, the rod has no effect on that spell.
 
 When you become attuned to the rod, you know how many levels of energy the rod has absorbed over the course of its existence, and how many levels of spell energy it currently has stored.
 
@@ -13461,7 +13444,7 @@ The game includes the following monster types, which have no rules of their own.
 - **Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.
 - **Giants** tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.
 - **Humanoids** are the main peoples of a fantasy gaming world, both civilized and savage, including humans and a tremendous variety of other species. They have language and culture, few if any innate magical abilities (though most humanoids can learn spellcasting), and a bipedal form. The most common humanoid races are the ones most suitable as player characters: humans, dwarves, elves, and halflings. Almost as numerous but far more savage and brutal, and almost uniformly evil, are the races of goblinoids (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
-- **Monstrosities** are monsters in the strictest sense—frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry (such as owlbears), and others are the product of terrible curses (including minotaurs and yuan-ti). They defy categorization, and in some sense serve as a catch-all category for creatures that don't fit into any other type.
+- **Monstrosities** are monsters in the strictest sense — frightening creatures that are not ordinary, not truly natural, and almost never benign. Some are the results of magical experimentation gone awry (such as owlbears), and others are the product of terrible curses (including minotaurs and yuan-ti). They defy categorization, and in some sense serve as a catch-all category for creatures that don't fit into any other type.
 - **Oozes** are gelatinous creatures that rarely have a fixed shape. They are mostly subterranean, dwelling in caves and dungeons and feeding on refuse, carrion, or creatures unlucky enough to get in their way. Black puddings and gelatinous cubes are among the most recognizable oozes.
 - **Plants** in this context are vegetable creatures, not ordinary flora. Most of them are ambulatory, and some are carnivorous. The quintessential plants are the shambling mound and the treant. Fungal creatures such as the gas spore and the myconid also fall into this category.
 - **Undead** are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as vampires and zombies, as well as bodiless spirits, such as ghosts and specters.
@@ -13751,7 +13734,7 @@ If a creature assumes the form of a legendary creature, such as through a spell,
 
 ### Legendary Actions
 
-A legendary creature can take a certain number of special actions—called legendary actions—outside its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can't use them while incapacitated or otherwise unable to take actions. If surprised, it can't use them until after its first turn in the combat.
+A legendary creature can take a certain number of special actions — called legendary actions — outside its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. A creature regains its spent legendary actions at the start of its turn. It can forgo using them, and it can't use them while incapacitated or otherwise unable to take actions. If surprised, it can't use them until after its first turn in the combat.
 
 ### A Legendary Creature's Lair
 
@@ -18432,7 +18415,7 @@ _Medium monstrosity, lawful evil_
 
 #### Actions
 
-- _**Multiattack.**_ The medusa makes either three melee attacks—one with its snake hair and two with its shortsword—or two ranged attacks with its longbow.
+- _**Multiattack.**_ The medusa makes either three melee attacks — one with its snake hair and two with its shortsword — or two ranged attacks with its longbow.
 - _**Snake Hair.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.
 - _**Shortsword.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.
 - _**Longbow.** Ranged Weapon Attack:_ +5 to hit, range 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
@@ -19300,7 +19283,7 @@ _Gargantuan monstrosity, unaligned_
 
 - _**Multiattack.**_ The roc makes two attacks: one with its beak and one with its talons.
 - _**Beak.** Melee Weapon Attack:_ +13 to hit, reach 10 ft., one target. _Hit:_ 27 (4d8 + 9) piercing damage.
-- _**Talons.** Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+- _**Talons.** Melee Weapon Attack:_ +13 to hit, reach 5 ft., one target. _Hit:_ 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
 
 ### Roper
 
@@ -20354,8 +20337,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 - A paralyzed creature is incapacitated (see the condition) and can't move or speak.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
-
-• Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
 
 ## Petrified
 
@@ -20368,7 +20350,7 @@ Finishing a long rest reduces a creature's exhaustion level by 1, provided that 
 
 ## Poisoned
 
-• A poisoned creature has disadvantage on attack rolls and ability checks.
+- A poisoned creature has disadvantage on attack rolls and ability checks.
 
 ## Prone
 
@@ -20402,7 +20384,7 @@ The Celtic, Egyptian, Greek, and Norse pantheons are fantasy interpretations of 
 
 ## The Celtic Pantheon
 
-It's said that something wild lurks in the heart of every soul, a space that thrills to the sound of geese calling at night, to the whispering wind through the pines, to the unexpected red of mistletoe on an oak—and it is in this space that the Celtic gods dwell. They sprang from the brook and stream, their might heightened by the strength of the oak and the beauty of the woodlands and open moor. When the first forester dared put a name to the face seen in the bole of a tree or the voice babbling in a brook, these gods forced themselves into being.
+It's said that something wild lurks in the heart of every soul, a space that thrills to the sound of geese calling at night, to the whispering wind through the pines, to the unexpected red of mistletoe on an oak — and it is in this space that the Celtic gods dwell. They sprang from the brook and stream, their might heightened by the strength of the oak and the beauty of the woodlands and open moor. When the first forester dared put a name to the face seen in the bole of a tree or the voice babbling in a brook, these gods forced themselves into being.
 
 The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
@@ -20412,13 +20394,13 @@ The gods of Olympus make themselves known with the gentle lap of waves against t
 
 ## The Egyptian Pantheon
 
-These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma'at—the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
+These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma'at — the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
 
 The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
 
 ## The Norse Pantheon
 
-Where the land plummets from the snowy hills into the icy fjords below, where the longboats draw up on to the beach, where the glaciers flow forward and retreat with every fall and spring—this is the land of the Vikings, the home of the Norse pantheon. It's a brutal clime, and one that calls for brutal living. The warriors of the land have had to adapt to the harsh conditions in order to survive, but they haven't been too twisted by the needs of their environment. Given the necessity of raiding for food and wealth, it's surprising the mortals turned out as well as they did. Their powers reflect the need these warriors had for strong leadership and decisive action. Thus, they see their deities in every bend of a river, hear them in the crash of the thunder and the booming of the glaciers, and smell them in the smoke of a burning longhouse.
+Where the land plummets from the snowy hills into the icy fjords below, where the longboats draw up on to the beach, where the glaciers flow forward and retreat with every fall and spring — this is the land of the Vikings, the home of the Norse pantheon. It's a brutal clime, and one that calls for brutal living. The warriors of the land have had to adapt to the harsh conditions in order to survive, but they haven't been too twisted by the needs of their environment. Given the necessity of raiding for food and wealth, it's surprising the mortals turned out as well as they did. Their powers reflect the need these warriors had for strong leadership and decisive action. Thus, they see their deities in every bend of a river, hear them in the crash of the thunder and the booming of the glaciers, and smell them in the smoke of a burning longhouse.
 
 The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
 
@@ -20531,8 +20513,8 @@ When adventurers travel into other planes of existence, they are undertaking a l
 
 Travel to the planes beyond the Material Plane can be accomplished in two ways: by casting a spell or by using a planar portal.
 
-- _**Spells.**_ A number of spells allow direct or indirect access to other planes of existence. _Plane Shift_ and _Gate_ can transport adventurers directly to any other plane of existence, with different degrees of precision. _Etherealness_ allows adventurers to enter the Ethereal Plane and travel from there to any of the planes it touches—such as the Elemental Planes. And the _Astral Projection_ spell lets adventurers project themselves into the Astral Plane and travel to the Outer Planes.
-- _**Portals.**_ A portal is a general term for a stationary interplanar connection that links a specific location on one plane to a specific location on another. Some portals are like doorways, a clear window, or a fogshrouded passage, and simply stepping through it effects the interplanar travel. Others are locations circles of standing stones, soaring towers, sailing ships, or even whole towns—that exist in multiple planes at once or flicker from one plane to another in turn. Some are vortices, typically joining an Elemental Plane with a very similar location on the Material Plane, such as the heart of a volcano (leading to the Plane of Fire) or the depths of the ocean (to the Plane of Water).
+- _**Spells.**_ A number of spells allow direct or indirect access to other planes of existence. _Plane Shift_ and _Gate_ can transport adventurers directly to any other plane of existence, with different degrees of precision. _Etherealness_ allows adventurers to enter the Ethereal Plane and travel from there to any of the planes it touches — such as the Elemental Planes. And the _Astral Projection_ spell lets adventurers project themselves into the Astral Plane and travel to the Outer Planes.
+- _**Portals.**_ A portal is a general term for a stationary interplanar connection that links a specific location on one plane to a specific location on another. Some portals are like doorways, a clear window, or a fogshrouded passage, and simply stepping through it effects the interplanar travel. Others are locations circles of standing stones, soaring towers, sailing ships, or even whole towns — that exist in multiple planes at once or flicker from one plane to another in turn. Some are vortices, typically joining an Elemental Plane with a very similar location on the Material Plane, such as the heart of a volcano (leading to the Plane of Fire) or the depths of the ocean (to the Plane of Water).
 
 ### Transitive Planes
 
@@ -20546,9 +20528,9 @@ The **Astral Plane** is the realm of thought and dream, where visitors travel as
 
 ### Inner Planes
 
-The Inner Planes surround and enfold the Material Plane and its echoes, providing the raw elemental substance from which all the worlds were made. The four **Elemental Planes**—Air, Earth, Fire, and Water—form a ring around the Material Plane, suspended within the churning **Elemental Chaos**.
+The Inner Planes surround and enfold the Material Plane and its echoes, providing the raw elemental substance from which all the worlds were made. The four **Elemental Planes** — Air, Earth, Fire, and Water — form a ring around the Material Plane, suspended within the churning **Elemental Chaos**.
 
-At their innermost edges, where they are closest to the Material Plane (in a conceptual if not a literal geographical sense), the four Elemental Planes resemble a world in the Material Plane. The four elements mingle together as they do in the Material Plane, forming land, sea, and sky. Farther from the Material Plane, though, the Elemental Planes are both alien and hostile. Here, the elements exist in their purest form—great expanses of solid earth, blazing fire, crystal-clear water, and unsullied air. These regions are little-known, so when discussing the Plane of Fire, for example, a speaker usually means just the border region. At the farthest extents of the Inner Planes, the pure elements dissolve and bleed together into an unending tumult of clashing energies and colliding substance, the Elemental Chaos.
+At their innermost edges, where they are closest to the Material Plane (in a conceptual if not a literal geographical sense), the four Elemental Planes resemble a world in the Material Plane. The four elements mingle together as they do in the Material Plane, forming land, sea, and sky. Farther from the Material Plane, though, the Elemental Planes are both alien and hostile. Here, the elements exist in their purest form — great expanses of solid earth, blazing fire, crystal-clear water, and unsullied air. These regions are little-known, so when discussing the Plane of Fire, for example, a speaker usually means just the border region. At the farthest extents of the Inner Planes, the pure elements dissolve and bleed together into an unending tumult of clashing energies and colliding substance, the Elemental Chaos.
 
 ### Outer Planes
 
@@ -20558,7 +20540,7 @@ When discussing anything to do with deities, the language used must be highly me
 
 Even in those perceptible regions, appearances can be deceptive. Initially, many of the Outer Planes appear hospitable and familiar to natives of the Material Plane. But the landscape can change at the whims of the powerful forces that live on the Outer Planes. The desires of the mighty forces that dwell on these planes can remake them completely, effectively erasing and rebuilding existence itself to better fulfill their own needs.
 
-Distance is a virtually meaningless concept on the Outer Planes. The perceptible regions of the planes often seem quite small, but they can also stretch on to what seems like infinity. It might be possible to take a guided tour of the Nine Hells, from the first layer to the ninth, in a single day—if the powers of the Hells desire it. Or it could take weeks for travelers to make a grueling trek across a single layer.
+Distance is a virtually meaningless concept on the Outer Planes. The perceptible regions of the planes often seem quite small, but they can also stretch on to what seems like infinity. It might be possible to take a guided tour of the Nine Hells, from the first layer to the ninth, in a single day — if the powers of the Hells desire it. Or it could take weeks for travelers to make a grueling trek across a single layer.
 
 The most well-known Outer Planes are a group of sixteen planes that correspond to the eight alignments (excluding neutrality) and the shades of distinction between them.
 

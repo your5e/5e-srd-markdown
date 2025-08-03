@@ -6,7 +6,7 @@ Inspiration is a rule the game master can use to reward you for playing your cha
 
 Your GM can choose to give you inspiration for a variety of reasons. Typically, GMs award it when you play out your personality traits, give in to the drawbacks presented by a flaw or bond, and otherwise portray your character in a compelling way. Your GM will tell you how you can earn inspiration in the game.
 
-You either have inspiration or you don't—you can't stockpile multiple "inspirations" for later use.
+You either have inspiration or you don't — you can't stockpile multiple "inspirations" for later use.
 
 ## Using Inspiration
 
