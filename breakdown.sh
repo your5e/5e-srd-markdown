@@ -1,13 +1,17 @@
 #!/usr/bin/env -S bash -euo pipefail
 
+source "$(dirname "$0")/lib/fix_headers.sh"
+
 function main {
     extract_only=0
     match_pattern=""
     quiet=0
+    ignore_headers=0
 
-    while getopts "ehm:q" option; do
+    while getopts "ehim:q" option; do
         case "$option" in
             e)  extract_only=1 ;;
+            i)  ignore_headers=1 ;;
             m)  match_pattern="$OPTARG"; extract_only=1 ;;
             q)  quiet=1 ;;
             *)  usage ;;
@@ -116,17 +120,21 @@ function main {
         [[ -n "$match_pattern" && ! "$target_file" =~ $match_pattern ]] \
             && continue
 
-        target_path="$source_dir/$target_file"
-        mkdir -p "$(dirname "$target_path")"
-        sed -n "${start_line},${end_line}p" "$source_file" > "$target_path"
+        if extract_file \
+            "$source_file" \
+            "$start_line" \
+            "$end_line" \
+            "$source_dir/$target_file" \
+            "$ignore_headers"; \
+        then
+            [ $quiet -eq 1 ] \
+                && continue
 
-        [ $quiet -eq 1 ] \
-            && continue
-
-        if [[ ! -t 1 ]]; then
-            echo "$start_line-$end_line > $target_file"
-        else
-            printf '%-118s\r' "$start_line-$end_line > $target_file"
+            if [[ ! -t 1 ]]; then
+                echo "$start_line-$end_line > $target_file"
+            else
+                printf '%-118s\r' "$start_line-$end_line > $target_file"
+            fi
         fi
     done
 
@@ -140,9 +148,50 @@ function main {
     fi
 }
 
-function usage {
-    abort "breakdown.sh [-e] [-m pattern] [-q] file.md [breakdown.txt]" "Usage"
+function extract_file {
+    local source_file="$1"
+    local start_line="$2"
+    local end_line="$3"
+    local target_path="$4"
+    local ignore_headers="$5"
+
+    local files_differ=0
+    local new_content=$(sed -n "${start_line},${end_line}p" "$source_file")
+
+    mkdir -p "$(dirname "$target_path")"
+
+    if [ ! -f "$target_path" ]; then
+        files_differ=1
+
+    elif [ "$ignore_headers" -eq 1 ]; then
+        # compare ignoring header depth
+        if [ \
+            "$(echo "$new_content" | sed 's/^##* *//')" \
+            != "$(sed 's/^##* *//' "$target_path")" \
+        ]; then
+            files_differ=1
+        fi
+
+    else
+        if [ "$new_content" != "$(cat "$target_path")" ]; then
+            files_differ=1
+        fi
+    fi
+
+    if [ $files_differ -eq 1 ]; then
+        echo "$new_content" > "$target_path"
+        [ "$ignore_headers" -eq 1 ] \
+            && fix_headers "$target_path" 2>/dev/null || true
+        return 0
+    fi
+
+    return 1
 }
+
+function usage {
+    abort "breakdown.sh [-e] [-i] [-m pattern] [-q] file.md [breakdown.txt]" "Usage"
+}
+
 
 function abort {
     echo "${2:-Error}: $1" >&2

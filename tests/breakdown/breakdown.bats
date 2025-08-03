@@ -4,13 +4,14 @@ setup() {
     export TEST_DIR="tests/breakdown"
 
     cp "$TEST_DIR/source.md" "$BATS_TEST_TMPDIR/"
+    cp "$TEST_DIR/altered_source.md" "$BATS_TEST_TMPDIR/"
     cp "$TEST_DIR/breakdown.txt" "$BATS_TEST_TMPDIR/"
     cp "$TEST_DIR/breakdown_invalid.txt" "$BATS_TEST_TMPDIR/"
 }
 
 @test "script with no arguments should show usage" {
     run ./breakdown.sh
-    diff -u <(echo "Usage: breakdown.sh [-e] [-m pattern] [-q] file.md [breakdown.txt]") <(echo "$output")
+    diff -u <(echo "Usage: breakdown.sh [-e] [-i] [-m pattern] [-q] file.md [breakdown.txt]") <(echo "$output")
     [ "$status" -eq 1 ]
 }
 
@@ -127,5 +128,59 @@ setup() {
     diff -u $TEST_DIR/expected/section_one.md "$BATS_TEST_TMPDIR/sections/section_one.md"
     diff -u $TEST_DIR/expected/section_three.md "$BATS_TEST_TMPDIR/sections/section_three.md"
     diff -u $TEST_DIR/source.md "$BATS_TEST_TMPDIR/source.md"
+    [ "$status" -eq 0 ]
+}
+
+@test "identical content is not written" {
+    current_time=$(date +%s)
+    rsync -a --times "$TEST_DIR/expected/" "$BATS_TEST_TMPDIR/sections/"
+    timestamp_one=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_one.md")
+    [ "$timestamp_one" -lt "$((current_time - 60))" ]
+    timestamp_two=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_two.md")
+    [ "$timestamp_two" -lt "$((current_time - 60))" ]
+    timestamp_three=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_three.md")
+    [ "$timestamp_three" -lt "$((current_time - 60))" ]
+
+    run ./breakdown.sh -e "$BATS_TEST_TMPDIR/source.md" "$BATS_TEST_TMPDIR/breakdown.txt"
+    diff -u <(echo "") <(echo "$output")
+
+    # the timestamps shouldn't change because having identical
+    # content should skip updating the files
+    new_timestamp_one=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_one.md")
+    [ "$timestamp_one" -eq "$new_timestamp_one" ]
+    new_timestamp_two=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_two.md")
+    [ "$timestamp_two" -eq "$new_timestamp_two" ]
+    new_timestamp_three=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_three.md")
+    [ "$timestamp_three" -eq "$new_timestamp_three" ]
+
+    [ "$status" -eq 0 ]
+}
+
+@test "-i treats files as identical when only headers change" {
+    rsync -a --times tests/breakdown/altered/ "$BATS_TEST_TMPDIR/sections/"
+
+    run ./breakdown.sh -i "$BATS_TEST_TMPDIR/source.md" "$BATS_TEST_TMPDIR/breakdown.txt"
+    diff -u <(echo "") <(echo "$output")
+
+    diff -u tests/breakdown/altered/section_one.md "$BATS_TEST_TMPDIR/sections/section_one.md"
+    diff -u tests/breakdown/altered/section_two.md "$BATS_TEST_TMPDIR/sections/section_two.md"
+    diff -u tests/breakdown/altered/section_three.md "$BATS_TEST_TMPDIR/sections/section_three.md"
+    [ "$status" -eq 0 ]
+}
+
+@test "-i fixes header indentation on updated files" {
+    expected_output=$(sed -e 's/^        //' <<'        EOF'
+        14-20 > sections/section_two.md
+        EOF
+    )
+
+    rsync -a --times tests/breakdown/altered/ "$BATS_TEST_TMPDIR/sections/"
+
+    run ./breakdown.sh -i "$BATS_TEST_TMPDIR/altered_source.md" "$BATS_TEST_TMPDIR/breakdown.txt"
+    diff -u <(echo "$expected_output") <(echo "$output")
+
+    diff -u tests/breakdown/altered/section_one.md "$BATS_TEST_TMPDIR/sections/section_one.md"
+    diff -u tests/breakdown/expected/altered_section_two.md "$BATS_TEST_TMPDIR/sections/section_two.md"
+    diff -u tests/breakdown/altered/section_three.md "$BATS_TEST_TMPDIR/sections/section_three.md"
     [ "$status" -eq 0 ]
 }
