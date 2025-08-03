@@ -276,18 +276,31 @@ def clean_statblock_spellcasting_marker(lines, index):
 def clean_canonicalise_proper_nouns(lines, index):
     # *speak with dead.* -> _Speak with Dead_.
     original = lines[index]
+    potential_matches = re.findall(
+        r'(?<![\*_])([\*_])(?!\*)([a-zA-Z][^*_]*?)\1(?!\*)',
+        lines[index],
+    )
 
-    potential_matches = re.findall(r'\*([a-zA-Z][^*]*?)\*', lines[index])
-    for match in potential_matches:
+    for marker, text in potential_matches:
         # grouped by first letter to speed up matching
-        first_letter = match[0].lower()
+        first_letter = text[0].lower()
         for names in [spells, magic_items]:
             if first_letter in names:
                 for name in names[first_letter]:
                     # punctuation moves outside of the emphasis
-                    pattern = r'(?<!\*)\*\b' + re.escape(name.lower()) + r'\b([.,:;!?]*)\*(?!\*)'
+                    pattern = (
+                        re.escape(marker)
+                        + re.escape(name.lower())
+                        + r'([.,:;!?]*)'
+                        + re.escape(marker)
+                    )
                     replacement = f'_{name}_\\1'
-                    lines[index] = re.sub(pattern, replacement, lines[index], flags=re.IGNORECASE)
+                    lines[index] = re.sub(
+                        pattern,
+                        replacement,
+                        lines[index],
+                        flags=re.IGNORECASE
+                    )
 
     if lines[index] != original:
         return 0

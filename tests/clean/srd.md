@@ -290,3 +290,21 @@ There are many easy ways to customize the NPCs in this appendix for your home ca
 *Armor and Weapon Swaps.* You can upgrade or downgrade an NPC's armor, or add or switch weapons. Adjustments to Armor Class and damage can change an NPC's challenge rating.
 
 *Magic Items.* The more powerful an NPC, the more likely it has one or more magic items in its possession. An archmage, for example, might have a magic staff or wand, as well as one or more potions and scrolls. Giving an NPC a potent damage-dealing magic item could alter its challenge rating.
+
+##### Arctic
+
+| Druid Level   | Circle Spells                     |
+|---------------|-----------------------------------|
+| 3rd           | _hold person_, _spike growth_         |
+| 5th           | *sleet storm*, *slow*                 |
+| 7th           | _freedom of movement_, _ice storm_    |
+| 9th           | _commune with nature_, _cone of cold_ |
+
+## Luck Blade
+
+_Weapon (any sword), legendary (requires attunement)_
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
+
+- _**Luck.**_ If the sword is on your person, you can call on its luck (no action required) to reroll one attack roll, ability check, or saving throw you dislike. You must use the second roll. This property can't be used again until the next dawn.
+- _**Wish.**_ The sword has 1d4 – 1 charges. While holding it, you can use an action to expend 1 charge and cast the _Wish_ spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.

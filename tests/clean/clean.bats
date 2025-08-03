@@ -47,6 +47,7 @@ setup() {
         Warning: ## Equipment, 71: em-dash not surrounded by spaces
         Warning: ## Equipment, 71: table has empty header cells
         Warning: #### Traits, 249: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
+        Warning: ##### Arctic, 275: table immediately after header
         EOF
     )
 
@@ -66,6 +67,7 @@ setup() {
         Warning: ## Equipment, 71: em-dash not surrounded by spaces
         Warning: ## Equipment, 71: table has empty header cells
         Warning: #### Traits, 249: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
+        Warning: ##### Arctic, 275: table immediately after header
         EOF
     )
 
@@ -100,6 +102,7 @@ setup() {
         Warning: #### **Hyena**, 232: unusual Unicode characters: U+2212
         Warning: ## **Wereboar**, 252: table has empty header cells
         Warning: ## **Wereboar**, 254: unusual Unicode characters: U+2212
+        Warning: ##### Arctic, 296: table immediately after header
         EOF
     )
 
