@@ -309,7 +309,7 @@ def clean_add_traits_header(lines, index):
 
 def clean_italic_emphasis_markers(lines, index):
     # *word* -> _word_
-    italics = re.sub(r'(?<!\*)\*([^*]+)\*(?!\*)', r'_\1_', lines[index])
+    italics = re.sub(r'(?<!\\)(?<!\*)\*([^*]+)\*(?!\*)', r'_\1_', lines[index])
     if italics != lines[index]:
         lines[index] = italics
         return 0
@@ -465,6 +465,31 @@ def warn_table_after_header(lines, index):
     return None
 
 
+def warn_bullet_characters(lines, index):
+    bullets = [
+        '•', '▪', '▫', '‣', '⁃', '◦', '∙',  # alternative bullet-like markers
+        '‒', '–', '—', '―', '⁻', '−',       # other types of hyphens
+    ]
+
+    line = lines[index].lstrip()
+    if line and any(line.startswith(char) for char in bullets):
+        return "bullet (instead of Markdown list?)"
+    return None
+
+
+def warn_em_dash_spacing(lines, index):
+    line = lines[index]
+    if '—' in line:
+        # Check for em-dash not surrounded by spaces
+        for i, char in enumerate(line):
+            if char == '—':
+                has_space_before = i == 0 or line[i-1] == ' '
+                has_space_after = i == len(line)-1 or line[i+1] == ' '
+                if not (has_space_before and has_space_after):
+                    return "em-dash not surrounded by spaces"
+    return None
+
+
 def warn_unusual_unicode(lines, index):
     # let's not be too clever
     unusual_chars = set()
@@ -494,6 +519,8 @@ def warn_srd(lines, ignore_file=None):
         warn_midpara_italics,
         warn_inconsistent_list_formatting,
         warn_table_after_header,
+        warn_bullet_characters,
+        warn_em_dash_spacing,
         warn_unusual_unicode,
         warn_empty_table_header,
     ]

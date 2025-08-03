@@ -44,6 +44,7 @@ setup() {
         Warning: # The Barbarian, 12: table has empty header cells
         Warning: # The Barbarian, 27: possible table run-on
         Warning: # The Barbarian, 27: table has empty header cells
+        Warning: ## Equipment, 71: em-dash not surrounded by spaces
         Warning: ## Equipment, 71: table has empty header cells
         Warning: #### Traits, 249: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
         EOF
@@ -62,6 +63,7 @@ setup() {
         Warning: # The Barbarian, 12: table has empty header cells
         Warning: # The Barbarian, 27: possible table run-on
         Warning: # The Barbarian, 27: table has empty header cells
+        Warning: ## Equipment, 71: em-dash not surrounded by spaces
         Warning: ## Equipment, 71: table has empty header cells
         Warning: #### Traits, 249: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
         EOF
@@ -87,6 +89,7 @@ setup() {
         Warning: # **The Barbarian**, 15: table has empty header cells
         Warning: # **The Barbarian**, 30: possible table run-on
         Warning: # **The Barbarian**, 30: table has empty header cells
+        Warning: ## **Equipment**, 71: em-dash not surrounded by spaces
         Warning: ## **Equipment**, 71: table has empty header cells
         Warning: ## **Equipment**, 86: possible table run-on
         Warning: #### **Black Pudding**, 135: unusual Unicode characters: U+2212
