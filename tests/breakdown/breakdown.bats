@@ -1,5 +1,17 @@
 #!/usr/bin/env bats
 
+UNAME="$(uname)"
+
+function timestamp {
+    local file="$1"
+    if [ "$UNAME" = 'Darwin' ]; then
+        stat -f %m "$file"
+    else
+        stat -c %Y "$file"
+    fi
+}
+
+
 setup() {
     export TEST_DIR="tests/breakdown"
 
@@ -134,24 +146,21 @@ setup() {
 @test "identical content is not written" {
     current_time=$(date +%s)
     rsync -a --times "$TEST_DIR/expected/" "$BATS_TEST_TMPDIR/sections/"
-    timestamp_one=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_one.md")
+
+    timestamp_one=$(timestamp "$BATS_TEST_TMPDIR/sections/section_one.md")
     [ "$timestamp_one" -lt "$((current_time - 60))" ]
-    timestamp_two=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_two.md")
+    timestamp_two=$(timestamp "$BATS_TEST_TMPDIR/sections/section_two.md")
     [ "$timestamp_two" -lt "$((current_time - 60))" ]
-    timestamp_three=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_three.md")
+    timestamp_three=$(timestamp "$BATS_TEST_TMPDIR/sections/section_three.md")
     [ "$timestamp_three" -lt "$((current_time - 60))" ]
 
     run ./breakdown.sh -e "$BATS_TEST_TMPDIR/source.md" "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "") <(echo "$output")
 
-    # the timestamps shouldn't change because having identical
-    # content should skip updating the files
-    new_timestamp_one=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_one.md")
-    [ "$timestamp_one" -eq "$new_timestamp_one" ]
-    new_timestamp_two=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_two.md")
-    [ "$timestamp_two" -eq "$new_timestamp_two" ]
-    new_timestamp_three=$(stat -f %m "$BATS_TEST_TMPDIR/sections/section_three.md")
-    [ "$timestamp_three" -eq "$new_timestamp_three" ]
+    # timestamps shouldn't change because identical content should skip updates
+    [ "$timestamp_one" -eq "$(timestamp "$BATS_TEST_TMPDIR/sections/section_one.md")" ]
+    [ "$timestamp_two" -eq "$(timestamp "$BATS_TEST_TMPDIR/sections/section_two.md")" ]
+    [ "$timestamp_three" -eq "$(timestamp "$BATS_TEST_TMPDIR/sections/section_three.md")" ]
 
     [ "$status" -eq 0 ]
 }
