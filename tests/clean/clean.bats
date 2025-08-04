@@ -3,6 +3,7 @@
 setup() {
     cp tests/clean/srd.md "$BATS_TEST_TMPDIR/"
     cp tests/clean/breakdown.txt "$BATS_TEST_TMPDIR/"
+    cp tests/clean/clean.txt "$BATS_TEST_TMPDIR/"
 }
 
 @test "detects errors and quits" {
@@ -51,7 +52,10 @@ setup() {
         EOF
     )
 
-    run python clean_srd.py "$BATS_TEST_TMPDIR/srd.md" "$BATS_TEST_TMPDIR/breakdown.txt"
+    run python clean_srd.py \
+            --clean-lines "$BATS_TEST_TMPDIR/clean.txt" \
+            "$BATS_TEST_TMPDIR/srd.md" \
+            "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u tests/clean/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
     diff -u tests/clean/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "$expected_output") <(echo "$output")
@@ -71,14 +75,20 @@ setup() {
         EOF
     )
 
-    run python clean_srd.py "$BATS_TEST_TMPDIR/srd.md" "$BATS_TEST_TMPDIR/breakdown.txt"
+    run python clean_srd.py \
+            --clean-lines "$BATS_TEST_TMPDIR/clean.txt" \
+            "$BATS_TEST_TMPDIR/srd.md" \
+            "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u tests/clean/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
     diff -u tests/clean/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "$expected_output") <(echo "$output")
     [ "$status" -eq 0 ]
 
     # run again, nothing should change
-    run python clean_srd.py "$BATS_TEST_TMPDIR/srd.md" "$BATS_TEST_TMPDIR/breakdown.txt"
+    run python clean_srd.py \
+            --clean-lines "$BATS_TEST_TMPDIR/clean.txt" \
+            "$BATS_TEST_TMPDIR/srd.md" \
+            "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u tests/clean/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
     diff -u tests/clean/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "$expected_output") <(echo "$output")

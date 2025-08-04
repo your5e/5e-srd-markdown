@@ -349,7 +349,7 @@ def clean_split_lists(lines, index):
     return None
 
 
-def clean_srd(lines, breakdown_data, show_progress=False):
+def clean_srd(lines, breakdown_data, show_progress=False, clean_lines=None):
     def _progress_bar(end):
         if show_progress:
             filled = int(round(min(index / len(lines), 1.0) * 100, 1) / 2)
@@ -402,6 +402,9 @@ def clean_srd(lines, breakdown_data, show_progress=False):
                     continue
 
                 _progress_bar('\r')
+
+                if clean_lines and line in clean_lines:
+                    continue
 
                 result = cleaner(lines, index)
                 if result is not None:
@@ -541,10 +544,10 @@ def warn_srd(lines, ignore_file=None):
     ignore_patterns = []
     if ignore_file:
         try:
-            with open(ignore_file, 'r', encoding='utf-8') as f:
+            with open(ignore_file, 'r', encoding='utf-8') as handle:
                 ignore_patterns = [
                     line
-                        for line in f.read().splitlines()
+                        for line in handle.read().splitlines()
                             if line
                 ]
         except FileNotFoundError as e:
@@ -566,10 +569,19 @@ def warn_srd(lines, ignore_file=None):
                     print(warning, file=sys.stderr)
 
 
+def load_clean_lines(clean_lines_file):
+    # lines already in the desired format which this script tries to alter
+    clean_lines = []
+    with open(clean_lines_file, 'r', encoding='utf-8') as handle:
+        for line in handle:
+            clean_lines.append(line.strip())
+    return clean_lines
+
+
 def load_breakdown_data(breakdown_file):
     breakdown_data = []
-    with open(breakdown_file, 'r', encoding='utf-8') as f:
-        for line in f:
+    with open(breakdown_file, 'r', encoding='utf-8') as handle:
+        for line in handle:
             parts = line.strip().split()
             if len(parts) >= 2 and parts[0].isdigit() and parts[1].isdigit():
                 rest = line.find(parts[1]) + len(parts[1])
@@ -594,12 +606,12 @@ def update_breakdown_data(breakdown_data, change_line, adjustment):
 
 
 def write_breakdown_data(breakdown_file, breakdown_data):
-    with open(breakdown_file, 'w', encoding='utf-8') as f:
+    with open(breakdown_file, 'w', encoding='utf-8') as handle:
         for entry in breakdown_data:
             if isinstance(entry, list):
-                f.write(f"{entry[0]:>6} {entry[1]:>6}{entry[2]}\n")
+                handle.write(f"{entry[0]:>6} {entry[1]:>6}{entry[2]}\n")
             else:
-                f.write(f"{entry}\n")
+                handle.write(f"{entry}\n")
 
 
 def main():
@@ -610,6 +622,7 @@ def main():
     parser.add_argument('--warn', action='store_true', help='Only run warning checks, skip cleaning and error checks')
     parser.add_argument('--progress', action='store_true', help='Show progress through the file')
     parser.add_argument('--ignore-warnings', help='File containing patterns to ignore warnings')
+    parser.add_argument('--clean-lines', help='File containing lines to skip during cleaning')
     args = parser.parse_args()
 
     try:
@@ -622,11 +635,14 @@ def main():
         cleaned = False
         if not args.warn:
             breakdown_data = None
+            clean_lines = None
             if args.breakdown_file:
                 breakdown_data = load_breakdown_data(args.breakdown_file)
+            if args.clean_lines:
+                clean_lines = load_clean_lines(args.clean_lines)
 
             check_srd(lines)
-            cleaned = clean_srd(lines, breakdown_data, args.progress)
+            cleaned = clean_srd(lines, breakdown_data, args.progress, clean_lines)
 
         warn_srd(lines, args.ignore_warnings)
 
