@@ -3420,9 +3420,7 @@ The starting equipment you get from your class includes a collection of useful a
 
 # Tools
 
-A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM
-
-might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
+A tool helps you to do something you couldn't otherwise do, such as craft or repair an item, forge a document, or pick a lock. Your race, class, background, or feats give you proficiency with certain tools. Proficiency with a tool allows you to add your proficiency bonus to any ability check you make using that tool. Tool use is not tied to a single ability, since proficiency with a tool represents broader knowledge of its use. For example, the GM might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
 
 ## Tools
 
@@ -4122,9 +4120,7 @@ This rule assumes that the height of your jump doesn't matter, such as a jump ac
 
 When you land in difficult terrain, you must succeed on a DC 10 Dexterity (Acrobatics) check to land on your feet. Otherwise, you land prone.
 
-_**High Jump.**_ When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances,
-
-your GM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
+_**High Jump.**_ When you make a high jump, you leap into the air a number of feet equal to 3 + your Strength modifier if you move at least 10 feet on foot immediately before the jump. When you make a standing high jump, you can jump only half that distance. Either way, each foot you clear on the jump costs a foot of movement. In some circumstances, your GM might allow you to make a Strength (Athletics) check to jump higher than you normally can.
 
 You can extend your arms half your height above yourself during the jump. Thus, you can reach above you a distance equal to the height of the jump plus 1½ times your height.
 
@@ -21149,9 +21145,7 @@ Travel to the planes beyond the Material Plane can be accomplished in two ways: 
 
 The Ethereal Plane and the Astral Plane are called the Transitive Planes. They are mostly featureless realms that serve primarily as ways to travel from one plane to another. Spells such as _Etherealness_ and _Astral Projection_ allow characters to enter these planes and traverse them to reach the planes beyond.
 
-The **Ethereal Plane** is a misty, fog-bound dimension that is sometimes described as a great ocean. Its shores, called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Certain creatures can see into the Border Ethereal, and the _See Invisibility_
-
-and _True Seeing_ spell grant that ability. Some magical effects also extend from the Material Plane into the Border Ethereal, particularly effects that use force energy such as _Forcecage_ and _Wall of Force_. The depths of the plane, the Deep Ethereal, are a region of swirling mists and colorful fogs.
+The **Ethereal Plane** is a misty, fog-bound dimension that is sometimes described as a great ocean. Its shores, called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Certain creatures can see into the Border Ethereal, and the _See Invisibility_ and _True Seeing_ spell grant that ability. Some magical effects also extend from the Material Plane into the Border Ethereal, particularly effects that use force energy such as _Forcecage_ and _Wall of Force_. The depths of the plane, the Deep Ethereal, are a region of swirling mists and colorful fogs.
 
 The **Astral Plane** is the realm of thought and dream, where visitors travel as disembodied souls to reach the planes of the divine and demonic. It is a great, silvery sea, the same above and below, with swirling wisps of white and gray streaking among motes of light resembling distant stars. Erratic whirlpools of color flicker in midair like spinning coins. Occasional bits of solid matter can be found here, but most of the Astral Plane is an endless, open domain.
 
