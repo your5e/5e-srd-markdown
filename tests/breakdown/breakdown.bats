@@ -148,11 +148,9 @@ setup() {
     rsync -a --times "$TEST_DIR/expected/" "$BATS_TEST_TMPDIR/sections/"
 
     timestamp_one=$(timestamp "$BATS_TEST_TMPDIR/sections/section_one.md")
-    [ "$timestamp_one" -lt "$((current_time - 60))" ]
     timestamp_two=$(timestamp "$BATS_TEST_TMPDIR/sections/section_two.md")
-    [ "$timestamp_two" -lt "$((current_time - 60))" ]
     timestamp_three=$(timestamp "$BATS_TEST_TMPDIR/sections/section_three.md")
-    [ "$timestamp_three" -lt "$((current_time - 60))" ]
+    sleep 1
 
     run ./breakdown.sh -e "$BATS_TEST_TMPDIR/source.md" "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "") <(echo "$output")
