@@ -56,9 +56,7 @@ If circumstances cause a roll to have both advantage and disadvantage, you are c
 
 When you have advantage or disadvantage and something in the game, such as the halfling's Lucky trait, lets you reroll the d20, you can reroll only one of the dice. You choose which one. For example, if a halfling has advantage or disadvantage on an ability check and rolls a 1 and a 13, the halfling could use the Lucky trait to reroll the 1.
 
-You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The
-
-GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
+You usually gain advantage or disadvantage through the use of special abilities, actions, or spells. Inspiration can also give a character advantage. The GM can also decide that circumstances influence a roll in one direction or the other and grant advantage or impose disadvantage as a result.
 
 ## Proficiency Bonus
 
@@ -154,7 +152,7 @@ A passive check is a special kind of ability check that doesn't involve any die 
 
 Here's how to determine a character's total for a passive check:
 
-> 10 + all modifiers that normally apply to the check
+- 10 + all modifiers that normally apply to the check
 
 If the character has advantage on the check, add 5. For disadvantage, subtract 5. The game refers to a passive check total as a **score**.
 

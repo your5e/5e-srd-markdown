@@ -18,9 +18,7 @@ Second, you can bind an extra effect to the area. Choose the effect from the fol
 - _**Daylight.**_ Bright light fills the area. Magical darkness created by spells of a lower level than the slot you used to cast this spell can't extinguish the light.
 - _**Energy Protection.**_ Affected creatures in the area have resistance to one damage type of your choice, except for bludgeoning, piercing, or slashing.
 - _**Energy Vulnerability.**_ Affected creatures in the area have vulnerability to one damage type of your choice, except for bludgeoning, piercing, or slashing.
-
-_Everlasting Rest_. Dead bodies interred in the area can't be turned into undead.
-
+- _**Everlasting Rest.**_ Dead bodies interred in the area can't be turned into undead.
 - _**Extradimensional Interference.**_ Affected creatures can't move or travel using teleportation or by extradimensional or interplanar means.
 - _**Fear.**_ Affected creatures are frightened while in the area.
 - _**Silence.**_ No sound can emanate from within the area, and no sound can reach into it.

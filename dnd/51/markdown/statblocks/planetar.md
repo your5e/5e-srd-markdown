@@ -28,7 +28,7 @@ _Large celestial, lawful good_
     - 3/day each: _Blade Barrier_, _Dispel Evil and Good_, _Flame Strike_, _Raise Dead_
     - 1/day each: _Commune_, _Control Weather_, _Insect Plague_
 
-_**Magic Resistance.**_ The planetar has advantage on saving throws against spells and other magical effects.
+- _**Magic Resistance.**_ The planetar has advantage on saving throws against spells and other magical effects.
 
 ## Actions
 

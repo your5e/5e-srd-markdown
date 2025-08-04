@@ -1,4 +1,4 @@
-### The Schools of Magic
+# The Schools of Magic
 
 Academies of magic group spells into eight categories called schools of magic. Scholars, particularly wizards, apply these categories to all spells, believing that all magic functions in essentially the same way, whether it derives from rigorous study or is bestowed by a deity.
 
@@ -12,6 +12,6 @@ The schools of magic help describe spells; they have no rules of their own, alth
 - **Illusion** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.
 - **Necromancy** spells manipulate the energies of life and death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.
 
-Creating the undead through the use of necromancy spells such as _Animate Dead_ is not a good act, and only evil casters use such spells frequently.
+    Creating the undead through the use of necromancy spells such as _Animate Dead_ is not a good act, and only evil casters use such spells frequently.
 
-**Transmutation** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.
+- **Transmutation** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.

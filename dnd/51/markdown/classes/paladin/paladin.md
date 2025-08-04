@@ -98,7 +98,7 @@ The Paladin table shows how many spell slots you have to cast your spells. To ca
 
 You prepare the list of paladin spells that are available for you to cast, choosing from the paladin spell list. When you do so, choose a number of paladin spells equal to your Charisma modifier + half your paladin level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell _Cure Wounds_, you can cast it using a 1st-level or a 2ndlevel slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 5th-level paladin, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell _Cure Wounds_, you can cast it using a 1st-level or a 2nd level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of paladin spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -195,13 +195,13 @@ You gain oath spells at the paladin levels listed.
 
 ##### Oath of Devotion Spells
 
-| Paladin Level   | Spells                                   |
-|-----------------|------------------------------------------|
-| 3rd             | protection from evil and good, sanctuary |
-| 5th             | lesser restoration, zone of truth        |
-| 9th             | beacon of hope, dispel magic             |
-| 13th            | freedom of movement, guardian of faith   |
-| 17th            | commune, flame strike                    |
+| Paladin Level   | Spells                                       |
+|-----------------|----------------------------------------------|
+| 3rd             | _Protection from Evil and Good_, _Sanctuary_ |
+| 5th             | _Lesser Restoration_, _Zone of Truth_        |
+| 9th             | _Beacon of Hope_, _Dispel Magic_             |
+| 13th            | _Freedom of Movement_, _Guardian of Faith_   |
+| 17th            | _Commune_, _Flame Strike_                    |
 
 #### Channel Divinity
 

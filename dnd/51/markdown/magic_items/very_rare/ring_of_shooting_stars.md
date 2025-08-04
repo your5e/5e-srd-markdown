@@ -6,8 +6,9 @@ While wearing this ring in dim light or darkness, you can cast _Dancing Lights_ 
 
 The ring has 6 charges for the following other properties. The ring regains 1d6 expended charges daily at dawn.
 
-- _**Faerie Fire.**_ You can expend 1 charge as an action to cast _Faerie Fire_ from the ring.
-- _**Ball Lightning.**_ You can expend 2 charges as an action to create one to four 3-foot-diameter spheres of lightning. The more spheres you create, the less powerful each sphere is individually.
+_**Faerie Fire.**_ You can expend 1 charge as an action to cast _Faerie Fire_ from the ring.
+
+_**Ball Lightning.**_ You can expend 2 charges as an action to create one to four 3-foot-diameter spheres of lightning. The more spheres you create, the less powerful each sphere is individually.
 
 Each sphere appears in an unoccupied space you can see within 120 feet of you. The spheres last as long as you concentrate (as if concentrating on a spell), up to 1 minute. Each sphere sheds dim light in a 30-foot radius.
 

@@ -1,4 +1,4 @@
-## Prismatic Wall
+# Prismatic Wall
 
 _9th-level abjuration_
 
@@ -15,13 +15,13 @@ The wall consists of seven layers, each with a different color. When a creature 
 
 The wall can be destroyed, also one layer at a time, in order from red to violet, by means specific to each layer. Once a layer is destroyed, it remains so for the duration of the spell. A _rod of cancellation_ destroys a _Prismatic Wall_, but an _Antimagic Field_ has no effect on it.
 
-- _**1. Red.**_ The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
-- _**2. Orange.**_ The creature takes 10d6 acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
-- _**3. Yellow.**_ The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
-- _**4. Green.**_ The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A _Passwall_ spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
-- _**5. Blue.**_ The creature takes 10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
-- _**6. Indigo.**_ On a failed save, the creature is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.
+1. _**Red.**_ The creature takes 10d6 fire damage on a failed save, or half as much damage on a successful one. While this layer is in place, nonmagical ranged attacks can't pass through the wall. The layer can be destroyed by dealing at least 25 cold damage to it.
+2. _**Orange.**_ The creature takes 10d6 acid damage on a failed save, or half as much damage on a successful one. While this layer is in place, magical ranged attacks can't pass through the wall. The layer is destroyed by a strong wind.
+3. _**Yellow.**_ The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 60 force damage to it.
+4. _**Green.**_ The creature takes 10d6 poison damage on a failed save, or half as much damage on a successful one. A _Passwall_ spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
+5. _**Blue.**_ The creature takes 10d6 cold damage on a failed save, or half as much damage on a successful one. This layer can be destroyed by dealing at least 25 fire damage to it.
+6. _**Indigo.**_ On a failed save, the creature is restrained. It must then make a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the spell ends. If it fails its save three times, it permanently turns to stone and is subjected to the petrified condition. The successes and failures don't need to be consecutive; keep track of both until the creature collects three of a kind.
 
-While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a _Daylight_ spell or a similar spell of equal or higher level.
+    While this layer is in place, spells can't be cast through the wall. The layer is destroyed by bright light shed by a _Daylight_ spell or a similar spell of equal or higher level.
 
-_**7. Violet.**_ On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a _Dispel Magic_ spell or a similar spell of equal or higher level that can end spells and magical effects.
+7. _**Violet.**_ On a failed save, the creature is blinded. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is transported to another plane of the GM's choosing and is no longer blinded. (Typically, a creature that is on a plane that isn't its home plane is banished home, while other creatures are usually cast into the Astral or Ethereal planes.) This layer is destroyed by a _Dispel Magic_ spell or a similar spell of equal or higher level that can end spells and magical effects.

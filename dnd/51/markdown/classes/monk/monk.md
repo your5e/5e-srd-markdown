@@ -77,7 +77,7 @@ When you spend a ki point, it is unavailable until you finish a short or long re
 
 Some of your ki features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
 
-> **Ki save DC** = 8 + your proficiency bonus + your Wisdom modifier
+- **Ki save DC** = 8 + your proficiency bonus + your Wisdom modifier
 
 #### Flurry of Blows
 

@@ -17,6 +17,4 @@ A modified memory doesn't necessarily affect how a creature behaves, particularl
 
 A _Remove Curse_ or _Greater Restoration_ spell cast on the target restores the creature's true memory.
 
-_At Higher Levels_. If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago
-
-(8th level), or any time in the creature's past (9th level).
+_**At Higher Levels.**_ If you cast this spell using a spell slot of 6th level or higher, you can alter the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level).

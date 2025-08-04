@@ -146,13 +146,13 @@ The Life domain focuses on the vibrant positive energy — one of the fundamenta
 
 #### Life Domain Spells
 
-| Cleric Level   | Spells                               |
-|----------------|--------------------------------------|
-| 1st            | bless, cure wounds                   |
-| 3rd            | lesser restoration, spiritual weapon |
-| 5th            | beacon of hope, revivify             |
-| 7th            | death ward, guardian of faith        |
-| 9th            | mass cure wounds, raise dead         |
+| Cleric Level   | Spells                                   |
+|----------------|------------------------------------------|
+| 1st            | _Bless_, _Cure Wounds_                   |
+| 3rd            | _Lesser Restoration_, _Spiritual Weapon_ |
+| 5th            | _Beacon of Hope_, _Revivify_             |
+| 7th            | _Death Ward_, _Guardian of Faith_        |
+| 9th            | _Mass Cure Wounds_, _Raise Dead_         |
 
 #### Bonus Proficiency
 

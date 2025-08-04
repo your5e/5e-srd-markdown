@@ -105,7 +105,7 @@ spells = {
         "Earthquake",
         "Eldritch Blast",
         "Enhance Ability",
-        "Enlarge Reduce",
+        "Enlarge/Reduce",
         "Entangle",
         "Enthrall",
         "Etherealness",

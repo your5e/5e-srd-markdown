@@ -1,43 +1,150 @@
 # Sorcerer Spells
 
-#### Cantrips (0 Level)
+## Cantrips (0 Level)
 
-Acid Splash Chill Touch Dancing Lights Fire Bolt Light Mage Hand Mending Message Minor Illusion Poison Spray Prestidigitation Ray of Frost Shocking Grasp True Strike
+- _Acid Splash_
+- _Chill Touch_
+- _Dancing Lights_
+- _Fire Bolt_
+- _Light_
+- _Mage Hand_
+- _Mending_
+- _Message_
+- _Minor Illusion_
+- _Poison Spray_
+- _Prestidigitation_
+- _Ray of Frost_
+- _Shocking Grasp_
+- _True Strike_
 
-#### 1st Level
+## 1st Level
 
-Burning Hands Charm Person Color Spray Comprehend Languages Detect Magic Disguise Self Expeditious Retreat False Life Feather Fall Fog Cloud Jump Mage Armor Magic Missile Shield Silent Image Sleep Thunderwave
+- _Burning Hands_
+- _Charm Person_
+- _Color Spray_
+- _Comprehend Languages_
+- _Detect Magic_
+- _Disguise Self_
+- _Expeditious Retreat_
+- _False Life_
+- _Feather Fall_
+- _Fog Cloud_
+- _Jump_
+- _Mage Armor_
+- _Magic Missile_
+- _Shield_
+- _Silent Image_
+- _Sleep_
+- _Thunderwave_
 
-# 2nd Level
+## 2nd Level
 
-Alter Self Blindness/Deafness Blur Darkness Darkvision Detect Thoughts Enhance Ability Enlarge/Reduce Gust of Wind
+- _Alter Self_
+- _Blindness/Deafness_
+- _Blur_
+- _Darkness_
+- _Darkvision_
+- _Detect Thoughts_
+- _Enhance Ability_
+- _Gust of Wind_
+- _Hold Person_
+- _Invisibility_
+- _Knock_
+- _Levitate_
+- _Mirror Image_
+- _Misty Step_
+- _Scorching Ray_
+- _See Invisibility_
+- _Shatter_
+- _Spider Climb_
+- _Suggestion_
+- _Web_
 
-Hold Person Invisibility Knock Levitate Mirror Image Misty Step Scorching Ray See Invisibility Shatter Spider Climb Suggestion Web
+## 3rd Level
 
-#### 3rd Level
+- _Blink_
+- _Clairvoyance_
+- _Counterspell_
+- _Daylight_
+- _Dispel Magic_
+- _Fear_
+- _Fireball_
+- _Fly_
+- _Gaseous Form_
+- _Haste_
+- _Hypnotic Pattern_
+- _Lightning Bolt_
+- _Major Image_
+- _Protection from Energy_
+- _Sleet Storm_
+- _Slow_
+- _Stinking Cloud_
+- _Tongues_
+- _Water Breathing_
+- _Water Walk_
 
-Blink Clairvoyance Counterspell Daylight Dispel Magic Fear Fireball Fly Gaseous Form Haste Hypnotic Pattern Lightning Bolt Major Image Protection from Energy Sleet Storm Slow Stinking Cloud Tongues Water Breathing Water Walk
+## 4th Level
 
-#### 4th Level
-
-Banishment Blight Confusion Dimension Door Dominate Beast Greater Invisibility Ice Storm Polymorph Stoneskin Wall of Fire
+- _Banishment_
+- _Blight_
+- _Confusion_
+- _Dimension Door_
+- _Dominate Beast_
+- _Greater Invisibility_
+- _Ice Storm_
+- _Polymorph_
+- _Stoneskin_
+- _Wall of Fire_
 
 ## 5th Level
 
-Animate Objects Cloudkill Cone of Cold Creation Dominate Person Hold Monster Insect Plague Seeming Telekinesis Teleportation Circle Wall of Stone
+- _Animate Objects_
+- _Cloudkill_
+- _Cone of Cold_
+- _Creation_
+- _Dominate Person_
+- _Hold Monster_
+- _Insect Plague_
+- _Seeming_
+- _Telekinesis_
+- _Teleportation Circle_
+- _Wall of Stone_
 
-#### 6th Level
+## 6th Level
 
-Chain Lightning Circle of Death Disintegrate Eyebite Globe of Invulnerability Mass Suggestion Move Earth Sunbeam True Seeing
+- _Chain Lightning_
+- _Circle of Death_
+- _Disintegrate_
+- _Eyebite_
+- _Globe of Invulnerability_
+- _Mass Suggestion_
+- _Move Earth_
+- _Sunbeam_
+- _True Seeing_
 
-#### 7th Level
+## 7th Level
 
-Delayed Blast Fireball Etherealness Finger of Death Fire Storm Plane Shift Prismatic Spray Reverse Gravity Teleport
+- _Delayed Blast Fireball_
+- _Etherealness_
+- _Finger of Death_
+- _Fire Storm_
+- _Plane Shift_
+- _Prismatic Spray_
+- _Reverse Gravity_
+- _Teleport_
 
-#### 8th Level
+## 8th Level
 
-Dominate Monster Earthquake Incendiary Cloud Power Word Stun Sunburst
+- _Dominate Monster_
+- _Earthquake_
+- _Incendiary Cloud_
+- _Power Word Stun_
+- _Sunburst_
 
-#### 9th Level
+## 9th Level
 
-Gate Meteor Swarm Power Word Kill Time Stop Wish
+- _Gate_
+- _Meteor Swarm_
+- _Power Word Kill_
+- _Time Stop_
+- _Wish_

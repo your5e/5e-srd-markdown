@@ -53,9 +53,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### Druidic
 
-You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom
-
-(Perception) check but can't decipher it without magic.
+You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic.
 
 ### Spellcasting
 
@@ -159,66 +157,66 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 ##### Arctic
 
-| Druid Level   | Circle Spells                     |
-|---------------|-----------------------------------|
-| 3rd           | hold person, spike growth         |
-| 5th           | sleet storm, slow                 |
-| 7th           | freedom of movement, ice storm    |
-| 9th           | commune with nature, cone of cold |
+| Druid Level   | Circle Spells                         |
+|---------------|---------------------------------------|
+| 3rd           | _Hold Person_, _Spike Growth_         |
+| 5th           | _Sleet Storm_, _Slow_                 |
+| 7th           | _Freedom of Movement_, _Ice Storm_    |
+| 9th           | _Commune with Nature_, _Cone of Cold_ |
 
 ##### Coast
 
-| Druid Level   | Circle Spells                      |
-|---------------|------------------------------------|
-| 3rd           | mirror image, misty step           |
-| 5th           | water breathing, water walk        |
-| 7th           | control water, freedom of movement |
-| 9th           | conjure elemental, scrying         |
+| Druid Level   | Circle Spells                          |
+|---------------|----------------------------------------|
+| 3rd           | _Mirror Image_, _Misty Step_           |
+| 5th           | _Water Breathing_, _Water Walk_        |
+| 7th           | _Control Water_, _Freedom of Movement_ |
+| 9th           | _Conjure Elemental_, _Scrying_         |
 
 ##### Desert
 
-| Druid Level   | Circle Spells                                 |
-|---------------|-----------------------------------------------|
-| 3rd           | blur, silence                                 |
-| 5th           | create food and water, protection from energy |
-| 7th           | blight, hallucinatory terrain                 |
-| 9th           | insect plague, wall of stone                  |
+| Druid Level   | Circle Spells                                     |
+|---------------|---------------------------------------------------|
+| 3rd           | _Blur_, _Silence_                                 |
+| 5th           | _Create Food and Water_, _Protection from Energy_ |
+| 7th           | _Blight_, _Hallucinatory Terrain_                 |
+| 9th           | _Insect Plague_, _Wall of Stone_                  |
 
 ##### Forest
 
-| Druid Level   | Circle Spells                    |
-|---------------|----------------------------------|
-| 3rd           | barkskin, spider climb           |
-| 5th           | call lightning, plant growth     |
-| 7th           | divination, freedom of movement  |
-| 9th           | commune with nature, tree stride |
+| Druid Level   | Circle Spells                        |
+|---------------|--------------------------------------|
+| 3rd           | _Barkskin_, _Spider Climb_           |
+| 5th           | _Call Lightning_, _Plant Growth_     |
+| 7th           | _Divination_, _Freedom of Movement_  |
+| 9th           | _Commune with Nature_, _Tree Stride_ |
 
 ##### Grassland
 
-| Druid Level   | Circle Spells                    |
-|---------------|----------------------------------|
-| 3rd           | invisibility, pass without trace |
-| 5th           | daylight, haste                  |
-| 7th           | divination, freedom of movement  |
-| 9th           | dream, insect plague             |
+| Druid Level   | Circle Spells                        |
+|---------------|--------------------------------------|
+| 3rd           | _Invisibility_, _Pass Without Trace_ |
+| 5th           | _Daylight_, _Haste_                  |
+| 7th           | _Divination_, _Freedom of Movement_  |
+| 9th           | _Dream_, _Insect Plague_             |
 
 ##### Mountain
 
-| Druid Level   | Circle Spells                   |
-|---------------|---------------------------------|
-| 3rd           | spider climb, spike growth      |
-| 5th           | lightning bolt, meld into stone |
-| 7th           | stone shape, stoneskin          |
-| 9th           | passwall, wall of stone         |
+| Druid Level   | Circle Spells                       |
+|---------------|-------------------------------------|
+| 3rd           | _Spider Climb_, _Spike Growth_      |
+| 5th           | _Lightning Bolt_, _Meld Into Stone_ |
+| 7th           | _Stone Shape_, _Stoneskin_          |
+| 9th           | _Passwall_, _Wall of Stone_         |
 
 ##### Swamp
 
-| Druid Level   | Circle Spells                        |
-|---------------|--------------------------------------|
-| 3rd           | acid arrow, darkness                 |
-| 5th           | water walk, stinking cloud           |
-| 7th           | freedom of movement, locate creature |
-| 9th           | insect plague, scrying               |
+| Druid Level   | Circle Spells                            |
+|---------------|------------------------------------------|
+| 3rd           | _Acid Arrow_, _Darkness_                 |
+| 5th           | _Water Walk_, _Stinking Cloud_           |
+| 7th           | _Freedom of Movement_, _Locate Creature_ |
+| 9th           | _Insect Plague_, _Scrying_               |
 
 #### Land's Stride
 

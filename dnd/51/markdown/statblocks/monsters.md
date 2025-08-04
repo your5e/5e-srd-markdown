@@ -212,7 +212,7 @@ A creature within the area of an _Antimagic Field_ or in any other location wher
 
 A monster's **challenge rating** tells you how great a threat the monster is. An appropriately equipped and well-rested party of four adventurers should be able to defeat a monster that has a challenge rating equal to its level without suffering any deaths. For example, a party of four 3rd-level characters should find a monster with a challenge rating of 3 to be a worthy challenge, but not a deadly one.
 
-Monsters that are significantly weaker than 1stlevel characters have a challenge rating lower than 1. Monsters with a challenge rating of 0 are insignificant except in large numbers; those with no effective attacks are worth no experience points, while those that have attacks are worth 10 XP each.
+Monsters that are significantly weaker than 1st level characters have a challenge rating lower than 1. Monsters with a challenge rating of 0 are insignificant except in large numbers; those with no effective attacks are worth no experience points, while those that have attacks are worth 10 XP each.
 
 Some monsters present a greater challenge than even a typical 20th-level party can handle. These monsters have a challenge rating of 21 or higher and are specifically designed to test player skill.
 
@@ -301,9 +301,9 @@ Some special abilities have restrictions on the number of times they can be used
 - _**X/Day.**_ The notation "X/Day" means a special ability can be used X number of times and that a monster must finish a long rest to regain expended uses. For example, "1/Day" means a special ability can be used once and that the monster must finish a long rest to use it again.
 - _**Recharge X–Y.**_ The notation "Recharge X–Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a d6. If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest.
 
-For example, "Recharge 5–6" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5 or 6 on a d6.
+    For example, "Recharge 5–6" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5 or 6 on a d6.
 
-_**Recharge after a Short or Long Rest.**_ This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again.
+- _**Recharge after a Short or Long Rest.**_ This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again.
 
 ### Grapple Rules for Monsters
 

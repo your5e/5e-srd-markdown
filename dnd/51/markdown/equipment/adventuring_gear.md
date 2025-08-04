@@ -5,10 +5,7 @@ This section describes items that have special rules or require further explanat
 - _**Acid.**_ As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact. In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon. On a hit, the target takes 2d6 acid damage.
 - _**Alchemist's Fire.**_ This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating the alchemist's fire as an improvised weapon. On a hit, the target takes 1d4 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Dexterity check to extinguish the flames.
 - _**Antitoxin.**_ A creature that drinks this vial of liquid gains advantage on saving throws against poison for 1 hour. It confers no benefit to undead or constructs.
-- _**Arcane Focus.**_ An arcane focus is a special item an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item designed to channel the power of arcane spells. A
-
-sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
-
+- _**Arcane Focus.**_ An arcane focus is a special item an orb, a crystal, a rod, a specially constructed staff, a wand-like length of wood, or some similar item designed to channel the power of arcane spells. A sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 - _**Ball Bearings.**_ As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall prone. A creature moving through the area at half speed doesn't need to make the save.
 - _**Block and Tackle.**_ A set of pulleys with a cable threaded through them and a hook to attach to objects, a block and tackle allows you to hoist up to four times the weight you can normally lift.
 - _**Book.**_ A book might contain poetry, historical accounts, information pertaining to a particular field of lore, diagrams and notes on gnomish contraptions, or just about anything else that can be represented using text or pictures. A book of spells is a spellbook (described later in this section).
@@ -26,7 +23,7 @@ sorcerer, warlock, or wizard can use such an item as a spellcasting focus.
 - _**Holy Symbol.**_ A holy symbol is a representation of a god or pantheon. It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic. Appendix PH-B "Fantasy-Historical Pantheons" lists the symbols commonly associated with many gods in the multiverse. A cleric or paladin can use a holy symbol as a spellcasting focus. To use the symbol in this way, the caster must hold it in hand, wear it visibly, or bear it on a shield.
 - _**Holy Water.**_ As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon. If the target is a fiend or undead, it takes 2d6 radiant damage.
 
-A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
+    A cleric or paladin may create holy water by performing a special ritual. The ritual takes 1 hour to perform, uses 25 gp worth of powdered silver, and requires the caster to expend a 1st-level spell slot.
 
 - _**Hunting Trap.**_ When you use your action to set it, this trap forms a saw-toothed steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 piercing damage and stop moving. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 3 feet long). A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Each failed check deals 1 piercing damage to the trapped creature.
 - _**Lamp.**_ A lamp casts bright light in a 15-foot radius and dim light for an additional 30 feet. Once lit, it burns for 6 hours on a flask (1 pint) of oil.
@@ -53,116 +50,112 @@ A cleric or paladin may create holy water by performing a special ritual. The ri
 
 ## Adventuring Gear
 
-| Item                         | Cost     | Weight       |
-|------------------------------|----------|--------------|
-| Abacus                       | 2 gp     | 2 lb.        |
-| Acid (vial)                  | 25 gp    | 1 lb.        |
-| Alchemist's fire (flask)     | 50 gp    | 1 lb.        |
-| Ammunition                   |          |              |
-| Arrows (20)                  | 1 gp     | 1 lb.        |
-| Blowgun needles (50)         | 1 gp     | 1 lb.        |
-| Crossbow bolts (20)          | 1 gp     | 1½ lb.       |
-| Sling bullets (20)           | 4 cp     | 1½ lb.       |
-| Antitoxin (vial)             | 50 gp    | —            |
-| Arcane focus                 |          |              |
-| Crystal                      | 10 gp    | 1 lb.        |
-| Orb                          | 20 gp    | 3 lb.        |
-| Rod                          | 10 gp    | 2 lb.        |
-| Staff                        | 5 gp     | 4 lb.        |
-| Wand                         | 10 gp    | 1 lb.        |
-| Backpack                     | 2 gp     | 5 lb.        |
-| Ball bearings (bag of 1,000) | 1 gp     | 2 lb.        |
-| Barrel                       | 2 gp     | 70 lb.       |
-| Basket                       | 4 sp     | 2 lb.        |
-| Bedroll                      | 1 gp     | 7 lb.        |
-| Blanket                      | 5 sp     | 3 lb.        |
-| Block and tackle             | 1 gp     | 5 lb.        |
-| Book                         | 25 gp    | 5 lb.        |
-| Bottle, glass                | 2 gp     | 2 lb.        |
-| Bucket                       | 5 cp     | 2 lb.        |
-| Caltrops (bag of 20)         | 1 gp     | 2 lb.        |
-| Candle                       | 1 cp     | —            |
-| Case, crossbow bolt          | 1 gp     | 1 lb.        |
-| Case, map or scroll          | 1 gp     | 1 lb.        |
-| Chain (10 feet)              | 5 gp     | 10 lb.       |
-| Chalk (1 piece)              | 1 cp     | —            |
-| Chest                        | 5 gp     | 25 lb.       |
-| Climber's kit                | 25 gp    | 12 lb.       |
-| Clothes, common              | 5 sp     | 3 lb.        |
-| Clothes, costume             | 5 gp     | 4 lb.        |
-| Clothes, fine                | 15 gp    | 6 lb.        |
-| Clothes, traveler's          | 2 gp     | 4 lb.        |
-| Component pouch              | 25 gp    | 2 lb.        |
-| Crowbar                      | 2 gp     | 5 lb.        |
-| Druidic focus                |          |              |
-| Sprig of mistletoe           | 1 gp     | —            |
-| Totem                        | 1 gp     | —            |
-| Wooden staff                 | 5 gp     | 4 lb.        |
-| Yew wand                     | 10 gp    | 1 lb.        |
-| Fishing tackle               | 1 gp     | 4 lb.        |
-| Flask or tankard             | 2 cp     | 1 lb.        |
-| Grappling hook               | 2 gp     | 4 lb.        |
-| Hammer                       | 1 gp     | 3 lb.        |
-| Hammer, sledge               | 2 gp     | 10 lb.       |
-| Healer's kit                 | 5 gp     | 3 lb.        |
-| Holy symbol                  |          |              |
-| Amulet                       | 5 gp     | 1 lb.        |
-| Emblem                       | 5 gp     | —            |
-| Reliquary                    | 5 gp     | 2 lb.        |
-| Holy water (flask)           | 25 gp    | 1 lb.        |
-| Hourglass                    | 25 gp    | 1 lb.        |
-| Hunting trap                 | 5 gp     | 25 lb.       |
-| Ink (1 ounce bottle)         | 10 gp    | —            |
-| Ink pen                      | 2 cp     | —            |
-| Jug or pitcher               | 2 cp     | 4 lb.        |
-| Ladder (10 -foot)            | 1 sp     | 25 lb.       |
-| Lamp                         | 5 sp     | 1 lb.        |
-| Lantern, bullseye            | 10 gp    | 2 lb.        |
-| Lantern, hooded              | 5 gp     | 2 lb.        |
-| Lock                         | 10 gp    | 1 lb.        |
-| Magnifying glass             | 100 gp   | —            |
-| Manacles                     | 2 gp     | 6 lb.        |
-| Mess kit                     | 2 sp     | 1 lb.        |
-| Mirror, steel                | 5 gp     | 1/2 lb.      |
-| Oil (flask)                  | 1 sp     | 1 lb.        |
-| Paper (one sheet)            | 2 sp     | —            |
-| Parchment (one sheet)        | 1 sp     | —            |
-| Perfume (vial)               | 5 gp     | —            |
-| Pick, miner's                | 2 gp     | 10 lb.       |
-| Piton                        | 5 cp     | 1/4 lb.      |
-| Poison, basic (vial)         | 100 gp   | —            |
-| Pole (10 -foot)              | 5 cp     | 7 lb.        |
-| Pot, iron                    | 2 gp     | 10 lb.       |
-| Potion of healing            | 50 gp    | 1/2 lb.      |
-| Pouch                        | 5 sp     | 1 lb.        |
-| Quiver                       | 1 gp     | 1 lb.        |
-| Ram, portable                | 4 gp     | 35 lb.       |
-| Rations (1 day)              | 5 sp     | 2 lb.        |
-| Robes                        | 1 gp     | 4 lb.        |
-| Rope, hempen (50 feet)       | 1 gp     | 10 lb.       |
-| Rope, silk (50 feet)         | 10 gp    | 5 lb.        |
-| Sack                         | 1 cp     | 1/2 lb.      |
-| Scale, merchant's            | 5 gp     | 3 lb.        |
-| Sealing wax                  | 5 sp     | —            |
-| Shovel                       | 2 gp     | 5 lb.        |
-| Signal whistle               | 5 cp     | —            |
-| Signet ring                  | 5 gp     | —            |
-| Soap                         | 2 cp     | —            |
-| Spellbook                    | 50 gp    | 3 lb.        |
-| Spikes, iron (10)            | 1 gp     | 5 lb.        |
-| Spyglass                     | 1,000 gp | 1 lb.        |
-| Tent, two -person            | 2 gp     | 20 lb.       |
-| Tinderbox                    | 5 sp     | 1 lb.        |
-| Torch                        | 1 cp     | 1 lb.        |
-| Vial                         | 1 gp     | —            |
-| Waterskin                    | 2 sp     | 5 lb. (full) |
-| Whetstone                    | 1 cp     | 1 lb.        |
+| Item                                | Cost     | Weight       |
+|-------------------------------------|----------|--------------|
+| Abacus                              | 2 gp     | 2 lb.        |
+| Acid (vial)                         | 25 gp    | 1 lb.        |
+| Alchemist's fire (flask)            | 50 gp    | 1 lb.        |
+| _Ammunition_: Arrows (20)           | 1 gp     | 1 lb.        |
+| _Ammunition_: Blowgun needles (50)  | 1 gp     | 1 lb.        |
+| _Ammunition_: Crossbow bolts (20)   | 1 gp     | 1½ lb.       |
+| _Ammunition_: Sling bullets (20)    | 4 cp     | 1½ lb.       |
+| Antitoxin (vial)                    | 50 gp    | —            |
+| _Arcane focus:_ Crystal             | 10 gp    | 1 lb.        |
+| _Arcane focus:_ Orb                 | 20 gp    | 3 lb.        |
+| _Arcane focus:_ Rod                 | 10 gp    | 2 lb.        |
+| _Arcane focus:_ Staff               | 5 gp     | 4 lb.        |
+| _Arcane focus:_ Wand                | 10 gp    | 1 lb.        |
+| Backpack                            | 2 gp     | 5 lb.        |
+| Ball bearings (bag of 1,000)        | 1 gp     | 2 lb.        |
+| Barrel                              | 2 gp     | 70 lb.       |
+| Basket                              | 4 sp     | 2 lb.        |
+| Bedroll                             | 1 gp     | 7 lb.        |
+| Blanket                             | 5 sp     | 3 lb.        |
+| Block and tackle                    | 1 gp     | 5 lb.        |
+| Book                                | 25 gp    | 5 lb.        |
+| Bottle, glass                       | 2 gp     | 2 lb.        |
+| Bucket                              | 5 cp     | 2 lb.        |
+| Caltrops (bag of 20)                | 1 gp     | 2 lb.        |
+| Candle                              | 1 cp     | —            |
+| Case, crossbow bolt                 | 1 gp     | 1 lb.        |
+| Case, map or scroll                 | 1 gp     | 1 lb.        |
+| Chain (10 feet)                     | 5 gp     | 10 lb.       |
+| Chalk (1 piece)                     | 1 cp     | —            |
+| Chest                               | 5 gp     | 25 lb.       |
+| Climber's kit                       | 25 gp    | 12 lb.       |
+| Clothes, common                     | 5 sp     | 3 lb.        |
+| Clothes, costume                    | 5 gp     | 4 lb.        |
+| Clothes, fine                       | 15 gp    | 6 lb.        |
+| Clothes, traveler's                 | 2 gp     | 4 lb.        |
+| Component pouch                     | 25 gp    | 2 lb.        |
+| Crowbar                             | 2 gp     | 5 lb.        |
+| _Druidic focus:_ Sprig of mistletoe | 1 gp     | —            |
+| _Druidic focus:_ Totem              | 1 gp     | —            |
+| _Druidic focus:_ Wooden staff       | 5 gp     | 4 lb.        |
+| _Druidic focus:_ Yew wand           | 10 gp    | 1 lb.        |
+| Fishing tackle                      | 1 gp     | 4 lb.        |
+| Flask or tankard                    | 2 cp     | 1 lb.        |
+| Grappling hook                      | 2 gp     | 4 lb.        |
+| Hammer                              | 1 gp     | 3 lb.        |
+| Hammer, sledge                      | 2 gp     | 10 lb.       |
+| Healer's kit                        | 5 gp     | 3 lb.        |
+| _Holy symbol:_ Amulet               | 5 gp     | 1 lb.        |
+| _Holy symbol:_ Emblem               | 5 gp     | —            |
+| _Holy symbol:_ Reliquary            | 5 gp     | 2 lb.        |
+| Holy water (flask)                  | 25 gp    | 1 lb.        |
+| Hourglass                           | 25 gp    | 1 lb.        |
+| Hunting trap                        | 5 gp     | 25 lb.       |
+| Ink (1 ounce bottle)                | 10 gp    | —            |
+| Ink pen                             | 2 cp     | —            |
+| Jug or pitcher                      | 2 cp     | 4 lb.        |
+| Ladder (10 -foot)                   | 1 sp     | 25 lb.       |
+| Lamp                                | 5 sp     | 1 lb.        |
+| Lantern, bullseye                   | 10 gp    | 2 lb.        |
+| Lantern, hooded                     | 5 gp     | 2 lb.        |
+| Lock                                | 10 gp    | 1 lb.        |
+| Magnifying glass                    | 100 gp   | —            |
+| Manacles                            | 2 gp     | 6 lb.        |
+| Mess kit                            | 2 sp     | 1 lb.        |
+| Mirror, steel                       | 5 gp     | 1/2 lb.      |
+| Oil (flask)                         | 1 sp     | 1 lb.        |
+| Paper (one sheet)                   | 2 sp     | —            |
+| Parchment (one sheet)               | 1 sp     | —            |
+| Perfume (vial)                      | 5 gp     | —            |
+| Pick, miner's                       | 2 gp     | 10 lb.       |
+| Piton                               | 5 cp     | 1/4 lb.      |
+| Poison, basic (vial)                | 100 gp   | —            |
+| Pole (10 -foot)                     | 5 cp     | 7 lb.        |
+| Pot, iron                           | 2 gp     | 10 lb.       |
+| Potion of healing                   | 50 gp    | 1/2 lb.      |
+| Pouch                               | 5 sp     | 1 lb.        |
+| Quiver                              | 1 gp     | 1 lb.        |
+| Ram, portable                       | 4 gp     | 35 lb.       |
+| Rations (1 day)                     | 5 sp     | 2 lb.        |
+| Robes                               | 1 gp     | 4 lb.        |
+| Rope, hempen (50 feet)              | 1 gp     | 10 lb.       |
+| Rope, silk (50 feet)                | 10 gp    | 5 lb.        |
+| Sack                                | 1 cp     | 1/2 lb.      |
+| Scale, merchant's                   | 5 gp     | 3 lb.        |
+| Sealing wax                         | 5 sp     | —            |
+| Shovel                              | 2 gp     | 5 lb.        |
+| Signal whistle                      | 5 cp     | —            |
+| Signet ring                         | 5 gp     | —            |
+| Soap                                | 2 cp     | —            |
+| Spellbook                           | 50 gp    | 3 lb.        |
+| Spikes, iron (10)                   | 1 gp     | 5 lb.        |
+| Spyglass                            | 1,000 gp | 1 lb.        |
+| Tent, two -person                   | 2 gp     | 20 lb.       |
+| Tinderbox                           | 5 sp     | 1 lb.        |
+| Torch                               | 1 cp     | 1 lb.        |
+| Vial                                | 1 gp     | —            |
+| Waterskin                           | 2 sp     | 5 lb. (full) |
+| Whetstone                           | 1 cp     | 1 lb.        |
 
 ## Container Capacity
 
 | Container        | Capacity                               |
 |------------------|----------------------------------------|
-| Backpack*        | 1 cubic foot/30 pounds of gear         |
+| Backpack \*      | 1 cubic foot/30 pounds of gear         |
 | Barrel           | 40 gallons liquid, 4 cubic feet solid  |
 | Basket           | 2 cubic feet/40 pounds of gear         |
 | Bottle           | 1½ pints liquid                        |

@@ -10,10 +10,10 @@ The staff has 20 charges for the following properties. The staff regains 2d8 + 4
 - _**Spells.**_ While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: _Cone of Cold_ (5 charges), _Fireball_ (5th-level version, 5 charges), _Globe of Invulnerability_ (6 charges), _Hold Monster_ (5 charges), _Levitate_ (2 charges), _Lightning Bolt_ (5th-level version, 5 charges), _Magic Missile_ (1 charge), _Ray of Enfeeblement_ (1 charge), or _Wall of Force_ (5 charges).
 - _**Retributive Strike.**_ You can use an action to break the staff over your knee or against a solid surface, performing a retributive strike. The staff is destroyed and releases its remaining magic in an explosion that expands to fill a 30-foot-radius sphere centered on it.
 
-You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
+    You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take force damage equal to 16 × the number of charges in the staff. Every other creature in the area must make a DC 17 Dexterity saving throw. On a failed save, a creature takes an amount of damage based on how far away it is from the point of origin, as shown in the following table. On a successful save, a creature takes half as much damage.
 
-| Distance from Origin   | Damage                                 |
-|------------------------|----------------------------------------|
-| 10 ft. away or closer  | 8 × the number of charges in the staff |
-| 11 to 20 ft. away      | 6 × the number of charges in the staff |
-| 21 to 30 ft. away      | 4 × the number of charges in the staff |
+    | Distance from Origin   | Damage                                 |
+    |------------------------|----------------------------------------|
+    | 10 ft. away or closer  | 8 × the number of charges in the staff |
+    | 11 to 20 ft. away      | 6 × the number of charges in the staff |
+    | 21 to 30 ft. away      | 4 × the number of charges in the staff |

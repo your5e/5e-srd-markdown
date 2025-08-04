@@ -130,11 +130,11 @@ When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can 
 
 ### Mystic Arcanum
 
-At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6thlevel spell from the warlock spell list as this arcanum.
+At 11th level, your patron bestows upon you a magical secret called an arcanum. Choose one 6th level spell from the warlock spell list as this arcanum.
 
 You can cast your arcanum spell once without expending a spell slot. You must finish a long rest before you can do so again.
 
-At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7thlevel spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
+At higher levels, you gain more warlock spells of your choice that can be cast in this way: one 7th level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Mystic Arcanum when you finish a long rest.
 
 ### Eldritch Master
 
@@ -146,7 +146,7 @@ If an eldritch invocation has prerequisites, you must meet them to learn it. You
 
 ### Agonizing Blast
 
-_Prerequisite:_ eldritch blast _cantrip_
+_Prerequisite:_ Eldritch Blast _cantrip_
 
 When you cast _Eldritch Blast_, add your Charisma modifier to the damage it deals on a hit.
 
@@ -204,7 +204,7 @@ You can cast _Detect Magic_ at will, without expending a spell slot.
 
 ### Eldritch Spear
 
-_Prerequisite:_ eldritch blast _cantrip_
+_Prerequisite:_ Eldritch Blast _cantrip_
 
 When you cast _Eldritch Blast_, its range is 300 feet.
 
@@ -266,7 +266,7 @@ You can cast _Jump_ on yourself at will, without expending a spell slot or mater
 
 ### Repelling Blast
 
-_Prerequisite:_ eldritch blas_t cantrip_
+_Prerequisite:_ Eldritch Blast _cantrip_
 
 When you hit a creature with _Eldritch Blast_, you can push the creature up to 10 feet away from you in a straight line.
 
@@ -332,13 +332,13 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 ##### Fiend Expanded Spells
 
-| Spell Level   | Spells                            |
-|---------------|-----------------------------------|
-| 1st           | burning hands, command            |
-| 2nd           | blindness/deafness, scorching ray |
-| 3rd           | fireball, stinking cloud          |
-| 4th           | fire shield, wall of fire         |
-| 5th           | flame strike, hallow              |
+| Spell Level   | Spells                                |
+|---------------|---------------------------------------|
+| 1st           | _Burning Hands_, _Command_            |
+| 2nd           | _Blindness/Deafness_, _Scorching Ray_ |
+| 3rd           | _Fireball_, _Stinking Cloud_          |
+| 4th           | _Fire Shield_, _Wall of Fire_         |
+| 5th           | _Flame Strike_, _Hallow_              |
 
 #### Dark One's Blessing
 

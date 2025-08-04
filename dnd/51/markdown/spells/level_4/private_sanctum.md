@@ -7,8 +7,6 @@ _4th-level abjuration_
 - **Components:** V, S, M (a thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite)
 - **Duration:** 24 hours
 
-System Reference Document 5.1 **171**
-
 You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it.
 
 When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:

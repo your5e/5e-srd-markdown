@@ -62,7 +62,7 @@ At 1st level, you know three cantrips of your choice from the wizard spell list.
 
 #### Spellbook
 
-At 1st level, you have a spellbook containing six 1stlevel wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
+At 1st level, you have a spellbook containing six 1st level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
 
 #### Preparing and Casting Spells
 

@@ -18,11 +18,11 @@ _Guards and Wards_ creates the following effects within the warded area.
 - _**Stairs.**_ Webs fill all stairs in the warded area from top to bottom, as the _Web_ spell. These strands regrow in 10 minutes if they are burned or torn away while _Guards and Wards_ lasts.
 - _**Other Spell Effect.**_ You can place your choice of one of the following magical effects within the warded area of the stronghold.
 
-- Place _Dancing Lights_ in four corridors. You can designate a simple program that the lights repeat as long as _Guards and Wards_ lasts.
-- Place _Magic Mouth_ in two locations.
-- Place _Stinking Cloud_ in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while _Guards and Wards_ lasts.
-- Place a constant _Gust of Wind_ in one corridor or room.
-- Place a _Suggestion_ in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
+    - Place _Dancing Lights_ in four corridors. You can designate a simple program that the lights repeat as long as _Guards and Wards_ lasts.
+    - Place _Magic Mouth_ in two locations.
+    - Place _Stinking Cloud_ in two locations. The vapors appear in the places you designate; they return within 10 minutes if dispersed by wind while _Guards and Wards_ lasts.
+    - Place a constant _Gust of Wind_ in one corridor or room.
+    - Place a _Suggestion_ in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
 
 The whole warded area radiates magic. A _Dispel Magic_ cast on a specific effect, if successful, removes only that effect.
 

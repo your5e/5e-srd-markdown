@@ -16,9 +16,7 @@ You summon elementals that appear in unoccupied spaces that you can see within r
 
 An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends.
 
-The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them
-
-(no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
+The summoned creatures are friendly to you and your companions. Roll initiative for the summoned creatures as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 
 The GM has the creatures' statistics.
 

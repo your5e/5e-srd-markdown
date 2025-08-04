@@ -29,7 +29,7 @@ _Large celestial, lawful good_
     - 3/day each: _Blade Barrier_, _Dispel Evil and Good_, _Resurrection_
     - 1/day each: _Commune_, _Control Weather_
 
-_**Magic Resistance.**_ The solar has advantage on saving throws against spells and other magical effects.
+- _**Magic Resistance.**_ The solar has advantage on saving throws against spells and other magical effects.
 
 ## Actions
 

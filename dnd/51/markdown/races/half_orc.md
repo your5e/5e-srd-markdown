@@ -1,6 +1,6 @@
-## Half-Orc
+# Half-Orc
 
-### Half-Orc Traits
+## Half-Orc Traits
 
 Your half-orc character has certain traits deriving from your orc ancestry.
 
@@ -11,9 +11,6 @@ Your half-orc character has certain traits deriving from your orc ancestry.
 - _**Speed.**_ Your base walking speed is 30 feet.
 - _**Darkvision.**_ Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 - _**Menacing.**_ You gain proficiency in the Intimidation skill.
-- _**Relentless Endurance.**_ When you are reduced to 0 hit points but not killed outright, you can drop to 1
-
-hit point instead. You can't use this feature again until you finish a long rest.
-
+- _**Relentless Endurance.**_ When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
 - _**Savage Attacks.**_ When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.
 - _**Languages.**_ You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.

@@ -42,32 +42,28 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 
 ### Food, Drink, and Lodging
 
-| Item                 | Cost   |
-|----------------------|--------|
-| Ale                  |        |
-| Gallon               | 2 sp   |
-| Mug                  | 4 cp   |
-| Banquet (per person) | 10 gp  |
-| Bread, loaf          | 2 cp   |
-| Cheese, hunk         | 1 sp   |
-| Inn stay (per day)   |        |
-| Squalid              | 7 cp   |
-| Poor                 | 1 sp   |
-| Modest               | 5 sp   |
-| Comfortable          | 8 sp   |
-| Wealthy              | 2 gp   |
-| Aristocratic         | 4 gp   |
-| Meals (per day)      |        |
-| Squalid              | 3 cp   |
-| Poor                 | 6 cp   |
-| Modest               | 3 sp   |
-| Comfortable          | 5 sp   |
-| Wealthy              | 8 sp   |
-| Aristocratic         | 2 gp   |
-| Meat, chunk          | 3 sp   |
-| Wine                 |        |
-| Common (pitcher)     | 2 sp   |
-| Fine (bottle)        | 10 gp  |
+| Item                             | Cost   |
+|----------------------------------|--------|
+| Ale, Gallon                      | 2 sp   |
+| Ale, Mug                         | 4 cp   |
+| Banquet (per person)             | 10 gp  |
+| Bread, loaf                      | 2 cp   |
+| Cheese, hunk                     | 1 sp   |
+| Inn Stay (per day), Squalid      | 7 cp   |
+| Inn Stay (per day), Poor         | 1 sp   |
+| Inn Stay (per day), Modest       | 5 sp   |
+| Inn Stay (per day), Comfortable  | 8 sp   |
+| Inn Stay (per day), Wealthy      | 2 gp   |
+| Inn Stay (per day), Aristocratic | 4 gp   |
+| Meals (per day), Squalid         | 3 cp   |
+| Meals (per day), Poor            | 6 cp   |
+| Meals (per day), Modest          | 3 sp   |
+| Meals (per day), Comfortable     | 5 sp   |
+| Meals (per day), Wealthy         | 8 sp   |
+| Meals (per day), Aristocratic    | 2 gp   |
+| Meals (per day), Meat, chunk     | 3 sp   |
+| Wine, Common (pitcher)           | 2 sp   |
+| Wine, Fine (bottle)              | 10 gp  |
 
 ## Services
 
@@ -79,17 +75,15 @@ Other hirelings provide more expert or dangerous services. Mercenary soldiers pa
 
 ### Services
 
-| Service           | Pay           |
-|-------------------|---------------|
-| Coach cab         |               |
-| Between towns     | 3 cp per mile |
-| Within a city     | 1 cp          |
-| Hireling          |               |
-| Skilled           | 2 gp per day  |
-| Untrained         | 2 sp per day  |
-| Messenger         | 2 cp per mile |
-| Road or gate toll | 1 cp          |
-| Ship's passage    | 1 sp per mile |
+| Service                  | Pay           |
+|--------------------------|---------------|
+| Coach cab, Between towns | 3 cp per mile |
+| Coach cab, Within a city | 1 cp          |
+| Hireling, Skilled        | 2 gp per day  |
+| Hireling, Untrained      | 2 sp per day  |
+| Messenger                | 2 cp per mile |
+| Road or gate toll        | 1 cp          |
+| Ship's passage           | 1 sp per mile |
 
 Skilled hirelings include anyone hired to perform a service that involves a proficiency (including weapon, tool, or skill): a mercenary, artisan, scribe, and so on. The pay shown is a minimum; some expert hirelings require more pay. Untrained hirelings are hired for menial work that requires no particular skill and can include laborers, porters, maids, and similar workers.
 

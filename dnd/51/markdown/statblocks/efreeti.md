@@ -22,8 +22,8 @@ _Large elemental, lawful evil_
 - _**Innate Spellcasting.**_ The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
     - At will: _Detect Magic_
-    - 3/day: _enlarge/reduce_, _Tongues_
-    - 1/day each: _Conjure Elemental_ (fire elemental only), _gaseous form, invisibility_, _Major Image_, _Plane Shift_, _Wall of Fire_
+    - 3/day: _Enlarge/Reduce_, _Tongues_
+    - 1/day each: _Conjure Elemental_ (fire elemental only), _Gaseous Form_, _Invisibility_, _Major Image_, _Plane Shift_, _Wall of Fire_
 
 ## Actions
 

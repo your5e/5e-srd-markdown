@@ -1,6 +1,6 @@
-## Dragonborn
+# Dragonborn
 
-### Dragonborn Traits
+## Dragonborn Traits
 
 Your draconic heritage manifests in a variety of traits you share with other dragonborn.
 
@@ -10,7 +10,7 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 - _**Size.**_ Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium.
 - _**Speed.**_ Your base walking speed is 30 feet.
 
-#### Draconic Ancestry
+### Draconic Ancestry
 
 | Dragon   | Damage Type   | Breath Weapon                |
 |----------|---------------|------------------------------|
@@ -28,9 +28,9 @@ Your draconic heritage manifests in a variety of traits you share with other dra
 - _**Draconic Ancestry.**_ You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. Your breath weapon and damage resistance are determined by the dragon type, as shown in the table.
 - _**Breath Weapon.**_ You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
 
-When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
+    When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level.
 
-After you use your breath weapon, you can't use it again until you complete a short or long rest.
+    After you use your breath weapon, you can't use it again until you complete a short or long rest.
 
 - _**Damage Resistance.**_ You have resistance to the damage type associated with your draconic ancestry.
 - _**Languages.**_ You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.

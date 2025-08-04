@@ -1,4 +1,4 @@
-## Deck of Many Things
+# Deck of Many Things
 
 _Wondrous item, legendary_
 
@@ -8,32 +8,32 @@ Before you draw a card, you must declare how many cards you intend to draw and t
 
 Once a card is drawn, it fades from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
 
-| Playing Card       | Card       |
-|--------------------|------------|
-| Ace of diamonds    | Vizier*    |
-| King of diamonds   | Sun        |
-| Queen of diamonds  | Moon       |
-| Jack of diamonds   | Star       |
-| Two of diamonds    | Comet*     |
-| Ace of hearts      | The Fates* |
-| King of hearts     | Throne     |
-| Queen of hearts    | Key        |
-| Jack of hearts     | Knight     |
-| Two of hearts      | Gem*       |
-| Ace of clubs       | Talons*    |
-| King of clubs      | The Void   |
-| Queen of clubs     | Flames     |
-| Jack of clubs      | Skull      |
-| Two of clubs       | Idiot*     |
-| Ace of spades      | Donjon*    |
-| King of spades     | Ruin       |
-| Queen of spades    | Euryale    |
-| Jack of spades     | Rogue      |
-| Two of spades      | Balance*   |
-| Joker (with TM)    | Fool*      |
-| Joker (without TM) | Jester     |
+| Playing Card       | Card         |
+|--------------------|--------------|
+| Ace of diamonds    | Vizier \*    |
+| King of diamonds   | Sun          |
+| Queen of diamonds  | Moon         |
+| Jack of diamonds   | Star         |
+| Two of diamonds    | Comet \*     |
+| Ace of hearts      | The Fates \* |
+| King of hearts     | Throne       |
+| Queen of hearts    | Key          |
+| Jack of hearts     | Knight       |
+| Two of hearts      | Gem*         |
+| Ace of clubs       | Talons \*    |
+| King of clubs      | The Void     |
+| Queen of clubs     | Flames       |
+| Jack of clubs      | Skull        |
+| Two of clubs       | Idiot \*     |
+| Ace of spades      | Donjon \*    |
+| King of spades     | Ruin         |
+| Queen of spades    | Euryale      |
+| Jack of spades     | Rogue        |
+| Two of spades      | Balance \*   |
+| Joker (with TM)    | Fool \*      |
+| Joker (without TM) | Jester       |
 
-\*Found only in a deck with twenty-two cards
+\* Found only in a deck with twenty-two cards
 
 - _**Balance.**_ Your mind suffers a wrenching alteration, causing your alignment to change. Lawful becomes chaotic, good becomes evil, and vice versa. If you are true neutral or unaligned, this card has no effect on you.
 - _**Comet.**_ If you single-handedly defeat the next hostile monster or group of monsters you encounter, you gain experience points enough to gain one level. Otherwise, this card has no effect.
@@ -51,8 +51,14 @@ Once a card is drawn, it fades from existence. Unless the card is the Fool or th
 - _**Rogue.**_ A nonplayer character of the GM's choice becomes hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Nothing less than a _Wish_ spell or divine intervention can end the NPC's hostility toward you.
 - _**Ruin.**_ All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
 - _**Skull.**_ You summon an avatar of death — a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the GM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own avatar of death. A creature slain by an avatar of death can't be restored to life.
+- _**Star.**_ Increase one of your ability scores by 2. The score can exceed 20 but can't exceed 24.
+- _**Sun.**_ You gain 50,000 XP, and a wondrous item (which the GM determines randomly) appears in your hands.
+- _**Talons.**_ Every magic item you wear or carry disintegrates. Artifacts in your possession aren't destroyed but do vanish.
+- _**Throne.**_ You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours.
+- _**Vizier.**_ At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with wisdom on how to apply it.
+- _**The Void.**_ This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the GM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is incapacitated. A _Wish_ spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
 
-### Avatar of Death
+## Avatar of Death
 
 _Medium undead, neutral evil_
 
@@ -70,17 +76,11 @@ _Medium undead, neutral evil_
 - **Languages** all languages known to its summoner
 - **Challenge** — (0 XP)
 
-#### Traits
+### Traits
 
 - _**Incorporeal Movement.**_ The avatar can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 - _**Turning Immunity.**_ The avatar is immune to features that turn undead.
 
-#### Actions
+### Actions
 
 - _**Reaping Scythe.**_ The avatar sweeps its spectral scythe through a creature within 5 feet of it, dealing 7 (1d8 + 3) slashing damage plus 4 (1d8) necrotic damage.
-- _**Star.**_ Increase one of your ability scores by 2. The score can exceed 20 but can't exceed 24.
-- _**Sun.**_ You gain 50,000 XP, and a wondrous item (which the GM determines randomly) appears in your hands.
-- _**Talons.**_ Every magic item you wear or carry disintegrates. Artifacts in your possession aren't destroyed but do vanish.
-- _**Throne.**_ You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours.
-- _**Vizier.**_ At any time you choose within one year of drawing this card, you can ask a question in meditation and mentally receive a truthful answer to that question. Besides information, the answer helps you solve a puzzling problem or other dilemma. In other words, the knowledge comes with wisdom on how to apply it.
-- _**The Void.**_ This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the GM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is incapacitated. A _Wish_ spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.

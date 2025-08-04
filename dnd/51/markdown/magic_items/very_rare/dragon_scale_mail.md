@@ -8,10 +8,15 @@ While wearing this armor, you gain a +1 bonus to AC, you have advantage on savin
 
 Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest dragon within 30 miles of you that is of the same type as the armor. This special action can't be used again until the next dawn.
 
-| Dragon   | Resistance   | Dragon   | Resistance   |
-|----------|--------------|----------|--------------|
-| Black    | Acid         | Gold     | Fire         |
-| Blue     | Lightning    | Green    | Poison       |
-| Brass    | Fire         | Red      | Fire         |
-| Bronze   | Lightning    | Silver   | Cold         |
-| Copper   | Acid         | White    | Cold         |
+| Dragon   | Resistance   |
+|----------|--------------|
+| Black    | Acid         |
+| Blue     | Lightning    |
+| Brass    | Fire         |
+| Bronze   | Lightning    |
+| Copper   | Acid         |
+| Gold     | Fire         |
+| Green    | Poison       |
+| Red      | Fire         |
+| Silver   | Cold         |
+| White    | Cold         |

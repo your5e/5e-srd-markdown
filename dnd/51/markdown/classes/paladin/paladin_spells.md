@@ -1,21 +1,47 @@
 # Paladin Spells
 
-#### 1st Level
+## 1st Level
 
-Bless Command Cure Wounds Detect Evil and Good Detect Magic Detect Poison and Disease Divine Favor Heroism Protection from Evil and Good Purify Food and Drink Shield of Faith
+- _Bless_
+- _Command_
+- _Cure Wounds_
+- _Detect Evil and Good_
+- _Detect Magic_
+- _Detect Poison and Disease_
+- _Divine Favor_
+- _Heroism_
+- _Protection from Evil and Good_
+- _Purify Food and Drink_
+- _Shield of Faith_
 
-#### 2nd Level
+## 2nd Level
 
-Aid Branding Smite Find Steed Lesser Restoration Locate Object Magic Weapon Protection from Poison Zone of Truth
+- _Aid_
+- _Branding Smite_
+- _Find Steed_
+- _Lesser Restoration_
+- _Locate Object_
+- _Magic Weapon_
+- _Protection from Poison_
+- _Zone of Truth_
 
-#### 3rd Level
+## 3rd Level
 
-Create Food and Water Daylight Dispel Magic Magic Circle Remove Curse Revivify
+- _Create Food and Water_
+- _Daylight_
+- _Dispel Magic_
+- _Magic Circle_
+- _Remove Curse_
+- _Revivify_
 
-#### 4th Level
+## 4th Level
 
-Banishment Death Ward Locate Creature
+- _Banishment_
+- _Death Ward_
+- _Locate Creature_
 
-#### 5th Level
+## 5th Level
 
-Dispel Evil and Good Geas Raise Dead
+- _Dispel Evil and Good_
+- _Geas_
+- _Raise Dead_

@@ -9,16 +9,11 @@ _2nd-level transmutation_
 
 You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
 
-_Bear's Endurance_. The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
+- _**Bear's Endurance.**_ The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
+- _**Bull's Strength.**_ The target has advantage on Strength checks, and his or her carrying capacity doubles.
+- _**Cat's Grace.**_ The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.
+- _**Eagle's Splendor.**_ The target has advantage on Charisma checks.
+- _**Fox's Cunning.**_ The target has advantage on Intelligence checks.
+- _**Owl's Wisdom.**_ The target has advantage on Wisdom checks.
 
-_Bull's Strength_. The target has advantage on Strength checks, and his or her carrying capacity doubles.
-
-_Cat's Grace_. The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.
-
-_Eagle's Splendor_. The target has advantage on Charisma checks.
-
-_Fox's Cunning_. The target has advantage on Intelligence checks.
-
-_Owl's Wisdom_. The target has advantage on Wisdom checks.
-
-_At Higher Levels_. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+_**At Higher Levels.**_ When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.

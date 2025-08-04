@@ -1,41 +1,95 @@
 # Warlock Spells
 
-### Cantrips (0 Level)
+## Cantrips (0 Level)
 
-Chill Touch Eldritch Blast Mage Hand Minor Illusion Poison Spray Prestidigitation True Strike
+- _Chill Touch_
+- _Eldritch Blast_
+- _Mage Hand_
+- _Minor Illusion_
+- _Poison Spray_
+- _Prestidigitation_
+- _True Strike_
 
 ## 1st Level
 
-Charm Person Comprehend Languages Expeditious Retreat Hellish Rebuke Illusory Script Protection from Evil and Good Unseen Servant
+- _Charm Person_
+- _Comprehend Languages_
+- _Expeditious Retreat_
+- _Hellish Rebuke_
+- _Illusory Script_
+- _Protection from Evil and Good_
+- _Unseen Servant_
 
 ## 2nd Level
 
-Darkness Enthrall Hold Person Invisibility Mirror Image Misty Step Ray of Enfeeblement Shatter Spider Climb Suggestion
+- _Darkness_
+- _Enthrall_
+- _Hold Person_
+- _Invisibility_
+- _Mirror Image_
+- _Misty Step_
+- _Ray of Enfeeblement_
+- _Shatter_
+- _Spider Climb_
+- _Suggestion_
 
-#### 3rd Level
+## 3rd Level
 
-Counterspell Dispel Magic Fear Fly Gaseous Form Hypnotic Pattern Magic Circle Major Image Remove Curse Tongues Vampiric Touch
+- _Counterspell_
+- _Dispel Magic_
+- _Fear_
+- _Fly_
+- _Gaseous Form_
+- _Hypnotic Pattern_
+- _Magic Circle_
+- _Major Image_
+- _Remove Curse_
+- _Tongues_
+- _Vampiric Touch_
 
-# 4th Level
+## 4th Level
 
-Banishment Blight Dimension Door Hallucinatory Terrain
+- _Banishment_
+- _Blight_
+- _Dimension Door_
+- _Hallucinatory Terrain_
 
-#### 5th Level
+## 5th Level
 
-Contact Other Plane Dream Hold Monster Scrying
+- _Contact Other Plane_
+- _Dream_
+- _Hold Monster_
+- _Scrying_
 
-#### 6th Level
+## 6th Level
 
-Circle of Death Conjure Fey Create Undead Eyebite Flesh to Stone Mass Suggestion True Seeing
+- _Circle of Death_
+- _Conjure Fey_
+- _Create Undead_
+- _Eyebite_
+- _Flesh to Stone_
+- _Mass Suggestion_
+- _True Seeing_
 
 ## 7th Level
 
-Etherealness Finger of Death Forcecage Plane Shift
+- _Etherealness_
+- _Finger of Death_
+- _Forcecage_
+- _Plane Shift_
 
 ## 8th Level
 
-Demiplane Dominate Monster Feeblemind Glibness Power Word Stun
+- _Demiplane_
+- _Dominate Monster_
+- _Feeblemind_
+- _Glibness_
+- _Power Word Stun_
 
-#### 9th Level
+## 9th Level
 
-Astral Projection Foresight Imprisonment Power Word Kill True Polymorph
+- _Astral Projection_
+- _Foresight_
+- _Imprisonment_
+- _Power Word Kill_
+- _True Polymorph_

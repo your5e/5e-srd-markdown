@@ -2,44 +2,134 @@
 
 ## Cantrips (0 Level)
 
-Guidance Light Mending Resistance Sacred Flame Spare the Dying Thaumaturgy
+- _Guidance_
+- _Light_
+- _Mending_
+- _Resistance_
+- _Sacred Flame_
+- _Spare the Dying_
+- _Thaumaturgy_
 
 ## 1st Level
 
-Bane Bless Command Create or Destroy Water Cure Wounds Detect Evil and Good Detect Magic Detect Poison and Disease Guiding Bolt Healing Word
+- _Bane_
+- _Bless_
+- _Command_
+- _Create or Destroy Water_
+- _Cure Wounds_
+- _Detect Evil and Good_
+- _Detect Magic_
+- _Detect Poison and Disease_
+- _Guiding Bolt_
+- _Healing Word_
+- _Inflict Wounds_
+- _Protection from Evil and Good_
+- _Purify Food and Drink_
+- _Sanctuary_
+- _Shield of Faith_
 
-Inflict Wounds Protection from Evil and Good Purify Food and Drink Sanctuary Shield of Faith
+## 2nd Level
 
-#### 2nd Level
+- _Aid_
+- _Augury_
+- _Blindness/Deafness_
+- _Calm Emotions_
+- _Continual Flame_
+- _Enhance Ability_
+- _Find Traps_
+- _Gentle Repose_
+- _Hold Person_
+- _Lesser Restoration_
+- _Locate Object_
+- _Prayer of Healing_
+- _Protection from Poison_
+- _Silence_
+- _Spiritual Weapon_
+- _Warding Bond_
+- _Zone of Truth_
 
-Aid Augury Blindness/Deafness Calm Emotions Continual Flame Enhance Ability Find Traps Gentle Repose Hold Person Lesser Restoration Locate Object Prayer of Healing Protection from Poison Silence Spiritual Weapon Warding Bond Zone of Truth
+## 3rd Level
 
-#### 3rd Level
+- _Animate Dead_
+- _Beacon of Hope_
+- _Bestow Curse_
+- _Clairvoyance_
+- _Create Food and Water_
+- _Daylight_
+- _Dispel Magic_
+- _Glyph of Warding_
+- _Magic Circle_
+- _Mass Healing Word_
+- _Meld Into Stone_
+- _Protection from Energy_
+- _Remove Curse_
+- _Revivify_
+- _Sending_
+- _Speak with Dead_
+- _Spirit Guardians_
+- _Tongues_
+- _Water Walk_
 
-Animate Dead Beacon of Hope Bestow Curse Clairvoyance Create Food and Water Daylight Dispel Magic Glyph of Warding Magic Circle Mass Healing Word Meld into Stone Protection from Energy Remove Curse Revivify Sending Speak with Dead Spirit Guardians Tongues Water Walk
+## 4th Level
 
-### 4th Level
+- _Banishment_
+- _Control Water_
+- _Death Ward_
+- _Divination_
+- _Freedom of Movement_
+- _Guardian of Faith_
+- _Locate Creature_
+- _Stone Shape_
 
-Banishment Control Water Death Ward Divination Freedom of Movement Guardian of Faith
+## 5th Level
 
-Locate Creature Stone Shape
+- _Commune_
+- _Contagion_
+- _Dispel Evil and Good_
+- _Flame Strike_
+- _Geas_
+- _Greater Restoration_
+- _Hallow_
+- _Insect Plague_
+- _Legend Lore_
+- _Mass Cure Wounds_
+- _Planar Binding_
+- _Raise Dead_
+- _Scrying_
 
-#### 5th Level
+## 6th Level
 
-Commune Contagion Dispel Evil and Good Flame Strike Geas Greater Restoration Hallow Insect Plague Legend Lore Mass Cure Wounds Planar Binding Raise Dead Scrying
-
-#### 6th Level
-
-Blade Barrier Create Undead Find the Path Forbiddance Harm Heal Heroes' Feast Planar Ally True Seeing Word of Recall
+- _Blade Barrier_
+- _Create Undead_
+- _Find the Path_
+- _Forbiddance_
+- _Harm_
+- _Heal_
+- _Planar Ally_
+- _True Seeing_
+- _Word of Recall_
 
 ## 7th Level
 
-Conjure Celestial Divine Word Etherealness Fire Storm Plane Shift Regenerate Resurrection Symbol
+- _Conjure Celestial_
+- _Divine Word_
+- _Etherealness_
+- _Fire Storm_
+- _Plane Shift_
+- _Regenerate_
+- _Resurrection_
+- _Symbol_
 
 ## 8th Level
 
-Antimagic Field Control Weather Earthquake Holy Aura
+- _Antimagic Field_
+- _Control Weather_
+- _Earthquake_
+- _Holy Aura_
 
 ## 9th Level
 
-Astral Projection Gate Mass Heal True Resurrection
+- _Astral Projection_
+- _Gate_
+- _Mass Heal_
+- _True Resurrection_

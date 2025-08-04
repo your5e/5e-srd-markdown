@@ -16,4 +16,5 @@ Some typical commands and their effects follow. You might issue a command other 
 - _**Flee.**_ The target spends its turn moving away from you by the fastest available means.
 - _**Grovel.**_ The target falls prone and then ends its turn.
 - _**Halt.**_ The target doesn't move and takes no actions. A flying creature stays aloft, provided that it is able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
-- _**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.
+
+_**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional creature for each slot level above 1st. The creatures must be within 30 feet of each other when you target them.

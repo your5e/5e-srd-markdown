@@ -2,13 +2,11 @@
 
 The System Reference Document 5.1 is provided to you free of charge under the terms of the Creative Commons [Attribution 4.0 International License \("CC-BY-4.0"\). You are free](https://creativecommons.org/licenses/by/4.0/legalcode) to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
 
-This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at [https://creativecommons.org/licenses/by/4.0/legalcode.](https://creativecommons.org/licenses/by/4.0/legalcode)
+> This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at [https://creativecommons.org/licenses/by/4.0/legalcode.](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 Please do not include any other attribution regarding Wizards other than that provided above. You may, however, include a statement on your work that it is "compatible with fifth edition" or "5E compatible."
 
 Section 5 of CC-BY-4.0 includes a Disclaimer of Warranties and Limitation of Liability that limits our liability to you.
-
-(This page intentionally left blank)
 
 If you note any errors in this document, please let us know by emailing askdnd@wizards.com.
 
@@ -93,7 +91,9 @@ Every task that a character or monster might attempt in the game is covered by o
 @include    markdown/spellcasting/schools_of_magic.md
 @include-   markdown/spellcasting/combining.md
 
-@include    markdown/classes/bard/spell_lists_bard_spells.md
+# Spell Lists
+
+@include    markdown/classes/bard/bard_spells.md
 @include    markdown/classes/cleric/cleric_spells.md
 @include    markdown/classes/druid/druid_spells.md
 @include    markdown/classes/paladin/paladin_spells.md

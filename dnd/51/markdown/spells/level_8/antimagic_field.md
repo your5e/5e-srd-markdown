@@ -16,7 +16,7 @@ Spells and other magical effects, except those created by an artifact or a deity
 - _**Spells.**_ Any active spell or other magical effect on a creature or an object in the sphere is suppressed while the creature or object is in it.
 - _**Magic Items.**_ The properties and powers of magic items are suppressed in the sphere. For example, a _+1 longsword_ in the sphere functions as a nonmagical longsword.
 
-A magic weapon's properties and powers are suppressed if it is used against a target in the sphere or wielded by an attacker in the sphere. If a magic weapon or a piece of magic ammunition fully leaves the sphere (for example, if you fire a magic arrow or throw a magic spear at a target outside the sphere), the magic of the item ceases to be suppressed as soon as it exits.
+    A magic weapon's properties and powers are suppressed if it is used against a target in the sphere or wielded by an attacker in the sphere. If a magic weapon or a piece of magic ammunition fully leaves the sphere (for example, if you fire a magic arrow or throw a magic spear at a target outside the sphere), the magic of the item ceases to be suppressed as soon as it exits.
 
 - _**Magical Travel.**_ Teleportation and planar travel fail to work in the sphere, whether the sphere is the destination or the departure point for such magical travel. A portal to another location, world, or plane of existence, as well as an opening to an extradimensional space such as that created by the _Rope Trick_ spell, temporarily closes while in the sphere.
 - _**Creatures and Objects.**_ A creature or object summoned or created by magic temporarily winks out of existence in the sphere. Such a creature instantly reappears once the space the creature occupied is no longer within the sphere.

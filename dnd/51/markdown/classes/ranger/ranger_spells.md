@@ -2,22 +2,51 @@
 
 ## 1st Level
 
-Alarm Animal Friendship Cure Wounds Detect Magic Detect Poison and Disease Fog Cloud Goodberry Hunter's Mark Jump Longstrider Speak with Animals
+- _Alarm_
+- _Animal Friendship_
+- _Cure Wounds_
+- _Detect Magic_
+- _Detect Poison and Disease_
+- _Fog Cloud_
+- _Goodberry_
+- _Jump_
+- _Longstrider_
+- _Speak with Animals_
 
 ## 2nd Level
 
-Animal Messenger Barkskin Darkvision Find Traps Lesser Restoration Locate Animals or Plants Locate Object Pass without Trace Protection from Poison Silence Spike Growth
+- _Animal Messenger_
+- _Barkskin_
+- _Darkvision_
+- _Find Traps_
+- _Lesser Restoration_
+- _Locate Animals or Plants_
+- _Locate Object_
+- _Pass Without Trace_
+- _Protection from Poison_
+- _Silence_
+- _Spike Growth_
 
-#### 3rd Level
+## 3rd Level
 
-Conjure Animals Daylight Nondetection Plant Growth Protection from Energy Speak with Plants Water Breathing Water Walk Wind Wall
+- _Conjure Animals_
+- _Daylight_
+- _Nondetection_
+- _Plant Growth_
+- _Protection from Energy_
+- _Speak with Plants_
+- _Water Breathing_
+- _Water Walk_
+- _Wind Wall_
 
-## 4th Level
+# 4th Level
 
-Conjure Woodland Beings Freedom of Movement Locate Creature
+- _Conjure Woodland Beings_
+- _Freedom of Movement_
+- _Locate Creature_
+- _Stoneskin_
 
-#### Stoneskin
+# 5th Level
 
-#### 5th Level
-
-Commune with Nature Tree Stride
+- _Commune with Nature_
+- _Tree Stride_
