@@ -1,6 +1,6 @@
-## Half-Elf
+# Half-Elf
 
-### Half-Elf Traits
+## Half-Elf Traits
 
 Your half-elf character has some qualities in common with elves and some that are unique to half-elves.
 

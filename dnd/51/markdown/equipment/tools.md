@@ -4,7 +4,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 
 might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
 
-#### Tools
+## Tools
 
 | Tools                    | Cost   | Weight   |
 |--------------------------|--------|----------|

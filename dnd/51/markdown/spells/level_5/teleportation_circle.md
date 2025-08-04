@@ -1,4 +1,4 @@
-## Teleportation Circle
+# Teleportation Circle
 
 _5th-level conjuration_
 

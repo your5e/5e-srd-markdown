@@ -3424,7 +3424,7 @@ A tool helps you to do something you couldn't otherwise do, such as craft or rep
 
 might ask you to make a Dexterity check to carve a fine detail with your woodcarver's tools, or a Strength check to make something out of particularly hard wood.
 
-#### Tools
+## Tools
 
 | Tools                    | Cost   | Weight   |
 |--------------------------|--------|----------|
@@ -5499,14 +5499,14 @@ For example, if two clerics cast _Bless_ on the same target, that character gain
 - _Water Walk_
 - _Wind Wall_
 
-## 4th Level
+### 4th Level
 
 - _Conjure Woodland Beings_
 - _Freedom of Movement_
 - _Locate Creature_
 - _Stoneskin_
 
-## 5th Level
+### 5th Level
 
 - _Commune with Nature_
 - _Tree Stride_

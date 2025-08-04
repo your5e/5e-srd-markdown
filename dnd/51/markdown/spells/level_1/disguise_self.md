@@ -1,4 +1,4 @@
-## Disguise Self
+# Disguise Self
 
 _1st-level illusion_
 

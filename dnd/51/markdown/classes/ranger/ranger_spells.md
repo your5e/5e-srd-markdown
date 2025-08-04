@@ -39,14 +39,14 @@
 - _Water Walk_
 - _Wind Wall_
 
-# 4th Level
+## 4th Level
 
 - _Conjure Woodland Beings_
 - _Freedom of Movement_
 - _Locate Creature_
 - _Stoneskin_
 
-# 5th Level
+## 5th Level
 
 - _Commune with Nature_
 - _Tree Stride_

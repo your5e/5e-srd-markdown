@@ -1,4 +1,4 @@
-## Bag of Tricks
+# Bag of Tricks
 
 _Wondrous item, uncommon_
 
@@ -10,7 +10,7 @@ The creature is friendly to you and your companions, and it acts on your turn. Y
 
 Once three fuzzy objects have been pulled from the bag, the bag can't be used again until the next dawn.
 
-### Gray Bag of Tricks
+## Gray Bag of Tricks
 
 |   d8 | Creature     |
 |------|--------------|
@@ -23,7 +23,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 |    7 | Dire wolf    |
 |    8 | Giant elk    |
 
-### Rust Bag of Tricks
+## Rust Bag of Tricks
 
 |   d8 | Creature   |
 |------|------------|
@@ -36,7 +36,7 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 |    7 | Lion       |
 |    8 | Brown bear |
 
-### Tan Bag of Tricks
+## Tan Bag of Tricks
 
 |   d8 | Creature     |
 |------|--------------|

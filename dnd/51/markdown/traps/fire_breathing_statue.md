@@ -1,4 +1,4 @@
-### Fire-Breathing Statue
+# Fire-Breathing Statue
 
 _Magic trap_
 

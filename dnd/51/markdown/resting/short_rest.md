@@ -1,4 +1,4 @@
-## Short Rest
+# Short Rest
 
 A short rest is a period of downtime, at least 1 hour long, during which a character does nothing more strenuous than eating, drinking, reading, and tending to wounds.
 

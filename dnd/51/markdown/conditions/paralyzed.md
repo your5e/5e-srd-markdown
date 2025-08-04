@@ -1,4 +1,4 @@
-## Paralyzed
+# Paralyzed
 
 - A paralyzed creature is incapacitated (see the condition) and can't move or speak.
 - The creature automatically fails Strength and Dexterity saving throws.

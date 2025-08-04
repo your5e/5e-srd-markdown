@@ -1,4 +1,4 @@
-## Enlarge/Reduce
+# Enlarge/Reduce
 
 _2nd-level transmutation_
 

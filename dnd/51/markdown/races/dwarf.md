@@ -1,6 +1,6 @@
-## Dwarf
+# Dwarf
 
-### Dwarf Traits
+## Dwarf Traits
 
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 
@@ -16,7 +16,7 @@ Your dwarf character has an assortment of inborn abilities, part and parcel of d
 - _**Stonecunning.**_ Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 - _**Languages.**_ You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
 
-### Hill Dwarf
+## Hill Dwarf
 
 As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience.
 

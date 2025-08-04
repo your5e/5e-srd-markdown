@@ -1,4 +1,4 @@
-### Rolling Sphere
+# Rolling Sphere
 
 _Mechanical trap_
 

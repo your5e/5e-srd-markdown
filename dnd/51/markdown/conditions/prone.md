@@ -1,4 +1,4 @@
-## Prone
+# Prone
 
 - A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
 - The creature has disadvantage on attack rolls.

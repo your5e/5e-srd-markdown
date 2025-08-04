@@ -1,4 +1,4 @@
-## Marvelous Pigments
+# Marvelous Pigments
 
 _Wondrous item, very rare_
 

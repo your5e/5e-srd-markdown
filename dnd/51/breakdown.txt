@@ -1,6 +1,7 @@
 # major sections of SRD_CC_v5.1.md
 
     13     45  markdown/races/races.md
+               @adjust 1
     47     70  markdown/races/dwarf.md
     72     96  markdown/races/elf.md
     98    121  markdown/races/halfling.md
@@ -11,6 +12,7 @@
    217    232  markdown/races/half_orc.md
    234    248  markdown/races/tiefling.md -
 
+               @adjust 0
    250    399  markdown/classes/barbarian/barbarian.md
    401    570  markdown/classes/bard/bard.md
    572    752  markdown/classes/cleric/cleric.md
@@ -45,12 +47,14 @@
   3673   3680  markdown/feats/grappler.md
 
   3682   3856  markdown/abilities/ability_scores.md -
+               @adjust 1
   3862   3903  markdown/abilities/strength.md
   3905   3948  markdown/abilities/dexterity.md
   3950   3970  markdown/abilities/constitution.md
   3972   3996  markdown/abilities/intelligence.md
   3998   4018  markdown/abilities/wisdom.md
   4020   4039  markdown/abilities/charisma.md
+               @adjust 0
   4041   4053  markdown/abilities/saving_throws.md -
 
   4055   4063  markdown/time/time.md -
@@ -60,8 +64,8 @@
   4131   4201  markdown/environment/environment.md -
 
   4203   4207  markdown/resting/resting.md
-  4209   4213  markdown/resting/short_rest.md
-  4215   4221  markdown/resting/long_rest.md -
+  4209   4213  markdown/resting/short_rest.md   1
+  4215   4221  markdown/resting/long_rest.md - 1
 
   4223   4282  markdown/between_adventures/between_adventures.md -
 
@@ -74,9 +78,10 @@
   4741   4763  markdown/combat/mounted_combat.md
   4765   4773  markdown/combat/underwater_combat.md -
 
-  4775   4829  markdown/spellcasting/spellcasting.md
+               @adjust 1
+  4775   4829  markdown/spellcasting/spellcasting.md   0
   4831   4969  markdown/spellcasting/casting.md
-  4971   4987  markdown/spellcasting/schools_of_magic.md
+  4971   4987  markdown/spellcasting/schools_of_magic.md   2
   4989   4993  markdown/spellcasting/combining.md -
 
   4997   5139  markdown/classes/bard/bard_spells.md
@@ -88,7 +93,6 @@
   5665   5759  markdown/classes/warlock/warlock_spells.md
   5761   5992  markdown/classes/wizard/wizard_spells.md -
 
-               @adjust 1
   5996   6007  markdown/spells/level_2/acid_arrow.md
   6009   6020  markdown/spells/cantrip/acid_splash.md
   6022   6033  markdown/spells/level_2/aid.md
@@ -409,10 +413,10 @@
  10950  10961  markdown/spells/level_6/word_of_recall.md
  10963  10974  markdown/spells/level_2/zone_of_truth.md -
 
-               @adjust 0
- 10976  11037  markdown/traps/traps.md -
+ 10976  11037  markdown/traps/traps.md - 0
 
- 11043  11055  markdown/traps/collapsing_roof.md
+ 11043  11055  markdown/traps/collapsing_roof.md   2
+               @adjust 2 # can't put it before, ends up in the wrong place
  11057  11065  markdown/traps/falling_net.md
  11067  11077  markdown/traps/fire_breathing_statue.md
  11079  11101  markdown/traps/pits.md
@@ -421,18 +425,18 @@
  11123  11135  markdown/traps/rolling_sphere.md
  11137  11145  markdown/traps/sphere_of_annihilation.md -
 
- 11147  11157  markdown/diseases/diseases.md
+ 11147  11157  markdown/diseases/diseases.md   0
  11159  11169  markdown/diseases/cackle_fever.md
  11171  11179  markdown/diseases/sewer_plague.md
  11181  11187  markdown/diseases/sight_rot.md -
 
- 11189  11260  markdown/madness/madness.md -
+ 11189  11260  markdown/madness/madness.md - 0
 
- 11262  11301  markdown/objects/objects.md -
+ 11262  11301  markdown/objects/objects.md - 0
 
- 11303  11350  markdown/poisons/poisons.md -
+ 11303  11350  markdown/poisons/poisons.md - 0
 
- 11352  11406  markdown/magic_items/magic_items.md -
+ 11352  11406  markdown/magic_items/magic_items.md - 0
 
                @adjust 1
  11412  11416  markdown/magic_items/uncommon/adamantine_armor.md
@@ -930,8 +934,8 @@
  20845  20870  markdown/statblocks/zombie.md                   # zombies
  20872  20897  markdown/statblocks/ogre_zombie.md -
 
-               @adjust 0
- 20899  20907  markdown/conditions/conditions.md
+               @adjust 1
+ 20899  20907  markdown/conditions/conditions.md   0
  20909  20912  markdown/conditions/blinded.md
  20914  20917  markdown/conditions/charmed.md
  20919  20921  markdown/conditions/deafened.md
@@ -948,16 +952,15 @@
  20996  21000  markdown/conditions/stunned.md
  21002  21008  markdown/conditions/unconscious.md -
 
- 21010  21034  markdown/gods/pantheons.md
- 21036  21053  markdown/gods/celtic_deities.md
- 21055  21077  markdown/gods/greek_deities.md
- 21079  21096  markdown/gods/egyptian_deities.md
- 21098  21121  markdown/gods/norse_deities.md
+ 21010  21034  markdown/gods/pantheons.md   0
+ 21036  21053  markdown/gods/celtic_deities.md   2
+ 21055  21077  markdown/gods/greek_deities.md   2
+ 21079  21096  markdown/gods/egyptian_deities.md   2
+ 21098  21121  markdown/gods/norse_deities.md   2
 
- 21123  21182  markdown/planes/the_planes_of_existence.md -
+ 21123  21182  markdown/planes/the_planes_of_existence.md - 0
 
                                                                # creatures
-               @adjust 1
  21188  21209  markdown/statblocks/ape.md
  21211  21237  markdown/statblocks/awakened_shrub.md
  21239  21265  markdown/statblocks/awakened_tree.md
@@ -1055,7 +1058,7 @@
  23566  23590  markdown/statblocks/wolf.md
  23592  23617  markdown/statblocks/worg.md -
 
- 23623  23630  markdown/npcs/customizing_npcs.md - 0
+ 23623  23630  markdown/npcs/customizing_npcs.md -
 
  23632  23660  markdown/statblocks/acolyte.md                  # npcs
  23662  23705  markdown/statblocks/archmage.md

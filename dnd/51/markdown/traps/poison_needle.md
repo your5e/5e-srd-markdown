@@ -1,4 +1,4 @@
-### Poison Needle
+# Poison Needle
 
 _Mechanical trap_
 

@@ -11,6 +11,7 @@ Section 5 of CC-BY-4.0 includes a Disclaimer of Warranties and Limitation of Lia
 If you note any errors in this document, please let us know by emailing askdnd@wizards.com.
 
 @include    markdown/races/races.md
+@adjust 1
 @include    markdown/races/dwarf.md
 @include    markdown/races/elf.md
 @include    markdown/races/halfling.md
@@ -20,6 +21,7 @@ If you note any errors in this document, please let us know by emailing askdnd@w
 @include    markdown/races/half_elf.md
 @include    markdown/races/half_orc.md
 @include-   markdown/races/tiefling.md
+@adjust 0
 
 @include    markdown/classes/barbarian/barbarian.md
 @include    markdown/classes/bard/bard.md
@@ -57,12 +59,14 @@ If you note any errors in this document, please let us know by emailing askdnd@w
 
 Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
 
+@adjust 1
 @include    markdown/abilities/strength.md
 @include    markdown/abilities/dexterity.md
 @include    markdown/abilities/constitution.md
 @include    markdown/abilities/intelligence.md
 @include    markdown/abilities/wisdom.md
 @include    markdown/abilities/charisma.md
+@adjust 0
 @include-   markdown/abilities/saving_throws.md
 
 @include-   markdown/time/time.md
@@ -72,8 +76,8 @@ Every task that a character or monster might attempt in the game is covered by o
 @include-   markdown/environment/environment.md
 
 @include    markdown/resting/resting.md
-@include    markdown/resting/short_rest.md
-@include-   markdown/resting/long_rest.md
+@include  1 markdown/resting/short_rest.md
+@include- 1 markdown/resting/long_rest.md
 
 @include-   markdown/between_adventures/between_adventures.md
 
@@ -86,9 +90,10 @@ Every task that a character or monster might attempt in the game is covered by o
 @include    markdown/combat/mounted_combat.md
 @include-   markdown/combat/underwater_combat.md
 
-@include    markdown/spellcasting/spellcasting.md
+@adjust 1
+@include  0 markdown/spellcasting/spellcasting.md
 @include    markdown/spellcasting/casting.md
-@include    markdown/spellcasting/schools_of_magic.md
+@include  2 markdown/spellcasting/schools_of_magic.md
 @include-   markdown/spellcasting/combining.md
 
 # Spell Lists
@@ -101,7 +106,6 @@ Every task that a character or monster might attempt in the game is covered by o
 @include    markdown/classes/sorcerer/sorcerer_spells.md
 @include    markdown/classes/warlock/warlock_spells.md
 @include-   markdown/classes/wizard/wizard_spells.md
-@adjust 1
 
 # Spell Descriptions
 
@@ -424,14 +428,14 @@ Every task that a character or monster might attempt in the game is covered by o
 @include    markdown/spells/level_9/wish.md
 @include    markdown/spells/level_6/word_of_recall.md
 @include-   markdown/spells/level_2/zone_of_truth.md
-@adjust 0
 
-@include-   markdown/traps/traps.md
+@include- 0 markdown/traps/traps.md
 
 ## Sample Traps
 
 The magical and mechanical traps presented here vary in deadliness and are presented in alphabetical order.
 
+@adjust 2
 @include    markdown/traps/collapsing_roof.md
 @include    markdown/traps/falling_net.md
 @include    markdown/traps/fire_breathing_statue.md
@@ -441,18 +445,18 @@ The magical and mechanical traps presented here vary in deadliness and are prese
 @include    markdown/traps/rolling_sphere.md
 @include-   markdown/traps/sphere_of_annihilation.md
 
-@include    markdown/diseases/diseases.md
+@include  0 markdown/diseases/diseases.md
 @include    markdown/diseases/cackle_fever.md
 @include    markdown/diseases/sewer_plague.md
 @include-   markdown/diseases/sight_rot.md
 
-@include-   markdown/madness/madness.md
+@include- 0 markdown/madness/madness.md
 
-@include-   markdown/objects/objects.md
+@include- 0 markdown/objects/objects.md
 
-@include-   markdown/poisons/poisons.md
+@include- 0 markdown/poisons/poisons.md
 
-@include-   markdown/magic_items/magic_items.md
+@include- 0 markdown/magic_items/magic_items.md
 @adjust 1
 
 # Magic Items A-Z
@@ -1083,9 +1087,9 @@ Magic items are presented in alphabetical order. A magic item's description give
 
 @include    markdown/statblocks/zombie.md
 @include-   markdown/statblocks/ogre_zombie.md
-@adjust 0
 
-@include    markdown/conditions/conditions.md
+@adjust 1
+@include  0 markdown/conditions/conditions.md
 @include    markdown/conditions/blinded.md
 @include    markdown/conditions/charmed.md
 @include    markdown/conditions/deafened.md
@@ -1102,13 +1106,12 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include    markdown/conditions/stunned.md
 @include-   markdown/conditions/unconscious.md
 
-@include    markdown/gods/pantheons.md
-@include    markdown/gods/celtic_deities.md
-@include    markdown/gods/greek_deities.md
-@include    markdown/gods/egyptian_deities.md
-@include    markdown/gods/norse_deities.md
-@include-   markdown/planes/the_planes_of_existence.md
-@adjust 1
+@include  0 markdown/gods/pantheons.md
+@include  2 markdown/gods/celtic_deities.md
+@include  2 markdown/gods/greek_deities.md
+@include  2 markdown/gods/egyptian_deities.md
+@include  2 markdown/gods/norse_deities.md
+@include- 0 markdown/planes/the_planes_of_existence.md
 
 # Appendix MM-A: Miscellaneous Creatures
 
@@ -1215,7 +1218,7 @@ This appendix contains statistics for various animals, vermin, and other critter
 
 This appendix contains statistics for various humanoid nonplayer characters (NPCs) that adventurers might encounter during a campaign, including lowly commoners and mighty archmages. These stat blocks can be used to represent both human and nonhuman NPCs.
 
-@include- 0 markdown/npcs/customizing_npcs.md
+@include-   markdown/npcs/customizing_npcs.md
 
 @include    markdown/statblocks/acolyte.md
 @include    markdown/statblocks/archmage.md

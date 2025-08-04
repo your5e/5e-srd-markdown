@@ -40,10 +40,10 @@ Warning: ## Donning and Doffing Armor, 3131: table immediately after header
 Warning: ## Weapons, 3192: table immediately after header
 Warning: ## Adventuring Gear, 3288: table immediately after header
 Warning: ## Container Capacity, 3391: table immediately after header
-Warning: #### Tools, 3429: table immediately after header
-Warning: #### Tools, 3437: possible table run-on
-Warning: #### Tools, 3459: possible table run-on
-Warning: #### Tools, 3464: possible table run-on
+Warning: ## Tools, 3429: table immediately after header
+Warning: ## Tools, 3437: possible table run-on
+Warning: ## Tools, 3459: possible table run-on
+Warning: ## Tools, 3464: possible table run-on
 Warning: ## Mounts and Other Animals, 3504: table immediately after header
 Warning: ## Tack, Harness, and Drawn Vehicles, 3517: table immediately after header
 Warning: ## Waterborne Vehicles, 3537: table immediately after header
@@ -67,29 +67,29 @@ Warning: ### Long-Term Madness, 11226: table immediately after header
 Warning: ### Indefinite Madness, 11243: table immediately after header
 Warning: ### Object Armor Class, 11276: table immediately after header
 Warning: ### Object Hit Points, 11290: table immediately after header
-Warning: ## Poisons, 11314: table immediately after header
-Warning: ### Apparatus of the Crab Levers, 11467: table immediately after header
-Warning: ### Gray Bag of Tricks, 11591: table immediately after header
-Warning: ### Rust Bag of Tricks, 11604: table immediately after header
-Warning: ### Tan Bag of Tricks, 11617: table immediately after header
-Warning: ## Cube of Force Faces, 11898: table immediately after header
-Warning: ### Potions of Healing, 12950: table immediately after header
-Warning: ### Spell Scroll, 13453: table immediately after header
-Warning: ### Special Purpose, 13974: possible mistaken mid-paragraph italic: 'Aligned:'
-Warning: ### Special Purpose, 13976: possible mistaken mid-paragraph italic: 'Protector:'
-Warning: ### Special Purpose, 13977: possible mistaken mid-paragraph italic: 'Crusader:'
-Warning: ### Special Purpose, 13979: possible mistaken mid-paragraph italic: 'Destroyer:'
-Warning: ### Special Purpose, 13980: possible mistaken mid-paragraph italic: 'Glory Seeker:'
-Warning: ### Special Purpose, 13981: possible mistaken mid-paragraph italic: 'Lore Seeker:'
-Warning: ### Special Purpose, 13982: possible mistaken mid-paragraph italic: 'Destiny Seeker:'
-Warning: ### Special Purpose, 13983: possible mistaken mid-paragraph italic: 'Creator Seeker:'
-Warning: ### Size Categories, 14043: table immediately after header
-Warning: ### Hit Dice by Size, 14105: table immediately after header
-Warning: ### Proficiency Bonus by Challenge Rating, 14152: table immediately after header
-Warning: ## Languages, 14233: em-dash not surrounded by spaces
-Warning: #### Experience Points by Challenge Rating, 14259: table immediately after header
-Warning: ### Melee and Ranged Attacks, 14315: possible mistaken mid-paragraph italic: 'Miss:'
-Warning: ### Celtic Deities, 21034: table immediately after header
-Warning: ### Greek Deities, 21053: table immediately after header
-Warning: ### Egyptian Deities, 21077: table immediately after header
-Warning: ### Norse Deities, 21096: table immediately after header
+Warning: ## Poisons, 11316: table immediately after header
+Warning: ### Apparatus of the Crab Levers, 11469: table immediately after header
+Warning: ### Gray Bag of Tricks, 11593: table immediately after header
+Warning: ### Rust Bag of Tricks, 11606: table immediately after header
+Warning: ### Tan Bag of Tricks, 11619: table immediately after header
+Warning: ## Cube of Force Faces, 11900: table immediately after header
+Warning: ### Potions of Healing, 12952: table immediately after header
+Warning: ### Spell Scroll, 13456: table immediately after header
+Warning: ### Special Purpose, 13977: possible mistaken mid-paragraph italic: 'Aligned:'
+Warning: ### Special Purpose, 13979: possible mistaken mid-paragraph italic: 'Protector:'
+Warning: ### Special Purpose, 13980: possible mistaken mid-paragraph italic: 'Crusader:'
+Warning: ### Special Purpose, 13982: possible mistaken mid-paragraph italic: 'Destroyer:'
+Warning: ### Special Purpose, 13983: possible mistaken mid-paragraph italic: 'Glory Seeker:'
+Warning: ### Special Purpose, 13984: possible mistaken mid-paragraph italic: 'Lore Seeker:'
+Warning: ### Special Purpose, 13985: possible mistaken mid-paragraph italic: 'Destiny Seeker:'
+Warning: ### Special Purpose, 13986: possible mistaken mid-paragraph italic: 'Creator Seeker:'
+Warning: ### Size Categories, 14047: table immediately after header
+Warning: ### Hit Dice by Size, 14109: table immediately after header
+Warning: ### Proficiency Bonus by Challenge Rating, 14156: table immediately after header
+Warning: ## Languages, 14237: em-dash not surrounded by spaces
+Warning: #### Experience Points by Challenge Rating, 14263: table immediately after header
+Warning: ### Melee and Ranged Attacks, 14319: possible mistaken mid-paragraph italic: 'Miss:'
+Warning: ### Celtic Deities, 21038: table immediately after header
+Warning: ### Greek Deities, 21057: table immediately after header
+Warning: ### Egyptian Deities, 21081: table immediately after header
+Warning: ### Norse Deities, 21100: table immediately after header
