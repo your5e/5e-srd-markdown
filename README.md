@@ -41,6 +41,8 @@ the SRD in question.
         - Scrying ([Scrying](dnd/51/markdown/spells/level_5/scrying.md))
         - Tack, Harness, and Drawn Vehicles ([Tools](dnd/51/markdown/equipment/tools.md))
         - Weapon types ([Weapons](dnd/51/markdown/equipment/weapons.md))
+    - Re-arranged the order of the Fantasy-Historical Pantheons so that the
+      table of deities appears in the description of that pantheon
 
 
 ## Workflow for breaking the whole SRD into sections

@@ -1107,10 +1107,10 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include-   markdown/conditions/unconscious.md
 
 @include  0 markdown/gods/pantheons.md
-@include  2 markdown/gods/celtic_deities.md
-@include  2 markdown/gods/greek_deities.md
-@include  2 markdown/gods/egyptian_deities.md
-@include  2 markdown/gods/norse_deities.md
+@include    markdown/gods/celtic_pantheon.md
+@include    markdown/gods/greek_pantheon.md
+@include    markdown/gods/egyptian_pantheon.md
+@include    markdown/gods/norse_pantheon.md
 @include- 0 markdown/planes/the_planes_of_existence.md
 
 # Appendix MM-A: Miscellaneous Creatures

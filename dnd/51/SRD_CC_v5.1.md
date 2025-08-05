@@ -21034,24 +21034,6 @@ It's said that something wild lurks in the heart of every soul, a space that thr
 
 The Celtic gods are as often served by druids as by clerics, for they are closely aligned with the forces of nature that druids revere.
 
-## The Greek Pantheon
-
-The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
-
-## The Egyptian Pantheon
-
-These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma'at — the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
-
-The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
-
-## The Norse Pantheon
-
-Where the land plummets from the snowy hills into the icy fjords below, where the longboats draw up on to the beach, where the glaciers flow forward and retreat with every fall and spring — this is the land of the Vikings, the home of the Norse pantheon. It's a brutal clime, and one that calls for brutal living. The warriors of the land have had to adapt to the harsh conditions in order to survive, but they haven't been too twisted by the needs of their environment. Given the necessity of raiding for food and wealth, it's surprising the mortals turned out as well as they did. Their powers reflect the need these warriors had for strong leadership and decisive action. Thus, they see their deities in every bend of a river, hear them in the crash of the thunder and the booming of the glaciers, and smell them in the smoke of a burning longhouse.
-
-The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
-
-### Celtic Deities
-
 | Deity                                             | Alignment   | Suggested Domains   | Symbol                             |
 |---------------------------------------------------|-------------|---------------------|------------------------------------|
 | The Daghdha, god of weather and crops             | CG          | Nature, Trickery    | Bubbling cauldron or shield        |
@@ -21069,7 +21051,9 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Oghma, god of speech and writing                  | NG          | Knowledge           | Unfurled scroll                    |
 | Silvanus, god of nature and forests               | N           | Nature              | Summer oak tree                    |
 
-### Greek Deities
+## The Greek Pantheon
+
+The gods of Olympus make themselves known with the gentle lap of waves against the shores and the crash of the thunder among the cloud-enshrouded peaks. The thick boar-infested woods and the sere, olive-covered hillsides hold evidence of their passing. Every aspect of nature echoes with their presence, and they've made a place for themselves inside the human heart, too.
 
 | Deity                                      | Alignment   | Suggested Domains      | Symbol                                |
 |--------------------------------------------|-------------|------------------------|---------------------------------------|
@@ -21093,7 +21077,11 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Poseidon, god of the sea and earthquakes   | CN          | Tempest                | Trident                               |
 | Tyche, goddess of good fortune             | N           | Trickery               | Red pentagram                         |
 
-### Egyptian Deities
+## The Egyptian Pantheon
+
+These gods are a young dynasty of an ancient divine family, heirs to the rulership of the cosmos and the maintenance of the divine principle of Ma'at — the fundamental order of truth, justice, law, and order that puts gods, mortal pharaohs, and ordinary men and women in their logical and rightful place in the universe.
+
+The Egyptian pantheon is unusual in having three gods responsible for death, each with different alignments. Anubis is the lawful neutral god of the afterlife, who judges the souls of the dead. Set is a chaotic evil god of murder, perhaps best known for killing his brother Osiris. And Nephthys is a chaotic good goddess of mourning.
 
 | Deity                                          | Alignment   | Suggested Domains        | Symbol                               |
 |------------------------------------------------|-------------|--------------------------|--------------------------------------|
@@ -21112,7 +21100,11 @@ The Norse pantheon includes two main families, the Aesir (deities of war and des
 | Sobek, god of water and crocodiles             | LE          | Nature, Tempest          | Crocodile head with horns and plumes |
 | Thoth, god of knowledge and wisdom             | N           | Knowledge                | Ibis                                 |
 
-### Norse Deities
+## The Norse Pantheon
+
+Where the land plummets from the snowy hills into the icy fjords below, where the longboats draw up on to the beach, where the glaciers flow forward and retreat with every fall and spring — this is the land of the Vikings, the home of the Norse pantheon. It's a brutal clime, and one that calls for brutal living. The warriors of the land have had to adapt to the harsh conditions in order to survive, but they haven't been too twisted by the needs of their environment. Given the necessity of raiding for food and wealth, it's surprising the mortals turned out as well as they did. Their powers reflect the need these warriors had for strong leadership and decisive action. Thus, they see their deities in every bend of a river, hear them in the crash of the thunder and the booming of the glaciers, and smell them in the smoke of a burning longhouse.
+
+The Norse pantheon includes two main families, the Aesir (deities of war and destiny) and the Vanir (gods of fertility and prosperity). Once enemies, these two families are now closely allied against their common enemies, the giants (including the gods Surtur and Thrym).
 
 | Deity                                     | Alignment   | Suggested Domains   | Symbol                            |
 |-------------------------------------------|-------------|---------------------|-----------------------------------|
