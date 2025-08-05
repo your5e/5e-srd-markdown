@@ -145,6 +145,8 @@ You learn two additional spells from any class at 14th level and again at 18th l
 
 At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
 
+## Bard Colleges
+
 ### College of Lore
 
 Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.

@@ -43,6 +43,7 @@ the SRD in question.
         - Weapon types ([Weapons](dnd/51/markdown/equipment/weapons.md))
     - Re-arranged the order of the Fantasy-Historical Pantheons so that the
       table of deities appears in the description of that pantheon
+    - Subclass introduction headers added to Barbarian, Bard, Cleric & Druid
 
 
 ## Workflow for breaking the whole SRD into sections

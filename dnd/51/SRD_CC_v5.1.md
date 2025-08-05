@@ -376,6 +376,8 @@ Beginning at 18th level, if your total for a Strength check is less than your St
 
 At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
+## Primal Paths
+
 ### Path of the Berserker
 
 For some barbarians, rage is a means to an end that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.
@@ -545,6 +547,8 @@ You learn two additional spells from any class at 14th level and again at 18th l
 
 At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
 
+## Bard Colleges
+
 ### College of Lore
 
 Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.
@@ -710,6 +714,8 @@ Imploring your deity's aid requires you to use your action. Describe the assista
 If your deity intervenes, you can't use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
+
+## Divine Domains
 
 ### Life Domain
 
@@ -887,6 +893,8 @@ Beginning at 18th level, you can cast many of your druid spells in any shape you
 At 20th level, you can use your Wild Shape an unlimited number of times.
 
 Additionally, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and aren't consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape.
+
+## Druid Circles
 
 ### Circle of the Land
 

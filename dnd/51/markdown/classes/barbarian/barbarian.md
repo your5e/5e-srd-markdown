@@ -127,6 +127,8 @@ Beginning at 18th level, if your total for a Strength check is less than your St
 
 At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
+## Primal Paths
+
 ### Path of the Berserker
 
 For some barbarians, rage is a means to an end that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.

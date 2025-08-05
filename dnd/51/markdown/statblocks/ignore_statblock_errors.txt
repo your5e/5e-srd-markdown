@@ -13,7 +13,7 @@ dnd/51/markdown/statblocks/cult_fanatic.md: bold start
 **Fanatics** are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
 
 dnd/51/markdown/statblocks/giant_rat.md: unexpected headers
-### Variant: Diseased Giant Rats
+## Variant: Diseased Giant Rats
 
 dnd/51/markdown/statblocks/giant_rat.md: bare paras
 Some giant rats carry vile diseases that they spread with their bites. A diseased giant rat has a challenge rating of 1/8 (25 XP) and the following action instead of its normal bite attack.
@@ -44,6 +44,10 @@ An **awakened tree** is an ordinary tree given sentience and mobility by the _Aw
 
 dnd/51/markdown/statblocks/axe_beak.md: bare paras
 An **axe beak** is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
+
+dnd/51/markdown/statblocks/bandit.md: bold start
+**Bandits** rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
+**Pirates** are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.
 
 dnd/51/markdown/statblocks/bandit_captain.md: bare paras
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The **bandit captain** has these qualities in spades.
