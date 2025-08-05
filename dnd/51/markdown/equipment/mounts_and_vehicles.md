@@ -34,15 +34,17 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Cart               | 15 gp  | 200 lb.  |
 | Chariot            | 250 gp | 100 lb.  |
 | Feed (per day)     | 5 cp   | 10 lb.   |
-| Saddle             |        |          |
-| Exotic             | 60 gp  | 40 lb.   |
-| Military           | 20 gp  | 30 lb.   |
-| Pack               | 5 gp   | 15 lb.   |
-| Riding             | 10 gp  | 25 lb.   |
 | Saddlebags         | 4 gp   | 8 lb.    |
 | Sled               | 20 gp  | 300 lb.  |
 | Stabling (per day) | 5 sp   | —        |
 | Wagon              | 35 gp  | 400 lb.  |
+
+| Saddles   | Cost   | Weight   |
+|-----------|--------|----------|
+| Exotic    | 60 gp  | 40 lb.   |
+| Military  | 20 gp  | 30 lb.   |
+| Pack      | 5 gp   | 15 lb.   |
+| Riding    | 10 gp  | 25 lb.   |
 
 ## Waterborne Vehicles
 

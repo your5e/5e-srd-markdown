@@ -6,9 +6,9 @@ _Gargantuan dragon, lawful good_
 - **Hit Points** 487 (25d20 + 225)
 - **Speed** 40 ft., fly 80 ft.
 
-| STR              | DEX   | CON     | INT     | WIS     | CHA     |
-|------------------|-------|---------|---------|---------|---------|
-| 30 (+10) 10 (+0) |       | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
 
 - **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
 - **Skills** Arcana +11, History +11, Perception +16, Stealth +7

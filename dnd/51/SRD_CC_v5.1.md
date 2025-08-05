@@ -1369,7 +1369,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 | Level   |   Proficiency Bonus | Features                                   | Spell Slots — 1st   | 2nd   | 3rd   | 4th   | 5th   |
 |---------|---------------------|--------------------------------------------|---------------------|-------|-------|-------|-------|
-| 1st     |                  +2 | Divine Sense, Lay on Hands                 |                     | —     | —     | —     | —     |
+| 1st     |                  +2 | Divine Sense, Lay on Hands                 | —                   | —     | —     | —     | —     |
 | 2nd     |                  +2 | Fighting Style, Spellcasting, Divine Smite | 2                   | —     | —     | —     | —     |
 | 3rd     |                  +2 | Divine Health, Sacred Oath                 | 3                   | —     | —     | —     | —     |
 | 4th     |                  +2 | Ability Score Improvement                  | 3                   | —     | —     | —     | —     |
@@ -1379,15 +1379,15 @@ You start with the following equipment, in addition to the equipment granted by 
 | 8th     |                  +3 | Ability Score Improvement                  | 4                   | 3     | —     | —     | —     |
 | 9th     |                  +4 | —                                          | 4                   | 3     | 2     | —     | —     |
 | 10th    |                  +4 | Aura of Courage                            | 4                   | 3     | 2     | —     | —     |
-| 11th    |                  +4 | Improved Divine Smite                      |                     | 3     | 3     | —     | —     |
-| 12th    |                  +4 | Ability Score Improvement                  |                     | 3     | 3     | —     | —     |
-| 13th    |                  +5 | —                                          |                     | 3     | 3     | 1     | —     |
+| 11th    |                  +4 | Improved Divine Smite                      | 4                   | 3     | 3     | —     | —     |
+| 12th    |                  +4 | Ability Score Improvement                  | 4                   | 3     | 3     | —     | —     |
+| 13th    |                  +5 | —                                          | 4                   | 3     | 3     | 1     | —     |
 | 14th    |                  +5 | Cleansing Touch                            | 4                   | 3     | 3     | 1     | —     |
 | 15th    |                  +5 | Sacred Oath feature                        | 4                   | 3     | 3     | 2     | —     |
 | 16th    |                  +5 | Ability Score Improvement                  | 4                   | 3     | 3     | 2     | —     |
 | 17th    |                  +6 | —                                          | 4                   | 3     | 3     | 3     | 1     |
-| 18th    |                  +6 | Aura improvements                          |                     | 3     | 3     | 3     | 1     |
-| 19th    |                  +6 | Ability Score Improvement                  |                     | 3     | 3     | 3     | 2     |
+| 18th    |                  +6 | Aura improvements                          | 4                   | 3     | 3     | 3     | 1     |
+| 19th    |                  +6 | Ability Score Improvement                  | 4                   | 3     | 3     | 3     | 2     |
 | 20th    |                  +6 | Sacred Oath feature                        | 4                   | 3     | 3     | 3     | 2     |
 
 ### Divine Sense
@@ -2187,29 +2187,28 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ## The Warlock
 
-| Level   | Bonus Proficiency   | Features                    | Cantrips Known   | Spells Known   | Spell Slots   | Slot Level   | Invocations Known   |
-|---------|---------------------|-----------------------------|------------------|----------------|---------------|--------------|---------------------|
-| 1st     | +2                  | Otherworldly Patron, Pact   | 2                | 2              | 1             | 1st          | —                   |
-|         |                     | Magic                       |                  |                |               |              |                     |
-| 2nd     | +2                  | Eldritch Invocations        | 2                | 3              | 2             | 1st          | 2                   |
-| 3rd     | +2                  | Pact Boon                   | 2                | 4              | 2             | 2nd          | 2                   |
-| 4th     | +2                  | Ability Score Improvement   | 3                | 5              | 2             | 2nd          | 2                   |
-| 5th     | +3                  | —                           | 3                | 6              | 2             | 3rd          | 3                   |
-| 6th     | +3                  | Otherworldly Patron feature | 3                | 7              | 2             | 3rd          | 3                   |
-| 7th     | +3                  | —                           | 3                | 8              | 2             | 4th          | 4                   |
-| 8th     | +3                  | Ability Score Improvement   | 3                | 9              | 2             | 4th          | 4                   |
-| 9th     | +4                  | —                           | 3                | 10             | 2             | 5th          | 5                   |
-| 10th    | +4                  | Otherworldly Patron feature | 4                | 10             | 2             | 5th          | 5                   |
-| 11th    | +4                  | Mystic Arcanum (6th level)  | 4                | 11             | 3             | 5th          | 5                   |
-| 12th    | +4                  | Ability Score Improvement   | 4                | 11             | 3             | 5th          | 6                   |
-| 13th    | +5                  | Mystic Arcanum (7th level)  | 4                | 12             | 3             | 5th          | 6                   |
-| 14th    | +5                  | Otherworldly Patron feature | 4                | 12             | 3             | 5th          | 6                   |
-| 15th    | +5                  | Mystic Arcanum (8th level)  | 4                | 13             | 3             | 5th          | 7                   |
-| 16th    | +5                  | Ability Score Improvement   | 4                | 13             | 3             | 5th          | 7                   |
-| 17th    | +6                  | Mystic Arcanum (9th level)  | 4                | 14             | 4             | 5th          | 7                   |
-| 18th    | +6                  | —                           | 4                | 14             | 4             | 5th          | 8                   |
-| 19th    | +6                  | Ability Score Improvement   | 4                | 15             | 4             | 5th          | 8                   |
-| 20th    | +6                  | Eldritch Master             | 4                | 15             | 4             | 5th          | 8                   |
+| Level   |   Bonus Proficiency | Features                        |   Cantrips Known |   Spells Known |   Spell Slots | Slot Level   | Invocations Known   |
+|---------|---------------------|---------------------------------|------------------|----------------|---------------|--------------|---------------------|
+| 1st     |                  +2 | Otherworldly Patron, Pact Magic |                2 |              2 |             1 | 1st          | —                   |
+| 2nd     |                  +2 | Eldritch Invocations            |                2 |              3 |             2 | 1st          | 2                   |
+| 3rd     |                  +2 | Pact Boon                       |                2 |              4 |             2 | 2nd          | 2                   |
+| 4th     |                  +2 | Ability Score Improvement       |                3 |              5 |             2 | 2nd          | 2                   |
+| 5th     |                  +3 | —                               |                3 |              6 |             2 | 3rd          | 3                   |
+| 6th     |                  +3 | Otherworldly Patron feature     |                3 |              7 |             2 | 3rd          | 3                   |
+| 7th     |                  +3 | —                               |                3 |              8 |             2 | 4th          | 4                   |
+| 8th     |                  +3 | Ability Score Improvement       |                3 |              9 |             2 | 4th          | 4                   |
+| 9th     |                  +4 | —                               |                3 |             10 |             2 | 5th          | 5                   |
+| 10th    |                  +4 | Otherworldly Patron feature     |                4 |             10 |             2 | 5th          | 5                   |
+| 11th    |                  +4 | Mystic Arcanum (6th level)      |                4 |             11 |             3 | 5th          | 5                   |
+| 12th    |                  +4 | Ability Score Improvement       |                4 |             11 |             3 | 5th          | 6                   |
+| 13th    |                  +5 | Mystic Arcanum (7th level)      |                4 |             12 |             3 | 5th          | 6                   |
+| 14th    |                  +5 | Otherworldly Patron feature     |                4 |             12 |             3 | 5th          | 6                   |
+| 15th    |                  +5 | Mystic Arcanum (8th level)      |                4 |             13 |             3 | 5th          | 7                   |
+| 16th    |                  +5 | Ability Score Improvement       |                4 |             13 |             3 | 5th          | 7                   |
+| 17th    |                  +6 | Mystic Arcanum (9th level)      |                4 |             14 |             4 | 5th          | 7                   |
+| 18th    |                  +6 | —                               |                4 |             14 |             4 | 5th          | 8                   |
+| 19th    |                  +6 | Ability Score Improvement       |                4 |             15 |             4 | 5th          | 8                   |
+| 20th    |                  +6 | Eldritch Master                 |                4 |             15 |             4 | 5th          | 8                   |
 
 ### Otherworldly Patron
 
@@ -3099,25 +3098,30 @@ Heavy armor doesn't let you add your Dexterity modifier to your Armor Class, but
 
 ## Armor
 
-| Armor           | Cost     | Armor Class (AC)          | Strength   | Stealth      | Weight   |
-|-----------------|----------|---------------------------|------------|--------------|----------|
-| Light Armor     |          |                           |            |              |          |
-| Padded          | 5 gp     | 11 + Dex modifier         | —          | Disadvantage | 8 lb.    |
-| Leather         | 10 gp    | 11 + Dex modifier         | —          | —            | 10 lb.   |
-| Studded leather | 45 gp    | 12 + Dex modifier         | —          | —            | 13 lb.   |
-| Medium Armor    |          |                           |            |              |          |
-| Hide            | 10 gp    | 12 + Dex modifier (max 2) | —          | —            | 12 lb.   |
-| Chain shirt     | 50 gp    | 13 + Dex modifier (max 2) | —          | —            | 20 lb.   |
-| Scale mail      | 50 gp    | 14 + Dex modifier (max 2) | —          | Disadvantage | 45 lb.   |
-| Breastplate     | 400 gp   | 14 + Dex modifier (max 2) | —          | —            | 20 lb.   |
-| Half plate      | 750 gp   | 15 + Dex modifier (max 2) | —          | Disadvantage | 40 lb.   |
-| Heavy Armor     |          |                           |            |              |          |
-| Ring mail       | 30 gp    | 14                        | —          | Disadvantage | 40 lb.   |
-| Chain mail      | 75 gp    | 16                        | Str 13     | Disadvantage | 55 lb.   |
-| Splint          | 200 gp   | 17                        | Str 15     | Disadvantage | 60 lb.   |
-| Plate           | 1,500 gp | 18                        | Str 15     | Disadvantage | 65 lb.   |
-| Shield          |          |                           |            |              |          |
-| Shield          | 10 gp    | +2                        | —          | —            | 6 lb.    |
+| _Light Armor_   | Cost   | Armor Class (AC)   | Strength   | Stealth      | Weight   |
+|-----------------|--------|--------------------|------------|--------------|----------|
+| Padded          | 5 gp   | 11 + Dex modifier  | —          | Disadvantage | 8 lb.    |
+| Leather         | 10 gp  | 11 + Dex modifier  | —          | —            | 10 lb.   |
+| Studded leather | 45 gp  | 12 + Dex modifier  | —          | —            | 13 lb.   |
+
+| _Medium Armor_   | Cost   | Armor Class (AC)          | Strength   | Stealth      | Weight   |
+|------------------|--------|---------------------------|------------|--------------|----------|
+| Hide             | 10 gp  | 12 + Dex modifier (max 2) | —          | —            | 12 lb.   |
+| Chain shirt      | 50 gp  | 13 + Dex modifier (max 2) | —          | —            | 20 lb.   |
+| Scale mail       | 50 gp  | 14 + Dex modifier (max 2) | —          | Disadvantage | 45 lb.   |
+| Breastplate      | 400 gp | 14 + Dex modifier (max 2) | —          | —            | 20 lb.   |
+| Half plate       | 750 gp | 15 + Dex modifier (max 2) | —          | Disadvantage | 40 lb.   |
+
+| _Heavy Armor_   | Cost     |   Armor Class (AC) | Strength   | Stealth      | Weight   |
+|-----------------|----------|--------------------|------------|--------------|----------|
+| Ring mail       | 30 gp    |                 14 | —          | Disadvantage | 40 lb.   |
+| Chain mail      | 75 gp    |                 16 | Str 13     | Disadvantage | 55 lb.   |
+| Splint          | 200 gp   |                 17 | Str 15     | Disadvantage | 60 lb.   |
+| Plate           | 1,500 gp |                 18 | Str 15     | Disadvantage | 65 lb.   |
+
+| _Shields_   | Cost   |   Armor Class (AC) | Weight   |
+|-------------|--------|--------------------|----------|
+| Shield      | 10 gp  |                 +2 | 6 lb.    |
 
 ## Getting Into and Out of Armor
 
@@ -3189,49 +3193,54 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 ## Weapons
 
-| Name                     | Cost   | Damage          | Weight   | Properties                                             |
-|--------------------------|--------|-----------------|----------|--------------------------------------------------------|
-| _Simple Melee Weapons_   |        |                 |          |                                                        |
-| Club                     | 1 sp   | 1d4 bludgeoning | 2 lb.    | Light                                                  |
-| Dagger                   | 2 gp   | 1d4 piercing    | 1 lb.    | Finesse, light, thrown (range 20/60)                   |
-| Greatclub                | 2 sp   | 1d8 bludgeoning | 10 lb.   | Two-handed                                             |
-| Handaxe                  | 5 gp   | 1d6 slashing    | 2 lb.    | Light, thrown (range 20/60)                            |
-| Javelin                  | 5 sp   | 1d6 piercing    | 2 lb.    | Thrown (range 30/120)                                  |
-| Light hammer             | 2 gp   | 1d4 bludgeoning | 2 lb.    | Light, thrown (range 20/60)                            |
-| Mace                     | 5 gp   | 1d6 bludgeoning | 4 lb.    | —                                                      |
-| Quarterstaff             | 2 sp   | 1d6 bludgeoning | 4 lb.    | Versatile (1d8)                                        |
-| Sickle                   | 1 gp   | 1d4 slashing    | 2 lb.    | Light                                                  |
-| Spear                    | 1 gp   | 1d6 piercing    | 3 lb.    | Thrown (range 20/60), versatile (1d8)                  |
-| _Simple Ranged Weapons_  |        |                 |          |                                                        |
-| Crossbow, light          | 25 gp  | 1d8 piercing    | 5 lb.    | Ammunition (range 80/320), loading, two-handed         |
-| Dart                     | 5 cp   | 1d4 piercing    | 1/4 lb.  | Finesse, thrown (range 20/60)                          |
-| Shortbow                 | 25 gp  | 1d6 piercing    | 2 lb.    | Ammunition (range 80/320), two-handed                  |
-| Sling                    | 1 sp   | 1d4 bludgeoning | —        | Ammunition (range 30/120)                              |
-| _Martial Melee Weapons_  |        |                 |          |                                                        |
-| Battleaxe                | 10 gp  | 1d8 slashing    | 4 lb.    | Versatile (1d10)                                       |
-| Flail                    | 10 gp  | 1d8 bludgeoning | 2 lb.    | —                                                      |
-| Glaive                   | 20 gp  | 1d10 slashing   | 6 lb.    | Heavy, reach, two-handed                               |
-| Greataxe                 | 30 gp  | 1d12 slashing   | 7 lb.    | Heavy, two-handed                                      |
-| Greatsword               | 50 gp  | 2d6 slashing    | 6 lb.    | Heavy, two-handed                                      |
-| Halberd                  | 20 gp  | 1d10 slashing   | 6 lb.    | Heavy, reach, two-handed                               |
-| Lance                    | 10 gp  | 1d12 piercing   | 6 lb.    | Reach, special                                         |
-| Longsword                | 15 gp  | 1d8 slashing    | 3 lb.    | Versatile (1d10)                                       |
-| Maul                     | 10 gp  | 2d6 bludgeoning | 10 lb.   | Heavy, two-handed                                      |
-| Morningstar              | 15 gp  | 1d8 piercing    | 4 lb.    | —                                                      |
-| Pike                     | 5 gp   | 1d10 piercing   | 18 lb.   | Heavy, reach, two-handed                               |
-| Rapier                   | 25 gp  | 1d8 piercing    | 2 lb.    | Finesse                                                |
-| Scimitar                 | 25 gp  | 1d6 slashing    | 3 lb.    | Finesse, light                                         |
-| Shortsword               | 10 gp  | 1d6 piercing    | 2 lb.    | Finesse, light                                         |
-| Trident                  | 5 gp   | 1d6 piercing    | 4 lb.    | Thrown (range 20/60), versatile (1d8)                  |
-| War pick                 | 5 gp   | 1d8 piercing    | 2 lb.    | —                                                      |
-| Warhammer                | 15 gp  | 1d8 bludgeoning | 2 lb.    | Versatile (1d10)                                       |
-| Whip                     | 2 gp   | 1d4 slashing    | 3 lb.    | Finesse, reach                                         |
-| _Martial Ranged Weapons_ |        |                 |          |                                                        |
-| Blowgun                  | 10 gp  | 1 piercing      | 1 lb.    | Ammunition (range 25/100), loading                     |
-| Crossbow, hand           | 75 gp  | 1d6 piercing    | 3 lb.    | Ammunition (range 30/120), light, loading              |
-| Crossbow, heavy          | 50 gp  | 1d10 piercing   | 18 lb.   | Ammunition (range 100/400), heavy, loading, two-handed |
-| Longbow                  | 50 gp  | 1d8 piercing    | 2 lb.    | Ammunition (range 150/600), heavy, two-handed          |
-| Net                      | 1 gp   | —               | 3 lb.    | Special, thrown (range 5/15)                           |
+| _Simple Melee Weapons_   | Cost   | Damage          | Weight   | Properties                            |
+|--------------------------|--------|-----------------|----------|---------------------------------------|
+| Club                     | 1 sp   | 1d4 bludgeoning | 2 lb.    | Light                                 |
+| Dagger                   | 2 gp   | 1d4 piercing    | 1 lb.    | Finesse, light, thrown (range 20/60)  |
+| Greatclub                | 2 sp   | 1d8 bludgeoning | 10 lb.   | Two-handed                            |
+| Handaxe                  | 5 gp   | 1d6 slashing    | 2 lb.    | Light, thrown (range 20/60)           |
+| Javelin                  | 5 sp   | 1d6 piercing    | 2 lb.    | Thrown (range 30/120)                 |
+| Light hammer             | 2 gp   | 1d4 bludgeoning | 2 lb.    | Light, thrown (range 20/60)           |
+| Mace                     | 5 gp   | 1d6 bludgeoning | 4 lb.    | —                                     |
+| Quarterstaff             | 2 sp   | 1d6 bludgeoning | 4 lb.    | Versatile (1d8)                       |
+| Sickle                   | 1 gp   | 1d4 slashing    | 2 lb.    | Light                                 |
+| Spear                    | 1 gp   | 1d6 piercing    | 3 lb.    | Thrown (range 20/60), versatile (1d8) |
+
+| _Simple Ranged Weapons_   | Cost   | Damage          | Weight   | Properties                                     |
+|---------------------------|--------|-----------------|----------|------------------------------------------------|
+| Crossbow, light           | 25 gp  | 1d8 piercing    | 5 lb.    | Ammunition (range 80/320), loading, two-handed |
+| Dart                      | 5 cp   | 1d4 piercing    | 1/4 lb.  | Finesse, thrown (range 20/60)                  |
+| Shortbow                  | 25 gp  | 1d6 piercing    | 2 lb.    | Ammunition (range 80/320), two-handed          |
+| Sling                     | 1 sp   | 1d4 bludgeoning | —        | Ammunition (range 30/120)                      |
+
+| _Martial Melee Weapons_   | Cost   | Damage          | Weight   | Properties                            |
+|---------------------------|--------|-----------------|----------|---------------------------------------|
+| Battleaxe                 | 10 gp  | 1d8 slashing    | 4 lb.    | Versatile (1d10)                      |
+| Flail                     | 10 gp  | 1d8 bludgeoning | 2 lb.    | —                                     |
+| Glaive                    | 20 gp  | 1d10 slashing   | 6 lb.    | Heavy, reach, two-handed              |
+| Greataxe                  | 30 gp  | 1d12 slashing   | 7 lb.    | Heavy, two-handed                     |
+| Greatsword                | 50 gp  | 2d6 slashing    | 6 lb.    | Heavy, two-handed                     |
+| Halberd                   | 20 gp  | 1d10 slashing   | 6 lb.    | Heavy, reach, two-handed              |
+| Lance                     | 10 gp  | 1d12 piercing   | 6 lb.    | Reach, special                        |
+| Longsword                 | 15 gp  | 1d8 slashing    | 3 lb.    | Versatile (1d10)                      |
+| Maul                      | 10 gp  | 2d6 bludgeoning | 10 lb.   | Heavy, two-handed                     |
+| Morningstar               | 15 gp  | 1d8 piercing    | 4 lb.    | —                                     |
+| Pike                      | 5 gp   | 1d10 piercing   | 18 lb.   | Heavy, reach, two-handed              |
+| Rapier                    | 25 gp  | 1d8 piercing    | 2 lb.    | Finesse                               |
+| Scimitar                  | 25 gp  | 1d6 slashing    | 3 lb.    | Finesse, light                        |
+| Shortsword                | 10 gp  | 1d6 piercing    | 2 lb.    | Finesse, light                        |
+| Trident                   | 5 gp   | 1d6 piercing    | 4 lb.    | Thrown (range 20/60), versatile (1d8) |
+| War pick                  | 5 gp   | 1d8 piercing    | 2 lb.    | —                                     |
+| Warhammer                 | 15 gp  | 1d8 bludgeoning | 2 lb.    | Versatile (1d10)                      |
+| Whip                      | 2 gp   | 1d4 slashing    | 3 lb.    | Finesse, reach                        |
+
+| _Martial Ranged Weapons_   | Cost   | Damage        | Weight   | Properties                                             |
+|----------------------------|--------|---------------|----------|--------------------------------------------------------|
+| Blowgun                    | 10 gp  | 1 piercing    | 1 lb.    | Ammunition (range 25/100), loading                     |
+| Crossbow, hand             | 75 gp  | 1d6 piercing  | 3 lb.    | Ammunition (range 30/120), light, loading              |
+| Crossbow, heavy            | 50 gp  | 1d10 piercing | 18 lb.   | Ammunition (range 100/400), heavy, loading, two-handed |
+| Longbow                    | 50 gp  | 1d8 piercing  | 2 lb.    | Ammunition (range 150/600), heavy, two-handed          |
+| Net                        | 1 gp   | —             | 3 lb.    | Special, thrown (range 5/15)                           |
 
 # Adventuring Gear
 
@@ -3520,15 +3529,17 @@ Mounts other than those listed here are available in fantasy gaming worlds, but 
 | Cart               | 15 gp  | 200 lb.  |
 | Chariot            | 250 gp | 100 lb.  |
 | Feed (per day)     | 5 cp   | 10 lb.   |
-| Saddle             |        |          |
-| Exotic             | 60 gp  | 40 lb.   |
-| Military           | 20 gp  | 30 lb.   |
-| Pack               | 5 gp   | 15 lb.   |
-| Riding             | 10 gp  | 25 lb.   |
 | Saddlebags         | 4 gp   | 8 lb.    |
 | Sled               | 20 gp  | 300 lb.  |
 | Stabling (per day) | 5 sp   | —        |
 | Wagon              | 35 gp  | 400 lb.  |
+
+| Saddles   | Cost   | Weight   |
+|-----------|--------|----------|
+| Exotic    | 60 gp  | 40 lb.   |
+| Military  | 20 gp  | 30 lb.   |
+| Pack      | 5 gp   | 15 lb.   |
+| Riding    | 10 gp  | 25 lb.   |
 
 ## Waterborne Vehicles
 
@@ -14503,9 +14514,9 @@ _Large celestial, lawful good_
 - **Hit Points** 243 (18d10 + 144)
 - **Speed** 50 ft., fly 150 ft.
 
-| STR     | DEX     | CON     | INT     | WIS   | CHA              |
-|---------|---------|---------|---------|-------|------------------|
-| 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) |       | 25 (+7) 30 (+10) |
+| STR     | DEX     | CON     | INT     | WIS     | CHA      |
+|---------|---------|---------|---------|---------|----------|
+| 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) | 25 (+7) | 30 (+10) |
 
 - **Saving Throws** Int +14, Wis +14, Cha +17
 - **Skills** Perception +14
@@ -15860,11 +15871,11 @@ _Gargantuan dragon, lawful evil_
 - **Hit Points** 481 (26d20 + 208)
 - **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
-| STR                                             | DEX     | CON     | INT     | WIS     | CHA     |
-|-------------------------------------------------|---------|---------|---------|---------|---------|
-| 29 (+9)                                         | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
-| Saving Throws Dex +7, Con +15, Wis +10, Cha +12 |         |         |         |         |         |
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 29 (+9) | 10 (+0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
 
+- **Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
 - **Skills** Perception +17, Stealth +7
 - **Damage Immunities** lightning
 - **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 27
@@ -16138,9 +16149,9 @@ _Gargantuan dragon, chaotic evil_
 - **Hit Points** 546 (28d20 + 252)
 - **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| STR              | DEX   | CON     | INT     | WIS     | CHA     |
-|------------------|-------|---------|---------|---------|---------|
-| 30 (+10) 10 (+0) |       | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
 
 - **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
 - **Skills** Perception +16, Stealth +7
@@ -16852,9 +16863,9 @@ _Gargantuan dragon, lawful good_
 - **Hit Points** 546 (28d20 + 252)
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
-| STR              | DEX   | CON     | INT     | WIS     | CHA     |
-|------------------|-------|---------|---------|---------|---------|
-| 30 (+10) 14 (+2) |       | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 14 (+2) | 29 (+9) | 18 (+4) | 17 (+3) | 28 (+9) |
 
 - **Saving Throws** Dex +9, Con +16, Wis +10, Cha +16
 - **Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
@@ -17008,9 +17019,9 @@ _Gargantuan dragon, lawful good_
 - **Hit Points** 487 (25d20 + 225)
 - **Speed** 40 ft., fly 80 ft.
 
-| STR              | DEX   | CON     | INT     | WIS     | CHA     |
-|------------------|-------|---------|---------|---------|---------|
-| 30 (+10) 10 (+0) |       | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
 
 - **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
 - **Skills** Arcana +11, History +11, Perception +16, Stealth +7
@@ -18653,9 +18664,9 @@ _Gargantuan monstrosity (titan), chaotic evil_
 - **Hit Points** 472 (27d20 + 189)
 - **Speed** 20 ft., swim 60 ft.
 
-| STR              | DEX   | CON     | INT     | WIS     | CHA     |
-|------------------|-------|---------|---------|---------|---------|
-| 30 (+10) 11 (+0) |       | 25 (+7) | 22 (+6) | 18 (+4) | 20 (+5) |
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 11 (+0) | 25 (+7) | 22 (+6) | 18 (+4) | 20 (+5) |
 
 - **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
 - **Damage Immunities** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -20441,9 +20452,9 @@ _Gargantuan monstrosity (titan), unaligned_
 - **Hit Points** 676 (33d20 + 330)
 - **Speed** 40 ft.
 
-| STR   | DEX   | CON                       | INT    | WIS     | CHA     |
-|-------|-------|---------------------------|--------|---------|---------|
-|       |       | 30 (+10) 11 (+0) 30 (+10) | 3 (-4) | 11 (+0) | 11 (+0) |
+| STR      | DEX     | CON      | INT    | WIS     | CHA     |
+|----------|---------|----------|--------|---------|---------|
+| 30 (+10) | 11 (+0) | 30 (+10) | 3 (-4) | 11 (+0) | 11 (+0) |
 
 - **Saving Throws** Int +5, Wis +9, Cha +9
 - **Damage Immunities** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -23459,11 +23470,11 @@ _Medium beast, unaligned_
 - **Hit Points** 5 (1d8 + 1)
 - **Speed** 10 ft., fly 50 ft.
 
-| STR                  | DEX     | CON     | INT    | WIS     | CHA    |
-|----------------------|---------|---------|--------|---------|--------|
-| 7 (-2)               | 10 (+0) | 13 (+1) | 2 (-4) | 12 (+1) | 4 (-3) |
-| Skills Perception +3 |         |         |        |         |        |
+| STR    | DEX     | CON     | INT    | WIS     | CHA    |
+|--------|---------|---------|--------|---------|--------|
+| 7 (-2) | 10 (+0) | 13 (+1) | 2 (-4) | 12 (+1) | 4 (-3) |
 
+- **Skills** Perception +3
 - **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 0 (10 XP)

@@ -6,9 +6,9 @@ _Gargantuan monstrosity (titan), chaotic evil_
 - **Hit Points** 472 (27d20 + 189)
 - **Speed** 20 ft., swim 60 ft.
 
-| STR              | DEX   | CON     | INT     | WIS     | CHA     |
-|------------------|-------|---------|---------|---------|---------|
-| 30 (+10) 11 (+0) |       | 25 (+7) | 22 (+6) | 18 (+4) | 20 (+5) |
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 11 (+0) | 25 (+7) | 22 (+6) | 18 (+4) | 20 (+5) |
 
 - **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
 - **Damage Immunities** lightning; bludgeoning, piercing, and slashing from nonmagical attacks

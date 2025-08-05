@@ -6,9 +6,9 @@ _Gargantuan monstrosity (titan), unaligned_
 - **Hit Points** 676 (33d20 + 330)
 - **Speed** 40 ft.
 
-| STR   | DEX   | CON                       | INT    | WIS     | CHA     |
-|-------|-------|---------------------------|--------|---------|---------|
-|       |       | 30 (+10) 11 (+0) 30 (+10) | 3 (-4) | 11 (+0) | 11 (+0) |
+| STR      | DEX     | CON      | INT    | WIS     | CHA     |
+|----------|---------|----------|--------|---------|---------|
+| 30 (+10) | 11 (+0) | 30 (+10) | 3 (-4) | 11 (+0) | 11 (+0) |
 
 - **Saving Throws** Int +5, Wis +9, Cha +9
 - **Damage Immunities** fire, poison; bludgeoning, piercing, and slashing from nonmagical attacks

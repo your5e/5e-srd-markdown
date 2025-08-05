@@ -6,9 +6,9 @@ _Gargantuan dragon, chaotic evil_
 - **Hit Points** 546 (28d20 + 252)
 - **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
-| STR              | DEX   | CON     | INT     | WIS     | CHA     |
-|------------------|-------|---------|---------|---------|---------|
-| 30 (+10) 10 (+0) |       | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+| STR      | DEX     | CON     | INT     | WIS     | CHA     |
+|----------|---------|---------|---------|---------|---------|
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
 
 - **Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
 - **Skills** Perception +16, Stealth +7

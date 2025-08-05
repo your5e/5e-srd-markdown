@@ -34,6 +34,13 @@ the SRD in question.
       between the list of skills/senses/CR etc and the list of traits
     - fixed "Components" typo in Contagion
     - changed "Petrifying Gaze" to be bold italics for consistency
+    - Some tables have been broken into section to make them clearer, as
+      Markdown doesn't support mid-table headers:
+        - Armor types ([Armor](dnd/51/markdown/equpiment/armor.md))
+        - Saddles ([Mounts and Vehicles](dnd/51/markdown/equipment/mounts_and_vehicles.md))
+        - Scrying ([Scrying](dnd/51/markdown/spells/level_5/scrying.md))
+        - Tack, Harness, and Drawn Vehicles ([Tools](dnd/51/markdown/equipment/tools.md))
+        - Weapon types ([Weapons](dnd/51/markdown/equipment/weapons.md))
 
 
 ## Workflow for breaking the whole SRD into sections
