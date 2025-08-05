@@ -47,6 +47,7 @@ setup() {
         Warning: # The Barbarian, 27: table has empty header cells
         Warning: ## Equipment, 71: em-dash not surrounded by spaces
         Warning: ## Equipment, 71: table has empty header cells
+        Warning: #### Black Pudding, 128: table has empty data cells
         Warning: #### Traits, 249: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
         Warning: ##### Arctic, 275: table immediately after header
         EOF
@@ -70,6 +71,7 @@ setup() {
         Warning: # The Barbarian, 27: table has empty header cells
         Warning: ## Equipment, 71: em-dash not surrounded by spaces
         Warning: ## Equipment, 71: table has empty header cells
+        Warning: #### Black Pudding, 128: table has empty data cells
         Warning: #### Traits, 249: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
         Warning: ##### Arctic, 275: table immediately after header
         EOF
@@ -103,15 +105,20 @@ setup() {
         Warning: # **The Barbarian**, 30: table has empty header cells
         Warning: ## **Equipment**, 71: em-dash not surrounded by spaces
         Warning: ## **Equipment**, 71: table has empty header cells
+        Warning: ## **Equipment**, 84: table has empty data cells
         Warning: ## **Equipment**, 86: possible table run-on
         Warning: #### **Black Pudding**, 135: unusual Unicode characters: U+2212
+        Warning: #### **Black Pudding**, 135: table has empty data cells
         Warning: #### **Black Pudding**, 150: unusual Unicode characters: U+2212
         Warning: #### **Actions**, 160: unusual Unicode characters: U+2212
         Warning: #### **Giant Centipede**, 206: table has empty header cells
+        Warning: #### **Giant Centipede**, 208: table has empty data cells
         Warning: #### **Hyena**, 230: table has empty header cells
         Warning: #### **Hyena**, 232: unusual Unicode characters: U+2212
+        Warning: #### **Hyena**, 232: table has empty data cells
         Warning: ## **Wereboar**, 252: table has empty header cells
         Warning: ## **Wereboar**, 254: unusual Unicode characters: U+2212
+        Warning: ## **Wereboar**, 254: table has empty data cells
         Warning: ##### Arctic, 296: table immediately after header
         EOF
     )

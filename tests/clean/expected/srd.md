@@ -123,9 +123,9 @@ _Large ooze, unaligned_
 - **Hit Points** 85 (10d10 + 30)
 - **Speed** 20 ft., climb 20 ft.
 
-| STR     | DEX    | CON     | INT    | WIS    | CHA    |
-|---------|--------|---------|--------|--------|--------|
-| 16 (+3) | 5 (-3) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
+| STR   | DEX            | CON     | INT    | WIS    | CHA    |
+|-------|----------------|---------|--------|--------|--------|
+|       | 16 (+3) 5 (-3) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
 
 - **Damage Immunities** acid, cold, lightning, slashing
 - **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone

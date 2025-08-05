@@ -529,6 +529,19 @@ def warn_empty_table_header(lines, index):
     return None
 
 
+def warn_empty_table_cells(lines, index):
+    # "|data| |more data|" - empty cells in table rows
+    if (
+        lines[index].startswith('|')
+        and index > 0
+        and lines[index - 1].startswith('|')
+    ):
+        cells = [cell.strip() for cell in lines[index].split('|')[1:-1]]
+        if not all(cell for cell in cells):
+            return f"table has empty data cells"
+    return None
+
+
 def warn_srd(lines, ignore_file=None):
     WARN_TABLE = [
         warn_table_runon,
@@ -539,6 +552,7 @@ def warn_srd(lines, ignore_file=None):
         warn_em_dash_spacing,
         warn_unusual_unicode,
         warn_empty_table_header,
+        warn_empty_table_cells,
     ]
 
     ignore_patterns = []

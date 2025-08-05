@@ -132,7 +132,7 @@ _**At Higher Levels.**_ When you cast this spell using a spell slot of 2nd level
 
 | STR     | DEX    | CON     | INT    | WIS    | CHA    |
 |---------|--------|---------|--------|--------|--------|
-| 16    (+3) | 5    (−3) | 16   (+3) | 1    (−5) | 6    (−2) | 1    (−5) |
+| | 16    (+3) 5    (−3) | 16   (+3) | 1    (−5) | 6    (−2) | 1    (−5) |
 
 **Damage Immunities** acid, cold, lightning, slashing
 
