@@ -170,7 +170,7 @@ spells = {
         "Healing Word",
         "Heat Metal",
         "Hellish Rebuke",
-        "Heroes Feast",
+        "Heroes' Feast",
         "Heroism",
         "Hideous Laughter",
         "Hold Monster",

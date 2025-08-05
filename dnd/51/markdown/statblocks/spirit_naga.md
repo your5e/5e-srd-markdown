@@ -23,7 +23,11 @@ _Large monstrosity, chaotic evil_
 - _**Spellcasting.**_ The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
 
     - Cantrips (at will): _Mage Hand_, _Minor Illusion_, _Ray of Frost_
-    - 1st level (4 slots): _Charm Person_, _Detect Magic_, _Sleep_ 2nd level (3 slots): _Detect Thoughts_, _Hold Person_ 3rd level (3 slots): _Lightning Bolt_, _Water Breathing_ 4th level (3 slots): _Blight_, _Dimension Door_ 5th level (2 slots): _Dominate Person_
+    - 1st level (4 slots): _Charm Person_, _Detect Magic_, _Sleep_
+    - 2nd level (3 slots): _Detect Thoughts_, _Hold Person_
+    - 3rd level (3 slots): _Lightning Bolt_, _Water Breathing_
+    - 4th level (3 slots): _Blight_, _Dimension Door_
+    - 5th level (2 slots): _Dominate Person_
 
 ## Actions
 

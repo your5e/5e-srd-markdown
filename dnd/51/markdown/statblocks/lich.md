@@ -36,7 +36,7 @@ _Medium undead, any evil alignment_
     - 8th level (1 slot): _Dominate Monster_, _Power Word Stun_
     - 9th level (1 slot): _Power Word Kill_
 
-_**Turn Resistance.**_ The lich has advantage on saving throws against any effect that turns undead.
+- _**Turn Resistance.**_ The lich has advantage on saving throws against any effect that turns undead.
 
 ## Actions
 

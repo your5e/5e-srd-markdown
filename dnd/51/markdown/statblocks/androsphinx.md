@@ -29,7 +29,8 @@ _Large monstrosity, lawful neutral_
     - 2nd level (3 slots): _Lesser Restoration_, _Zone of Truth_
     - 3rd level (3 slots): _Dispel Magic_, _Tongues_
     - 4th level (3 slots): _Banishment_, _Freedom of Movement_
-    - 5th level (2 slots): _Flame Strike_, _Greater Restoration_ 6th level (1 slot): _heroes' feast_
+    - 5th level (2 slots): _Flame Strike_, _Greater Restoration_
+    - 6th level (1 slot): _Heroes' Feast_
 
 ## Actions
 

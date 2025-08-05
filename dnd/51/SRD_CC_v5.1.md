@@ -14719,7 +14719,7 @@ _Medium monstrosity, unaligned_
 
 #### Actions
 
-- _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. H_it:_ 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
+- _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 
 ### Behir
 
@@ -17773,7 +17773,8 @@ _Huge giant, neutral good (50%) or neutral evil (50%)_
 - _**Keen Smell.**_ The giant has advantage on Wisdom (Perception) checks that rely on smell.
 - _**Innate Spellcasting.**_ The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 
-    - At will: _Detect Magic_, _Fog Cloud_, _Light_ 3/day each: _Feather Fall_, _Fly_, _Misty Step_, _Telekinesis_
+    - At will: _Detect Magic_, _Fog Cloud_, _Light_
+    - 3/day each: _Feather Fall_, _Fly_, _Misty Step_, _Telekinesis_
     - 1/day each: _Control Weather_, _Gaseous Form_
 
 #### Actions
@@ -18338,7 +18339,7 @@ _Medium fiend, neutral evil_
     - At will: _Detect Magic_, _Magic Missile_
     - 2/day each: _Plane Shift_ (self only), _Ray of Enfeeblement_, _Sleep_
 
-_**Magic Resistance.**_ The hag has advantage on saving throws against spells and other magical effects.
+- _**Magic Resistance.**_ The hag has advantage on saving throws against spells and other magical effects.
 
 #### Actions
 
@@ -18772,7 +18773,7 @@ _Medium undead, any evil alignment_
     - 8th level (1 slot): _Dominate Monster_, _Power Word Stun_
     - 9th level (1 slot): _Power Word Kill_
 
-_**Turn Resistance.**_ The lich has advantage on saving throws against any effect that turns undead.
+- _**Turn Resistance.**_ The lich has advantage on saving throws against any effect that turns undead.
 
 #### Actions
 
@@ -19435,7 +19436,11 @@ _Large monstrosity, chaotic evil_
 - _**Spellcasting.**_ The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
 
     - Cantrips (at will): _Mage Hand_, _Minor Illusion_, _Ray of Frost_
-    - 1st level (4 slots): _Charm Person_, _Detect Magic_, _Sleep_ 2nd level (3 slots): _Detect Thoughts_, _Hold Person_ 3rd level (3 slots): _Lightning Bolt_, _Water Breathing_ 4th level (3 slots): _Blight_, _Dimension Door_ 5th level (2 slots): _Dominate Person_
+    - 1st level (4 slots): _Charm Person_, _Detect Magic_, _Sleep_
+    - 2nd level (3 slots): _Detect Thoughts_, _Hold Person_
+    - 3rd level (3 slots): _Lightning Bolt_, _Water Breathing_
+    - 4th level (3 slots): _Blight_, _Dimension Door_
+    - 5th level (2 slots): _Dominate Person_
 
 #### Actions
 
@@ -19857,7 +19862,7 @@ _Medium fiend, lawful evil_
 - _**Innate Spellcasting.**_ The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
 
     - At will: _Detect Thoughts_, _Disguise Self_, _Mage Hand_, _Minor Illusion_
-    - 3/day each: _Charm Person_, _Detect Magic_, _Invisibility_, _Major Image_, s_uggestion_
+    - 3/day each: _Charm Person_, _Detect Magic_, _Invisibility_, _Major Image_, _Suggestion_
     - 1/day each: _Dominate Person_, _Fly_, _Plane Shift_, _True Seeing_
 
 #### Actions
@@ -20302,7 +20307,8 @@ _Large monstrosity, lawful neutral_
     - 2nd level (3 slots): _Lesser Restoration_, _Zone of Truth_
     - 3rd level (3 slots): _Dispel Magic_, _Tongues_
     - 4th level (3 slots): _Banishment_, _Freedom of Movement_
-    - 5th level (2 slots): _Flame Strike_, _Greater Restoration_ 6th level (1 slot): _heroes' feast_
+    - 5th level (2 slots): _Flame Strike_, _Greater Restoration_
+    - 6th level (1 slot): _Heroes' Feast_
 
 #### Actions
 
@@ -20348,7 +20354,11 @@ _Large monstrosity, lawful neutral_
 - _**Spellcasting.**_ The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
 
     - Cantrips (at will): _Mage Hand_, _Minor Illusion_, _Prestidigitation_
-    - 1st level (4 slots): _Detect Magic_, _Identify_, _Shield_ 2nd level (3 slots): _Darkness_, _Locate Object_, _Suggestion_ 3rd level (3 slots): _Dispel Magic_, _Remove Curse_, _Tongues_ 4th level (3 slots): _Banishment_, _Greater Invisibility_ 5th level (1 slot): _Legend Lore_
+    - 1st level (4 slots): _Detect Magic_, _Identify_, _Shield_
+    - 2nd level (3 slots): _Darkness_, _Locate Object_, _Suggestion_
+    - 3rd level (3 slots): _Dispel Magic_, _Remove Curse_, _Tongues_
+    - 4th level (3 slots): _Banishment_, _Greater Invisibility_
+    - 5th level (1 slot): _Legend Lore_
 
 #### Actions
 
@@ -23763,8 +23773,9 @@ _Medium humanoid (any race), any non-lawful alignment_
 - _**Scimitar.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) slashing damage.
 - _**Light Crossbow.** Ranged Weapon Attack:_ +3 to hit, range 80 ft./320 ft., one target. _Hit:_ 5 (1d8 + 1) piercing damage.
 
-- **Bandits** rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
-- **Pirates** are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.
+**Bandits** rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
+
+**Pirates** are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.
 
 ## Bandit Captain
 

@@ -24,7 +24,7 @@ _Medium fiend, neutral evil_
     - At will: _Detect Magic_, _Magic Missile_
     - 2/day each: _Plane Shift_ (self only), _Ray of Enfeeblement_, _Sleep_
 
-_**Magic Resistance.**_ The hag has advantage on saving throws against spells and other magical effects.
+- _**Magic Resistance.**_ The hag has advantage on saving throws against spells and other magical effects.
 
 ## Actions
 

@@ -95,7 +95,7 @@ Warning: ### Proficiency Bonus by Challenge Rating, 14163: table immediately aft
 Warning: ## Languages, 14244: em-dash not surrounded by spaces
 Warning: #### Experience Points by Challenge Rating, 14270: table immediately after header
 Warning: ### Melee and Ranged Attacks, 14326: possible mistaken mid-paragraph italic: 'Miss:'
-Warning: ### Celtic Deities, 21045: table immediately after header
-Warning: ### Greek Deities, 21064: table immediately after header
-Warning: ### Egyptian Deities, 21088: table immediately after header
-Warning: ### Norse Deities, 21107: table immediately after header
+Warning: ### Celtic Deities, 21055: table immediately after header
+Warning: ### Greek Deities, 21074: table immediately after header
+Warning: ### Egyptian Deities, 21098: table immediately after header
+Warning: ### Norse Deities, 21117: table immediately after header

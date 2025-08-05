@@ -23,7 +23,7 @@ _Medium fiend, lawful evil_
 - _**Innate Spellcasting.**_ The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
 
     - At will: _Detect Thoughts_, _Disguise Self_, _Mage Hand_, _Minor Illusion_
-    - 3/day each: _Charm Person_, _Detect Magic_, _Invisibility_, _Major Image_, s_uggestion_
+    - 3/day each: _Charm Person_, _Detect Magic_, _Invisibility_, _Major Image_, _Suggestion_
     - 1/day each: _Dominate Person_, _Fly_, _Plane Shift_, _True Seeing_
 
 ## Actions

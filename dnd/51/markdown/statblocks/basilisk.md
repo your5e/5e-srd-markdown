@@ -24,4 +24,4 @@ _Medium monstrosity, unaligned_
 
 ## Actions
 
-- _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. H_it:_ 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
+- _**Bite.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.

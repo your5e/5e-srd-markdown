@@ -801,283 +801,283 @@
  17664  17695  markdown/statblocks/ghost.md -
  17699  17726  markdown/statblocks/ghast.md                    # ghouls
  17728  17749  markdown/statblocks/ghoul.md -
- 17753  17783  markdown/statblocks/cloud_giant.md              # giants
- 17785  17808  markdown/statblocks/fire_giant.md
- 17810  17833  markdown/statblocks/frost_giant.md
- 17835  17856  markdown/statblocks/hill_giant.md
- 17858  17888  markdown/statblocks/stone_giant.md
- 17890  17923  markdown/statblocks/storm_giant.md -
- 17925  17951  markdown/statblocks/gibbering_mouther.md
- 17953  17977  markdown/statblocks/gnoll.md
- 17979  18008  markdown/statblocks/gnome_deep_svirfneblin.md
- 18010  18034  markdown/statblocks/goblin.md -
- 18038  18068  markdown/statblocks/clay_golem.md               # golems
- 18070  18103  markdown/statblocks/flesh_golem.md
- 18105  18135  markdown/statblocks/iron_golem.md
- 18137  18165  markdown/statblocks/stone_golem.md -
- 18167  18193  markdown/statblocks/gorgon.md
- 18195  18220  markdown/statblocks/grick.md
- 18222  18247  markdown/statblocks/griffon.md
- 18249  18274  markdown/statblocks/grimlock.md -
+ 17753  17784  markdown/statblocks/cloud_giant.md              # giants
+ 17786  17809  markdown/statblocks/fire_giant.md
+ 17811  17834  markdown/statblocks/frost_giant.md
+ 17836  17857  markdown/statblocks/hill_giant.md
+ 17859  17889  markdown/statblocks/stone_giant.md
+ 17891  17924  markdown/statblocks/storm_giant.md -
+ 17926  17952  markdown/statblocks/gibbering_mouther.md
+ 17954  17978  markdown/statblocks/gnoll.md
+ 17980  18009  markdown/statblocks/gnome_deep_svirfneblin.md
+ 18011  18035  markdown/statblocks/goblin.md -
+ 18039  18069  markdown/statblocks/clay_golem.md               # golems
+ 18071  18104  markdown/statblocks/flesh_golem.md
+ 18106  18136  markdown/statblocks/iron_golem.md
+ 18138  18166  markdown/statblocks/stone_golem.md -
+ 18168  18194  markdown/statblocks/gorgon.md
+ 18196  18221  markdown/statblocks/grick.md
+ 18223  18248  markdown/statblocks/griffon.md
+ 18250  18275  markdown/statblocks/grimlock.md -
 
    # monsters, h
- 18280  18313  markdown/statblocks/green_hag.md                # hags
- 18315  18348  markdown/statblocks/night_hag.md
- 18350  18379  markdown/statblocks/sea_hag.md -
- 18381  18430  markdown/statblocks/half_dragon.md
- 18432  18457  markdown/statblocks/harpy.md
- 18459  18485  markdown/statblocks/hell_hound.md
- 18487  18512  markdown/statblocks/hippogriff.md
- 18514  18537  markdown/statblocks/hobgoblin.md
- 18539  18563  markdown/statblocks/homunculus.md
- 18565  18597  markdown/statblocks/hydra.md -
+ 18281  18314  markdown/statblocks/green_hag.md                # hags
+ 18316  18349  markdown/statblocks/night_hag.md
+ 18351  18380  markdown/statblocks/sea_hag.md -
+ 18382  18431  markdown/statblocks/half_dragon.md
+ 18433  18458  markdown/statblocks/harpy.md
+ 18460  18486  markdown/statblocks/hell_hound.md
+ 18488  18513  markdown/statblocks/hippogriff.md
+ 18515  18538  markdown/statblocks/hobgoblin.md
+ 18540  18564  markdown/statblocks/homunculus.md
+ 18566  18598  markdown/statblocks/hydra.md -
 
    # monsters, i
- 18601  18629  markdown/statblocks/invisible_stalker.md -
+ 18602  18630  markdown/statblocks/invisible_stalker.md -
 
    # monsters, k
- 18633  18657  markdown/statblocks/kobold.md
- 18659  18701  markdown/statblocks/kraken.md -
+ 18634  18658  markdown/statblocks/kobold.md
+ 18660  18702  markdown/statblocks/kraken.md -
 
    # monsters, l
- 18705  18735  markdown/statblocks/lamia.md
- 18737  18788  markdown/statblocks/lich.md
- 18790  18817  markdown/statblocks/lizardfolk.md -
- 18821  18849  markdown/statblocks/werebear.md                 # lycanthropes
- 18851  18879  markdown/statblocks/wereboar.md
- 18881  18907  markdown/statblocks/wererat.md
- 18909  18939  markdown/statblocks/weretiger.md
- 18941  18969  markdown/statblocks/werewolf.md -
+ 18706  18736  markdown/statblocks/lamia.md
+ 18738  18789  markdown/statblocks/lich.md
+ 18791  18818  markdown/statblocks/lizardfolk.md -
+ 18822  18850  markdown/statblocks/werebear.md                 # lycanthropes
+ 18852  18880  markdown/statblocks/wereboar.md
+ 18882  18908  markdown/statblocks/wererat.md
+ 18910  18940  markdown/statblocks/weretiger.md
+ 18942  18970  markdown/statblocks/werewolf.md -
 
    # monsters, m
- 18973  18998  markdown/statblocks/magmin.md
- 19000  19025  markdown/statblocks/manticore.md
- 19027  19057  markdown/statblocks/medusa.md -
- 19061  19089  markdown/statblocks/dust_mephit.md              # mephits
- 19091  19120  markdown/statblocks/ice_mephit.md
- 19122  19151  markdown/statblocks/magma_mephit.md
- 19153  19179  markdown/statblocks/steam_mephit.md -
- 19181  19204  markdown/statblocks/merfolk.md
- 19206  19231  markdown/statblocks/merrow.md
- 19233  19262  markdown/statblocks/mimic.md
- 19264  19290  markdown/statblocks/minotaur.md -
- 19294  19319  markdown/statblocks/mummy.md                    # mummies
- 19321  19370  markdown/statblocks/mummy_lord.md -
+ 18974  18999  markdown/statblocks/magmin.md
+ 19001  19026  markdown/statblocks/manticore.md
+ 19028  19058  markdown/statblocks/medusa.md -
+ 19062  19090  markdown/statblocks/dust_mephit.md              # mephits
+ 19092  19121  markdown/statblocks/ice_mephit.md
+ 19123  19152  markdown/statblocks/magma_mephit.md
+ 19154  19180  markdown/statblocks/steam_mephit.md -
+ 19182  19205  markdown/statblocks/merfolk.md
+ 19207  19232  markdown/statblocks/merrow.md
+ 19234  19263  markdown/statblocks/mimic.md
+ 19265  19291  markdown/statblocks/minotaur.md -
+ 19295  19320  markdown/statblocks/mummy.md                    # mummies
+ 19322  19371  markdown/statblocks/mummy_lord.md -
 
    # monsters, n
- 19376  19411  markdown/statblocks/guardian_naga.md            # nagas
- 19413  19442  markdown/statblocks/spirit_naga.md -
- 19444  19469  markdown/statblocks/nightmare.md -
+ 19377  19412  markdown/statblocks/guardian_naga.md            # nagas
+ 19414  19447  markdown/statblocks/spirit_naga.md -
+ 19449  19474  markdown/statblocks/nightmare.md -
 
    # monsters, o
- 19473  19492  markdown/statblocks/ogre.md
- 19494  19527  markdown/statblocks/oni.md -
- 19531  19564  markdown/statblocks/black_pudding.md            # oozes
- 19566  19604  markdown/statblocks/gelatinous_cube.md
- 19606  19636  markdown/statblocks/gray_ooze.md
- 19638  19668  markdown/statblocks/ochre_jelly.md -
- 19670  19694  markdown/statblocks/orc.md
- 19696  19722  markdown/statblocks/otyugh.md
- 19724  19749  markdown/statblocks/owlbear.md -
+ 19478  19497  markdown/statblocks/ogre.md
+ 19499  19532  markdown/statblocks/oni.md -
+ 19536  19569  markdown/statblocks/black_pudding.md            # oozes
+ 19571  19609  markdown/statblocks/gelatinous_cube.md
+ 19611  19641  markdown/statblocks/gray_ooze.md
+ 19643  19673  markdown/statblocks/ochre_jelly.md -
+ 19675  19699  markdown/statblocks/orc.md
+ 19701  19727  markdown/statblocks/otyugh.md
+ 19729  19754  markdown/statblocks/owlbear.md -
 
    # monsters, p
- 19753  19773  markdown/statblocks/pegasus.md
- 19775  19801  markdown/statblocks/pseudodragon.md
- 19803  19831  markdown/statblocks/purple_worm.md -
+ 19758  19778  markdown/statblocks/pegasus.md
+ 19780  19806  markdown/statblocks/pseudodragon.md
+ 19808  19836  markdown/statblocks/purple_worm.md -
 
    # monsters, r
- 19835  19866  markdown/statblocks/rakshasa.md
- 19868  19894  markdown/statblocks/remorhaz.md
- 19896  19922  markdown/statblocks/roc.md
- 19924  19952  markdown/statblocks/roper.md
- 19954  19980  markdown/statblocks/rust_monster.md -
+ 19840  19871  markdown/statblocks/rakshasa.md
+ 19873  19899  markdown/statblocks/remorhaz.md
+ 19901  19927  markdown/statblocks/roc.md
+ 19929  19957  markdown/statblocks/roper.md
+ 19959  19985  markdown/statblocks/rust_monster.md -
 
    # monsters, s
- 19984  20012  markdown/statblocks/sahuagin.md
- 20014  20042  markdown/statblocks/salamander.md
- 20044  20069  markdown/statblocks/satyr.md
- 20071  20102  markdown/statblocks/shadow.md
- 20104  20132  markdown/statblocks/shambling_mound.md
- 20134  20165  markdown/statblocks/shield_guardian.md -
- 20169  20191  markdown/statblocks/skeleton.md                 # skeletons
- 20193  20219  markdown/statblocks/minotaur_skeleton.md
- 20221  20242  markdown/statblocks/warhorse_skeleton.md -
- 20244  20270  markdown/statblocks/specter.md  -
- 20274  20322  markdown/statblocks/androsphinx.md              # sphinxes
- 20324  20364  markdown/statblocks/gynosphinx.md -
- 20366  20388  markdown/statblocks/sprite.md
- 20390  20410  markdown/statblocks/stirge.md
- 20412  20443  markdown/statblocks/succubus_incubus.md -
+ 19989  20017  markdown/statblocks/sahuagin.md
+ 20019  20047  markdown/statblocks/salamander.md
+ 20049  20074  markdown/statblocks/satyr.md
+ 20076  20107  markdown/statblocks/shadow.md
+ 20109  20137  markdown/statblocks/shambling_mound.md
+ 20139  20170  markdown/statblocks/shield_guardian.md -
+ 20174  20196  markdown/statblocks/skeleton.md                 # skeletons
+ 20198  20224  markdown/statblocks/minotaur_skeleton.md
+ 20226  20247  markdown/statblocks/warhorse_skeleton.md -
+ 20249  20275  markdown/statblocks/specter.md  -
+ 20279  20328  markdown/statblocks/androsphinx.md              # sphinxes
+ 20330  20374  markdown/statblocks/gynosphinx.md -
+ 20376  20398  markdown/statblocks/sprite.md
+ 20400  20420  markdown/statblocks/stirge.md
+ 20422  20453  markdown/statblocks/succubus_incubus.md -
 
    # monsters, t
- 20447  20491  markdown/statblocks/tarrasque.md
- 20493  20521  markdown/statblocks/treant.md
- 20523  20549  markdown/statblocks/troll.md -
+ 20457  20501  markdown/statblocks/tarrasque.md
+ 20503  20531  markdown/statblocks/treant.md
+ 20533  20559  markdown/statblocks/troll.md -
 
    # monsters, u
- 20553  20596  markdown/statblocks/unicorn.md -
+ 20563  20606  markdown/statblocks/unicorn.md -
 
    # monsters, v
- 20602  20659  markdown/statblocks/vampire.md                  # vampires
- 20661  20694  markdown/statblocks/vampire_spawn.md -
+ 20612  20669  markdown/statblocks/vampire.md                  # vampires
+ 20671  20704  markdown/statblocks/vampire_spawn.md -
 
    # monsters, w
- 20698  20730  markdown/statblocks/wight.md
- 20732  20761  markdown/statblocks/will_o_wisp.md
- 20763  20790  markdown/statblocks/wraith.md
- 20792  20814  markdown/statblocks/wyvern.md -
+ 20708  20740  markdown/statblocks/wight.md
+ 20742  20771  markdown/statblocks/will_o_wisp.md
+ 20773  20800  markdown/statblocks/wraith.md
+ 20802  20824  markdown/statblocks/wyvern.md -
 
    # monsters, x
- 20818  20846  markdown/statblocks/xorn.md -
+ 20828  20856  markdown/statblocks/xorn.md -
 
    # monsters, z
- 20852  20877  markdown/statblocks/zombie.md                   # zombies
- 20879  20904  markdown/statblocks/ogre_zombie.md -
+ 20862  20887  markdown/statblocks/zombie.md                   # zombies
+ 20889  20914  markdown/statblocks/ogre_zombie.md -
 
                @adjust 1
- 20906  20914  markdown/conditions/conditions.md   0
- 20916  20919  markdown/conditions/blinded.md
- 20921  20924  markdown/conditions/charmed.md
- 20926  20928  markdown/conditions/deafened.md
- 20930  20949  markdown/conditions/exhaustion.md
- 20951  20954  markdown/conditions/frightened.md
- 20956  20960  markdown/conditions/grappled.md
- 20962  20964  markdown/conditions/incapacitated.md
- 20966  20969  markdown/conditions/invisible.md
- 20971  20976  markdown/conditions/paralyzed.md
- 20978  20985  markdown/conditions/petrified.md
- 20987  20989  markdown/conditions/poisoned.md
- 20991  20995  markdown/conditions/prone.md
- 20997  21001  markdown/conditions/restrained.md
- 21003  21007  markdown/conditions/stunned.md
- 21009  21015  markdown/conditions/unconscious.md -
+ 20916  20924  markdown/conditions/conditions.md   0
+ 20926  20929  markdown/conditions/blinded.md
+ 20931  20934  markdown/conditions/charmed.md
+ 20936  20938  markdown/conditions/deafened.md
+ 20940  20959  markdown/conditions/exhaustion.md
+ 20961  20964  markdown/conditions/frightened.md
+ 20966  20970  markdown/conditions/grappled.md
+ 20972  20974  markdown/conditions/incapacitated.md
+ 20976  20979  markdown/conditions/invisible.md
+ 20981  20986  markdown/conditions/paralyzed.md
+ 20988  20995  markdown/conditions/petrified.md
+ 20997  20999  markdown/conditions/poisoned.md
+ 21001  21005  markdown/conditions/prone.md
+ 21007  21011  markdown/conditions/restrained.md
+ 21013  21017  markdown/conditions/stunned.md
+ 21019  21025  markdown/conditions/unconscious.md -
 
- 21017  21041  markdown/gods/pantheons.md   0
- 21043  21060  markdown/gods/celtic_deities.md   2
- 21062  21084  markdown/gods/greek_deities.md   2
- 21086  21103  markdown/gods/egyptian_deities.md   2
- 21105  21128  markdown/gods/norse_deities.md   2
+ 21027  21051  markdown/gods/pantheons.md   0
+ 21053  21070  markdown/gods/celtic_deities.md   2
+ 21072  21094  markdown/gods/greek_deities.md   2
+ 21096  21113  markdown/gods/egyptian_deities.md   2
+ 21115  21138  markdown/gods/norse_deities.md   2
 
- 21130  21187  markdown/planes/the_planes_of_existence.md - 0
+ 21140  21197  markdown/planes/the_planes_of_existence.md - 0
 
                                                                # creatures
- 21193  21214  markdown/statblocks/ape.md
- 21216  21242  markdown/statblocks/awakened_shrub.md
- 21244  21270  markdown/statblocks/awakened_tree.md
- 21272  21292  markdown/statblocks/axe_beak.md
- 21294  21316  markdown/statblocks/baboon.md
- 21318  21340  markdown/statblocks/badger.md
- 21342  21365  markdown/statblocks/bat.md
- 21367  21392  markdown/statblocks/black_bear.md
- 21394  21420  markdown/statblocks/blink_dog.md
- 21422  21448  markdown/statblocks/blood_hawk.md
- 21450  21473  markdown/statblocks/boar.md
- 21475  21500  markdown/statblocks/brown_bear.md
- 21502  21520  markdown/statblocks/camel.md
- 21522  21545  markdown/statblocks/cat.md
- 21547  21566  markdown/statblocks/constrictor_snake.md
- 21568  21591  markdown/statblocks/crab.md
- 21593  21616  markdown/statblocks/crocodile.md
- 21618  21644  markdown/statblocks/death_dog.md
- 21646  21664  markdown/statblocks/deer.md
- 21666  21690  markdown/statblocks/dire_wolf.md
- 21692  21710  markdown/statblocks/draft_horse.md
- 21712  21735  markdown/statblocks/eagle.md
- 21737  21760  markdown/statblocks/elephant.md
- 21762  21785  markdown/statblocks/elk.md
- 21787  21811  markdown/statblocks/flying_snake.md
- 21813  21835  markdown/statblocks/frog.md
- 21837  21858  markdown/statblocks/giant_ape.md
- 21860  21884  markdown/statblocks/giant_badger.md
- 21886  21909  markdown/statblocks/giant_bat.md
- 21911  21934  markdown/statblocks/giant_boar.md
- 21936  21954  markdown/statblocks/giant_centipede.md
- 21956  21976  markdown/statblocks/giant_constrictor_snake.md
- 21978  22001  markdown/statblocks/giant_crab.md
- 22003  22028  markdown/statblocks/giant_crocodile.md
- 22030  22057  markdown/statblocks/giant_eagle.md
- 22059  22085  markdown/statblocks/giant_elk.md
- 22087  22111  markdown/statblocks/giant_fire_beetle.md
- 22113  22140  markdown/statblocks/giant_frog.md
- 22142  22165  markdown/statblocks/giant_goat.md
- 22167  22190  markdown/statblocks/giant_hyena.md
- 22192  22212  markdown/statblocks/giant_lizard.md
- 22214  22240  markdown/statblocks/giant_octopus.md
- 22242  22268  markdown/statblocks/giant_owl.md
- 22270  22289  markdown/statblocks/giant_poisonous_snake.md
- 22291  22320  markdown/statblocks/giant_rat.md
- 22322  22342  markdown/statblocks/giant_scorpion.md
- 22344  22369  markdown/statblocks/giant_sea_horse.md
- 22371  22397  markdown/statblocks/giant_shark.md
- 22399  22427  markdown/statblocks/giant_spider.md
- 22429  22455  markdown/statblocks/giant_toad.md
- 22457  22485  markdown/statblocks/giant_vulture.md
- 22487  22505  markdown/statblocks/giant_wasp.md
- 22507  22530  markdown/statblocks/giant_weasel.md
- 22532  22559  markdown/statblocks/giant_wolf_spider.md
- 22561  22584  markdown/statblocks/goat.md
- 22586  22609  markdown/statblocks/hawk.md
- 22611  22637  markdown/statblocks/hunter_shark.md
- 22639  22662  markdown/statblocks/hyena.md
- 22664  22688  markdown/statblocks/jackal.md
- 22690  22715  markdown/statblocks/killer_whale.md
- 22717  22744  markdown/statblocks/lion.md
- 22746  22764  markdown/statblocks/lizard.md
- 22766  22791  markdown/statblocks/mammoth.md
- 22793  22818  markdown/statblocks/mastiff.md
- 22820  22843  markdown/statblocks/mule.md
- 22845  22871  markdown/statblocks/octopus.md
- 22873  22897  markdown/statblocks/owl.md
- 22899  22924  markdown/statblocks/panther.md
- 22926  22953  markdown/statblocks/phase_spider.md
- 22955  22973  markdown/statblocks/poisonous_snake.md
- 22975  23000  markdown/statblocks/polar_bear.md
- 23002  23020  markdown/statblocks/pony.md
- 23022  23047  markdown/statblocks/quipper.md
- 23049  23071  markdown/statblocks/rat.md
- 23073  23096  markdown/statblocks/raven.md
- 23098  23124  markdown/statblocks/reef_shark.md
- 23126  23148  markdown/statblocks/rhinoceros.md
- 23150  23168  markdown/statblocks/riding_horse.md
- 23170  23195  markdown/statblocks/saber_toothed_tiger.md
- 23197  23215  markdown/statblocks/scorpion.md
- 23217  23235  markdown/statblocks/sea_horse.md
- 23237  23262  markdown/statblocks/spider.md
- 23264  23290  markdown/statblocks/swarm_of_bats.md
- 23292  23316  markdown/statblocks/swarm_of_insects.md
- 23318  23342  markdown/statblocks/swarm_of_poisonous_snakes.md
- 23344  23370  markdown/statblocks/swarm_of_quippers.md
- 23372  23397  markdown/statblocks/swarm_of_rats.md
- 23399  23424  markdown/statblocks/swarm_of_ravens.md
- 23426  23436  markdown/statblocks/variant_insect_swarms.md
- 23438  23463  markdown/statblocks/tiger.md
- 23465  23489  markdown/statblocks/vulture.md
- 23491  23513  markdown/statblocks/warhorse.md
- 23515  23538  markdown/statblocks/weasel.md
- 23540  23569  markdown/statblocks/winter_wolf.md
- 23571  23595  markdown/statblocks/wolf.md
- 23597  23622  markdown/statblocks/worg.md -
+ 21203  21224  markdown/statblocks/ape.md
+ 21226  21252  markdown/statblocks/awakened_shrub.md
+ 21254  21280  markdown/statblocks/awakened_tree.md
+ 21282  21302  markdown/statblocks/axe_beak.md
+ 21304  21326  markdown/statblocks/baboon.md
+ 21328  21350  markdown/statblocks/badger.md
+ 21352  21375  markdown/statblocks/bat.md
+ 21377  21402  markdown/statblocks/black_bear.md
+ 21404  21430  markdown/statblocks/blink_dog.md
+ 21432  21458  markdown/statblocks/blood_hawk.md
+ 21460  21483  markdown/statblocks/boar.md
+ 21485  21510  markdown/statblocks/brown_bear.md
+ 21512  21530  markdown/statblocks/camel.md
+ 21532  21555  markdown/statblocks/cat.md
+ 21557  21576  markdown/statblocks/constrictor_snake.md
+ 21578  21601  markdown/statblocks/crab.md
+ 21603  21626  markdown/statblocks/crocodile.md
+ 21628  21654  markdown/statblocks/death_dog.md
+ 21656  21674  markdown/statblocks/deer.md
+ 21676  21700  markdown/statblocks/dire_wolf.md
+ 21702  21720  markdown/statblocks/draft_horse.md
+ 21722  21745  markdown/statblocks/eagle.md
+ 21747  21770  markdown/statblocks/elephant.md
+ 21772  21795  markdown/statblocks/elk.md
+ 21797  21821  markdown/statblocks/flying_snake.md
+ 21823  21845  markdown/statblocks/frog.md
+ 21847  21868  markdown/statblocks/giant_ape.md
+ 21870  21894  markdown/statblocks/giant_badger.md
+ 21896  21919  markdown/statblocks/giant_bat.md
+ 21921  21944  markdown/statblocks/giant_boar.md
+ 21946  21964  markdown/statblocks/giant_centipede.md
+ 21966  21986  markdown/statblocks/giant_constrictor_snake.md
+ 21988  22011  markdown/statblocks/giant_crab.md
+ 22013  22038  markdown/statblocks/giant_crocodile.md
+ 22040  22067  markdown/statblocks/giant_eagle.md
+ 22069  22095  markdown/statblocks/giant_elk.md
+ 22097  22121  markdown/statblocks/giant_fire_beetle.md
+ 22123  22150  markdown/statblocks/giant_frog.md
+ 22152  22175  markdown/statblocks/giant_goat.md
+ 22177  22200  markdown/statblocks/giant_hyena.md
+ 22202  22222  markdown/statblocks/giant_lizard.md
+ 22224  22250  markdown/statblocks/giant_octopus.md
+ 22252  22278  markdown/statblocks/giant_owl.md
+ 22280  22299  markdown/statblocks/giant_poisonous_snake.md
+ 22301  22330  markdown/statblocks/giant_rat.md
+ 22332  22352  markdown/statblocks/giant_scorpion.md
+ 22354  22379  markdown/statblocks/giant_sea_horse.md
+ 22381  22407  markdown/statblocks/giant_shark.md
+ 22409  22437  markdown/statblocks/giant_spider.md
+ 22439  22465  markdown/statblocks/giant_toad.md
+ 22467  22495  markdown/statblocks/giant_vulture.md
+ 22497  22515  markdown/statblocks/giant_wasp.md
+ 22517  22540  markdown/statblocks/giant_weasel.md
+ 22542  22569  markdown/statblocks/giant_wolf_spider.md
+ 22571  22594  markdown/statblocks/goat.md
+ 22596  22619  markdown/statblocks/hawk.md
+ 22621  22647  markdown/statblocks/hunter_shark.md
+ 22649  22672  markdown/statblocks/hyena.md
+ 22674  22698  markdown/statblocks/jackal.md
+ 22700  22725  markdown/statblocks/killer_whale.md
+ 22727  22754  markdown/statblocks/lion.md
+ 22756  22774  markdown/statblocks/lizard.md
+ 22776  22801  markdown/statblocks/mammoth.md
+ 22803  22828  markdown/statblocks/mastiff.md
+ 22830  22853  markdown/statblocks/mule.md
+ 22855  22881  markdown/statblocks/octopus.md
+ 22883  22907  markdown/statblocks/owl.md
+ 22909  22934  markdown/statblocks/panther.md
+ 22936  22963  markdown/statblocks/phase_spider.md
+ 22965  22983  markdown/statblocks/poisonous_snake.md
+ 22985  23010  markdown/statblocks/polar_bear.md
+ 23012  23030  markdown/statblocks/pony.md
+ 23032  23057  markdown/statblocks/quipper.md
+ 23059  23081  markdown/statblocks/rat.md
+ 23083  23106  markdown/statblocks/raven.md
+ 23108  23134  markdown/statblocks/reef_shark.md
+ 23136  23158  markdown/statblocks/rhinoceros.md
+ 23160  23178  markdown/statblocks/riding_horse.md
+ 23180  23205  markdown/statblocks/saber_toothed_tiger.md
+ 23207  23225  markdown/statblocks/scorpion.md
+ 23227  23245  markdown/statblocks/sea_horse.md
+ 23247  23272  markdown/statblocks/spider.md
+ 23274  23300  markdown/statblocks/swarm_of_bats.md
+ 23302  23326  markdown/statblocks/swarm_of_insects.md
+ 23328  23352  markdown/statblocks/swarm_of_poisonous_snakes.md
+ 23354  23380  markdown/statblocks/swarm_of_quippers.md
+ 23382  23407  markdown/statblocks/swarm_of_rats.md
+ 23409  23434  markdown/statblocks/swarm_of_ravens.md
+ 23436  23446  markdown/statblocks/variant_insect_swarms.md
+ 23448  23473  markdown/statblocks/tiger.md
+ 23475  23499  markdown/statblocks/vulture.md
+ 23501  23523  markdown/statblocks/warhorse.md
+ 23525  23548  markdown/statblocks/weasel.md
+ 23550  23579  markdown/statblocks/winter_wolf.md
+ 23581  23605  markdown/statblocks/wolf.md
+ 23607  23632  markdown/statblocks/worg.md -
 
- 23628  23635  markdown/npcs/customizing_npcs.md -
+ 23638  23645  markdown/npcs/customizing_npcs.md -
 
- 23637  23665  markdown/statblocks/acolyte.md                  # npcs
- 23667  23710  markdown/statblocks/archmage.md
- 23712  23743  markdown/statblocks/assassin.md
- 23745  23767  markdown/statblocks/bandit.md
- 23769  23801  markdown/statblocks/bandit_captain.md
- 23803  23827  markdown/statblocks/berserker.md
- 23829  23849  markdown/statblocks/commoner.md
- 23851  23876  markdown/statblocks/cultist.md
- 23878  23909  markdown/statblocks/cult_fanatic.md
- 23911  23940  markdown/statblocks/druid.md
- 23942  23975  markdown/statblocks/gladiator.md
- 23977  23998  markdown/statblocks/guard.md
- 24000  24032  markdown/statblocks/knight.md
- 24034  24067  markdown/statblocks/mage.md
- 24069  24096  markdown/statblocks/noble.md
- 24098  24131  markdown/statblocks/priest.md
- 24133  24160  markdown/statblocks/scout.md
- 24162  24190  markdown/statblocks/spy.md
- 24192  24219  markdown/statblocks/thug.md
- 24221  24245  markdown/statblocks/tribal_warrior.md
- 24247  24271  markdown/statblocks/veteran.md -
+ 23647  23675  markdown/statblocks/acolyte.md                  # npcs
+ 23677  23720  markdown/statblocks/archmage.md
+ 23722  23753  markdown/statblocks/assassin.md
+ 23755  23778  markdown/statblocks/bandit.md
+ 23780  23812  markdown/statblocks/bandit_captain.md
+ 23814  23838  markdown/statblocks/berserker.md
+ 23840  23860  markdown/statblocks/commoner.md
+ 23862  23887  markdown/statblocks/cultist.md
+ 23889  23920  markdown/statblocks/cult_fanatic.md
+ 23922  23951  markdown/statblocks/druid.md
+ 23953  23986  markdown/statblocks/gladiator.md
+ 23988  24009  markdown/statblocks/guard.md
+ 24011  24043  markdown/statblocks/knight.md
+ 24045  24078  markdown/statblocks/mage.md
+ 24080  24107  markdown/statblocks/noble.md
+ 24109  24142  markdown/statblocks/priest.md
+ 24144  24171  markdown/statblocks/scout.md
+ 24173  24201  markdown/statblocks/spy.md
+ 24203  24230  markdown/statblocks/thug.md
+ 24232  24256  markdown/statblocks/tribal_warrior.md
+ 24258  24282  markdown/statblocks/veteran.md -
