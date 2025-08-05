@@ -78,11 +78,11 @@ scan for problems that might need human intervention. Any automatic changes
 will have updated the breakdown file as necessary.
 
 When changing the source by hand and lines are added/removed, use
-`alter_breakdown.sh` to add/subtract line boundaries from a matching
+`alter_lines.sh` to add/subtract line boundaries from a matching
 section onwards:
 
 ```bash
-./alter_breakdown.sh dnd/51/breakdown.txt /black_tentacles -2
+./alter_lines.sh -d dnd/51/ /black_tentacles -2
 ```
 
 ### Fix header progression
