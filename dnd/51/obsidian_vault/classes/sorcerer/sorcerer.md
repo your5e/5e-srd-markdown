@@ -64,7 +64,7 @@ At 1st level, you know four cantrips of your choice from the sorcerer spell list
 
 The Sorcerer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell _Burning Hands_ and have a 1st-level and a 2nd-level spell slot available, you can cast _Burning Hands_ using either slot.
+For example, if you know the 1st-level spell [[burning_hands|Burning Hands]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[burning_hands|Burning Hands]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -161,7 +161,7 @@ When you cast a spell, you can spend 1 sorcery point to cast it without any soma
 
 When you cast a spell that targets only one creature and doesn't have a range of self, you can spend a number of sorcery points equal to the spell's level to target a second creature in range with the same spell (1 sorcery point if the spell is a cantrip).
 
-To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, _Magic Missile_ and _Scorching Ray_ aren't eligible, but _Ray of Frost_ is.
+To be eligible, a spell must be incapable of targeting more than one creature at the spell's current level. For example, [[magic_missile|Magic Missile]] and [[scorching_ray|Scorching Ray]] aren't eligible, but [[ray_of_frost|Ray of Frost]] is.
 
 ### Ability Score Improvement
 
@@ -218,4 +218,4 @@ You can't manifest your wings while wearing armor unless the armor is made to ac
 
 #### Draconic Presence
 
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or [[frightened]]. As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be [[charmed]] (if you chose awe) or frightened (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.

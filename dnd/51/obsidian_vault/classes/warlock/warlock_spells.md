@@ -2,94 +2,94 @@
 
 ## Cantrips (0 Level)
 
-- _Chill Touch_
-- _Eldritch Blast_
-- _Mage Hand_
-- _Minor Illusion_
-- _Poison Spray_
-- _Prestidigitation_
-- _True Strike_
+- [[chill_touch|Chill Touch]]
+- [[eldritch_blast|Eldritch Blast]]
+- [[mage_hand|Mage Hand]]
+- [[minor_illusion|Minor Illusion]]
+- [[poison_spray|Poison Spray]]
+- [[prestidigitation|Prestidigitation]]
+- [[true_strike|True Strike]]
 
 ## 1st Level
 
-- _Charm Person_
-- _Comprehend Languages_
-- _Expeditious Retreat_
-- _Hellish Rebuke_
-- _Illusory Script_
-- _Protection from Evil and Good_
-- _Unseen Servant_
+- [[charm_person|Charm Person]]
+- [[comprehend_languages|Comprehend Languages]]
+- [[expeditious_retreat|Expeditious Retreat]]
+- [[hellish_rebuke|Hellish Rebuke]]
+- [[illusory_script|Illusory Script]]
+- [[protection_from_evil_and_good|Protection from Evil and Good]]
+- [[unseen_servant|Unseen Servant]]
 
 ## 2nd Level
 
-- _Darkness_
-- _Enthrall_
-- _Hold Person_
-- _Invisibility_
-- _Mirror Image_
-- _Misty Step_
-- _Ray of Enfeeblement_
-- _Shatter_
-- _Spider Climb_
-- _Suggestion_
+- [[darkness|Darkness]]
+- [[enthrall|Enthrall]]
+- [[hold_person|Hold Person]]
+- [[invisibility|Invisibility]]
+- [[mirror_image|Mirror Image]]
+- [[misty_step|Misty Step]]
+- [[ray_of_enfeeblement|Ray of Enfeeblement]]
+- [[shatter|Shatter]]
+- [[spider_climb|Spider Climb]]
+- [[suggestion|Suggestion]]
 
 ## 3rd Level
 
-- _Counterspell_
-- _Dispel Magic_
-- _Fear_
-- _Fly_
-- _Gaseous Form_
-- _Hypnotic Pattern_
-- _Magic Circle_
-- _Major Image_
-- _Remove Curse_
-- _Tongues_
-- _Vampiric Touch_
+- [[counterspell|Counterspell]]
+- [[dispel_magic|Dispel Magic]]
+- [[fear|Fear]]
+- [[fly|Fly]]
+- [[gaseous_form|Gaseous Form]]
+- [[hypnotic_pattern|Hypnotic Pattern]]
+- [[magic_circle|Magic Circle]]
+- [[major_image|Major Image]]
+- [[remove_curse|Remove Curse]]
+- [[tongues|Tongues]]
+- [[vampiric_touch|Vampiric Touch]]
 
 ## 4th Level
 
-- _Banishment_
-- _Blight_
-- _Dimension Door_
-- _Hallucinatory Terrain_
+- [[banishment|Banishment]]
+- [[blight|Blight]]
+- [[dimension_door|Dimension Door]]
+- [[hallucinatory_terrain|Hallucinatory Terrain]]
 
 ## 5th Level
 
-- _Contact Other Plane_
-- _Dream_
-- _Hold Monster_
-- _Scrying_
+- [[contact_other_plane|Contact Other Plane]]
+- [[dream|Dream]]
+- [[hold_monster|Hold Monster]]
+- [[scrying|Scrying]]
 
 ## 6th Level
 
-- _Circle of Death_
-- _Conjure Fey_
-- _Create Undead_
-- _Eyebite_
-- _Flesh to Stone_
-- _Mass Suggestion_
-- _True Seeing_
+- [[circle_of_death|Circle of Death]]
+- [[conjure_fey|Conjure Fey]]
+- [[create_undead|Create Undead]]
+- [[eyebite|Eyebite]]
+- [[flesh_to_stone|Flesh to Stone]]
+- [[mass_suggestion|Mass Suggestion]]
+- [[true_seeing|True Seeing]]
 
 ## 7th Level
 
-- _Etherealness_
-- _Finger of Death_
-- _Forcecage_
-- _Plane Shift_
+- [[etherealness|Etherealness]]
+- [[finger_of_death|Finger of Death]]
+- [[forcecage|Forcecage]]
+- [[plane_shift|Plane Shift]]
 
 ## 8th Level
 
-- _Demiplane_
-- _Dominate Monster_
-- _Feeblemind_
-- _Glibness_
-- _Power Word Stun_
+- [[demiplane|Demiplane]]
+- [[dominate_monster|Dominate Monster]]
+- [[feeblemind|Feeblemind]]
+- [[glibness|Glibness]]
+- [[power_word_stun|Power Word Stun]]
 
 ## 9th Level
 
-- _Astral Projection_
-- _Foresight_
-- _Imprisonment_
-- _Power Word Kill_
-- _True Polymorph_
+- [[astral_projection|Astral Projection]]
+- [[foresight|Foresight]]
+- [[imprisonment|Imprisonment]]
+- [[power_word_kill|Power Word Kill]]
+- [[true_polymorph|True Polymorph]]

@@ -24,9 +24,9 @@ _Large celestial, lawful good_
 - _**Divine Awareness.**_ The planetar knows if it hears a lie.
 - _**Innate Spellcasting.**_ The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
 
-    - At will: _Detect Evil and Good_, _Invisibility_ (self only)
-    - 3/day each: _Blade Barrier_, _Dispel Evil and Good_, _Flame Strike_, _Raise Dead_
-    - 1/day each: _Commune_, _Control Weather_, _Insect Plague_
+    - At will: [[detect_evil_and_good|Detect Evil and Good]], [[invisibility|Invisibility]] (self only)
+    - 3/day each: [[blade_barrier|Blade Barrier]], [[dispel_evil_and_good|Dispel Evil and Good]], [[flame_strike|Flame Strike]], [[raise_dead|Raise Dead]]
+    - 1/day each: [[commune|Commune]], [[control_weather|Control Weather]], [[insect_plague|Insect Plague]]
 
 - _**Magic Resistance.**_ The planetar has advantage on saving throws against spells and other magical effects.
 

@@ -23,8 +23,8 @@ _Huge giant, chaotic good_
 - _**Amphibious.**_ The giant can breathe air and water.
 - _**Innate Spellcasting.**_ The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
-    - At will: _Detect Magic_, _Feather Fall_, _Levitate_, _Light_
-    - 3/day each: _Control Weather_, _Water Breathing_
+    - At will: [[detect_magic|Detect Magic]], [[feather_fall|Feather Fall]], [[levitate|Levitate]], [[light|Light]]
+    - 3/day each: [[control_weather|Control Weather]], [[water_breathing|Water Breathing]]
 
 ## Actions
 

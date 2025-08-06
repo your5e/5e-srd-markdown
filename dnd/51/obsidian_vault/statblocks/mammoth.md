@@ -16,11 +16,11 @@ _Huge beast, unaligned_
 
 ## Traits
 
-- _**Trampling Charge.**_ If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
+- _**Trampling Charge.**_ If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked [[prone]]. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
 
 ## Actions
 
 - _**Gore.** Melee Weapon Attack:_ +10 to hit, reach 10 ft., one target. _Hit:_ 25 (4d8 + 7) piercing damage.
-- _**Stomp.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one prone creature. _Hit:_ 29 (4d10 + 7) bludgeoning damage.
+- _**Stomp.** Melee Weapon Attack:_ +10 to hit, reach 5 ft., one [[prone]] creature. _Hit:_ 29 (4d10 + 7) bludgeoning damage.
 
 A **mammoth** is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.

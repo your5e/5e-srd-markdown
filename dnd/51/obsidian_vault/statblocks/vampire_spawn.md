@@ -24,11 +24,11 @@ _Medium undead, neutral evil_
 - _**Vampire Weaknesses.**_ The vampire has the following flaws:
 - _**Forbiddance.**_ The vampire can't enter a residence without an invitation from one of the occupants.
 - _**Harmed by Running Water.**_ The vampire takes 20 acid damage when it ends its turn in running water.
-- _**Stake to the Heart.**_ The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is incapacitated in its resting place.
+- _**Stake to the Heart.**_ The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is [[incapacitated]] in its resting place.
 - _**Sunlight Hypersensitivity.**_ The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
 ## Actions
 
 - _**Multiattack.**_ The vampire makes two attacks, only one of which can be a bite attack.
 - _**Claws.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one creature. _Hit:_ 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
-- _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. _Hit:_ 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+- _**Bite.** Melee Weapon Attack:_ +6 to hit, reach 5 ft., one willing creature, or a creature that is [[grappled]] by the vampire, [[incapacitated]], or [[restrained]]. _Hit:_ 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.

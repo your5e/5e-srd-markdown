@@ -19,7 +19,7 @@ _Small construct, unaligned_
 
 ## Traits
 
-- _**Antimagic Susceptibility.**_ The sword is incapacitated while in the area of an _Antimagic Field_. If targeted by _Dispel Magic_, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
+- _**Antimagic Susceptibility.**_ The sword is [[incapacitated]] while in the area of an [[antimagic_field|Antimagic Field]]. If targeted by [[dispel_magic|Dispel Magic]], the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall [[unconscious]] for 1 minute.
 - _**False Appearance.**_ While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
 
 ## Actions

@@ -20,10 +20,10 @@ _Medium humanoid (any race), any alignment_
 - _**Divine Eminence.**_ As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
 - _**Spellcasting.**_ The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
 
-    - Cantrips (at will): _Light_, _Sacred Flame_, _Thaumaturgy_
-    - 1st level (4 slots): _Cure Wounds_, _Guiding Bolt_, _Sanctuary_
-    - 2nd level (3 slots): _Lesser Restoration_, _Spiritual Weapon_
-    - 3rd level (2 slots): _Dispel Magic_, _Spirit Guardians_
+    - Cantrips (at will): [[light|Light]], [[sacred_flame|Sacred Flame]], [[thaumaturgy|Thaumaturgy]]
+    - 1st level (4 slots): [[cure_wounds|Cure Wounds]], [[guiding_bolt|Guiding Bolt]], [[sanctuary|Sanctuary]]
+    - 2nd level (3 slots): [[lesser_restoration|Lesser Restoration]], [[spiritual_weapon|Spiritual Weapon]]
+    - 3rd level (2 slots): [[dispel_magic|Dispel Magic]], [[spirit_guardians|Spirit Guardians]]
 
 ## Actions
 

@@ -2,142 +2,142 @@
 
 ## Cantrips (0 Level)
 
-- _Dancing Lights_
-- _Light_
-- _Mage Hand_
-- _Mending_
-- _Message_
-- _Minor Illusion_
-- _Prestidigitation_
-- _True Strike_
-- _Vicious Mockery_
+- [[dancing_lights|Dancing Lights]]
+- [[light|Light]]
+- [[mage_hand|Mage Hand]]
+- [[mending|Mending]]
+- [[message|Message]]
+- [[minor_illusion|Minor Illusion]]
+- [[prestidigitation|Prestidigitation]]
+- [[true_strike|True Strike]]
+- [[vicious_mockery|Vicious Mockery]]
 
 ## 1st Level
 
-- _Animal Friendship_
-- _Bane_
-- _Charm Person_
-- _Comprehend Languages_
-- _Cure Wounds_
-- _Detect Magic_
-- _Disguise Self_
-- _Faerie Fire_
-- _Feather Fall_
-- _Healing Word_
-- _Heroism_
-- _Hideous Laughter_
-- _Identify_
-- _Illusory Script_
-- _Longstrider_
-- _Silent Image_
-- _Sleep_
-- _Speak with Animals_
-- _Thunderwave_
-- _Unseen Servant_
+- [[animal_friendship|Animal Friendship]]
+- [[bane|Bane]]
+- [[charm_person|Charm Person]]
+- [[comprehend_languages|Comprehend Languages]]
+- [[cure_wounds|Cure Wounds]]
+- [[detect_magic|Detect Magic]]
+- [[disguise_self|Disguise Self]]
+- [[faerie_fire|Faerie Fire]]
+- [[feather_fall|Feather Fall]]
+- [[healing_word|Healing Word]]
+- [[heroism|Heroism]]
+- [[hideous_laughter|Hideous Laughter]]
+- [[identify|Identify]]
+- [[illusory_script|Illusory Script]]
+- [[longstrider|Longstrider]]
+- [[silent_image|Silent Image]]
+- [[sleep|Sleep]]
+- [[speak_with_animals|Speak with Animals]]
+- [[thunderwave|Thunderwave]]
+- [[unseen_servant|Unseen Servant]]
 
 ## 2nd Level
 
-- _Animal Messenger_
-- _Blindness/Deafness_
-- _Calm Emotions_
-- _Detect Thoughts_
-- _Enhance Ability_
-- _Enthrall_
-- _Heat Metal_
-- _Hold Person_
-- _Invisibility_
-- _Knock_
-- _Lesser Restoration_
-- _Locate Animals or Plants_
-- _Locate Object_
-- _Magic Mouth_
-- _See Invisibility_
-- _Shatter_
-- _Silence_
-- _Suggestion_
-- _Zone of Truth_
+- [[animal_messenger|Animal Messenger]]
+- [[blindness_deafness|Blindness/Deafness]]
+- [[calm_emotions|Calm Emotions]]
+- [[detect_thoughts|Detect Thoughts]]
+- [[enhance_ability|Enhance Ability]]
+- [[enthrall|Enthrall]]
+- [[heat_metal|Heat Metal]]
+- [[hold_person|Hold Person]]
+- [[invisibility|Invisibility]]
+- [[knock|Knock]]
+- [[lesser_restoration|Lesser Restoration]]
+- [[locate_animals_or_plants|Locate Animals or Plants]]
+- [[locate_object|Locate Object]]
+- [[magic_mouth|Magic Mouth]]
+- [[see_invisibility|See Invisibility]]
+- [[shatter|Shatter]]
+- [[silence|Silence]]
+- [[suggestion|Suggestion]]
+- [[zone_of_truth|Zone of Truth]]
 
 ## 3rd Level
 
-- _Bestow Curse_
-- _Clairvoyance_
-- _Dispel Magic_
-- _Fear_
-- _Glyph of Warding_
-- _Hypnotic Pattern_
-- _Major Image_
-- _Nondetection_
-- _Plant Growth_
-- _Sending_
-- _Speak with Dead_
-- _Speak with Plants_
-- _Stinking Cloud_
-- _Tiny Hut_
-- _Tongues_
+- [[bestow_curse|Bestow Curse]]
+- [[clairvoyance|Clairvoyance]]
+- [[dispel_magic|Dispel Magic]]
+- [[fear|Fear]]
+- [[glyph_of_warding|Glyph of Warding]]
+- [[hypnotic_pattern|Hypnotic Pattern]]
+- [[major_image|Major Image]]
+- [[nondetection|Nondetection]]
+- [[plant_growth|Plant Growth]]
+- [[sending|Sending]]
+- [[speak_with_dead|Speak with Dead]]
+- [[speak_with_plants|Speak with Plants]]
+- [[stinking_cloud|Stinking Cloud]]
+- [[tiny_hut|Tiny Hut]]
+- [[tongues|Tongues]]
 
 ## 4th Level
 
-- _Compulsion_
-- _Confusion_
-- _Dimension Door_
-- _Freedom of Movement_
-- _Greater Invisibility_
-- _Hallucinatory Terrain_
-- _Locate Creature_
-- _Polymorph_
+- [[compulsion|Compulsion]]
+- [[confusion|Confusion]]
+- [[dimension_door|Dimension Door]]
+- [[freedom_of_movement|Freedom of Movement]]
+- [[greater_invisibility|Greater Invisibility]]
+- [[hallucinatory_terrain|Hallucinatory Terrain]]
+- [[locate_creature|Locate Creature]]
+- [[polymorph|Polymorph]]
 
 ## 5th Level
 
-- _Animate Objects_
-- _Awaken_
-- _Dominate Person_
-- _Dream_
-- _Geas_
-- _Greater Restoration_
-- _Hold Monster_
-- _Legend Lore_
-- _Mass Cure Wounds_
-- _Mislead_
-- _Modify Memory_
-- _Planar Binding_
-- _Raise Dead_
-- _Scrying_
-- _Seeming_
-- _Teleportation Circle_
+- [[animate_objects|Animate Objects]]
+- [[awaken|Awaken]]
+- [[dominate_person|Dominate Person]]
+- [[dream|Dream]]
+- [[geas|Geas]]
+- [[greater_restoration|Greater Restoration]]
+- [[hold_monster|Hold Monster]]
+- [[legend_lore|Legend Lore]]
+- [[mass_cure_wounds|Mass Cure Wounds]]
+- [[mislead|Mislead]]
+- [[modify_memory|Modify Memory]]
+- [[planar_binding|Planar Binding]]
+- [[raise_dead|Raise Dead]]
+- [[scrying|Scrying]]
+- [[seeming|Seeming]]
+- [[teleportation_circle|Teleportation Circle]]
 
 ## 6th Level
 
-- _Eyebite_
-- _Find the Path_
-- _Guards and Wards_
-- _Irresistible Dance_
-- _Mass Suggestion_
-- _Programmed Illusion_
-- _True Seeing_
+- [[eyebite|Eyebite]]
+- [[find_the_path|Find the Path]]
+- [[guards_and_wards|Guards and Wards]]
+- [[irresistible_dance|Irresistible Dance]]
+- [[mass_suggestion|Mass Suggestion]]
+- [[programmed_illusion|Programmed Illusion]]
+- [[true_seeing|True Seeing]]
 
 ## 7th Level
 
-- _Arcane Sword_
-- _Etherealness_
-- _Forcecage_
-- _Magnificent Mansion_
-- _Mirage Arcane_
-- _Project Image_
-- _Regenerate_
-- _Resurrection_
-- _Symbol_
-- _Teleport_
+- [[arcane_sword|Arcane Sword]]
+- [[etherealness|Etherealness]]
+- [[forcecage|Forcecage]]
+- [[magnificent_mansion|Magnificent Mansion]]
+- [[mirage_arcane|Mirage Arcane]]
+- [[project_image|Project Image]]
+- [[regenerate|Regenerate]]
+- [[resurrection|Resurrection]]
+- [[symbol|Symbol]]
+- [[teleport|Teleport]]
 
 ## 8th Level
 
-- _Dominate Monster_
-- _Feeblemind_
-- _Glibness_
-- _Mind Blank_
-- _Power Word Stun_
+- [[dominate_monster|Dominate Monster]]
+- [[feeblemind|Feeblemind]]
+- [[glibness|Glibness]]
+- [[mind_blank|Mind Blank]]
+- [[power_word_stun|Power Word Stun]]
 
 ## 9th Level
 
-- _Foresight_
-- _Power Word Kill_
-- _True Polymorph_
+- [[foresight|Foresight]]
+- [[power_word_kill|Power Word Kill]]
+- [[true_polymorph|True Polymorph]]

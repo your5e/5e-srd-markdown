@@ -17,7 +17,10 @@
 }
 
 @test "check for vault changes" {
-    run python update_vault.py dnd/51/markdown dnd/51/obsidian_vault
+    run python update_vault.py \
+            --ignore dnd/51/ignore_vault.txt \
+                dnd/51/markdown \
+                dnd/51/obsidian_vault
     [ "$status" -eq 0 ]
 }
 

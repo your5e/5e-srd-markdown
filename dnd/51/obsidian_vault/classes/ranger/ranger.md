@@ -107,7 +107,7 @@ By the time you reach 2nd level, you have learned to use the magical essence of 
 
 The Ranger table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell _Animal Friendship_ and have a 1st-level and a 2nd-level spell slot available, you can cast _Animal Friendship_ using either slot.
+For example, if you know the 1st-level spell [[animal_friendship|Animal Friendship]] and have a 1st-level and a 2nd-level spell slot available, you can cast [[animal_friendship|Animal Friendship]] using either slot.
 
 #### Spells Known of 1st Level and Higher
 
@@ -144,7 +144,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the _Entangle_ spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the [[entangle|Entangle]] spell.
 
 ### Hide in Plain Sight
 
@@ -160,7 +160,7 @@ Starting at 14th level, you can use the Hide action as a bonus action on your tu
 
 At 18th level, you gain preternatural senses that help you fight creatures you can't see. When you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
 
-You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't blinded or deafened.
+You are also aware of the location of any [[invisible]] creature within 30 feet of you, provided that the creature isn't hidden from you and you aren't [[blinded]] or [[deafened]].
 
 ### Foe Slayer
 
@@ -188,7 +188,7 @@ At 7th level, you gain one of the following features of your choice.
 
 - _**Escape the Horde.**_ Opportunity attacks against you are made with disadvantage.
 - _**Multiattack Defense.**_ When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
-- _**Steel Will.**_ You have advantage on saving throws against being frightened.
+- _**Steel Will.**_ You have advantage on saving throws against being [[frightened]].
 
 #### Multiattack
 
@@ -201,6 +201,6 @@ At 11th level, you gain one of the following features of your choice.
 
 At 15th level, you gain one of the following features of your choice.
 
-- _**Evasion.**_ When you are subjected to an effect, such as a red dragon's fiery breath or a _Lightning Bolt_ spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+- _**Evasion.**_ When you are subjected to an effect, such as a red dragon's fiery breath or a [[lightning_bolt|Lightning Bolt]] spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 - _**Stand Against the Tide.**_ When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
 - _**Uncanny Dodge.**_ When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack's damage against you.

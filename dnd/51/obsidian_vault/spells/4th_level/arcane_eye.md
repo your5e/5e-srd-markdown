@@ -7,7 +7,7 @@ _4th-level divination_
 - **Components:** V, S, M (a bit of bat fur)
 - **Duration:** Concentration, up to 1 hour
 
-You create an invisible, magical eye within range that hovers in the air for the duration.
+You create an [[invisible]], magical eye within range that hovers in the air for the duration.
 
 You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.
 

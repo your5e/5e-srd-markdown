@@ -24,22 +24,22 @@ _Large monstrosity, lawful neutral_
 - _**Magic Weapons.**_ The sphinx's weapon attacks are magical.
 - _**Spellcasting.**_ The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
 
-    - Cantrips (at will): _Sacred Flame_, _Spare the Dying_, _Thaumaturgy_
-    - 1st level (4 slots): _Command_, _Detect Evil and Good_, _Detect Magic_
-    - 2nd level (3 slots): _Lesser Restoration_, _Zone of Truth_
-    - 3rd level (3 slots): _Dispel Magic_, _Tongues_
-    - 4th level (3 slots): _Banishment_, _Freedom of Movement_
-    - 5th level (2 slots): _Flame Strike_, _Greater Restoration_
-    - 6th level (1 slot): _Heroes' Feast_
+    - Cantrips (at will): [[sacred_flame|Sacred Flame]], [[spare_the_dying|Spare the Dying]], [[thaumaturgy|Thaumaturgy]]
+    - 1st level (4 slots): [[command|Command]], [[detect_evil_and_good|Detect Evil and Good]], [[detect_magic|Detect Magic]]
+    - 2nd level (3 slots): [[lesser_restoration|Lesser Restoration]], [[zone_of_truth|Zone of Truth]]
+    - 3rd level (3 slots): [[dispel_magic|Dispel Magic]], [[tongues|Tongues]]
+    - 4th level (3 slots): [[banishment|Banishment]], [[freedom_of_movement|Freedom of Movement]]
+    - 5th level (2 slots): [[flame_strike|Flame Strike]], [[greater_restoration|Greater Restoration]]
+    - 6th level (1 slot): [[heroes__feast|Heroes' Feast]]
 
 ## Actions
 
 - _**Multiattack.**_ The sphinx makes two claw attacks.
 - _**Claw.** Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ 17 (2d10 + 6) slashing damage.
 - _**Roar (3/Day).**_ The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
-    - **First Roar.** Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-    - **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-    - **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
+    - **First Roar.** Each creature that fails a DC 18 Wisdom saving throw is [[frightened]] for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+    - **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is [[deafened]] and [[frightened]] for 1 minute. A frightened creature is [[paralyzed]] and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+    - **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked [[prone]]. On a successful save, the creature takes half as much damage and isn't knocked prone.
 
 ## Legendary Actions
 

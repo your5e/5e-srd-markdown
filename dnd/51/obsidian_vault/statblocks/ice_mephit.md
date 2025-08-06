@@ -22,7 +22,7 @@ _Small elemental, neutral evil_
 
 - _**Death Burst.**_ When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
 - _**False Appearance.**_ While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.
-- _**Innate Spellcasting (1/Day).**_ The mephit can innately cast _Fog Cloud_, requiring no material components. Its innate spellcasting ability is Charisma.
+- _**Innate Spellcasting (1/Day).**_ The mephit can innately cast [[fog_cloud|Fog Cloud]], requiring no material components. Its innate spellcasting ability is Charisma.
 
 ## Actions
 

@@ -18,7 +18,7 @@ If you take an action that includes more than one weapon attack, you can break u
 
 If you have more than one speed, such as your walking speed and a flying speed, you can switch back and forth between your speeds during your move. Whenever you switch, subtract the distance you've already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can't use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the _Fly_ spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a wizard cast the [[fly|Fly]] spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 ## Difficult Terrain
 
@@ -30,13 +30,13 @@ Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are exa
 
 ## Being Prone
 
-Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are prone, a condition described in appendix PH-A.
+Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are [[prone]], a condition described in appendix PH-A.
 
-You can **drop prone** without using any of your speed. **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed.
+You can **drop [[prone]]** without using any of your speed. **Standing up** takes more effort; doing so costs an amount of movement equal to half your speed.
 
 For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
 
-To move while prone, you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
+To move while [[prone]], you must **crawl** or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 
 ## Interacting with Objects Around You
 
@@ -74,7 +74,7 @@ If you leave a hostile creature's reach during your move, you provoke an opportu
 
 ## Flying Movement
 
-Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the _Fly_ spell.
+Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [[prone]], has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [[fly|Fly]] spell.
 
 ## Creature Size
 

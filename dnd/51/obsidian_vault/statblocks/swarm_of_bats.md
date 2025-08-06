@@ -18,7 +18,7 @@ _Medium swarm of Tiny beasts, unaligned_
 
 ## Traits
 
-- _**Echolocation.**_ The swarm can't use its blindsight while deafened.
+- _**Echolocation.**_ The swarm can't use its blindsight while [[deafened]].
 - _**Keen Hearing.**_ The swarm has advantage on Wisdom (Perception) checks that rely on hearing.
 - _**Swarm.**_ The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
 

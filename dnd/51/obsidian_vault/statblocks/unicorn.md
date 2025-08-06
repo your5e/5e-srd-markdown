@@ -18,11 +18,11 @@ _Large celestial, lawful good_
 
 ## Traits
 
-- _**Charge.**_ If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+- _**Charge.**_ If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [[prone]].
 - _**Innate Spellcasting.**_ The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:
 
-    - At will: _Detect Evil and Good_, _Druidcraft_, _Pass Without Trace_
-    - 1/day each: _Calm Emotions_, _Dispel Evil and Good_, _Entangle_
+    - At will: [[detect_evil_and_good|Detect Evil and Good]], [[druidcraft|Druidcraft]], [[pass_without_trace|Pass Without Trace]]
+    - 1/day each: [[calm_emotions|Calm Emotions]], [[dispel_evil_and_good|Dispel Evil and Good]], [[entangle|Entangle]]
 
 - _**Magic Resistance.**_ The unicorn has advantage on saving throws against spells and other magical effects.
 - _**Magic Weapons.**_ The unicorn's weapon attacks are magical.

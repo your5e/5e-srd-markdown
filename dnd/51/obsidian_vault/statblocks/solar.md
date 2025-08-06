@@ -25,9 +25,9 @@ _Large celestial, lawful good_
 - _**Divine Awareness.**_ The solar knows if it hears a lie.
 - _**Innate Spellcasting.**_ The solar's spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:
 
-    - At will: _Detect Evil and Good_, _Invisibility_ (self only)
-    - 3/day each: _Blade Barrier_, _Dispel Evil and Good_, _Resurrection_
-    - 1/day each: _Commune_, _Control Weather_
+    - At will: [[detect_evil_and_good|Detect Evil and Good]], [[invisibility|Invisibility]] (self only)
+    - 3/day each: [[blade_barrier|Blade Barrier]], [[dispel_evil_and_good|Dispel Evil and Good]], [[resurrection|Resurrection]]
+    - 1/day each: [[commune|Commune]], [[control_weather|Control Weather]]
 
 - _**Magic Resistance.**_ The solar has advantage on saving throws against spells and other magical effects.
 
@@ -45,4 +45,4 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 
 - **Teleport.** The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 - **Searing Burst (Costs 2 Actions).** The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
-- **Blinding Gaze (Costs 3 Actions).** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the _Lesser Restoration_ spell removes the blindness.
+- **Blinding Gaze (Costs 3 Actions).** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be [[blinded]] until magic such as the [[lesser_restoration|Lesser Restoration]] spell removes the blindness.

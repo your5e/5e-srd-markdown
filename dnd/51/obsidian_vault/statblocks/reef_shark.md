@@ -17,7 +17,7 @@ _Medium beast, unaligned_
 
 ## Traits
 
-- _**Pack Tactics.**_ The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated.
+- _**Pack Tactics.**_ The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't [[incapacitated]].
 - _**Water Breathing.**_ The shark can breathe only underwater.
 
 ## Actions

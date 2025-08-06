@@ -4,7 +4,7 @@ In a typical campaign, characters aren't driven mad by the horrors they face and
 
 ## Going Mad
 
-Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as _Contact Other Plane_ and _Symbol_, can cause insanity, and you can use the madness rules here instead of the spell effects of those spells_._ Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
+Various magical effects can inflict madness on an otherwise stable mind. Certain spells, such as [[contact_other_plane|Contact Other Plane]] and [[symbol|Symbol]], can cause insanity, and you can use the madness rules here instead of the spell effects of those spells_._ Diseases, poisons, and planar effects such as psychic wind or the howling winds of Pandemonium can all inflict madness. Some artifacts can also break the psyche of a character who uses or becomes attuned to them.
 
 Resisting a madness-inducing effect usually requires a Wisdom or Charisma saving throw.
 
@@ -22,16 +22,16 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 | d100   | Effect (lasts 1d10 minutes)                                                                                                  |
 |--------|------------------------------------------------------------------------------------------------------------------------------|
-| 01–20  | The character retreats into his or her mind and becomes paralyzed. The effect ends if the character takes any damage.        |
-| 21–30  | The character becomes incapacitated and spends the duration screaming, laughing, or weeping.                                 |
-| 31–40  | The character becomes frightened and must use his or her action and movement each round to flee from the source of the fear. |
+| 01–20  | The character retreats into his or her mind and becomes [[paralyzed]]. The effect ends if the character takes any damage.        |
+| 21–30  | The character becomes [[incapacitated]] and spends the duration screaming, laughing, or weeping.                                 |
+| 31–40  | The character becomes [[frightened]] and must use his or her action and movement each round to flee from the source of the fear. |
 | 41–50  | The character begins babbling and is incapable of normal speech or spellcasting.                                             |
 | 51–60  | The character must use his or her action each round to attack the nearest creature.                                          |
 | 61–70  | The character experiences vivid hallucinations and has disadvantage on ability checks.                                       |
 | 71–75  | The character does whatever anyone tells him or her to do that isn't obviously self destructive.                             |
 | 76–80  | The character experiences an overpowering urge to eat something strange such as dirt, slime, or offal.                       |
-| 81–90  | The character is stunned.                                                                                                    |
-| 91–100 | The character falls unconscious.                                                                                             |
+| 81–90  | The character is [[stunned]].                                                                                                    |
+| 91–100 | The character falls [[unconscious]].                                                                                             |
 
 ### Long-Term Madness
 
@@ -43,12 +43,12 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 | 31–40  | The character regards something (usually the source of madness) with intense revulsion, as if affected by the antipathy effect of the antipathy/sympathy spell.                                                                      |
 | 41–45  | The character experiences a powerful delusion. Choose a potion. The character imagines that he or she is under its effects.                                                                                                          |
 | 46–55  | The character becomes attached to a "lucky charm," such as a person or an object, and has disadvantage on attack rolls, ability checks, and saving throws while more than 30 feet from it.                                           |
-| 56–65  | The character is blinded (25%) or deafened (75%).                                                                                                                                                                                    |
+| 56–65  | The character is [[blinded]] (25%) or [[deafened]] (75%).                                                                                                                                                                                    |
 | 66–75  | The character experiences uncontrollable tremors or tics, which impose disadvantage on attack rolls, ability checks, and saving throws that involve Strength or Dexterity.                                                           |
 | 76–85  | The character suffers from partial amnesia. The character knows who he or she is and retains racial traits and class features, but doesn't recognize other people or remember anything that happened before the madness took effect. |
 | 86–90  | Whenever the character takes damage, he or she must succeed on a DC 15 Wisdom saving throw or be affected as though he or she failed a saving throw against the confusion spell. The confusion effect lasts for 1 minute.            |
 | 91–95  | The character loses the ability to speak.                                                                                                                                                                                            |
-| 96–100 | The character falls unconscious. No amount of jostling or damage can wake the character.                                                                                                                                             |
+| 96–100 | The character falls [[unconscious]]. No amount of jostling or damage can wake the character.                                                                                                                                             |
 
 ### Indefinite Madness
 
@@ -69,4 +69,4 @@ A character afflicted with **indefinite madness** gains a new character flaw fro
 
 ## Curing Madness
 
-A _Calm Emotions_ spell can suppress the effects of madness, while a _Lesser Restoration_ spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, _Remove Curse_ or _dispel evil_ might also prove effective. A _Greater Restoration_ spell or more powerful magic is required to rid a character of indefinite madness.
+A [[calm_emotions|Calm Emotions]] spell can suppress the effects of madness, while a [[lesser_restoration|Lesser Restoration]] spell can rid a character of a short-term or long-term madness. Depending on the source of the madness, [[remove_curse|Remove Curse]] or _dispel evil_ might also prove effective. A [[greater_restoration|Greater Restoration]] spell or more powerful magic is required to rid a character of indefinite madness.

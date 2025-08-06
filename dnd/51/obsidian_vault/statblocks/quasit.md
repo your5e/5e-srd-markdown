@@ -25,6 +25,6 @@ _Tiny fiend (demon, shapechanger), chaotic evil_
 
 ## Actions
 
-- _**Claws (Bite in Beast Form).** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-- _**Scare (1/Day).**_ One creature of the quasit's choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.
-- _**Invisibility.**_ The quasit magically turns invisible until it attacks or uses Scare, or until its concentration ends (as if concentrating on a spell). Any equipment the quasit wears or carries is invisible with it.
+- _**Claws (Bite in Beast Form).** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become [[poisoned]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+- _**Scare (1/Day).**_ One creature of the quasit's choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be [[frightened]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success.
+- _**Invisibility.**_ The quasit magically turns [[invisible]] until it attacks or uses Scare, or until its concentration ends (as if concentrating on a spell). Any equipment the quasit wears or carries is invisible with it.

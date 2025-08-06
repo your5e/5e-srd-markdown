@@ -21,7 +21,7 @@ _Large fiend (demon), chaotic evil_
 ## Traits
 
 - _**Magic Resistance.**_ The hezrou has advantage on saving throws against spells and other magical effects.
-- _**Stench.**_ Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
+- _**Stench.**_ Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be [[poisoned]] until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
 
 ## Actions
 

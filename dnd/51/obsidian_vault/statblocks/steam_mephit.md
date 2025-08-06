@@ -19,7 +19,7 @@ _Small elemental, neutral evil_
 ## Traits
 
 - _**Death Burst.**_ When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage.
-- _**Innate Spellcasting (1/Day).**_ The mephit can innately cast _Blur_, requiring no material components. Its innate spellcasting ability is Charisma.
+- _**Innate Spellcasting (1/Day).**_ The mephit can innately cast [[blur|Blur]], requiring no material components. Its innate spellcasting ability is Charisma.
 
 ## Actions
 

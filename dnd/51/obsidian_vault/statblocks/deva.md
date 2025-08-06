@@ -23,8 +23,8 @@ _Medium celestial, lawful good_
 - _**Angelic Weapons.**_ The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).
 - _**Innate Spellcasting.**_ The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:
 
-    - At will: _Detect Evil and Good_
-    - 1/day each: _Commune_, _Raise Dead_
+    - At will: [[detect_evil_and_good|Detect Evil and Good]]
+    - 1/day each: [[commune|Commune]], [[raise_dead|Raise Dead]]
 
 - _**Magic Resistance.**_ The deva has advantage on saving throws against spells and other magical effects.
 

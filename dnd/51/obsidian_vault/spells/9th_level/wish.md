@@ -14,7 +14,7 @@ The basic use of this spell is to duplicate any other spell of 8th level or lowe
 Alternatively, you can create one of the following effects of your choice:
 
 - You create one object of up to 25,000 gp in value that isn't a magic item. The object can be no more than 300 feet in any dimension, and it appears in an unoccupied space you can see on the ground.
-- You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the _Greater Restoration_ spell.
+- You allow up to twenty creatures that you can see to regain all hit points, and you end all effects on them described in the [[greater_restoration|Greater Restoration]] spell.
 - You grant up to ten creatures that you can see resistance to a damage type you choose.
 - You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich's life drain attack.
 - You undo a single recent event by forcing a reroll of any roll made within the last round (including your last turn). Reality reshapes itself to accommodate the new result. For example, a _Wish_ spell could undo an opponent's successful save, a foe's critical hit, or a friend's failed save. You can force the reroll to be made with advantage or disadvantage, and you can choose whether to use the reroll or the original roll.

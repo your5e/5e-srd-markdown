@@ -17,7 +17,7 @@ _Medium beast, unaligned_
 ## Traits
 
 - _**Beast of Burden.**_ The mule is considered to be a Large animal for the purpose of determining its carrying capacity.
-- _**Sure-Footed.**_ The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
+- _**Sure-Footed.**_ The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it [[prone]].
 
 ## Actions
 

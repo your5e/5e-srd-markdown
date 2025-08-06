@@ -20,10 +20,10 @@ _Small elemental, neutral evil_
 
 ## Traits
 
-- _**Death Burst.**_ When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
-- _**Innate Spellcasting (1/Day).**_ The mephit can innately cast _Sleep_, requiring no material components. Its innate spellcasting ability is Charisma.
+- _**Death Burst.**_ When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be [[blinded]] for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success.
+- _**Innate Spellcasting (1/Day).**_ The mephit can innately cast [[sleep|Sleep]], requiring no material components. Its innate spellcasting ability is Charisma.
 
 ## Actions
 
 - _**Claws.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 4 (1d4 + 2) slashing damage.
-- _**Blinding Breath (Recharge 6).**_ The mephit exhales a 15 foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+- _**Blinding Breath (Recharge 6).**_ The mephit exhales a 15 foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be [[blinded]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

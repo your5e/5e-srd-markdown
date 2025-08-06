@@ -26,4 +26,4 @@ _Large elemental, neutral evil_
 
 - _**Multiattack.**_ The salamander makes two attacks: one with its spear and one with its tail.
 - _**Spear.** Melee or Ranged Weapon Attack:_ +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
-- _**Tail.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+- _**Tail.** Melee Weapon Attack:_ +7 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is [[grappled]] (escape DC 14). Until this grapple ends, the target is [[restrained]], the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.

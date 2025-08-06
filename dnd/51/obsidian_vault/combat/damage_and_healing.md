@@ -1,6 +1,6 @@
 # Damage and Healing
 
-Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed arrow, or a blast of flame from a _Fireball_ spell all have the potential to damage, or even kill, the hardiest of creatures.
+Injury and the risk of death are constant companions of those who explore fantasy gaming worlds. The thrust of a sword, a well-placed arrow, or a blast of flame from a [[fireball|Fireball]] spell all have the potential to damage, or even kill, the hardiest of creatures.
 
 ## Hit Points
 
@@ -16,7 +16,7 @@ Each weapon, spell, and harmful monster ability specifies the damage it deals. Y
 
 When attacking with a **weapon**, you add your ability modifier — the same modifier used for the attack roll — to the damage. A **spell** tells you which dice to roll for damage and whether to add any modifiers.
 
-If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts _Fireball_ or a cleric casts _Flame Strike_, the spell's damage is rolled once for all creatures caught in the blast.
+If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them. For example, when a wizard casts [[fireball|Fireball]] or a cleric casts [[flame_strike|Flame Strike]], the spell's damage is rolled once for all creatures caught in the blast.
 
 ### Critical Hits
 
@@ -34,15 +34,15 @@ The damage types follow, with examples to help a GM assign a damage type to a ne
 - _**Bludgeoning.**_ Blunt force attacks — hammers, falling, constriction, and the like — deal bludgeoning damage.
 - _**Cold.**_ The infernal chill radiating from an ice devil's spear and the frigid blast of a white dragon's breath deal cold damage.
 - _**Fire.**_ Red dragons breathe fire, and many spells conjure flames to deal fire damage.
-- _**Force.**_ Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including _Magic Missile_ and _Spiritual Weapon_.
-- _**Lightning.**_ A _Lightning Bolt_ spell and a blue dragon's breath deal lightning damage.
-- _**Necrotic.**_ Necrotic damage, dealt by certain undead and a spell such as _Chill Touch_, withers matter and even the soul.
+- _**Force.**_ Force is pure magical energy focused into a damaging form. Most effects that deal force damage are spells, including [[magic_missile|Magic Missile]] and [[spiritual_weapon|Spiritual Weapon]].
+- _**Lightning.**_ A [[lightning_bolt|Lightning Bolt]] spell and a blue dragon's breath deal lightning damage.
+- _**Necrotic.**_ Necrotic damage, dealt by certain undead and a spell such as [[chill_touch|Chill Touch]], withers matter and even the soul.
 - _**Piercing.**_ Puncturing and impaling attacks, including spears and monsters' bites, deal piercing damage.
 - _**Poison.**_ Venomous stings and the toxic gas of a green dragon's breath deal poison damage.
 - _**Psychic.**_ Mental abilities such as a mind flayer's psionic blast deal psychic damage.
-- _**Radiant.**_ Radiant damage, dealt by a cleric's _Flame Strike_ spell or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power.
+- _**Radiant.**_ Radiant damage, dealt by a cleric's [[flame_strike|Flame Strike]] spell or an angel's smiting weapon, sears the flesh like fire and overloads the spirit with power.
 - _**Slashing.**_ Swords, axes, and monsters' claws deal slashing damage.
-- _**Thunder.**_ A concussive burst of sound, such as the effect of the _Thunderwave_ spell, deals thunder damage.
+- _**Thunder.**_ A concussive burst of sound, such as the effect of the [[thunderwave|Thunderwave]] spell, deals thunder damage.
 
 ## Damage Resistance and Vulnerability
 
@@ -56,15 +56,15 @@ Multiple instances of resistance or vulnerability that affect the same damage ty
 
 ## Healing
 
-Unless it results in death, damage isn't permanent. Even death is reversible through powerful magic. Rest can restore a creature's hit points, and magical methods such as a _Cure Wounds_ spell or a _Potion of Healing_ can remove damage in an instant.
+Unless it results in death, damage isn't permanent. Even death is reversible through powerful magic. Rest can restore a creature's hit points, and magical methods such as a [[cure_wounds|Cure Wounds]] spell or a _Potion of Healing_ can remove damage in an instant.
 
 When a creature receives healing of any kind, hit points regained are added to its current hit points. A creature's hit points can't exceed its hit point maximum, so any hit points regained in excess of this number are lost. For example, a druid grants a ranger 8 hit points of healing. If the ranger has 14 current hit points and has a hit point maximum of 20, the ranger regains 6 hit points from the druid, not 8.
 
-A creature that has died can't regain hit points until magic such as the _Revivify_ spell has restored it to life.
+A creature that has died can't regain hit points until magic such as the [[revivify|Revivify]] spell has restored it to life.
 
 ## Dropping to 0 Hit Points
 
-When you drop to 0 hit points, you either die outright or fall unconscious, as explained in the following sections.
+When you drop to 0 hit points, you either die outright or fall [[unconscious]], as explained in the following sections.
 
 ### Instant Death
 
@@ -74,7 +74,7 @@ For example, a cleric with a maximum of 12 hit points currently has 6 hit points
 
 ### Falling Unconscious
 
-If damage reduces you to 0 hit points and fails to kill you, you fall unconscious (see appendix PH-A). This unconsciousness ends if you regain any hit points.
+If damage reduces you to 0 hit points and fails to kill you, you fall [[unconscious]] (see appendix PH-A). This unconsciousness ends if you regain any hit points.
 
 ### Death Saving Throws
 
@@ -89,19 +89,19 @@ Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A suc
 
 The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn't killed by a failed death saving throw.
 
-You can use your action to administer first aid to an unconscious creature and attempt to stabilize it, which requires a successful DC 10 Wisdom (Medicine) check.
+You can use your action to administer first aid to an [[unconscious]] creature and attempt to stabilize it, which requires a successful DC 10 Wisdom (Medicine) check.
 
-A **stable** creature doesn't make death saving throws, even though it has 0 hit points, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after 1d4 hours.
+A **stable** creature doesn't make death saving throws, even though it has 0 hit points, but it does remain [[unconscious]]. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after 1d4 hours.
 
 ### Monsters and Death
 
-Most GMs have a monster die the instant it drops to 0 hit points, rather than having it fall unconscious and make death saving throws.
+Most GMs have a monster die the instant it drops to 0 hit points, rather than having it fall [[unconscious]] and make death saving throws.
 
-Mighty villains and special nonplayer characters are common exceptions; the GM might have them fall unconscious and follow the same rules as player characters.
+Mighty villains and special nonplayer characters are common exceptions; the GM might have them fall [[unconscious]] and follow the same rules as player characters.
 
 ## Knocking a Creature Out
 
-Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls unconscious and is stable.
+Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow. When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out. The attacker can make this choice the instant the damage is dealt. The creature falls [[unconscious]] and is stable.
 
 ## Temporary Hit Points
 

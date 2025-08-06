@@ -4,7 +4,7 @@ By its nature, adventuring involves delving into places that are dark, dangerous
 
 ## Falling
 
-A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
+A fall from a great height is one of the most common hazards facing an adventurer. At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands [[prone]], unless it avoids taking damage from the fall.
 
 ## Suffocating
 
@@ -20,7 +20,7 @@ The most fundamental tasks of adventuring noticing danger, finding hidden object
 
 A given area might be lightly or heavily obscured. In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
 
-A **heavily obscured** area — such as darkness, opaque fog, or dense foliage — blocks vision entirely. A creature effectively suffers from the blinded condition (see appendix PH-A) when trying to see something in that area.
+A **heavily obscured** area — such as darkness, opaque fog, or dense foliage — blocks vision entirely. A creature effectively suffers from the [[blinded]] condition (see appendix PH-A) when trying to see something in that area.
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
@@ -38,11 +38,11 @@ Many creatures in fantasy gaming worlds, especially those that dwell underground
 
 ### Truesight
 
-A creature with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
+A creature with truesight can, out to a specific range, see in normal and magical darkness, see [[invisible]] creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
 
 ## Food and Water
 
-Characters who don't eat or drink suffer the effects of exhaustion (see appendix PH-A). Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
+Characters who don't eat or drink suffer the effects of [[exhaustion]] (see appendix PH-A). Exhaustion caused by lack of food or water can't be removed until the character eats and drinks the full required amount.
 
 ### Food
 
@@ -50,15 +50,15 @@ A character needs one pound of food per day and can make food last longer by sub
 
 Eating half a pound of food in a day counts as half a day without food.
 
-A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of exhaustion.
+A character can go without food for a number of days equal to 3 + his or her Constitution modifier (minimum 1). At the end of each day beyond that limit, a character automatically suffers one level of [[exhaustion]].
 
 A normal day of eating resets the count of days without food to zero.
 
 ### Water
 
-A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of exhaustion at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
+A character needs one gallon of water per day, or two gallons per day if the weather is hot. A character who drinks only half that much water must succeed on a DC 15 Constitution saving throw or suffer one level of [[exhaustion]] at the end of the day. A character with access to even less water automatically suffers one level of exhaustion at the end of the day.
 
-If the character already has one or more levels of exhaustion, the character takes two levels in either case.
+If the character already has one or more levels of [[exhaustion]], the character takes two levels in either case.
 
 ## Interacting with Objects
 

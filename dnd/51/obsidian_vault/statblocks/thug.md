@@ -17,7 +17,7 @@ _Medium humanoid (any race), any non-good alignment_
 
 ## Traits
 
-- _**Pack Tactics.**_ The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated.
+- _**Pack Tactics.**_ The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't [[incapacitated]].
 
 ## Actions
 

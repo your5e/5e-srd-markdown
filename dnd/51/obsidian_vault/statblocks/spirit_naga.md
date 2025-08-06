@@ -19,15 +19,15 @@ _Large monstrosity, chaotic evil_
 
 ## Traits
 
-- _**Rejuvenation.**_ If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a _Wish_ spell can prevent this trait from functioning.
+- _**Rejuvenation.**_ If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a [[wish|Wish]] spell can prevent this trait from functioning.
 - _**Spellcasting.**_ The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
 
-    - Cantrips (at will): _Mage Hand_, _Minor Illusion_, _Ray of Frost_
-    - 1st level (4 slots): _Charm Person_, _Detect Magic_, _Sleep_
-    - 2nd level (3 slots): _Detect Thoughts_, _Hold Person_
-    - 3rd level (3 slots): _Lightning Bolt_, _Water Breathing_
-    - 4th level (3 slots): _Blight_, _Dimension Door_
-    - 5th level (2 slots): _Dominate Person_
+    - Cantrips (at will): [[mage_hand|Mage Hand]], [[minor_illusion|Minor Illusion]], [[ray_of_frost|Ray of Frost]]
+    - 1st level (4 slots): [[charm_person|Charm Person]], [[detect_magic|Detect Magic]], [[sleep|Sleep]]
+    - 2nd level (3 slots): [[detect_thoughts|Detect Thoughts]], [[hold_person|Hold Person]]
+    - 3rd level (3 slots): [[lightning_bolt|Lightning Bolt]], [[water_breathing|Water Breathing]]
+    - 4th level (3 slots): [[blight|Blight]], [[dimension_door|Dimension Door]]
+    - 5th level (2 slots): [[dominate_person|Dominate Person]]
 
 ## Actions
 

@@ -17,11 +17,11 @@ _Large monstrosity, chaotic evil_
 
 ## Traits
 
-- _**Fey Ancestry.**_ The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.
+- _**Fey Ancestry.**_ The drider has advantage on saving throws against being [[charmed]], and magic can't put the drider to sleep.
 - _**Innate Spellcasting.**_ The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
 
-    - At will: _Dancing Lights_
-    - 1/day each: _Darkness_, _Faerie Fire_
+    - At will: [[dancing_lights|Dancing Lights]]
+    - 1/day each: [[darkness|Darkness]], [[faerie_fire|Faerie Fire]]
 
 - _**Spider Climb.**_ The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 - _**Sunlight Sensitivity.**_ While in sunlight, the drider has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.

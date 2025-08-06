@@ -22,9 +22,9 @@ Certain spells (including spells cast as rituals) require more time to cast: min
 
 ## Range
 
-The target of a spell must be within the spell's range. For a spell like _Magic Missile_, the target is a creature. For a spell like _Fireball_, the target is the point in space where the ball of fire erupts.
+The target of a spell must be within the spell's range. For a spell like [[magic_missile|Magic Missile]], the target is a creature. For a spell like [[fireball|Fireball]], the target is the point in space where the ball of fire erupts.
 
-Most spells have ranges expressed in feet. Some spells can target only a creature (including you) that you touch. Other spells, such as the _Shield_ spell, affect only you. These spells have a range of self.
+Most spells have ranges expressed in feet. Some spells can target only a creature (including you) that you touch. Other spells, such as the [[shield|Shield]] spell, affect only you. These spells have a range of self.
 
 Spells that create cones or lines of effect that originate from you also have a range of self, indicating that the origin point of the spell's effect must be you (see "Areas of Effect").
 
@@ -36,7 +36,7 @@ A spell's components are the physical requirements you must meet in order to cas
 
 ### Verbal (V)
 
-Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the _Silence_ spell, can't cast a spell with a verbal component.
+Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the [[silence|Silence]] spell, can't cast a spell with a verbal component.
 
 ### Somatic (S)
 
@@ -68,7 +68,7 @@ Normal activity, such as moving and attacking, doesn't interfere with concentrat
 
 - **Casting another spell that requires concentration.** You lose concentration on a spell if you cast another spell that requires concentration. You can't concentrate on two spells at once.
 - **Taking damage.** Whenever you take damage while you are concentrating on a spell, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.
-- **Being incapacitated or killed.** You lose concentration on a spell if you are incapacitated or if you die.
+- **Being [[incapacitated]] or killed.** You lose concentration on a spell if you are incapacitated or if you die.
 
 The GM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain concentration on a spell.
 
@@ -90,7 +90,7 @@ If a spell targets a creature of your choice, you can choose yourself, unless th
 
 ## Areas of Effect
 
-Spells such as _Burning Hands_ and _Cone of Cold_ cover an area, allowing them to affect multiple creatures at once.
+Spells such as [[burning_hands|Burning Hands]] and [[cone_of_cold|Cone of Cold]] cover an area, allowing them to affect multiple creatures at once.
 
 A spell's description specifies its area of effect, which typically has one of five different shapes: cone, cube, cylinder, line, or sphere. Every area of effect has a **point of origin**, a location from which the spell's energy erupts. The rules for each shape specify how you position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or an object.
 
@@ -136,4 +136,4 @@ The DC to resist one of your spells equals 8 + your spellcasting ability modifie
 
 Some spells require the caster to make an attack roll to determine whether the spell effect hits the intended target. Your attack bonus with a spell attack equals your spellcasting ability modifier + your proficiency bonus.
 
-Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't incapacitated.
+Most spells that require attack rolls involve ranged attacks. Remember that you have disadvantage on a ranged attack roll if you are within 5 feet of a hostile creature that can see you and that isn't [[incapacitated]].

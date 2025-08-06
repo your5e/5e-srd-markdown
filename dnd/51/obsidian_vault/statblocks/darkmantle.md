@@ -17,12 +17,12 @@ _Small monstrosity, unaligned_
 
 ## Traits
 
-- _**Echolocation.**_ The darkmantle can't use its blindsight while deafened.
+- _**Echolocation.**_ The darkmantle can't use its blindsight while [[deafened]].
 - _**False Appearance.**_ While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.
 
 ## Actions
 
-- _**Crush.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.
+- _**Crush.** Melee Weapon Attack:_ +5 to hit, reach 5 ft., one creature. _Hit:_ 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also [[blinded]] and unable to breathe while the darkmantle is attached in this way.
 
     While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target.
 

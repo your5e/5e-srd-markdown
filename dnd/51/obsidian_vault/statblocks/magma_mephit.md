@@ -22,7 +22,7 @@ _Small elemental, neutral evil_
 
 - _**Death Burst.**_ When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 - _**False Appearance.**_ While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.
-- _**Innate Spellcasting (1/Day).**_ The mephit can innately cast _Heat Metal_ (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
+- _**Innate Spellcasting (1/Day).**_ The mephit can innately cast [[heat_metal|Heat Metal]] (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
 
 ## Actions
 

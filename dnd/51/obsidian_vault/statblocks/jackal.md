@@ -18,7 +18,7 @@ _Small beast, unaligned_
 ## Traits
 
 - _**Keen Hearing and Smell.**_ The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell.
-- _**Pack Tactics.**_ The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
+- _**Pack Tactics.**_ The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't [[incapacitated]].
 
 ## Actions
 

@@ -28,4 +28,4 @@ _Large fiend (devil), lawful evil_
 
 - _**Multiattack.**_ The devil makes three attacks: two with its claws and one with its sting.
 - _**Claw.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 8 (1d8 + 4) slashing damage.
-- _**Sting.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+- _**Sting.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become [[poisoned]] for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

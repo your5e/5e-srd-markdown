@@ -21,9 +21,9 @@ _Huge giant, neutral good (50%) or neutral evil (50%)_
 - _**Keen Smell.**_ The giant has advantage on Wisdom (Perception) checks that rely on smell.
 - _**Innate Spellcasting.**_ The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 
-    - At will: _Detect Magic_, _Fog Cloud_, _Light_
-    - 3/day each: _Feather Fall_, _Fly_, _Misty Step_, _Telekinesis_
-    - 1/day each: _Control Weather_, _Gaseous Form_
+    - At will: [[detect_magic|Detect Magic]], [[fog_cloud|Fog Cloud]], [[light|Light]]
+    - 3/day each: [[feather_fall|Feather Fall]], [[fly|Fly]], [[misty_step|Misty Step]], [[telekinesis|Telekinesis]]
+    - 1/day each: [[control_weather|Control Weather]], [[gaseous_form|Gaseous Form]]
 
 ## Actions
 

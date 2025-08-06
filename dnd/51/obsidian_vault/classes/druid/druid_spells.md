@@ -2,134 +2,134 @@
 
 ## Cantrips (0 Level)
 
-- _Druidcraft_
-- _Guidance_
-- _Mending_
-- _Poison Spray_
-- _Produce Flame_
-- _Resistance_
-- _Shillelagh_
+- [[druidcraft|Druidcraft]]
+- [[guidance|Guidance]]
+- [[mending|Mending]]
+- [[poison_spray|Poison Spray]]
+- [[produce_flame|Produce Flame]]
+- [[resistance|Resistance]]
+- [[shillelagh|Shillelagh]]
 
 ## 1st Level
 
-- _Animal Friendship_
-- _Charm Person_
-- _Create or Destroy Water_
-- _Cure Wounds_
-- _Detect Magic_
-- _Detect Poison and Disease_
-- _Entangle_
-- _Faerie Fire_
-- _Fog Cloud_
-- _Goodberry_
-- _Healing Word_
-- _Jump_
-- _Longstrider_
-- _Purify Food and Drink_
-- _Speak with Animals_
-- _Thunderwave_
+- [[animal_friendship|Animal Friendship]]
+- [[charm_person|Charm Person]]
+- [[create_or_destroy_water|Create or Destroy Water]]
+- [[cure_wounds|Cure Wounds]]
+- [[detect_magic|Detect Magic]]
+- [[detect_poison_and_disease|Detect Poison and Disease]]
+- [[entangle|Entangle]]
+- [[faerie_fire|Faerie Fire]]
+- [[fog_cloud|Fog Cloud]]
+- [[goodberry|Goodberry]]
+- [[healing_word|Healing Word]]
+- [[jump|Jump]]
+- [[longstrider|Longstrider]]
+- [[purify_food_and_drink|Purify Food and Drink]]
+- [[speak_with_animals|Speak with Animals]]
+- [[thunderwave|Thunderwave]]
 
 ## 2nd Level
 
-- _Animal Messenger_
-- _Barkskin_
-- _Darkvision_
-- _Enhance Ability_
-- _Find Traps_
-- _Flame Blade_
-- _Flaming Sphere_
-- _Gust of Wind_
-- _Heat Metal_
-- _Hold Person_
-- _Lesser Restoration_
-- _Locate Animals or Plants_
-- _Locate Object_
-- _Moonbeam_
-- _Pass Without Trace_
-- _Protection from Poison_
-- _Spike Growth_
+- [[animal_messenger|Animal Messenger]]
+- [[barkskin|Barkskin]]
+- [[darkvision|Darkvision]]
+- [[enhance_ability|Enhance Ability]]
+- [[find_traps|Find Traps]]
+- [[flame_blade|Flame Blade]]
+- [[flaming_sphere|Flaming Sphere]]
+- [[gust_of_wind|Gust of Wind]]
+- [[heat_metal|Heat Metal]]
+- [[hold_person|Hold Person]]
+- [[lesser_restoration|Lesser Restoration]]
+- [[locate_animals_or_plants|Locate Animals or Plants]]
+- [[locate_object|Locate Object]]
+- [[moonbeam|Moonbeam]]
+- [[pass_without_trace|Pass Without Trace]]
+- [[protection_from_poison|Protection from Poison]]
+- [[spike_growth|Spike Growth]]
 
 ## 3rd Level
 
-- _Call Lightning_
-- _Conjure Animals_
-- _Daylight_
-- _Dispel Magic_
-- _Meld Into Stone_
-- _Plant Growth_
-- _Protection from Energy_
-- _Sleet Storm_
-- _Speak with Plants_
-- _Water Breathing_
-- _Water Walk_
-- _Wind Wall_
+- [[call_lightning|Call Lightning]]
+- [[conjure_animals|Conjure Animals]]
+- [[daylight|Daylight]]
+- [[dispel_magic|Dispel Magic]]
+- [[meld_into_stone|Meld Into Stone]]
+- [[plant_growth|Plant Growth]]
+- [[protection_from_energy|Protection from Energy]]
+- [[sleet_storm|Sleet Storm]]
+- [[speak_with_plants|Speak with Plants]]
+- [[water_breathing|Water Breathing]]
+- [[water_walk|Water Walk]]
+- [[wind_wall|Wind Wall]]
 
 ## 4th Level
 
-- _Blight_
-- _Confusion_
-- _Conjure Minor Elementals_
-- _Conjure Woodland Beings_
-- _Control Water_
-- _Dominate Beast_
-- _Freedom of Movement_
-- _Giant Insect_
-- _Hallucinatory Terrain_
-- _Ice Storm_
-- _Locate Creature_
-- _Polymorph_
-- _Stone Shape_
-- _Stoneskin_
-- _Wall of Fire_
+- [[blight|Blight]]
+- [[confusion|Confusion]]
+- [[conjure_minor_elementals|Conjure Minor Elementals]]
+- [[conjure_woodland_beings|Conjure Woodland Beings]]
+- [[control_water|Control Water]]
+- [[dominate_beast|Dominate Beast]]
+- [[freedom_of_movement|Freedom of Movement]]
+- [[giant_insect|Giant Insect]]
+- [[hallucinatory_terrain|Hallucinatory Terrain]]
+- [[ice_storm|Ice Storm]]
+- [[locate_creature|Locate Creature]]
+- [[polymorph|Polymorph]]
+- [[stone_shape|Stone Shape]]
+- [[stoneskin|Stoneskin]]
+- [[wall_of_fire|Wall of Fire]]
 
 ## 5th Level
 
-- _Antilife Shell_
-- _Awaken_
-- _Commune with Nature_
-- _Conjure Elemental_
-- _Contagion_
-- _Geas_
-- _Greater Restoration_
-- _Insect Plague_
-- _Mass Cure Wounds_
-- _Planar Binding_
-- _Reincarnate_
-- _Scrying_
-- _Tree Stride_
-- _Wall of Stone_
+- [[antilife_shell|Antilife Shell]]
+- [[awaken|Awaken]]
+- [[commune_with_nature|Commune with Nature]]
+- [[conjure_elemental|Conjure Elemental]]
+- [[contagion|Contagion]]
+- [[geas|Geas]]
+- [[greater_restoration|Greater Restoration]]
+- [[insect_plague|Insect Plague]]
+- [[mass_cure_wounds|Mass Cure Wounds]]
+- [[planar_binding|Planar Binding]]
+- [[reincarnate|Reincarnate]]
+- [[scrying|Scrying]]
+- [[tree_stride|Tree Stride]]
+- [[wall_of_stone|Wall of Stone]]
 
 ## 6th Level
 
-- _Conjure Fey_
-- _Find the Path_
-- _Heal_
-- _Move Earth_
-- _Sunbeam_
-- _Transport Via Plants_
-- _Wall of Thorns_
-- _Wind Walk_
+- [[conjure_fey|Conjure Fey]]
+- [[find_the_path|Find the Path]]
+- [[heal|Heal]]
+- [[move_earth|Move Earth]]
+- [[sunbeam|Sunbeam]]
+- [[transport_via_plants|Transport Via Plants]]
+- [[wall_of_thorns|Wall of Thorns]]
+- [[wind_walk|Wind Walk]]
 
 ## 7th Level
 
-- _Fire Storm_
-- _Mirage Arcane_
-- _Plane Shift_
-- _Regenerate_
-- _Reverse Gravity_
+- [[fire_storm|Fire Storm]]
+- [[mirage_arcane|Mirage Arcane]]
+- [[plane_shift|Plane Shift]]
+- [[regenerate|Regenerate]]
+- [[reverse_gravity|Reverse Gravity]]
 
 ## 8th Level
 
-- _Animal Shapes_
-- _Antipathy/Sympathy_
-- _Control Weather_
-- _Earthquake_
-- _Feeblemind_
-- _Sunburst_
+- [[animal_shapes|Animal Shapes]]
+- [[antipathy_sympathy|Antipathy/Sympathy]]
+- [[control_weather|Control Weather]]
+- [[earthquake|Earthquake]]
+- [[feeblemind|Feeblemind]]
+- [[sunburst|Sunburst]]
 
 ## 9th Level
 
-- _Foresight_
-- _Shapechange_
-- _Storm of Vengeance_
-- _True Resurrection_
+- [[foresight|Foresight]]
+- [[shapechange|Shapechange]]
+- [[storm_of_vengeance|Storm of Vengeance]]
+- [[true_resurrection|True Resurrection]]

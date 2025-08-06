@@ -17,5 +17,5 @@ _Large beast, unaligned_
 ## Actions
 
 - _**Multiattack.**_ The scorpion makes three attacks: two with its claws and one with its sting.
-- _**Claw.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
+- _**Claw.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is [[grappled]] (escape DC 12). The scorpion has two claws, each of which can grapple only one target.
 - _**Sting.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.

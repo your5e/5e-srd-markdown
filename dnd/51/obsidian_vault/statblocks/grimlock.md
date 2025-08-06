@@ -12,7 +12,7 @@ _Medium humanoid (grimlock), neutral evil_
 
 - **Skills** Athletics +5, Perception +3, Stealth +3
 - **Condition Immunities** blinded
-- **Senses** blindsight 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13
+- **Senses** blindsight 30 ft. or 10 ft. while [[deafened]] (blind beyond this radius), passive Perception 13
 - **Languages** Undercommon
 - **Challenge** 1/4 (50 XP)
 

@@ -24,4 +24,4 @@ _Small plant, unaligned_
 
 - _**Rake.** Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ 1 (1d4 - 1) slashing damage.
 
-An **awakened shrub** is an ordinary shrub given sentience and mobility by the _Awaken_ spell or similar magic.
+An **awakened shrub** is an ordinary shrub given sentience and mobility by the [[awaken|Awaken]] spell or similar magic.

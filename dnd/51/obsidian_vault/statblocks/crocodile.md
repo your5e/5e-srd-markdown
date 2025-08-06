@@ -21,4 +21,4 @@ _Large beast, unaligned_
 
 ## Actions
 
-- _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
+- _**Bite.** Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target is [[grappled]] (escape DC 12). Until this grapple ends, the target is [[restrained]], and the crocodile can't bite another target.

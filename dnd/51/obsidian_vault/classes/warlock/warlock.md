@@ -68,7 +68,7 @@ You know two cantrips of your choice from the warlock spell list. You learn addi
 
 The Warlock table shows how many spell slots you have. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
-For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell _Thunderwave_, you must spend one of those slots, and you cast it as a 3rd-level spell.
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell [[thunderwave|Thunderwave]], you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 #### Spells Known of 1st Level and Higher
 
@@ -103,7 +103,7 @@ At 3rd level, your otherworldly patron bestows a gift upon you for your loyal se
 
 #### Pact of the Chain
 
-You learn the _Find Familiar_ spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
+You learn the [[find_familiar|Find Familiar]] spell and can cast it as a ritual. The spell doesn't count against your number of spells known.
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.
 
@@ -147,21 +147,21 @@ If an eldritch invocation has prerequisites, you must meet them to learn it. You
 
 _Prerequisite:_ Eldritch Blast _cantrip_
 
-When you cast _Eldritch Blast_, add your Charisma modifier to the damage it deals on a hit.
+When you cast [[eldritch_blast|Eldritch Blast]], add your Charisma modifier to the damage it deals on a hit.
 
 ### Armor of Shadows
 
-You can cast _Mage Armor_ on yourself at will, without expending a spell slot or material components.
+You can cast [[mage_armor|Mage Armor]] on yourself at will, without expending a spell slot or material components.
 
 ### Ascendant Step
 
 _Prerequisite: 9th level_
 
-You can cast _Levitate_ on yourself at will, without expending a spell slot or material components.
+You can cast [[levitate|Levitate]] on yourself at will, without expending a spell slot or material components.
 
 ### Beast Speech
 
-You can cast _Speak with Animals_ at will, without expending a spell slot.
+You can cast [[speak_with_animals|Speak with Animals]] at will, without expending a spell slot.
 
 ### Beguiling Influence
 
@@ -171,7 +171,7 @@ You gain proficiency in the Deception and Persuasion skills.
 
 _Prerequisite: 7th level_
 
-You can cast _Compulsion_ once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[compulsion|Compulsion]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Book of Ancient Secrets
 
@@ -185,7 +185,7 @@ On your adventures, you can add other ritual spells to your Book of Shadows. Whe
 
 _Prerequisite: 15th level, Pact of the Chain feature_
 
-You can cast _Hold Monster_ at will — targeting a celestial, fiend, or elemental — without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
+You can cast [[hold_monster|Hold Monster]] at will — targeting a celestial, fiend, or elemental — without expending a spell slot or material components. You must finish a long rest before you can use this invocation on the same creature again.
 
 ### Devil's Sight
 
@@ -195,17 +195,17 @@ You can see normally in darkness, both magical and nonmagical, to a distance of 
 
 _Prerequisite: 7th level_
 
-You can cast _Confusion_ once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[confusion|Confusion]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Eldritch Sight
 
-You can cast _Detect Magic_ at will, without expending a spell slot.
+You can cast [[detect_magic|Detect Magic]] at will, without expending a spell slot.
 
 ### Eldritch Spear
 
 _Prerequisite:_ Eldritch Blast _cantrip_
 
-When you cast _Eldritch Blast_, its range is 300 feet.
+When you cast [[eldritch_blast|Eldritch Blast]], its range is 300 feet.
 
 ### Eyes of the Rune Keeper
 
@@ -213,11 +213,11 @@ You can read all writing.
 
 ### Fiendish Vigor
 
-You can cast _False Life_ on yourself at will as a 1st-level spell, without expending a spell slot or material components.
+You can cast [[false_life|False Life]] on yourself at will as a 1st-level spell, without expending a spell slot or material components.
 
 ### Gaze of Two Minds
 
-You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are blinded and deafened to your own surroundings.
+You can use your action to touch a willing humanoid and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can use your action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you are [[blinded]] and [[deafened]] to your own surroundings.
 
 ### Lifedrinker
 
@@ -227,63 +227,63 @@ When you hit a creature with your pact weapon, the creature takes extra necrotic
 
 ### Mask of Many Faces
 
-You can cast _Disguise Self_ at will, without expending a spell slot.
+You can cast [[disguise_self|Disguise Self]] at will, without expending a spell slot.
 
 ### Master of Myriad Forms
 
 _Prerequisite: 15th level_
 
-You can cast _Alter Self_ at will, without expending a spell slot.
+You can cast [[alter_self|Alter Self]] at will, without expending a spell slot.
 
 ### Minions of Chaos
 
 _Prerequisite: 9th level_
 
-You can cast _Conjure Elemental_ once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[conjure_elemental|Conjure Elemental]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Mire the Mind
 
 _Prerequisite: 5th level_
 
-You can cast _Slow_ once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[slow|Slow]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Misty Visions
 
-You can cast _Silent Image_ at will, without expending a spell slot or material components.
+You can cast [[silent_image|Silent Image]] at will, without expending a spell slot or material components.
 
 ### One with Shadows
 
 _Prerequisite: 5th level_
 
-When you are in an area of dim light or darkness, you can use your action to become invisible until you move or take an action or a reaction.
+When you are in an area of dim light or darkness, you can use your action to become [[invisible]] until you move or take an action or a reaction.
 
 ### Otherworldly Leap
 
 _Prerequisite: 9th level_
 
-You can cast _Jump_ on yourself at will, without expending a spell slot or material components.
+You can cast [[jump|Jump]] on yourself at will, without expending a spell slot or material components.
 
 ### Repelling Blast
 
 _Prerequisite:_ Eldritch Blast _cantrip_
 
-When you hit a creature with _Eldritch Blast_, you can push the creature up to 10 feet away from you in a straight line.
+When you hit a creature with [[eldritch_blast|Eldritch Blast]], you can push the creature up to 10 feet away from you in a straight line.
 
 ### Sculptor of Flesh
 
 _Prerequisite: 7th level_
 
-You can cast _Polymorph_ once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[polymorph|Polymorph]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Sign of Ill Omen
 
 _Prerequisite: 5th level_
 
-You can cast _Bestow Curse_ once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[bestow_curse|Bestow Curse]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Thief of Five Fates
 
-You can cast _Bane_ once using a warlock spell slot. You can't do so again until you finish a long rest.
+You can cast [[bane|Bane]] once using a warlock spell slot. You can't do so again until you finish a long rest.
 
 ### Thirsting Blade
 
@@ -295,7 +295,7 @@ You can attack with your pact weapon twice, instead of once, whenever you take t
 
 _Prerequisite: 15th level_
 
-You can cast _Arcane Eye_ at will, without expending a spell slot.
+You can cast [[arcane_eye|Arcane Eye]] at will, without expending a spell slot.
 
 ### Voice of the Chain Master
 
@@ -307,7 +307,7 @@ You can communicate telepathically with your familiar and perceive through your 
 
 _Prerequisite: 9th level_
 
-You can cast _Speak with Dead_ at will, without expending a spell slot.
+You can cast [[speak_with_dead|Speak with Dead]] at will, without expending a spell slot.
 
 ### Witch Sight
 
@@ -333,11 +333,11 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level   | Spells                                |
 |---------------|---------------------------------------|
-| 1st           | _Burning Hands_, _Command_            |
-| 2nd           | _Blindness/Deafness_, _Scorching Ray_ |
-| 3rd           | _Fireball_, _Stinking Cloud_          |
-| 4th           | _Fire Shield_, _Wall of Fire_         |
-| 5th           | _Flame Strike_, _Hallow_              |
+| 1st           | [[burning_hands|Burning Hands]], [[command|Command]]            |
+| 2nd           | [[blindness_deafness|Blindness/Deafness]], [[scorching_ray|Scorching Ray]] |
+| 3rd           | [[fireball|Fireball]], [[stinking_cloud|Stinking Cloud]]          |
+| 4th           | [[fire_shield|Fire Shield]], [[wall_of_fire|Wall of Fire]]         |
+| 5th           | [[flame_strike|Flame Strike]], [[hallow|Hallow]]              |
 
 #### Dark One's Blessing
 

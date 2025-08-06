@@ -24,4 +24,4 @@ _Huge plant, unaligned_
 
 - _**Slam.** Melee Weapon Attack:_ +6 to hit, reach 10 ft., one target. _Hit:_ 14 (3d6 + 4) bludgeoning damage.
 
-An **awakened tree** is an ordinary tree given sentience and mobility by the _Awaken_ spell or similar magic.
+An **awakened tree** is an ordinary tree given sentience and mobility by the [[awaken|Awaken]] spell or similar magic.

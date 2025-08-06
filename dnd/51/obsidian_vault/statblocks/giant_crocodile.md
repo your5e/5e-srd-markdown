@@ -22,5 +22,5 @@ _Huge beast, unaligned_
 ## Actions
 
 - _**Multiattack.**_ The crocodile makes two attacks: one with its bite and one with its tail.
-- _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
-- _**Tail.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target not grappled by the crocodile. _Hit:_ 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
+- _**Bite.** Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ 21 (3d10 + 5) piercing damage, and the target is [[grappled]] (escape DC 16). Until this grapple ends, the target is [[restrained]], and the crocodile can't bite another target.
+- _**Tail.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target not [[grappled]] by the crocodile. _Hit:_ 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked [[prone]].

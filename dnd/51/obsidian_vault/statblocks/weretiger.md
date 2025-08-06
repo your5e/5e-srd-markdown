@@ -20,7 +20,7 @@ _Medium humanoid (human, shapechanger), neutral_
 
 - _**Shapechanger.**_ The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 - _**Keen Hearing and Smell.**_ The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell.
-- _**Pounce (Tiger or Hybrid Form Only).**_ If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone_._ If the target is prone, the weretiger can make one bite attack against it as a bonus action.
+- _**Pounce (Tiger or Hybrid Form Only).**_ If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone_._ If the target is [[prone]], the weretiger can make one bite attack against it as a bonus action.
 
 ## Actions
 

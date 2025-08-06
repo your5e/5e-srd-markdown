@@ -21,14 +21,14 @@ _Large elemental, chaotic good_
 - _**Elemental Demise.**_ If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
 - _**Innate Spellcasting.**_ The djinni's innate spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-    - At will: _Detect Evil and Good_, _Detect Magic_, _Thunderwave_
-    - 3/day each: _Create Food and Water_ (can create wine instead of water), _Tongues_, _Wind Walk_
-    - 1/day each: _Conjure Elemental_ (air elemental only), _Creation_, _Gaseous Form_, _Invisibility_, _Major Image_, _Plane Shift_
+    - At will: [[detect_evil_and_good|Detect Evil and Good]], [[detect_magic|Detect Magic]], [[thunderwave|Thunderwave]]
+    - 3/day each: [[create_food_and_water|Create Food and Water]] (can create wine instead of water), [[tongues|Tongues]], [[wind_walk|Wind Walk]]
+    - 1/day each: [[conjure_elemental|Conjure Elemental]] (air elemental only), [[creation|Creation]], [[gaseous_form|Gaseous Form]], [[invisibility|Invisibility]], [[major_image|Major Image]], [[plane_shift|Plane Shift]]
 
 ## Actions
 
 - _**Multiattack.**_ The djinni makes three scimitar attacks.
 - _**Scimitar.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice).
-- _**Create Whirlwind.**_ A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
+- _**Create Whirlwind.**_ A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be [[restrained]] by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
 
-    A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
+    A creature can use its action to free a creature [[restrained]] by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.

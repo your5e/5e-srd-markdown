@@ -17,7 +17,7 @@ _Small beast, unaligned_
 ## Traits
 
 - _**Keen Smell.**_ The rat has advantage on Wisdom (Perception) checks that rely on smell.
-- _**Pack Tactics.**_ The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
+- _**Pack Tactics.**_ The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't [[incapacitated]].
 
 ## Actions
 

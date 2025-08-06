@@ -27,4 +27,4 @@ _Tiny undead, chaotic evil_
 ## Actions
 
 - _**Shock.** Melee Spell Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 9 (2d8) lightning damage.
-- _**Invisibility.**_ The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
+- _**Invisibility.**_ The will-o'-wisp and its light magically become [[invisible]] until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).

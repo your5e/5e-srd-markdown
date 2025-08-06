@@ -16,7 +16,7 @@ _Medium humanoid (goblinoid), lawful evil_
 
 ## Traits
 
-- _**Martial Advantage.**_ Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+- _**Martial Advantage.**_ Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [[incapacitated]].
 
 ## Actions
 

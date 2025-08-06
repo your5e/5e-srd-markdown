@@ -6,7 +6,7 @@ This iron bottle has a brass stopper. You can use an action to speak the flask's
 
 You can use an action to remove the flask's stopper and release the creature the flask contains. The creature is friendly to you and your companions for 1 hour and obeys your commands for that duration. If you give no commands or give it a command that is likely to result in its death, it defends itself but otherwise takes no actions. At the end of the duration, the creature acts in accordance with its normal disposition and alignment.
 
-An _Identify_ spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the GM or determined randomly.
+An [[identify|Identify]] spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the GM or determined randomly.
 
 | d100   | Contents          |
 |--------|-------------------|
@@ -23,7 +23,7 @@ An _Identify_ spell reveals that a creature is inside the flask, but the only wa
 | 74‒75  | Djinni            |
 | 76‒77  | Efreeti           |
 | 78‒83  | Elemental (any)   |
-| 84‒86  | Invisible stalker |
+| 84‒86  | [[invisible]] stalker |
 | 87‒90  | Night hag         |
 | 91     | Planetar          |
 | 92‒95  | Salamander        |

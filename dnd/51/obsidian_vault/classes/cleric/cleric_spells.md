@@ -2,134 +2,134 @@
 
 ## Cantrips (0 Level)
 
-- _Guidance_
-- _Light_
-- _Mending_
-- _Resistance_
-- _Sacred Flame_
-- _Spare the Dying_
-- _Thaumaturgy_
+- [[guidance|Guidance]]
+- [[light|Light]]
+- [[mending|Mending]]
+- [[resistance|Resistance]]
+- [[sacred_flame|Sacred Flame]]
+- [[spare_the_dying|Spare the Dying]]
+- [[thaumaturgy|Thaumaturgy]]
 
 ## 1st Level
 
-- _Bane_
-- _Bless_
-- _Command_
-- _Create or Destroy Water_
-- _Cure Wounds_
-- _Detect Evil and Good_
-- _Detect Magic_
-- _Detect Poison and Disease_
-- _Guiding Bolt_
-- _Healing Word_
-- _Inflict Wounds_
-- _Protection from Evil and Good_
-- _Purify Food and Drink_
-- _Sanctuary_
-- _Shield of Faith_
+- [[bane|Bane]]
+- [[bless|Bless]]
+- [[command|Command]]
+- [[create_or_destroy_water|Create or Destroy Water]]
+- [[cure_wounds|Cure Wounds]]
+- [[detect_evil_and_good|Detect Evil and Good]]
+- [[detect_magic|Detect Magic]]
+- [[detect_poison_and_disease|Detect Poison and Disease]]
+- [[guiding_bolt|Guiding Bolt]]
+- [[healing_word|Healing Word]]
+- [[inflict_wounds|Inflict Wounds]]
+- [[protection_from_evil_and_good|Protection from Evil and Good]]
+- [[purify_food_and_drink|Purify Food and Drink]]
+- [[sanctuary|Sanctuary]]
+- [[shield_of_faith|Shield of Faith]]
 
 ## 2nd Level
 
-- _Aid_
-- _Augury_
-- _Blindness/Deafness_
-- _Calm Emotions_
-- _Continual Flame_
-- _Enhance Ability_
-- _Find Traps_
-- _Gentle Repose_
-- _Hold Person_
-- _Lesser Restoration_
-- _Locate Object_
-- _Prayer of Healing_
-- _Protection from Poison_
-- _Silence_
-- _Spiritual Weapon_
-- _Warding Bond_
-- _Zone of Truth_
+- [[aid|Aid]]
+- [[augury|Augury]]
+- [[blindness_deafness|Blindness/Deafness]]
+- [[calm_emotions|Calm Emotions]]
+- [[continual_flame|Continual Flame]]
+- [[enhance_ability|Enhance Ability]]
+- [[find_traps|Find Traps]]
+- [[gentle_repose|Gentle Repose]]
+- [[hold_person|Hold Person]]
+- [[lesser_restoration|Lesser Restoration]]
+- [[locate_object|Locate Object]]
+- [[prayer_of_healing|Prayer of Healing]]
+- [[protection_from_poison|Protection from Poison]]
+- [[silence|Silence]]
+- [[spiritual_weapon|Spiritual Weapon]]
+- [[warding_bond|Warding Bond]]
+- [[zone_of_truth|Zone of Truth]]
 
 ## 3rd Level
 
-- _Animate Dead_
-- _Beacon of Hope_
-- _Bestow Curse_
-- _Clairvoyance_
-- _Create Food and Water_
-- _Daylight_
-- _Dispel Magic_
-- _Glyph of Warding_
-- _Magic Circle_
-- _Mass Healing Word_
-- _Meld Into Stone_
-- _Protection from Energy_
-- _Remove Curse_
-- _Revivify_
-- _Sending_
-- _Speak with Dead_
-- _Spirit Guardians_
-- _Tongues_
-- _Water Walk_
+- [[animate_dead|Animate Dead]]
+- [[beacon_of_hope|Beacon of Hope]]
+- [[bestow_curse|Bestow Curse]]
+- [[clairvoyance|Clairvoyance]]
+- [[create_food_and_water|Create Food and Water]]
+- [[daylight|Daylight]]
+- [[dispel_magic|Dispel Magic]]
+- [[glyph_of_warding|Glyph of Warding]]
+- [[magic_circle|Magic Circle]]
+- [[mass_healing_word|Mass Healing Word]]
+- [[meld_into_stone|Meld Into Stone]]
+- [[protection_from_energy|Protection from Energy]]
+- [[remove_curse|Remove Curse]]
+- [[revivify|Revivify]]
+- [[sending|Sending]]
+- [[speak_with_dead|Speak with Dead]]
+- [[spirit_guardians|Spirit Guardians]]
+- [[tongues|Tongues]]
+- [[water_walk|Water Walk]]
 
 ## 4th Level
 
-- _Banishment_
-- _Control Water_
-- _Death Ward_
-- _Divination_
-- _Freedom of Movement_
-- _Guardian of Faith_
-- _Locate Creature_
-- _Stone Shape_
+- [[banishment|Banishment]]
+- [[control_water|Control Water]]
+- [[death_ward|Death Ward]]
+- [[divination|Divination]]
+- [[freedom_of_movement|Freedom of Movement]]
+- [[guardian_of_faith|Guardian of Faith]]
+- [[locate_creature|Locate Creature]]
+- [[stone_shape|Stone Shape]]
 
 ## 5th Level
 
-- _Commune_
-- _Contagion_
-- _Dispel Evil and Good_
-- _Flame Strike_
-- _Geas_
-- _Greater Restoration_
-- _Hallow_
-- _Insect Plague_
-- _Legend Lore_
-- _Mass Cure Wounds_
-- _Planar Binding_
-- _Raise Dead_
-- _Scrying_
+- [[commune|Commune]]
+- [[contagion|Contagion]]
+- [[dispel_evil_and_good|Dispel Evil and Good]]
+- [[flame_strike|Flame Strike]]
+- [[geas|Geas]]
+- [[greater_restoration|Greater Restoration]]
+- [[hallow|Hallow]]
+- [[insect_plague|Insect Plague]]
+- [[legend_lore|Legend Lore]]
+- [[mass_cure_wounds|Mass Cure Wounds]]
+- [[planar_binding|Planar Binding]]
+- [[raise_dead|Raise Dead]]
+- [[scrying|Scrying]]
 
 ## 6th Level
 
-- _Blade Barrier_
-- _Create Undead_
-- _Find the Path_
-- _Forbiddance_
-- _Harm_
-- _Heal_
-- _Planar Ally_
-- _True Seeing_
-- _Word of Recall_
+- [[blade_barrier|Blade Barrier]]
+- [[create_undead|Create Undead]]
+- [[find_the_path|Find the Path]]
+- [[forbiddance|Forbiddance]]
+- [[harm|Harm]]
+- [[heal|Heal]]
+- [[planar_ally|Planar Ally]]
+- [[true_seeing|True Seeing]]
+- [[word_of_recall|Word of Recall]]
 
 ## 7th Level
 
-- _Conjure Celestial_
-- _Divine Word_
-- _Etherealness_
-- _Fire Storm_
-- _Plane Shift_
-- _Regenerate_
-- _Resurrection_
-- _Symbol_
+- [[conjure_celestial|Conjure Celestial]]
+- [[divine_word|Divine Word]]
+- [[etherealness|Etherealness]]
+- [[fire_storm|Fire Storm]]
+- [[plane_shift|Plane Shift]]
+- [[regenerate|Regenerate]]
+- [[resurrection|Resurrection]]
+- [[symbol|Symbol]]
 
 ## 8th Level
 
-- _Antimagic Field_
-- _Control Weather_
-- _Earthquake_
-- _Holy Aura_
+- [[antimagic_field|Antimagic Field]]
+- [[control_weather|Control Weather]]
+- [[earthquake|Earthquake]]
+- [[holy_aura|Holy Aura]]
 
 ## 9th Level
 
-- _Astral Projection_
-- _Gate_
-- _Mass Heal_
-- _True Resurrection_
+- [[astral_projection|Astral Projection]]
+- [[gate|Gate]]
+- [[mass_heal|Mass Heal]]
+- [[true_resurrection|True Resurrection]]

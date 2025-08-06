@@ -58,7 +58,7 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 |   d10 | Purpose                                                                                                                                  |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------|
 |     1 | _Aligned:_ The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)              |
-|     2 | _Bane_: The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.           |
+|     2 | [[bane|Bane]]: The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.           |
 |     3 | _Protector:_ The item seeks to defend a particular race or kind of creature, such as elves or druids.                                    |
 |     4 | _Crusader:_ The item seeks to defeat, weaken, or destroy the servants of a particular deity.                                             |
 |     5 | Templar: The item seeks to defend the servants and interests of a particular deity.                                                      |
@@ -83,4 +83,4 @@ A sentient item has a will of its own, shaped by its personality and alignment. 
 - Suppress one or more of its activated properties.
 - Attempt to take control of its wielder.
 
-    If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is charmed by the item for 1d12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.
+    If a sentient item attempts to take control of its wielder, the wielder must make a Charisma saving throw, with a DC equal to 12 + the item's Charisma modifier. On a failed save, the wielder is [[charmed]] by the item for 1d12 hours. While charmed, the wielder must try to follow the item's commands. If the wielder takes damage, it can repeat the saving throw, ending the effect on a success. Whether the attempt to control its user succeeds or fails, the item can't use this power again until the next dawn.

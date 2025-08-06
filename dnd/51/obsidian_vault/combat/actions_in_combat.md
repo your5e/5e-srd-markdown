@@ -28,7 +28,7 @@ If you take the Disengage action, your movement doesn't provoke opportunity atta
 
 ## Dodge
 
-When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are incapacitated (as explained in appendix PH-A) or if your speed drops to 0.
+When you take the Dodge action, you focus entirely on avoiding attacks. Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage. You lose this benefit if you are [[incapacitated]] (as explained in appendix PH-A) or if your speed drops to 0.
 
 ## Help
 
@@ -48,7 +48,7 @@ First, you decide what perceivable circumstance will trigger your reaction. Then
 
 When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger. Remember that you can take only one reaction per round.
 
-When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the _Web_ spell and ready _Magic Missile_, your _Web_ spell ends, and if you take damage before you release _Magic Missile_ with your reaction, your concentration might be broken.
+When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration. If your concentration is broken, the spell dissipates without taking effect. For example, if you are concentrating on the [[web|Web]] spell and ready [[magic_missile|Magic Missile]], your [[web|Web]] spell ends, and if you take damage before you release [[magic_missile|Magic Missile]] with your reaction, your concentration might be broken.
 
 ## Search
 

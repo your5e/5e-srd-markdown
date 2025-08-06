@@ -20,7 +20,7 @@ _Medium fey, neutral evil_
 - _**Amphibious.**_ The hag can breathe air and water.
 - _**Innate Spellcasting.**_ The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
 
-    - At will: _Dancing Lights_, _Minor Illusion_, _Vicious Mockery_
+    - At will: [[dancing_lights|Dancing Lights]], [[minor_illusion|Minor Illusion]], [[vicious_mockery|Vicious Mockery]]
 
 - _**Mimicry.**_ The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 

@@ -2,7 +2,7 @@
 
 _Medium humanoid (any race), any alignment_
 
-- **Armor Class** 12 (15 with _Mage Armor_)
+- **Armor Class** 12 (15 with [[mage_armor|Mage Armor]])
 - **Hit Points** 40 (9d8)
 - **Speed** 30 ft.
 
@@ -20,12 +20,12 @@ _Medium humanoid (any race), any alignment_
 
 - _**Spellcasting.**_ The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
-    - Cantrips (at will): _Fire Bolt_, _Light_, _Mage Hand_, _Prestidigitation_
-    - 1st level (4 slots): _Detect Magic_, _Mage Armor_, _Magic Missile_, _Shield_
-    - 2nd level (3 slots): _Misty Step_, _Suggestion_
-    - 3rd level (3 slots): _Counterspell_, _Fireball_, _Fly_
-    - 4th level (3 slots): _Greater Invisibility_, _Ice Storm_
-    - 5th level (1 slot): _Cone of Cold_
+    - Cantrips (at will): [[fire_bolt|Fire Bolt]], [[light|Light]], [[mage_hand|Mage Hand]], [[prestidigitation|Prestidigitation]]
+    - 1st level (4 slots): [[detect_magic|Detect Magic]], [[mage_armor|Mage Armor]], [[magic_missile|Magic Missile]], [[shield|Shield]]
+    - 2nd level (3 slots): [[misty_step|Misty Step]], [[suggestion|Suggestion]]
+    - 3rd level (3 slots): [[counterspell|Counterspell]], [[fireball|Fireball]], [[fly|Fly]]
+    - 4th level (3 slots): [[greater_invisibility|Greater Invisibility]], [[ice_storm|Ice Storm]]
+    - 5th level (1 slot): [[cone_of_cold|Cone of Cold]]
 
 ## Actions
 

@@ -20,7 +20,7 @@ _Medium fiend (devil), lawful evil_
 ## Traits
 
 - _**Devil's Sight.**_ Magical darkness doesn't impede the lemure's darkvision.
-- _**Hellish Rejuvenation.**_ A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a _Bless_ spell cast on that creature or its remains are sprinkled with holy water.
+- _**Hellish Rejuvenation.**_ A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a [[bless|Bless]] spell cast on that creature or its remains are sprinkled with holy water.
 
 ## Actions
 

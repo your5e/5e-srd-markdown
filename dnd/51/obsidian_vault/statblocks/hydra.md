@@ -18,7 +18,7 @@ _Huge monstrosity, unaligned_
 ## Traits
 
 - _**Hold Breath.**_ The hydra can hold its breath for 1 hour.
-- _**Multiple Heads.**_ The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+- _**Multiple Heads.**_ The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being [[blinded]], [[charmed]], [[deafened]], [[frightened]], [[stunned]], and knocked [[unconscious]].
 
     Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.
 

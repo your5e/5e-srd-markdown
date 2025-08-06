@@ -26,11 +26,11 @@ _Medium fiend (devil), lawful evil_
 ## Actions
 
 - _**Multiattack.**_ The devil makes two attacks with its chains.
-- _**Chain.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns.
+- _**Chain.** Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ 11 (2d6 + 4) slashing damage. The target is [[grappled]] (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is [[restrained]] and takes 7 (2d6) piercing damage at the start of each of its turns.
 - _**Animate Chains (Recharges after a Short or Long Rest).**_ Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.
 
-    Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
+    Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is [[incapacitated]] or dies.
 
 ## Reactions
 
-- _**Unnerving Mask.**_ When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
+- _**Unnerving Mask.**_ When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be [[frightened]] until the end of its turn.

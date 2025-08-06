@@ -52,7 +52,7 @@ Some ranged attacks, such as those made with a longbow or a shortbow, have two r
 
 ### Ranged Attacks in Close Combat
 
-Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't incapacitated.
+Aiming a ranged attack is more difficult when a foe is next to you. When you make a ranged attack with a weapon, a spell, or some other means, you have disadvantage on the attack roll if you are within 5 feet of a hostile creature who can see you and who isn't [[incapacitated]].
 
 ## Melee Attacks
 
@@ -80,10 +80,10 @@ If either weapon has the thrown property, you can throw the weapon, instead of m
 
 When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
 
-The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the grappled condition (see appendix PH-A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+The target of your grapple must be no more than one size larger than you and must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you succeed, you subject the target to the [[grappled]] condition (see appendix PH-A). The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
-- _**Escaping a Grapple.**_ A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
-- _**Moving a Grappled Creature.**_ When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
+- _**Escaping a Grapple.**_ A [[grappled]] creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
+- _**Moving a [[grappled]] Creature.**_ When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
 ### Contests in Combat
 
@@ -91,6 +91,6 @@ Battle often involves pitting your prowess against that of your foe. Such a chal
 
 ### Shoving a Creature
 
-Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
+Using the Attack action, you can make a special melee attack to shove a creature, either to knock it [[prone]] or push it away from you. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
 
-The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target prone or push it 5 feet away from you.
+The target must be no more than one size larger than you and must be within your reach. Instead of making an attack roll, you make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you either knock the target [[prone]] or push it 5 feet away from you.

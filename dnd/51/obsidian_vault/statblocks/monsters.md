@@ -32,7 +32,7 @@ The game includes the following monster types, which have no rules of their own.
 - **Celestials** are creatures native to the Upper Planes. Many of them are the servants of deities, employed as messengers or agents in the mortal realm and throughout the planes. Celestials are good by nature, so the exceptional celestial who strays from a good alignment is a horrifying rarity. Celestials include angels, couatls, and pegasi.
 - **Constructs** are made, not born. Some are programmed by their creators to follow a simple set of instructions, while others are imbued with sentience and capable of independent thought. Golems are the iconic constructs. Many creatures native to the outer plane of Mechanus, such as modrons, are constructs shaped from the raw material of the plane by the will of more powerful creatures.
 - **Dragons** are large reptilian creatures of ancient origin and tremendous power. True dragons, including the good metallic dragons and the evil chromatic dragons, are highly intelligent and have innate magic. Also in this category are creatures distantly related to true dragons, but less powerful, less intelligent, and less magical, such as wyverns and pseudodragons.
-- **Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers and invisible stalkers.
+- **Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers and [[invisible]] stalkers.
 - **Fey** are magical creatures closely tied to the forces of nature. They dwell in twilight groves and misty forests. In some worlds, they are closely tied to the Feywild, also called the Plane of Faerie. Some are also found in the Outer Planes, particularly the planes of Arborea and the Beastlands. Fey include dryads, pixies, and satyrs.
 - **Fiends** are creatures of wickedness that are native to the Lower Planes. A few are the servants of deities, but many more labor under the leadership of archdevils and demon princes. Evil priests and mages sometimes summon fiends to the material world to do their bidding. If an evil celestial is a rarity, a good fiend is almost inconceivable. Fiends include demons, devils, hell hounds, rakshasas, and yugoloths.
 - **Giants** tower over humans and their kind. They are humanlike in shape, though some have multiple heads (ettins) or deformities (fomorians). The six varieties of true giant are hill giants, stone giants, frost giants, fire giants, cloud giants, and storm giants. Besides these, creatures such as ogres and trolls are giants.
@@ -111,7 +111,7 @@ Every monster has six ability scores (Strength, Dexterity, Constitution, Intelli
 
 ## Saving Throws
 
-The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily charmed or frightened might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
+The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily [[charmed]] or [[frightened]] might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
 
 A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
@@ -194,7 +194,7 @@ A monster with tremorsense can detect and pinpoint the origin of vibrations with
 
 ### Truesight
 
-A monster with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
+A monster with truesight can, out to a specific range, see in normal and magical darkness, see [[invisible]] creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
 
 ## Languages
 
@@ -204,9 +204,9 @@ The languages that a monster can speak are listed in alphabetical order. Sometim
 
 Telepathy is a magical ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn't need to share a language with the monster to communicate in this way with it, but it must be able to understand at least one language. A creature without telepathy can receive and respond to telepathic messages but can't initiate or terminate a telepathic conversation.
 
-A telepathic monster doesn't need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is incapacitated, it can't initiate telepathic contact, and any current contact is terminated.
+A telepathic monster doesn't need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is [[incapacitated]], it can't initiate telepathic contact, and any current contact is terminated.
 
-A creature within the area of an _Antimagic Field_ or in any other location where magic doesn't function can't send or receive telepathic messages.
+A creature within the area of an [[antimagic_field|Antimagic Field]] or in any other location where magic doesn't function can't send or receive telepathic messages.
 
 ## Challenge
 
@@ -252,7 +252,7 @@ Special traits (which appear after a monster's challenge rating but before any a
 
 A monster with the innate ability to cast spells has the Innate Spellcasting special trait. Unless noted otherwise, an innate spell of 1st level or higher is always cast at its lowest possible level and can't be cast at a higher level. If a monster has a cantrip where its level matters and no level is given, use the monster's challenge rating.
 
-An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the _Levitate_ spell, but the spell has a "self only" restriction, which means that the spell affects only the drow mage.
+An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the [[levitate|Levitate]] spell, but the spell has a "self only" restriction, which means that the spell affects only the drow mage.
 
 A monster's innate spells can't be swapped out with other spells. If a monster's innate spells don't require attack rolls, no attack bonus is given for them.
 
@@ -262,7 +262,7 @@ A monster with the Spellcasting special trait has a spellcaster level and spell 
 
 The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
 
-A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd-level _Lightning Bolt_ spell can cast it as a 5th-level spell by using one of its 5th-level spell slots.
+A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd-level [[lightning_bolt|Lightning Bolt]] spell can cast it as a 5th-level spell by using one of its 5th-level spell slots.
 
 You can change the spells that a monster knows or has prepared, replacing any spell on its spell list with a spell of the same level and from the same class list. If you do so, you might cause the monster to be a greater or lesser threat than suggested by its challenge rating.
 
@@ -309,7 +309,7 @@ Some special abilities have restrictions on the number of times they can be used
 
 Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn't need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
 
-A creature grappled by the monster can use its action to try to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength (Athletics) modifier.
+A creature [[grappled]] by the monster can use its action to try to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength (Athletics) modifier.
 
 ## Equipment
 

@@ -2,46 +2,46 @@
 
 ## 1st Level
 
-- _Bless_
-- _Command_
-- _Cure Wounds_
-- _Detect Evil and Good_
-- _Detect Magic_
-- _Detect Poison and Disease_
-- _Divine Favor_
-- _Heroism_
-- _Protection from Evil and Good_
-- _Purify Food and Drink_
-- _Shield of Faith_
+- [[bless|Bless]]
+- [[command|Command]]
+- [[cure_wounds|Cure Wounds]]
+- [[detect_evil_and_good|Detect Evil and Good]]
+- [[detect_magic|Detect Magic]]
+- [[detect_poison_and_disease|Detect Poison and Disease]]
+- [[divine_favor|Divine Favor]]
+- [[heroism|Heroism]]
+- [[protection_from_evil_and_good|Protection from Evil and Good]]
+- [[purify_food_and_drink|Purify Food and Drink]]
+- [[shield_of_faith|Shield of Faith]]
 
 ## 2nd Level
 
-- _Aid_
-- _Branding Smite_
-- _Find Steed_
-- _Lesser Restoration_
-- _Locate Object_
-- _Magic Weapon_
-- _Protection from Poison_
-- _Zone of Truth_
+- [[aid|Aid]]
+- [[branding_smite|Branding Smite]]
+- [[find_steed|Find Steed]]
+- [[lesser_restoration|Lesser Restoration]]
+- [[locate_object|Locate Object]]
+- [[magic_weapon|Magic Weapon]]
+- [[protection_from_poison|Protection from Poison]]
+- [[zone_of_truth|Zone of Truth]]
 
 ## 3rd Level
 
-- _Create Food and Water_
-- _Daylight_
-- _Dispel Magic_
-- _Magic Circle_
-- _Remove Curse_
-- _Revivify_
+- [[create_food_and_water|Create Food and Water]]
+- [[daylight|Daylight]]
+- [[dispel_magic|Dispel Magic]]
+- [[magic_circle|Magic Circle]]
+- [[remove_curse|Remove Curse]]
+- [[revivify|Revivify]]
 
 ## 4th Level
 
-- _Banishment_
-- _Death Ward_
-- _Locate Creature_
+- [[banishment|Banishment]]
+- [[death_ward|Death Ward]]
+- [[locate_creature|Locate Creature]]
 
 ## 5th Level
 
-- _Dispel Evil and Good_
-- _Geas_
-- _Raise Dead_
+- [[dispel_evil_and_good|Dispel Evil and Good]]
+- [[geas|Geas]]
+- [[raise_dead|Raise Dead]]

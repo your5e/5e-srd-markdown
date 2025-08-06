@@ -19,7 +19,7 @@ _Medium fiend, lawful evil_
 ## Traits
 
 - _**Keen Hearing and Smell.**_ The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
-- _**Pack Tactics.**_ The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
+- _**Pack Tactics.**_ The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't [[incapacitated]].
 
 ## Actions
 

@@ -63,7 +63,7 @@ While raging, you gain the following benefits if you aren't wearing heavy armor:
 
 If you are able to cast spells, you can't cast them or concentrate on them while raging.
 
-Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Your rage lasts for 1 minute. It ends early if you are knocked [[unconscious]] or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
 Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
 
@@ -79,7 +79,7 @@ Starting at 2nd level, you can throw aside all concern for defense to attack wit
 
 At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger.
 
-You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be blinded, deafened, or incapacitated.
+You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be [[blinded]], [[deafened]], or [[incapacitated]].
 
 ### Primal Path
 
@@ -101,7 +101,7 @@ Starting at 5th level, your speed increases by 10 feet while you aren't wearing 
 
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
-Additionally, if you are surprised at the beginning of combat and aren't incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Additionally, if you are surprised at the beginning of combat and aren't [[incapacitated]], you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ### Brutal Critical
 
@@ -117,7 +117,7 @@ Each time you use this feature after the first, the DC increases by 5. When you 
 
 ### Persistent Rage
 
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
+Beginning at 15th level, your rage is so fierce that it ends early only if you fall [[unconscious]] or if you choose to end it.
 
 ### Indomitable Might
 
@@ -135,15 +135,15 @@ For some barbarians, rage is a means to an end that end being violence. The Path
 
 #### Frenzy
 
-Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of exhaustion (as described in appendix PH-A).
+Starting when you choose this path at 3rd level, you can go into a frenzy when you rage. If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one. When your rage ends, you suffer one level of [[exhaustion]] (as described in appendix PH-A).
 
 #### Mindless Rage
 
-Beginning at 6th level, you can't be charmed or frightened while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
+Beginning at 6th level, you can't be [[charmed]] or [[frightened]] while raging. If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
 
 #### Intimidating Presence
 
-Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.
+Beginning at 10th level, you can use your action to frighten someone with your menacing presence. When you do so, choose one creature that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) or be [[frightened]] of you until the end of your next turn. On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn. This effect ends if the creature ends its turn out of line of sight or more than 60 feet away from you.
 
 If the creature succeeds on its saving throw, you can't use this feature on that creature again for 24 hours.
 

@@ -22,13 +22,13 @@ _Large fiend (demon), chaotic evil_
 
 - _**Innate Spellcasting.**_ The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 
-    - At will: _Darkness_, _Detect Magic_, _Dispel Magic_
-    - 1/day each: _Confusion_, _Fly_, _Power Word Stun_
+    - At will: [[darkness|Darkness]], [[detect_magic|Detect Magic]], [[dispel_magic|Dispel Magic]]
+    - 1/day each: [[confusion|Confusion]], [[fly|Fly]], [[power_word_stun|Power Word Stun]]
 
 _**Magic Resistance.**_ The glabrezu has advantage on saving throws against spells and other magical effects.
 
 ## Actions
 
 - _**Multiattack.**_ The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
-- _**Pincer.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
+- _**Pincer.** Melee Weapon Attack:_ +9 to hit, reach 10 ft., one target. _Hit:_ 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is [[grappled]] (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
 - _**Fist.** Melee Weapon Attack:_ +9 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) bludgeoning damage.

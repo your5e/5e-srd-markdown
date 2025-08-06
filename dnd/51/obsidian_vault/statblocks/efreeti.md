@@ -21,9 +21,9 @@ _Large elemental, lawful evil_
 - _**Elemental Demise.**_ If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
 - _**Innate Spellcasting.**_ The efreeti's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-    - At will: _Detect Magic_
-    - 3/day: _Enlarge/Reduce_, _Tongues_
-    - 1/day each: _Conjure Elemental_ (fire elemental only), _Gaseous Form_, _Invisibility_, _Major Image_, _Plane Shift_, _Wall of Fire_
+    - At will: [[detect_magic|Detect Magic]]
+    - 3/day: [[enlarge_reduce|Enlarge/Reduce]], [[tongues|Tongues]]
+    - 1/day each: [[conjure_elemental|Conjure Elemental]] (fire elemental only), [[gaseous_form|Gaseous Form]], [[invisibility|Invisibility]], [[major_image|Major Image]], [[plane_shift|Plane Shift]], [[wall_of_fire|Wall of Fire]]
 
 ## Actions
 

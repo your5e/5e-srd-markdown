@@ -28,7 +28,7 @@ _Huge dragon, chaotic evil_
 - _**Bite.** Melee Weapon Attack:_ +11 to hit, reach 10 ft., one target. _Hit:_ 17 (2d10 + 6) piercing damage plus 4 (1d8) acid damage.
 - _**Claw.** Melee Weapon Attack:_ +11 to hit, reach 5 ft., one target. _Hit:_ 13 (2d6 + 6) slashing damage.
 - _**Tail.** Melee Weapon Attack:_ +11 to hit, reach 15 ft., one target. _Hit:_ 15 (2d8 + 6) bludgeoning damage.
-- _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+- _**Frightful Presence.**_ Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become [[frightened]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 - _**Acid Breath (Recharge 5–6).**_ The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 
 ## Legendary Actions
@@ -37,4 +37,4 @@ The dragon can take 3 legendary actions, choosing from the options below. Only o
 
 - **Detect.** The dragon makes a Wisdom (Perception) check.
 - **Tail Attack.** The dragon makes a tail attack.
-- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+- **Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked [[prone]]. The dragon can then fly up to half its flying speed.

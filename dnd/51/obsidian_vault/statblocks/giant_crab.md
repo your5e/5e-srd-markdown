@@ -21,4 +21,4 @@ _Medium beast, unaligned_
 
 ## Actions
 
-- _**Claw.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+- _**Claw.** Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage, and the target is [[grappled]] (escape DC 11). The crab has two claws, each of which can grapple only one target.

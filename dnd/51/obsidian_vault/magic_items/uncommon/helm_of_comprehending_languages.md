@@ -2,4 +2,4 @@
 
 _Wondrous item, uncommon_
 
-While wearing this helm, you can use an action to cast the _Comprehend Languages_ spell from it at will.
+While wearing this helm, you can use an action to cast the [[comprehend_languages|Comprehend Languages]] spell from it at will.

@@ -17,12 +17,12 @@ _Medium humanoid (any race), any non-good alignment_
 
 ## Traits
 
-- _**Dark Devotion.**_ The fanatic has advantage on saving throws against being charmed or frightened.
+- _**Dark Devotion.**_ The fanatic has advantage on saving throws against being [[charmed]] or [[frightened]].
 - _**Spellcasting.**_ The fanatic is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
 
-    - Cantrips (at will): _Light_, _Sacred Flame_, _Thaumaturgy_
-    - 1st level (4 slots): _Command_, _Inflict Wounds_, _Shield of Faith_
-    - 2nd level (3 slots): _Hold Person_, _Spiritual Weapon_
+    - Cantrips (at will): [[light|Light]], [[sacred_flame|Sacred Flame]], [[thaumaturgy|Thaumaturgy]]
+    - 1st level (4 slots): [[command|Command]], [[inflict_wounds|Inflict Wounds]], [[shield_of_faith|Shield of Faith]]
+    - 2nd level (3 slots): [[hold_person|Hold Person]], [[spiritual_weapon|Spiritual Weapon]]
 
 ## Actions
 

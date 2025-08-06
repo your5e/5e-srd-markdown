@@ -17,7 +17,7 @@ _Huge beast, unaligned_
 
 ## Traits
 
-- _**Echolocation.**_ The whale can't use its blindsight while deafened.
+- _**Echolocation.**_ The whale can't use its blindsight while [[deafened]].
 - _**Hold Breath.**_ The whale can hold its breath for 30 minutes.
 - _**Keen Hearing.**_ The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 

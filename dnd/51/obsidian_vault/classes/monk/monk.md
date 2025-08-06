@@ -121,7 +121,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 ### Stunning Strike
 
-Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+Starting at 5th level, you can interfere with the flow of ki in an opponent's body. When you hit another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning strike. The target must succeed on a Constitution saving throw or be [[stunned]] until the end of your next turn.
 
 ### Ki-Empowered Strikes
 
@@ -129,11 +129,11 @@ Starting at 6th level, your unarmed strikes count as magical for the purpose of 
 
 ### Evasion
 
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a _Fireball_ spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon's lightning breath or a [[fireball|Fireball]] spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ### Stillness of Mind
 
-Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
+Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be [[charmed]] or [[frightened]].
 
 ### Purity of Body
 
@@ -155,9 +155,9 @@ At 15th level, your ki sustains you so that you suffer none of the frailty of ol
 
 ### Empty Body
 
-Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1 minute. During that time, you also have resistance to all damage but force damage.
+Beginning at 18th level, you can use your action to spend 4 ki points to become [[invisible]] for 1 minute. During that time, you also have resistance to all damage but force damage.
 
-Additionally, you can spend 8 ki points to cast the _Astral Projection_ spell, without needing material components. When you do so, you can't take any other creatures with you.
+Additionally, you can spend 8 ki points to cast the [[astral_projection|Astral Projection]] spell, without needing material components. When you do so, you can't take any other creatures with you.
 
 ### Perfect Self
 
@@ -175,7 +175,7 @@ Monks of the Way of the Open Hand are the ultimate masters of martial arts comba
 
 Starting when you choose this tradition at 3rd level, you can manipulate your enemy's ki when you harness your own. Whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can impose one of the following effects on that target:
 
-- It must succeed on a Dexterity saving throw or be knocked prone.
+- It must succeed on a Dexterity saving throw or be knocked [[prone]].
 - It must make a Strength saving throw. If it fails, you can push it up to 15 feet away from you.
 - It can't take reactions until the end of your next turn.
 
@@ -185,7 +185,7 @@ At 6th level, you gain the ability to heal yourself. As an action, you can regai
 
 #### Tranquility
 
-Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a _Sanctuary_ spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
+Beginning at 11th level, you can enter a special meditation that surrounds you with an aura of peace. At the end of a long rest, you gain the effect of a [[sanctuary|Sanctuary]] spell that lasts until the start of your next long rest (the spell can end early as normal). The saving throw DC for the spell equals 8 + your Wisdom modifier + your proficiency bonus.
 
 #### Quivering Palm
 

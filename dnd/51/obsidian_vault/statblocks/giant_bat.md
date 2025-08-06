@@ -16,7 +16,7 @@ _Large beast, unaligned_
 
 ## Traits
 
-- _**Echolocation.**_ The bat can't use its blindsight while deafened.
+- _**Echolocation.**_ The bat can't use its blindsight while [[deafened]].
 - _**Keen Hearing.**_ The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
 ## Actions

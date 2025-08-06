@@ -2,4 +2,4 @@
 
 _Potion, very rare_
 
-When you drink this potion, you gain the effect of the _Haste_ spell for 1 minute (no concentration required). The potion's yellow fluid is streaked with black and swirls on its own.
+When you drink this potion, you gain the effect of the [[haste|Haste]] spell for 1 minute (no concentration required). The potion's yellow fluid is streaked with black and swirls on its own.

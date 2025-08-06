@@ -17,7 +17,7 @@ _Medium humanoid (any race), any non-good alignment_
 
 ## Traits
 
-- _**Dark Devotion.**_ The cultist has advantage on saving throws against being charmed or frightened.
+- _**Dark Devotion.**_ The cultist has advantage on saving throws against being [[charmed]] or [[frightened]].
 
 ## Actions
 

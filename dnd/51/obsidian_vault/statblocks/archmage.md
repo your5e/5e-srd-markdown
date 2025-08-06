@@ -2,7 +2,7 @@
 
 _Medium humanoid (any race), any alignment_
 
-- **Armor Class** 12 (15 with _Mage Armor_)
+- **Armor Class** 12 (15 with [[mage_armor|Mage Armor]])
 - **Hit Points** 99 (18d8 + 18)
 - **Speed** 30 ft.
 
@@ -12,7 +12,7 @@ _Medium humanoid (any race), any alignment_
 
 - **Saving Throws** Int +9, Wis +6
 - **Skills** Arcana +13, History +13
-- **Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from _Stoneskin_)
+- **Damage Resistance** damage from spells; nonmagical bludgeoning, piercing, and slashing (from [[stoneskin|Stoneskin]])
 - **Senses** passive Perception 12
 - **Languages** any six languages
 - **Challenge** 12 (8,400 XP)
@@ -20,18 +20,18 @@ _Medium humanoid (any race), any alignment_
 ## Traits
 
 - _**Magic Resistance.**_ The archmage has advantage on saving throws against spells and other magical effects.
-- _**Spellcasting.**_ The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast _Disguise Self_ and _Invisibility_ at will and has the following wizard spells prepared:
+- _**Spellcasting.**_ The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast [[disguise_self|Disguise Self]] and [[invisibility|Invisibility]] at will and has the following wizard spells prepared:
 
-    - Cantrips (at will): _Fire Bolt_, _Light_, _Mage Hand_, _Prestidigitation_, _Shocking Grasp_
-    - 1st level (4 slots): _Detect Magic_, _Identify_, _Mage Armor_,\* _Magic Missile_
-    - 2nd level (3 slots): _Detect Thoughts_, _Mirror Image_, _Misty Step_
-    - 3rd level (3 slots): _Counterspell_, _Fly_, _Lightning Bolt_
-    - 4th level (3 slots): _Banishment_, _Fire Shield_, _Stoneskin_\*
-    - 5th level (3 slots): _Cone of Cold_, _Scrying_, _Wall of Force_
-    - 6th level (1 slot): _Globe of Invulnerability_
-    - 7th level (1 slot): _Teleport_
-    - 8th level (1 slot): _Mind Blank_\*
-    - 9th level (1 slot): _Time Stop_
+    - Cantrips (at will): [[fire_bolt|Fire Bolt]], [[light|Light]], [[mage_hand|Mage Hand]], [[prestidigitation|Prestidigitation]], [[shocking_grasp|Shocking Grasp]]
+    - 1st level (4 slots): [[detect_magic|Detect Magic]], [[identify|Identify]], [[mage_armor|Mage Armor]],\* [[magic_missile|Magic Missile]]
+    - 2nd level (3 slots): [[detect_thoughts|Detect Thoughts]], [[mirror_image|Mirror Image]], [[misty_step|Misty Step]]
+    - 3rd level (3 slots): [[counterspell|Counterspell]], [[fly|Fly]], [[lightning_bolt|Lightning Bolt]]
+    - 4th level (3 slots): [[banishment|Banishment]], [[fire_shield|Fire Shield]], [[stoneskin|Stoneskin]]\*
+    - 5th level (3 slots): [[cone_of_cold|Cone of Cold]], [[scrying|Scrying]], [[wall_of_force|Wall of Force]]
+    - 6th level (1 slot): [[globe_of_invulnerability|Globe of Invulnerability]]
+    - 7th level (1 slot): [[teleport|Teleport]]
+    - 8th level (1 slot): [[mind_blank|Mind Blank]]\*
+    - 9th level (1 slot): [[time_stop|Time Stop]]
 
     \**The archmage casts these spells on itself before combat.*
 

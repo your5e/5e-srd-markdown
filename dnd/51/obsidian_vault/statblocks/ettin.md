@@ -17,7 +17,7 @@ _Large giant, chaotic evil_
 
 ## Traits
 
-- _**Two Heads.**_ The ettin has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, and knocked unconscious.
+- _**Two Heads.**_ The ettin has advantage on Wisdom (Perception) checks and on saving throws against being [[blinded]], [[charmed]], [[deafened]], [[frightened]], [[stunned]], and knocked [[unconscious]].
 - _**Wakeful.**_ When one of the ettin's heads is asleep, its other head is awake.
 
 ## Actions

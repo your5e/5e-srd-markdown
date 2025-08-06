@@ -2,4 +2,4 @@
 
 _Potion, rare_
 
-When you drink this potion, you gain the effect of the _Detect Thoughts_ spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it.
+When you drink this potion, you gain the effect of the [[detect_thoughts|Detect Thoughts]] spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it.

@@ -7,11 +7,11 @@ _6th-level transmutation_
 - **Components:** V, S, M (a lodestone and a pinch of dust)
 - **Duration:** Instantaneous
 
-A thin green ray springs from your pointing finger to a target that you can see within range. The target can be a creature, an object, or a creation of magical force, such as the wall created by _Wall of Force_.
+A thin green ray springs from your pointing finger to a target that you can see within range. The target can be a creature, an object, or a creation of magical force, such as the wall created by [[wall_of_force|Wall of Force]].
 
 A creature targeted by this spell must make a Dexterity saving throw. On a failed save, the target takes 10d6 + 40 force damage. If this damage reduces the target to 0 hit points, it is disintegrated.
 
-A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a _True Resurrection_ or a _Wish_ spell.
+A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only by means of a [[true_resurrection|True Resurrection]] or a [[wish|Wish]] spell.
 
 This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If the target is a Huge or larger object or creation of force, this spell disintegrates a 10-footcube portion of it. A magic item is unaffected by this spell.
 

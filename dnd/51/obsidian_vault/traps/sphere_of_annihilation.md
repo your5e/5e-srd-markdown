@@ -6,4 +6,4 @@ Magical, impenetrable darkness fills the gaping mouth of a stone face carved int
 
 A successful DC 20 Intelligence (Arcana) check reveals that the mouth contains a _Sphere of Annihilation_ that can't be controlled or moved. It is otherwise identical to a normal _Sphere of Annihilation_.
 
-Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the _sympathy_ aspect of the _Antipathy/Sympathy_ spell. A successful _Dispel Magic_ (DC 18) removes this enchantment.
+Some versions of the trap include an enchantment placed on the stone face, such that specified creatures feel an overwhelming urge to approach it and crawl inside its mouth. This effect is otherwise like the _sympathy_ aspect of the [[antipathy_sympathy|Antipathy/Sympathy]] spell. A successful [[dispel_magic|Dispel Magic]] (DC 18) removes this enchantment.
