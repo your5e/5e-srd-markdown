@@ -1,13 +1,13 @@
 magic_items = {
     "a": [
         "Adamantine Armor",
-        "Ammunition",
+        "Ammunition, +1, +2, or +3",
         "Amulet of Health",
         "Amulet of Proof Against Detection and Location",
         "Amulet of the Planes",
         "Animated Shield",
         "Apparatus of the Crab",
-        "Armor",
+        "Armor, +1, +2, or +3",
         "Armor of Invulnerability",
         "Armor of Resistance",
         "Armor of Vulnerability",
@@ -219,7 +219,7 @@ magic_items = {
     "s": [
         "Scarab of Protection",
         "Scimitar of Speed",
-        "Shield",
+        "Shield, +1, +2, or +3",
         "Shield of Missile Attraction",
         "Slippers of Spider Climbing",
         "Sovereign Glue",
@@ -275,7 +275,7 @@ magic_items = {
         "Wand of the War Mage",
         "Wand of Web",
         "Wand of Wonder",
-        "Weapon",
+        "Weapon, +1, +2, or +3",
         "Well of Many Worlds",
         "Wind Fan",
         "Winged Boots",

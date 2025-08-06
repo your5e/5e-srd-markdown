@@ -16,6 +16,11 @@
     [ "$status" -eq 0 ]
 }
 
+@test "check for vault changes" {
+    run python update_vault.py dnd/51/markdown dnd/51/obsidian_vault
+    [ "$status" -eq 0 ]
+}
+
 @test "zero files changed" {
     run git status --porcelain
     diff -u <(echo "") <(echo "$output")
