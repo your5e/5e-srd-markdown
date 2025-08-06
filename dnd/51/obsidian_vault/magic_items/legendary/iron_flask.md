@@ -8,25 +8,25 @@ You can use an action to remove the flask's stopper and release the creature the
 
 An [[identify|Identify]] spell reveals that a creature is inside the flask, but the only way to determine the type of creature is to open the flask. A newly discovered bottle might already contain a creature chosen by the GM or determined randomly.
 
-| d100   | Contents          |
-|--------|-------------------|
-| 1‒50   | Empty             |
-| 51‒54  | Demon (type 1)    |
-| 55‒58  | Demon (type 2)    |
-| 59‒62  | Demon (type 3)    |
-| 63‒64  | Demon (type 4)    |
-| 65     | Demon (type 5)    |
-| 66     | Demon (type 6)    |
-| 67     | Deva              |
-| 68‒69  | Devil (greater)   |
-| 70‒73  | Devil (lesser)    |
-| 74‒75  | Djinni            |
-| 76‒77  | Efreeti           |
-| 78‒83  | Elemental (any)   |
-| 84‒86  | [[invisible]] stalker |
-| 87‒90  | Night hag         |
-| 91     | Planetar          |
-| 92‒95  | Salamander        |
-| 96     | Solar             |
-| 97‒99  | Succubus/incubus  |
-| 100    | Xorn              |
+| d100  | Contents                                 |
+|-------|------------------------------------------|
+| 1‒50  | Empty                                    |
+| 51‒54 | Demon (type 1)                           |
+| 55‒58 | Demon (type 2)                           |
+| 59‒62 | Demon (type 3)                           |
+| 63‒64 | Demon (type 4)                           |
+| 65    | Demon (type 5)                           |
+| 66    | Demon (type 6)                           |
+| 67    | [[deva\|Deva]]                           |
+| 68‒69 | Devil (greater)                          |
+| 70‒73 | Devil (lesser)                           |
+| 74‒75 | [[djinni\|Djinni]]                       |
+| 76‒77 | [[efreeti\|Efreeti]]                     |
+| 78‒83 | Elemental (any)                          |
+| 84‒86 | [[invisible_stalker\|Invisible stalker]] |
+| 87‒90 | [[night_hag\|Night hag]]                 |
+| 91    | [[planetar\|Planetar]]                   |
+| 92‒95 | [[salamander\|Salamander]]               |
+| 96    | [[solar\|Solar]]                         |
+| 97‒99 | [[succubus_incubus\|Succubus/incubus]]   |
+| 100   | [[xorn\|Xorn]]                           |
