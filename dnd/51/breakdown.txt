@@ -484,8 +484,7 @@
  11877  11883  markdown/magic_items/rare/cloak_of_the_bat.md
  11885  11889  markdown/magic_items/uncommon/cloak_of_the_manta_ray.md
  11891  11901  markdown/magic_items/crystal_ball.md
- 11903  11911  markdown/magic_items/rare/cube_of_force.md
- 11913  11932  markdown/magic_items/cube_of_force_faces.md
+ 11903  11932  markdown/magic_items/rare/cube_of_force.md
  11934  11942  markdown/magic_items/legendary/cubic_gate.md
  11944  11950  markdown/magic_items/rare/dagger_of_venom.md
  11952  11960  markdown/magic_items/very_rare/dancing_sword.md

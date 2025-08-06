@@ -78,7 +78,7 @@ Warning: ### Apparatus of the Crab Levers, 11484: table immediately after header
 Warning: ### Gray Bag of Tricks, 11608: table immediately after header
 Warning: ### Rust Bag of Tricks, 11621: table immediately after header
 Warning: ### Tan Bag of Tricks, 11634: table immediately after header
-Warning: ## Cube of Force Faces, 11915: table immediately after header
+Warning: ### Cube of Force Faces, 11915: table immediately after header
 Warning: ### Potions of Healing, 12967: table immediately after header
 Warning: ### Spell Scroll, 13471: table immediately after header
 Warning: ### Special Purpose, 13992: possible mistaken mid-paragraph italic: 'Aligned:'

@@ -509,7 +509,6 @@ Magic items are presented in alphabetical order. A magic item's description give
 @include    markdown/magic_items/uncommon/cloak_of_the_manta_ray.md
 @include    markdown/magic_items/crystal_ball.md
 @include    markdown/magic_items/rare/cube_of_force.md
-@include    markdown/magic_items/cube_of_force_faces.md
 @include    markdown/magic_items/legendary/cubic_gate.md
 @include    markdown/magic_items/rare/dagger_of_venom.md
 @include    markdown/magic_items/very_rare/dancing_sword.md

@@ -21,6 +21,7 @@
             --ignore dnd/51/ignore_vault.txt \
                 dnd/51/markdown \
                 dnd/51/obsidian_vault
+    diff -u <(echo "") <(echo "$output")
     [ "$status" -eq 0 ]
 }
 

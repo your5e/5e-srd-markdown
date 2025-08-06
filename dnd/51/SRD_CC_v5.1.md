@@ -11910,7 +11910,7 @@ You can use an action to press one of the cube's faces, expending a number of ch
 
 If your movement causes the barrier to come into contact with a solid object that can't pass through the cube, you can't move any closer to that object as long as the barrier remains.
 
-## Cube of Force Faces
+### Cube of Force Faces
 
 |   Face |   Charges | Effect                                                                                                            |
 |--------|-----------|-------------------------------------------------------------------------------------------------------------------|
