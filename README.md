@@ -18,6 +18,7 @@ the SRD in question.
     - [Markdown (untouched)](dnd/51/SRD_CC_v5.1.untouched.md)
     - [Markdown (whole)](dnd/51/SRD_CC_v5.1.md)
     - [Markdown (broken into sections)](dnd/51/markdown)
+    - [Obsidian vault (.zip)](https://github.com/your5e/5e-srd-markdown/releases/download/v0.1/dnd_51_srd.zip)
 
     > This work includes material taken from the System Reference Document 5.1
     > ("SRD 5.1") by Wizards of the Coast LLC and available at
