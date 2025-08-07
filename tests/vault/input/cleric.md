@@ -67,7 +67,7 @@ The Cleric table shows how many spell slots you have to cast your spells of 1st 
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [[cure_wounds|Cure Wounds]], you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell _Cure Wounds_, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
@@ -148,13 +148,13 @@ The Life domain focuses on the vibrant positive energy — one of the fundamenta
 
 #### Life Domain Spells
 
-| Cleric Level   | Spells                                                                             |
-|----------------|------------------------------------------------------------------------------------|
-| 1st            | [[bless\|Bless]], [[cure_wounds\|Cure Wounds]]                                     |
-| 3rd            | [[lesser_restoration\|Lesser Restoration]], [[spiritual_weapon\|Spiritual Weapon]] |
-| 5th            | [[beacon_of_hope\|Beacon of Hope]], [[revivify\|Revivify]]                         |
-| 7th            | [[death_ward\|Death Ward]], [[guardian_of_faith\|Guardian of Faith]]               |
-| 9th            | [[mass_cure_wounds\|Mass Cure Wounds]], [[raise_dead\|Raise Dead]]                 |
+| Cleric Level   | Spells                                   |
+|----------------|------------------------------------------|
+| 1st            | _Bless_, _Cure Wounds_                   |
+| 3rd            | _Lesser Restoration_, _Spiritual Weapon_ |
+| 5th            | _Beacon of Hope_, _Revivify_             |
+| 7th            | _Death Ward_, _Guardian of Faith_        |
+| 9th            | _Mass Cure Wounds_, _Raise Dead_         |
 
 #### Bonus Proficiency
 

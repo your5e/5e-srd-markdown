@@ -331,13 +331,13 @@ The Fiend lets you choose from an expanded list of spells when you learn a warlo
 
 ##### Fiend Expanded Spells
 
-| Spell Level   | Spells                                |
-|---------------|---------------------------------------|
-| 1st           | [[burning_hands|Burning Hands]], [[command|Command]]            |
-| 2nd           | [[blindness_deafness|Blindness/Deafness]], [[scorching_ray|Scorching Ray]] |
-| 3rd           | [[fireball|Fireball]], [[stinking_cloud|Stinking Cloud]]          |
-| 4th           | [[fire_shield|Fire Shield]], [[wall_of_fire|Wall of Fire]]         |
-| 5th           | [[flame_strike|Flame Strike]], [[hallow|Hallow]]              |
+| Spell Level   | Spells                                                                       |
+|---------------|------------------------------------------------------------------------------|
+| 1st           | [[burning_hands\|Burning Hands]], [[command\|Command]]                       |
+| 2nd           | [[blindness_deafness\|Blindness/Deafness]], [[scorching_ray\|Scorching Ray]] |
+| 3rd           | [[fireball\|Fireball]], [[stinking_cloud\|Stinking Cloud]]                   |
+| 4th           | [[fire_shield\|Fire Shield]], [[wall_of_fire\|Wall of Fire]]                 |
+| 5th           | [[flame_strike\|Flame Strike]], [[hallow\|Hallow]]                           |
 
 #### Dark One's Blessing
 

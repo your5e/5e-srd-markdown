@@ -10,6 +10,7 @@ from pathlib import Path
 from lib.spells import spells
 from lib.magic_items import magic_items
 from lib.conditions import conditions
+from lib.tables import realign_table
 
 
 def proper_nouns_to_wikilinks(line, nouns, filename):
@@ -26,9 +27,12 @@ def proper_nouns_to_wikilinks(line, nouns, filename):
                     ).strip('_')
 
                     if link != filename:
+                        link_text = f'[[{link}|{noun}]]'
+                        if line.startswith('|'):
+                            link_text = f'[[{link}\\|{noun}]]'
                         line = re.sub(
                             re.escape(f'_{text}_'),
-                            f'[[{link}|{noun}]]',
+                            link_text,
                             line,
                             flags=re.IGNORECASE
                         )
@@ -89,6 +93,7 @@ def process_condition_wikilinks(lines, index, filename):
                             flags=re.IGNORECASE,
                             count=1,
                         )
+                        seen.add(condition)
         line = line + part
 
     if line != lines[index]:
@@ -97,11 +102,16 @@ def process_condition_wikilinks(lines, index, filename):
     return None
 
 
+def process_table_alignment(lines, index, filename):
+    return realign_table(lines, index)
+
+
 def process_vault_file(lines, filename, ignore_lines):
     PROCESSORS = [
         process_spell_wikilinks,
         process_magic_item_wikilinks,
         process_condition_wikilinks,
+        process_table_alignment,
     ]
 
     for processor in PROCESSORS:

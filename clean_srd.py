@@ -7,6 +7,7 @@ from tabulate import tabulate
 
 from lib.spells import spells
 from lib.magic_items import magic_items
+from lib.tables import realign_table
 
 
 def check_duration_length(line):
@@ -76,64 +77,7 @@ def clean_unicode_chars(lines, index):
 
 
 def clean_table_alignment(lines, index):
-    if not lines[index].startswith('|'):    # not a table
-        return None
-    if index > 1 and lines[index-1] != '':  # not start of table
-        return None
-    if not all(                             # doesn't look like a table
-        re.match(r'^:?-+:?$', cell.strip())
-            for cell in lines[index+1].split('|')[1:-1]
-    ):
-        return None
-
-    headers = [re.sub(r' +', ' ', cell.strip()) for cell in lines[index].split('|')[1:-1]]
-    table_end = index
-
-    while True:
-        # find the end of the table
-        while table_end < len(lines) - 1 and lines[table_end + 1].startswith('|'):
-            table_end += 1
-
-        # look for the same table to continue after a page break
-        if table_end+3 < len(lines) and lines[table_end+3].startswith('|'):
-            cells = [cell for cell in lines[table_end+3].split('|')[1:-1]]
-            if len(cells) != len(headers):
-                break
-            if all('--' in cell for cell in cells):
-                break
-            table_end += 3
-        else:
-            break
-
-    rows = []
-    for line in lines[index+2:table_end+1]:
-        cells = [
-            re.sub(r' +', ' ', cell.strip())
-                for cell in line.split('|')[1:-1]
-        ]
-        # ensure number of cells matches headers
-        cells = (cells + [''] * len(headers))[:len(headers)]
-        if any(cell for cell in cells):
-            rows.append(cells)
-
-    # remove columns where every cell is empty
-    remove = []
-    for column in range(len(headers)):
-        if not headers[column] and all(not row[column] for row in rows):
-            remove.append(column)
-    for column in reversed(remove):
-        del headers[column]
-        for row in rows:
-            del row[column]
-
-    aligned = tabulate(rows, headers=headers, tablefmt='github').split('\n')
-    for i, new_line in enumerate(aligned):
-        lines[index + i] = new_line
-
-    difference = len(aligned) - (table_end - index + 1)
-    if difference < 0:
-        del lines[index + len(aligned):index + len(aligned) - difference]
-    return difference
+    return realign_table(lines, index)
 
 
 def clean_midsentence_pagebreak(lines, index):

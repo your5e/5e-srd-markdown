@@ -159,66 +159,66 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 
 ##### Arctic
 
-| Druid Level   | Circle Spells                         |
-|---------------|---------------------------------------|
-| 3rd           | [[hold_person|Hold Person]], [[spike_growth|Spike Growth]]         |
-| 5th           | [[sleet_storm|Sleet Storm]], [[slow|Slow]]                 |
-| 7th           | [[freedom_of_movement|Freedom of Movement]], [[ice_storm|Ice Storm]]    |
-| 9th           | [[commune_with_nature|Commune with Nature]], [[cone_of_cold|Cone of Cold]] |
+| Druid Level   | Circle Spells                                                                |
+|---------------|------------------------------------------------------------------------------|
+| 3rd           | [[hold_person\|Hold Person]], [[spike_growth\|Spike Growth]]                 |
+| 5th           | [[sleet_storm\|Sleet Storm]], [[slow\|Slow]]                                 |
+| 7th           | [[freedom_of_movement\|Freedom of Movement]], [[ice_storm\|Ice Storm]]       |
+| 9th           | [[commune_with_nature\|Commune with Nature]], [[cone_of_cold\|Cone of Cold]] |
 
 ##### Coast
 
-| Druid Level   | Circle Spells                          |
-|---------------|----------------------------------------|
-| 3rd           | [[mirror_image|Mirror Image]], [[misty_step|Misty Step]]           |
-| 5th           | [[water_breathing|Water Breathing]], [[water_walk|Water Walk]]        |
-| 7th           | [[control_water|Control Water]], [[freedom_of_movement|Freedom of Movement]] |
-| 9th           | [[conjure_elemental|Conjure Elemental]], [[scrying|Scrying]]         |
+| Druid Level   | Circle Spells                                                                  |
+|---------------|--------------------------------------------------------------------------------|
+| 3rd           | [[mirror_image\|Mirror Image]], [[misty_step\|Misty Step]]                     |
+| 5th           | [[water_breathing\|Water Breathing]], [[water_walk\|Water Walk]]               |
+| 7th           | [[control_water\|Control Water]], [[freedom_of_movement\|Freedom of Movement]] |
+| 9th           | [[conjure_elemental\|Conjure Elemental]], [[scrying\|Scrying]]                 |
 
 ##### Desert
 
-| Druid Level   | Circle Spells                                     |
-|---------------|---------------------------------------------------|
-| 3rd           | [[blur|Blur]], [[silence|Silence]]                                 |
-| 5th           | [[create_food_and_water|Create Food and Water]], [[protection_from_energy|Protection from Energy]] |
-| 7th           | [[blight|Blight]], [[hallucinatory_terrain|Hallucinatory Terrain]]                 |
-| 9th           | [[insect_plague|Insect Plague]], [[wall_of_stone|Wall of Stone]]                  |
+| Druid Level   | Circle Spells                                                                                        |
+|---------------|------------------------------------------------------------------------------------------------------|
+| 3rd           | [[blur\|Blur]], [[silence\|Silence]]                                                                 |
+| 5th           | [[create_food_and_water\|Create Food and Water]], [[protection_from_energy\|Protection from Energy]] |
+| 7th           | [[blight\|Blight]], [[hallucinatory_terrain\|Hallucinatory Terrain]]                                 |
+| 9th           | [[insect_plague\|Insect Plague]], [[wall_of_stone\|Wall of Stone]]                                   |
 
 ##### Forest
 
-| Druid Level   | Circle Spells                        |
-|---------------|--------------------------------------|
-| 3rd           | [[barkskin|Barkskin]], [[spider_climb|Spider Climb]]           |
-| 5th           | [[call_lightning|Call Lightning]], [[plant_growth|Plant Growth]]     |
-| 7th           | [[divination|Divination]], [[freedom_of_movement|Freedom of Movement]]  |
-| 9th           | [[commune_with_nature|Commune with Nature]], [[tree_stride|Tree Stride]] |
+| Druid Level   | Circle Spells                                                              |
+|---------------|----------------------------------------------------------------------------|
+| 3rd           | [[barkskin\|Barkskin]], [[spider_climb\|Spider Climb]]                     |
+| 5th           | [[call_lightning\|Call Lightning]], [[plant_growth\|Plant Growth]]         |
+| 7th           | [[divination\|Divination]], [[freedom_of_movement\|Freedom of Movement]]   |
+| 9th           | [[commune_with_nature\|Commune with Nature]], [[tree_stride\|Tree Stride]] |
 
 ##### Grassland
 
-| Druid Level   | Circle Spells                        |
-|---------------|--------------------------------------|
-| 3rd           | [[invisibility|Invisibility]], [[pass_without_trace|Pass Without Trace]] |
-| 5th           | [[daylight|Daylight]], [[haste|Haste]]                  |
-| 7th           | [[divination|Divination]], [[freedom_of_movement|Freedom of Movement]]  |
-| 9th           | [[dream|Dream]], [[insect_plague|Insect Plague]]             |
+| Druid Level   | Circle Spells                                                              |
+|---------------|----------------------------------------------------------------------------|
+| 3rd           | [[invisibility\|Invisibility]], [[pass_without_trace\|Pass Without Trace]] |
+| 5th           | [[daylight\|Daylight]], [[haste\|Haste]]                                   |
+| 7th           | [[divination\|Divination]], [[freedom_of_movement\|Freedom of Movement]]   |
+| 9th           | [[dream\|Dream]], [[insect_plague\|Insect Plague]]                         |
 
 ##### Mountain
 
-| Druid Level   | Circle Spells                       |
-|---------------|-------------------------------------|
-| 3rd           | [[spider_climb|Spider Climb]], [[spike_growth|Spike Growth]]      |
-| 5th           | [[lightning_bolt|Lightning Bolt]], [[meld_into_stone|Meld Into Stone]] |
-| 7th           | [[stone_shape|Stone Shape]], [[stoneskin|Stoneskin]]          |
-| 9th           | [[passwall|Passwall]], [[wall_of_stone|Wall of Stone]]         |
+| Druid Level   | Circle Spells                                                            |
+|---------------|--------------------------------------------------------------------------|
+| 3rd           | [[spider_climb\|Spider Climb]], [[spike_growth\|Spike Growth]]           |
+| 5th           | [[lightning_bolt\|Lightning Bolt]], [[meld_into_stone\|Meld Into Stone]] |
+| 7th           | [[stone_shape\|Stone Shape]], [[stoneskin\|Stoneskin]]                   |
+| 9th           | [[passwall\|Passwall]], [[wall_of_stone\|Wall of Stone]]                 |
 
 ##### Swamp
 
-| Druid Level   | Circle Spells                            |
-|---------------|------------------------------------------|
-| 3rd           | [[acid_arrow|Acid Arrow]], [[darkness|Darkness]]                 |
-| 5th           | [[water_walk|Water Walk]], [[stinking_cloud|Stinking Cloud]]           |
-| 7th           | [[freedom_of_movement|Freedom of Movement]], [[locate_creature|Locate Creature]] |
-| 9th           | [[insect_plague|Insect Plague]], [[scrying|Scrying]]               |
+| Druid Level   | Circle Spells                                                                      |
+|---------------|------------------------------------------------------------------------------------|
+| 3rd           | [[acid_arrow\|Acid Arrow]], [[darkness\|Darkness]]                                 |
+| 5th           | [[water_walk\|Water Walk]], [[stinking_cloud\|Stinking Cloud]]                     |
+| 7th           | [[freedom_of_movement\|Freedom of Movement]], [[locate_creature\|Locate Creature]] |
+| 9th           | [[insect_plague\|Insect Plague]], [[scrying\|Scrying]]                             |
 
 #### Land's Stride
 

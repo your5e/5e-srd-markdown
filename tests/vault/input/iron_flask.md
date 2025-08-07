@@ -17,16 +17,16 @@ An [[identify|Identify]] spell reveals that a creature is inside the flask, but 
 | 63‒64  | Demon (type 4)    |
 | 65     | Demon (type 5)    |
 | 66     | Demon (type 6)    |
-| 67     | [[deva|Deva]]              |
+| 67     | [[deva\|Deva]]              |
 | 68‒69  | Devil (greater)   |
 | 70‒73  | Devil (lesser)    |
-| 74‒75  | [[djinni|Djinni]]            |
-| 76‒77  | [[efreeti|Efreeti]]           |
+| 74‒75  | [[djinni\|Djinni]]            |
+| 76‒77  | [[efreeti\|Efreeti]]           |
 | 78‒83  | Elemental (any)   |
-| 84‒86  | [[invisible_stalker|Invisible stalker]] |
-| 87‒90  | [[night_hag|Night hag]]         |
-| 91     | [[planetar|Planetar]]          |
-| 92‒95  | [[salamander|Salamander]]        |
-| 96     | [[solar|Solar]]             |
-| 97‒99  | [[succubus_incubus|Succubus/incubus]]  |
-| 100    | [[xorn|Xorn]]              |
+| 84‒86  | [[invisible_stalker\|Invisible stalker]] |
+| 87‒90  | [[night_hag\|Night hag]]         |
+| 91     | [[planetar\|Planetar]]          |
+| 92‒95  | [[salamander\|Salamander]]        |
+| 96     | [[solar\|Solar]]             |
+| 97‒99  | [[succubus_incubus\|Succubus/incubus]]  |
+| 100    | [[xorn\|Xorn]]              |

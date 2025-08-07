@@ -195,13 +195,13 @@ You gain oath spells at the paladin levels listed.
 
 ##### Oath of Devotion Spells
 
-| Paladin Level   | Spells                                       |
-|-----------------|----------------------------------------------|
-| 3rd             | [[protection_from_evil_and_good|Protection from Evil and Good]], [[sanctuary|Sanctuary]] |
-| 5th             | [[lesser_restoration|Lesser Restoration]], [[zone_of_truth|Zone of Truth]]        |
-| 9th             | [[beacon_of_hope|Beacon of Hope]], [[dispel_magic|Dispel Magic]]             |
-| 13th            | [[freedom_of_movement|Freedom of Movement]], [[guardian_of_faith|Guardian of Faith]]   |
-| 17th            | [[commune|Commune]], [[flame_strike|Flame Strike]]                    |
+| Paladin Level   | Spells                                                                                     |
+|-----------------|--------------------------------------------------------------------------------------------|
+| 3rd             | [[protection_from_evil_and_good\|Protection from Evil and Good]], [[sanctuary\|Sanctuary]] |
+| 5th             | [[lesser_restoration\|Lesser Restoration]], [[zone_of_truth\|Zone of Truth]]               |
+| 9th             | [[beacon_of_hope\|Beacon of Hope]], [[dispel_magic\|Dispel Magic]]                         |
+| 13th            | [[freedom_of_movement\|Freedom of Movement]], [[guardian_of_faith\|Guardian of Faith]]     |
+| 17th            | [[commune\|Commune]], [[flame_strike\|Flame Strike]]                                       |
 
 #### Channel Divinity
 

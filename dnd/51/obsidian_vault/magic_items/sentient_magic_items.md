@@ -58,7 +58,7 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 |   d10 | Purpose                                                                                                                                  |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------|
 |     1 | _Aligned:_ The item seeks to defeat or destroy those of a diametrically opposed alignment. (Such an item is never neutral.)              |
-|     2 | [[bane|Bane]]: The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.           |
+|     2 | [[bane\|Bane]]: The item seeks to defeat or destroy creatures of a particular kind, such as fiends, shapechangers, trolls, or wizards.   |
 |     3 | _Protector:_ The item seeks to defend a particular race or kind of creature, such as elves or druids.                                    |
 |     4 | _Crusader:_ The item seeks to defeat, weaken, or destroy the servants of a particular deity.                                             |
 |     5 | Templar: The item seeks to defend the servants and interests of a particular deity.                                                      |
