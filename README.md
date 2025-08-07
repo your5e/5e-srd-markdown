@@ -119,3 +119,40 @@ To check, use
 ```bash
 diff -u dnd/51/SRD_CC_v5.1.md <(./rebuild.sh dnd/51/breakdown.md)
 ```
+
+### Create an Obsidian vault
+
+Once the SRD is edited, create a copy to use as an Obsidian vault.
+
+```bash
+python update_vault.py \
+    --progress \
+        dnd/51/markdown \
+        dnd/51/obsidian_vault
+```
+
+Some words that are also conditions (eg invisible) may be incorrectly linked.
+The lines that they are on can be added to `ignore_vault.txt` so that they
+won't be re-created when re-running the script:
+
+```bash
+python update_vault.py \
+    --progress \
+    --ignore dnd/51/ignore_vault.txt \
+        dnd/51/markdown \
+        dnd/51/obsidian_vault
+```
+
+And where files need to be altered after the script has run in a way that
+would be overwritten (eg creating more wikilinks that would be removed again),
+after editing the files, create patches:
+
+```bash
+./vault_patches.sh create dnd/51
+```
+
+that can then be restored later:
+
+```bash
+./vault_patches.sh apply dnd/51
+```

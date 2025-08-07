@@ -23,6 +23,9 @@
                 dnd/51/obsidian_vault
     diff -u <(echo "") <(echo "$output")
     [ "$status" -eq 0 ]
+
+    run ./vault_patches.sh apply dnd/51
+    [ "$status" -eq 0 ]
 }
 
 @test "zero files changed" {
