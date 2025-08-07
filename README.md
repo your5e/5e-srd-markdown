@@ -36,9 +36,9 @@ the SRD in question.
     - changed "Petrifying Gaze" to be bold italics for consistency
     - Some tables have been broken into section to make them clearer, as
       Markdown doesn't support mid-table headers:
-        - Armor types ([Armor](dnd/51/markdown/equpiment/armor.md))
+        - Armor types ([Armor](dnd/51/markdown/equipment/armor.md))
         - Saddles ([Mounts and Vehicles](dnd/51/markdown/equipment/mounts_and_vehicles.md))
-        - Scrying ([Scrying](dnd/51/markdown/spells/level_5/scrying.md))
+        - Scrying ([Scrying](dnd/51/markdown/spells/5th_level/scrying.md))
         - Tack, Harness, and Drawn Vehicles ([Tools](dnd/51/markdown/equipment/tools.md))
         - Weapon types ([Weapons](dnd/51/markdown/equipment/weapons.md))
     - Re-arranged the order of the Fantasy-Historical Pantheons so that the
@@ -52,7 +52,9 @@ the SRD in question.
 
 Create the Markdown using [marker](https://github.com/datalab-to/marker):
 
-    marker_single -output_dir . --output_format markdown SRD_CC_v5.1.pdf
+```bash
+marker_single -output_dir . --output_format markdown SRD_CC_v5.1.pdf
+```
 
 Place the resulting Markdown to the right place (`srd/51/SRD_CC_v5.1.md`),
 keep a pristine copy (`srd/51/SRD_CC_v5.1.untouched.md`), and copy it to
@@ -79,7 +81,7 @@ cp dnd/51/SRD_CC_v5.1.md dnd/51/breakdown.md \
 Run the cleaning script:
 
 ```bash
-python clean_srd.py dnd/51/SRD_CC_v5.1.md
+python clean_srd.py --progress dnd/51/SRD_CC_v5.1.md
 ```
 
 If it detects any errors it cannot fix automatically, it will issue errors and
@@ -87,9 +89,22 @@ not process the file further. After reformatting the document, it will also
 scan for problems that might need human intervention. Any automatic changes
 will have updated the breakdown file as necessary.
 
+If warnings are emitted during cleaning that can be safely ignored, they
+can be added to an ignore file. Similarly, if any source would be modified
+in an unwanted manner, those lines can be added to a file declaring them
+already cleaned:
+
+```bash
+python clean_srd.py \
+    --progress \
+    --ignore-warnings dnd/51/ignore_warnings.txt \
+    --clean-lines dnd/51/clean_lines.txt \
+        dnd/51/SRD_CC_v5.1.md
+```
+
 When changing the source by hand and lines are added/removed, use
-`alter_lines.sh` to add/subtract line boundaries from a matching
-section onwards:
+`alter_lines.sh` to change the line numbers in `breakdown.txt` and
+`ignore_warnings.txt` from a specific point in the breakdown onwards:
 
 ```bash
 ./alter_lines.sh -d dnd/51/ /black_tentacles -2
@@ -98,23 +113,32 @@ section onwards:
 ### Fix header progression
 
 The broken down fragments of the SRD should start with a first level header.
-Some fragments can be fixed automatically (most statblocks, anything with
-a clear header progression), but some will have to be edited by hand.
+To look for general problems in header progression, use:
 
 ```bash
-./fix_statblock_headers.sh dnd/51/markdown/statblocks \
+./headers.sh dnd/51/markdown
+```
+
+Some fragments can be fixed automatically (most statblocks, anything with
+a simple header progression):
+
+```bash
+./fix_statblock_headers.sh dnd/51/markdown/statblocks
 ./fix_headers.sh dnd/51/markdown
 ```
 
-The warnings from the `fix*` scripts can be piped to `edit_warnings.sh`
-to open the file at the right line (in Sublime Text).
+If there are warnings from `headers.sh`, or the `fix*` scripts where they
+can't fix things automatically, they can be piped to `edit_warnings.sh` to
+open the file at the right line (in Sublime Text):
 
 ```bash
 ./fix_statblock_headers.sh dnd/51/markdown/statblocks \
     | ./edit_warnings.sh
 ```
 
-To check, use
+### Confirming the source
+
+To check the SRD master file against the broken down fragments, use:
 
 ```bash
 diff -u dnd/51/SRD_CC_v5.1.md <(./rebuild.sh dnd/51/breakdown.md)
