@@ -9,4 +9,5 @@ test:
 	@bats tests/vault/*.bats
 
 ci: test
+	@bats tests/srd/srd.bats
 	@bats tests/ci/ci.bats
