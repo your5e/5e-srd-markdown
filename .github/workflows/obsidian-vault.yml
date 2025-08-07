@@ -1,0 +1,33 @@
+name: Zip Obsidian vault
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+jobs:
+  build-vault:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Create zip
+      run: |
+        rsync -av dnd/51/obsidian_vault/ /tmp/dnd_51_srd/
+        (cd /tmp && zip -r dnd_51_srd.zip dnd_51_srd/)
+
+    - name: Upload zip
+      uses: actions/upload-artifact@v4
+      with:
+        name: dnd_51_srd
+        path: /tmp/dnd_51_srd.zip
+        
+    - name: Create Release
+      uses: softprops/action-gh-release@v1
+      if: github.ref_type == 'tag'
+      with:
+        files: |
+          /tmp/dnd_51_srd.zip
