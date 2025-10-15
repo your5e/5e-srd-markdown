@@ -94,3 +94,9 @@ source ./rebuild.sh
     [ -n "$output" ]
 }
 
+@test "include subset of file by line range" {
+    run ./rebuild.sh tests/rebuild/input_subset.md tests/rebuild/expected/output_subset.md
+    diff -u <(echo "") <(echo "$output")
+    [ "$status" -eq 0 ]
+}
+

@@ -2,9 +2,15 @@
 
 This is the introduction section that should not be extracted.
 
-@include 1-7 sections/section_one.md
-@include 1-7 sections/section_two.md
-@include- 1-5 sections/section_three.md
+## Section One
+
+This is the content of section one.
+
+Line 3 of section two.
+Line 4 of section two.
+
+## Section Three
+
 
 ## Conclusion
 

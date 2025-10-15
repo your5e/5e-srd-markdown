@@ -2,8 +2,8 @@
 
 This is the introduction section that should not be extracted.
 
-@include sections/section_one.md
-@include- sections/section_three.md
+@include 1-7 sections/section_one.md
+@include- 1-5 sections/section_three.md
 
 ## Conclusion
 
