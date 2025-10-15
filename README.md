@@ -74,7 +74,7 @@ keep a pristine copy (`srd/51/SRD_CC_v5.1.untouched.md`), and copy it to
 A draft breakdown is made with
 
 ```bash
-initial_breakdown.sh dnd/51/SRD_CC_v5.1.md > dnd/51/breakdown.txt
+./initial_breakdown.sh dnd/51/SRD_CC_v5.1.md > dnd/51/breakdown.txt
 ```
 
 and then refined by hand (as either `marker` detects far too many lines as
@@ -83,7 +83,7 @@ run repeatedly to spot mistakes:
 
 ```bash
 cp dnd/51/SRD_CC_v5.1.md dnd/51/breakdown.md \
-    && ./breakdown.sh dnd/51/breakdown.md \
+    && ./breakdown.sh -f dnd/51/breakdown.md \
     && diff -u dnd/51/SRD_CC_v5.1.md <(./rebuild.sh dnd/51/breakdown.md)
 ```
 
@@ -124,27 +124,21 @@ When changing the source by hand and lines are added/removed, use
 ### Fix header progression
 
 The broken down fragments of the SRD should start with a first level header.
+To help this, `breakdown.sh` will fix easy segments, and warn on any where the
+headers skip around too much. This can be suppressed with the `-f` argument.
+
 To look for general problems in header progression, use:
 
 ```bash
-./headers.sh dnd/51/markdown
+./check_headers.sh dnd/51/markdown
 ```
 
-Some fragments can be fixed automatically (most statblocks, anything with
-a simple header progression):
-
-```bash
-./fix_statblock_headers.sh dnd/51/markdown/statblocks
-./fix_headers.sh dnd/51/markdown
-```
-
-If there are warnings from `headers.sh`, or the `fix*` scripts where they
+If there are warnings from `check_headers.sh` or `breakdown.sh` where they
 can't fix things automatically, they can be piped to `edit_warnings.sh` to
 open the file at the right line (in Sublime Text):
 
 ```bash
-./fix_statblock_headers.sh dnd/51/markdown/statblocks \
-    | ./edit_warnings.sh
+./check_headers.sh dnd/51/markdown | ./edit_warnings.sh
 ```
 
 ### Confirming the source
