@@ -12,11 +12,11 @@ have been made to the text, tables, or details. Any changes are noted with
 the SRD in question.
 
 
-- D&D 5th edition 5.1 SRD (2014)
+- D&D 5th edition 5.1 SRD (2014 rules)
 
     - [PDF](dnd/51/SRD_CC_v5.1.pdf)
     - [Markdown (untouched)](dnd/51/SRD_CC_v5.1.untouched.md)
-    - [Markdown (whole)](dnd/51/SRD_CC_v5.1.md)
+    - [Markdown (cleaned, one file)](dnd/51/SRD_CC_v5.1.md)
     - [Markdown (broken into sections)](dnd/51/markdown)
     - [Obsidian vault (.zip)](https://github.com/your5e/5e-srd-markdown/releases/download/v0.1/dnd_51_srd.zip)
 
@@ -46,6 +46,16 @@ the SRD in question.
       table of deities appears in the description of that pantheon
     - Subclass introduction headers added to Barbarian, Bard, Cleric & Druid
 
+- D&D 5th edition 5.2.1 SRD (2024 rules)
+
+    - [PDF](dnd/521/SRD_CC_v5.2.1.pdf)
+    - [Markdown (untouched)](dnd/521/SRD_CC_v5.2.1.untouched.md)
+
+    > This work includes material from the System Reference Document 5.2.1
+    > ("SRD 5.2.1") by Wizards of the Coast LLC, available at
+    > <https://www.dndbeyond.com/srd>. The SRD 5.2.1 is licensed under the
+    > Creative Commons Attribution 4.0 International License, available at
+    > <https://creativecommons.org/licenses/by/4.0/> legalcode.
 
 ## Workflow for breaking the whole SRD into sections
 
@@ -54,7 +64,7 @@ the SRD in question.
 Create the Markdown using [marker](https://github.com/datalab-to/marker):
 
 ```bash
-marker_single -output_dir . --output_format markdown SRD_CC_v5.1.pdf
+marker_single --output_dir . --output_format markdown SRD_CC_v5.1.pdf
 ```
 
 Place the resulting Markdown to the right place (`srd/51/SRD_CC_v5.1.md`),
