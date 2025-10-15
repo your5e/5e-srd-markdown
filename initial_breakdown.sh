@@ -1,35 +1,40 @@
 #!/usr/bin/env -S bash -euo pipefail
 
-if [ $# -ne 1 ]; then
-    echo "Usage: initial_breakdown.sh <markdown_file>" >&2
-    exit 1
-fi
+function main {
+    if [ $# -ne 1 ]; then
+        echo "Usage: initial_breakdown.sh <markdown_file>" >&2
+        exit 1
+    fi
 
-markdown_file="$1"
-last_start=1
-last_section='__false__'
-index=1
+    markdown_file="$1"
+    last_start=1
+    last_section='__false__'
+    last_bold_text='__false__'
+    index=1
 
-while IFS= read -r line; do
-    if [[ "$line" =~ ^# ]]; then
+    while IFS= read -r line; do
+        if [[ "$line" =~ ^# ]]; then
+            header_text=$(extract_header_text "$line")
 
-        # this will probably tun out to be
-        # D&D 5.1 SRD specific handling
+            if [[ -z "$header_text" ]]; then
+                ((index++))
+                continue
+            fi
 
-        # "## **Bard**"             a genuine header
-        # "#### **Speed** 30 ft."   mischaracterisation
-        # "#### **Actions**"        another, and way too common
+            if should_skip_header "$header_text"; then
+                ((index++))
+                continue
+            fi
 
-        if [[ "$line" =~ \*\*([^*]+)\*\*[[:space:]]*$ ]]; then
-            bold_text="${BASH_REMATCH[1]}"
-
-            if [[ "$bold_text" == "Actions" ]]; then
+            # skip duplicate headers (5.2.1 has "aboleth -> aboleth")
+            if [[ "$header_text" == "$last_bold_text" ]]; then
+                last_start=$index
                 ((index++))
                 continue
             fi
 
             slug=$(
-                echo "$bold_text" \
+                echo "$header_text" \
                     | sed "s/'//g" \
                     | tr 'A-Z' 'a-z' \
                     | sed \
@@ -39,12 +44,62 @@ while IFS= read -r line; do
                         -e 's/^_//'
             )
 
-            printf '%8d %5d  %s\n' "$last_start" "$((index-2))" "$last_section"
+            if [[ "$last_section" != "__false__" ]]; then
+                output_section "$last_start" "$((index-2))" "$last_section"
+            fi
+
             last_start=$index
             last_section="markdown/${slug}.md"
+            last_bold_text="$header_text"
         fi
-    fi
-    ((index++))
-done < "$markdown_file"
+        ((index++))
+    done < "$markdown_file"
 
-printf '%8d %5d  %s\n' "$last_start" "$index" "$last_section"
+    if [[ "$last_section" != "__false__" ]]; then
+        output_section "$last_start" "$((index-1))" "$last_section"
+    fi
+}
+
+function extract_header_text {
+    local line="$1"
+
+    if [[ "$line" =~ \*\*([^*]+)\*\*[[:space:]]*$ ]]; then
+        echo "${BASH_REMATCH[1]}"
+    elif [[ "$line" =~ \*\*([^*]+)\*\* ]]; then
+        echo "${BASH_REMATCH[1]}"
+    elif [[ "$line" =~ ^#+[[:space:]]*(.+)$ ]]; then
+        echo "${BASH_REMATCH[1]}"
+    fi
+}
+
+function should_skip_header {
+    local header="$1"
+
+    [[ "$header" =~ ^(Actions|Traits|Bonus Actions)$ ]] && return 0
+    [[ "$header" =~ ^(Reactions|Legendary Actions)$ ]] && return 0
+    [[ "$header" =~ ^(Vulnerabilities|Resistances)$ ]] && return 0
+    [[ "$header" =~ ^(Immunities|Skills)$ ]] && return 0
+    [[ "$header" =~ ^(AC|HP|Speed|Components|Duration) ]] && return 0
+    [[ "$header" =~ [Ww]ondrous\ [Ii]tem ]] && return 0
+    [[ "$header" =~ [Rr]equires\ [Aa]ttunement ]] && return 0
+
+    local item_types="(Rod|Ring|Rope|Wand|Potion|Armor|Staff|Weapon|Scroll)"
+    local rarities="(Uncommon|Common|Rare|Very Rare|Legendary|Rarity Varies)"
+    [[ "$header" =~ $item_types.*$rarities ]] && return 0
+
+    return 1
+}
+
+function output_section {
+    local start=$1
+    local end=$2
+    local section=$3
+
+    if [[ "$start" == "$end" ]]; then
+        printf '# %6d %6d  %s\n' "$start" "$end" "$section"
+    else
+        printf '%6d %6d  %s\n' "$start" "$end" "$section"
+    fi
+}
+
+main "$@"
