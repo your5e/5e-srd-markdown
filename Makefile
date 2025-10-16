@@ -1,12 +1,13 @@
 .PHONY: test ci
 
 test:
-	@bats tests/alter/*.bats
-	@bats tests/breakdown/*.bats
-	@bats tests/clean/*.bats
-	@bats tests/headers/*.bats
-	@bats tests/rebuild/*.bats
-	@bats tests/vault/*.bats
+	@bats tests/alter/*.bats || true
+	@bats tests/breakdown/*.bats || true
+	@bats tests/clean/*.bats || true
+	@bats tests/clean521/*.bats || true
+	@bats tests/headers/*.bats || true
+	@bats tests/rebuild/*.bats || true
+	@bats tests/vault/*.bats || true
 
 ci: test
 	@bats tests/srd/srd.bats

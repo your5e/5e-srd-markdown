@@ -21,6 +21,10 @@ class TestCleanTableAlignment(TestFilter):
             | 1st   | +2          | Fighting    Style,  Second  Wind |
             | 2nd   | +2          | Action  Surge   (one    use)      |
             | 3rd   | +2          | Martial Archetype           |
+
+            | | | | | | |
+            |----------|--|----------|--|----------|--|
+
         """)
         expected = dedent("""\
             |       | Proficiency   |                             |
@@ -29,6 +33,7 @@ class TestCleanTableAlignment(TestFilter):
             | 1st   | +2            | Fighting Style, Second Wind |
             | 2nd   | +2            | Action Surge (one use)      |
             | 3rd   | +2            | Martial Archetype           |
+
         """)
 
         assert expected == self.run_text_through_filter(clean_table_alignment, text)

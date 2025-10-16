@@ -14,7 +14,7 @@ class TestCleanUnicodeChars(TestFilter):
 
         assert text == self.run_text_through_filter(clean_unicode_chars, text)
 
-    def test_filtering_dashes(self):
+    def test_filtering(self):
         text = dedent("""\
             | Score | Modifier | Score | Modifier |
             |-------|----------|-------|----------|
@@ -24,30 +24,46 @@ class TestCleanUnicodeChars(TestFilter):
             | 6–7   | −2       | 22–23 | +6       |
             | 8–9   | −1       | 24–25 | +7       |
             | 10–11 | +0       | 26–27 | +8       |
+
+            | Level | Bonus       | Features                                                | Known    | Known  | 1st                           | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+            | 1st   | +2          | Spellcasting,   Bardic  Inspiration<br>(d6)                | 2        | 4      | 2                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
+            | 2nd   | +2          | Jack    of  All Trades, Song    of  Rest<br>(d6)                | 2        | 5      | 3                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
+
+            • If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.
+
+            | Monster Size | Hit Die | Average HP per Die |
+            |--------------|---------|--------------------|
+            | Tiny         | d4      | 2½                 |
+            | Small        | d6      | 3½                 |
+            | Medium       | d8      | 4½                 |
+            | Large        | d10     | 5½                 |
+            | Huge         | d12     | 6½                 |
+            | Gargantuan   | d20     | 10½                |
         """)
         expected = dedent("""\
             | Score | Modifier | Score | Modifier |
             |-------|----------|-------|----------|
-            | 1     | -5       | 16–17 | +3       |
-            | 2–3   | -4       | 18–19 | +4       |
-            | 4–5   | -3       | 20–21 | +5       |
-            | 6–7   | -2       | 22–23 | +6       |
-            | 8–9   | -1       | 24–25 | +7       |
-            | 10–11 | +0       | 26–27 | +8       |
-        """)
+            | 1     | -5       | 16-17 | +3       |
+            | 2-3   | -4       | 18-19 | +4       |
+            | 4-5   | -3       | 20-21 | +5       |
+            | 6-7   | -2       | 22-23 | +6       |
+            | 8-9   | -1       | 24-25 | +7       |
+            | 10-11 | +0       | 26-27 | +8       |
 
-        assert expected == self.run_text_through_filter(clean_unicode_chars, text)
+            | Level | Bonus       | Features                                                | Known    | Known  | 1st                           | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+            | 1st   | +2          | Spellcasting,   Bardic  Inspiration<br>(d6)                | 2        | 4      | 2                             | —   | —   | —   | —   | —   | —   | —   | —   |
+            | 2nd   | +2          | Jack    of  All Trades, Song    of  Rest<br>(d6)                | 2        | 5      | 3                             | —   | —   | —   | —   | —   | —   | —   | —   |
 
-    def test_combining_long_stroke_overlay(self):
-        text = dedent("""\
-            | Level | Bonus       | Features                                                | Known    | Known  | 1st                           | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-            | 1st   | +2          | Spellcasting,	Bardic	Inspiration<br>(d6)                | 2        | 4      | 2                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-            | 2nd   | +2          | Jack	of	All	Trades,	Song	of	Rest<br>(d6)                | 2        | 5      | 3                             | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   | ̶   |
-        """)
-        expected = dedent("""\
-            | Level | Bonus       | Features                                                | Known    | Known  | 1st                           | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-            | 1st   | +2          | Spellcasting,	Bardic	Inspiration<br>(d6)                | 2        | 4      | 2                             | —   | —   | —   | —   | —   | —   | —   | —   |
-            | 2nd   | +2          | Jack	of	All	Trades,	Song	of	Rest<br>(d6)                | 2        | 5      | 3                             | —   | —   | —   | —   | —   | —   | —   | —   |
+            - If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.
+
+            | Monster Size | Hit Die | Average HP per Die |
+            |--------------|---------|--------------------|
+            | Tiny         | d4      | 2 1/2                 |
+            | Small        | d6      | 3 1/2                 |
+            | Medium       | d8      | 4 1/2                 |
+            | Large        | d10     | 5 1/2                 |
+            | Huge         | d12     | 6 1/2                 |
+            | Gargantuan   | d20     | 10 1/2                |
         """)
 
         assert expected == self.run_text_through_filter(clean_unicode_chars, text)

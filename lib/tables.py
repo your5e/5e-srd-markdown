@@ -59,6 +59,13 @@ def realign_table(lines, index):
         for row in rows:
             del row[column]
 
+    if not headers and not rows:
+        end = table_end + 1
+        if end < len(lines) and lines[end] == '':
+            end += 1
+        del lines[index:end]
+        return -(end - index)
+
     aligned = tabulate(rows, headers=headers, tablefmt='github').split('\n')
     for i, new_line in enumerate(aligned):
         lines[index + i] = new_line

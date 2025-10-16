@@ -26,25 +26,7 @@ class TestCleanUnwrapConsecutiveBold(TestFilter):
             **Armor Class** 21 (natural armor) **Hit Points** 243 (18d10 + 144) **Speed** 50 ft., fly 150 ft.
 
             | STR     | DEX     | CON     | INT     | WIS | CHA              |
-        """)
-        expected = dedent("""\
-            #### **Solar**
 
-            *Large celestial, lawful good*
-
-            **Armor Class** 21 (natural armor)
-
-            **Hit Points** 243 (18d10 + 144)
-
-            **Speed** 50 ft., fly 150 ft.
-
-            | STR     | DEX     | CON     | INT     | WIS | CHA              |
-        """)
-
-        assert expected == self.run_text_through_filter(clean_unwrap_consecutive_bold, text)
-
-    def test_spell_format(self):
-        text = dedent("""\
             #### **Acid Arrow**
 
             *2nd-level evocation*
@@ -54,16 +36,23 @@ class TestCleanUnwrapConsecutiveBold(TestFilter):
             A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
         """)
         expected = dedent("""\
+            #### **Solar**
+
+            *Large celestial, lawful good*
+
+            **Armor Class** 21 (natural armor)
+            **Hit Points** 243 (18d10 + 144)
+            **Speed** 50 ft., fly 150 ft.
+
+            | STR     | DEX     | CON     | INT     | WIS | CHA              |
+
             #### **Acid Arrow**
 
             *2nd-level evocation*
 
             **Casting Time:** 1 action
-
             **Range:** 90 feet
-
             **Components:** V, S, M (powdered rhubarb leaf and an adder's stomach)
-
             **Duration:** Instantaneous
 
             A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.

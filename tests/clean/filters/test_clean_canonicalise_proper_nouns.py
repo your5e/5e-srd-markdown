@@ -11,26 +11,14 @@ class TestCleanCanonicaliseProperNouns(TestFilter):
 
         assert text == self.run_text_through_filter(clean_canonicalise_proper_nouns, text)
 
-    def test_filtering_spells(self):
+    def test_filtering(self):
         text = dedent("""\
             # Whispers of the Grave
 
             _Prerequisite: 9th level_
 
             You can cast *speak with dead* at will, without expending a spell slot.
-        """)
-        expected = dedent("""\
-            # Whispers of the Grave
 
-            _Prerequisite: 9th level_
-
-            You can cast _Speak with Dead_ at will, without expending a spell slot.
-        """)
-
-        assert expected == self.run_text_through_filter(clean_canonicalise_proper_nouns, text)
-
-    def test_filtering_magic_items(self):
-        text = dedent("""\
             ## **Bag of Devouring**
 
             #### *Wondrous item, very rare*
@@ -38,6 +26,12 @@ class TestCleanCanonicaliseProperNouns(TestFilter):
             This bag superficially resembles a *bag of holding* but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
         """)
         expected = dedent("""\
+            # Whispers of the Grave
+
+            _Prerequisite: 9th level_
+
+            You can cast _Speak with Dead_ at will, without expending a spell slot.
+
             ## **Bag of Devouring**
 
             #### *Wondrous item, very rare*

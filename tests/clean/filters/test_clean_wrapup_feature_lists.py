@@ -17,7 +17,7 @@ class TestCleanWrapupFeatureLists(TestFilter):
 
         assert text == self.run_text_through_filter(clean_wrapup_feature_lists, text)
 
-    def test_filtering_consecutive_features(self):
+    def test_filtering(self):
         text = dedent("""\
             **Challenge** 1/4 (50 XP)
 

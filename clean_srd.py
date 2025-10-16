@@ -9,6 +9,14 @@ from lib.spells import spells
 from lib.magic_items import magic_items
 from lib.tables import realign_table
 
+ABILITIES = ['Str', 'Dex', 'Con', 'Int', 'Wis', 'Cha']
+NUMERIC_PROPERTIES = ['AC', 'Initiative', 'HP', 'Speed', 'CR']
+PROPERTIES = [
+    'Skills', 'Resistances', 'Immunities', 'Senses', 'Languages',
+    'Vulnerabilities'
+]
+MODIFIER_CHARS = '+-−0123456789'
+
 
 def check_duration_length(line):
     # "**Duration:** Concentration, up to 1 minute Squirming, ebony tentacles..."
@@ -66,14 +74,44 @@ def clean_unicode_chars(lines, index):
     replacements = {
         '\u0336': '—',  # "combining long stroke overlay" to em-dash
         '\u2212': '-',  # "minus sign" to hyphen
+        '\u2013': '-',  # "en-dash" to hyphen
+        '•': '-',       # bullet to hyphen
+        '½': ' 1/2',    # vulgar fractions
+        '⅓': ' 1/3',
+        '¼': ' 1/4',
+        '¾': ' 3/4',
+        '⅔': ' 2/3',
+        '⅕': ' 1/5',
+        '⅖': ' 2/5',
+        '⅗': ' 3/5',
+        '⅘': ' 4/5',
+        '⅙': ' 1/6',
+        '⅚': ' 5/6',
+        '⅐': ' 1/7',
+        '⅛': ' 1/8',
+        '⅜': ' 3/8',
+        '⅝': ' 5/8',
+        '⅞': ' 7/8',
     }
 
-    original = lines[index]
     for old, new in replacements.items():
         lines[index] = lines[index].replace(old, new)
-    if lines[index] != original:
-        return 0
-    return None
+    return 0
+
+
+def clean_space_out_emdashes(lines, index):
+    # "situations—particularly combat—the" -> "situations — particularly combat — the"
+    # (visually distinct in a text editor, no hair space exists in Markdown)
+    line = lines[index]
+    if '—' in line:
+        lines[index] = re.sub(r'(\w)—(\w)', r'\1 — \2', line)
+    return 0
+
+
+def clean_escape_square_brackets(lines, index):
+    # "Blinded [Condition]" -> "Blinded \[Condition\]"
+    lines[index] = lines[index].replace('[', '\\[').replace(']', '\\]')
+    return 0
 
 
 def clean_table_alignment(lines, index):
@@ -82,11 +120,21 @@ def clean_table_alignment(lines, index):
 
 def clean_midsentence_pagebreak(lines, index):
     # rejoin paragraphs split by pagebreaks
-    if index > 1 and lines[index] and lines[index][0].islower():
-        if lines[index - 1] == '' and lines[index - 2][-1].islower():
-            lines[index - 2] = lines[index - 2] + ' ' + lines[index]
-            del lines[index-1:index+1]
-            return -2
+    if lines[index] and lines[index][0].islower():
+        previous = index - 1
+        while previous >= 0 and lines[previous] == '':
+            previous -= 1
+
+        if previous >= 0 and lines[previous]:
+            if (
+                lines[previous][-1].islower()
+                or lines[previous][-1] == ','
+            ):
+                lines[previous] = (
+                    lines[previous] + ' ' + lines[index]
+                )
+                del lines[previous+1:index+1]
+                return -(index - previous)
     return None
 
 
@@ -131,25 +179,16 @@ def clean_statblock_attack_emphasis(lines, index):
 
 def clean_unwrap_consecutive_bold(lines, index):
     # **Hit Dice**, **Hit Points**, ... -- sometimes on one line
-    if lines[index].startswith('**') and ' **' in lines[index]:
-        bold_words = re.findall(r'\*\*([^*]+)\*\*', lines[index])
-        if not all(word[0].isupper() for word in bold_words if word):
-            return None
+    if not (lines[index].startswith('**') and ' **' in lines[index]):
+        return None
 
-        parts = re.split(r'\s+(?=\*\*[^*]+\*\*)', lines[index])
-        difference = -1
-        if index < len(lines)-1 and lines[index+1] == '':
-            del lines[index+1]
-            difference = -2
-        del lines[index]
+    parts = re.split(r'\s+(?=\*\*[^*]+\*\*)', lines[index])
+    lines[index] = parts[0].strip()
 
-        # maintain index by inserting the parts backwards
-        for i in range(len(parts)-1, -1, -1):
-            lines[index:index] = [parts[i].strip(), '']
-            difference += 2
+    for i, part in enumerate(parts[1:], 1):
+        lines.insert(index + i, part.strip())
 
-        return difference
-    return None
+    return len(parts) - 1
 
 
 def _wrapup_matching_lines(lines, index, pattern, indent=''):
@@ -165,7 +204,7 @@ def _wrapup_matching_lines(lines, index, pattern, indent=''):
             else:
                 break
 
-        if current > index:
+        if current >= index:
             for line in range(index, current+1):
                 lines[line] = f"{indent}- {lines[line]}"
             return index - current
@@ -184,7 +223,12 @@ def clean_wrapup_attribute_lists(lines, index):
 
 def clean_statblock_spells_to_list(lines, index):
     # "Cantrips", "1st level (4 slots)", "3/day" -- listify
-    return _wrapup_matching_lines(lines, index, r'^(Cantrips|At will|[0-9]+[a-z]* level|[0-9]+/day)', '    ')
+    return _wrapup_matching_lines(
+        lines,
+        index,
+        r'^(\*\*)?(Cantrips|At [Ww]ill|[0-9]+[a-z]* level|[0-9]+/[Dd]ay[^:]*):?',
+        ''
+    )
 
 
 def clean_single_action_to_list(lines, index):
@@ -266,30 +310,284 @@ def clean_add_traits_header(lines, index):
 
 def clean_italic_emphasis_markers(lines, index):
     # *word* -> _word_
-    italics = re.sub(r'(?<!\\)(?<!\*)\*([^*]+)\*(?!\*)', r'_\1_', lines[index])
-    if italics != lines[index]:
-        lines[index] = italics
+    lines[index] = re.sub(r'(?<!\\)(?<!\*)\*([^*]+)\*(?!\*)', r'_\1_', lines[index])
+    return 0
+
+
+def clean_collapse_adjacent_items(lines, index):
+    # pull up adjacent "**Skills**" and "- List item"
+    if (
+        index + 2 < len(lines)
+        and lines[index + 1] == ''
+        and (
+            (
+                lines[index].startswith('**')
+                and lines[index + 2].startswith('**')
+                and not (
+                    lines[index].endswith('.')
+                    and not lines[index].endswith('ft.')
+                )
+            )
+            or (
+                lines[index].startswith('- ')
+                and lines[index + 2].startswith('- ')
+            )
+        )
+    ):
+        del lines[index + 1]
+        return -1
+    return None
+
+
+def clean_italic_to_bold_italic(lines, index):
+    # "_Multiattack._ The dragon makes..." -> "_**Multiattack.**_ The dragon makes..."
+    if match := re.match(r'^(_[A-Z][^_]*\._)(\s+\S.*)', lines[index]):
+        emphasised = match.group(1)[1:-1]     # remove underscores
+        lines[index] = f'_**{emphasised}**_{match.group(2)}'
         return 0
     return None
 
 
-def clean_split_lists(lines, index):
-    if index + 2 >= len(lines):
-        return None
-    if lines[index + 1] != '':
+def clean_pluralise_component(lines, index):
+    lines[index] = lines[index].replace('**Component:**', '**Components:**')
+    return 0
+
+
+def clean_bold_periods(lines, index):
+    # "*Bite***.** *Melee Attack..." -> "*Bite.* *Melee Attack..."
+    if '***.** ' in lines[index]:
+        lines[index] = lines[index].replace('***.** ', '.* ')
+        return 0
+    return None
+
+
+def clean_detabulate_mixed_stats(lines, index):
+    # strip the mess of confused stats and ability scores table into a list,
+    # (the ability scores will be converted back to a table in another filter)
+    if not lines[index].startswith('|'):
         return None
 
-    emphasis = re.match(r'^- [_\*]+', lines[index])
-    next_emphasis = re.match(r'^- [_\*]+', lines[index + 2])
-
+    separator_index = index + 1
     if (
-        emphasis
-        and next_emphasis
-        and next_emphasis.group() == emphasis.group()
+        separator_index >= len(lines)
+        or not lines[separator_index].startswith('|-')
     ):
-        del lines[index + 1]
-        return -1
+        return None
 
+    table_rows = [lines[index]]
+    current_index = separator_index + 1
+    while current_index < len(lines) and lines[current_index].startswith('|'):
+        table_rows.append(lines[current_index])
+        current_index += 1
+
+    abilities_pattern = r'\b(' + '|'.join(ABILITIES) + r')(\d)'
+    table_text = ' '.join(table_rows)
+    table_text = table_text.replace('|', ' ')
+    table_text = re.sub(abilities_pattern, r'\1 \2', table_text)
+    table_text = table_text.replace('MOD SAVE', '')
+    table_text = re.sub(r'\s+', ' ', table_text).strip()
+    words = table_text.split()
+
+    properties_present = 0
+    for prop in NUMERIC_PROPERTIES + PROPERTIES:
+        if prop in words:
+            prop_index = words.index(prop)
+            if prop in NUMERIC_PROPERTIES:
+                if prop_index + 1 < len(words) and words[prop_index + 1][0] in MODIFIER_CHARS:
+                    properties_present += 1
+            else:
+                properties_present += 1
+
+    abilities_present = len([
+         ability for ability in ABILITIES
+            if re.search(rf'\b{ability}\s', table_text)
+    ])
+
+    if not (abilities_present == 6 or properties_present >= 2):
+        return None
+
+    output_lines = []
+    word_index = 0
+    while word_index < len(words):
+        word = words[word_index]
+        matched = False
+
+        for keyword in NUMERIC_PROPERTIES + PROPERTIES + ABILITIES:
+            if word == keyword:
+                matched = True
+                parts = [word]
+                word_index += 1
+
+                if keyword in NUMERIC_PROPERTIES + PROPERTIES:
+                    # "Skills Arcana +8, Athletics +14", "Speed 30 ft., Fly 60 ft."
+                    # properties consume everything until next keyword
+                    while (
+                        word_index < len(words)
+                        and words[word_index] not in NUMERIC_PROPERTIES + PROPERTIES + ABILITIES
+                    ):
+                        parts.append(words[word_index])
+                        word_index += 1
+
+                else:
+                    # "Str 29 +9 +14" -- abilities consume numeric values
+                    while (
+                        word_index < len(words)
+                        and words[word_index][0] in MODIFIER_CHARS
+                    ):
+                        parts.append(words[word_index])
+                        word_index += 1
+
+                content = ' '.join(parts[1:])
+                output_lines.append(f'**{keyword}** {content}')
+                break
+
+        if not matched:
+            word_index += 1
+
+    lines[index:current_index] = output_lines
+    return len(output_lines) - (current_index - index)
+
+
+def clean_retabulate_ability_scores(lines, index):
+    # **Str** 14 +2 +2 **Dex** ... -> | Str | 14 |...
+    abilities_pattern = r'^\*\*(' + '|'.join(ABILITIES) + r')\*\*\s+\d+\s+[+-]?\d+\s+[+-]?\d+'
+    if not re.match(abilities_pattern, lines[index]):
+        return None
+
+    scores = []
+    mods = []
+    saves = []
+    current = index
+
+    while current < len(lines):
+        line = lines[current]
+        if re.match(abilities_pattern, line):
+            # "**Str** 19 +4 +4"
+            parts = line.split()
+            scores.append(parts[1])
+            mods.append(parts[2])
+            saves.append(parts[3])
+            current += 1
+        else:
+            break
+    if len(scores) != 6:
+        return None
+
+    # consume a trailing blank
+    if current < len(lines) and lines[current] == '':
+        current += 1
+
+    # preserve a leading blank
+    start = index
+    if index > 0 and lines[index - 1] == '':
+        start = index - 1
+
+    lines_to_replace = current - start
+    del lines[start:current]
+
+    lines[start:start] = [
+        '',
+        '| | Str. | Dex. | Con. | Int. | Wis. | Cha. |',
+        '|--|--|--|--|--|--|--|',
+        f'| **Score** | {" | ".join(scores)} |',
+        f'| **Modifier** | {" | ".join(mods)} |',
+        f'| **Saving Throw** | {" | ".join(saves)} |',
+        '',
+    ]
+
+    return 7 - lines_to_replace
+
+
+def clean_reorder_stats(lines, index):
+    # "**Speed** 30 ft." doesn't come first
+    stat_order = NUMERIC_PROPERTIES[:4]
+    if not any(lines[index].startswith(f'**{stat}**') for stat in stat_order):
+        return None
+
+    current = index
+    while current < len(lines):
+        if any(lines[current].startswith(f'**{stat}**') for stat in stat_order):
+            current += 1
+        elif (
+            lines[current] == ''
+            and current + 1 < len(lines)
+            and any(lines[current + 1].startswith(f'**{stat}**') for stat in stat_order)
+        ):
+            current += 1
+        else:
+            break
+
+    sorted_stats = sorted(
+        [line for line in lines[index:current] if line],
+        key=lambda s: next(
+            (i for i, stat in enumerate(stat_order) if s.startswith(f'**{stat}**')),
+            len(stat_order)
+        )
+    )
+
+    lines[index:current] = sorted_stats
+    return len(sorted_stats) - (current - index)
+
+
+def clean_remove_mod_save(lines, index):
+    # "**Speed** 30 ft. MOD SAVE MOD SAVE MOD SAVE" -> "**Speed** 30 ft."
+    # "MOD SAVE MOD SAVE MOD SAVE **Str** 3 −4 −4" -> "**Str** 3 −4 −4"
+    while 'MOD SAVE' in lines[index]:
+        lines[index] = lines[index].replace('MOD SAVE', '', 1).strip()
+        lines[index] = re.sub(r'\s+', ' ', lines[index])
+    return 0
+
+
+def clean_actions_emphasis(lines, index):
+    # "*Name.* Description." -> "_**Name.**_ Description."
+    pattern = r'^\*([^*]+)\*(.*)'
+    match = re.match(pattern, lines[index])
+    if not match:
+        return None
+
+    header = None
+    for i in range(index - 1, -1, -1):
+        if lines[i].startswith('#'):
+            header = lines[i]
+            break
+
+    if not header or not any(
+        title in header
+            for title in ['Traits', 'Actions', 'Legendary Actions', 'Reactions']
+    ):
+        return None
+
+    action_name = match.group(1)
+    description = match.group(2)
+
+    if action_name.startswith('Legendary Action Uses'):
+        return None
+
+    if '.' in action_name:
+        parts = action_name.split('.', 1)
+        ability_name = parts[0] + '.'
+        additional_text = parts[1].strip() if parts[1].strip() else ''
+
+        if additional_text:
+            # "*Rend. Melee Attack Roll:* ..." -> "_**Rend.**_ *Melee Attack Roll:* ..."
+            lines[index] = f'_**{ability_name}**_ *{additional_text}*{description}'
+        else:
+            # "*Amphibious.* ..." -> "_**Amphibious.**_ ..."
+            lines[index] = f'_**{ability_name}**_{description}'
+        return 0
+
+    return None
+
+def clean_decost_headers(lines, index):
+    if match := re.match(r'^(#.*?)\s+\(([^)]*(?:[GCSEP]P|Free)[^)]*)\)$', lines[index]):
+        lines[index] = match.group(1)
+        if lines[index+2].startswith('**'):
+            lines.insert(index+2, f"**Cost:** {match.group(2)}")
+            return 1
+        else:
+            lines.insert(index+2, '')
+            lines.insert(index+2, f"**Cost:** {match.group(2)}")
+            return 2
     return None
 
 
@@ -303,7 +601,7 @@ def clean_srd(lines, breakdown_data, show_progress=False, clean_lines=None):
             )
             print(f"- {cleaner.__name__:40} {index:6} [{bar}]", end=end)
 
-    CONVERSIONS_TABLE = [
+    DND_51_CONVERSIONS_TABLE = [
         # common problems
         clean_whitespace,
         clean_wrap_blank_lines,
@@ -325,13 +623,48 @@ def clean_srd(lines, breakdown_data, show_progress=False, clean_lines=None):
         clean_statblock_spells_to_list,
         clean_single_action_to_list,
         clean_statblock_spellcasting_marker,
-        clean_split_lists,
+        clean_collapse_adjacent_items,
 
         # sanitation
         clean_canonicalise_proper_nouns,
 
         # markdown preferences
         clean_italic_emphasis_markers,
+    ]
+
+    CONVERSIONS_TABLE = [
+        # basic cleanliness
+        clean_whitespace,
+        clean_unicode_chars,
+        clean_midsentence_pagebreak,
+        clean_pluralise_component,
+        clean_space_out_emdashes,
+        clean_escape_square_brackets,
+
+        # clean marker_single formatting choices
+        clean_remove_mistaken_headers,
+        clean_remove_header_bold,
+        clean_bold_periods,
+        clean_actions_emphasis,
+
+        # clean up after the *endless* table mistakes
+        clean_remove_mod_save,
+        clean_detabulate_mixed_stats,
+        clean_unwrap_consecutive_bold,
+        clean_reorder_stats,
+        clean_collapse_adjacent_items,
+        clean_retabulate_ability_scores,
+
+        # probably 521 specific
+        clean_decost_headers,
+        clean_statblock_spells_to_list,
+
+        # final formatting pass
+        clean_table_alignment,
+        clean_italic_emphasis_markers,
+        clean_italic_to_bold_italic,
+        clean_collapse_adjacent_items,
+        clean_wrap_blank_lines,
     ]
 
     changes = 0
@@ -356,7 +689,7 @@ def clean_srd(lines, breakdown_data, show_progress=False, clean_lines=None):
                     changes += 1
                     if result != 0:
                         if breakdown_data is not None:
-                            update_breakdown_data(breakdown_data, index, result)
+                            update_breakdown_data(breakdown_data, index+1, result)
                     break
 
             if result is None:
@@ -469,6 +802,12 @@ def warn_empty_table_header(lines, index):
     ):
         cells = [cell.strip() for cell in lines[index].split('|')[1:-1]]
         if any(not cell for cell in cells):
+            # ignore empty first cell on statblocks header
+            if cells[0] == '' and all(
+                f'{ability}.' in lines[index]
+                    for ability in ABILITIES
+            ):
+                return None
             return f"table has empty header cells"
     return None
 
@@ -487,13 +826,22 @@ def warn_empty_table_cells(lines, index):
 
 
 def warn_srd(lines, ignore_file=None):
-    WARN_TABLE = [
+    WARN_TABLE_DND51 = [
         warn_table_runon,
         warn_midpara_italics,
         warn_inconsistent_list_formatting,
         warn_table_after_header,
         warn_bullet_characters,
         warn_em_dash_spacing,
+        warn_unusual_unicode,
+        warn_empty_table_header,
+        warn_empty_table_cells,
+    ]
+    WARN_TABLE = [
+        warn_table_runon,
+        warn_inconsistent_list_formatting,
+        warn_table_after_header,
+        warn_bullet_characters,
         warn_unusual_unicode,
         warn_empty_table_header,
         warn_empty_table_cells,
@@ -557,7 +905,7 @@ def load_breakdown_data(breakdown_file):
 def update_breakdown_data(breakdown_data, change_line, adjustment):
     for entry in breakdown_data:
         if isinstance(entry, list):
-            if entry[0] >= change_line:
+            if entry[0] > change_line:
                 entry[0] += adjustment
             if entry[1] >= change_line:
                 entry[1] += adjustment

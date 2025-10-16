@@ -185,3 +185,11 @@ that can then be restored later:
 ```bash
 ./vault_patches.sh apply dnd/51
 ```
+
+## Changing the code
+
+Every script should have a test suite.
+
+- `make test` runs all the code tests
+- `make ci` runs all the code tests, and a couple more
+- `bats tests/clean/clean.bats` runs only the clean test suite
