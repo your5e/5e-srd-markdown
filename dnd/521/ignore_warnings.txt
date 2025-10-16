@@ -1,0 +1,26 @@
+Warning: ##### Life Domain Spells, 2247: table immediately after header
+Warning: ##### Arid Land, 2628: table immediately after header
+Warning: ##### Polar Land, 2637: table immediately after header
+Warning: ##### Temperate Land, 2646: table immediately after header
+Warning: ##### Tropical Land, 2655: table immediately after header
+Warning: ##### Creating Spell Slots, 3897: table immediately after header
+Warning: ## Weapons, 5680: possible table run-on
+Warning: ## Weapons, 5687: possible table run-on
+Warning: ## Weapons, 5708: possible table run-on
+Warning: ## Armor, 5821: possible table run-on
+Warning: ## Armor, 5829: possible table run-on
+Warning: ## Food, Drink, and Lodging, 6825: possible table run-on
+Warning: ## Food, Drink, and Lodging, 6834: possible table run-on
+Warning: #### Precipitation, 8171: table immediately after header
+Warning: #### Temperature, 8181: table immediately after header
+Warning: #### Wind, 8192: table immediately after header
+Warning: ### Scrying, 11227: possible table run-on
+Warning: #### Fire-Casting Statue, 13982: duration has more than 5 words
+Warning: #### Poisoned Darts, 14026: duration has more than 5 words
+Warning: #### Gray Bag of Tricks, 14700: table immediately after header
+Warning: #### Rust Bag of Tricks, 14713: table immediately after header
+Warning: #### Tan Bag of Tricks, 14726: table immediately after header
+Warning: #### Reactions, 19198: possible mistaken mid-paragraph italic: 'Response — Wisdom Saving Throw:'
+Warning: #### Actions, 19808: possible mistaken mid-paragraph italic: 'Subsequent Failures:'
+Warning: #### Actions, 21877: possible mistaken mid-paragraph italic: 'Failure by 5 or More:'
+Warning: #### Actions, 23658: possible mistaken mid-paragraph italic: 'Failure by 5 or More:'

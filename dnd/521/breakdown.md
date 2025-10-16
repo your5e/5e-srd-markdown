@@ -3793,9 +3793,7 @@ You've trained to get into especially hard-to-reach places, granting you these b
 
 #### **Level 9: Supreme Sneak**
 
-You gain the following Cunning Strike option.
-
-*Stealth Attack (Cost: 1d6).* If you have the Hide action's Invisible condition, this attack doesn't end that condition on you if you end the turn behind Three-Quarters Cover or Total Cover.
+You gain the following Cunning Strike option. *Stealth Attack (Cost: 1d6).* If you have the Hide action's Invisible condition, this attack doesn't end that condition on you if you end the turn behind Three-Quarters Cover or Total Cover.
 
 #### **Level 13: Use Magic Device**
 
@@ -3871,7 +3869,10 @@ Drawing from your innate magic, you can cast spells. See "Spells" for the rules 
 
 When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table.
 
-*Spell Slots.* The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+*Spell Slots.* The Sorcerer Features table shows how many spell slots you have to cast your level 1+
+
+
+spells. You regain all expended slots when you finish a Long Rest.
 
 *Prepared Spells of Level 1+.* You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. *Burning Hands* and *Detect Magic* are recommended.
 
@@ -5301,18 +5302,13 @@ As a Dragonborn, you have these special traits.
 
 *Draconic Ancestry.* Your lineage stems from a dragon progenitor. Choose the kind of dragon from the table. Your choice affects your Breath Weapon and Damage Resistance traits as well as your appearance.
 
-| Dragon | Damage Type |
-|--------|-------------|
-| Black  | Acid        |
-| Blue   | Lightning   |
-| Brass  | Fire        |
-| Bronze | Lightning   |
-| Copper | Acid        |
-| Gold   | Fire        |
-| Green  | Poison      |
-| Red    | Fire        |
-| Silver | Cold        |
-| White  | Cold        |
+| Dragon | Damage Type | Dragon | Damage Type |
+|--------|-------------|--------|-------------|
+| Black  | Acid        | Gold   | Fire        |
+| Blue   | Lightning   | Green  | Poison      |
+| Brass  | Fire        | Red    | Fire        |
+| Bronze | Lightning   | Silver | Cold        |
+| Copper | Acid        | White  | Cold        |
 
 *Breath Weapon.* When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot Cone or a 30-foot Line that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, a creature takes 1d10 damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by 1d10 when you reach character levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
@@ -5460,9 +5456,7 @@ You can use this trait a number of times equal to your Proficiency Bonus, and yo
 
 **Speed:** 30 feet
 
-As a Tiefling, you have the following special traits.
-
-*Darkvision.* You have Darkvision with a range of 60 feet.
+As a Tiefling, you have the following special traits. *Darkvision.* You have Darkvision with a range of 60 feet.
 
 *Fiendish Legacy.* You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the table. You gain the level 1 benefit of the chosen legacy.
 
@@ -8044,7 +8038,7 @@ To discern that you are disguised, a creature must take the Study action to insp
 
 **Casting Time:** Action **Range:** 60 feet **Components:** V, S, M (a lodestone and dust) **Duration:** Instantaneous
 
-You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by *Wall of Force*.
+You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by *Wall of Force.*
 
 A creature targeted by this spell makes a Dexterity saving throw. On a failed save, the target takes 10d6 + 40 Force damage. If this damage reduces it to 0 Hit Points, it and everything nonmagical it is wearing and carrying are disintegrated into gray dust. The target can be revived only by a *True Resurrection* or a *Wish* spell.
 
@@ -9979,9 +9973,9 @@ Up to five creatures of your choice who remain within range for the spell's enti
 
 You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.
 
-*Sensory Effect.* You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+*Sensory Effect.* You create an instantaneous, harmless sensory effect, such as a shower of sparks,
 
-*Fire Play.* You instantaneously light or snuff out a candle, a torch, or a small campfire.
+a puff of wind, faint musical notes, or an odd odor. *Fire Play.* You instantaneously light or snuff out a candle, a torch, or a small campfire.
 
 *Clean or Soil.* You instantaneously clean or soil an object no larger than 1 cubic foot.
 
@@ -11155,7 +11149,7 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 Fire d
 
 An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick and lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side).
 
-Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by *Dispel Magic*. A *Disintegrate* spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
+Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by *Dispel Magic.* A *Disintegrate* spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
 
 ### **Wall of Ice**
 
@@ -11955,9 +11949,7 @@ While you have the Incapacitated condition, you experience the following effects
 
 *Inactive.* You can't take any action, Bonus Action, or Reaction.
 
-*No Concentration.* Your Concentration is broken.
-
-*Speechless.* You can't speak.
+*No Concentration.* Your Concentration is broken. *Speechless.* You can't speak.
 
 *Surprised.* If you're Incapacitated when you roll Initiative, you have Disadvantage on the roll.
 
@@ -12069,14 +12061,11 @@ A creature needs an amount of food per day based on its size, as shown in the ta
 
 Exhaustion caused by malnutrition can't be removed until the creature eats the full amount of food required for a day. *See also* "Exhaustion."
 
-| Size   | Food      |
-|--------|-----------|
-| Tiny   | 1/4 pound |
-| Small  | 1 pound   |
-| Medium | 1 pound   |
-| Large      | 4 pounds  |
-| Huge       | 16 pounds |
-| Gargantuan | 64 pounds |
+| Size   | Food      | Size       | Food      |
+|--------|-----------|------------|-----------|
+| Tiny   | 1/4 pound | Large      | 4 pounds  |
+| Small  | 1 pound   | Huge       | 16 pounds |
+| Medium | 1 pound   | Gargantuan | 64 pounds |
 
 ### **Monster**
 
@@ -12104,9 +12093,7 @@ While you have the Paralyzed condition, you experience the following effects.
 
 *Incapacitated.* You have the Incapacitated condition.
 
-*Speed 0.* Your Speed is 0 and can't increase.
-
-*Saving Throws Affected.* You automatically fail Strength and Dexterity saving throws.
+*Speed 0.* Your Speed is 0 and can't increase. *Saving Throws Affected.* You automatically fail Strength and Dexterity saving throws.
 
 *Attacks Affected.* Attack rolls against you have Advantage.
 
@@ -12130,9 +12117,7 @@ While you have the Petrified condition, you experience the following effects.
 
 *Incapacitated.* You have the Incapacitated condition.
 
-*Speed 0.* Your Speed is 0 and can't increase.
-
-*Attacks Affected.* Attack rolls against you have Advantage.
+*Speed 0.* Your Speed is 0 and can't increase. *Attacks Affected.* Attack rolls against you have Advantage.
 
 *Saving Throws Affected.* You automatically fail Strength and Dexterity saving throws.
 
@@ -14855,11 +14840,9 @@ Each card's effect is described below.
 
 *Knight.* You gain the service of a **Knight**, who magically appears in an unoccupied space you choose within 30 feet of yourself. The knight has the same alignment as you and serves you loyally until death, believing the two of you have been drawn together by fate. Work with your GM to create a name and backstory for this NPC. The GM can use a different stat block to represent the knight, as desired.
 
-*Moon.* You gain the ability to cast *Wish* 1d3 times.
+*Moon.* You gain the ability to cast *Wish* 1d3 times. *Puzzle.* Permanently reduce your Intelligence or Wisdom by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared
 
-*Puzzle.* Permanently reduce your Intelligence or Wisdom by 1d4 + 1 (to a minimum score of 1). You can draw one additional card beyond your declared draws.
-
-*Rogue.* An NPC of the GM's choice becomes Hostile toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a *Wish* spell or divine intervention can end the NPC's hostility toward you.
+draws. *Rogue.* An NPC of the GM's choice becomes Hostile toward you. You don't know the identity of this NPC until they or someone else reveals it. Nothing less than a *Wish* spell or divine intervention can end the NPC's hostility toward you.
 
 *Ruin.* All forms of wealth that you carry or own, other than magic items, are lost to you. Portable property vanishes. Businesses, buildings, and land you own are lost in a way that alters reality the least. Any documentation that proves you should own something lost to this card also disappears.
 
@@ -15388,12 +15371,10 @@ last as long as you maintain Concentration, up to 1 minute. Each sphere sheds Di
 
 As a Bonus Action, you can move each sphere up to 30 feet, but no farther than 120 feet away from yourself. The first time the sphere comes within 5 feet of a creature other than you that isn't behind Total Cover, the sphere discharges lightning at that creature and disappears. That creature makes a DC 15 Dexterity saving throw. On a failed save, the creature takes Lightning damage based on the number of spheres you created, as shown in the table. On a successful save, the creature takes half as much damage.
 
-| Number of<br>Spheres | Lightning<br>Damage |
-|----------------------|---------------------|
-| 1                    | 4d12                |
-| 2                    | 5d4                 |
-| 3                    | 2d6                 |
-| 4                    | 2d4                 |
+| Number of<br>Spheres | Lightning<br>Damage | Number of<br>Spheres | Lightning<br>Damage |
+|----------------------|---------------------|----------------------|---------------------|
+| 1                    | 4d12                | 3                    | 2d6                 |
+| 2                    | 5d4                 | 4                    | 2d4                 |
 
 *Shooting Stars.* You can expend 1 to 3 charges as a Magic action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of yourself. Each creature in a 15-foot Cube originating from that point is showered in sparks and makes a DC 15 Dexterity saving throw, taking 5d4 Radiant damage on a failed save or half as much damage on a successful one.
 
@@ -15795,12 +15776,10 @@ You have Resistance to Cold damage while you hold this staff.
 
 *Spells.* The staff has 10 charges. While holding the staff, you can cast one of the spells on the table from it, using your spell save DC. The table indicates how many charges you must expend to cast the spell.
 
-| Spell        | Charge<br>Cost |
-|--------------|----------------|
-| Cone of Cold | 5              |
-| Fog Cloud    | 1              |
-| Ice Storm   | 4              |
-| Wall of Ice | 4              |
+| Spell        | Charge<br>Cost | Spell       | Charge<br>Cost |
+|--------------|----------------|-------------|----------------|
+| Cone of Cold | 5              | Ice Storm   | 4              |
+| Fog Cloud    | 1              | Wall of Ice | 4              |
 
 *Regaining Charges.* The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the last charge, roll 1d20. On a 1, the staff turns to water and is destroyed.
 
@@ -17236,10 +17215,9 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 ### **Black Pudding**
 
-*Large Ooze, Unaligned*
-
-| AC 7                       |   |    |          |       | Initiative −3 (7) |          |    |        |    |          |  |  |
+| Large Ooze, Unaligned      |   |    |          |       |                   |          |    |        |    |          |  |  |
 |----------------------------|---|----|----------|-------|-------------------|----------|----|--------|----|----------|--|--|
+| AC 7                       |   |    |          |       | Initiative −3 (7) |          |    |        |    |          |  |  |
 | HP 68 (8d10 + 24)          |   |    |          |       |                   |          |    |        |    |          |  |  |
 | Speed 20 ft., Climb 20 ft. |   |    |          |       |                   |          |    |        |    |          |  |  |
 |                            |   |    | MOD SAVE |       |                   | MOD SAVE |    |        |    | MOD SAVE |  |  |
@@ -21602,7 +21580,7 @@ If the target takes damage from the *Dream* spell, the target's Hit Point maximu
 
 *Fiery Mace. Melee Attack Roll:* +14, reach 10 ft. *Hit:* 22 (4d6 + 8) Force damage plus 21 (6d6) Fire damage.
 
-*Hellfire Spellcasting (Recharge 4–6).* The pit fiend casts *Fireball* (level 5 version) twice, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21). It can replace one *Fireball* with *Hold Monster* (level 7 version) or *Wall of Fire*.
+*Hellfire Spellcasting (Recharge 4–6).* The pit fiend casts *Fireball* (level 5 version) twice, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 21). It can replace one *Fireball* with *Hold Monster* (level 7 version) or *Wall of Fire.*
 
 ## **Planetar**
 
@@ -22363,9 +22341,7 @@ The tentacle can be damaged, freeing a creature it has Grappled when destroyed (
 
 #### Actions
 
-*Multiattack.* The dragon makes three Rend attacks. It can replace one attack with a use of Paralyzing Breath.
-
-*Rend. Melee Attack Roll:* +10, reach 10 ft. *Hit:* 15 (2d8 + 6) Slashing damage.
+*Multiattack.* The dragon makes three Rend attacks. It can replace one attack with a use of Paralyzing Breath. *Rend. Melee Attack Roll:* +10, reach 10 ft. *Hit:* 15 (2d8 + 6) Slashing damage.
 
 *Cold Breath (Recharge 5–6)***.** *Constitution Saving Throw:* DC 17, each creature in a 30-foot Cone. *Failure:* 49 (11d8) Cold damage. *Success:* Half damage.
 
@@ -24185,8 +24161,10 @@ MOD SAVE MOD SAVE MOD SAVE
 
 *Medium Beast, Unaligned*
 
-**AC** 11
-**Initiative** +1 (11)
+| AC 11<br>Initiative +1 (11) |
+|-----------------------------|
+|-----------------------------|
+
 **HP** 19 (3d8 + 6) **Speed** 30 ft., Climb 30 ft., Swim 30 ft.
 
 |        |   |    | MOD SAVE |           |    | MOD SAVE |        |    | MOD SAVE |
@@ -24232,7 +24210,7 @@ MOD SAVE MOD SAVE MOD SAVE
 
 **AC** 11 **Initiative** +0 (10) **HP** 13 (2d8 + 4) **Speed** 40 ft.
 
-MOD SAVE MOD SAVE MOD SAVE
+# MOD SAVE MOD SAVE MOD SAVE
 
 **Str** 13 +1 +1 **Dex** 11 +0 +0 **Con** 14 +2 +2 **Int** 2 −4 −4 **Wis** 9 −1 −1 **Cha** 5 −3 −3
 
@@ -26161,3 +26139,4 @@ MOD SAVE MOD SAVE MOD SAVE **Str** 22 +6 +6 **Dex** 9 −1 −1 **Con** 17 +3 +3
 #### Actions
 
 *Bite. Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage. If the target is a Medium or smaller creature, it has the Prone condition.
+

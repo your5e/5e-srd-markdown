@@ -50,12 +50,32 @@ the SRD in question.
 
     - [PDF](dnd/521/SRD_CC_v5.2.1.pdf)
     - [Markdown (untouched)](dnd/521/SRD_CC_v5.2.1.untouched.md)
+    - [Markdown (cleaned, one file)](dnd/521/SRD_CC_v5.2.1.md)
+    - [Markdown (broken into sections)](dnd/521/markdown)
 
     > This work includes material from the System Reference Document 5.2.1
     > ("SRD 5.2.1") by Wizards of the Coast LLC, available at
     > <https://www.dndbeyond.com/srd>. The SRD 5.2.1 is licensed under the
     > Creative Commons Attribution 4.0 International License, available at
     > <https://creativecommons.org/licenses/by/4.0/> legalcode.
+
+    Conversion notes:
+
+    - removed the table of contents (makes no sense in Markdown)
+    - fixed numbering of steps in D20 tests (its 4, 5, 6 in the PDF, which
+      seems to be an accidental continuation from Rhythm of Play)
+    - Tables and sidebars have been repositioned in the source to where they
+      make sense, rather than preserving the original document order, and
+      table headers (and references to them) have been removed as a result
+    - Corrected occurrences of "on \[the\] table" to "in \[the\] table"
+    - Tables are reformatted for Markdown:
+        - Markdown doesn't support multiple header rows as used in many tables
+          (eg. in class features, the spanning "spell slots per spell level"),
+          so the text has been adjusted to be only one row
+        - restructured side-by-side tables used to reduce height in the PDF,
+          including rotating statblock tables to have the abilities in the
+          first column
+        - split tables using mid-table headers into multiple tables
 
 ## Workflow for breaking the whole SRD into sections
 
