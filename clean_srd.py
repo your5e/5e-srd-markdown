@@ -5,9 +5,12 @@ import re
 import sys
 from tabulate import tabulate
 
-from lib.spells import spells
+from lib.spells import get_spell_list, get_next_unemphasised_spell
 from lib.magic_items import magic_items
 from lib.tables import realign_table
+
+spell_list = get_spell_list()
+spell_matcher = get_next_unemphasised_spell(spell_list)
 
 ABILITIES = ['Str', 'Dex', 'Con', 'Int', 'Wis', 'Cha']
 NUMERIC_PROPERTIES = ['AC', 'Initiative', 'HP', 'Speed', 'CR']
@@ -16,6 +19,25 @@ PROPERTIES = [
     'Vulnerabilities'
 ]
 MODIFIER_CHARS = '+-−0123456789'
+
+
+def get_table_headers(lines, index):
+    if not lines[index].startswith('|'):
+        return None
+
+    start = index
+    while start > 0 and lines[start - 1].startswith('|'):
+        start -= 1
+
+    separator = start + 1
+    if (
+        separator >= len(lines)
+        or '-' not in lines[separator]
+        or index <= separator
+    ):
+        return None
+
+    return [cell.strip() for cell in lines[start].split('|')[1:-1]]
 
 
 def check_duration_length(line):
@@ -272,7 +294,7 @@ def clean_canonicalise_proper_nouns(lines, index):
     for marker, text in potential_matches:
         # grouped by first letter to speed up matching
         first_letter = text[0].lower()
-        for names in [spells, magic_items]:
+        for names in [spell_list, magic_items]:
             if first_letter in names:
                 for name in names[first_letter]:
                     # punctuation moves outside of the emphasis
@@ -578,6 +600,35 @@ def clean_actions_emphasis(lines, index):
 
     return None
 
+def clean_spell_list_emphasis(lines, index):
+    # "| Chill Touch | Necromancy |" -> "| *Chill Touch* | Necromancy |"
+    if (
+        not lines[index].startswith('|')
+        or index < 2
+    ):
+        return None
+
+    headers = get_table_headers(lines, index)
+    if headers is None:
+        return None
+
+    columns = [
+        i for i, header in enumerate(headers)
+            if 'Spell' in header
+    ]
+    if not columns:
+        return None
+
+    cells = lines[index].split('|')
+    for column in columns:
+        cell_index = column + 1
+        if len(cells) <= cell_index:
+            continue
+        cells[cell_index] = spell_matcher.sub(r'*\1*', cells[cell_index].strip())
+    lines[index] = '|'.join(cells)
+    return 0
+
+
 def clean_decost_headers(lines, index):
     if match := re.match(r'^(#.*?)\s+\(([^)]*(?:[GCSEP]P|Free)[^)]*)\)$', lines[index]):
         lines[index] = match.group(1)
@@ -591,7 +642,13 @@ def clean_decost_headers(lines, index):
     return None
 
 
-def clean_srd(lines, breakdown_data, show_progress=False, clean_lines=None):
+def clean_srd(lines, breakdown_data, show_progress=False, clean_lines=None, profile=None):
+    global spell_list, spell_matcher
+
+    if profile:
+        spell_list = get_spell_list(profile)
+        spell_matcher = get_next_unemphasised_spell(spell_list)
+
     def _progress_bar(end):
         if show_progress:
             filled = int(round(min(index / len(lines), 1.0) * 100, 1) / 2)
@@ -657,6 +714,7 @@ def clean_srd(lines, breakdown_data, show_progress=False, clean_lines=None):
 
         # probably 521 specific
         clean_decost_headers,
+        clean_spell_list_emphasis,
         clean_statblock_spells_to_list,
 
         # final formatting pass
@@ -929,6 +987,7 @@ def main():
     parser.add_argument('--progress', action='store_true', help='Show progress through the file')
     parser.add_argument('--ignore-warnings', help='File containing patterns to ignore warnings')
     parser.add_argument('--clean-lines', help='File containing lines to skip during cleaning')
+    parser.add_argument('--profile', default='521', help='Spell list profile (51 or 521)')
     args = parser.parse_args()
 
     try:
@@ -948,7 +1007,7 @@ def main():
                 clean_lines = load_clean_lines(args.clean_lines)
 
             check_srd(lines)
-            cleaned = clean_srd(lines, breakdown_data, args.progress, clean_lines)
+            cleaned = clean_srd(lines, breakdown_data, args.progress, clean_lines, args.profile)
 
         warn_srd(lines, args.ignore_warnings)
 

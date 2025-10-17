@@ -1,4 +1,4 @@
-spells = {
+common_spells = {
     'a': [
         "Acid Arrow",
         "Acid Splash",
@@ -17,7 +17,7 @@ spells = {
         "Arcane Hand",
         "Arcane Lock",
         "Arcane Sword",
-        "Arcanists Magic Aura",
+        "Arcanist's Magic Aura",
         "Astral Projection",
         "Augury",
         "Awaken",
@@ -35,13 +35,13 @@ spells = {
         "Blindness/Deafness",
         "Blink",
         "Blur",
-        "Branding Smite",
         "Burning Hands",
     ],
     'c': [
         "Call Lightning",
         "Calm Emotions",
         "Chain Lightning",
+        "Charm Monster",
         "Charm Person",
         "Chill Touch",
         "Circle of Death",
@@ -92,6 +92,7 @@ spells = {
         "Disintegrate",
         "Dispel Evil and Good",
         "Dispel Magic",
+        "Dissonant Whispers",
         "Divination",
         "Divine Favor",
         "Divine Word",
@@ -119,7 +120,6 @@ spells = {
         "False Life",
         "Fear",
         "Feather Fall",
-        "Feeblemind",
         "Find Familiar",
         "Find Steed",
         "Find the Path",
@@ -176,7 +176,7 @@ spells = {
         "Hold Monster",
         "Hold Person",
         "Holy Aura",
-        "Hunters Mark",
+        "Hunter's Mark",
         "Hypnotic Pattern",
     ],
     'i': [
@@ -223,7 +223,7 @@ spells = {
         "Mass Healing Word",
         "Mass Suggestion",
         "Maze",
-        "Meld Into Stone",
+        "Meld into Stone",
         "Mending",
         "Message",
         "Meteor Swarm",
@@ -241,7 +241,7 @@ spells = {
         "Nondetection",
     ],
     'p': [
-        "Pass Without Trace",
+        "Pass without Trace",
         "Passwall",
         "Phantasmal Killer",
         "Phantom Steed",
@@ -310,6 +310,7 @@ spells = {
         "Spike Growth",
         "Spirit Guardians",
         "Spiritual Weapon",
+        "Starry Wisp",
         "Stinking Cloud",
         "Stone Shape",
         "Stoneskin",
@@ -329,7 +330,7 @@ spells = {
         "Time Stop",
         "Tiny Hut",
         "Tongues",
-        "Transport Via Plants",
+        "Transport via Plants",
         "Tree Stride",
         "True Polymorph",
         "True Resurrection",
@@ -363,3 +364,88 @@ spells = {
         "Zone of Truth",
     ],
 }
+
+dnd51_spells = {
+    'b': [
+        "Branding Smite",
+    ],
+    'f': [
+        "Feeblemind",
+    ],
+}
+
+dnd521_spells = {
+    'a': [
+        "Aura of Life",
+    ],
+    'b': [
+        "Befuddlement",
+    ],
+    'c': [
+        "Chromatic Orb",
+    ],
+    'd': [
+        "Divine Smite",
+        "Dragon's Breath",
+    ],
+    'e': [
+        "Elementalism",
+        "Ensnaring Strike",
+    ],
+    'h': [
+        "Hex",
+    ],
+    'i': [
+        "Ice Knife",
+    ],
+    'm': [
+        "Mind Spike",
+    ],
+    'p': [
+        "Phantasmal Force",
+        "Power Word Heal",
+    ],
+    'r': [
+        "Ray of Sickness",
+    ],
+    's': [
+        "Searing Smite",
+        "Shining Smite",
+        "Sorcerous Burst",
+        "Summon Dragon",
+    ],
+    't': [
+        "Tsunami",
+    ],
+    'v': [
+        "Vitriolic Sphere",
+    ],
+}
+
+def get_spell_list(version='521'):
+    result = {}
+    for letter in 'abcdefghijklmnopqrstuvwxyz':
+        result[letter] = []
+        if letter in common_spells:
+            result[letter].extend(common_spells[letter])
+        if version == '51' and letter in dnd51_spells:
+            result[letter].extend(dnd51_spells[letter])
+        if version == '521' and letter in dnd521_spells:
+            result[letter].extend(dnd521_spells[letter])
+        if result[letter]:
+            result[letter].sort()
+    return {k: v for k, v in result.items() if v}
+
+
+def get_next_unemphasised_spell(spell_list):
+    import re
+    all_spells = []
+    for spells in spell_list.values():
+        all_spells.extend(spells)
+    sorted_spells = sorted(all_spells, key=len, reverse=True)
+    escaped_spells = [re.escape(spell) for spell in sorted_spells]
+    pattern = r'(?<!\*)(' + '|'.join(escaped_spells) + r')(?!\*)'
+    return re.compile(pattern)
+
+
+spells = get_spell_list('521')

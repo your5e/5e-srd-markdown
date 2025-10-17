@@ -25,6 +25,14 @@ class TestCleanTableAlignment(TestFilter):
             | | | | | | |
             |----------|--|----------|--|----------|--|
 
+            | 1d20  | Bead                 | Spell                         |
+            |-------|----------------------|-------------------------------|
+            | 1–6   | Bead of Blessing     |*Bless*|
+            | 7–12  | Bead of Curing       |*Cure Wounds* (level 2 version)|
+            | 13–16 | Bead of Favor        |*Greater Restoration*|
+            | 17–18 | Bead of Smiting      |*Shining Smite*|
+            | 19    | Bead of Summons      |*Guardian of Faith*|
+            | 20    | Bead of Wind Walking |*Wind Walk*|
         """)
         expected = dedent("""\
             |       | Proficiency   |                             |
@@ -34,6 +42,14 @@ class TestCleanTableAlignment(TestFilter):
             | 2nd   | +2            | Action Surge (one use)      |
             | 3rd   | +2            | Martial Archetype           |
 
+            | 1d20   | Bead                 | Spell                           |
+            |--------|----------------------|---------------------------------|
+            | 1–6    | Bead of Blessing     | *Bless*                         |
+            | 7–12   | Bead of Curing       | *Cure Wounds* (level 2 version) |
+            | 13–16  | Bead of Favor        | *Greater Restoration*           |
+            | 17–18  | Bead of Smiting      | *Shining Smite*                 |
+            | 19     | Bead of Summons      | *Guardian of Faith*             |
+            | 20     | Bead of Wind Walking | *Wind Walk*                     |
         """)
 
         assert expected == self.run_text_through_filter(clean_table_alignment, text)
