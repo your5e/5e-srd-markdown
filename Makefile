@@ -1,6 +1,10 @@
-.PHONY: test ci
+.PHONY: flake8 test ci
 
-test:
+flake8:
+	flake8 *.py lib/*py
+	flake8 --ignore=E501 tests/
+
+test: flake8
 	@bats tests/alter/*.bats || true
 	@bats tests/breakdown/*.bats || true
 	@bats tests/clean/*.bats || true

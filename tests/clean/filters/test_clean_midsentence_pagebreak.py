@@ -1,5 +1,4 @@
 from textwrap import dedent
-import pytest
 from clean_srd import clean_midsentence_pagebreak
 from . import TestFilter
 

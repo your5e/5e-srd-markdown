@@ -19,7 +19,10 @@ def realign_table(lines, index):
     ):
         return None
 
-    headers = [re.sub(r' +', ' ', cell.strip()) for cell in split_row(lines[index])[1:-1]]
+    headers = [
+        re.sub(r' +', ' ', cell.strip())
+            for cell in split_row(lines[index])[1:-1]
+    ]
     table_end = index
 
     while True:

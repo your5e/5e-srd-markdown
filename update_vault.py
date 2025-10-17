@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 
 import argparse
-import os
 import re
-import shutil
-import sys
 from pathlib import Path
 
 from lib.spells import spells

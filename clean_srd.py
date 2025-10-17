@@ -3,7 +3,6 @@
 import argparse
 import re
 import sys
-from tabulate import tabulate
 
 from lib.spells import get_spell_list, get_next_unemphasised_spell
 from lib.magic_items import magic_items
@@ -18,6 +17,7 @@ PROPERTIES = [
     'Skills', 'Resistances', 'Immunities', 'Senses', 'Languages',
     'Vulnerabilities'
 ]
+ALL_PROPERTIES = NUMERIC_PROPERTIES + PROPERTIES + ABILITIES
 MODIFIER_CHARS = '+-−0123456789'
 
 
@@ -46,7 +46,10 @@ def check_duration_length(line):
     if duration_match:
         duration_content = duration_match.group(1)
         if len(duration_content.split()) > 5:
-            return f"Duration value has more than 5 words, likely contains description: '{line}'"
+            return (
+                f"Duration value has more than 5 words, "
+                f"likely contains description: '{line}'"
+            )
 
 
 def check_srd(lines):
@@ -162,7 +165,11 @@ def clean_midsentence_pagebreak(lines, index):
 
 def clean_remove_mistaken_headers(lines, index):
     # "#### **Duration:** Instantaneous" -> "**Duration:** Instantaneous"
-    removed = re.sub(r'^#+\s+((?:\*\*[^*]+\*\*\s+\S.*)|(?:\*[^*]+\*))$', r'\1', lines[index])
+    removed = re.sub(
+        r'^#+\s+((?:\*\*[^*]+\*\*\s+\S.*)|(?:\*[^*]+\*))$',
+        r'\1',
+        lines[index]
+    )
     if removed != lines[index]:
         lines[index] = removed
         return 0
@@ -415,7 +422,10 @@ def clean_detabulate_mixed_stats(lines, index):
         if prop in words:
             prop_index = words.index(prop)
             if prop in NUMERIC_PROPERTIES:
-                if prop_index + 1 < len(words) and words[prop_index + 1][0] in MODIFIER_CHARS:
+                if (
+                    prop_index + 1 < len(words)
+                    and words[prop_index + 1][0] in MODIFIER_CHARS
+                ):
                     properties_present += 1
             else:
                 properties_present += 1
@@ -434,7 +444,7 @@ def clean_detabulate_mixed_stats(lines, index):
         word = words[word_index]
         matched = False
 
-        for keyword in NUMERIC_PROPERTIES + PROPERTIES + ABILITIES:
+        for keyword in ALL_PROPERTIES:
             if word == keyword:
                 matched = True
                 parts = [word]
@@ -445,7 +455,7 @@ def clean_detabulate_mixed_stats(lines, index):
                     # properties consume everything until next keyword
                     while (
                         word_index < len(words)
-                        and words[word_index] not in NUMERIC_PROPERTIES + PROPERTIES + ABILITIES
+                        and words[word_index] not in (ALL_PROPERTIES)
                     ):
                         parts.append(words[word_index])
                         word_index += 1
@@ -472,7 +482,9 @@ def clean_detabulate_mixed_stats(lines, index):
 
 def clean_retabulate_ability_scores(lines, index):
     # **Str** 14 +2 +2 **Dex** ... -> | Str | 14 |...
-    abilities_pattern = r'^\*\*(' + '|'.join(ABILITIES) + r')\*\*\s+\d+\s+[+-]?\d+\s+[+-]?\d+'
+    abilities_pattern = (
+        r'^\*\*(' + '|'.join(ABILITIES) + r')\*\*\s+\d+\s+[+-]?\d+\s+[+-]?\d+'
+    )
     if not re.match(abilities_pattern, lines[index]):
         return None
 
@@ -600,6 +612,7 @@ def clean_actions_emphasis(lines, index):
 
     return None
 
+
 def clean_spell_list_emphasis(lines, index):
     # "| Chill Touch | Necromancy |" -> "| *Chill Touch* | Necromancy |"
     if (
@@ -642,7 +655,13 @@ def clean_decost_headers(lines, index):
     return None
 
 
-def clean_srd(lines, breakdown_data, show_progress=False, clean_lines=None, profile=None):
+def clean_srd(
+    lines,
+    breakdown_data,
+    show_progress=False,
+    clean_lines=None,
+    profile=None,
+):
     global spell_list, spell_matcher
 
     if profile:
@@ -658,7 +677,7 @@ def clean_srd(lines, breakdown_data, show_progress=False, clean_lines=None, prof
             )
             print(f"- {cleaner.__name__:40} {index:6} [{bar}]", end=end)
 
-    DND_51_CONVERSIONS_TABLE = [
+    DND_51_CONVERSIONS_TABLE = [        # noqa: F841
         # common problems
         clean_whitespace,
         clean_wrap_blank_lines,
@@ -866,7 +885,7 @@ def warn_empty_table_header(lines, index):
                     for ability in ABILITIES
             ):
                 return None
-            return f"table has empty header cells"
+            return "table has empty header cells"
     return None
 
 
@@ -879,12 +898,12 @@ def warn_empty_table_cells(lines, index):
     ):
         cells = [cell.strip() for cell in lines[index].split('|')[1:-1]]
         if not all(cell for cell in cells):
-            return f"table has empty data cells"
+            return "table has empty data cells"
     return None
 
 
 def warn_srd(lines, ignore_file=None):
-    WARN_TABLE_DND51 = [
+    WARN_TABLE_DND51 = [        # noqa: F841
         warn_table_runon,
         warn_midpara_italics,
         warn_inconsistent_list_formatting,
@@ -980,14 +999,43 @@ def write_breakdown_data(breakdown_file, breakdown_data):
 
 def main():
     parser = argparse.ArgumentParser(description='Clean SRD markdown format')
-    parser.add_argument('markdown', help='Input markdown file')
-    parser.add_argument('breakdown_file', nargs='?', help='Optional breakdown file to update')
-    parser.add_argument('--debug', action='store_true', help='Print changes to stdout instead of modifying file')
-    parser.add_argument('--warn', action='store_true', help='Only run warning checks, skip cleaning and error checks')
-    parser.add_argument('--progress', action='store_true', help='Show progress through the file')
-    parser.add_argument('--ignore-warnings', help='File containing patterns to ignore warnings')
-    parser.add_argument('--clean-lines', help='File containing lines to skip during cleaning')
-    parser.add_argument('--profile', default='521', help='Spell list profile (51 or 521)')
+    parser.add_argument(
+        'markdown',
+        help='Input markdown file',
+    )
+    parser.add_argument(
+        'breakdown_file',
+        nargs='?',
+        help='Optional breakdown file to update',
+    )
+    parser.add_argument(
+        '--debug',
+        action='store_true',
+        help='Print changes to stdout instead of modifying file',
+    )
+    parser.add_argument(
+        '--warn',
+        action='store_true',
+        help='Only run warning checks, skip cleaning and error checks',
+    )
+    parser.add_argument(
+        '--progress',
+        action='store_true',
+        help='Show progress through the file',
+    )
+    parser.add_argument(
+        '--ignore-warnings',
+        help='File containing patterns to ignore warnings',
+    )
+    parser.add_argument(
+        '--clean-lines',
+        help='File containing lines to skip during cleaning',
+    )
+    parser.add_argument(
+        '--profile',
+        default='521',
+        help='Spell list profile (51 or 521)',
+    )
     args = parser.parse_args()
 
     try:
@@ -1007,7 +1055,13 @@ def main():
                 clean_lines = load_clean_lines(args.clean_lines)
 
             check_srd(lines)
-            cleaned = clean_srd(lines, breakdown_data, args.progress, clean_lines, args.profile)
+            cleaned = clean_srd(
+                lines,
+                breakdown_data,
+                args.progress,
+                clean_lines,
+                args.profile,
+            )
 
         warn_srd(lines, args.ignore_warnings)
 
@@ -1019,7 +1073,6 @@ def main():
                     handle.write(cleaned)
                 if args.breakdown_file and breakdown_data:
                     write_breakdown_data(args.breakdown_file, breakdown_data)
-
 
     except FileNotFoundError as e:
         print(f"Error '{e.filename}' not found")

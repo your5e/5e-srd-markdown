@@ -19,13 +19,13 @@ class TestCleanStatblockSpellcastingMarker(TestFilter):
             _**Spellcasting.**_ The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast *disguise self* and *invisibility* at will and has the following wizard spells prepared:
 
                 - Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shocking grasp*
-                - 1st level (4 slots): *detect magic*, *identify*, *mage armor*,\* *magic missile*
+                - 1st level (4 slots): *detect magic*, *identify*, *mage armor*,\\* *magic missile*
         """)
         expected = dedent("""\
             - _**Spellcasting.**_ The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast *disguise self* and *invisibility* at will and has the following wizard spells prepared:
 
                 - Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shocking grasp*
-                - 1st level (4 slots): *detect magic*, *identify*, *mage armor*,\* *magic missile*
+                - 1st level (4 slots): *detect magic*, *identify*, *mage armor*,\\* *magic missile*
         """)
 
         assert expected == self.run_text_through_filter(clean_statblock_spellcasting_marker, text)

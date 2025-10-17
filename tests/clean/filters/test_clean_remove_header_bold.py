@@ -8,7 +8,7 @@ class TestCleanRemoveHeaderBold(TestFilter):
         text = dedent("""\
             # Legal Information
 
-            The System Reference Document 5.1 is provided to you free of charge under the terms of the Creative Commons [Attribution 4.0 International License \("CC-BY-4.0"\). You are free](https://creativecommons.org/licenses/by/4.0/legalcode) to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
+            The System Reference Document 5.1 is provided to you free of charge under the terms of the Creative Commons [Attribution 4.0 International License ("CC-BY-4.0"). You are free](https://creativecommons.org/licenses/by/4.0/legalcode) to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
         """)
 
         assert text == self.run_text_through_filter(clean_remove_header_bold, text)

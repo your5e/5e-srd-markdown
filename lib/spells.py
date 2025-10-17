@@ -422,6 +422,7 @@ dnd521_spells = {
     ],
 }
 
+
 def get_spell_list(version='521'):
     result = {}
     for letter in 'abcdefghijklmnopqrstuvwxyz':
