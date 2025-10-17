@@ -40,38 +40,6 @@ def get_table_headers(lines, index):
     return [cell.strip() for cell in lines[start].split('|')[1:-1]]
 
 
-def check_duration_length(line):
-    # "**Duration:** Concentration, up to 1 minute Squirming, ebony tentacles..."
-    duration_match = re.search(r'\*\*Duration:\*\*\s+(.+)', line)
-    if duration_match:
-        duration_content = duration_match.group(1)
-        if len(duration_content.split()) > 5:
-            return (
-                f"Duration value has more than 5 words, "
-                f"likely contains description: '{line}'"
-            )
-
-
-def check_srd(lines):
-    TESTS_TABLE = [
-        check_duration_length,
-    ]
-
-    error_messages = []
-    for index, line in enumerate(lines):
-        for checker in TESTS_TABLE:
-            message = checker(line)
-            if message:
-                context = 'file'
-                for prev in range(index - 1, -1, -1):
-                    if lines[prev].startswith('#'):
-                        context = lines[prev]
-                        break
-                error_messages.append(f"{context}, {index}:\n{message}\n")
-    if error_messages:
-        raise ValueError('\n'.join(error_messages))
-
-
 def clean_whitespace(lines, index):
     # why <br>s for the love of...
     spaces = lines[index].replace('<br>', ' ')
@@ -792,14 +760,36 @@ def warn_table_runon(lines, index):
             return "possible table run-on"
 
 
-def warn_midpara_italics(lines, index):
+def warn_midparagraph_italics(lines, index):
     # look for mid-paragraph italics that could be a source wrapping error
+    excluded = [
+        "Player's Handbook.",
+        "Hit:",
+
+        # SRD 5.2.1
+        "Miss:",
+        "Hit or Miss:",
+        "Choose A or B:",
+        "Melee Attack Roll:",
+        "Ranged Attack Roll:",
+        "Melee or Ranged Attack Roll:",
+        "Trigger:",
+        "Response:",
+        "Failure:",
+        "Success:",
+        "Successful Save:",
+        "Failure or Success:",
+        "First Failure:",
+        "Second Failure:",
+        "Additional Effects:",
+        "Failed Save:",
+    ]
     matches = re.findall(r'[\w.].*?_([A-Z][^_]*[:\.])_', lines[index])
     for match in matches:
         if (
             not match.startswith("**")
-            and match != "Player's Handbook."
-            and match != "Hit:"
+            and match not in excluded
+            and not re.search(r'^(?:Response - )?\w+ Saving Throw:$', match)
         ):
             return f"possible mistaken mid-paragraph italic: '{match}'"
     return None
@@ -829,6 +819,10 @@ def warn_table_after_header(lines, index):
         and lines[index].startswith('|')
         and lines[index - 1] == ''
         and lines[index - 2].startswith('#')
+
+        # ignore known tables
+        and not re.search(r'Level \d+ \w+ Spells', lines[index - 2])
+        and not re.search(r'Core \w+ Traits', lines[index - 2])
     ):
         return "table immediately after header"
 
@@ -902,10 +896,18 @@ def warn_empty_table_cells(lines, index):
     return None
 
 
+def warn_duration_length(lines, index):
+    # "**Duration:** Concentration, up to 1 minute Squirming, ebony tentacles..."
+    if lines[index].startswith('**Duration:**'):
+        if len(lines[index].split()) > 6:
+            return "duration has more than 5 words"
+    return None
+
+
 def warn_srd(lines, ignore_file=None):
-    WARN_TABLE_DND51 = [        # noqa: F841
+    WARN_TABLE = [
         warn_table_runon,
-        warn_midpara_italics,
+        warn_midparagraph_italics,
         warn_inconsistent_list_formatting,
         warn_table_after_header,
         warn_bullet_characters,
@@ -913,15 +915,7 @@ def warn_srd(lines, ignore_file=None):
         warn_unusual_unicode,
         warn_empty_table_header,
         warn_empty_table_cells,
-    ]
-    WARN_TABLE = [
-        warn_table_runon,
-        warn_inconsistent_list_formatting,
-        warn_table_after_header,
-        warn_bullet_characters,
-        warn_unusual_unicode,
-        warn_empty_table_header,
-        warn_empty_table_cells,
+        warn_duration_length,
     ]
 
     ignore_patterns = []
@@ -1054,7 +1048,6 @@ def main():
             if args.clean_lines:
                 clean_lines = load_clean_lines(args.clean_lines)
 
-            check_srd(lines)
             cleaned = clean_srd(
                 lines,
                 breakdown_data,
