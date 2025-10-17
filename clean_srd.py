@@ -904,6 +904,24 @@ def warn_duration_length(lines, index):
     return None
 
 
+def warn_repeated_table_headers(lines, index):
+    # "| Spell | Charge Cost | Spell | Charge Cost |"
+    if (
+        lines[index].startswith('|')
+        and index > 0
+        and not lines[index - 1].startswith('|')
+    ):
+        cells = [cell.strip() for cell in lines[index].split('|')[1:-1]]
+        if len(cells) >= 2:
+            seen = set()
+            for cell in cells:
+                if cell and cell in seen:
+                    return f"table has repeated header: '{cell}'"
+                if cell:
+                    seen.add(cell)
+    return None
+
+
 def warn_srd(lines, ignore_file=None):
     WARN_TABLE = [
         warn_table_runon,
@@ -916,6 +934,7 @@ def warn_srd(lines, ignore_file=None):
         warn_empty_table_header,
         warn_empty_table_cells,
         warn_duration_length,
+        warn_repeated_table_headers,
     ]
 
     ignore_patterns = []
