@@ -56,6 +56,8 @@ function process_includes {
             local include_adjustment="${BASH_REMATCH[3]}"
             local line_range="${BASH_REMATCH[4]% }"
             local include="${BASH_REMATCH[5]}"
+            include="${include%\"}"
+            include="${include#\"}"
             local full_path="$(dirname "$file")/$include"
 
             include_adjustment="${include_adjustment:-$adjustment}"

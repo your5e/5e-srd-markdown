@@ -1,21 +1,21 @@
 # not a valid breakdown line
-  1   3    sections/intro.md
+  1   3    "sections/intro.md"
 
-  5   9    extract sections/section_one.md
+  5   9    extract "sections/section_one.md"
 
 # overlaps cause corruption of source files
-  8  10    extract sections/section_overlap.md
+  8  10    extract "sections/section_overlap.md"
 
 # no duplicate filenames
- 11  11    extract sections/section_overlap.md
+ 11  11    extract "sections/section_overlap.md"
 
- 13  19    extract sections/section_two.md
+ 13  19    extract "sections/section_two.md"
 
 # line numbers must ascend
- 21  10    extract reversed.md
+ 21  10    extract "reversed.md"
 
 # first line must continue to ascend
- 20  20    extract sections/line_twenty.md
+ 20  20    extract "sections/line_twenty.md"
 
 # cannot extract lines that don't exist
-400 500    extract out_of_range.md
+400 500    extract "out_of_range.md"

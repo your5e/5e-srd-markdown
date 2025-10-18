@@ -69,18 +69,18 @@ function main {
         fi
 
         if [ $start -le $last_range_start ]; then
-            errors+=("${start}-${end} ${target_file} - not in numerical order")
+            errors+=("${start}-${end} \"${target_file}\" - not in numerical order")
             continue
         fi
         last_range_start=$start
 
         if [ $start -gt $end ]; then
-            errors+=("${start}-${end} ${target_file} - descending line numbers")
+            errors+=("${start}-${end} \"${target_file}\" - descending line numbers")
             continue
         fi
 
         if [ $end -gt $(wc -l < "$source_file") ]; then
-            errors+=("${start}-${end} ${target_file} - lines beyond the source")
+            errors+=("${start}-${end} \"${target_file}\" - lines beyond the source")
             continue
         fi
 
@@ -88,7 +88,7 @@ function main {
             if [ -n "${files_seen[$target_file]:-}" ] \
                 && [ "$action" = "extract" ]; \
             then
-                errors+=("${start}-${end} ${target_file} - duplicate filename")
+                errors+=("${start}-${end} \"${target_file}\" - duplicate filename")
                 continue
             fi
             files_seen[$target_file]="${start}-${end}"
@@ -97,7 +97,7 @@ function main {
         for index in $(seq $start $end); do
             if [ -n "${lines_claimed[$index]:-}" ]; then
                 local overlap="${lines_claimed[$index]}"
-                errors+=("${start}-${end} ${target_file} - overlaps with $overlap")
+                errors+=("${start}-${end} \"${target_file}\" - overlaps with \"$overlap\"")
                 break
             fi
             lines_claimed[$index]="$target_file"
@@ -139,22 +139,22 @@ function main {
                 if [ -n "$offset_param" ]; then
                     local range="$fragment_start-$fragment_end"
                     output+=(
-                        "@include- $offset_param $range $target_file"
+                        "@include- $offset_param $range \"$target_file\""
                     )
                 else
                     local range="$fragment_start-$fragment_end"
-                    output+=("@include-   $range $target_file")
+                    output+=("@include-   $range \"$target_file\"")
                 fi
             else
                 offset_param="$padding_or_offset"
                 if [ -n "$offset_param" ]; then
                     local range="$fragment_start-$fragment_end"
                     output+=(
-                        "@include  $offset_param $range $target_file"
+                        "@include  $offset_param $range \"$target_file\""
                     )
                 else
                     local range="$fragment_start-$fragment_end"
-                    output+=("@include    $range $target_file")
+                    output+=("@include    $range \"$target_file\"")
                 fi
             fi
 
@@ -209,21 +209,21 @@ function main {
 
             if [[ ! -t 1 ]]; then
                 if [ "$action" = "append" ]; then
-                    printf "%*s-%-*s >> %s\n" \
+                    printf "%*s-%-*s >> \"%s\"\n" \
                         "$start_width" "$start" "$end_width" "$end" "$target_file"
                 else
-                    printf "%*s-%-*s >  %s\n" \
+                    printf "%*s-%-*s >  \"%s\"\n" \
                         "$start_width" "$start" "$end_width" "$end" "$target_file"
                 fi
             else
                 if [ "$action" = "append" ]; then
                     printf '%-118s\r' "$(
-                        printf "%*s-%-*s >> %s" \
+                        printf "%*s-%-*s >> \"%s\"" \
                             "$start_width" "$start" "$end_width" "$end" "$target_file"
                     )"
                 else
                     printf '%-118s\r' "$(
-                        printf "%*s-%-*s >  %s" \
+                        printf "%*s-%-*s >  \"%s\"" \
                             "$start_width" "$start" "$end_width" "$end" "$target_file"
                     )"
                 fi
@@ -257,12 +257,12 @@ function main {
 
             if [ $quiet -eq 0 ]; then
                 if [[ ! -t 1 ]]; then
-                    printf "%*s#  %s\n" \
+                    printf "%*s#  \"%s\"\n" \
                         "$((start_width + end_width + 2))" \
                         "" "$target_file"
                 else
                     printf '%-118s\r' "$(
-                        printf "%*s#  %s" \
+                        printf "%*s#  \"%s\"" \
                             "$((start_width + end_width + 2))" \
                             "" "$target_file"
                     )"

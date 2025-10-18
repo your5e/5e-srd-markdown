@@ -1,14 +1,14 @@
 #                                    what it is testing
 
-     1     11  high_elf.md         # attributes to lists
-    13     40  barbarian.md        # table runon warning
-    42     95  bard.md             # table reformatting and joining
-    97    107  berserker_axe.md    # paragraph join, not becoming list
-   109    121  magic_missile.md    # wrapping and listing **word** sections
-   123    164  black_pudding.md    # single action items, list combining, blank line removal
-   166    194  druid.md            # statblock spells, bold in para
-   196    218  giant_centipede.md  # no traits
-   220    240  hyena.md            # single trait listify
-   242    274  wereboar.md         # header fixes, attack lines, insert 'features', midpara italics
-   276    280  solvent.md          # magic item names
-   282    292  customising.md      # midpara italic ignores PHB
+     1     11  "high_elf.md"         # attributes to lists
+    13     40  "barbarian.md"        # table runon warning
+    42     95  "bard.md"             # table reformatting and joining
+    97    107  "berserker_axe.md"    # paragraph join, not becoming list
+   109    121  "magic_missile.md"    # wrapping and listing **word** sections
+   123    164  "black_pudding.md"    # single action items, list combining, blank line removal
+   166    194  "druid.md"            # statblock spells, bold in para
+   196    218  "giant_centipede.md"  # no traits
+   220    240  "hyena.md"            # single trait listify
+   242    274  "wereboar.md"         # header fixes, attack lines, insert 'features', midpara italics
+   276    280  "solvent.md"          # magic item names
+   282    292  "customising.md"      # midpara italic ignores PHB

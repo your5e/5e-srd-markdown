@@ -1,4 +1,4 @@
 # comments are allowed
 
-     1     28  barbarian.md        # table warnings
-    30     42  magic_missile.md
+     1     28  "barbarian.md"        # table warnings
+    30     42  "magic_missile.md"

@@ -61,9 +61,9 @@ setup() {
 
 @test "extract sections with explicit command file" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-         5-11 >  sections/section_one.md
-        14-20 >  sections/section_two.md
-        23-27 >  sections/section_three.md
+         5-11 >  "sections/section_one.md"
+        14-20 >  "sections/section_two.md"
+        23-27 >  "sections/section_three.md"
         EOF
     )
 
@@ -83,12 +83,12 @@ setup() {
 
 @test "extract sections with default flags and explicit command file" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-         5-11 >  sections/section_one.md
-        14-20 >  sections/section_two.md
-        23-27 >  sections/section_three.md
-              #  sections/section_one.md
-              #  sections/section_two.md
-              #  sections/section_three.md
+         5-11 >  "sections/section_one.md"
+        14-20 >  "sections/section_two.md"
+        23-27 >  "sections/section_three.md"
+              #  "sections/section_one.md"
+              #  "sections/section_two.md"
+              #  "sections/section_three.md"
         EOF
     )
 
@@ -108,9 +108,9 @@ setup() {
 
 @test "extract sections with default command file" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-         5-11 >  sections/section_one.md
-        14-20 >  sections/section_two.md
-        23-27 >  sections/section_three.md
+         5-11 >  "sections/section_one.md"
+        14-20 >  "sections/section_two.md"
+        23-27 >  "sections/section_three.md"
         EOF
     )
 
@@ -130,12 +130,12 @@ setup() {
 
 @test "extract sections with default flags" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-         5-11 >  sections/section_one.md
-        14-20 >  sections/section_two.md
-        23-27 >  sections/section_three.md
-              #  sections/section_one.md
-              #  sections/section_two.md
-              #  sections/section_three.md
+         5-11 >  "sections/section_one.md"
+        14-20 >  "sections/section_two.md"
+        23-27 >  "sections/section_three.md"
+              #  "sections/section_one.md"
+              #  "sections/section_two.md"
+              #  "sections/section_three.md"
         EOF
     )
 
@@ -155,9 +155,9 @@ setup() {
 
 @test "extract and replace sections" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-         5-11 >  sections/section_one.md
-        14-20 >  sections/section_two.md
-        23-27 >  sections/section_three.md
+         5-11 >  "sections/section_one.md"
+        14-20 >  "sections/section_two.md"
+        23-27 >  "sections/section_three.md"
         EOF
     )
 
@@ -177,12 +177,12 @@ setup() {
 
 @test "extract and replace sections with default flags" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-         5-11 >  sections/section_one.md
-        14-20 >  sections/section_two.md
-        23-27 >  sections/section_three.md
-              #  sections/section_one.md
-              #  sections/section_two.md
-              #  sections/section_three.md
+         5-11 >  "sections/section_one.md"
+        14-20 >  "sections/section_two.md"
+        23-27 >  "sections/section_three.md"
+              #  "sections/section_one.md"
+              #  "sections/section_two.md"
+              #  "sections/section_three.md"
         EOF
     )
 
@@ -203,11 +203,11 @@ setup() {
 @test "invalid ranges" {
     expected=$(sed -e 's/^        //' <<'        EOF'
         1-3  - missing action
-        8-10 sections/section_overlap.md - overlaps with sections/section_one.md
-        11-11 sections/section_overlap.md - duplicate filename
-        21-10 reversed.md - descending line numbers
-        20-20 sections/line_twenty.md - not in numerical order
-        400-500 out_of_range.md - lines beyond the source
+        8-10 "sections/section_overlap.md" - overlaps with "sections/section_one.md"
+        11-11 "sections/section_overlap.md" - duplicate filename
+        21-10 "reversed.md" - descending line numbers
+        20-20 "sections/line_twenty.md" - not in numerical order
+        400-500 "out_of_range.md" - lines beyond the source
         EOF
     )
 
@@ -221,10 +221,10 @@ setup() {
 
 @test "extract only matching files with pattern" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-         5-11 >  sections/section_one.md
-        23-27 >  sections/section_three.md
-              #  sections/section_one.md
-              #  sections/section_three.md
+         5-11 >  "sections/section_one.md"
+        23-27 >  "sections/section_three.md"
+              #  "sections/section_one.md"
+              #  "sections/section_three.md"
         EOF
     )
 
@@ -275,8 +275,8 @@ setup() {
 
 @test "fix header indentation on updated files" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-        14-20 >  sections/section_two.md
-              #  sections/section_two.md
+        14-20 >  "sections/section_two.md"
+              #  "sections/section_two.md"
         EOF
     )
 
@@ -296,9 +296,9 @@ setup() {
     cp "$TEST_DIR/append_breakdown.txt" "$BATS_TEST_TMPDIR/"
 
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-         4-4  >  sections/combined.md
-         9-9  >> sections/combined.md
-        14-14 >> sections/combined.md
+         4-4  >  "sections/combined.md"
+         9-9  >> "sections/combined.md"
+        14-14 >> "sections/combined.md"
         EOF
     )
 
@@ -315,12 +315,12 @@ setup() {
     cp "$TEST_DIR/append_breakdown.txt" "$BATS_TEST_TMPDIR/"
 
     expected_output=$(sed -e 's/^        //' <<-EOF
-         4-4  >  sections/combined.md
-         9-9  >> sections/combined.md
-        14-14 >> sections/combined.md
+         4-4  >  "sections/combined.md"
+         9-9  >> "sections/combined.md"
+        14-14 >> "sections/combined.md"
         Warning: ${BATS_TEST_TMPDIR}/sections/combined.md, 1: first line must be a header
         Warning: ${BATS_TEST_TMPDIR}/sections/combined.md, 1: doesn't start with level 1 header
-              #  sections/combined.md
+              #  "sections/combined.md"
 	EOF
     )
 
@@ -337,9 +337,9 @@ setup() {
     cp "$TEST_DIR/append_headers_breakdown.txt" "$BATS_TEST_TMPDIR/"
 
     expected_output=$(sed -e 's/^        //' <<'        EOF'
-         4-9  >  sections/headers_combined.md
-        13-17 >> sections/headers_combined.md
-              #  sections/headers_combined.md
+         4-9  >  "sections/headers_combined.md"
+        13-17 >> "sections/headers_combined.md"
+              #  "sections/headers_combined.md"
         EOF
     )
 
