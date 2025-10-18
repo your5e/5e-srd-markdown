@@ -55,7 +55,8 @@ function main {
     )
 
     for line in "${commands[@]}"; do
-        read -r start end action target_file padding_or_offset offset <<< "$line"
+        parse_breakdown_line \
+            "$line" start end action target_file padding_or_offset offset
 
         if [[ "$start" =~ ^@ ]]; then
             output+=("$start $end")
@@ -171,8 +172,8 @@ function main {
     local start_width=0
     local end_width=0
     for line in "${commands[@]}"; do
-        read -r start end action target_file \
-            padding_or_offset offset <<< "$line"
+        parse_breakdown_line \
+            "$line" start end action target_file padding_or_offset offset
 
         [[ "$start" =~ ^@ ]] \
             && continue
@@ -183,8 +184,8 @@ function main {
     done
 
     for line in "${commands[@]}"; do
-        read -r start end action target_file \
-            padding_or_offset offset <<< "$line"
+        parse_breakdown_line \
+            "$line" start end action target_file padding_or_offset offset
 
         [[ "$start" =~ ^@ ]] \
             && continue
@@ -330,6 +331,85 @@ function extract_file {
     return 1
 }
 
+function parse_breakdown_line {
+    local line="$1"
+    local -n start_ref=$2
+    local -n end_ref=$3
+    local -n action_ref=$4
+    local -n target_file_ref=$5
+    local -n padding_or_offset_ref=$6
+    local -n offset_ref=$7
+    local remainder
+
+    read -r start_ref end_ref action_ref remainder <<< "$line"
+
+    if [[ "$start_ref" =~ ^@ ]]; then
+        action_ref=""
+        target_file_ref=""
+        padding_or_offset_ref=""
+        offset_ref=""
+        return
+    fi
+
+    if [ -z "$start_ref" -o -z "$end_ref" -o -z "$action_ref" ] \
+        || ! [[ "$start_ref" =~ ^[1-9][0-9]*$ ]] \
+        || ! [[ "$end_ref" =~ ^[1-9][0-9]*$ ]];
+    then
+        start_ref=""
+        end_ref=""
+        action_ref=""
+        target_file_ref=""
+        padding_or_offset_ref=""
+        offset_ref=""
+        return
+    fi
+
+    # strip leading whitespace from remainder
+    remainder="${remainder#"${remainder%%[![:space:]]*}"}"
+
+    if [[ "${remainder:0:1}" == '"' ]]; then
+        local filename=""
+        local index=1
+        local char
+        local found_closing_quote=0
+
+        # parse quoted filename character by character to handle escapes
+        while [ $index -lt ${#remainder} ]; do
+            char="${remainder:$index:1}"
+
+            if [ "$char" == '\' ]; then
+                # backslash escapes next character
+                ((index++))
+                filename+="${remainder:$index:1}"
+            elif [ "$char" == '"' ]; then
+                # closing quote
+                ((index++))
+                found_closing_quote=1
+                break
+            else
+                filename+="$char"
+            fi
+            ((index++))
+        done
+
+        if [ $found_closing_quote -eq 0 ]; then
+            start_ref=""
+            end_ref=""
+            action_ref=""
+            target_file_ref=""
+            padding_or_offset_ref=""
+            offset_ref=""
+            return
+        fi
+
+        target_file_ref="$filename"
+        remainder="${remainder:$index}"
+        read -r padding_or_offset_ref offset_ref <<< "$remainder"
+    else
+        read -r target_file_ref padding_or_offset_ref offset_ref <<< "$remainder"
+    fi
+}
+
 function usage {
     exec perldoc -T "$0"
 }
@@ -342,7 +422,9 @@ function abort {
     exit 1
 }
 
-main "$@"
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+    main "$@"
+fi
 
 : <<'=cut'
 =head1 NAME
