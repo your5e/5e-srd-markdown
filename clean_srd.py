@@ -1051,8 +1051,8 @@ def main():
     )
     parser.add_argument(
         '--profile',
-        default='521',
-        help='Spell list profile (51 or 521)',
+        default='dnd521',
+        help='SRD profile to use (dnd51, dnd521)',
     )
     args = parser.parse_args()
 

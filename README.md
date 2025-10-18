@@ -213,3 +213,17 @@ Every script should have a test suite.
 - `make test` runs all the code tests
 - `make ci` runs all the code tests, and a couple more
 - `bats tests/clean/clean.bats` runs only the clean test suite
+
+Strategy for adding a new SRD is create a new profile with no filters, break
+the file down into its component parts to more easily identify which filters
+are needed or will need to be written. As more filters are added to the
+profile, the end result will start to take shape, making it easier to identify
+which parts need changing by hand vs need a filter written.
+
+(My rule of thumb is if it occurs more than a handful of times, or can be
+obviously fixed with code, it gets a filter, otherwise I just do it by hand.)
+
+When adding a new filter, first identify examples from the SRD, copy them
+to the new filter test file, and fix them in isolation. Then clean the SRD
+to find other examples where the format might be slightly different. Adjust
+the code and tests until you catch as many instances as possible.

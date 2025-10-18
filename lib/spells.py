@@ -423,15 +423,15 @@ dnd521_spells = {
 }
 
 
-def get_spell_list(version='521'):
+def get_spell_list(version='dnd521'):
     result = {}
     for letter in 'abcdefghijklmnopqrstuvwxyz':
         result[letter] = []
         if letter in common_spells:
             result[letter].extend(common_spells[letter])
-        if version == '51' and letter in dnd51_spells:
+        if version == 'dnd51' and letter in dnd51_spells:
             result[letter].extend(dnd51_spells[letter])
-        if version == '521' and letter in dnd521_spells:
+        if version == 'dnd521' and letter in dnd521_spells:
             result[letter].extend(dnd521_spells[letter])
         if result[letter]:
             result[letter].sort()
@@ -449,4 +449,4 @@ def get_next_unemphasised_spell(spell_list):
     return re.compile(pattern)
 
 
-spells = get_spell_list('521')
+spells = get_spell_list('dnd521')

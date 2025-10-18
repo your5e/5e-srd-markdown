@@ -16,7 +16,7 @@ setup() {
     )
 
     run python clean_srd.py \
-            --profile 521 \
+            --profile dnd521 \
             "$BATS_TEST_TMPDIR/srd.md" \
             "$BATS_TEST_TMPDIR/breakdown.txt"
 
@@ -36,7 +36,7 @@ setup() {
     )
 
     run python clean_srd.py \
-            --profile 521 \
+            --profile dnd521 \
             "$BATS_TEST_TMPDIR/srd.md" \
             "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u tests/clean521/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
@@ -46,7 +46,7 @@ setup() {
 
     # run again, nothing should change
     run python clean_srd.py \
-            --profile 521 \
+            --profile dnd521 \
             "$BATS_TEST_TMPDIR/srd.md" \
             "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u tests/clean521/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
