@@ -34,3 +34,4 @@ class TestCleanLeadingEmphasis(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_leading_emphasis, text)
+        assert expected == self.run_text_through_filter(clean_leading_emphasis, expected)

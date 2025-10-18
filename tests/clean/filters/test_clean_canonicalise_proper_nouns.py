@@ -40,3 +40,4 @@ class TestCleanCanonicaliseProperNouns(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_canonicalise_proper_nouns, text)
+        assert expected == self.run_text_through_filter(clean_canonicalise_proper_nouns, expected)

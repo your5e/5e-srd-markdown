@@ -1,5 +1,51 @@
 # Legal guff
 
+## **Druid Subclass: Circle of the Land**
+
+*Celebrate Connection to the Natural World*
+
+The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.
+
+### **Level 3: Circle of the Land Spells**
+
+Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
+
+#### Arid Land
+
+|   Druid Level | Circle Spells                  |
+|---------------|--------------------------------|
+|             3 | Blur, Burning Hands, Fire Bolt |
+|             5 | Fireball                       |
+|             7 | Blight                         |
+|             9 | Wall of Stone                  |
+
+#### Polar Land
+
+|   Druid Level | Circle Spells                        |
+|---------------|--------------------------------------|
+|             3 | Fog Cloud, Hold Person, Ray of Frost |
+|             5 | Sleet Storm                          |
+|             7 | Ice Storm                            |
+|             9 | Cone of Cold                         |
+
+#### Temperate Land
+
+|   Druid Level | Circle Spells                     |
+|---------------|-----------------------------------|
+|             3 | Misty Step, Shocking Grasp, Sleep |
+|             5 | Lightning Bolt                    |
+|             7 | Freedom of Movement               |
+|             9 | Tree Stride                       |
+
+#### Tropical Land
+
+|   Druid Level | Circle Spells                     |
+|---------------|-----------------------------------|
+|             3 | Acid Splash, Ray of Sickness, Web |
+|             5 | Stinking Cloud                    |
+|             7 | Polymorph                         |
+|             9 | Insect Plague                     |
+
 # **Alchemist's Supplies (50 GP)**
 
 **Ability:** Intelligence **Weight:** 8 lb. **Utilize:** Identify a substance (DC 15), or start a fire (DC 15) **Craft:** Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume

@@ -44,3 +44,4 @@ class TestCleanWhitespace(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_whitespace, text)
+        assert expected == self.run_text_through_filter(clean_whitespace, expected)

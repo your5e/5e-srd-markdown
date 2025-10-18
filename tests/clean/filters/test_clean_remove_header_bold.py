@@ -34,3 +34,4 @@ class TestCleanRemoveHeaderBold(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_remove_header_bold, text)
+        assert expected == self.run_text_through_filter(clean_remove_header_bold, expected)

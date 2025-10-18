@@ -52,3 +52,4 @@ class TestCleanStatblockSpellsToList(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_statblock_spells_to_list, text)
+        assert expected == self.run_text_through_filter(clean_statblock_spells_to_list, expected)

@@ -1,5 +1,51 @@
 # Legal guff
 
+## Druid Subclass: Circle of the Land
+
+_Celebrate Connection to the Natural World_
+
+The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.
+
+### Level 3: Circle of the Land Spells
+
+Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
+
+#### Arid Land
+
+|   Druid Level | Circle Spells                        |
+|---------------|--------------------------------------|
+|             3 | _Blur_, _Burning Hands_, _Fire Bolt_ |
+|             5 | _Fireball_                           |
+|             7 | _Blight_                             |
+|             9 | _Wall of Stone_                      |
+
+#### Polar Land
+
+|   Druid Level | Circle Spells                              |
+|---------------|--------------------------------------------|
+|             3 | _Fog Cloud_, _Hold Person_, _Ray of Frost_ |
+|             5 | _Sleet Storm_                              |
+|             7 | _Ice Storm_                                |
+|             9 | _Cone of Cold_                             |
+
+#### Temperate Land
+
+|   Druid Level | Circle Spells                           |
+|---------------|-----------------------------------------|
+|             3 | _Misty Step_, _Shocking Grasp_, _Sleep_ |
+|             5 | _Lightning Bolt_                        |
+|             7 | _Freedom of Movement_                   |
+|             9 | _Tree Stride_                           |
+
+#### Tropical Land
+
+|   Druid Level | Circle Spells                           |
+|---------------|-----------------------------------------|
+|             3 | _Acid Splash_, _Ray of Sickness_, _Web_ |
+|             5 | _Stinking Cloud_                        |
+|             7 | _Polymorph_                             |
+|             9 | _Insect Plague_                         |
+
 # Alchemist's Supplies
 
 **Cost:** 50 GP

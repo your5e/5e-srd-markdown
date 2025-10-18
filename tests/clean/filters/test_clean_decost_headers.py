@@ -63,3 +63,4 @@ class TestCleanDecostHeaders(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_decost_headers, text)
+        assert expected == self.run_text_through_filter(clean_decost_headers, expected)

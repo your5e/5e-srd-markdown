@@ -26,3 +26,4 @@ class TestCleanBoldPeriods(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_bold_periods, text)
+        assert expected == self.run_text_through_filter(clean_bold_periods, expected)

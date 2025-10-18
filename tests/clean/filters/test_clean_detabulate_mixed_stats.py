@@ -170,3 +170,4 @@ class TestCleanDetabulateMixedStats(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_detabulate_mixed_stats, text)
+        assert expected == self.run_text_through_filter(clean_detabulate_mixed_stats, expected)

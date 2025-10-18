@@ -34,3 +34,4 @@ class TestCleanItalicToBoldItalic(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_italic_to_bold_italic, text)
+        assert expected == self.run_text_through_filter(clean_italic_to_bold_italic, expected)

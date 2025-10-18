@@ -38,3 +38,4 @@ class TestCleanAddTraitsHeader(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_add_traits_header, text)
+        assert expected == self.run_text_through_filter(clean_add_traits_header, expected)

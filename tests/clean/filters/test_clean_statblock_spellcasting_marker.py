@@ -29,6 +29,7 @@ class TestCleanStatblockSpellcastingMarker(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_statblock_spellcasting_marker, text)
+        assert expected == self.run_text_through_filter(clean_statblock_spellcasting_marker, expected)
 
     def test_filtering_innate_spellcasting(self):
         text = dedent("""\
@@ -45,3 +46,4 @@ class TestCleanStatblockSpellcastingMarker(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_statblock_spellcasting_marker, text)
+        assert expected == self.run_text_through_filter(clean_statblock_spellcasting_marker, expected)

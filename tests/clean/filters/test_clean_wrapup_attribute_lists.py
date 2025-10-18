@@ -38,3 +38,4 @@ class TestCleanWrapupAttributeLists(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_wrapup_attribute_lists, text)
+        assert expected == self.run_text_through_filter(clean_wrapup_attribute_lists, expected)

@@ -67,3 +67,4 @@ class TestCleanUnicodeChars(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_unicode_chars, text)
+        assert expected == self.run_text_through_filter(clean_unicode_chars, expected)

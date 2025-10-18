@@ -34,3 +34,4 @@ class TestCleanReorderStats(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_reorder_stats, text)
+        assert expected == self.run_text_through_filter(clean_reorder_stats, expected)

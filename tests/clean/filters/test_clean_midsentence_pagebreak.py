@@ -40,3 +40,4 @@ class TestCleanMidsentencePagebreak(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_midsentence_pagebreak, text)
+        assert expected == self.run_text_through_filter(clean_midsentence_pagebreak, expected)

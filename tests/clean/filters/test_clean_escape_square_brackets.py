@@ -22,3 +22,4 @@ class TestCleanEscapeBrackets(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_escape_square_brackets, text)
+        assert expected == self.run_text_through_filter(clean_escape_square_brackets, expected)

@@ -59,3 +59,4 @@ class TestCleanUnwrapConsecutiveBold(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_unwrap_consecutive_bold, text)
+        assert expected == self.run_text_through_filter(clean_unwrap_consecutive_bold, expected)

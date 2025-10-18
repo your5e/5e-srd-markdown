@@ -82,3 +82,4 @@ class TestCleanActionsEmphasis(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_actions_emphasis, text)
+        assert expected == self.run_text_through_filter(clean_actions_emphasis, expected)

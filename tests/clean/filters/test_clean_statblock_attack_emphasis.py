@@ -30,3 +30,4 @@ class TestCleanStatblockAttackEmphasis(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_statblock_attack_emphasis, text)
+        assert expected == self.run_text_through_filter(clean_statblock_attack_emphasis, expected)

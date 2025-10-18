@@ -22,3 +22,4 @@ class TestCleanItalicEmphasisMarkers(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_italic_emphasis_markers, text)
+        assert expected == self.run_text_through_filter(clean_italic_emphasis_markers, expected)

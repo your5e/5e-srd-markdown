@@ -110,3 +110,4 @@ class TestCleanSpellListEmphasis(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_spell_list_emphasis, text)
+        assert expected == self.run_text_through_filter(clean_spell_list_emphasis, expected)

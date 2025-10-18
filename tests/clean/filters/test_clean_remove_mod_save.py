@@ -58,3 +58,4 @@ class TestCleanRemoveModSave(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_remove_mod_save, text)
+        assert expected == self.run_text_through_filter(clean_remove_mod_save, expected)

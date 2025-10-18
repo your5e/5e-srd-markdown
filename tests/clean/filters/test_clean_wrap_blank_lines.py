@@ -39,3 +39,4 @@ class TestCleanWrapBlankLines(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_wrap_blank_lines, text)
+        assert expected == self.run_text_through_filter(clean_wrap_blank_lines, expected)

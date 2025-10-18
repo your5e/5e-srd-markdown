@@ -103,7 +103,8 @@ def clean_space_out_emdashes(lines, index):
 
 def clean_escape_square_brackets(lines, index):
     # "Blinded [Condition]" -> "Blinded \[Condition\]"
-    lines[index] = lines[index].replace('[', '\\[').replace(']', '\\]')
+    lines[index] = re.sub(r'(?<!\\)\[', r'\\[', lines[index])
+    lines[index] = re.sub(r'(?<!\\)\]', r'\\]', lines[index])
     return 0
 
 
@@ -605,7 +606,11 @@ def clean_spell_list_emphasis(lines, index):
         cell_index = column + 1
         if len(cells) <= cell_index:
             continue
-        cells[cell_index] = spell_matcher.sub(r'*\1*', cells[cell_index].strip())
+        cell_content = cells[cell_index].strip()
+        if '*' not in cell_content and '_' not in cell_content:
+            cells[cell_index] = spell_matcher.sub(r'*\1*', cell_content)
+        else:
+            cells[cell_index] = cell_content
     lines[index] = '|'.join(cells)
     return 0
 

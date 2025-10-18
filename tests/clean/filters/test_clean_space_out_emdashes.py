@@ -20,3 +20,4 @@ class TestCleanSpaceOutEmdashes(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_space_out_emdashes, text)
+        assert expected == self.run_text_through_filter(clean_space_out_emdashes, expected)

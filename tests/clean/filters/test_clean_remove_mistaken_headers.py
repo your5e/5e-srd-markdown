@@ -42,3 +42,4 @@ class TestCleanRemoveMistakenHeaders(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_remove_mistaken_headers, text)
+        assert expected == self.run_text_through_filter(clean_remove_mistaken_headers, expected)

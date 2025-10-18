@@ -48,3 +48,4 @@ class TestCleanSingleActionToList(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_single_action_to_list, text)
+        assert expected == self.run_text_through_filter(clean_single_action_to_list, expected)

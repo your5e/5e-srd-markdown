@@ -53,3 +53,4 @@ class TestCleanTableAlignment(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_table_alignment, text)
+        assert expected == self.run_text_through_filter(clean_table_alignment, expected)

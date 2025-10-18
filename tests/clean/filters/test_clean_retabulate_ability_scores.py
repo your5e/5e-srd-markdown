@@ -97,3 +97,4 @@ class TestCleanAbilityScoresLines521(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_retabulate_ability_scores, text)
+        assert expected == self.run_text_through_filter(clean_retabulate_ability_scores, expected)

@@ -61,3 +61,4 @@ class TestCleanCollapseAdjacentItems(TestFilter):
         """)
 
         assert expected == self.run_text_through_filter(clean_collapse_adjacent_items, text)
+        assert expected == self.run_text_through_filter(clean_collapse_adjacent_items, expected)
