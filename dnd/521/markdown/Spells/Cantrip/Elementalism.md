@@ -2,10 +2,10 @@
 
 _Transmutation Cantrip (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You exert control over the elements, creating one of the following effects within range.
 

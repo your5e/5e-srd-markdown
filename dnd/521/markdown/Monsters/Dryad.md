@@ -2,10 +2,10 @@
 
 _Medium Fey, Neutral_
 
-**AC** 16
-**Initiative** +1 (11)
-**HP** 22 (5d8)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +1 (11)
+- **HP** 22 (5d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Fey, Neutral_
 | **Modifier**     |     +0 |     +1 |     +0 |     +2 |     +2 |     +4 |
 | **Saving Throw** |     +0 |     +1 |     +0 |     +2 |     +2 |     +4 |
 
-**Skills** Perception +4, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Elvish, Sylvan
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +4, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Elvish, Sylvan
+- **CR** 1 (XP 200; PB +2)
 
 ## Traits
 

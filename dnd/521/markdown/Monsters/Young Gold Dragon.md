@@ -2,10 +2,10 @@
 
 _Large Dragon (Metallic), Lawful Good_
 
-**AC** 18
-**Initiative** +6 (16)
-**HP** 178 (17d10 + 85)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 18
+- **Initiative** +6 (16)
+- **HP** 178 (17d10 + 85)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +6 |     +2 |     +5 |     +3 |     +1 |     +5 |
 | **Saving Throw** |     +6 |     +6 |     +5 |     +3 |     +5 |     +5 |
 
-**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
-**Immunities** Fire
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 19
-**Languages** Common, Draconic
-**CR** 10 (XP 5,900; PB +4)
+- **Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+- **Immunities** Fire
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 19
+- **Languages** Common, Draconic
+- **CR** 10 (XP 5,900; PB +4)
 
 ## Traits
 

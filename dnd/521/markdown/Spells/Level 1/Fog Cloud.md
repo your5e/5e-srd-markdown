@@ -2,10 +2,10 @@
 
 _Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
 
 You create a 20-foot-radius Sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by _Gust of Wind_) disperses it.
 

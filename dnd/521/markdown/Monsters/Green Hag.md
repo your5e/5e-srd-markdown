@@ -2,10 +2,10 @@
 
 _Medium Fey, Neutral Evil_
 
-**AC** 17
-**Initiative** +1 (11)
-**HP** 82 (11d8 + 33)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 17
+- **Initiative** +1 (11)
+- **HP** 82 (11d8 + 33)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Fey, Neutral Evil_
 | **Modifier**     |     +4 |     +1 |     +3 |     +1 |     +2 |     +2 |
 | **Saving Throw** |     +4 |     +1 |     +3 |     +1 |     +2 |     +2 |
 
-**Skills** Arcana +5, Deception +4, Perception +4, Stealth +3
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Common, Elvish, Sylvan
-**CR** 3 (XP 700; PB +2)
+- **Skills** Arcana +5, Deception +4, Perception +4, Stealth +3
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Common, Elvish, Sylvan
+- **CR** 3 (XP 700; PB +2)
 
 ## Traits
 

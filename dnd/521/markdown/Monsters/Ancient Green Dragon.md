@@ -2,10 +2,10 @@
 
 _Gargantuan Dragon (Chromatic), Lawful Evil_
 
-**AC** 21
-**Initiative** +15 (25)
-**HP** 402 (23d20 + 161)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 21
+- **Initiative** +15 (25)
+- **HP** 402 (23d20 + 161)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Gargantuan Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +8 |     +1 |     +7 |     +5 |     +3 |     +6 |
 | **Saving Throw** |     +8 |     +8 |     +7 |     +5 |    +10 |     +6 |
 
-**Skills** Deception +13, Perception +17, Persuasion +13, Stealth +8
-**Immunities** Poison; Poisoned
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
-**Languages** Common, Draconic
-**CR** 22 (XP 41,000, or 50,000 in lair; PB +7)
+- **Skills** Deception +13, Perception +17, Persuasion +13, Stealth +8
+- **Immunities** Poison; Poisoned
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
+- **Languages** Common, Draconic
+- **CR** 22 (XP 41,000, or 50,000 in lair; PB +7)
 
 ## Traits
 

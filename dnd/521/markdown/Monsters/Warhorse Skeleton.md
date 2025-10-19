@@ -2,10 +2,10 @@
 
 _Large Undead, Lawful Evil_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 22 (3d10 + 6)
-**Speed** 60 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 22 (3d10 + 6)
+- **Speed** 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Undead, Lawful Evil_
 | **Modifier**     |     +4 |     +1 |     +2 |     -4 |     -1 |     -3 |
 | **Saving Throw** |     +4 |     +1 |     +2 |     -4 |     -1 |     -3 |
 
-**Vulnerabilities** Bludgeoning
-**Immunities** Poison; Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Vulnerabilities** Bludgeoning
+- **Immunities** Poison; Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

@@ -2,10 +2,10 @@
 
 _Level 5 Necromancy (Bard, Cleric, Paladin)_
 
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (a diamond worth 500+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (a diamond worth 500+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 With a touch, you revive a dead creature if it has been dead no longer than 10 days and it wasn't Undead when it died.
 

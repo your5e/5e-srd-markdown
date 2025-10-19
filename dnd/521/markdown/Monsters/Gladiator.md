@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 16
-**Initiative** +5 (15)
-**HP** 112 (15d8 + 45)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +5 (15)
+- **HP** 112 (15d8 + 45)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +4 |     +2 |     +3 |     +0 |     +1 |     +2 |
 | **Saving Throw** |     +7 |     +5 |     +6 |     +0 |     +4 |     +2 |
 
-**Skills** Athletics +10, Performance +5
-**Gear** Shield, Spears (3), Studded Leather Armor
-**Senses** Passive Perception 11
-**Languages** Common
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Athletics +10, Performance +5
+- **Gear** Shield, Spears (3), Studded Leather Armor
+- **Senses** Passive Perception 11
+- **Languages** Common
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 

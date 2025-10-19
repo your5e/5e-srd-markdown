@@ -2,10 +2,10 @@
 
 _Medium Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 11 (2d8 + 2)
-**Speed** 40 ft., Climb 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 11 (2d8 + 2)
+- **Speed** 40 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +1 |     +3 |     +1 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     +1 |     +3 |     +1 |     -4 |     +1 |     -3 |
 
-**Skills** Perception +3, Stealth +7
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +3, Stealth +7
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 ## Traits
 

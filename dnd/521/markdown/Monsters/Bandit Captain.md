@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 15
-**Initiative** +3 (13)
-**HP** 52 (8d8 + 16)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +3 (13)
+- **HP** 52 (8d8 + 16)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +2 |     +3 |     +2 |     +2 |     +0 |     +2 |
 | **Saving Throw** |     +4 |     +5 |     +2 |     +2 |     +2 |     +2 |
 
-**Skills** Athletics +4, Deception +4
-**Gear** Pistol, Scimitar, Studded Leather Armor
-**Senses** Passive Perception 10
-**Languages** Common, Thieves' Cant
-**CR** 2 (XP 450; PB +2)
+- **Skills** Athletics +4, Deception +4
+- **Gear** Pistol, Scimitar, Studded Leather Armor
+- **Senses** Passive Perception 10
+- **Languages** Common, Thieves' Cant
+- **CR** 2 (XP 450; PB +2)
 
 ## Actions
 

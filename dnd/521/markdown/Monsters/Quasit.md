@@ -2,10 +2,10 @@
 
 _Tiny Fiend (Demon), Chaotic Evil_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 25 (10d4)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 25 (10d4)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Tiny Fiend (Demon), Chaotic Evil_
 | **Modifier**     |     -3 |     +3 |     +0 |     -2 |     +0 |     +0 |
 | **Saving Throw** |     -3 |     +3 |     +0 |     -2 |     +0 |     +0 |
 
-**Skills** Stealth +5
-**Resistances** Cold, Fire, Lightning
-**Immunities** Poison; Poisoned
-**Senses** Darkvision 120 ft.; Passive Perception 10
-**Languages** Abyssal, Common
-**CR** 1 (XP 200; PB +2)
+- **Skills** Stealth +5
+- **Resistances** Cold, Fire, Lightning
+- **Immunities** Poison; Poisoned
+- **Senses** Darkvision 120 ft.; Passive Perception 10
+- **Languages** Abyssal, Common
+- **CR** 1 (XP 200; PB +2)
 
 ## Traits
 

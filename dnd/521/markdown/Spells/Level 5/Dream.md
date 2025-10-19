@@ -2,10 +2,10 @@
 
 _Level 5 Illusion (Bard, Warlock, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** Special
-**Components:** V, S, M (a handful of sand)
-**Duration:** 8 hours
+- **Casting Time:** 1 minute
+- **Range:** Special
+- **Components:** V, S, M (a handful of sand)
+- **Duration:** 8 hours
 
 You target a creature you know on the same plane of existence. You or a willing creature you touch enters a trance state to act as a dream messenger. While in the trance, the messenger is Incapacitated and has a Speed of 0.
 

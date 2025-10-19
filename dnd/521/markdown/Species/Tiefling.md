@@ -1,8 +1,8 @@
 # Tiefling
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 4-7 feet tall) or Small (about 3-4 feet tall), chosen when you select this species
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 4-7 feet tall) or Small (about 3-4 feet tall), chosen when you select this species
+- **Speed:** 30 feet
 
 As a Tiefling, you have the following special traits.
 

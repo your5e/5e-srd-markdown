@@ -2,9 +2,9 @@
 
 _Small Fey (Goblinoid), Chaotic Neutral_
 
-**AC** 17
-**HP** 21 (6d6)
-**Speed** 30 ft.
+- **AC** 17
+- **HP** 21 (6d6)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -12,11 +12,11 @@ _Small Fey (Goblinoid), Chaotic Neutral_
 | **Modifier**     |     +0 |     +2 |     +0 |     +0 |     -1 |     +0 |
 | **Saving Throw** |     +0 |     +2 |     +0 |     +0 |     -1 |     +0 |
 
-**Skills** Stealth +6
-**Gear** Chain Shirt, Scimitar, Shield, Shortbow
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** Common, Goblin
-**CR** 1 (XP 200; PB +2)
+- **Skills** Stealth +6
+- **Gear** Chain Shirt, Scimitar, Shield, Shortbow
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** Common, Goblin
+- **CR** 1 (XP 200; PB +2)
 
 ## Actions
 

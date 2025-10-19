@@ -2,10 +2,10 @@
 
 _Large Plant, Unaligned_
 
-**AC** 15
-**Initiative** -1 (9)
-**HP** 110 (13d10 + 39)
-**Speed** 30 ft., Swim 20 ft.
+- **AC** 15
+- **Initiative** -1 (9)
+- **HP** 110 (13d10 + 39)
+- **Speed** 30 ft., Swim 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Large Plant, Unaligned_
 | **Modifier**     |     +4 |     -1 |     +3 |     -3 |     +0 |     -3 |
 | **Saving Throw** |     +4 |     -1 |     +3 |     -3 |     +0 |     -3 |
 
-**Skills** Stealth +3
-**Resistances** Cold, Fire
-**Immunities** Lightning; Deafened, Exhaustion
-**Senses** Blindsight 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Stealth +3
+- **Resistances** Cold, Fire
+- **Immunities** Lightning; Deafened, Exhaustion
+- **Senses** Blindsight 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

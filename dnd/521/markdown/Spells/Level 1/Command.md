@@ -2,10 +2,10 @@
 
 _Level 1 Enchantment (Bard, Cleric, Paladin)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. Choose the command from these options:
 

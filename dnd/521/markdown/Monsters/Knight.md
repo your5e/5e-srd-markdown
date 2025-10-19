@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 18
-**Initiative** +0 (10)
-**HP** 52 (8d8 + 16)
-**Speed** 30 ft.
+- **AC** 18
+- **Initiative** +0 (10)
+- **HP** 52 (8d8 + 16)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +3 |     +0 |     +2 |     +0 |     +0 |     +2 |
 | **Saving Throw** |     +3 |     +0 |     +4 |     +0 |     +2 |     +2 |
 
-**Immunities** Frightened
-**Gear** Greatsword, Heavy Crossbow, Plate Armor
-**Senses** Passive Perception 10
-**Languages** Common plus one other language
-**CR** 3 (XP 700; PB +2)
+- **Immunities** Frightened
+- **Gear** Greatsword, Heavy Crossbow, Plate Armor
+- **Senses** Passive Perception 10
+- **Languages** Common plus one other language
+- **CR** 3 (XP 700; PB +2)
 
 ## Actions
 

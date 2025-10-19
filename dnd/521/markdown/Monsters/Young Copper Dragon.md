@@ -2,10 +2,10 @@
 
 _Large Dragon (Metallic), Chaotic Good_
 
-**AC** 17
-**Initiative** +4 (14)
-**HP** 119 (14d10 + 42)
-**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+- **AC** 17
+- **Initiative** +4 (14)
+- **HP** 119 (14d10 + 42)
+- **Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +4 |     +1 |     +3 |     +3 |     +1 |     +2 |
 | **Saving Throw** |     +4 |     +4 |     +3 |     +3 |     +4 |     +2 |
 
-**Skills** Deception +5, Perception +7, Stealth +4
-**Immunities** Acid
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
-**Languages** Common, Draconic
-**CR** 7 (XP 2,900; PB +3)
+- **Skills** Deception +5, Perception +7, Stealth +4
+- **Immunities** Acid
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
+- **Languages** Common, Draconic
+- **CR** 7 (XP 2,900; PB +3)
 
 ## Actions
 

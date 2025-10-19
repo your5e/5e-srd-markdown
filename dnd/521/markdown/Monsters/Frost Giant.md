@@ -2,10 +2,10 @@
 
 _Huge Giant, Neutral Evil_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 149 (13d12 + 65)
-**Speed** 40 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 149 (13d12 + 65)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Huge Giant, Neutral Evil_
 | **Modifier**     |     +6 |     -1 |     +5 |     -1 |     +0 |     +1 |
 | **Saving Throw** |     +6 |     -1 |     +8 |     -1 |     +3 |     +4 |
 
-**Skills** Athletics +9, Perception +3
-**Immunities** Cold
-**Senses** Passive Perception 13
-**Languages** Giant
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Athletics +9, Perception +3
+- **Immunities** Cold
+- **Senses** Passive Perception 13
+- **Languages** Giant
+- **CR** 8 (XP 3,900; PB +3)
 
 ## Actions
 

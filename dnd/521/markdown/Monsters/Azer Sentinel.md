@@ -2,10 +2,10 @@
 
 _Medium Elemental, Lawful Neutral_
 
-**AC** 17
-**Initiative** +1 (11)
-**HP** 39 (6d8 + 12)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +1 (11)
+- **HP** 39 (6d8 + 12)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Elemental, Lawful Neutral_
 | **Modifier**     |     +3 |     +1 |     +2 |     +1 |     +1 |     +0 |
 | **Saving Throw** |     +3 |     +1 |     +4 |     +1 |     +1 |     +0 |
 
-**Immunities** Fire, Poison; Poisoned
-**Senses** Passive Perception 11
-**Languages** Primordial (Ignan)
-**CR** 2 (XP 450; PB +2)
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Passive Perception 11
+- **Languages** Primordial (Ignan)
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

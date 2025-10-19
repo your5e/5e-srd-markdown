@@ -2,10 +2,10 @@
 
 _Medium Monstrosity, Unaligned_
 
-**AC** 14
-**Initiative** +1 (11)
-**HP** 33 (6d8 + 6)
-**Speed** 40 ft.
+- **AC** 14
+- **Initiative** +1 (11)
+- **HP** 33 (6d8 + 6)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Medium Monstrosity, Unaligned_
 | **Modifier**     |     +1 |     +1 |     +1 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +1 |     +1 |     +1 |     -4 |     +1 |     -2 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

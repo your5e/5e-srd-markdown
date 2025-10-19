@@ -2,10 +2,10 @@
 
 _Large Construct, Unaligned_
 
-**AC** 20
-**Initiative** +9 (19)
-**HP** 252 (24d10 + 120)
-**Speed** 30 ft.
+- **AC** 20
+- **Initiative** +9 (19)
+- **HP** 252 (24d10 + 120)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Construct, Unaligned_
 | **Modifier**     |     +7 |     -1 |     +5 |     -4 |     +0 |     -5 |
 | **Saving Throw** |     +7 |     -1 |     +5 |     -4 |     +0 |     -5 |
 
-**Immunities** Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Darkvision 120 ft.; Passive Perception 10
-**Languages** Understands Common plus two other languages but can't speak
-**CR** 16 (XP 15,000; PB +5)
+- **Immunities** Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Darkvision 120 ft.; Passive Perception 10
+- **Languages** Understands Common plus two other languages but can't speak
+- **CR** 16 (XP 15,000; PB +5)
 
 ## Traits
 

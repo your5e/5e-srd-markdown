@@ -2,10 +2,10 @@
 
 _Huge Monstrosity, Unaligned_
 
-**AC** 17
-**Initiative** +5 (15)
-**HP** 195 (17d12 + 85)
-**Speed** 40 ft., Burrow 30 ft.
+- **AC** 17
+- **Initiative** +5 (15)
+- **HP** 195 (17d12 + 85)
+- **Speed** 40 ft., Burrow 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Huge Monstrosity, Unaligned_
 | **Modifier**     |     +7 |     +1 |     +5 |     -3 |     +0 |     -3 |
 | **Saving Throw** |     +7 |     +1 |     +5 |     -3 |     +0 |     -3 |
 
-**Immunities** Cold, Fire
-**Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 11 (XP 7,200; PB +4)
+- **Immunities** Cold, Fire
+- **Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 11 (XP 7,200; PB +4)
 
 ## Traits
 

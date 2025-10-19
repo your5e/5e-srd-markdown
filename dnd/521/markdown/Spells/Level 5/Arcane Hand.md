@@ -2,10 +2,10 @@
 
 _Level 5 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (an eggshell and a glove)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (an eggshell and a glove)
+- **Duration:** Concentration, up to 1 minute
 
 You create a Large hand of shimmering magical energy in an unoccupied space that you can see within range. The hand lasts for the duration, and it moves at your command, mimicking the movements of your own hand.
 

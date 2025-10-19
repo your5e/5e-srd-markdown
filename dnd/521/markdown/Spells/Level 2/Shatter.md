@@ -2,10 +2,10 @@
 
 _Level 2 Evocation (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a chip of mica)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a chip of mica)
+- **Duration:** Instantaneous
 
 A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw, taking 3d8 Thunder damage on a failed save or half as much damage on a successful one. A Construct has Disadvantage on the save.
 

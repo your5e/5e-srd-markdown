@@ -2,10 +2,10 @@
 
 _Huge Dragon (Metallic), Chaotic Good_
 
-**AC** 18
-**Initiative** +10 (20)
-**HP** 172 (15d12 + 75)
-**Speed** 40 ft., Burrow 30 ft., Fly 80 ft.
+- **AC** 18
+- **Initiative** +10 (20)
+- **HP** 172 (15d12 + 75)
+- **Speed** 40 ft., Burrow 30 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Huge Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +6 |     +0 |     +5 |     +2 |     +1 |     +3 |
 | **Saving Throw** |     +6 |     +5 |     +5 |     +2 |     +6 |     +3 |
 
-**Skills** History +7, Perception +11, Persuasion +8, Stealth +5
-**Immunities** Fire
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
-**Languages** Common, Draconic
-**CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
+- **Skills** History +7, Perception +11, Persuasion +8, Stealth +5
+- **Immunities** Fire
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
+- **Languages** Common, Draconic
+- **CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
 
 ## Traits
 

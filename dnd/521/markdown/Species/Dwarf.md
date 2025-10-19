@@ -1,8 +1,8 @@
 # Dwarf
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 4-5 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 4-5 feet tall)
+- **Speed:** 30 feet
 
 As a Dwarf, you have these special traits.
 

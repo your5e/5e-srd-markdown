@@ -2,10 +2,10 @@
 
 _Large Monstrosity, Lawful Evil_
 
-**AC** 14
-**Initiative** +3 (13)
-**HP** 68 (8d10 + 24)
-**Speed** 30 ft., Fly 50 ft.
+- **AC** 14
+- **Initiative** +3 (13)
+- **HP** 68 (8d10 + 24)
+- **Speed** 30 ft., Fly 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Large Monstrosity, Lawful Evil_
 | **Modifier**     |     +3 |     +3 |     +3 |     -2 |     +1 |     -1 |
 | **Saving Throw** |     +3 |     +3 |     +3 |     -2 |     +1 |     -1 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common
-**CR** 3 (XP 700; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common
+- **CR** 3 (XP 700; PB +2)
 
 ## Actions
 

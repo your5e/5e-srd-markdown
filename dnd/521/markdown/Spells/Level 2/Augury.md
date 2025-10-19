@@ -2,10 +2,10 @@
 
 _Level 2 Divination (Cleric, Druid, Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Self
-**Components:** V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)
-**Duration:** Instantaneous
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Self
+- **Components:** V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)
+- **Duration:** Instantaneous
 
 You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The GM chooses the omen from the table.
 

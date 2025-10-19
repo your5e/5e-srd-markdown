@@ -2,10 +2,10 @@
 
 _Huge Giant, Chaotic Evil_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 105 (10d12 + 40)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 105 (10d12 + 40)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Huge Giant, Chaotic Evil_
 | **Modifier**     |     +5 |     -1 |     +4 |     -3 |     -1 |     -2 |
 | **Saving Throw** |     +5 |     -1 |     +4 |     -3 |     -1 |     -2 |
 
-**Skills** Perception +2
-**Senses** Passive Perception 12
-**Languages** Giant
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +2
+- **Senses** Passive Perception 12
+- **Languages** Giant
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 

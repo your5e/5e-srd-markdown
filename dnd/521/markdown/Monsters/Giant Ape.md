@@ -2,10 +2,10 @@
 
 _Huge Beast, Unaligned_
 
-**AC** 12
-**Initiative** +5 (15)
-**HP** 168 (16d12 + 64)
-**Speed** 40 ft., Climb 40 ft.
+- **AC** 12
+- **Initiative** +5 (15)
+- **HP** 168 (16d12 + 64)
+- **Speed** 40 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Huge Beast, Unaligned_
 | **Modifier**     |     +6 |     +2 |     +4 |     -3 |     +1 |     -2 |
 | **Saving Throw** |     +6 |     +2 |     +4 |     -3 |     +1 |     -2 |
 
-**Skills** Athletics +9, Perception +4, Survival +4
-**Senses** Passive Perception 14
-**Languages** None
-**CR** 7 (XP 2,900; PB +3)
+- **Skills** Athletics +9, Perception +4, Survival +4
+- **Senses** Passive Perception 14
+- **Languages** None
+- **CR** 7 (XP 2,900; PB +3)
 
 ## Actions
 

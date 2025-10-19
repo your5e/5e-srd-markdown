@@ -2,10 +2,10 @@
 
 _Necromancy Cantrip (Cleric, Druid)_
 
-**Casting Time:** Action
-**Range:** 15 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 15 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.
 

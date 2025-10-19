@@ -2,10 +2,10 @@
 
 _Small Construct, Unaligned_
 
-**AC** 17
-**Initiative** +4 (14)
-**HP** 14 (4d6)
-**Speed** 5 ft., Fly 50 ft. (hover)
+- **AC** 17
+- **Initiative** +4 (14)
+- **HP** 14 (4d6)
+- **Speed** 5 ft., Fly 50 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Small Construct, Unaligned_
 | **Modifier**     |     +1 |     +2 |     +0 |     -5 |     -3 |     -5 |
 | **Saving Throw** |     +1 |     +4 |     +0 |     -5 |     -3 |     -5 |
 
-**Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Blindsight 60 ft.; Passive Perception 7
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Blindsight 60 ft.; Passive Perception 7
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 ## Actions
 

@@ -2,10 +2,10 @@
 
 _Level 1 Transmutation (Cleric, Druid)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a mix of water and sand)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a mix of water and sand)
+- **Duration:** Instantaneous
 
 You do one of the following:
 

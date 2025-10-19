@@ -2,10 +2,10 @@
 
 _Level 2 Enchantment (Bard, Cleric)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):
 

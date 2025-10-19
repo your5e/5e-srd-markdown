@@ -2,10 +2,10 @@
 
 _Medium Undead, Neutral_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 45 (10d8)
-**Speed** 5 ft., Fly 40 ft. (hover)
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 45 (10d8)
+- **Speed** 5 ft., Fly 40 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Undead, Neutral_
 | **Modifier**     |     -2 |     +1 |     +0 |     +0 |     +1 |     +3 |
 | **Saving Throw** |     -2 |     +1 |     +0 |     +0 |     +1 |     +3 |
 
-**Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common plus one other language
-**CR** 4 (XP 1,100; PB +2)
+- **Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common plus one other language
+- **CR** 4 (XP 1,100; PB +2)
 
 ## Traits
 

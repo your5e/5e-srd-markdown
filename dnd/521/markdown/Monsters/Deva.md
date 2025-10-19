@@ -2,10 +2,10 @@
 
 _Medium Celestial (Angel), Lawful Good_
 
-**AC** 17
-**Initiative** +4 (14)
-**HP** 229 (27d8 + 108)
-**Speed** 30 ft., Fly 90 ft. (hover)
+- **AC** 17
+- **Initiative** +4 (14)
+- **HP** 229 (27d8 + 108)
+- **Speed** 30 ft., Fly 90 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Medium Celestial (Angel), Lawful Good_
 | **Modifier**     |     +4 |     +4 |     +4 |     +3 |     +5 |     +5 |
 | **Saving Throw** |     +4 |     +4 |     +4 |     +3 |     +9 |     +9 |
 
-**Skills** Insight +9, Perception +9
-**Resistances** Radiant
-**Immunities** Charmed, Exhaustion, Frightened
-**Senses** Darkvision 120 ft.; Passive Perception 19
-**Languages** All; telepathy 120 ft.
-**CR** 10 (XP 5,900; PB +4)
+- **Skills** Insight +9, Perception +9
+- **Resistances** Radiant
+- **Immunities** Charmed, Exhaustion, Frightened
+- **Senses** Darkvision 120 ft.; Passive Perception 19
+- **Languages** All; telepathy 120 ft.
+- **CR** 10 (XP 5,900; PB +4)
 
 ## Traits
 

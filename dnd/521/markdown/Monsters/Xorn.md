@@ -2,10 +2,10 @@
 
 _Medium Elemental, Neutral_
 
-**AC** 19
-**Initiative** +0 (10)
-**HP** 84 (8d8 + 48)
-**Speed** 20 ft., Burrow 20 ft.
+- **AC** 19
+- **Initiative** +0 (10)
+- **HP** 84 (8d8 + 48)
+- **Speed** 20 ft., Burrow 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Elemental, Neutral_
 | **Modifier**     |     +3 |     +0 |     +6 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +3 |     +0 |     +6 |     +0 |     +0 |     +0 |
 
-**Skills** Perception +6, Stealth +6
-**Immunities** Poison; Paralyzed, Petrified, Poisoned
-**Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 16
-**Languages** Primordial (Terran)
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +6, Stealth +6
+- **Immunities** Poison; Paralyzed, Petrified, Poisoned
+- **Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 16
+- **Languages** Primordial (Terran)
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

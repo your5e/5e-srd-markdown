@@ -2,10 +2,10 @@
 
 _Level 5 Abjuration (Cleric)_
 
-**Casting Time:** 24 hours
-**Range:** Touch
-**Components:** V, S, M (incense worth 1,000+ GP, which the spell consumes)
-**Duration:** Until dispelled
+- **Casting Time:** 24 hours
+- **Range:** Touch
+- **Components:** V, S, M (incense worth 1,000+ GP, which the spell consumes)
+- **Duration:** Until dispelled
 
 You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of _Hallow_. The affected area has the following effects.
 

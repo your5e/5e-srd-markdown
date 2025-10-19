@@ -2,10 +2,10 @@
 
 _Large Elemental, Neutral Evil_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 90 (12d10 + 24)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 90 (12d10 + 24)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Elemental, Neutral Evil_
 | **Modifier**     |     +4 |     +2 |     +2 |     +0 |     +0 |     +1 |
 | **Saving Throw** |     +4 |     +2 |     +2 |     +0 |     +0 |     +1 |
 
-**Vulnerabilities** Cold
-**Immunities** Fire
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Ignan)
-**CR** 5 (XP 1,800; PB +3)
+- **Vulnerabilities** Cold
+- **Immunities** Fire
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Ignan)
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

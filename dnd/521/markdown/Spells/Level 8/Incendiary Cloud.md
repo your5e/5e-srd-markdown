@@ -2,10 +2,10 @@
 
 _Level 8 Conjuration (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud's area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by _Gust of Wind_) disperses it.
 

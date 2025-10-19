@@ -2,10 +2,10 @@
 
 _Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 minute
 
 Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
 

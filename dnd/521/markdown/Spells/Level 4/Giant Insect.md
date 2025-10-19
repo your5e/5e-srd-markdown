@@ -2,10 +2,10 @@
 
 _Level 4 Conjuration (Druid)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You summon a giant centipede, spider, or wasp (chosen when you cast the spell). It manifests in an unoccupied space you can see within range and uses the **Giant Insect** stat block. The form you choose determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
@@ -17,9 +17,9 @@ _**Using a Higher-Level Spell Slot.**_ Use the spell slot's level for the spell'
 
 _Large Beast, Unaligned_
 
-**AC** 11 + the spell's level
-**HP** 30 + 10 for each spell level above 4
-**Speed** 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only)
+- **AC** 11 + the spell's level
+- **HP** 30 + 10 for each spell level above 4
+- **Speed** 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27,9 +27,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +1 |     +2 |     -3 |     +2 |     -4 |
 | **Saving Throw** |     +3 |     +1 |     +2 |     -3 |     +2 |     -4 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** Understands the languages you know
-**CR** None (XP 0; PB equals your Proficiency Bonus)
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** Understands the languages you know
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ### Traits
 

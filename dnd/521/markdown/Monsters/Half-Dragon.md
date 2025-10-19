@@ -2,10 +2,10 @@
 
 _Medium Dragon, Neutral_
 
-**AC** 18
-**Initiative** +5 (15)
-**HP** 105 (14d8 + 42)
-**Speed** 40 ft.
+- **AC** 18
+- **Initiative** +5 (15)
+- **HP** 105 (14d8 + 42)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Dragon, Neutral_
 | **Modifier**     |     +4 |     +2 |     +3 |     +0 |     +2 |     +2 |
 | **Saving Throw** |     +4 |     +5 |     +3 |     +0 |     +5 |     +2 |
 
-**Skills** Athletics +7, Perception +5, Stealth +5
-**Resistances** Damage type chosen for the Draconic Origin trait below
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 15
-**Languages** Common, Draconic
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Athletics +7, Perception +5, Stealth +5
+- **Resistances** Damage type chosen for the Draconic Origin trait below
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 15
+- **Languages** Common, Draconic
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Medium or Small Monstrosity (Lycanthrope), Chaotic Evil_
 
-**AC** 15
-**Initiative** +4 (14)
-**HP** 71 (11d8 + 22)
-**Speed** 30 ft., 40 ft. (wolf form only)
+- **AC** 15
+- **Initiative** +4 (14)
+- **HP** 71 (11d8 + 22)
+- **Speed** 30 ft., 40 ft. (wolf form only)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Monstrosity (Lycanthrope), Chaotic Evil_
 | **Modifier**     |     +3 |     +2 |     +2 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +3 |     +2 |     +2 |     +0 |     +0 |     +0 |
 
-**Skills** Perception +4, Stealth +4
-**Gear** Longbow
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Common (can't speak in wolf form)
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +4, Stealth +4
+- **Gear** Longbow
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Common (can't speak in wolf form)
+- **CR** 3 (XP 700; PB +2)
 
 ## Traits
 

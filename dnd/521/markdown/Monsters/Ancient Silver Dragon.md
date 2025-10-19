@@ -2,10 +2,10 @@
 
 _Gargantuan Dragon (Metallic), Lawful Good_
 
-**AC** 22
-**Initiative** +14 (24)
-**HP** 468 (24d20 + 216)
-**Speed** 40 ft., Fly 80 ft.
+- **AC** 22
+- **Initiative** +14 (24)
+- **HP** 468 (24d20 + 216)
+- **Speed** 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Gargantuan Dragon (Metallic), Lawful Good_
 | **Modifier**     |    +10 |     +0 |     +9 |     +4 |     +2 |     +8 |
 | **Saving Throw** |    +10 |     +7 |     +9 |     +4 |     +9 |     +8 |
 
-**Skills** History +11, Perception +16, Stealth +7
-**Immunities** Cold
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
-**Languages** Common, Draconic
-**CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
+- **Skills** History +11, Perception +16, Stealth +7
+- **Immunities** Cold
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
+- **Languages** Common, Draconic
+- **CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
 
 ## Traits
 

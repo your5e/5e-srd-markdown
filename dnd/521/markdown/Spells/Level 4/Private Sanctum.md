@@ -2,10 +2,10 @@
 
 _Level 4 Abjuration (Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** 120 feet
-**Components:** V, S, M (a thin sheet of lead)
-**Duration:** 24 hours
+- **Casting Time:** 10 minutes
+- **Range:** 120 feet
+- **Components:** V, S, M (a thin sheet of lead)
+- **Duration:** 24 hours
 
 You make an area within range magically secure. The area is a Cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
 

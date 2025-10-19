@@ -2,10 +2,10 @@
 
 _Medium Fey, Chaotic Evil_
 
-**AC** 14
-**Initiative** +1 (11)
-**HP** 52 (7d8 + 21)
-**Speed** 30 ft., Swim 40 ft.
+- **AC** 14
+- **Initiative** +1 (11)
+- **HP** 52 (7d8 + 21)
+- **Speed** 30 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Medium Fey, Chaotic Evil_
 | **Modifier**     |     +3 |     +1 |     +3 |     +1 |     +1 |     +1 |
 | **Saving Throw** |     +3 |     +1 |     +3 |     +1 |     +1 |     +1 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common, Giant, Primordial (Aquan)
-**CR** 2 (XP 450; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common, Giant, Primordial (Aquan)
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

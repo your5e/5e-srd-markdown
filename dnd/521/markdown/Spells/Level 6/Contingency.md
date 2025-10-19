@@ -2,10 +2,10 @@
 
 _Level 6 Abjuration (Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** Self
-**Components:** V, S, M (a gem-encrusted statuette of yourself worth 1,500+ GP)
-**Duration:** 10 days
+- **Casting Time:** 10 minutes
+- **Range:** Self
+- **Components:** V, S, M (a gem-encrusted statuette of yourself worth 1,500+ GP)
+- **Duration:** 10 days
 
 Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell — called the contingent spell — as part of casting _Contingency_, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a _Contingency_ cast with _Water Breathing_ might stipulate that _Water Breathing_ comes into effect when you are engulfed in water or a similar liquid.
 

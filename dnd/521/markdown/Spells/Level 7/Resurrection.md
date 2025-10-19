@@ -2,10 +2,10 @@
 
 _Level 7 Necromancy (Bard, Cleric)_
 
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 With a touch, you revive a dead creature that has been dead for no more than a century, didn't die of old age, and wasn't Undead when it died.
 

@@ -2,10 +2,10 @@
 
 _Huge Plant, Chaotic Good_
 
-**AC** 16
-**Initiative** +3 (13)
-**HP** 138 (12d12 + 60)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +3 (13)
+- **HP** 138 (12d12 + 60)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Huge Plant, Chaotic Good_
 | **Modifier**     |     +6 |     -1 |     +5 |     +1 |     +3 |     +1 |
 | **Saving Throw** |     +6 |     -1 |     +5 |     +1 |     +3 |     +1 |
 
-**Vulnerabilities** Fire
-**Resistances** Bludgeoning, Piercing
-**Senses** Passive Perception 13
-**Languages** Common, Druidic, Elvish, Sylvan
-**CR** 9 (XP 5,000; PB +4)
+- **Vulnerabilities** Fire
+- **Resistances** Bludgeoning, Piercing
+- **Senses** Passive Perception 13
+- **Languages** Common, Druidic, Elvish, Sylvan
+- **CR** 9 (XP 5,000; PB +4)
 
 ## Traits
 

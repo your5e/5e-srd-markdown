@@ -2,10 +2,10 @@
 
 _Large Fiend, Neutral Evil_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 68 (8d10 + 24)
-**Speed** 60 ft., Fly 90 ft. (hover)
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 68 (8d10 + 24)
+- **Speed** 60 ft., Fly 90 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Fiend, Neutral Evil_
 | **Modifier**     |     +4 |     +2 |     +3 |     +0 |     +1 |     +2 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     +0 |     +1 |     +2 |
 
-**Immunities** Fire
-**Senses** Passive Perception 11
-**Languages** Understands Abyssal, Common, and Infernal but can't speak
-**CR** 3 (XP 700; PB +2)
+- **Immunities** Fire
+- **Senses** Passive Perception 11
+- **Languages** Understands Abyssal, Common, and Infernal but can't speak
+- **CR** 3 (XP 700; PB +2)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Medium or Small Undead, Neutral Evil_
 
-**AC** 16
-**Initiative** +3 (13)
-**HP** 90 (12d8 + 36)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +3 (13)
+- **HP** 90 (12d8 + 36)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Undead, Neutral Evil_
 | **Modifier**     |     +3 |     +3 |     +3 |     +0 |     +0 |     +1 |
 | **Saving Throw** |     +3 |     +6 |     +3 |     +0 |     +3 |     +1 |
 
-**Skills** Perception +3, Stealth +6
-**Resistances** Necrotic
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** Common plus one other language
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +3, Stealth +6
+- **Resistances** Necrotic
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** Common plus one other language
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

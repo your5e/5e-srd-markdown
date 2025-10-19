@@ -2,10 +2,10 @@
 
 _Large Aberration, Lawful Evil_
 
-**AC** 17
-**Initiative** +7 (17)
-**HP** 150 (20d10 + 40)
-**Speed** 10 ft., Swim 40 ft.
+- **AC** 17
+- **Initiative** +7 (17)
+- **HP** 150 (20d10 + 40)
+- **Speed** 10 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Aberration, Lawful Evil_
 | **Modifier**     |     +5 |     -1 |     +2 |     +4 |     +2 |     +4 |
 | **Saving Throw** |     +5 |     +3 |     +6 |     +8 |     +6 |     +4 |
 
-**Skills** History +12, Perception +10
-**Senses** Darkvision 120 ft.; Passive Perception 20
-**Languages** Deep Speech; telepathy 120 ft.
-**CR** 10 (XP 5,900, or 7,200 in lair; PB +4)
+- **Skills** History +12, Perception +10
+- **Senses** Darkvision 120 ft.; Passive Perception 20
+- **Languages** Deep Speech; telepathy 120 ft.
+- **CR** 10 (XP 5,900, or 7,200 in lair; PB +4)
 
 ## Traits
 

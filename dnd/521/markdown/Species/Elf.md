@@ -1,8 +1,8 @@
 # Elf
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 5-6 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 5-6 feet tall)
+- **Speed:** 30 feet
 
 As an Elf, you have these special traits.
 

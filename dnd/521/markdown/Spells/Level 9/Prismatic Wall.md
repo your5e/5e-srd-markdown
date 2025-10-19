@@ -2,10 +2,10 @@
 
 _Level 9 Abjuration (Bard, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 10 minutes
 
 A shimmering, multicolored plane of light forms a vertical opaque wall — up to 90 feet long, 30 feet high, and 1 inch thick — centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you position the wall in a space occupied by a creature, the spell ends instantly without effect.
 

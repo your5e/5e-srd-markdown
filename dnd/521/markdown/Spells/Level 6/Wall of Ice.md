@@ -2,10 +2,10 @@
 
 _Level 6 Evocation (Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a piece of quartz)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a piece of quartz)
+- **Duration:** Concentration, up to 10 minutes
 
 You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.
 

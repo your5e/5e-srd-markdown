@@ -2,10 +2,10 @@
 
 _Medium Celestial, Lawful Good_
 
-**AC** 19
-**Initiative** +5 (15)
-**HP** 60 (8d8 + 24)
-**Speed** 30 ft., Fly 90 ft.
+- **AC** 19
+- **Initiative** +5 (15)
+- **HP** 60 (8d8 + 24)
+- **Speed** 30 ft., Fly 90 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Celestial, Lawful Good_
 | **Modifier**     |     +3 |     +5 |     +3 |     +4 |     +5 |     +4 |
 | **Saving Throw** |     +3 |     +5 |     +5 |     +4 |     +7 |     +4 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Psychic, Radiant
-**Senses** Truesight 120 ft.; Passive Perception 15
-**Languages** All; telepathy 120 ft.
-**CR** 4 (XP 1,100; PB +2)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Psychic, Radiant
+- **Senses** Truesight 120 ft.; Passive Perception 15
+- **Languages** All; telepathy 120 ft.
+- **CR** 4 (XP 1,100; PB +2)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid (Cleric), Neutral_
 
-**AC** 13
-**Initiative** +0 (10)
-**HP** 38 (7d8 + 7)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +0 (10)
+- **HP** 38 (7d8 + 7)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Humanoid (Cleric), Neutral_
 | **Modifier**     |     +3 |     +0 |     +1 |     +1 |     +3 |     +1 |
 | **Saving Throw** |     +3 |     +0 |     +1 |     +1 |     +3 |     +1 |
 
-**Skills** Medicine +7, Perception +5, Religion +5
-**Gear** Chain Shirt, Holy Symbol, Mace
-**Senses** Passive Perception 15
-**Languages** Common plus one other language
-**CR** 2 (XP 450; PB +2)
+- **Skills** Medicine +7, Perception +5, Religion +5
+- **Gear** Chain Shirt, Holy Symbol, Mace
+- **Senses** Passive Perception 15
+- **Languages** Common plus one other language
+- **CR** 2 (XP 450; PB +2)
 
 ## Actions
 

@@ -2,10 +2,10 @@
 
 _Tiny Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 2 (1d4)
-**Speed** 40 ft., Climb 40 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 2 (1d4)
+- **Speed** 40 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +2 |     +0 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     -4 |     +4 |     +0 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +3, Stealth +4
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +3, Stealth +4
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 ## Traits
 

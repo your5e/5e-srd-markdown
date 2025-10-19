@@ -2,10 +2,10 @@
 
 _Tiny Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 1 (1d4 - 1)
-**Speed** 5 ft., Swim 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 1 (1d4 - 1)
+- **Speed** 5 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +3 |     -1 |     -5 |     -2 |     -4 |
 | **Saving Throw** |     -4 |     +3 |     -1 |     -5 |     -2 |     -4 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 8
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 ## Traits
 

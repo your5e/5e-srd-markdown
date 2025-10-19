@@ -2,10 +2,10 @@
 
 _Large Celestial, Neutral_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 19 (3d10 + 3)
-**Speed** 5 ft., Fly 60 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 19 (3d10 + 3)
+- **Speed** 5 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Celestial, Neutral_
 | **Modifier**     |     +1 |     +2 |     +1 |     +0 |     +2 |     +0 |
 | **Saving Throw** |     +1 |     +2 |     +1 |     +0 |     +4 |     +0 |
 
-**Skills** Perception +6, Stealth +6
-**Resistances** Necrotic, Radiant
-**Senses** Darkvision 120 ft.; Passive Perception 16
-**Languages** Celestial; understands Common, Elvish, and Sylvan but can't speak them
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +6, Stealth +6
+- **Resistances** Necrotic, Radiant
+- **Senses** Darkvision 120 ft.; Passive Perception 16
+- **Languages** Celestial; understands Common, Elvish, and Sylvan but can't speak them
+- **CR** 1/4 (XP 50; PB +2)
 
 ## Traits
 

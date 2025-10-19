@@ -2,10 +2,10 @@
 
 _Medium Aberration, Neutral Evil_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 11 (2d8 + 2)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 11 (2d8 + 2)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Aberration, Neutral Evil_
 | **Modifier**     |     +3 |     +1 |     +1 |     -1 |     -1 |     -2 |
 | **Saving Throw** |     +3 |     +1 |     +1 |     -1 |     -1 |     -2 |
 
-**Skills** Athletics +5, Perception +3, Stealth +5
-**Senses** Blindsight 30 ft.; Passive Perception 13
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Athletics +5, Perception +3, Stealth +5
+- **Senses** Blindsight 30 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 ## Actions
 

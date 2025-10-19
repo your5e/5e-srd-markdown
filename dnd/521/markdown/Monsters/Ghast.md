@@ -2,10 +2,10 @@
 
 _Medium Undead, Chaotic Evil_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 36 (8d8)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 36 (8d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Undead, Chaotic Evil_
 | **Modifier**     |     +3 |     +3 |     +0 |     +0 |     +0 |     -1 |
 | **Saving Throw** |     +3 |     +3 |     +0 |     +0 |     +2 |     -1 |
 
-**Resistances** Necrotic
-**Immunities** Poison; Charmed, Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Common
-**CR** 2 (XP 450; PB +2)
+- **Resistances** Necrotic
+- **Immunities** Poison; Charmed, Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Common
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

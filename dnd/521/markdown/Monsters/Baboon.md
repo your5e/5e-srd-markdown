@@ -2,10 +2,10 @@
 
 _Small Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 3 (1d6)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 3 (1d6)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Small Beast, Unaligned_
 | **Modifier**     |     -1 |     +2 |     +0 |     -3 |     +1 |     -2 |
 | **Saving Throw** |     -1 |     +2 |     +0 |     -3 |     +1 |     -2 |
 
-**Senses** Passive Perception 11
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Senses** Passive Perception 11
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 ## Traits
 

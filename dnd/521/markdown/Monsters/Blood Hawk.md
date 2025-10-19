@@ -2,10 +2,10 @@
 
 _Small Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 7 (2d6)
-**Speed** 10 ft., Fly 60 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 7 (2d6)
+- **Speed** 10 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Small Beast, Unaligned_
 | **Modifier**     |     -2 |     +2 |     +0 |     -4 |     +2 |     -3 |
 | **Saving Throw** |     -2 |     +2 |     +0 |     -4 |     +2 |     -3 |
 
-**Skills** Perception +6
-**Senses** Passive Perception 16
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Perception +6
+- **Senses** Passive Perception 16
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 ## Traits
 

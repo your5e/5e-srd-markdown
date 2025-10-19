@@ -2,10 +2,10 @@
 
 _Huge Beast (Dinosaur), Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 136 (13d12 + 52)
-**Speed** 50 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 136 (13d12 + 52)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Huge Beast (Dinosaur), Unaligned_
 | **Modifier**     |     +7 |     +0 |     +4 |     -4 |     +1 |     -1 |
 | **Saving Throw** |    +10 |     +0 |     +4 |     -4 |     +4 |     -1 |
 
-**Skills** Perception +4
-**Senses** Passive Perception 14
-**Languages** None
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Perception +4
+- **Senses** Passive Perception 14
+- **Languages** None
+- **CR** 8 (XP 3,900; PB +3)
 
 ## Actions
 

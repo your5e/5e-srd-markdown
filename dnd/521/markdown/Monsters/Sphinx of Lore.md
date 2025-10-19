@@ -2,10 +2,10 @@
 
 _Large Celestial, Lawful Neutral_
 
-**AC** 17
-**Initiative** +10 (20)
-**HP** 170 (20d10 + 60)
-**Speed** 40 ft., Fly 60 ft.
+- **AC** 17
+- **Initiative** +10 (20)
+- **HP** 170 (20d10 + 60)
+- **Speed** 40 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Large Celestial, Lawful Neutral_
 | **Modifier**     |     +4 |     +2 |     +3 |     +4 |     +4 |     +4 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     +4 |     +4 |     +4 |
 
-**Skills** Arcana +12, History +12, Perception +8, Religion +12
-**Resistances** Necrotic, Radiant
-**Immunities** Psychic; Charmed, Frightened
-**Senses** Truesight 120 ft.; Passive Perception 18
-**Languages** Celestial, Common
-**CR** 11 (XP 7,200, or 8,400 in lair; PB +4)
+- **Skills** Arcana +12, History +12, Perception +8, Religion +12
+- **Resistances** Necrotic, Radiant
+- **Immunities** Psychic; Charmed, Frightened
+- **Senses** Truesight 120 ft.; Passive Perception 18
+- **Languages** Celestial, Common
+- **CR** 11 (XP 7,200, or 8,400 in lair; PB +4)
 
 ## Traits
 

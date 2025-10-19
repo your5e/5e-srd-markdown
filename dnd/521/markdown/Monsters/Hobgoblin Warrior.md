@@ -2,10 +2,10 @@
 
 _Medium Fey (Goblinoid), Lawful Evil_
 
-**AC** 18
-**Initiative** +3 (13)
-**HP** 11 (2d8 + 2)
-**Speed** 30 ft.
+- **AC** 18
+- **Initiative** +3 (13)
+- **HP** 11 (2d8 + 2)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Fey (Goblinoid), Lawful Evil_
 | **Modifier**     |     +1 |     +1 |     +1 |     +0 |     +0 |     -1 |
 | **Saving Throw** |     +1 |     +1 |     +1 |     +0 |     +0 |     -1 |
 
-**Gear** Half Plate Armor, Longbow, Longsword, Shield
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Common, Goblin
-**CR** 1/2 (XP 100; PB +2)
+- **Gear** Half Plate Armor, Longbow, Longsword, Shield
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Common, Goblin
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Level 7 Evocation (Bard, Wizard)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S, M (a miniature sword worth 250+ GP)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S, M (a miniature sword worth 250+ GP)
+- **Duration:** Concentration, up to 1 minute
 
 You create a spectral sword that hovers within range. It lasts for the duration.
 

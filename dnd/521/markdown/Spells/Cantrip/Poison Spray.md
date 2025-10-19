@@ -2,10 +2,10 @@
 
 _Necromancy Cantrip (Druid, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
 

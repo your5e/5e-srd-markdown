@@ -2,10 +2,10 @@
 
 _Level 5 Conjuration (Cleric, Druid, Sorcerer)_
 
-**Casting Time:** Action
-**Range:** 300 feet
-**Components:** V, S, M (a locust)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 300 feet
+- **Components:** V, S, M (a locust)
+- **Duration:** Concentration, up to 10 minutes
 
 Swarming locusts fill a 20-foot-radius Sphere centered on a point you choose within range. The Sphere remains for the duration, and its area is Lightly Obscured and Difficult Terrain.
 

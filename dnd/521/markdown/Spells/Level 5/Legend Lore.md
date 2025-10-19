@@ -2,10 +2,10 @@
 
 _Level 5 Divination (Bard, Cleric, Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** Self
-**Components:** V, S, M (incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each)
-**Duration:** Instantaneous
+- **Casting Time:** 10 minutes
+- **Range:** Self
+- **Components:** V, S, M (incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each)
+- **Duration:** Instantaneous
 
 Name or describe a famous person, place, or object. The spell brings to your mind a brief summary of the significant lore about that famous thing, as described by the GM.
 

@@ -2,10 +2,10 @@
 
 _Tiny Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 1 (1d4 - 1)
-**Speed** 10 ft., Fly 60 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 1 (1d4 - 1)
+- **Speed** 10 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -3 |     +3 |     -1 |     -4 |     +2 |     -2 |
 | **Saving Throw** |     -3 |     +3 |     -1 |     -4 |     +2 |     -2 |
 
-**Skills** Perception +6
-**Senses** Passive Perception 16
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +6
+- **Senses** Passive Perception 16
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 ## Actions
 

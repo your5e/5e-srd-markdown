@@ -2,10 +2,10 @@
 
 _Large Beast, Unaligned_
 
-**AC** 14
-**Initiative** -2 (8)
-**HP** 82 (11d10 + 22)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 14
+- **Initiative** -2 (8)
+- **HP** 82 (11d10 + 22)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +5 |     -2 |     +2 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     +7 |     -2 |     +2 |     -4 |     +1 |     -3 |
 
-**Skills** Perception +3
-**Senses** Passive Perception 13
-**Languages** None
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Perception +3
+- **Senses** Passive Perception 13
+- **Languages** None
+- **CR** 4 (XP 1,100; PB +2)
 
 ## Traits
 

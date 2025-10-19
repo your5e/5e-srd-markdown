@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 44 (8d8 + 8)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 44 (8d8 + 8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +2 |     +1 |     +0 |     +2 |     +1 |
 | **Saving Throw** |     +0 |     +2 |     +1 |     +0 |     +4 |     +1 |
 
-**Skills** Deception +3, Persuasion +3, Religion +2
-**Gear** Holy Symbol, Leather Armor
-**Senses** Passive Perception 12
-**Languages** Common
-**CR** 2 (XP 450; PB +2)
+- **Skills** Deception +3, Persuasion +3, Religion +2
+- **Gear** Holy Symbol, Leather Armor
+- **Senses** Passive Perception 12
+- **Languages** Common
+- **CR** 2 (XP 450; PB +2)
 
 ## Actions
 

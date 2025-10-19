@@ -2,10 +2,10 @@
 
 _Medium Undead, Neutral Evil_
 
-**AC** 14
-**Initiative** +4 (14)
-**HP** 82 (11d8 + 33)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +4 (14)
+- **HP** 82 (11d8 + 33)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,13 +13,13 @@ _Medium Undead, Neutral Evil_
 | **Modifier**     |     +2 |     +2 |     +3 |     +0 |     +1 |     +2 |
 | **Saving Throw** |     +2 |     +2 |     +3 |     +0 |     +1 |     +2 |
 
-**Skills** Perception +3, Stealth +4
-**Resistances** Necrotic
-**Immunities** Poison; Exhaustion, Poisoned
-**Gear** Studded Leather Armor
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** Common plus one other language
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +3, Stealth +4
+- **Resistances** Necrotic
+- **Immunities** Poison; Exhaustion, Poisoned
+- **Gear** Studded Leather Armor
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** Common plus one other language
+- **CR** 3 (XP 700; PB +2)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Large Aberration, Neutral Evil_
 
-**AC** 20
-**Initiative** +5 (15)
-**HP** 93 (11d10 + 33)
-**Speed** 10 ft., Climb 20 ft.
+- **AC** 20
+- **Initiative** +5 (15)
+- **HP** 93 (11d10 + 33)
+- **Speed** 10 ft., Climb 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Aberration, Neutral Evil_
 | **Modifier**     |     +4 |     -1 |     +3 |     -2 |     +3 |     -2 |
 | **Saving Throw** |     +4 |     -1 |     +3 |     -2 |     +3 |     -2 |
 
-**Skills** Perception +6, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 16
-**Languages** None
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +6, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 16
+- **Languages** None
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

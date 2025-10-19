@@ -2,10 +2,10 @@
 
 _Level 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 A creature that you can see within range makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one. A Plant creature automatically fails the save.
 

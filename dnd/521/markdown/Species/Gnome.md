@@ -1,8 +1,8 @@
 # Gnome
 
-**Creature Type:** Humanoid
-**Size:** Small (about 3-4 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Small (about 3-4 feet tall)
+- **Speed:** 30 feet
 
 As a Gnome, you have these special traits.
 

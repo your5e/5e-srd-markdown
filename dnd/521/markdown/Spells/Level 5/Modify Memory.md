@@ -2,10 +2,10 @@
 
 _Level 5 Enchantment (Bard, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You attempt to reshape another creature's memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has Advantage on the save. On a failed save, the target has the Charmed condition for the duration. While Charmed in this way, the target also has the Incapacitated condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.
 

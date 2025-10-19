@@ -2,10 +2,10 @@
 
 _Level 3 Conjuration (Druid)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 A storm cloud appears at a point within range that you can see above yourself. It takes the shape of a Cylinder that is 10 feet tall with a 60-foot radius.
 

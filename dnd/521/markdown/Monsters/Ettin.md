@@ -2,10 +2,10 @@
 
 _Large Giant, Chaotic Evil_
 
-**AC** 12
-**Initiative** -1 (9)
-**HP** 85 (10d10 + 30)
-**Speed** 40 ft.
+- **AC** 12
+- **Initiative** -1 (9)
+- **HP** 85 (10d10 + 30)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Large Giant, Chaotic Evil_
 | **Modifier**     |     +5 |     -1 |     +3 |     -2 |     +0 |     -1 |
 | **Saving Throw** |     +5 |     -1 |     +3 |     -2 |     +0 |     -1 |
 
-**Skills** Perception +4
-**Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-**Gear** Battleaxe, Morningstar
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Giant
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Perception +4
+- **Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+- **Gear** Battleaxe, Morningstar
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Giant
+- **CR** 4 (XP 1,100; PB +2)
 
 ## Actions
 

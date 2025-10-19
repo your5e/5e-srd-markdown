@@ -2,10 +2,10 @@
 
 _Level 7 Evocation (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll 1d8 to determine which color ray affects it, consulting the table.
 

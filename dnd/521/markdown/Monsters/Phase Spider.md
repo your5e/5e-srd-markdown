@@ -2,10 +2,10 @@
 
 _Large Monstrosity, Unaligned_
 
-**AC** 14
-**Initiative** +3 (13)
-**HP** 45 (7d10 + 7)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 14
+- **Initiative** +3 (13)
+- **HP** 45 (7d10 + 7)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Monstrosity, Unaligned_
 | **Modifier**     |     +2 |     +3 |     +1 |     -2 |     +0 |     -2 |
 | **Saving Throw** |     +2 |     +3 |     +1 |     -2 |     +0 |     -2 |
 
-**Skills** Stealth +7
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 3 (XP 700; PB +2)
+- **Skills** Stealth +7
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 3 (XP 700; PB +2)
 
 ## Traits
 

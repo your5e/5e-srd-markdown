@@ -2,10 +2,10 @@
 
 _Level 5 Evocation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a small crystal or glass cone)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a small crystal or glass cone)
+- **Duration:** Instantaneous
 
 You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you makes a
 

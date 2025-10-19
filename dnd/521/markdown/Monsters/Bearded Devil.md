@@ -2,10 +2,10 @@
 
 _Medium Fiend (Devil), Lawful Evil_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 58 (9d8 + 18)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 58 (9d8 + 18)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +3 |     +2 |     +2 |     -1 |     +0 |     +2 |
 | **Saving Throw** |     +5 |     +2 |     +4 |     -1 |     +0 |     +4 |
 
-**Resistances** Cold
-**Immunities** Fire, Poison; Frightened, Poisoned
-**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 10
-**Languages** Infernal; telepathy 120 ft.
-**CR** 3 (XP 700; PB +2)
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Frightened, Poisoned
+- **Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 10
+- **Languages** Infernal; telepathy 120 ft.
+- **CR** 3 (XP 700; PB +2)
 
 ## Traits
 

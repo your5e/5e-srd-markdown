@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 4 (1d8)
-**Speed** 30 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 4 (1d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +0 |     +0 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +0 |     +0 |     +0 |     +0 |     +0 |     +0 |
 
-**Gear** Club
-**Senses** Passive Perception 10
-**Languages** Common
-**CR** 0 (XP 10; PB +2)
+- **Gear** Club
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **CR** 0 (XP 10; PB +2)
 
 ## Traits
 

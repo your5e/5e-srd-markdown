@@ -2,10 +2,10 @@
 
 _Level 3 Divination (Bard, Cleric, Wizard)_
 
-**Casting Time:** Action
-**Range:** Unlimited
-**Components:** V, S, M (a copper wire)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Unlimited
+- **Components:** V, S, M (a copper wire)
+- **Duration:** Instantaneous
 
 You send a short message of 25 words or fewer to a creature you have met or a creature described to you by someone who has met it. The target hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables targets to understand the meaning of your message.
 

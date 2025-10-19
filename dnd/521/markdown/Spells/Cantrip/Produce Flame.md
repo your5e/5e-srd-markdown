@@ -2,10 +2,10 @@
 
 _Conjuration Cantrip (Druid)_
 
-**Casting Time:** Bonus Action
-**Range:** Self
-**Components:** V, S
-**Duration:** 10 minutes
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 10 minutes
 
 A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The spell ends if you cast it again.
 

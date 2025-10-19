@@ -2,10 +2,10 @@
 
 _Medium Fiend, Lawful Evil_
 
-**AC** 15
-**Initiative** +1 (11)
-**HP** 58 (9d8 + 18)
-**Speed** 50 ft.
+- **AC** 15
+- **Initiative** +1 (11)
+- **HP** 58 (9d8 + 18)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Fiend, Lawful Evil_
 | **Modifier**     |     +3 |     +1 |     +2 |     -2 |     +1 |     -2 |
 | **Saving Throw** |     +3 |     +1 |     +2 |     -2 |     +1 |     -2 |
 
-**Skills** Perception +5
-**Immunities** Fire
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** Understands Infernal but can't speak
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +5
+- **Immunities** Fire
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** Understands Infernal but can't speak
+- **CR** 3 (XP 700; PB +2)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Large Construct, Unaligned_
 
-**AC** 12
-**Initiative** +4 (14)
-**HP** 27 (5d10)
-**Speed** 10 ft.
+- **AC** 12
+- **Initiative** +4 (14)
+- **HP** 27 (5d10)
+- **Speed** 10 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Construct, Unaligned_
 | **Modifier**     |     +3 |     +2 |     +0 |     -5 |     -4 |     -5 |
 | **Saving Throw** |     +3 |     +2 |     +0 |     -5 |     -4 |     -5 |
 
-**Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Blindsight 60 ft.; Passive Perception 6
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Blindsight 60 ft.; Passive Perception 6
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 ## Actions
 

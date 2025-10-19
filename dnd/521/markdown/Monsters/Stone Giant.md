@@ -2,10 +2,10 @@
 
 _Huge Giant, Neutral_
 
-**AC** 17
-**Initiative** +5 (15)
-**HP** 126 (11d12 + 55)
-**Speed** 40 ft.
+- **AC** 17
+- **Initiative** +5 (15)
+- **HP** 126 (11d12 + 55)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Huge Giant, Neutral_
 | **Modifier**     |     +6 |     +2 |     +5 |     +0 |     +1 |     -1 |
 | **Saving Throw** |     +6 |     +5 |     +8 |     +0 |     +4 |     -1 |
 
-**Skills** Athletics +12, Perception +4, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Giant
-**CR** 7 (XP 2,900; PB +3)
+- **Skills** Athletics +12, Perception +4, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Giant
+- **CR** 7 (XP 2,900; PB +3)
 
 ## Actions
 

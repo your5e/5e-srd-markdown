@@ -2,10 +2,10 @@
 
 _Medium Monstrosity, Chaotic Evil_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 38 (7d8 + 7)
-**Speed** 20 ft., Fly 40 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 38 (7d8 + 7)
+- **Speed** 20 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Medium Monstrosity, Chaotic Evil_
 | **Modifier**     |     +1 |     +1 |     +1 |     -2 |     +0 |     +1 |
 | **Saving Throw** |     +1 |     +1 |     +1 |     -2 |     +0 |     +1 |
 
-**Senses** Passive Perception 10
-**Languages** Common
-**CR** 1 (XP 200; PB +2)
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **CR** 1 (XP 200; PB +2)
 
 ## Actions
 

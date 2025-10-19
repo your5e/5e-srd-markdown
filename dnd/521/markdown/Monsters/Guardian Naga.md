@@ -2,10 +2,10 @@
 
 _Large Celestial, Lawful Good_
 
-**AC** 18
-**Initiative** +4 (14)
-**HP** 136 (16d10 + 48)
-**Speed** 40 ft., Climb 40 ft., Swim 40 ft.
+- **AC** 18
+- **Initiative** +4 (14)
+- **HP** 136 (16d10 + 48)
+- **Speed** 40 ft., Climb 40 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Celestial, Lawful Good_
 | **Modifier**     |     +4 |     +4 |     +3 |     +3 |     +4 |     +4 |
 | **Saving Throw** |     +4 |     +8 |     +7 |     +7 |     +8 |     +8 |
 
-**Skills** Arcana +11, History +11, Religion +11
-**Immunities** Poison; Charmed, Paralyzed, Poisoned, Restrained
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Celestial, Common
-**CR** 10 (XP 5,900; PB +4)
+- **Skills** Arcana +11, History +11, Religion +11
+- **Immunities** Poison; Charmed, Paralyzed, Poisoned, Restrained
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Celestial, Common
+- **CR** 10 (XP 5,900; PB +4)
 
 ## Traits
 

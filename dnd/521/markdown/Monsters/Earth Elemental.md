@@ -2,10 +2,10 @@
 
 _Large Elemental, Neutral_
 
-**AC** 17
-**Initiative** -1 (9)
-**HP** 147 (14d10 + 70)
-**Speed** 30 ft., Burrow 30 ft.
+- **AC** 17
+- **Initiative** -1 (9)
+- **HP** 147 (14d10 + 70)
+- **Speed** 30 ft., Burrow 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Elemental, Neutral_
 | **Modifier**     |     +5 |     -1 |     +5 |     -3 |     +0 |     -3 |
 | **Saving Throw** |     +5 |     -1 |     +5 |     -3 |     +0 |     -3 |
 
-**Vulnerabilities** Thunder
-**Immunities** Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
-**Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10
-**Languages** Primordial (Terran)
-**CR** 5 (XP 1,800; PB +3)
+- **Vulnerabilities** Thunder
+- **Immunities** Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
+- **Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10
+- **Languages** Primordial (Terran)
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

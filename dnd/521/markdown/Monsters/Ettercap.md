@@ -2,10 +2,10 @@
 
 _Medium Monstrosity, Neutral Evil_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 44 (8d8 + 8)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 44 (8d8 + 8)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Monstrosity, Neutral Evil_
 | **Modifier**     |     +2 |     +2 |     +1 |     -2 |     +1 |     -1 |
 | **Saving Throw** |     +2 |     +2 |     +1 |     -2 |     +1 |     -1 |
 
-**Skills** Perception +3, Stealth +4, Survival +3
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +3, Stealth +4, Survival +3
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

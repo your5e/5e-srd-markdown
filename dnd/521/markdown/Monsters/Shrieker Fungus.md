@@ -2,10 +2,10 @@
 
 _Medium Plant, Unaligned_
 
-**AC** 5
-**Initiative** -5 (5)
-**HP** 13 (3d8)
-**Speed** 5 ft.
+- **AC** 5
+- **Initiative** -5 (5)
+- **HP** 13 (3d8)
+- **Speed** 5 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Plant, Unaligned_
 | **Modifier**     |     -5 |     -5 |     +0 |     -5 |     -4 |     -5 |
 | **Saving Throw** |     -5 |     -5 |     +0 |     -5 |     -4 |     -5 |
 
-**Immunities** Blinded, Charmed, Deafened, Frightened
-**Senses** Blindsight 30 ft.; Passive Perception 6
-**Languages** None
-**CR** 0 (XP 0; PB +2)
+- **Immunities** Blinded, Charmed, Deafened, Frightened
+- **Senses** Blindsight 30 ft.; Passive Perception 6
+- **Languages** None
+- **CR** 0 (XP 0; PB +2)
 
 ## Reactions
 

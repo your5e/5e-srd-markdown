@@ -2,10 +2,10 @@
 
 _Conjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 minute
 
 A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
 

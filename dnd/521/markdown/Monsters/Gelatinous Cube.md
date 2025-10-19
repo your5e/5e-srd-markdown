@@ -2,10 +2,10 @@
 
 _Large Ooze, Unaligned_
 
-**AC** 6
-**Initiative** -4 (6)
-**HP** 63 (6d10 + 30)
-**Speed** 15 ft.
+- **AC** 6
+- **Initiative** -4 (6)
+- **HP** 63 (6d10 + 30)
+- **Speed** 15 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Ooze, Unaligned_
 | **Modifier**     |     +2 |     -4 |     +5 |     -5 |     -2 |     -5 |
 | **Saving Throw** |     +2 |     -4 |     +5 |     -5 |     -2 |     -5 |
 
-**Immunities** Acid; Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
-**Senses** Blindsight 60 ft.; Passive Perception 8
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Immunities** Acid; Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
+- **Senses** Blindsight 60 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

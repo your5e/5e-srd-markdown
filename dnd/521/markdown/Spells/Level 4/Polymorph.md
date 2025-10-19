@@ -2,10 +2,10 @@
 
 _Level 4 Transmutation (Bard, Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a caterpillar cocoon)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a caterpillar cocoon)
+- **Duration:** Concentration, up to 1 hour
 
 You attempt to transform a creature that you can see within range into a Beast. The target must succeed on a Wisdom saving throw or shape-shift into a Beast form for the duration. That form can be any Beast you choose that has a Challenge Rating equal to or less than the target's (or the target's level if it doesn't have a Challenge Rating). The target's game statistics are replaced by the stat block of the chosen Beast, but the target retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. See the "Animals" section of "Monsters" for a sample of Beast stat blocks.
 

@@ -2,10 +2,10 @@
 
 _Gargantuan Dragon (Metallic), Chaotic Good_
 
-**AC** 21
-**Initiative** +15 (25)
-**HP** 367 (21d20 + 147)
-**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+- **AC** 21
+- **Initiative** +15 (25)
+- **HP** 367 (21d20 + 147)
+- **Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Gargantuan Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +8 |     +1 |     +7 |     +5 |     +3 |     +6 |
 | **Saving Throw** |     +8 |     +8 |     +7 |     +5 |    +10 |     +6 |
 
-**Skills** Deception +13, Perception +17, Stealth +8
-**Immunities** Acid
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
-**Languages** Common, Draconic
-**CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
+- **Skills** Deception +13, Perception +17, Stealth +8
+- **Immunities** Acid
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
+- **Languages** Common, Draconic
+- **CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
 
 ## Traits
 

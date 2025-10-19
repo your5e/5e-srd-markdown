@@ -2,10 +2,10 @@
 
 _Medium Fey, Lawful Good_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 22 (4d8 + 4)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 22 (4d8 + 4)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Fey, Lawful Good_
 | **Modifier**     |     +1 |     +3 |     +1 |     +0 |     +1 |     +0 |
 | **Saving Throw** |     +1 |     +3 |     +1 |     +0 |     +1 |     +0 |
 
-**Skills** Perception +5, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** Blink Dog; understands Elvish and Sylvan but can't speak them
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +5, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** Blink Dog; understands Elvish and Sylvan but can't speak them
+- **CR** 1/4 (XP 50; PB +2)
 
 ## Actions
 

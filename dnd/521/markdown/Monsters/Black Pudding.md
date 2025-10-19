@@ -2,10 +2,10 @@
 
 _Large Ooze, Unaligned_
 
-**AC** 7
-**Initiative** -3 (7)
-**HP** 68 (8d10 + 24)
-**Speed** 20 ft., Climb 20 ft.
+- **AC** 7
+- **Initiative** -3 (7)
+- **HP** 68 (8d10 + 24)
+- **Speed** 20 ft., Climb 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Ooze, Unaligned_
 | **Modifier**     |     +3 |     -3 |     +3 |     -5 |     -2 |     -5 |
 | **Saving Throw** |     +3 |     -3 |     +3 |     -5 |     -2 |     -5 |
 
-**Immunities** Acid, Cold, Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-**Senses** Blindsight 60 ft.; Passive Perception 8
-**Languages** None
-**CR** 4 (XP 1,100; PB +2)
+- **Immunities** Acid, Cold, Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+- **Senses** Blindsight 60 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 4 (XP 1,100; PB +2)
 
 ## Traits
 

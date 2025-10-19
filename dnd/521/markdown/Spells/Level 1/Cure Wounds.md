@@ -2,10 +2,10 @@
 
 _Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
 

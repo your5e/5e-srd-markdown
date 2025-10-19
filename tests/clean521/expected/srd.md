@@ -48,11 +48,11 @@ Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate
 
 # Alchemist's Supplies
 
-**Cost:** 50 GP
-**Ability:** Intelligence
-**Weight:** 8 lb.
-**Utilize:** Identify a substance (DC 15), or start a fire (DC 15)
-**Craft:** Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume
+- **Cost:** 50 GP
+- **Ability:** Intelligence
+- **Weight:** 8 lb.
+- **Utilize:** Identify a substance (DC 15), or start a fire (DC 15)
+- **Craft:** Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume
 
 # Sack
 
@@ -64,10 +64,10 @@ A Sack holds up to 30 pounds within 1 cubic foot.
 
 _Level 1 Enchantment (Bard, Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a morsel of food)
-**Duration:** 24 hours
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a morsel of food)
+- **Duration:** 24 hours
 
 Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
 
@@ -77,10 +77,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional Beast for e
 
 _Level 3 Necromancy (Bard, Cleric, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice:
 
@@ -95,10 +95,10 @@ _**Using a Higher-Level Spell Slot.**_ If you cast this spell using a level 4 sp
 
 _Level 1 Conjuration (Wizard)_
 
-**Casting Time:** 1 hour or Ritual
-**Range:** 10 feet
-**Components:** V, S, M (burning incense worth 10+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** 1 hour or Ritual
+- **Range:** 10 feet
+- **Components:** V, S, M (burning incense worth 10+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 You gain the service of a familiar, a spirit that takes an animal form you choose: **Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel,** or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form (see "Monsters"), though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
 
@@ -116,10 +116,10 @@ _**One Familiar Only.**_ You can't have more than one familiar at a time. If you
 
 _Level 9 Enchantment (Bard, Cleric)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 A wave of healing energy washes over one creature you can see within range. The target regains all its Hit Points. If the creature has the Charmed, Frightened, Paralyzed, Poisoned, or Stunned condition, the condition ends. If the creature has the Prone condition, it can use its Reaction to stand up.
 
@@ -142,10 +142,10 @@ Four sizes of _Carpet of Flying_ exist. The GM chooses the size of a given carpe
 
 _Large Aberration, Lawful Evil_
 
-**AC** 17
-**Initiative** +7 (17)
-**HP** 150 (20d10 + 40)
-**Speed** 10 ft., Swim 40 ft.
+- **AC** 17
+- **Initiative** +7 (17)
+- **HP** 150 (20d10 + 40)
+- **Speed** 10 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -153,10 +153,10 @@ _Large Aberration, Lawful Evil_
 | **Modifier**     |     +5 |     -1 |     +2 |     +4 |     +2 |     +4 |
 | **Saving Throw** |     +5 |     +3 |     +6 |     +8 |     +6 |     +4 |
 
-**Skills** History +12, Perception +10
-**Senses** Darkvision 120 ft.; Passive Perception 20
-**Languages** Deep Speech; telepathy 120 ft.
-**CR** 10 (XP 5,900, or 7,200 in lair; PB +4)
+- **Skills** History +12, Perception +10
+- **Senses** Darkvision 120 ft.; Passive Perception 20
+- **Languages** Deep Speech; telepathy 120 ft.
+- **CR** 10 (XP 5,900, or 7,200 in lair; PB +4)
 
 # Traits
 
@@ -196,10 +196,10 @@ _**Psychic Drain.**_ If the aboleth has at least one creature Charmed or Grapple
 
 _Gargantuan Dragon (Chromatic), Lawful Evil_
 
-**AC** 21
-**Initiative** +15 (25)
-**HP** 402 (23d20 + 161)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 21
+- **Initiative** +15 (25)
+- **HP** 402 (23d20 + 161)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -207,11 +207,11 @@ _Gargantuan Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +8 |     +1 |     +7 |     +5 |     +3 |     +6 |
 | **Saving Throw** |     +8 |     +8 |     +7 |     +5 |    +10 |     +6 |
 
-**Skills** Deception +13, Perception +17, Persuasion +13, Stealth +8
-**Immunities** Poison; Poisoned
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
-**Languages** Common, Draconic
-**CR** 22 (XP 41,000, or 50,000 in lair; PB +7)
+- **Skills** Deception +13, Perception +17, Persuasion +13, Stealth +8
+- **Immunities** Poison; Poisoned
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
+- **Languages** Common, Draconic
+- **CR** 22 (XP 41,000, or 50,000 in lair; PB +7)
 
 ### Traits
 
@@ -246,10 +246,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 16
-**Initiative** +10 (20)
-**HP** 97 (15d8 + 30)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +10 (20)
+- **HP** 97 (15d8 + 30)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -257,12 +257,12 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +4 |     +2 |     +3 |     +0 |     +0 |
 | **Saving Throw** |     +0 |     +7 |     +2 |     +6 |     +0 |     +0 |
 
-**Skills** Acrobatics +7, Perception +6, Stealth +10
-**Resistances** Poison
-**Gear** Light Crossbow, Shortsword, Studded Leather Armor
-**Senses** Passive Perception 16
-**Languages** Common, Thieves' Cant
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Acrobatics +7, Perception +6, Stealth +10
+- **Resistances** Poison
+- **Gear** Light Crossbow, Shortsword, Studded Leather Armor
+- **Senses** Passive Perception 16
+- **Languages** Common, Thieves' Cant
+- **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
 
@@ -284,10 +284,10 @@ _**Cunning Action.**_ The assassin takes the Dash, Disengage, or Hide action.
 
 _Small Plant, Neutral_
 
-**AC** 9
-**Initiative** -1 (9)
-**HP** 10 (3d6)
-**Speed** 20 ft.
+- **AC** 9
+- **Initiative** -1 (9)
+- **HP** 10 (3d6)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -295,11 +295,11 @@ _Small Plant, Neutral_
 | **Modifier**     |     -4 |     -1 |     +0 |     +0 |     +0 |     -2 |
 | **Saving Throw** |     -4 |     -1 |     +0 |     +0 |     +0 |     -2 |
 
-**Vulnerabilities** Fire
-**Resistances** Piercing
-**Senses** Passive Perception 10
-**Languages** Common plus one other language
-**CR** 0 (XP 10; PB +2)
+- **Vulnerabilities** Fire
+- **Resistances** Piercing
+- **Senses** Passive Perception 10
+- **Languages** Common plus one other language
+- **CR** 0 (XP 10; PB +2)
 
 #### Actions
 
@@ -309,10 +309,10 @@ _**Rake.**_ _Melee Attack Roll:_ +1, reach 5 ft. _Hit:_ 1 Slashing damage.
 
 _Medium Elemental, Lawful Neutral_
 
-**AC** 17
-**Initiative** +1 (11)
-**HP** 39 (6d8 + 12)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +1 (11)
+- **HP** 39 (6d8 + 12)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -320,10 +320,10 @@ _Medium Elemental, Lawful Neutral_
 | **Modifier**     |     +3 |     +1 |     +2 |     +1 |     +1 |     +0 |
 | **Saving Throw** |     +3 |     +1 |     +4 |     +1 |     +1 |     +0 |
 
-**Immunities** Fire, Poison; Poisoned
-**Senses** Passive Perception 11
-**Languages** Primordial (Ignan)
-**CR** 2 (XP 450; PB +2)
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Passive Perception 11
+- **Languages** Primordial (Ignan)
+- **CR** 2 (XP 450; PB +2)
 
 # Traits
 
@@ -339,10 +339,10 @@ _**Burning Hammer.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 8 (1d10 + 3) B
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 15
-**Initiative** +3 (13)
-**HP** 52 (8d8 + 16)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +3 (13)
+- **HP** 52 (8d8 + 16)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -350,11 +350,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +2 |     +3 |     +2 |     +2 |     +0 |     +2 |
 | **Saving Throw** |     +4 |     +5 |     +2 |     +2 |     +2 |     +2 |
 
-**Skills** Athletics +4, Deception +4
-**Gear** Pistol, Scimitar, Studded Leather Armor
-**Senses** Passive Perception 10
-**Languages** Common, Thieves' Cant
-**CR** 2 (XP 450; PB +2)
+- **Skills** Athletics +4, Deception +4
+- **Gear** Pistol, Scimitar, Studded Leather Armor
+- **Senses** Passive Perception 10
+- **Languages** Common, Thieves' Cant
+- **CR** 2 (XP 450; PB +2)
 
 ### Actions
 
@@ -372,10 +372,10 @@ _**Parry.**_ _Trigger:_ The bandit is hit by a melee attack roll while holding a
 
 _Large Monstrosity, Unaligned_
 
-**AC** 17
-**Initiative** +0 (10)
-**HP** 94 (9d10 + 45)
-**Speed** 40 ft., Burrow 40 ft.
+- **AC** 17
+- **Initiative** +0 (10)
+- **HP** 94 (9d10 + 45)
+- **Speed** 40 ft., Burrow 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -383,10 +383,10 @@ _Large Monstrosity, Unaligned_
 | **Modifier**     |     +4 |     +0 |     +5 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +4 |     +0 |     +5 |     -4 |     +0 |     -3 |
 
-**Skills** Perception +6
-**Senses** Darkvision 60 ft., Tremorsense 120 ft.; Passive Perception 16
-**Languages** None
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +6
+- **Senses** Darkvision 60 ft., Tremorsense 120 ft.; Passive Perception 16
+- **Languages** None
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 
@@ -404,10 +404,10 @@ _**Leap.**_ The bulette jumps up to 30 feet by spending 10 feet of movement.
 
 _Large Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 45 (6d10 + 12)
-**Speed** 50 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 45 (6d10 + 12)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -415,10 +415,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +2 |     +2 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +3 |     +2 |     +2 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +3
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +3
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 # Actions
 
@@ -432,10 +432,10 @@ _**Rampage (1/Day).**_ Immediately after dealing damage to a creature that was a
 
 _Medium Dragon (Metallic), Lawful Good_
 
-**AC** 17
-**Initiative** +4 (14)
-**HP** 60 (8d8 + 24)
-**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 17
+- **Initiative** +4 (14)
+- **HP** 60 (8d8 + 24)
+- **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -443,11 +443,11 @@ _Medium Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +4 |     +2 |     +3 |     +2 |     +0 |     +3 |
 | **Saving Throw** |     +4 |     +4 |     +3 |     +2 |     +2 |     +3 |
 
-**Skills** Perception +4, Stealth +4
-**Immunities** Fire
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 3 (700 XP; PB +2)
+- **Skills** Perception +4, Stealth +4
+- **Immunities** Fire
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 3 (700 XP; PB +2)
 
 ### Traits
 
@@ -467,10 +467,10 @@ _**Weakening Breath.**_ _Strength Saving Throw:_ DC 13, each creature that isn't
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 17
-**Initiative** +7 (17)
-**HP** 84 (13d8 + 26)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +7 (17)
+- **HP** 84 (13d8 + 26)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -478,11 +478,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +4 |     +2 |     +0 |     +2 |     +3 |
 | **Saving Throw** |     +3 |     +7 |     +2 |     +0 |     +5 |     +6 |
 
-**Skills** Acrobatics +7, Perception +5
-**Gear** Pistol, Rapier
-**Senses** Passive Perception 15
-**Languages** Common plus one other language
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Acrobatics +7, Perception +5
+- **Gear** Pistol, Rapier
+- **Senses** Passive Perception 15
+- **Languages** Common plus one other language
+- **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
 
@@ -504,10 +504,10 @@ _**Riposte.**_ _Trigger:_ The pirate is hit by a melee attack roll while holding
 
 _Large Fey, Neutral Evil_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 26 (4d10 + 4)
-**Speed** 50 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 26 (4d10 + 4)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -515,10 +515,10 @@ _Large Fey, Neutral Evil_
 | **Modifier**     |     +3 |     +1 |     +1 |     -2 |     +0 |     -1 |
 | **Saving Throw** |     +3 |     +1 |     +1 |     -2 |     +0 |     -1 |
 
-**Skills** Perception +4
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Goblin, Worg
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +4
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Goblin, Worg
+- **CR** 1/2 (XP 100; PB +2)
 
 # Actions
 

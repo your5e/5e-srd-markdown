@@ -2,10 +2,10 @@
 
 _Level 3 Transmutation (Cleric, Druid, Ranger)_
 
-**Casting Time:** Action or Ritual
-**Range:** Touch
-**Components:** V, S
-**Duration:** 8 hours
+- **Casting Time:** Action or Ritual
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 8 hours
 
 You step into a stone object or surface large enough to fully contain your body, merging yourself and your equipment with the stone for the duration. You must touch the stone to do so. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.
 

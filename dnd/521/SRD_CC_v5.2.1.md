@@ -5195,35 +5195,35 @@ Each background offers a choice between a package of equipment and 50 GP.
 
 #### Acolyte
 
-**Ability Scores:** Intelligence, Wisdom, Charisma
-**Feat:** Magic Initiate (Cleric) (see "Feats")
-**Skill Proficiencies:** Insight and Religion
-**Tool Proficiency:** Calligrapher's Supplies
-**Equipment:** _Choose A or B:_ (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP
+- **Ability Scores:** Intelligence, Wisdom, Charisma
+- **Feat:** Magic Initiate (Cleric) (see "Feats")
+- **Skill Proficiencies:** Insight and Religion
+- **Tool Proficiency:** Calligrapher's Supplies
+- **Equipment:** _Choose A or B:_ (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP
 
 #### Criminal
 
-**Ability Scores:** Dexterity, Constitution, Intelligence
-**Feat:** Alert (see "Feats")
-**Skill Proficiencies:** Sleight of Hand and Stealth
-**Tool Proficiency:** Thieves' Tools
-**Equipment:** _Choose A or B:_ (A) 2 Daggers, Thieves' Tools, Crowbar, 2 Pouches, Traveler's Clothes, 16 GP; or (B) 50 GP
+- **Ability Scores:** Dexterity, Constitution, Intelligence
+- **Feat:** Alert (see "Feats")
+- **Skill Proficiencies:** Sleight of Hand and Stealth
+- **Tool Proficiency:** Thieves' Tools
+- **Equipment:** _Choose A or B:_ (A) 2 Daggers, Thieves' Tools, Crowbar, 2 Pouches, Traveler's Clothes, 16 GP; or (B) 50 GP
 
 #### Sage
 
-**Ability Scores:** Constitution, Intelligence, Wisdom
-**Feat:** Magic Initiate (Wizard) (see "Feats")
-**Skill Proficiencies:** Arcana and History
-**Tool Proficiency:** Calligrapher's Supplies
-**Equipment:** _Choose A or B:_ (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
+- **Ability Scores:** Constitution, Intelligence, Wisdom
+- **Feat:** Magic Initiate (Wizard) (see "Feats")
+- **Skill Proficiencies:** Arcana and History
+- **Tool Proficiency:** Calligrapher's Supplies
+- **Equipment:** _Choose A or B:_ (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
 
 #### Soldier
 
-**Ability Scores:** Strength, Dexterity, Constitution
-**Feat:** Savage Attacker (see "Feats")
-**Skill Proficiencies:** Athletics and Intimidation
-**Tool Proficiency:** _Choose one kind of Gaming Set_ (see "Equipment")
-**Equipment:** _Choose A or B:_ (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; or (B) 50 GP
+- **Ability Scores:** Strength, Dexterity, Constitution
+- **Feat:** Savage Attacker (see "Feats")
+- **Skill Proficiencies:** Athletics and Intimidation
+- **Tool Proficiency:** _Choose one kind of Gaming Set_ (see "Equipment")
+- **Equipment:** _Choose A or B:_ (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; or (B) 50 GP
 
 ## Character Species
 
@@ -5259,9 +5259,9 @@ Each species gives a character special traits unique characteristics based on th
 
 #### Dragonborn
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 5-7 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 5-7 feet tall)
+- **Speed:** 30 feet
 
 As a Dragonborn, you have these special traits.
 
@@ -5292,9 +5292,9 @@ _**Draconic Flight.**_ When you reach character level 5, you can channel draconi
 
 #### Dwarf
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 4-5 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 4-5 feet tall)
+- **Speed:** 30 feet
 
 As a Dwarf, you have these special traits.
 
@@ -5310,9 +5310,9 @@ You can use this Bonus Action a number of times equal to your Proficiency Bonus,
 
 #### Elf
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 5-6 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 5-6 feet tall)
+- **Speed:** 30 feet
 
 As an Elf, you have these special traits.
 
@@ -5338,9 +5338,9 @@ _**Trance.**_ You don't need to sleep, and magic can't put you to sleep. You can
 
 #### Gnome
 
-**Creature Type:** Humanoid
-**Size:** Small (about 3-4 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Small (about 3-4 feet tall)
+- **Speed:** 30 feet
 
 As a Gnome, you have these special traits.
 
@@ -5356,9 +5356,9 @@ _**Gnomish Lineage.**_ You are part of a lineage that grants you supernatural ab
 
 #### Goliath
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 7-8 feet tall)
-**Speed:** 35 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 7-8 feet tall)
+- **Speed:** 35 feet
 
 As a Goliath, you have these special traits.
 
@@ -5382,9 +5382,9 @@ _**Powerful Build.**_ You have Advantage on any ability check you make to end th
 
 #### Halfling
 
-**Creature Type:** Humanoid
-**Size:** Small (about 2-3 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Small (about 2-3 feet tall)
+- **Speed:** 30 feet
 
 As a Halfling, you have these special traits.
 
@@ -5398,9 +5398,9 @@ _**Naturally Stealthy.**_ You can take the Hide action even when you are obscure
 
 #### Human
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall), chosen when you select this species
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall), chosen when you select this species
+- **Speed:** 30 feet
 
 As a Human, you have these special traits.
 
@@ -5412,9 +5412,9 @@ _**Versatile.**_ You gain an Origin feat of your choice (see "Feats"). Skilled i
 
 #### Orc
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 6-7 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 6-7 feet tall)
+- **Speed:** 30 feet
 
 As an Orc, you have these special traits.
 
@@ -5428,9 +5428,9 @@ _**Relentless Endurance.**_ When you are reduced to 0 Hit Points but not killed 
 
 #### Tiefling
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 4-7 feet tall) or Small (about 3-4 feet tall), chosen when you select this species
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 4-7 feet tall) or Small (about 3-4 feet tall), chosen when you select this species
+- **Speed:** 30 feet
 
 As a Tiefling, you have the following special traits.
 
@@ -5874,200 +5874,200 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 #### Alchemist's Supplies
 
-**Cost:** 50 GP
-**Ability:** Intelligence
-**Weight:** 8 lb.
-**Utilize:** Identify a substance (DC 15), or start a fire (DC 15)
-**Craft:** Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume
+- **Cost:** 50 GP
+- **Ability:** Intelligence
+- **Weight:** 8 lb.
+- **Utilize:** Identify a substance (DC 15), or start a fire (DC 15)
+- **Craft:** Acid, Alchemist's Fire, Component Pouch, Oil, Paper, Perfume
 
 #### Brewer's Supplies
 
-**Cost:** 20 GP
-**Ability:** Intelligence
-**Weight:** 9 lb.
-**Utilize:** Detect poisoned drink (DC 15), or identify alcohol (DC 10)
-**Craft:** Antitoxin
+- **Cost:** 20 GP
+- **Ability:** Intelligence
+- **Weight:** 9 lb.
+- **Utilize:** Detect poisoned drink (DC 15), or identify alcohol (DC 10)
+- **Craft:** Antitoxin
 
 #### Calligrapher's Supplies
 
-**Cost:** 10 GP
-**Ability:** Dexterity
-**Weight:** 5 lb.
-**Utilize:** Write text with impressive flourishes that guard against forgery (DC 15)
-**Craft:** Ink, _Spell Scroll_
+- **Cost:** 10 GP
+- **Ability:** Dexterity
+- **Weight:** 5 lb.
+- **Utilize:** Write text with impressive flourishes that guard against forgery (DC 15)
+- **Craft:** Ink, _Spell Scroll_
 
 #### Carpenter's Tools
 
-**Cost:** 8 GP
-**Ability:** Strength
-**Weight:** 6 lb.
-**Utilize:** Seal or pry open a door or container (DC 20)
-**Craft:** Club, Greatclub, Quarterstaff, Barrel, Chest, Ladder, Pole, Portable Ram, Torch
+- **Cost:** 8 GP
+- **Ability:** Strength
+- **Weight:** 6 lb.
+- **Utilize:** Seal or pry open a door or container (DC 20)
+- **Craft:** Club, Greatclub, Quarterstaff, Barrel, Chest, Ladder, Pole, Portable Ram, Torch
 
 #### Cartographer's Tools
 
-**Cost:** 15 GP
-**Ability:** Wisdom
-**Weight:** 6 lb.
-**Utilize:** Draft a map of a small area (DC 15)
-**Craft:** Map
+- **Cost:** 15 GP
+- **Ability:** Wisdom
+- **Weight:** 6 lb.
+- **Utilize:** Draft a map of a small area (DC 15)
+- **Craft:** Map
 
 #### Cobbler's Tools
 
-**Cost:** 5 GP
-**Ability:** Dexterity
-**Weight:** 5 lb.
-**Utilize:** Modify footwear to give Advantage on the wearer's next Dexterity (Acrobatics) check (DC 10)
-**Craft:** Climber's Kit
+- **Cost:** 5 GP
+- **Ability:** Dexterity
+- **Weight:** 5 lb.
+- **Utilize:** Modify footwear to give Advantage on the wearer's next Dexterity (Acrobatics) check (DC 10)
+- **Craft:** Climber's Kit
 
 #### Cook's Utensils
 
-**Cost:** 1 GP
-**Ability:** Wisdom
-**Weight:** 8 lb.
-**Utilize:** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)
-**Craft:** Rations
+- **Cost:** 1 GP
+- **Ability:** Wisdom
+- **Weight:** 8 lb.
+- **Utilize:** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)
+- **Craft:** Rations
 
 #### Glassblower's Tools
 
-**Cost:** 30 GP
-**Ability:** Intelligence
-**Weight:** 5 lb.
-**Utilize:** Discern what a glass object held in the past 24 hours (DC 15)
-**Craft:** Glass Bottle, Magnifying Glass, Spyglass, Vial
+- **Cost:** 30 GP
+- **Ability:** Intelligence
+- **Weight:** 5 lb.
+- **Utilize:** Discern what a glass object held in the past 24 hours (DC 15)
+- **Craft:** Glass Bottle, Magnifying Glass, Spyglass, Vial
 
 #### Jeweler's Tools
 
-**Cost:** 25 GP
-**Ability:** Intelligence
-**Weight:** 2 lb.
-**Utilize:** Discern a gem's value (DC 15)
-**Craft:** Arcane Focus, Holy Symbol
+- **Cost:** 25 GP
+- **Ability:** Intelligence
+- **Weight:** 2 lb.
+- **Utilize:** Discern a gem's value (DC 15)
+- **Craft:** Arcane Focus, Holy Symbol
 
 #### Leatherworker's Tools
 
-**Cost:** 5 GP
-**Ability:** Dexterity
-**Weight:** 5 lb.
-**Utilize:** Add a design to a leather item (DC 10)
-**Craft:** Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin
+- **Cost:** 5 GP
+- **Ability:** Dexterity
+- **Weight:** 5 lb.
+- **Utilize:** Add a design to a leather item (DC 10)
+- **Craft:** Sling, Whip, Hide Armor, Leather Armor, Studded Leather Armor, Backpack, Crossbow Bolt Case, Map or Scroll Case, Parchment, Pouch, Quiver, Waterskin
 
 #### Mason's Tools
 
-**Cost:** 10 GP
-**Ability:** Strength
-**Weight:** 8 lb.
-**Utilize:** Chisel a symbol or hole in stone (DC 10)
-**Craft:** Block and Tackle
+- **Cost:** 10 GP
+- **Ability:** Strength
+- **Weight:** 8 lb.
+- **Utilize:** Chisel a symbol or hole in stone (DC 10)
+- **Craft:** Block and Tackle
 
 #### Painter's Supplies
 
-**Cost:** 10 GP
-**Ability:** Wisdom
-**Weight:** 5 lb.
-**Utilize:** Paint a recognizable image of something you've seen (DC 10)
-**Craft:** Druidic Focus, Holy Symbol
+- **Cost:** 10 GP
+- **Ability:** Wisdom
+- **Weight:** 5 lb.
+- **Utilize:** Paint a recognizable image of something you've seen (DC 10)
+- **Craft:** Druidic Focus, Holy Symbol
 
 #### Potter's Tools
 
-**Cost:** 10 GP
-**Ability:** Intelligence
-**Weight:** 3 lb.
-**Utilize:** Discern what a ceramic object held in the past 24 hours (DC 15)
-**Craft:** Jug, Lamp
+- **Cost:** 10 GP
+- **Ability:** Intelligence
+- **Weight:** 3 lb.
+- **Utilize:** Discern what a ceramic object held in the past 24 hours (DC 15)
+- **Craft:** Jug, Lamp
 
 #### Smith's Tools
 
-**Cost:** 20 GP
-**Ability:** Strength
-**Weight:** 8 lb.
-**Utilize:** Pry open a door or container (DC 20)
-**Craft:** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
+- **Cost:** 20 GP
+- **Ability:** Strength
+- **Weight:** 8 lb.
+- **Utilize:** Pry open a door or container (DC 20)
+- **Craft:** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, Ball Bearings, Bucket, Caltrops, Chain, Crowbar, Firearm Bullets, Grappling Hook, Iron Pot, Iron Spikes, Sling Bullets
 
 #### Tinker's Tools
 
-**Cost:** 50 GP
-**Ability:** Dexterity
-**Weight:** 10 lb.
-**Utilize:** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)
-**Craft:** Musket, Pistol, Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunting Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox
+- **Cost:** 50 GP
+- **Ability:** Dexterity
+- **Weight:** 10 lb.
+- **Utilize:** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)
+- **Craft:** Musket, Pistol, Bell, Bullseye Lantern, Flask, Hooded Lantern, Hunting Trap, Lock, Manacles, Mirror, Shovel, Signal Whistle, Tinderbox
 
 #### Weaver's Tools
 
-**Cost:** 1 GP
-**Ability:** Dexterity
-**Weight:** 5 lb.
-**Utilize:** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)
-**Craft:** Padded Armor, Basket, Bedroll, Blanket, Fine Clothes, Net, Robe, Rope, Sack, String, Tent, Traveler's Clothes
+- **Cost:** 1 GP
+- **Ability:** Dexterity
+- **Weight:** 5 lb.
+- **Utilize:** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)
+- **Craft:** Padded Armor, Basket, Bedroll, Blanket, Fine Clothes, Net, Robe, Rope, Sack, String, Tent, Traveler's Clothes
 
 #### Woodcarver's Tools
 
-**Cost:** 1 GP
-**Ability:** Dexterity
-**Weight:** 5 lb.
-**Utilize:** Carve a pattern in wood (DC 10)
-**Craft:** Club, Greatclub, Quarterstaff, Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus, Arrows, Bolts, Druidic Focus, Ink Pen, Needles
+- **Cost:** 1 GP
+- **Ability:** Dexterity
+- **Weight:** 5 lb.
+- **Utilize:** Carve a pattern in wood (DC 10)
+- **Craft:** Club, Greatclub, Quarterstaff, Ranged weapons (except Pistol, Musket, and Sling), Arcane Focus, Arrows, Bolts, Druidic Focus, Ink Pen, Needles
 
 ### Other Tools
 
 #### Disguise Kit
 
-**Cost:** 25 GP
-**Ability:** Charisma
-**Weight:** 3 lb.
-**Utilize:** Apply makeup (DC 10)
-**Craft:** Costume
+- **Cost:** 25 GP
+- **Ability:** Charisma
+- **Weight:** 3 lb.
+- **Utilize:** Apply makeup (DC 10)
+- **Craft:** Costume
 
 #### Forgery Kit
 
-**Cost:** 15 GP
-**Ability:** Dexterity
-**Weight:** 5 lb.
-**Utilize:** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)
+- **Cost:** 15 GP
+- **Ability:** Dexterity
+- **Weight:** 5 lb.
+- **Utilize:** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)
 
 #### Gaming Set (Varies)
 
-**Ability:** Wisdom
-**Weight:** —
-**Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20)
-**Variants:** Dice (1 SP), dragonchess (1 GP), playing cards (5 SP), three-dragon ante (1 GP)
+- **Ability:** Wisdom
+- **Weight:** —
+- **Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20)
+- **Variants:** Dice (1 SP), dragonchess (1 GP), playing cards (5 SP), three-dragon ante (1 GP)
 
 #### Herbalism Kit
 
-**Cost:** 5 GP
-**Ability:** Intelligence
-**Weight:** 3 lb.
-**Utilize:** Identify a plant (DC 10)
-**Craft:** Antitoxin, Candle, Healer's Kit, _Potion of Healing_
+- **Cost:** 5 GP
+- **Ability:** Intelligence
+- **Weight:** 3 lb.
+- **Utilize:** Identify a plant (DC 10)
+- **Craft:** Antitoxin, Candle, Healer's Kit, _Potion of Healing_
 
 #### Musical Instrument (Varies)
 
-**Ability:** Charisma
-**Weight:** Varies
-**Utilize:** Play a known tune (DC 10), or improvise a song (DC 15)
-**Variants:** Bagpipes (30 GP, 6 lb.), drum (6 GP, 3 lb.), dulcimer (25 GP, 10 lb.), flute (2 GP, 1 lb.), horn (3 GP, 2 lb.), lute (35 GP, 2 lb.), lyre (30 GP, 2 lb.), pan flute (12 GP, 2 lb.), shawm (2 GP, 1 lb.), viol (30 GP, 1 lb.)
+- **Ability:** Charisma
+- **Weight:** Varies
+- **Utilize:** Play a known tune (DC 10), or improvise a song (DC 15)
+- **Variants:** Bagpipes (30 GP, 6 lb.), drum (6 GP, 3 lb.), dulcimer (25 GP, 10 lb.), flute (2 GP, 1 lb.), horn (3 GP, 2 lb.), lute (35 GP, 2 lb.), lyre (30 GP, 2 lb.), pan flute (12 GP, 2 lb.), shawm (2 GP, 1 lb.), viol (30 GP, 1 lb.)
 
 #### Navigator's Tools
 
-**Cost:** 25 GP
-**Ability:** Wisdom
-**Weight:** 2 lb.
-**Utilize:** Plot a course (DC 10), or determine position by stargazing (DC 15)
+- **Cost:** 25 GP
+- **Ability:** Wisdom
+- **Weight:** 2 lb.
+- **Utilize:** Plot a course (DC 10), or determine position by stargazing (DC 15)
 
 #### Poisoner's Kit
 
-**Cost:** 50 GP
-**Ability:** Intelligence
-**Weight:** 2 lb.
-**Utilize:** Detect a poisoned object (DC 10)
-**Craft:** Basic Poison
+- **Cost:** 50 GP
+- **Ability:** Intelligence
+- **Weight:** 2 lb.
+- **Utilize:** Detect a poisoned object (DC 10)
+- **Craft:** Basic Poison
 
 #### Thieves' Tools
 
-**Cost:** 25 GP
-**Ability:** Dexterity
-**Weight:** 1 lb.
-**Utilize:** Pick a lock (DC 15), or disarm a trap (DC 15)
+- **Cost:** 25 GP
+- **Ability:** Dexterity
+- **Weight:** 1 lb.
+- **Utilize:** Pick a lock (DC 15), or disarm a trap (DC 15)
 
 ## Adventuring Gear
 
@@ -7144,10 +7144,10 @@ You can try to identify a non-instantaneous spell by its observable effects if i
 
 _Level 2 Evocation (Wizard)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S, M (powdered rhubarb leaf)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S, M (powdered rhubarb leaf)
+- **Duration:** Instantaneous
 
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 Acid damage and 2d4 Acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage only.
 
@@ -7157,10 +7157,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage (both initial and later) incre
 
 _Evocation Cantrip (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage.
 
@@ -7170,10 +7170,10 @@ _**Cantrip Upgrade.**_ The damage increases by 1d6 when you reach levels 5 (2d6)
 
 _Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a strip of white cloth)
-**Duration:** 8 hours
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a strip of white cloth)
+- **Duration:** 8 hours
 
 Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
 
@@ -7183,10 +7183,10 @@ _**Using a Higher-Level Spell Slot.**_ Each target's Hit Points increase by 5 fo
 
 _Level 1 Abjuration (Ranger, Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** 30 feet
-**Components:** V, S, M (a bell and silver wire)
-**Duration:** 8 hours
+- **Casting Time:** 1 minute or Ritual
+- **Range:** 30 feet
+- **Components:** V, S, M (a bell and silver wire)
+- **Duration:** 8 hours
 
 You set an alarm against intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot Cube. Until the spell ends, an alarm alerts you whenever a creature touches or enters the warded area. When you cast the spell, you can designate creatures that won't set off the alarm. You also choose whether the alarm is audible or mental:
 
@@ -7198,10 +7198,10 @@ You set an alarm against intrusion. Choose a door, a window, or an area within r
 
 _Level 2 Transmutation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
 
 You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a Magic action to replace the option you chose with a different one.
 
@@ -7215,10 +7215,10 @@ _**Natural Weapons.**_ You grow claws (Slashing), fangs (Piercing), horns (Pierc
 
 _Level 1 Enchantment (Bard, Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a morsel of food)
-**Duration:** 24 hours
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a morsel of food)
+- **Duration:** 24 hours
 
 Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. If you or one of your allies deals damage to the target, the spells ends.
 
@@ -7228,10 +7228,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional Beast for e
 
 _Level 2 Enchantment (Bard, Druid, Ranger)_
 
-**Casting Time:** Action or Ritual
-**Range:** 30 feet
-**Components:** V, S, M (a morsel of food)
-**Duration:** 24 hours
+- **Casting Time:** Action or Ritual
+- **Range:** 30 feet
+- **Components:** V, S, M (a morsel of food)
+- **Duration:** 24 hours
 
 A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target's Challenge Rating isn't 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as "a person dressed in the uniform of the town guard" or "a red-haired dwarf wearing a pointed hat." You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.
 
@@ -7243,10 +7243,10 @@ _**Using a Higher-Level Spell Slot.**_ The spell's duration increases by 48 hour
 
 _Level 8 Transmutation (Druid)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** 24 hours
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 24 hours
 
 Choose any number of willing creatures that you can see within range. Each target shape-shifts into a Large or smaller Beast of your choice that has a Challenge Rating of 4 or lower. You can choose a different form for each target. On later turns, you can take a Magic action to transform the targets again.
 
@@ -7258,10 +7258,10 @@ The target gains a number of Temporary Hit Points equal to the Hit Points of the
 
 _Level 3 Necromancy (Cleric, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** 10 feet
-**Components:** V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
-**Duration:** Instantaneous
+- **Casting Time:** 1 minute
+- **Range:** 10 feet
+- **Components:** V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
+- **Duration:** Instantaneous
 
 Choose a pile of bones or a corpse of a Medium or Small Humanoid within range. The target becomes an Undead creature: a **Skeleton** if you chose bones or a **Zombie** if you chose a corpse (see "Monsters" for the stat blocks).
 
@@ -7275,10 +7275,10 @@ _**Using a Higher-Level Spell Slot.**_ You animate or reassert control over two 
 
 _Level 5 Transmutation (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 Objects animate at your command. Choose a number of nonmagical objects within range that aren't being worn or carried, aren't fixed to a surface, and aren't Gargantuan. The maximum number of objects is equal to your spellcasting ability modifier; for this number, a Medium or smaller target counts as one object, a Large target counts as two, and a Huge target counts as three.
 
@@ -7292,9 +7292,9 @@ _**Using a Higher-Level Spell Slot.**_ The creature's Slam damage increases by 1
 
 _Huge or Smaller Construct, Unaligned_
 
-**AC** 15
-**HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)
-**Speed** 30 ft.
+- **AC** 15
+- **HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -7302,10 +7302,10 @@ _Huge or Smaller Construct, Unaligned_
 | **Modifier**     |     +3 |     +0 |     +0 |     -4 |     -4 |     -5 |
 | **Saving Throw** |     +3 |     +0 |     +0 |     -4 |     -4 |     -5 |
 
-**Immunities** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-**Senses** Blindsight 30 ft.; Passive Perception 6
-**Languages** Understands the languages you know
-**CR** None (XP 0; PB equals your Proficiency Bonus)
+- **Immunities** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Senses** Blindsight 30 ft.; Passive Perception 6
+- **Languages** Understands the languages you know
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ##### Actions
 
@@ -7315,10 +7315,10 @@ _**Slam.**_ _Melee Attack Roll:_ Bonus equals your spell attack modifier, reach 
 
 _Level 5 Abjuration (Druid)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
 
 An aura extends from you in a 10-foot Emanation for the duration. The aura prevents creatures other than Constructs and Undead from passing or reaching through it. An affected creature can cast spells or make attacks with Ranged or Reach weapons through the barrier.
 
@@ -7328,10 +7328,10 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 _Level 8 Abjuration (Cleric, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (iron filings)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (iron filings)
+- **Duration:** Concentration, up to 1 hour
 
 An aura of antimagic surrounds you in 10-foot Emanation. No one can cast spells, take Magic actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.
 
@@ -7345,10 +7345,10 @@ _Dispel Magic_ has no effect on the aura, and the auras created by different _An
 
 _Level 8 Enchantment (Bard, Druid, Wizard)_
 
-**Casting Time:** 1 hour
-**Range:** 60 feet
-**Components:** V, S, M (a mix of vinegar and honey)
-**Duration:** 10 days
+- **Casting Time:** 1 hour
+- **Range:** 60 feet
+- **Components:** V, S, M (a mix of vinegar and honey)
+- **Duration:** 10 days
 
 As you cast the spell, choose whether it creates antipathy or sympathy, and target one creature or object that is Huge or smaller. Then specify a kind of creature, such as red dragons, goblins, or vampires. A creature of the chosen kind makes a Wisdom saving throw when it comes within 120 feet of the target. Your choice of antipathy or sympathy determines what happens to a creature when it fails that save:
 
@@ -7361,10 +7361,10 @@ _**Ending the Effect.**_ If the Frightened or Charmed creature ends its turn mor
 
 _Level 4 Divination (Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a bit of bat fur)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a bit of bat fur)
+- **Duration:** Concentration, up to 1 hour
 
 You create an Invisible, invulnerable eye within range that hovers for the duration. You mentally receive visual information from the eye, which can see in every direction. It also has Darkvision with a range of 30 feet.
 
@@ -7374,10 +7374,10 @@ As a Bonus Action, you can move the eye up to 30 feet in any direction. A solid 
 
 _Level 5 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (an eggshell and a glove)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (an eggshell and a glove)
+- **Duration:** Concentration, up to 1 minute
 
 You create a Large hand of shimmering magical energy in an unoccupied space that you can see within range. The hand lasts for the duration, and it moves at your command, mimicking the movements of your own hand.
 
@@ -7396,10 +7396,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage of the Clenched Fist increases
 
 _Level 2 Abjuration (Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (gold dust worth 25+ GP, which the spell consumes)
-**Duration:** Until dispelled
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (gold dust worth 25+ GP, which the spell consumes)
+- **Duration:** Until dispelled
 
 You touch a closed door, window, gate, container, or hatch and magically lock it for the duration. This lock can't be unlocked by any nonmagical means. You and any creatures you designate when you cast the spell can open and close the object despite the lock. You can also set a password that, when spoken within 5 feet of the object, unlocks it for 1 minute.
 
@@ -7407,10 +7407,10 @@ You touch a closed door, window, gate, container, or hatch and magically lock it
 
 _Level 7 Evocation (Bard, Wizard)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S, M (a miniature sword worth 250+ GP)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S, M (a miniature sword worth 250+ GP)
+- **Duration:** Concentration, up to 1 minute
 
 You create a spectral sword that hovers within range. It lasts for the duration.
 
@@ -7422,10 +7422,10 @@ On your later turns, you can take a Bonus Action to move the sword up to 30 feet
 
 _Level 2 Illusion (Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a small square of silk)
-**Duration:** 24 hours
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a small square of silk)
+- **Duration:** 24 hours
 
 With a touch, you place an illusion on a willing creature or an object that isn't being worn or carried. A creature gains the Mask effect below, and an object gains the False Aura effect below. The effect lasts for the duration. If you cast the spell on the same target every day for 30 days, the illusion lasts until dispelled.
 
@@ -7437,10 +7437,10 @@ _**False Aura (Object).**_ You change the way the target appears to spells and m
 
 _Level 9 Necromancy (Cleric, Warlock, Wizard)_
 
-**Casting Time:** 1 hour
-**Range:** 10 feet
-**Components:** V, S, M (for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes)
-**Duration:** Until dispelled
+- **Casting Time:** 1 hour
+- **Range:** 10 feet
+- **Components:** V, S, M (for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes)
+- **Duration:** Until dispelled
 
 You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the Unconscious condition, doesn't need food or air, and doesn't age.
 
@@ -7456,10 +7456,10 @@ When the spell ends for a target who isn't dead, the target reappears in its bod
 
 _Level 2 Divination (Cleric, Druid, Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Self
-**Components:** V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)
-**Duration:** Instantaneous
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Self
+- **Components:** V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)
+- **Duration:** Instantaneous
 
 You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The GM chooses the omen from the table.
 
@@ -7478,10 +7478,10 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 
 _Level 4 Abjuration (Cleric, Paladin)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V
+- **Duration:** Concentration, up to 10 minutes
 
 An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, you and your allies have Resistance to Necrotic damage, and your Hit Point maximums can't be reduced. If an ally with 0 Hit Points starts its turn in the aura, that ally regains 1 Hit Point.
 
@@ -7489,10 +7489,10 @@ An aura radiates from you in a 30-foot Emanation for the duration. While in the 
 
 _Level 5 Transmutation (Bard, Druid)_
 
-**Casting Time:** 8 hours
-**Range:** Touch
-**Components:** V, S, M (an agate worth 1,000+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** 8 hours
+- **Range:** Touch
+- **Components:** V, S, M (an agate worth 1,000+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 You spend the casting time tracing magical pathways within a precious gemstone, and then touch the target. The target must be either a Beast or Plant creature with an Intelligence of 3 or less or a natural plant that isn't a creature. The target gains an Intelligence of 10 and the ability to speak one language you know. If the target is a natural plant, it becomes a Plant creature and gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human's. The GM chooses statistics appropriate for the awakened Plant, such as the statistics for the **Awakened Shrub** or **Awakened Tree** in "Monsters."
 
@@ -7502,10 +7502,10 @@ The awakened target has the Charmed condition for 30 days or until you or your a
 
 _Level 1 Enchantment (Bard, Cleric, Warlock)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a drop of blood)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a drop of blood)
+- **Duration:** Concentration, up to 1 minute
 
 Up to three creatures of your choice that you can see within range must each make a Charisma saving throw. Whenever a target that fails this save makes an attack roll or a saving throw before the spell ends, the target must subtract 1d4 from the attack roll or save.
 
@@ -7515,10 +7515,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 4 Abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a pentacle)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a pentacle)
+- **Duration:** Concentration, up to 1 minute
 
 One creature that you can see within range must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the Incapacitated condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
@@ -7530,10 +7530,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 2 Transmutation (Druid, Ranger)_
 
-**Casting Time:** Bonus Action
-**Range:** Touch
-**Components:** V, S, M (a handful of bark)
-**Duration:** 1 hour
+- **Casting Time:** Bonus Action
+- **Range:** Touch
+- **Components:** V, S, M (a handful of bark)
+- **Duration:** 1 hour
 
 You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an Armor Class of 17 if its AC is lower than that.
 
@@ -7541,10 +7541,10 @@ You touch a willing creature. Until the spell ends, the target's skin assumes a 
 
 _Level 3 Abjuration (Cleric)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 Choose any number of creatures within range. For the duration, each target has Advantage on Wisdom saving throws and Death Saving Throws and regains the maximum number of Hit Points possible from any healing.
 
@@ -7552,10 +7552,10 @@ Choose any number of creatures within range. For the duration, each target has A
 
 _Level 8 Enchantment (Bard, Druid, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (a key ring with no keys)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a key ring with no keys)
+- **Duration:** Instantaneous
 
 You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
 
@@ -7567,10 +7567,10 @@ On a successful save, the target takes half as much damage only.
 
 _Level 3 Necromancy (Bard, Cleric, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice:
 
@@ -7585,10 +7585,10 @@ _**Using a Higher-Level Spell Slot.**_ If you cast this spell using a level 4 sp
 
 _Level 4 Conjuration (Wizard)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S, M (a tentacle)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S, M (a tentacle)
+- **Duration:** Concentration, up to 1 minute
 
 Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into Difficult Terrain.
 
@@ -7600,10 +7600,10 @@ A Restrained creature can take an action to make a Strength (Athletics) check ag
 
 _Level 6 Evocation (Cleric)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You create a wall of whirling blades made of magical energy. The wall appears within range and lasts for the duration. You make a straight wall up to 100 feet long, 20 feet high, and 5 feet thick, or a ringed wall up to 60 feet in diameter, 20 feet high, and 5 feet thick. The wall provides Three-Quarters Cover, and its space is Difficult Terrain.
 
@@ -7613,10 +7613,10 @@ Any creature in the wall's space makes a Dexterity saving throw, taking 6d10 For
 
 _Level 1 Enchantment (Cleric, Paladin)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a Holy Symbol worth 5+ GP)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a Holy Symbol worth 5+ GP)
+- **Duration:** Concentration, up to 1 minute
 
 You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.
 
@@ -7626,10 +7626,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 4 Necromancy (Druid, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 A creature that you can see within range makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one. A Plant creature automatically fails the save.
 
@@ -7641,10 +7641,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 2 Transmutation (Bard, Cleric, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V
-**Duration:** 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V
+- **Duration:** 1 minute
 
 One creature that you can see within range must succeed on a Constitution saving throw, or it has the Blinded or Deafened condition (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
@@ -7654,10 +7654,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 3 Transmutation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 minute
 
 Roll 1d6 at the end of each of your turns for the duration. On a roll of 4-6, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell ends instantly if you are already on that plane). While on the Ethereal Plane, you can perceive the plane you left, which is cast in shades of gray, but you can't see anything there more than 60 feet away. You can affect and be affected only by other creatures on the Ethereal Plane, and creatures on the other plane can't perceive you unless they have a special ability that lets them perceive things on the Ethereal Plane.
 
@@ -7667,10 +7667,10 @@ You return to the other plane at the start of your next turn and when the spell 
 
 _Level 2 Illusion (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
 
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it perceives you with Blindsight or Truesight.
 
@@ -7678,10 +7678,10 @@ Your body becomes blurred. For the duration, any creature has Disadvantage on at
 
 _Level 1 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 A thin sheet of flames shoots forth from you. Each creature in a 15-foot Cone makes a Dexterity saving throw, taking 3d6 Fire damage on a failed save or half as much damage on a successful one.
 
@@ -7693,10 +7693,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Level 3 Conjuration (Druid)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 A storm cloud appears at a point within range that you can see above yourself. It takes the shape of a Cylinder that is 10 feet tall with a 60-foot radius.
 
@@ -7712,10 +7712,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d10 for each spe
 
 _Level 2 Enchantment (Bard, Cleric)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):
 
@@ -7726,10 +7726,10 @@ Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within r
 
 _Level 6 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (three silver pins)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (three silver pins)
+- **Duration:** Instantaneous
 
 You launch a lightning bolt toward a target you can see within range. Three bolts then leap from that target to as many as three other targets of your choice, each of which must be within 30 feet of the first target. A target can be a creature or an object and can be targeted by only one of the bolts.
 
@@ -7741,10 +7741,10 @@ _**Using a Higher-Level Spell Slot.**_ One additional bolt leaps from the first 
 
 _Level 4 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 hour
 
 One creature you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
 
@@ -7754,10 +7754,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 1 Enchantment (Bard, Druid, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 hour
 
 One Humanoid you can see within range makes a Wisdom saving throw. It does so with Advantage if you or your allies are fighting it. On a failed save, the target has the Charmed condition until the spell ends or until you or your allies damage it. The Charmed creature is Friendly to you. When the spell ends, the target knows it was Charmed by you.
 
@@ -7767,10 +7767,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Necromancy Cantrip (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 
@@ -7780,10 +7780,10 @@ _**Cantrip Upgrade.**_ The damage increases by 1d10 when you reach levels 5 (2d1
 
 _Level 1 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S, M (a diamond worth 50+ GP)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S, M (a diamond worth 50+ GP)
+- **Duration:** Instantaneous
 
 You hurl an orb of energy at a target within range. Choose Acid, Cold, Fire, Lightning, Poison, or Thunder for the type of orb you create, and then make a ranged spell attack against the target. On a hit, the target takes 3d8 damage of the chosen type.
 
@@ -7795,10 +7795,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 6 Necromancy (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (the powder of a crushed black pearl worth 500+ GP)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (the powder of a crushed black pearl worth 500+ GP)
+- **Duration:** Instantaneous
 
 Negative energy ripples out in a 60-foot-radius Sphere from a point you choose within range. Each creature in that area makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one.
 
@@ -7808,10 +7808,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 2d8 for each spel
 
 _Level 3 Divination (Bard, Cleric, Sorcerer, Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** 1 mile
-**Components:** V, S, M (a focus worth 100+ GP, either a jeweled horn for hearing or a glass eye for seeing)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** 10 minutes
+- **Range:** 1 mile
+- **Components:** V, S, M (a focus worth 100+ GP, either a jeweled horn for hearing or a glass eye for seeing)
+- **Duration:** Concentration, up to 10 minutes
 
 You create an Invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in a grove of trees). The intangible, invulnerable sensor remains in place for the duration.
 
@@ -7823,10 +7823,10 @@ A creature that sees the sensor (such as a creature benefiting from _See Invisib
 
 _Level 8 Necromancy (Wizard)_
 
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes, and a sealable vessel worth 2,000+ GP that is large enough to hold the creature being cloned)
-**Duration:** Instantaneous
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes, and a sealable vessel worth 2,000+ GP that is large enough to hold the creature being cloned)
+- **Duration:** Instantaneous
 
 You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate of that creature forms inside the vessel used in the spell's casting and finishes growing after 120 days; you choose whether the finished clone is the same age as the creature or younger. The clone remains inert and endures indefinitely while its vessel remains undisturbed.
 
@@ -7836,10 +7836,10 @@ If the original creature dies after the clone finishes forming, the creature's s
 
 _Level 5 Conjuration (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You create a 20-foot-radius Sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by _Gust of Wind_) disperses it, ending the spell. Its area is Heavily Obscured.
 
@@ -7853,10 +7853,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 1 Illusion (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a pinch of colorful sand)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a pinch of colorful sand)
+- **Duration:** Instantaneous
 
 You launch a dazzling array of flashing, colorful light. Each creature in a 15-foot Cone originating from you must succeed on a Constitution saving throw or have the Blinded condition until the end of your next turn.
 
@@ -7864,10 +7864,10 @@ You launch a dazzling array of flashing, colorful light. Each creature in a 15-f
 
 _Level 1 Enchantment (Bard, Cleric, Paladin)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. Choose the command from these options:
 
@@ -7883,10 +7883,10 @@ _**Using a Higher-Level Spell Slot.**_ You can affect one additional creature fo
 
 _Level 5 Divination (Cleric)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Self
-**Components:** V, S, M (incense)
-**Duration:** 1 minute
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Self
+- **Components:** V, S, M (incense)
+- **Duration:** 1 minute
 
 You contact a deity or a divine proxy and ask up to three questions that can be answered with yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.
 
@@ -7898,10 +7898,10 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 
 _Level 5 Divination (Druid, Ranger)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Self
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You commune with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in castles and settlements.
 
@@ -7919,10 +7919,10 @@ For example, you could determine the location of a powerful monster in the area,
 
 _Level 1 Divination (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action or Ritual
-**Range:** Self
-**Components:** V, S, M (a pinch of soot and salt)
-**Duration:** 1 hour
+- **Casting Time:** Action or Ritual
+- **Range:** Self
+- **Components:** V, S, M (a pinch of soot and salt)
+- **Duration:** 1 hour
 
 For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn't decode symbols or secret messages.
 
@@ -7930,10 +7930,10 @@ For the duration, you understand the literal meaning of any language that you he
 
 _Level 4 Enchantment (Bard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the Charmed condition until the spell ends.
 
@@ -7943,10 +7943,10 @@ For the duration, you can take a Bonus Action to designate a direction that is h
 
 _Level 5 Evocation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a small crystal or glass cone)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a small crystal or glass cone)
+- **Duration:** Instantaneous
 
 You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you makes a
 
@@ -7958,10 +7958,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 4 Enchantment (Bard, Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S, M (three nut shells)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S, M (three nut shells)
+- **Duration:** Concentration, up to 1 minute
 
 Each creature in a 10-foot-radius Sphere centered on a point you choose within range must succeed on a Wisdom saving throw, or that target can't take Bonus Actions or Reactions and must roll 1d10 at the start of each of its turns to determine its behavior for that turn, consulting the table below.
 
@@ -7980,10 +7980,10 @@ _**Using a Higher-Level Spell Slot.**_ The Sphere's radius increases by 5 feet f
 
 _Level 3 Conjuration (Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirits' animal form, such as wolves, serpents, or birds.
 
@@ -7997,10 +7997,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d10 for each spe
 
 _Level 7 Conjuration (Cleric)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You conjure a spirit from the Upper Planes, which manifests as a pillar of light in a 10-foot-radius, 40-foot-high Cylinder centered on a point within range. For each creature you can see in the Cylinder, choose which of these lights shines on it:
 
@@ -8018,10 +8018,10 @@ _**Using a Higher-Level Spell Slot.**_ The healing and damage increase by 1d12 f
 
 _Level 5 Conjuration (Druid, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You conjure a Large, intangible spirit from the Elemental Planes that appears in an unoccupied space within range. Choose the spirit's element, which determines its damage type: air (Lightning), earth (Thunder), fire (Fire), or water (Cold). The spirit lasts for the duration.
 
@@ -8035,10 +8035,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 6 Conjuration (Druid)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You conjure a Medium spirit from the Feywild in an unoccupied space you can see within range. The spirit lasts for the duration, and it looks like a Fey creature of your choice. When the spirit appears, you can make one melee spell attack against a creature within 5 feet of it. On a hit, the target takes Psychic damage equal to 3d12 plus your spellcasting ability modifier, and the target has the Frightened condition until the start of your next turn, with both you and the spirit as the source of the fear.
 
@@ -8050,10 +8050,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d12 for each spe
 
 _Level 4 Conjuration (Druid, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You conjure spirits from the Elemental Planes that flit around you in a 15-foot Emanation for the duration. Until the spell ends, any attack you make deals an extra 2d8 damage when you hit a creature in the Emanation. This damage is Acid, Cold, Fire, or Lightning (your choice when you make the attack).
 
@@ -8065,10 +8065,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 4 Conjuration (Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You conjure nature spirits that flit around you in a 10-foot Emanation for the duration. Whenever the Emanation enters the space of a creature you can see and whenever a creature you can see enters the Emanation or ends its turn there, you can force that creature to make a Wisdom saving throw. The creature takes 5d8 Force damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
 
@@ -8080,10 +8080,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 5 Divination (Warlock, Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Self
-**Components:** V
-**Duration:** 1 minute
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Self
+- **Components:** V
+- **Duration:** 1 minute
 
 You mentally contact a demigod, the spirit of a longdead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly intelligence can break your mind. When you cast this spell, make a DC 15 Intelligence saving throw. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The GM answers each question with one word, such as "yes," "no," "maybe," "never," "irrelevant," or "unclear" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the GM might instead offer a short phrase as an answer.
 
@@ -8093,10 +8093,10 @@ On a failed save, you take 6d6 Psychic damage and have the Incapacitated conditi
 
 _Level 5 Necromancy (Cleric, Druid)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** 7 days
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 7 days
 
 Your touch inflicts a magical contagion. The target must succeed on a Constitution saving throw or take 11d8 Necrotic damage and have the Poisoned condition. Also, choose one ability when you cast the spell. While Poisoned, the target has Disadvantage on saving throws made with the chosen ability.
 
@@ -8108,10 +8108,10 @@ Whenever the Poisoned target receives an effect that would end the Poisoned cond
 
 _Level 6 Abjuration (Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** Self
-**Components:** V, S, M (a gem-encrusted statuette of yourself worth 1,500+ GP)
-**Duration:** 10 days
+- **Casting Time:** 10 minutes
+- **Range:** Self
+- **Components:** V, S, M (a gem-encrusted statuette of yourself worth 1,500+ GP)
+- **Duration:** 10 days
 
 Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell — called the contingent spell — as part of casting _Contingency_, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a _Contingency_ cast with _Water Breathing_ might stipulate that _Water Breathing_ comes into effect when you are engulfed in water or a similar liquid.
 
@@ -8123,10 +8123,10 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 _Level 2 Evocation (Cleric, Druid, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (ruby dust worth 50+ GP, which the spell consumes)
-**Duration:** Until dispelled
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (ruby dust worth 50+ GP, which the spell consumes)
+- **Duration:** Until dispelled
 
 A flame springs from an object that you touch. The effect casts Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. It looks like a regular flame, but it creates no heat and consumes no fuel. The flame can be covered or hidden but not smothered or quenched.
 
@@ -8134,10 +8134,10 @@ A flame springs from an object that you touch. The effect casts Bright Light in 
 
 _Level 4 Transmutation (Cleric, Druid, Wizard)_
 
-**Casting Time:** Action
-**Range:** 300 feet
-**Components:** V, S, M (a mixture of water and dust)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 300 feet
+- **Components:** V, S, M (a mixture of water and dust)
+- **Duration:** Concentration, up to 10 minutes
 
 Until the spell ends, you control any water inside an area you choose that is a Cube up to 100 feet on a side, using one of the following effects. As a Magic action on your later turns, you can repeat the same effect or choose a different one.
 
@@ -8155,10 +8155,10 @@ _**Whirlpool.**_ You cause a whirlpool to form in the center of the area, which 
 
 _Level 8 Transmutation (Cleric, Druid, Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** Self
-**Components:** V, S, M (burning incense)
-**Duration:** Concentration, up to 8 hours
+- **Casting Time:** 10 minutes
+- **Range:** Self
+- **Components:** V, S, M (burning incense)
+- **Duration:** Concentration, up to 8 hours
 
 You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell, and it ends early if you go indoors.
 
@@ -8201,10 +8201,10 @@ When you change the weather conditions, find a current condition on the tables a
 
 _Level 3 Abjuration (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components
-**Range:** 60 feet
-**Components:** S
-**Duration:** Instantaneous
+- **Casting Time:** Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components
+- **Range:** 60 feet
+- **Components:** S
+- **Duration:** Instantaneous
 
 You attempt to interrupt a creature in the process of casting a spell. The creature makes a Constitution saving throw. On a failed save, the spell dissipates with no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended.
 
@@ -8212,10 +8212,10 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 
 _Level 3 Conjuration (Cleric, Paladin)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You create 45 pounds of food and 30 gallons of fresh water on the ground or in containers within range — both useful in fending off the hazards of malnutrition and dehydration. The food is bland but nourishing and looks like a food of your choice, and the water is clean. The food spoils after 24 hours if uneaten.
 
@@ -8223,10 +8223,10 @@ You create 45 pounds of food and 30 gallons of fresh water on the ground or in c
 
 _Level 1 Transmutation (Cleric, Druid)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a mix of water and sand)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a mix of water and sand)
+- **Duration:** Instantaneous
 
 You do one of the following:
 
@@ -8239,10 +8239,10 @@ _**Using a Higher-Level Spell Slot.**_ You create or destroy 10 additional gallo
 
 _Level 6 Necromancy (Cleric, Warlock, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** 10 feet
-**Components:** V, S, M (one 150+ GP black onyx stone for each corpse)
-**Duration:** Instantaneous
+- **Casting Time:** 1 minute
+- **Range:** 10 feet
+- **Components:** V, S, M (one 150+ GP black onyx stone for each corpse)
+- **Duration:** Instantaneous
 
 You can cast this spell only at night. Choose up to three corpses of Medium or Small Humanoids within range. Each one becomes a **Ghoul** under your control (see "Monsters" for its stat block).
 
@@ -8256,10 +8256,10 @@ _**Using a Higher-Level Spell Slot.**_ If you use a level 7 spell slot, you can 
 
 _Level 5 Illusion (Sorcerer, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** 30 feet
-**Components:** V, S, M (a paintbrush)
-**Duration:** Special
+- **Casting Time:** 1 minute
+- **Range:** 30 feet
+- **Components:** V, S, M (a paintbrush)
+- **Duration:** Special
 
 You pull wisps of shadow material from the Shadowfell to create an object within range. It is either an object of vegetable matter (soft goods, rope, wood, and the like) or mineral matter (stone, crystal, metal, and the like). The object must be no larger than a 5-foot Cube, and the object must be of a form and material that you have seen.
 
@@ -8279,10 +8279,10 @@ _**Using a Higher-Level Spell Slot.**_ The Cube increases by 5 feet for each spe
 
 _Level 1 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
 
@@ -8292,10 +8292,10 @@ _**Using a Higher-Level Spell Slot.**_ The healing increases by 2d8 for each spe
 
 _Illusion Cantrip (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a bit of phosphorus)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a bit of phosphorus)
+- **Duration:** Concentration, up to 1 minute
 
 You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a 10 foot radius.
 
@@ -8305,10 +8305,10 @@ As a Bonus Action, you can move the lights up to 60 feet to a space within range
 
 _Level 2 Evocation (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, M (bat fur and a piece of coal)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, M (bat fur and a piece of coal)
+- **Duration:** Concentration, up to 10 minutes
 
 For the duration, magical Darkness spreads from a point within range and fills a 15-foot-radius Sphere. Darkvision can't see through it, and nonmagical light can't illuminate it.
 
@@ -8320,10 +8320,10 @@ If any of this spell's area overlaps with an area of Bright Light or Dim Light c
 
 _Level 2 Transmutation (Druid, Ranger, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a dried carrot)
-**Duration:** 8 hours
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a dried carrot)
+- **Duration:** 8 hours
 
 For the duration, a willing creature you touch has Darkvision with a range of 150 feet.
 
@@ -8331,10 +8331,10 @@ For the duration, a willing creature you touch has Darkvision with a range of 15
 
 _Level 3 Evocation (Cleric, Druid, Paladin, Ranger, Sorcerer)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 1 hour
 
 For the duration, sunlight spreads from a point within range and fills a 60-foot-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 60 feet.
 
@@ -8346,10 +8346,10 @@ If any of this spell's area overlaps with an area of Darkness created by a spell
 
 _Level 4 Abjuration (Cleric, Paladin)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** 8 hours
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 8 hours
 
 You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 Hit Points before the spell ends, the target instead drops to 1 Hit Point, and the spell ends.
 
@@ -8359,10 +8359,10 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 _Level 7 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (a ball of bat guano and sulfur)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a ball of bat guano and sulfur)
+- **Duration:** Concentration, up to 1 minute
 
 A beam of yellow light flashes from you, then condenses at a chosen point within range as a glowing bead for the duration. When the spell ends, the bead explodes, and each creature in a 20-foot-radius Sphere centered on that point makes a Dexterity saving throw. A creature takes Fire damage equal to the total accumulated damage on a failed save or half as much damage on a successful one.
 
@@ -8378,10 +8378,10 @@ _**Using a Higher-Level Spell Slot.**_ The base damage increases by 1d6 for each
 
 _Level 8 Conjuration (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** S
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** S
+- **Duration:** 1 hour
 
 You create a shadowy Medium door on a flat solid surface that you can see within range. This door can be opened and closed, and it leads to a demiplane that is an empty room 30 feet in each dimension, made of wood or stone (your choice).
 
@@ -8393,10 +8393,10 @@ Each time you cast this spell, you can create a new demiplane or connect the sha
 
 _Level 1 Divination (Cleric, Paladin)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of yourself. You also sense whether the _Hallow_ spell is active there and, if so, where.
 
@@ -8406,10 +8406,10 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 _Level 1 Divination (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action or Ritual
-**Range:** Self
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action or Ritual
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such effects, you can take the Magic action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's school of magic.
 
@@ -8419,10 +8419,10 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 _Level 1 Divination (Cleric, Druid, Paladin, Ranger)_
 
-**Casting Time:** Action or Ritual
-**Range:** Self
-**Components:** V, S, M (a yew leaf)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action or Ritual
+- **Range:** Self
+- **Components:** V, S, M (a yew leaf)
+- **Duration:** Concentration, up to 10 minutes
 
 For the duration, you sense the location of poisons, poisonous or venomous creatures, and magical contagions within 30 feet of yourself. You sense the kind of poison, creature, or contagion in each case.
 
@@ -8432,10 +8432,10 @@ The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a th
 
 _Level 2 Divination (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (1 Copper Piece)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (1 Copper Piece)
+- **Duration:** Concentration, up to 1 minute
 
 You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns.
 
@@ -8451,10 +8451,10 @@ As a Magic action on your next turn, you can try to probe deeper into the target
 
 _Level 4 Conjuration (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 500 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 500 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 You teleport to a location within range. You arrive at exactly the spot desired. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as "200 feet straight downward" or "300 feet upward to the northwest at a 45-degree angle."
 
@@ -8466,10 +8466,10 @@ If you, the other creature, or both would arrive in a space occupied by a creatu
 
 _Level 1 Illusion (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 hour
 
 You make yourself — including your clothing, armor, weapons, and other belongings on your person look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.
 
@@ -8481,10 +8481,10 @@ To discern that you are disguised, a creature must take the Study action to insp
 
 _Level 6 Transmutation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a lodestone and dust)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a lodestone and dust)
+- **Duration:** Instantaneous
 
 You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by _Wall of Force_.
 
@@ -8498,10 +8498,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 3d6 for each spel
 
 _Level 5 Abjuration (Cleric, Paladin)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (powdered silver and iron)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (powdered silver and iron)
+- **Duration:** Concentration, up to 1 minute
 
 For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions.
 
@@ -8513,10 +8513,10 @@ _**Dismissal.**_ As a Magic action, you target one creature you can see within 5
 
 _Level 3 Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 Choose one creature, object, or magical effect within range. Any ongoing spell of level 3 or lower on the target ends. For each ongoing spell of level 4 or higher on the target, make an ability check using your spellcasting ability (DC 10 plus that spell's level). On a successful check, the spell ends.
 
@@ -8526,10 +8526,10 @@ _**Using a Higher-Level Spell Slot.**_ You automatically end a spell on the targ
 
 _Level 1 Enchantment (Bard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 One creature of your choice that you can see within range hears a discordant melody in its mind. The target makes a Wisdom saving throw. On a failed save, it takes 3d6 Psychic damage and must immediately use its Reaction, if available, to move as far away from you as it can, using the safest route. On a successful save, the target takes half as much damage only.
 
@@ -8539,10 +8539,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Level 4 Divination (Cleric, Druid, Wizard)_
 
-**Casting Time:** Action or Ritual
-**Range:** Self
-**Components:** V, S, M (incense worth 25+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** Action or Ritual
+- **Range:** Self
+- **Components:** V, S, M (incense worth 25+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 This spell puts you in contact with a god or a god's servants. You ask one question about a specific goal, event, or activity to occur within 7 days. The GM offers a truthful reply, which might be a short phrase or cryptic rhyme. The spell doesn't account for circumstances that might change the answer, such as the casting of other spells.
 
@@ -8552,10 +8552,10 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 
 _Level 1 Transmutation (Paladin)_
 
-**Casting Time:** Bonus Action
-**Range:** Self
-**Components:** V, S
-**Duration:** 1 minute
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 minute
 
 Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit.
 
@@ -8563,10 +8563,10 @@ Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage
 
 _Level 1 Evocation (Paladin)_
 
-**Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
-**Range:** Self
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
+- **Range:** Self
+- **Components:** V
+- **Duration:** Instantaneous
 
 The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.
 
@@ -8576,10 +8576,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 7 Evocation (Cleric)_
 
-**Casting Time:** Bonus Action
-**Range:** 30 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Bonus Action
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a _Wish_ spell.
 
@@ -8594,10 +8594,10 @@ You utter a word imbued with power from the Upper Planes. Each creature of your 
 
 _Level 4 Enchantment (Druid, Ranger, Sorcerer)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 One Beast you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has Advantage on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
@@ -8611,10 +8611,10 @@ _**Using a Higher-Level Spell Slot.**_ Your Concentration can last longer with a
 
 _Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
 
 One creature you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has Advantage on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
@@ -8628,10 +8628,10 @@ _**Using a Higher-Level Spell Slot.**_ Your Concentration can last longer with a
 
 _Level 5 Enchantment (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 One Humanoid you can see within range must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target has Advantage on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
@@ -8645,10 +8645,10 @@ _**Using a Higher-Level Spell Slot.**_ Your Concentration can last longer with a
 
 _Level 2 Transmutation (Sorcerer, Wizard)_
 
-**Casting Time:** Bonus Action
-**Range:** Touch
-**Components:** V, S, M (a hot pepper)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Bonus Action
+- **Range:** Touch
+- **Components:** V, S, M (a hot pepper)
+- **Duration:** Concentration, up to 1 minute
 
 You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poison. Until the spell ends, the target can take a Magic action to exhale a 15-foot Cone. Each creature in that area makes a Dexterity saving throw, taking 3d6 damage of the chosen type on a failed save or half as much damage on a successful one.
 
@@ -8658,10 +8658,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Level 5 Illusion (Bard, Warlock, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** Special
-**Components:** V, S, M (a handful of sand)
-**Duration:** 8 hours
+- **Casting Time:** 1 minute
+- **Range:** Special
+- **Components:** V, S, M (a handful of sand)
+- **Duration:** 8 hours
 
 You target a creature you know on the same plane of existence. You or a willing creature you touch enters a trance state to act as a dream messenger. While in the trance, the messenger is Incapacitated and has a Speed of 0.
 
@@ -8675,10 +8675,10 @@ You can make the messenger terrifying to the target. If you do so, the messenger
 
 _Transmutation Cantrip (Druid)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 Whispering to the spirits of nature, you create one of the following effects within range.
 
@@ -8694,10 +8694,10 @@ _**Fire Play.**_ You light or snuff out a candle, a torch, or a campfire.
 
 _Level 8 Transmutation (Cleric, Druid, Sorcerer)_
 
-**Casting Time:** Action
-**Range:** 500 feet
-**Components:** V, S, M (a fractured rock)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 500 feet
+- **Components:** V, S, M (a fractured rock)
+- **Duration:** Concentration, up to 1 minute
 
 Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is Difficult Terrain.
 
@@ -8715,10 +8715,10 @@ A creature within a distance from a collapsing structure equal to half the struc
 
 _Evocation Cantrip (Warlock)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes 1d10 Force damage.
 
@@ -8728,10 +8728,10 @@ _**Cantrip Upgrade.**_ The spell creates two beams at level 5, three beams at le
 
 _Transmutation Cantrip (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You exert control over the elements, creating one of the following effects within range.
 
@@ -8749,10 +8749,10 @@ _**Sculpt Element.**_ You cause dirt, sand, fire, smoke, mist, or water that can
 
 _Level 2 Transmutation (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (fur or a feather)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (fur or a feather)
+- **Duration:** Concentration, up to 1 hour
 
 You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Charisma. For the duration, the target has Advantage on ability checks using the chosen ability.
 
@@ -8762,10 +8762,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 2 Transmutation (Bard, Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a pinch of powdered iron)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a pinch of powdered iron)
+- **Duration:** Concentration, up to 1 minute
 
 For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below). A targeted object must be neither worn nor carried. If the target is an unwilling creature, it can make a Constitution saving throw. On a successful save, the spell has no effect.
 
@@ -8779,10 +8779,10 @@ _**Reduce.**_ The target's size decreases by one category — from Medium to Sma
 
 _Level 1 Conjuration (Ranger)_
 
-**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a weapon
-**Range:** Self
-**Components:** V
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a weapon
+- **Range:** Self
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
 
 As you hit the target, grasping vines appear on it, and it makes a Strength saving throw. A Large or larger creature has Advantage on this save. On a failed save, the target has the Restrained condition until the spell ends. On a successful save, the vines shrivel away, and the spell ends.
 
@@ -8794,10 +8794,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Level 1 Conjuration (Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into Difficult Terrain. They disappear when the spell ends.
 
@@ -8807,10 +8807,10 @@ Each creature (other than you) in the area when you cast the spell must succeed 
 
 _Level 2 Enchantment (Bard, Warlock)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You weave a distracting string of words, causing creatures of your choice that you can see within range to make a Wisdom saving throw. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a -10 penalty to Wisdom (Perception) checks and Passive Perception until the spell ends.
 
@@ -8818,10 +8818,10 @@ You weave a distracting string of words, causing creatures of your choice that y
 
 _Level 7 Conjuration (Bard, Cleric, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Up to 8 hours
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Up to 8 hours
 
 You step into the border regions of the Ethereal Plane, where it overlaps with your current plane. You remain in the Border Ethereal for the duration. During this time, you can move in any direction. If you move up or down, every foot of movement costs an extra foot. You can perceive the plane you left, which looks gray, and you can't see anything there more than 60 feet away.
 
@@ -8837,10 +8837,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target up to three willing creatu
 
 _Level 1 Transmutation (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Bonus Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You take the Dash action, and until the spell ends, you can take that action again as a Bonus Action.
 
@@ -8848,10 +8848,10 @@ You take the Dash action, and until the spell ends, you can take that action aga
 
 _Level 6 Necromancy (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 For the duration, your eyes become an inky void. One creature of your choice within 60 feet of you that you can see must succeed on a Wisdom saving throw or be affected by one of the following effects of your choice for the duration.
 
@@ -8867,10 +8867,10 @@ _**Sickened.**_ The target has the Poisoned condition.
 
 _Level 4 Transmutation (Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** 10 minutes
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, or clothes from flax or wool.
 
@@ -8882,10 +8882,10 @@ Creatures and magic items can't be created by this spell. You also can't use it 
 
 _Level 1 Evocation (Bard, Druid)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
 
 Objects in a 20-foot Cube within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube is also outlined if it fails a Dexterity saving throw. For the duration, objects and affected creatures shed Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
 
@@ -8895,10 +8895,10 @@ Attack rolls against an affected creature or object have Advantage if the attack
 
 _Level 4 Conjuration (Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a silver whistle)
-**Duration:** 8 hours
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a silver whistle)
+- **Duration:** 8 hours
 
 You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 300 feet apart from each other.
 
@@ -8912,10 +8912,10 @@ On your later turns, you can take a Magic action to move the hound up to 30 feet
 
 _Level 1 Necromancy (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a drop of alcohol)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a drop of alcohol)
+- **Duration:** Instantaneous
 
 You gain 2d4 + 4 Temporary Hit Points.
 
@@ -8925,10 +8925,10 @@ _**Using a Higher-Level Spell Slot.**_ You gain 5 additional Temporary Hit Point
 
 _Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a white feather)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a white feather)
+- **Duration:** Concentration, up to 1 minute
 
 Each creature in a 30-foot Cone must succeed on a Wisdom saving throw or drop whatever it is holding and have the Frightened condition for the duration.
 
@@ -8938,10 +8938,10 @@ A Frightened creature takes the Dash action and moves away from you by the safes
 
 _Level 1 Transmutation (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Reaction, which you take when you or a creature you can see within 60 feet of you falls
-**Range:** 60 feet
-**Components:** V, M (a small feather or piece of down)
-**Duration:** 1 minute
+- **Casting Time:** Reaction, which you take when you or a creature you can see within 60 feet of you falls
+- **Range:** 60 feet
+- **Components:** V, M (a small feather or piece of down)
+- **Duration:** 1 minute
 
 Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature.
 
@@ -8949,10 +8949,10 @@ Choose up to five falling creatures within range. A falling creature's rate of d
 
 _Level 1 Conjuration (Wizard)_
 
-**Casting Time:** 1 hour or Ritual
-**Range:** 10 feet
-**Components:** V, S, M (burning incense worth 10+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** 1 hour or Ritual
+- **Range:** 10 feet
+- **Components:** V, S, M (burning incense worth 10+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 You gain the service of a familiar, a spirit that takes an animal form you choose: **Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel,** or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form (see "Monsters"), though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
 
@@ -8970,10 +8970,10 @@ _**One Familiar Only.**_ You can't have more than one familiar at a time. If you
 
 _Level 2 Conjuration (Paladin)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the **Otherworldly Steed** stat block. If you already have a steed from this spell, the steed is replaced by the new one.
 
@@ -8989,9 +8989,9 @@ _**Using a Higher-Level Spell Slot.**_ Use the spell slot's level for the spell'
 
 _Large Celestial, Fey, or Fiend (Your Choice), Neutral_
 
-**AC** 10 + 1 per spell level
-**HP** 5 + 10 per spell level (the steed has a number of Hit Dice (d10s) equal to the spell's level)
-**Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
+- **AC** 10 + 1 per spell level
+- **HP** 5 + 10 per spell level (the steed has a number of Hit Dice (d10s) equal to the spell's level)
+- **Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -8999,9 +8999,9 @@ _Large Celestial, Fey, or Fiend (Your Choice), Neutral_
 | **Modifier**     |     +4 |     +1 |     +2 |     -2 |     +1 |     -1 |
 | **Saving Throw** |     +4 |     +1 |     +2 |     -2 |     +1 |     -1 |
 
-**Senses** Passive Perception 11
-**Languages** Telepathy 1 mile (works only with you)
-**CR** None (XP 0; PB equals your Proficiency Bonus)
+- **Senses** Passive Perception 11
+- **Languages** Telepathy 1 mile (works only with you)
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ##### Traits
 
@@ -9025,10 +9025,10 @@ _**Healing Touch (Celestial Only; Recharges after a Long Rest).**_ One creature 
 
 _Level 6 Divination (Bard, Cleric, Druid)_
 
-**Casting Time:** 1 minute
-**Range:** Self
-**Components:** V, S, M (a set of divination tools — such as cards or runes — worth 100+ GP)
-**Duration:** Concentration, up to 1 day
+- **Casting Time:** 1 minute
+- **Range:** Self
+- **Components:** V, S, M (a set of divination tools — such as cards or runes — worth 100+ GP)
+- **Duration:** Concentration, up to 1 day
 
 You magically sense the most direct physical route to a location you name. You must be familiar with the location, and the spell fails if you name a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as "a green dragon's lair").
 
@@ -9038,10 +9038,10 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 _Level 2 Divination (Cleric, Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You sense any trap within range that is within line of sight. A trap, for the purpose of this spell, includes any object or mechanism that was created to cause damage or other danger. Thus, the spell would sense the _Alarm_ or _Glyph of Warding_ spell or a mechanical pit trap, but it wouldn't reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.
 
@@ -9051,10 +9051,10 @@ This spell reveals that a trap is present but not its location. You do learn the
 
 _Level 7 Necromancy (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You unleash negative energy toward a creature you can see within range. The target makes a Constitution saving throw, taking 7d8 + 30 Necrotic damage on a failed save or half as much damage on a successful one.
 
@@ -9064,10 +9064,10 @@ A Humanoid killed by this spell rises at the start of your next turn as a **Zomb
 
 _Level 3 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (a ball of bat guano and sulfur)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a ball of bat guano and sulfur)
+- **Duration:** Instantaneous
 
 A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 20-foot-radius Sphere centered on that point makes a Dexterity saving throw, taking 8d6 Fire damage on a failed save or half as much damage on a successful one.
 
@@ -9079,10 +9079,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Evocation Cantrip (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts burning if it isn't being worn or carried.
 
@@ -9092,10 +9092,10 @@ _**Cantrip Upgrade.**_ The damage increases by 1d10 when you reach levels 5 (2d1
 
 _Level 4 Evocation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a bit of phosphorus or a firefly)
-**Duration:** 10 minutes
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a bit of phosphorus or a firefly)
+- **Duration:** 10 minutes
 
 Wispy flames wreathe your body for the duration, shedding Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
 
@@ -9107,10 +9107,10 @@ In addition, whenever a creature within 5 feet of you hits you with a melee atta
 
 _Level 7 Evocation (Cleric, Druid, Sorcerer)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 A storm of fire appears within range. The area of the storm consists of up to ten 10-foot Cubes, which you arrange as you like. Each Cube must be contiguous with at least one other Cube. Each creature in the area makes a Dexterity saving throw, taking 7d10 Fire damage on a failed save or half as much damage on a successful one.
 
@@ -9120,10 +9120,10 @@ Flammable objects in the area that aren't being worn or carried start burning.
 
 _Level 2 Evocation (Druid, Sorcerer)_
 
-**Casting Time:** Bonus Action
-**Range:** Self
-**Components:** V, S, M (a sumac leaf)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Components:** V, S, M (a sumac leaf)
+- **Duration:** Concentration, up to 10 minutes
 
 You evoke a fiery blade in your free hand. The blade is similar in size and shape to a scimitar, and it lasts for the duration. If you let go of the blade, it disappears, but you can evoke it again as a Bonus Action.
 
@@ -9137,10 +9137,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Level 5 Evocation (Cleric)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a pinch of sulfur)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a pinch of sulfur)
+- **Duration:** Instantaneous
 
 A vertical column of brilliant fire roars down from above. Each creature in a 10-foot-radius, 40-foothigh Cylinder centered on a point within range makes a Dexterity saving throw, taking 5d6 Fire damage and 5d6 Radiant damage on a failed save or half as much damage on a successful one.
 
@@ -9150,10 +9150,10 @@ _**Using a Higher-Level Spell Slot.**_ The Fire damage and the Radiant damage in
 
 _Level 2 Conjuration (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a ball of wax)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a ball of wax)
+- **Duration:** Concentration, up to 1 minute
 
 You create a 5-foot-diameter sphere of fire in an unoccupied space on the ground within range. It lasts for the duration. Any creature that ends its turn within 5 feet of the sphere makes a Dexterity saving throw, taking 2d6 Fire damage on a failed save or half as much damage on a successful one.
 
@@ -9167,10 +9167,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Level 6 Transmutation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a cockatrice feather)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a cockatrice feather)
+- **Duration:** Concentration, up to 1 minute
 
 You attempt to turn one creature that you can see within range into stone. The target makes a Constitution saving throw. On a failed save, it has the Restrained condition for the duration. On a successful save, its Speed is 0 until the start of your next turn. Constructs automatically succeed on the save.
 
@@ -9182,10 +9182,10 @@ If you maintain your Concentration on this spell for the entire possible duratio
 
 _Level 1 Conjuration (Wizard)_
 
-**Casting Time:** Action or Ritual
-**Range:** 30 feet
-**Components:** V, S, M (a drop of mercury)
-**Duration:** 1 hour
+- **Casting Time:** Action or Ritual
+- **Range:** 30 feet
+- **Components:** V, S, M (a drop of mercury)
+- **Duration:** 1 hour
 
 This spell creates a circular, horizontal plane of force, 3 feet in diameter and 1 inch thick, that floats 3 feet above the ground in an unoccupied space of your choice that you can see within range. The disk remains for the duration and can hold up to 500 pounds. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground.
 
@@ -9197,10 +9197,10 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 _Level 3 Transmutation (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a feather)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a feather)
+- **Duration:** Concentration, up to 10 minutes
 
 You touch a willing creature. For the duration, the target gains a Fly Speed of 60 feet and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
 
@@ -9210,10 +9210,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 1 Conjuration (Druid, Ranger, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
 
 You create a 20-foot-radius Sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by _Gust of Wind_) disperses it.
 
@@ -9223,10 +9223,10 @@ _**Using a Higher-Level Spell Slot.**_ The fog's radius increases by 20 feet for
 
 _Level 6 Abjuration (Cleric)_
 
-**Casting Time:** 10 minutes or Ritual
-**Range:** Touch
-**Components:** V, S, M (ruby dust worth 1,000+ GP)
-**Duration:** 1 day
+- **Casting Time:** 10 minutes or Ritual
+- **Range:** Touch
+- **Components:** V, S, M (ruby dust worth 1,000+ GP)
+- **Duration:** 1 day
 
 You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the _Gate_ spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the _Plane Shift_ spell.
 
@@ -9240,10 +9240,10 @@ The spell's area can't overlap with the area of another _Forbiddance_ spell. If 
 
 _Level 7 Evocation (Bard, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 100 feet
-**Components:** V, S, M (ruby dust worth 1,500+ GP, which the spell consumes)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 100 feet
+- **Components:** V, S, M (ruby dust worth 1,500+ GP, which the spell consumes)
+- **Duration:** Concentration, up to 1 hour
 
 An immobile, Invisible, Cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
 
@@ -9259,10 +9259,10 @@ This spell can't be dispelled by _Dispel Magic_.
 
 _Level 9 Divination (Bard, Druid, Warlock, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** Touch
-**Components:** V, S, M (a hummingbird feather)
-**Duration:** 8 hours
+- **Casting Time:** 1 minute
+- **Range:** Touch
+- **Components:** V, S, M (a hummingbird feather)
+- **Duration:** 8 hours
 
 You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has Advantage on D20 Tests, and other creatures have Disadvantage on attack rolls against it. The spell ends early if you cast it again.
 
@@ -9270,10 +9270,10 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 _Level 4 Abjuration (Bard, Cleric, Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a leather strap)
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a leather strap)
+- **Duration:** 1 hour
 
 You touch a willing creature. For the duration, the target's movement is unaffected by Difficult Terrain, and spells and other magical effects can neither reduce the target's Speed nor cause the target to have the Paralyzed or Restrained conditions. The target also has a Swim Speed equal to its Speed.
 
@@ -9285,10 +9285,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 6 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 300 feet
-**Components:** V, S, M (a miniature crystal sphere)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 300 feet
+- **Components:** V, S, M (a miniature crystal sphere)
+- **Duration:** Instantaneous
 
 A frigid globe streaks from you to a point of your choice within range, where it explodes in a 60-foot-radius Sphere. Each creature in that area makes a Constitution saving throw, taking 10d6 Cold damage on failed save or half as much damage on a successful one.
 
@@ -9302,10 +9302,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Level 3 Transmutation (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a bit of gauze)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a bit of gauze)
+- **Duration:** Concentration, up to 1 hour
 
 A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself.
 
@@ -9319,10 +9319,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 9 Conjuration (Cleric, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a diamond worth 5,000+ GP)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a diamond worth 5,000+ GP)
+- **Duration:** Concentration, up to 1 minute
 
 You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration, and the portal's destination is visible through it.
 
@@ -9336,10 +9336,10 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 
 _Level 5 Enchantment (Bard, Cleric, Druid, Paladin, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** 60 feet
-**Components:** V
-**Duration:** 30 days
+- **Casting Time:** 1 minute
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** 30 days
 
 You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a Wisdom saving throw or have the Charmed condition for the duration. The target automatically succeeds if it can't understand your command.
 
@@ -9355,10 +9355,10 @@ _**Using a Higher-Level Spell Slot.**_ If you use a level 7 or 8 spell slot, the
 
 _Level 2 Necromancy (Cleric, Paladin, Wizard)_
 
-**Casting Time:** Action or Ritual
-**Range:** Touch
-**Components:** V, S, M (2 Copper Pieces, which the spell consumes)
-**Duration:** 10 days
+- **Casting Time:** Action or Ritual
+- **Range:** Touch
+- **Components:** V, S, M (2 Copper Pieces, which the spell consumes)
+- **Duration:** 10 days
 
 You touch a corpse or other remains. For the duration, the target is protected from decay and can't become Undead.
 
@@ -9368,10 +9368,10 @@ The spell also effectively extends the time limit on raising the target from the
 
 _Level 4 Conjuration (Druid)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You summon a giant centipede, spider, or wasp (chosen when you cast the spell). It manifests in an unoccupied space you can see within range and uses the **Giant Insect** stat block. The form you choose determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
@@ -9383,9 +9383,9 @@ _**Using a Higher-Level Spell Slot.**_ Use the spell slot's level for the spell'
 
 _Large Beast, Unaligned_
 
-**AC** 11 + the spell's level
-**HP** 30 + 10 for each spell level above 4
-**Speed** 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only)
+- **AC** 11 + the spell's level
+- **HP** 30 + 10 for each spell level above 4
+- **Speed** 40 ft., Climb 40 ft., Fly 40 ft. (Wasp only)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -9393,9 +9393,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +1 |     +2 |     -3 |     +2 |     -4 |
 | **Saving Throw** |     +3 |     +1 |     +2 |     -3 |     +2 |     -4 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** Understands the languages you know
-**CR** None (XP 0; PB equals your Proficiency Bonus)
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** Understands the languages you know
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ##### Traits
 
@@ -9417,10 +9417,10 @@ _**Venomous Spew (Centipede Only).**_ _Constitution Saving Throw:_ Your spell sa
 
 _Level 8 Enchantment (Bard, Warlock)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V
+- **Duration:** 1 hour
 
 Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
 
@@ -9428,10 +9428,10 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 _Level 6 Abjuration (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a glass bead)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a glass bead)
+- **Duration:** Concentration, up to 1 minute
 
 An immobile, shimmering barrier appears in a 10 foot Emanation around you and remains for the duration.
 
@@ -9443,10 +9443,10 @@ _**Using a Higher-Level Spell Slot.**_ The barrier blocks spells of 1 level high
 
 _Level 3 Abjuration (Bard, Cleric, Wizard)_
 
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (powdered diamond worth 200+ GP, which the spell consumes)
-**Duration:** Until dispelled or triggered
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (powdered diamond worth 200+ GP, which the spell consumes)
+- **Duration:** Until dispelled or triggered
 
 You inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor) or within an object that can be closed (such as a book or chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
@@ -9470,10 +9470,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage of an explosive rune increases
 
 _Level 1 Conjuration (Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a sprig of mistletoe)
-**Duration:** 24 hours
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a sprig of mistletoe)
+- **Duration:** 24 hours
 
 Ten berries appear in your hand and are infused with magic for the duration. A creature can take a Bonus Action to eat one berry. Eating a berry restores 1 Hit Point, and the berry provides enough nourishment to sustain a creature for one day.
 
@@ -9483,10 +9483,10 @@ Uneaten berries disappear when the spell ends.
 
 _Level 1 Conjuration (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a bit of pork rind or butter)
-**Duration:** 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a bit of pork rind or butter)
+- **Duration:** 1 minute
 
 Nonflammable grease covers the ground in a 10 foot square centered on a point within range and turns it into Difficult Terrain for the duration.
 
@@ -9496,10 +9496,10 @@ When the grease appears, each creature standing in its area must succeed on a De
 
 _Level 4 Illusion (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 A creature you touch has the Invisible condition until the spell ends.
 
@@ -9507,10 +9507,10 @@ A creature you touch has the Invisible condition until the spell ends.
 
 _Level 5 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 You touch a creature and magically remove one of the following effects from it:
 
@@ -9524,10 +9524,10 @@ You touch a creature and magically remove one of the following effects from it:
 
 _Level 4 Conjuration (Cleric)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V
-**Duration:** 8 hours
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** 8 hours
 
 A Large spectral guardian appears and hovers for the duration in an unoccupied space that you can see within range. The guardian occupies that space and is invulnerable, and it appears in a form appropriate for your deity or pantheon.
 
@@ -9537,10 +9537,10 @@ Any enemy that moves to a space within 10 feet of the guardian for the first tim
 
 _Level 6 Abjuration (Bard, Wizard)_
 
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (a silver rod worth 10+ GP)
-**Duration:** 24 hours
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (a silver rod worth 10+ GP)
+- **Duration:** 24 hours
 
 You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.
 
@@ -9566,10 +9566,10 @@ _**Other Spell Effect.**_ Place one of the following magical effects within the 
 
 _Divination Cantrip (Cleric, Druid)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
 
@@ -9577,10 +9577,10 @@ You touch a willing creature and choose a skill. Until the spell ends, the creat
 
 _Level 1 Evocation (Cleric)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** 1 round
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** 1 round
 
 You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 4d6 Radiant damage, and the next attack roll made against it before the end of your next turn has Advantage.
 
@@ -9590,10 +9590,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Level 2 Evocation (Druid, Ranger, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a legume seed)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a legume seed)
+- **Duration:** Concentration, up to 1 minute
 
 A Line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the duration. Each creature in the Line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the Line. A creature that ends its turn in the Line must make the same save.
 
@@ -9607,10 +9607,10 @@ As a Bonus Action on your later turns, you can change the direction in which the
 
 _Level 5 Abjuration (Cleric)_
 
-**Casting Time:** 24 hours
-**Range:** Touch
-**Components:** V, S, M (incense worth 1,000+ GP, which the spell consumes)
-**Duration:** Until dispelled
+- **Casting Time:** 24 hours
+- **Range:** Touch
+- **Components:** V, S, M (incense worth 1,000+ GP, which the spell consumes)
+- **Duration:** Until dispelled
 
 You touch a point and infuse an area around it with holy or unholy power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect of _Hallow_. The affected area has the following effects.
 
@@ -9633,10 +9633,10 @@ _**Extra Effect.**_ You bind an extra effect to the area from the list below:
 
 _Level 4 Illusion (Bard, Druid, Warlock, Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** 300 feet
-**Components:** V, S, M (a mushroom)
-**Duration:** 24 hours
+- **Casting Time:** 10 minutes
+- **Range:** 300 feet
+- **Components:** V, S, M (a mushroom)
+- **Duration:** 24 hours
 
 You make natural terrain in a 150-foot Cube in range look, sound, and smell like another sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren't changed.
 
@@ -9646,10 +9646,10 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 _Level 6 Necromancy (Cleric)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You unleash virulent magic on a creature you can see within range. The target makes a Constitution saving throw. On a failed save, it takes 14d6 Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's Hit Point maximum below 1.
 
@@ -9657,10 +9657,10 @@ You unleash virulent magic on a creature you can see within range. The target ma
 
 _Level 3 Transmutation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a shaving of licorice root)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a shaving of licorice root)
+- **Duration:** Concentration, up to 1 minute
 
 Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains a +2 bonus to Armor Class, it has Advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
 
@@ -9670,10 +9670,10 @@ When the spell ends, the target is Incapacitated and has a Speed of 0 until the 
 
 _Level 6 Abjuration (Cleric, Druid)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 Hit Points. This spell also ends the Blinded, Deafened, and Poisoned conditions on the target.
 
@@ -9683,10 +9683,10 @@ _**Using a Higher-Level Spell Slot.**_ The healing increases by 10 for each spel
 
 _Level 1 Abjuration (Bard, Cleric, Druid)_
 
-**Casting Time:** Bonus Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Bonus Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
 
@@ -9696,10 +9696,10 @@ _**Using a Higher-Level Spell Slot.**_ The healing increases by 2d4 for each spe
 
 _Level 2 Transmutation (Bard, Druid)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a piece of iron and a flame)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a piece of iron and a flame)
+- **Duration:** Concentration, up to 1 minute
 
 Choose a manufactured metal object, such as a metal weapon or a suit of Heavy or Medium metal armor, that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes 2d8 Fire damage when you cast the spell. Until the spell ends, you can take a Bonus Action on each of your later turns to deal this damage again if the object is within range.
 
@@ -9711,10 +9711,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 1 Evocation (Warlock)_
 
-**Casting Time:** Reaction, which you take in response to taking damage from a creature that you can see within 60 feet of yourself
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Reaction, which you take in response to taking damage from a creature that you can see within 60 feet of yourself
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
 
@@ -9724,10 +9724,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d10 for each spe
 
 _Level 6 Conjuration (Bard, Cleric, Druid)_
 
-**Casting Time:** 10 minutes
-**Range:** Self
-**Components:** V, S, M (a gem-encrusted bowl worth 1,000+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** 10 minutes
+- **Range:** Self
+- **Components:** V, S, M (a gem-encrusted bowl worth 1,000+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 You conjure a feast that appears on a surface in an unoccupied 10-foot Cube next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 
@@ -9737,10 +9737,10 @@ A creature that partakes gains several benefits, which last for 24 hours. The cr
 
 _Level 1 Enchantment (Bard, Paladin)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the Frightened condition and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.
 
@@ -9750,10 +9750,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 1 Enchantment (Warlock)_
 
-**Casting Time:** Bonus Action
-**Range:** 90 feet
-**Components:** V, S, M (the petrified eye of a newt)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Bonus Action
+- **Range:** 90 feet
+- **Components:** V, S, M (the petrified eye of a newt)
+- **Duration:** Concentration, up to 1 hour
 
 You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has Disadvantage on ability checks made with the chosen ability.
 
@@ -9765,10 +9765,10 @@ _**Using a Higher-Level Spell Slot.**_ Your Concentration can last longer with a
 
 _Level 1 Enchantment (Bard, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a tart and a feather)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a tart and a feather)
+- **Duration:** Concentration, up to 1 minute
 
 One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it has the Prone and Incapacitated conditions for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the Prone condition on itself.
 
@@ -9780,10 +9780,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 5 Enchantment (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S, M (a straight piece of iron)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S, M (a straight piece of iron)
+- **Duration:** Concentration, up to 1 minute
 
 Choose a creature that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
@@ -9793,10 +9793,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 2 Enchantment (Bard, Cleric, Druid, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a straight piece of iron)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a straight piece of iron)
+- **Duration:** Concentration, up to 1 minute
 
 Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the Paralyzed condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
@@ -9806,10 +9806,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional Humanoid fo
 
 _Level 8 Abjuration (Cleric)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a reliquary worth 1,000+ GP)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a reliquary worth 1,000+ GP)
+- **Duration:** Concentration, up to 1 minute
 
 For the duration, you emit an aura in a 30-foot Emanation. While in the aura, creatures of your choice have Advantage on all saving throws, and other creatures have Disadvantage on attack rolls against them. In addition, when a Fiend or an Undead hits an affected creature with a melee attack roll, the attacker must succeed on a Constitution saving throw or have the Blinded condition until the end of its next turn.
 
@@ -9817,10 +9817,10 @@ For the duration, you emit an aura in a 30-foot Emanation. While in the aura, cr
 
 _Level 1 Divination (Ranger)_
 
-**Casting Time:** Bonus Action
-**Range:** 90 feet
-**Components:** V
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Bonus Action
+- **Range:** 90 feet
+- **Components:** V
+- **Duration:** Concentration, up to 1 hour
 
 You magically mark one creature you can see within range as your quarry. Until the spell ends, you deal an extra 1d6 Force damage to the target whenever you hit it with an attack roll. You also have Advantage on any Wisdom (Perception or Survival) check you make to find it.
 
@@ -9832,10 +9832,10 @@ _**Using a Higher-Level Spell Slot.**_ Your Concentration can last longer with a
 
 _Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** S, M (a pinch of confetti)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** S, M (a pinch of confetti)
+- **Duration:** Concentration, up to 1 minute
 
 You create a twisting pattern of colors in a 30-foot Cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a Wisdom saving throw or have the Charmed condition for the duration. While Charmed, the creature has the Incapacitated condition and a Speed of 0.
 
@@ -9845,10 +9845,10 @@ The spell ends for an affected creature if it takes any damage or if someone els
 
 _Level 1 Conjuration (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** S, M (a drop of water or a piece of ice)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** S, M (a drop of water or a piece of ice)
+- **Duration:** Instantaneous
 
 You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Piercing damage. Hit or miss, the shard then explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 Cold damage.
 
@@ -9858,10 +9858,10 @@ _**Using a Higher-Level Spell Slot.**_ The Cold damage increases by 1d6 for each
 
 _Level 4 Evocation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 300 feet
-**Components:** V, S, M (a mitten)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 300 feet
+- **Components:** V, S, M (a mitten)
+- **Duration:** Instantaneous
 
 Hail falls in a 20-foot-radius, 40-foot-high Cylinder centered on a point within range. Each creature in the Cylinder makes a Dexterity saving throw. A creature takes 2d10 Bludgeoning damage and 4d6 Cold damage on a failed save or half as much damage on a successful one.
 
@@ -9873,10 +9873,10 @@ _**Using a Higher-Level Spell Slot.**_ The Bludgeoning damage increases by 1d10 
 
 _Level 1 Divination (Bard, Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Touch
-**Components:** V, S, M (a pearl worth 100+ GP)
-**Duration:** Instantaneous
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Touch
+- **Components:** V, S, M (a pearl worth 100+ GP)
+- **Duration:** Instantaneous
 
 You touch an object throughout the spell's casting. If the object is a magic item or some other magical object, you learn its properties and how to use them, whether it requires Attunement, and how many charges it has, if any. You learn whether any ongoing spells are affecting the item and what they are. If the item was created by a spell, you learn that spell's name.
 
@@ -9886,10 +9886,10 @@ If you instead touch a creature throughout the casting, you learn which ongoing 
 
 _Level 1 Illusion (Bard, Warlock, Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Touch
-**Components:** S, M (ink worth 10+ GP, which the spell consumes)
-**Duration:** 10 days
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Touch
+- **Components:** S, M (ink worth 10+ GP, which the spell consumes)
+- **Duration:** 10 days
 
 You write on parchment, paper, or another suitable material and imbue it with an illusion that lasts for the duration. To you and any creatures you designate when you cast the spell, the writing appears normal, seems to be written in your hand, and conveys whatever meaning you intended when you wrote the text. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, the illusion can alter the meaning, handwriting, and language of the text, though the language must be one you know.
 
@@ -9901,10 +9901,10 @@ A creature that has Truesight can read the hidden message.
 
 _Level 9 Abjuration (Warlock, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** 30 feet
-**Components:** V, S, M (a statuette of the target worth 5,000+ GP)
-**Duration:** Until dispelled
+- **Casting Time:** 1 minute
+- **Range:** 30 feet
+- **Components:** V, S, M (a statuette of the target worth 5,000+ GP)
+- **Duration:** Until dispelled
 
 You create a magical restraint to hold a creature that you can see within range. The target must make a Wisdom saving throw. On a successful save, the target is unaffected, and it is immune to this spell for the next 24 hours. On a failed save, the target is imprisoned. While imprisoned, the target doesn't need to breathe, eat, or drink, and it doesn't age. Divination spells can't locate or perceive the imprisoned target, and the target can't teleport.
 
@@ -9924,10 +9924,10 @@ A _Dispel Magic_ spell can end the spell only if it is cast with a level 9 spell
 
 _Level 8 Conjuration (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud's area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by _Gust of Wind_) disperses it.
 
@@ -9939,10 +9939,10 @@ The cloud moves 10 feet away from you in a direction you choose at the start of 
 
 _Level 1 Necromancy (Cleric)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
 
@@ -9952,10 +9952,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d10 for each spe
 
 _Level 5 Conjuration (Cleric, Druid, Sorcerer)_
 
-**Casting Time:** Action
-**Range:** 300 feet
-**Components:** V, S, M (a locust)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 300 feet
+- **Components:** V, S, M (a locust)
+- **Duration:** Concentration, up to 10 minutes
 
 Swarming locusts fill a 20-foot-radius Sphere centered on a point you choose within range. The Sphere remains for the duration, and its area is Lightly Obscured and Difficult Terrain.
 
@@ -9967,10 +9967,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d10 for each spe
 
 _Level 6 Conjuration (Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Touch
-**Components:** V, S, M (a sapphire worth 1,000+ GP)
-**Duration:** Until dispelled
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Touch
+- **Components:** V, S, M (a sapphire worth 1,000+ GP)
+- **Duration:** Until dispelled
 
 You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an Invisible mark on that object and invisibly inscribes the object's name on the sapphire. Each time you cast this spell, you must use a different sapphire.
 
@@ -9982,10 +9982,10 @@ If another creature is holding or carrying the object, crushing the sapphire doe
 
 _Level 6 Enchantment (Bard, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
 
 One creature that you can see within range must make a Wisdom saving throw. On a successful save, the target dances comically until the end of its next turn, during which it must spend all its movement to dance in place.
 
@@ -9995,10 +9995,10 @@ On a failed save, the target has the Charmed condition for the duration. While C
 
 _Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (an eyelash in gum arabic)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (an eyelash in gum arabic)
+- **Duration:** Concentration, up to 1 hour
 
 A creature you touch has the Invisible condition until the spell ends. The spell ends early immediately after the target makes an attack roll, deals damage, or casts a spell.
 
@@ -10008,10 +10008,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 1 Transmutation (Druid, Ranger, Sorcerer, Wizard)_
 
-**Casting Time:** Bonus Action
-**Range:** Touch
-**Components:** V, S, M (a grasshopper's hind leg)
-**Duration:** 1 minute
+- **Casting Time:** Bonus Action
+- **Range:** Touch
+- **Components:** V, S, M (a grasshopper's hind leg)
+- **Duration:** 1 minute
 
 You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 30 feet by spending 10 feet of movement.
 
@@ -10021,10 +10021,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 2 Transmutation (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.
 
@@ -10038,10 +10038,10 @@ When you cast the spell, a loud knock, audible up to 300 feet away, emanates fro
 
 _Level 5 Divination (Bard, Cleric, Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** Self
-**Components:** V, S, M (incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each)
-**Duration:** Instantaneous
+- **Casting Time:** 10 minutes
+- **Range:** Self
+- **Components:** V, S, M (incense worth 250+ GP, which the spell consumes, and four ivory strips worth 50+ GP each)
+- **Duration:** Instantaneous
 
 Name or describe a famous person, place, or object. The spell brings to your mind a brief summary of the significant lore about that famous thing, as described by the GM.
 
@@ -10053,10 +10053,10 @@ If the famous thing you chose isn't actually famous, you hear sad musical notes 
 
 _Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)_
 
-**Casting Time:** Bonus Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Bonus Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, or Poisoned.
 
@@ -10064,10 +10064,10 @@ You touch a creature and end one condition on it: Blinded, Deafened, Paralyzed, 
 
 _Level 2 Transmutation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a metal spring)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a metal spring)
+- **Duration:** Concentration, up to 10 minutes
 
 One creature or loose object of your choice that you can see within range rises vertically up to 20 feet and remains suspended there for the duration. The spell can levitate an object that weighs up to 500 pounds. An unwilling creature that succeeds on a Constitution saving throw is unaffected.
 
@@ -10079,10 +10079,10 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 
 _Evocation Cantrip (Bard, Cleric, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, M (a firefly or phosphorescent moss)
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, M (a firefly or phosphorescent moss)
+- **Duration:** 1 hour
 
 You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The light can be colored as you like.
 
@@ -10092,10 +10092,10 @@ Covering the object with something opaque blocks the light. The spell ends if yo
 
 _Level 3 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a bit of fur and a crystal rod)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a bit of fur and a crystal rod)
+- **Duration:** Instantaneous
 
 A stroke of lightning forming a 100-foot-long, 5-foot-wide Line blasts out from you in a direction you choose. Each creature in the Line makes a Dexterity saving throw, taking 8d6 Lightning damage on a failed save or half as much damage on a successful one.
 
@@ -10105,10 +10105,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Level 2 Divination (Bard, Druid, Ranger)_
 
-**Casting Time:** Action or Ritual
-**Range:** Self
-**Components:** V, S, M (fur from a bloodhound)
-**Duration:** Instantaneous
+- **Casting Time:** Action or Ritual
+- **Range:** Self
+- **Components:** V, S, M (fur from a bloodhound)
+- **Duration:** Instantaneous
 
 Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. You learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
@@ -10116,10 +10116,10 @@ Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. 
 
 _Level 4 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (fur from a bloodhound)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (fur from a bloodhound)
+- **Duration:** Concentration, up to 1 hour
 
 Describe or name a creature that is familiar to you. You sense the direction to the creature's location if that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
 
@@ -10131,10 +10131,10 @@ This spell can't locate a creature if any thickness of lead blocks a direct path
 
 _Level 2 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a forked twig)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a forked twig)
+- **Duration:** Concentration, up to 10 minutes
 
 Describe or name an object that is familiar to you. You sense the direction to the object's location if that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 
@@ -10146,10 +10146,10 @@ This spell can't locate an object if any thickness of lead blocks a direct path 
 
 _Level 1 Transmutation (Bard, Druid, Ranger, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a pinch of dirt)
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a pinch of dirt)
+- **Duration:** 1 hour
 
 You touch a creature. The target's Speed increases by 10 feet until the spell ends.
 
@@ -10159,10 +10159,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 1 Abjuration (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a piece of cured leather)
-**Duration:** 8 hours
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a piece of cured leather)
+- **Duration:** 8 hours
 
 You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
 
@@ -10170,10 +10170,10 @@ You touch a willing creature who isn't wearing armor. Until the spell ends, the 
 
 _Conjuration Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 minute
 
 A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
 
@@ -10187,10 +10187,10 @@ The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 _Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** 10 feet
-**Components:** V, S, M (salt and powdered silver worth 100+ GP, which the spell consumes)
-**Duration:** 1 hour
+- **Casting Time:** 1 minute
+- **Range:** 10 feet
+- **Components:** V, S, M (salt and powdered silver worth 100+ GP, which the spell consumes)
+- **Duration:** 1 hour
 
 You create a 10-foot-radius, 20-foot-tall Cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the Cylinder intersects with the floor or other surface.
 
@@ -10208,10 +10208,10 @@ _**Using a Higher-Level Spell Slot.**_ The duration increases by 1 hour for each
 
 _Level 6 Necromancy (Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** Self
-**Components:** V, S, M (a gem, crystal, or reliquary worth 500+ GP)
-**Duration:** Until dispelled
+- **Casting Time:** 1 minute
+- **Range:** Self
+- **Components:** V, S, M (a gem, crystal, or reliquary worth 500+ GP)
+- **Duration:** Until dispelled
 
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or take Reactions. The only action you can take is to project your soul up to 100 feet out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid's body.
 
@@ -10231,10 +10231,10 @@ When the spell ends, the container is destroyed.
 
 _Level 1 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You create three glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals 1d4 + 1 Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
@@ -10244,10 +10244,10 @@ _**Using a Higher-Level Spell Slot.**_ The spell creates one more dart for each 
 
 _Level 2 Illusion (Bard, Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** 30 feet
-**Components:** V, S, M (jade dust worth 10+ GP, which the spell consumes)
-**Duration:** Until dispelled
+- **Casting Time:** 1 minute or Ritual
+- **Range:** 30 feet
+- **Components:** V, S, M (jade dust worth 10+ GP, which the spell consumes)
+- **Duration:** Until dispelled
 
 You implant a message within an object in range — a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn't being worn or carried by another creature. Then speak the message, which must be 25 words or fewer, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
 
@@ -10259,10 +10259,10 @@ The trigger can be as general or as detailed as you like, though it must be base
 
 _Level 2 Transmutation (Paladin, Ranger, Sorcerer, Wizard)_
 
-**Casting Time:** Bonus Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** 1 hour
+- **Casting Time:** Bonus Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 1 hour
 
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls. The spell ends early if you cast it again.
 
@@ -10272,10 +10272,10 @@ _**Using a Higher-Level Spell Slot.**_ The bonus increases to +2 with a level 3-
 
 _Level 7 Conjuration (Bard, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** 300 feet
-**Components:** V, S, M (a miniature door worth 15+ GP)
-**Duration:** 24 hours
+- **Casting Time:** 1 minute
+- **Range:** 300 feet
+- **Components:** V, S, M (a miniature door worth 15+ GP)
+- **Duration:** 24 hours
 
 You conjure a shimmering door in range that lasts for the duration. The door leads to an extradimensional dwelling and is 5 feet wide and 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the door remains open. You can open or close it (no action required) if you are within 30 feet of it. While closed, the door is imperceptible.
 
@@ -10291,10 +10291,10 @@ When the spell ends, any creatures or objects left inside the extradimensional s
 
 _Level 3 Illusion (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a bit of fleece)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a bit of fleece)
+- **Duration:** Concentration, up to 10 minutes
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot Cube. The image appears at a spot that you can see within range and lasts for the duration. It seems real, including sounds, smells, and temperature appropriate to the thing depicted, but it can't deal damage or cause conditions.
 
@@ -10308,10 +10308,10 @@ _**Using a Higher-Level Spell Slot.**_ The spell lasts until dispelled, without 
 
 _Level 5 Abjuration (Bard, Cleric, Druid)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 plus your spellcasting ability modifier.
 
@@ -10321,10 +10321,10 @@ _**Using a Higher-Level Spell Slot.**_ The healing increases by 1d8 for each spe
 
 _Level 9 Abjuration (Cleric)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 A flood of healing energy flows from you into creatures around you. You restore up to 700 Hit Points, divided as you choose among any number of creatures that you can see within range. Creatures healed by this spell also have the Blinded, Deafened, and Poisoned conditions removed from them.
 
@@ -10332,10 +10332,10 @@ A flood of healing energy flows from you into creatures around you. You restore 
 
 _Level 3 Abjuration (Bard, Cleric)_
 
-**Casting Time:** Bonus Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Bonus Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 Up to six creatures of your choice that you can see within range regain Hit Points equal to 2d4 plus your spellcasting ability modifier.
 
@@ -10345,10 +10345,10 @@ _**Using a Higher-Level Spell Slot.**_ The healing increases by 1d4 for each spe
 
 _Level 6 Enchantment (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, M (a snake's tongue)
-**Duration:** 24 hours
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, M (a snake's tongue)
+- **Duration:** 24 hours
 
 You suggest a course of activity — described in no more than 25 words — to twelve or fewer creatures you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to any of the targets or their allies. For example, you could say, "Walk to the village down that road, and help the villagers there harvest crops until sunset." Or you could say, "Now is not the time for violence. Drop your weapons, and dance! Stop in an hour."
 
@@ -10360,10 +10360,10 @@ _**Using a Higher-Level Spell Slot.**_ The duration is longer with a spell slot 
 
 _Level 8 Conjuration (Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration or until it escapes the maze.
 
@@ -10375,10 +10375,10 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 _Level 3 Transmutation (Cleric, Druid, Ranger)_
 
-**Casting Time:** Action or Ritual
-**Range:** Touch
-**Components:** V, S
-**Duration:** 8 hours
+- **Casting Time:** Action or Ritual
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 8 hours
 
 You step into a stone object or surface large enough to fully contain your body, merging yourself and your equipment with the stone for the duration. You must touch the stone to do so. Nothing of your presence remains visible or otherwise detectable by nonmagical senses.
 
@@ -10390,10 +10390,10 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 
 _Transmutation Cantrip (Bard, Cleric, Druid, Sorcerer, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** Touch
-**Components:** V, S, M (two lodestones)
-**Duration:** Instantaneous
+- **Casting Time:** 1 minute
+- **Range:** Touch
+- **Components:** V, S, M (two lodestones)
+- **Duration:** Instantaneous
 
 This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
 
@@ -10403,10 +10403,10 @@ This spell can physically repair a magic item, but it can't restore magic to suc
 
 _Transmutation Cantrip (Bard, Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** S, M (a copper wire)
-**Duration:** 1 round
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** S, M (a copper wire)
+- **Duration:** 1 round
 
 You point toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
 
@@ -10416,10 +10416,10 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 _Level 9 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 1 mile
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 1 mile
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius Sphere centered on each of those points makes a Dexterity saving throw. A creature takes 20d6 Fire damage and 20d6 Bludgeoning damage on a failed save or half as much damage on a successful one. A creature in the area of more than one fiery Sphere is affected only once.
 
@@ -10429,10 +10429,10 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 _Level 8 Abjuration (Bard, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** 24 hours
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 24 hours
 
 Until the spell ends, one willing creature you touch has Immunity to Psychic damage and the Charmed condition. The target is also unaffected by anything that would sense its emotions or alignment, read its thoughts, or magically detect its location, and no spell — not even _Wish_ — can gather information about the target, observe it remotely, or control its mind.
 
@@ -10440,10 +10440,10 @@ Until the spell ends, one willing creature you touch has Immunity to Psychic dam
 
 _Level 2 Divination (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** S
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** S
+- **Duration:** Concentration, up to 1 hour
 
 You drive a spike of psionic energy into the mind of one creature you can see within range. The target makes a Wisdom saving throw, taking 3d8 Psychic damage on a failed save or half as much damage on a successful one. On a failed save, you also always know the target's location until the spell ends, but only while the two of you are on the same plane of existence. While you have this knowledge, the target can't become hidden from you, and if it has the Invisible condition, it gains no benefit from that condition against you.
 
@@ -10453,10 +10453,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Illusion Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** S, M (a bit of fleece)
-**Duration:** 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** S, M (a bit of fleece)
+- **Duration:** 1 minute
 
 You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.
 
@@ -10470,10 +10470,10 @@ _**Image.**_ If you create an image of an object — such as a chair, muddy foot
 
 _Level 7 Illusion (Bard, Druid, Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** Sight
-**Components:** V, S
-**Duration:** 10 days
+- **Casting Time:** 10 minutes
+- **Range:** Sight
+- **Components:** V, S
+- **Duration:** 10 days
 
 You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of terrain. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other rough or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
 
@@ -10487,10 +10487,10 @@ Creatures with Truesight can see through the illusion to the terrain's true form
 
 _Level 2 Illusion (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 minute
 
 Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real.
 
@@ -10502,10 +10502,10 @@ A creature is unaffected by this spell if it has the Blinded condition, Blindsig
 
 _Level 5 Illusion (Bard, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** S
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** S
+- **Duration:** Concentration, up to 1 hour
 
 You gain the Invisible condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
 
@@ -10517,10 +10517,10 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 _Level 2 Conjuration (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Bonus Action
-**Range:** Self
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Components:** V
+- **Duration:** Instantaneous
 
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.
 
@@ -10528,10 +10528,10 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 _Level 5 Enchantment (Bard, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You attempt to reshape another creature's memories. One creature that you can see within range makes a Wisdom saving throw. If you are fighting the creature, it has Advantage on the save. On a failed save, the target has the Charmed condition for the duration. While Charmed in this way, the target also has the Incapacitated condition and is unaware of its surroundings, though it can hear you. If it takes any damage or is targeted by another spell, this spell ends, and no memories are modified.
 
@@ -10549,10 +10549,10 @@ _**Using a Higher-Level Spell Slot.**_ You can alter the target's memories of an
 
 _Level 2 Evocation (Druid)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a moonseed leaf)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a moonseed leaf)
+- **Duration:** Concentration, up to 1 minute
 
 A silvery beam of pale light shines down in a 5-foot-radius, 40-foot-high Cylinder centered on a point within range. Until the spell ends, Dim Light fills the Cylinder, and you can take a Magic action on later turns to move the Cylinder up to 60 feet.
 
@@ -10564,10 +10564,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d10 for each spe
 
 _Level 6 Transmutation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a miniature shovel)
-**Duration:** Concentration, up to 2 hours
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a miniature shovel)
+- **Duration:** Concentration, up to 2 hours
 
 Choose an area of terrain no larger than 40 feet on a side within range. You can reshape dirt, sand, or clay in the area in any manner you choose for the duration. You can raise or lower the area's elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of any such changes can't exceed half the area's largest dimension. For example, if you affect a 40-foot square, you can create a pillar up to 20 feet high, raise or lower the square's elevation by up to 20 feet, dig a trench up to 20 feet deep, and so on. It takes 10 minutes for these changes to complete. Because the terrain's transformation occurs slowly, creatures in the area can't usually be trapped or injured by the ground's movement.
 
@@ -10581,10 +10581,10 @@ Similarly, this spell doesn't directly affect plant growth. The moved earth carr
 
 _Level 3 Abjuration (Bard, Ranger, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a pinch of diamond dust worth 25+ GP, which the spell consumes)
-**Duration:** 8 hours
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a pinch of diamond dust worth 25+ GP, which the spell consumes)
+- **Duration:** 8 hours
 
 For the duration, you hide a target that you touch from Divination spells. The target can be a willing creature, or it can be a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any Divination spell or perceived through magical scrying sensors.
 
@@ -10592,10 +10592,10 @@ For the duration, you hide a target that you touch from Divination spells. The t
 
 _Level 5 Transmutation (Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a pinch of sesame seeds)
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a pinch of sesame seeds)
+- **Duration:** 1 hour
 
 A passage appears at a point that you can see on a wooden, plaster, or stone surface (such as a wall, ceiling, or floor) within range and lasts for the duration. You choose the opening's dimensions: up to 5 feet wide, 8 feet tall, and 20 feet deep. The passage creates no instability in a structure surrounding it.
 
@@ -10605,10 +10605,10 @@ When the opening disappears, any creatures or objects still in the passage creat
 
 _Level 2 Abjuration (Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (ashes from burned mistletoe)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (ashes from burned mistletoe)
+- **Duration:** Concentration, up to 1 hour
 
 You radiate a concealing aura in a 30-foot Emanation for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity (Stealth) checks and leave no tracks.
 
@@ -10616,10 +10616,10 @@ You radiate a concealing aura in a 30-foot Emanation for the duration. While in 
 
 _Level 2 Illusion (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a bit of fleece)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a bit of fleece)
+- **Duration:** Concentration, up to 1 minute
 
 You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot Cube and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
 
@@ -10633,10 +10633,10 @@ An affected target can even take damage from the illusion if the phantasm repres
 
 _Level 4 Illusion (Bard, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You tap into the nightmares of a creature you can see within range and create an illusion of its deepest fears, visible only to that creature. The target makes a Wisdom saving throw. On a failed save, the target takes 4d10 Psychic damage and has Disadvantage on ability checks and attack rolls for the duration. On a successful save, the target takes half as much damage, and the spell ends.
 
@@ -10648,10 +10648,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d10 for each spe
 
 _Level 3 Illusion (Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** 1 hour
+- **Casting Time:** 1 minute or Ritual
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 hour
 
 A Large, quasi-real, horselike creature appears on the ground in an unoccupied space of your choice within range. You decide the creature's appearance, and it is equipped with a saddle, bit, and bridle. Any of the equipment created by the spell vanishes in a puff of smoke if it is carried more than 10 feet away from the steed.
 
@@ -10661,10 +10661,10 @@ For the duration, you or a creature you choose can ride the steed. The steed use
 
 _Level 6 Conjuration (Cleric)_
 
-**Casting Time:** 10 minutes
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** 10 minutes
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You beseech an otherworldly entity for aid. The being must be known to you: a god, a demon prince, or some other being of cosmic power. That entity sends a Celestial, an Elemental, or a Fiend loyal to it to aid you, making the creature appear in an unoccupied space within range. If you know a specific creature's name, you can speak that name when you cast this spell to request that creature, though you might get a different creature anyway (GM's choice).
 
@@ -10680,10 +10680,10 @@ After the creature completes the task, or when the agreed-upon duration of servi
 
 _Level 5 Abjuration (Bard, Cleric, Druid, Warlock, Wizard)_
 
-**Casting Time:** 1 hour
-**Range:** 60 feet
-**Components:** V, S, M (a jewel worth 1,000+ GP, which the spell consumes)
-**Duration:** 24 hours
+- **Casting Time:** 1 hour
+- **Range:** 60 feet
+- **Components:** V, S, M (a jewel worth 1,000+ GP, which the spell consumes)
+- **Duration:** 24 hours
 
 You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of the inverted version of the _Magic Circle_ spell to trap it while this spell is cast.) At the completion of the casting, the target must succeed on a Charisma saving throw or be bound to serve you for the duration. If the creature was summoned or created by another spell, that spell's duration is extended to match the duration of this spell.
 
@@ -10695,10 +10695,10 @@ _**Using a Higher-Level Spell Slot.**_ The duration increases with a spell slot 
 
 _Level 7 Conjuration (Cleric, Druid, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a forked, metal rod worth 250+ GP and attuned to a plane of existence)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a forked, metal rod worth 250+ GP and attuned to a plane of existence)
+- **Duration:** Instantaneous
 
 You and up to eight willing creatures who link hands in a circle are transported to a different plane of existence. You can specify a target destination in general terms, such as a specific city on the Elemental Plane of Fire or palace on the second level of the Nine Hells, and you appear in or near that destination, as determined by the GM.
 
@@ -10708,10 +10708,10 @@ Alternatively, if you know the sigil sequence of a teleportation circle on anoth
 
 _Level 3 Transmutation (Bard, Druid, Ranger)_
 
-**Casting Time:** Action (Overgrowth) or 8 hours (Enrichment)
-**Range:** 150 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action (Overgrowth) or 8 hours (Enrichment)
+- **Range:** 150 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below.
 
@@ -10723,10 +10723,10 @@ _**Enrichment.**_ All plants in a half-mile radius centered on a point within ra
 
 _Necromancy Cantrip (Druid, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
 
@@ -10736,10 +10736,10 @@ _**Cantrip Upgrade.**_ The damage increases by 1d12 when you reach levels 5 (2d1
 
 _Level 4 Transmutation (Bard, Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a caterpillar cocoon)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a caterpillar cocoon)
+- **Duration:** Concentration, up to 1 hour
 
 You attempt to transform a creature that you can see within range into a Beast. The target must succeed on a Wisdom saving throw or shape-shift into a Beast form for the duration. That form can be any Beast you choose that has a Challenge Rating equal to or less than the target's (or the target's level if it doesn't have a Challenge Rating). The target's game statistics are replaced by the stat block of the chosen Beast, but the target retains its alignment, personality, creature type, Hit Points, and Hit Point Dice. See the "Animals" section of "Monsters" for a sample of Beast stat blocks.
 
@@ -10753,10 +10753,10 @@ The target's gear melds into the new form. The creature can't use or otherwise b
 
 _Level 9 Enchantment (Bard, Cleric)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 A wave of healing energy washes over one creature you can see within range. The target regains all its Hit Points. If the creature has the Charmed, Frightened, Paralyzed, Poisoned, or Stunned condition, the condition ends. If the creature has the Prone condition, it can use its Reaction to stand up.
 
@@ -10764,10 +10764,10 @@ A wave of healing energy washes over one creature you can see within range. The 
 
 _Level 9 Enchantment (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 You compel one creature you can see within range to die. If the target has 100 Hit Points or fewer, it dies. Otherwise, it takes 12d12 Psychic damage.
 
@@ -10775,10 +10775,10 @@ You compel one creature you can see within range to die. If the target has 100 H
 
 _Level 8 Enchantment (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 You overwhelm the mind of one creature you can see within range. If the target has 150 Hit Points or fewer, it has the Stunned condition. Otherwise, its Speed is 0 until the start of your next turn.
 
@@ -10788,10 +10788,10 @@ The Stunned target makes a Constitution saving throw at the end of each of its t
 
 _Level 2 Abjuration (Cleric, Paladin)_
 
-**Casting Time:** 10 minutes
-**Range:** 30 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** 10 minutes
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a Short Rest and also regain 2d8 Hit Points. A creature can't be affected by this spell again until that creature finishes a Long Rest.
 
@@ -10801,10 +10801,10 @@ _**Using a Higher-Level Spell Slot.**_ The healing increases by 1d8 for each spe
 
 _Transmutation Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 10 feet
-**Components:** V, S
-**Duration:** Up to 1 hour
+- **Casting Time:** Action
+- **Range:** 10 feet
+- **Components:** V, S
+- **Duration:** Up to 1 hour
 
 You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.
 
@@ -10824,10 +10824,10 @@ _**Minor Creation.**_ You create a nonmagical trinket or an illusory image that 
 
 _Level 7 Evocation (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll 1d8 to determine which color ray affects it, consulting the table.
 
@@ -10846,10 +10846,10 @@ Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone 
 
 _Level 9 Abjuration (Bard, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 10 minutes
 
 A shimmering, multicolored plane of light forms a vertical opaque wall — up to 90 feet long, 30 feet high, and 1 inch thick — centered on a point within range. Alternatively, you shape the wall into a globe up to 30 feet in diameter centered on a point within range. The wall lasts for the duration. If you position the wall in a space occupied by a creature, the spell ends instantly without effect.
 
@@ -10873,10 +10873,10 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 
 _Level 4 Abjuration (Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** 120 feet
-**Components:** V, S, M (a thin sheet of lead)
-**Duration:** 24 hours
+- **Casting Time:** 10 minutes
+- **Range:** 120 feet
+- **Components:** V, S, M (a thin sheet of lead)
+- **Duration:** 24 hours
 
 You make an area within range magically secure. The area is a Cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration.
 
@@ -10897,10 +10897,10 @@ _**Using a Higher-Level Spell Slot.**_ You can increase the size of the Cube by 
 
 _Conjuration Cantrip (Druid)_
 
-**Casting Time:** Bonus Action
-**Range:** Self
-**Components:** V, S
-**Duration:** 10 minutes
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 10 minutes
 
 A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The spell ends if you cast it again.
 
@@ -10912,10 +10912,10 @@ _**Cantrip Upgrade.**_ The damage increases by 1d8 when you reach levels 5 (2d8)
 
 _Level 6 Illusion (Bard, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (jade dust worth 25+ GP)
-**Duration:** Until dispelled
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (jade dust worth 25+ GP)
+- **Duration:** Until dispelled
 
 You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific trigger occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot Cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
 
@@ -10929,10 +10929,10 @@ Physical interaction with the image reveals it to be illusory, since things can 
 
 _Level 7 Illusion (Bard, Wizard)_
 
-**Casting Time:** Action
-**Range:** 500 miles
-**Components:** V, S, M (a statuette of yourself worth 5+ GP)
-**Duration:** Concentration, up to 1 day
+- **Casting Time:** Action
+- **Range:** 500 miles
+- **Components:** V, S, M (a statuette of yourself worth 5+ GP)
+- **Duration:** Concentration, up to 1 day
 
 You create an illusory copy of yourself that lasts for the duration. The copy can appear at any location within range that you have seen before, regardless of intervening obstacles. The illusion looks and sounds like you, but it is intangible. If the illusion takes any damage, it disappears, and the spell ends.
 
@@ -10944,10 +10944,10 @@ Physical interaction with the image reveals it to be illusory, since things can 
 
 _Level 3 Abjuration (Cleric, Druid, Ranger, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
 
 For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
 
@@ -10955,10 +10955,10 @@ For the duration, the willing creature you touch has Resistance to one damage ty
 
 _Level 1 Abjuration (Cleric, Druid, Paladin, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes)
-**Duration:** Concentration up to 10 minutes
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a flask of Holy Water worth 25+ GP, which the spell consumes)
+- **Duration:** Concentration up to 10 minutes
 
 Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have Disadvantage on attack rolls against the target. The target also can't be possessed by or gain the Charmed or Frightened conditions from them. If the target is already possessed, Charmed, or Frightened by such a creature, the target has Advantage on any new saving throw against the relevant effect.
 
@@ -10966,10 +10966,10 @@ Until the spell ends, one willing creature you touch is protected against creatu
 
 _Level 2 Abjuration (Cleric, Druid, Paladin, Ranger)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 1 hour
 
 You touch a creature and end the Poisoned condition on it. For the duration, the target has Advantage on saving throws to avoid or end the Poisoned condition, and it has Resistance to Poison damage.
 
@@ -10977,10 +10977,10 @@ You touch a creature and end the Poisoned condition on it. For the duration, the
 
 _Level 1 Transmutation (Cleric, Druid, Paladin)_
 
-**Casting Time:** Action or Ritual
-**Range:** 10 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action or Ritual
+- **Range:** 10 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphere centered on a point within range.
 
@@ -10988,10 +10988,10 @@ You remove poison and rot from nonmagical food and drink in a 5-foot-radius Sphe
 
 _Level 5 Necromancy (Bard, Cleric, Paladin)_
 
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (a diamond worth 500+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (a diamond worth 500+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 With a touch, you revive a dead creature if it has been dead no longer than 10 days and it wasn't Undead when it died.
 
@@ -11005,10 +11005,10 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tes
 
 _Level 2 Necromancy (Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has Disadvantage on the next attack roll it makes until the start of your next turn.
 
@@ -11018,10 +11018,10 @@ On a failed save, the target has Disadvantage on Strength-based D20 Tests for th
 
 _Evocation Cantrip (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 Cold damage, and its Speed is reduced by 10 feet until the start of your next turn.
 
@@ -11031,10 +11031,10 @@ _**Cantrip Upgrade.**_ The damage increases by 1d8 when you reach levels 5 (2d8)
 
 _Level 7 Transmutation (Bard, Cleric, Druid)_
 
-**Casting Time:** 1 minute
-**Range:** Touch
-**Components:** V, S, M (a prayer wheel)
-**Duration:** 1 hour
+- **Casting Time:** 1 minute
+- **Range:** Touch
+- **Components:** V, S, M (a prayer wheel)
+- **Duration:** 1 hour
 
 A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target regains 1 Hit Point at the start of each of its turns, and any severed body parts regrow after 2 minutes.
 
@@ -11042,10 +11042,10 @@ A creature you touch regains 4d8 + 15 Hit Points. For the duration, the target r
 
 _Level 1 Necromancy (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 Poison damage and has the Poisoned condition until the end of your next turn.
 
@@ -11055,10 +11055,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 5 Necromancy (Druid)_
 
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (rare oils worth 1,000+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (rare oils worth 1,000+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 You touch a dead Humanoid or a piece of one. If the creature has been dead no longer than 10 days, the spell forms a new body for it and calls the soul to enter that body. Roll 1d10 and consult the table to determine the body's species, or the GM chooses another playable species.
 
@@ -11081,10 +11081,10 @@ The reincarnated creature makes any choices that a species' description offers, 
 
 _Level 3 Abjuration (Cleric, Paladin, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 
@@ -11092,10 +11092,10 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 _Level 4 Abjuration (Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a glass sphere)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a glass sphere)
+- **Duration:** Concentration, up to 1 minute
 
 A shimmering sphere encloses a Large or smaller creature or object within range. An unwilling creature must succeed on a Dexterity saving throw or be enclosed for the duration.
 
@@ -11109,10 +11109,10 @@ A _Disintegrate_ spell targeting the globe destroys it without harming anything 
 
 _Abjuration Cantrip (Cleric, Druid)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, Fire, Lightning, Necrotic, Piercing, Poison, Radiant, Slashing, or Thunder. When the creature takes damage of the chosen type before the spell ends, the creature reduces the total damage taken by 1d4. A creature can benefit from this spell only once per turn.
 
@@ -11120,10 +11120,10 @@ You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, 
 
 _Level 7 Necromancy (Bard, Cleric)_
 
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (a diamond worth 1,000+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 With a touch, you revive a dead creature that has been dead for no more than a century, didn't die of old age, and wasn't Undead when it died.
 
@@ -11137,10 +11137,10 @@ Casting this spell to revive a creature that has been dead for 365 days or longe
 
 _Level 7 Transmutation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 100 feet
-**Components:** V, S, M (a lodestone and iron filings)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 100 feet
+- **Components:** V, S, M (a lodestone and iron filings)
+- **Duration:** Concentration, up to 1 minute
 
 This spell reverses gravity in a 50-foot-radius, 100 foot high Cylinder centered on a point within range. All creatures and objects in that area that aren't anchored to the ground fall upward and reach the top of the Cylinder. A creature can make a Dexterity saving throw to grab a fixed object it can reach, thus avoiding the fall upward.
 
@@ -11150,10 +11150,10 @@ If a ceiling or an anchored object is encountered in this upward fall, creatures
 
 _Level 3 Necromancy (Cleric, Druid, Paladin, Ranger)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a diamond worth 300+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a diamond worth 300+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 You touch a creature that has died within the last minute. That creature revives with 1 Hit Point. This spell can't revive a creature that has died of old age, nor does it restore any missing body parts.
 
@@ -11161,10 +11161,10 @@ You touch a creature that has died within the last minute. That creature revives
 
 _Level 2 Transmutation (Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a segment of rope)
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a segment of rope)
+- **Duration:** 1 hour
 
 You touch a rope. One end of it hovers upward until the rope hangs perpendicular to the ground or the rope reaches a ceiling. At the rope's upper end, an Invisible 3-foot-by-5-foot portal opens to an extradimensional space that lasts until the spell ends. That space can be reached by climbing the rope, which can be pulled into or dropped out of it.
 
@@ -11174,10 +11174,10 @@ The space can hold up to eight Medium or smaller creatures. Attacks, spells, and
 
 _Evocation Cantrip (Cleric)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Dexterity saving throw or take 1d8 Radiant damage. The target gains no benefit from Half Cover or Three-Quarters Cover for this save.
 
@@ -11187,10 +11187,10 @@ _**Cantrip Upgrade.**_ The damage increases by 1d8 when you reach levels 5 (2d8)
 
 _Level 1 Abjuration (Cleric)_
 
-**Casting Time:** Bonus Action
-**Range:** 30 feet
-**Components:** V, S, M (a shard of glass from a mirror)
-**Duration:** 1 minute
+- **Casting Time:** Bonus Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a shard of glass from a mirror)
+- **Duration:** 1 minute
 
 You ward a creature within range. Until the spell ends, any creature who targets the warded creature with an attack roll or a damaging spell must succeed on a Wisdom saving throw or either choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from areas of effect. The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
 
@@ -11198,10 +11198,10 @@ You ward a creature within range. Until the spell ends, any creature who targets
 
 _Level 2 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 Fire damage.
 
@@ -11211,10 +11211,10 @@ _**Using a Higher-Level Spell Slot.**_ You create one additional ray for each sp
 
 _Level 5 Divination (Bard, Cleric, Druid, Warlock, Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** Self
-**Components:** V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** 10 minutes
+- **Range:** Self
+- **Components:** V, S, M (a focus worth 1,000+ GP, such as a crystal ball, mirror, or water-filled font)
+- **Duration:** Concentration, up to 10 minutes
 
 You can see and hear a creature you choose that is on the same plane of existence as you. The target makes a Wisdom saving throw, which is modified (see the tables below) by how well you know the target and the sort of physical connection you have to it. The target doesn't know what it is making the save against, only that it feels uneasy.
 
@@ -11240,10 +11240,10 @@ Instead of targeting a creature, you can target a location you have seen. When y
 
 _Level 1 Evocation (Paladin)_
 
-**Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
-**Range:** Self
-**Components:** V
-**Duration:** 1 minute
+- **Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
+- **Range:** Self
+- **Components:** V
+- **Duration:** 1 minute
 
 As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a Constitution saving throw. On a failed save, the spell continues. On a successful save, the spell ends.
 
@@ -11253,10 +11253,10 @@ _**Using a Higher-Level Spell Slot.**_ All the damage increases by 1d6 for each 
 
 _Level 4 Conjuration (Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth 5,000+ GP, and a Tiny replica of the chest made from the same materials worth 50+ GP)
-**Duration:** Until dispelled
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth 5,000+ GP, and a Tiny replica of the chest made from the same materials worth 50+ GP)
+- **Duration:** Until dispelled
 
 You hide a chest and all its contents on the Ethereal Plane. You must touch the chest and the miniature replica that serve as Material components for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
 
@@ -11268,10 +11268,10 @@ After 60 days, there is a cumulative 5 percent chance at the end of each day tha
 
 _Level 2 Divination (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a pinch of talc)
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a pinch of talc)
+- **Duration:** 1 hour
 
 For the duration, you see creatures and objects that have the Invisible condition as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
 
@@ -11279,10 +11279,10 @@ For the duration, you see creatures and objects that have the Invisible conditio
 
 _Level 5 Illusion (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** 8 hours
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 8 hours
 
 You give an illusory appearance to each creature of your choice that you can see within range. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by this spell.
 
@@ -11296,10 +11296,10 @@ A creature that takes the Study action to examine a target can make an Intellige
 
 _Level 3 Divination (Bard, Cleric, Wizard)_
 
-**Casting Time:** Action
-**Range:** Unlimited
-**Components:** V, S, M (a copper wire)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Unlimited
+- **Components:** V, S, M (a copper wire)
+- **Duration:** Instantaneous
 
 You send a short message of 25 words or fewer to a creature you have met or a creature described to you by someone who has met it. The target hears the message in its mind, recognizes you as the sender if it knows you, and can answer in a like manner immediately. The spell enables targets to understand the meaning of your message.
 
@@ -11311,10 +11311,10 @@ Upon receiving your message, a creature can block your ability to reach it again
 
 _Level 7 Transmutation (Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (gem dust worth 5,000+ GP, which the spell consumes)
-**Duration:** Until dispelled
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (gem dust worth 5,000+ GP, which the spell consumes)
+- **Duration:** Until dispelled
 
 With a touch, you magically sequester an object or a willing creature. For the duration, the target has the Invisible condition and can't be targeted by Divination spells, detected by magic, or viewed remotely with magic.
 
@@ -11326,10 +11326,10 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 _Level 9 Transmutation (Druid, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a jade circlet worth 1,500+ GP)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a jade circlet worth 1,500+ GP)
+- **Duration:** Concentration, up to 1 hour
 
 You shape-shift into another creature for the duration or until you take a Magic action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can't be a Construct or an Undead.
 
@@ -11343,10 +11343,10 @@ Upon shape-shifting, you determine whether your equipment drops to the ground or
 
 _Level 2 Evocation (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a chip of mica)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a chip of mica)
+- **Duration:** Instantaneous
 
 A loud noise erupts from a point of your choice within range. Each creature in a 10-foot-radius Sphere centered there makes a Constitution saving throw, taking 3d8 Thunder damage on a failed save or half as much damage on a successful one. A Construct has Disadvantage on the save.
 
@@ -11358,10 +11358,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 1 Abjuration (Sorcerer, Wizard)_
 
-**Casting Time:** Reaction, which you take when you are hit by an attack roll or targeted by the _Magic Missile_ spell
-**Range:** Self
-**Components:** V, S
-**Duration:** 1 round
+- **Casting Time:** Reaction, which you take when you are hit by an attack roll or targeted by the _Magic Missile_ spell
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 round
 
 An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from _Magic Missile_.
 
@@ -11369,10 +11369,10 @@ An imperceptible barrier of magical force protects you. Until the start of your 
 
 _Level 1 Abjuration (Cleric, Paladin)_
 
-**Casting Time:** Bonus Action
-**Range:** 60 feet
-**Components:** V, S, M (a prayer scroll)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Bonus Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a prayer scroll)
+- **Duration:** Concentration, up to 10 minutes
 
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
@@ -11380,10 +11380,10 @@ A shimmering field surrounds a creature of your choice within range, granting it
 
 _Transmutation Cantrip (Druid)_
 
-**Casting Time:** Bonus Action
-**Range:** Self
-**Components:** V, S, M (mistletoe)
-**Duration:** 1 minute
+- **Casting Time:** Bonus Action
+- **Range:** Self
+- **Components:** V, S, M (mistletoe)
+- **Duration:** 1 minute
 
 A Club or Quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. If the attack deals damage, it can be Force damage or the weapon's normal damage type (your choice).
 
@@ -11395,10 +11395,10 @@ _**Cantrip Upgrade.**_ The damage die changes when you reach levels 5 (d10), 11 
 
 _Level 2 Transmutation (Paladin)_
 
-**Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
-**Range:** Self
-**Components:** V
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Bonus Action, which you take immediately after hitting a creature with a Melee weapon or an Unarmed Strike
+- **Range:** Self
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
 
 The target hit by the strike takes an extra 2d6 Radiant damage from the attack. Until the spell ends, the target sheds Bright Light in a 5-foot radius, attack rolls against it have Advantage, and it can't benefit from the Invisible condition.
 
@@ -11408,10 +11408,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Evocation Cantrip (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
 
@@ -11421,10 +11421,10 @@ _**Cantrip Upgrade.**_ The damage increases by 1d8 when you reach levels 5 (2d8)
 
 _Level 2 Illusion (Bard, Cleric, Ranger)_
 
-**Casting Time:** Action or Ritual
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action or Ritual
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 For the duration, no sound can be created within or pass through a 20-foot-radius Sphere centered on a point you choose within range. Any creature or object entirely inside the Sphere has Immunity to Thunder damage, and creatures have the Deafened condition while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 
@@ -11432,10 +11432,10 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 _Level 1 Illusion (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a bit of fleece)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a bit of fleece)
+- **Duration:** Concentration, up to 10 minutes
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot Cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn't accompanied by sound, smell, or other sensory effects.
 
@@ -11447,10 +11447,10 @@ Physical interaction with the image reveals it to be an illusion, since things c
 
 _Level 7 Illusion (Wizard)_
 
-**Casting Time:** 12 hours
-**Range:** Touch
-**Components:** V, S, M (powdered ruby worth 1,500+ GP, which the spell consumes)
-**Duration:** Until dispelled
+- **Casting Time:** 12 hours
+- **Range:** Touch
+- **Components:** V, S, M (powdered ruby worth 1,500+ GP, which the spell consumes)
+- **Duration:** Until dispelled
 
 You create a simulacrum of one Beast or Humanoid that is within 10 feet of you for the entire casting of the spell. You finish the casting by touching both the creature and a pile of ice or snow that is the same size as that creature, and the pile turns into the simulacrum, which is a creature. It uses the game statistics of the original creature at the time of casting, except it is a Construct, its Hit Point maximum is half as much, and it can't cast this spell.
 
@@ -11464,10 +11464,10 @@ The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts t
 
 _Level 1 Enchantment (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a pinch of sand or rose petals)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a pinch of sand or rose petals)
+- **Duration:** Concentration, up to 1 minute
 
 Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the Incapacitated condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the Unconscious condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.
 
@@ -11477,10 +11477,10 @@ Creatures that don't sleep, such as elves, or that have Immunity to the Exhausti
 
 _Level 3 Conjuration (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (a miniature umbrella)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a miniature umbrella)
+- **Duration:** Concentration, up to 1 minute
 
 Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius Cylinder centered on a point you choose within range. The area is Heavily Obscured, and exposed flames in the area are doused.
 
@@ -11492,10 +11492,10 @@ Dexterity saving throw or have the Prone condition and lose Concentration.
 
 _Level 3 Transmutation (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a drop of molasses)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a drop of molasses)
+- **Duration:** Concentration, up to 1 minute
 
 You alter time around up to six creatures of your choice in a 40-foot Cube within range. Each target must succeed on a Wisdom saving throw or be affected by this spell for the duration.
 
@@ -11507,10 +11507,10 @@ An affected target repeats the save at the end of each of its turns, ending the 
 
 _Evocation Cantrip (Sorcerer)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You cast sorcerous energy at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 damage of a type you choose: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.
 
@@ -11522,10 +11522,10 @@ _**Cantrip Upgrade.**_ The damage increases by 1d8 when you reach levels 5 (2d8)
 
 _Necromancy Cantrip (Cleric, Druid)_
 
-**Casting Time:** Action
-**Range:** 15 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 15 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 Choose a creature within range that has 0 Hit Points and isn't dead. The creature becomes Stable.
 
@@ -11535,10 +11535,10 @@ _**Cantrip Upgrade.**_ The range doubles when you reach levels 5 (30 feet), 11 (
 
 _Level 1 Divination (Bard, Druid, Ranger, Warlock)_
 
-**Casting Time:** Action or Ritual
-**Range:** Self
-**Components:** V, S
-**Duration:** 10 minutes
+- **Casting Time:** Action or Ritual
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 10 minutes
 
 For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them.
 
@@ -11548,10 +11548,10 @@ Most Beasts have little to say about topics that don't pertain to survival or co
 
 _Level 3 Necromancy (Bard, Cleric, Wizard)_
 
-**Casting Time:** Action
-**Range:** 10 feet
-**Components:** V, S, M (burning incense)
-**Duration:** 10 minutes
+- **Casting Time:** Action
+- **Range:** 10 feet
+- **Components:** V, S, M (burning incense)
+- **Duration:** 10 minutes
 
 You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days.
 
@@ -11561,10 +11561,10 @@ Until the spell ends, you can ask the corpse up to five questions. The corpse kn
 
 _Level 3 Transmutation (Bard, Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** 10 minutes
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 10 minutes
 
 You imbue plants in an immobile 30-foot Emanation with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
 
@@ -11578,10 +11578,10 @@ If a Plant creature is in the area, you can communicate with it as if you shared
 
 _Level 2 Transmutation (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a drop of bitumen and a spider)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a drop of bitumen and a spider)
+- **Duration:** Concentration, up to 1 hour
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and along ceilings, while leaving its hands free. The target also gains a Climb Speed equal to its Speed.
 
@@ -11591,10 +11591,10 @@ _**Using a Higher-Level Spell Slot.**_ You can target one additional creature fo
 
 _Level 2 Transmutation (Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (seven thorns)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (seven thorns)
+- **Duration:** Concentration, up to 10 minutes
 
 The ground in a 20-foot-radius Sphere centered on a point within range sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature moves into or within the area, it takes 2d4 Piercing damage for every 5 feet it travels.
 
@@ -11604,10 +11604,10 @@ The transformation of the ground is camouflaged to look natural. Any creature th
 
 _Level 3 Conjuration (Cleric)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a prayer scroll)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a prayer scroll)
+- **Duration:** Concentration, up to 10 minutes
 
 Protective spirits flit around you in a 15-foot Emanation for the duration. If you are good or neutral, their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.
 
@@ -11619,10 +11619,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 2 Evocation (Cleric)_
 
-**Casting Time:** Bonus Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Bonus Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration. The force appears within range in a space of your choice, and you can immediately make one melee spell attack against one creature within 5 feet of the force. On a hit, the target takes Force damage equal to 1d8 plus your spellcasting ability modifier.
 
@@ -11634,10 +11634,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for every slo
 
 _Evocation Cantrip (Bard, Druid)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Radiant damage, and until the end of your next turn, it emits Dim Light in a 10-foot radius and can't benefit from the Invisible condition.
 
@@ -11647,10 +11647,10 @@ _**Cantrip Upgrade.**_ The damage increases by 1d8 when you reach levels 5 (2d8)
 
 _Level 3 Conjuration (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S, M (a rotten egg)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S, M (a rotten egg)
+- **Duration:** Concentration, up to 1 minute
 
 You create a 20-foot-radius Sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by _Gust of Wind_) disperses it.
 
@@ -11660,10 +11660,10 @@ Each creature that starts its turn in the Sphere must succeed on a Constitution 
 
 _Level 4 Transmutation (Cleric, Druid, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (soft clay)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (soft clay)
+- **Duration:** Instantaneous
 
 You touch a stone object of Medium size or smaller or a section of stone no more than 5 feet in any dimension and form it into any shape you like. For example, you could shape a large rock into a weapon, statue, or coffer, or you could make a small passage through a wall that is 5 feet thick. You could also shape a stone door or its frame to seal the door shut. The object you create can have up to two hinges and a latch, but finer mechanical detail isn't possible.
 
@@ -11671,10 +11671,10 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 _Level 4 Transmutation (Druid, Ranger, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (diamond dust worth 100+ GP, which the spell consumes)
+- **Duration:** Concentration, up to 1 hour
 
 Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
 
@@ -11682,10 +11682,10 @@ Until the spell ends, one willing creature you touch has Resistance to Bludgeoni
 
 _Level 9 Conjuration (Druid)_
 
-**Casting Time:** Action
-**Range:** 1 mile
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 1 mile
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take 2d6 Thunder damage and have the Deafened condition for the duration.
 
@@ -11703,10 +11703,10 @@ _**Turns 5-10.**_ Gusts and freezing rain assail the area under the cloud. Each 
 
 _Level 2 Enchantment (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, M (a drop of honey)
-**Duration:** Concentration, up to 8 hours
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, M (a drop of honey)
+- **Duration:** Concentration, up to 8 hours
 
 You suggest a course of activity — described in no more than 25 words — to one creature you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to the target or its allies. For example, you could say, "Fetch the key to the cult's treasure vault, and give the key to me." Or you could say, "Stop fighting, leave this library peacefully, and don't return."
 
@@ -11716,10 +11716,10 @@ The target must succeed on a Wisdom saving throw or have the Charmed condition f
 
 _Level 5 Conjuration (Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)
+- **Duration:** Concentration, up to 1 hour
 
 You call forth a Dragon spirit. It manifests in an unoccupied space that you can see within range and uses the **Draconic Spirit** stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
@@ -11731,9 +11731,9 @@ _**Using a Higher-Level Spell Slot.**_ Use the spell slot's level for the spell'
 
 _Large Dragon, Neutral_
 
-**AC** 14 + the spell's level
-**HP** 50 + 10 for each spell level above 5
-**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 14 + the spell's level
+- **HP** 50 + 10 for each spell level above 5
+- **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -11741,14 +11741,14 @@ _Large Dragon, Neutral_
 | **Modifier**     |     +4 |     +2 |     +3 |     +0 |     +2 |     +2 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     +0 |     +2 |     +2 |
 
-**Resistances** Acid, Cold, Fire, Lightning, Poison
-**Immunities** Charmed, Frightened, Poisoned
-**Senses** Blindsight 30 ft., Darkvision 60 ft.;
+- **Resistances** Acid, Cold, Fire, Lightning, Poison
+- **Immunities** Charmed, Frightened, Poisoned
+- **Senses** Blindsight 30 ft., Darkvision 60 ft.;
 
 Passive Perception 12
 
-**Languages** Draconic, understands the languages you know
-**CR** None (XP 0; PB equals your Proficiency Bonus)
+- **Languages** Draconic, understands the languages you know
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ##### Traits
 
@@ -11766,10 +11766,10 @@ _**Breath Weapon.**_ _Dexterity Saving Throw:_ DC equals your spell save DC, eac
 
 _Level 6 Evocation (Cleric, Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a magnifying glass)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a magnifying glass)
+- **Duration:** Concentration, up to 1 minute
 
 You launch a sunbeam in a 5-foot-wide, 60-foot-long Line. Each creature in the Line makes a Constitution saving throw. On a failed save, a creature takes 6d8 Radiant damage and has the Blinded condition until the start of your next turn. On a successful save, it takes half as much damage only.
 
@@ -11781,10 +11781,10 @@ For the duration, a mote of brilliant radiance shines above you. It sheds Bright
 
 _Level 8 Evocation (Cleric, Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (a piece of sunstone)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a piece of sunstone)
+- **Duration:** Instantaneous
 
 Brilliant sunlight flashes in a 60-foot-radius Sphere centered on a point you choose within range. Each creature in the Sphere makes a Constitution saving throw. On a failed save, a creature takes 12d6 Radiant damage and has the Blinded condition for 1 minute. On a successful save, it takes half as much damage only.
 
@@ -11796,10 +11796,10 @@ This spell dispels Darkness in its area that was created by any spell.
 
 _Level 7 Abjuration (Bard, Cleric, Druid, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** Touch
-**Components:** V, S, M (powdered diamond worth 1,000+ GP, which the spell consumes)
-**Duration:** Until dispelled or triggered
+- **Casting Time:** 1 minute
+- **Range:** Touch
+- **Components:** V, S, M (powdered diamond worth 1,000+ GP, which the spell consumes)
+- **Duration:** Until dispelled or triggered
 
 You inscribe a harmful glyph either on a surface (such as a section of floor or wall) or within an object that can be closed (such as a book or chest). The glyph can cover an area no larger than 10 feet in diameter. If you choose an object, it must remain in place; if it is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
@@ -11829,10 +11829,10 @@ _**Stunning.**_ Each target must succeed on a Wisdom saving throw or have the St
 
 _Level 5 Transmutation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell and as a Magic action on your later turns before the spell ends, you can exert your will on one creature or object that you can see within range, causing the appropriate effect below. You can affect the same target round after round or choose a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
 
@@ -11848,10 +11848,10 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 _Level 5 Divination (Bard, Wizard)_
 
-**Casting Time:** Action or Ritual
-**Range:** 30 feet
-**Components:** V, S, M (two eggs)
-**Duration:** 1 hour
+- **Casting Time:** Action or Ritual
+- **Range:** 30 feet
+- **Components:** V, S, M (two eggs)
+- **Duration:** 1 hour
 
 You forge a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures that can't communicate in any languages aren't affected by this spell.
 
@@ -11861,10 +11861,10 @@ Until the spell ends, the targets can communicate telepathically through the bon
 
 _Level 7 Conjuration (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 10 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 10 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 This spell instantly transports you and up to eight willing creatures that you can see within range, or a single object that you can see within range, to a destination you select. If you target an object, it must be Large or smaller, and it can't be held or carried by an unwilling creature.
 
@@ -11900,10 +11900,10 @@ _**On Target.**_ You and your group (or the target object) appear where you inte
 
 _Level 5 Conjuration (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** 10 feet
-**Components:** V, M (rare inks worth 50+ GP, which the spell consumes)
-**Duration:** 1 round
+- **Casting Time:** 1 minute
+- **Range:** 10 feet
+- **Components:** V, M (rare inks worth 50+ GP, which the spell consumes)
+- **Duration:** 1 round
 
 As you cast the spell, you draw a 5-foot-radius circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next turn. Any creature that enters the portal instantly appears within 5 feet of the destination circle or in the nearest unoccupied space if that space is occupied.
 
@@ -11917,10 +11917,10 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 _Transmutation Cantrip (Cleric)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V
-**Duration:** Up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** Up to 1 minute
 
 You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.
 
@@ -11940,10 +11940,10 @@ _**Tremors.**_ You cause harmless tremors in the ground for 1 minute.
 
 _Level 1 Evocation (Bard, Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You unleash a wave of thunderous energy. Each creature in a 15-foot Cube originating from you makes a Constitution saving throw. On a failed save, a creature takes 2d8 Thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage only.
 
@@ -11955,10 +11955,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 9 Transmutation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V
+- **Duration:** Instantaneous
 
 You briefly stop the flow of time for everyone but yourself. No time passes for other creatures, while you take 1d4 + 1 turns in a row, during which you can use actions and move as normal.
 
@@ -11968,10 +11968,10 @@ This spell ends if one of the actions you use during this period, or any effects
 
 _Level 3 Evocation (Bard, Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Self
-**Components:** V, S, M (a crystal bead)
-**Duration:** 8 hours
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Self
+- **Components:** V, S, M (a crystal bead)
+- **Duration:** 8 hours
 
 A 10-foot Emanation springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the Emanation isn't big enough to fully encapsulate all creatures in its area.
 
@@ -11985,10 +11985,10 @@ The spell ends early if you leave the Emanation or if you cast it again.
 
 _Level 3 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, M (a miniature ziggurat)
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, M (a miniature ziggurat)
+- **Duration:** 1 hour
 
 This spell grants the creature you touch the ability to understand any spoken or signed language that it hears or sees. Moreover, when the target communicates by speaking or signing, any creature that knows at least one language can understand it if that creature can hear the speech or see the signing.
 
@@ -11996,10 +11996,10 @@ This spell grants the creature you touch the ability to understand any spoken or
 
 _Level 6 Conjuration (Druid)_
 
-**Casting Time:** Action
-**Range:** 10 feet
-**Components:** V, S
-**Duration:** 1 minute
+- **Casting Time:** Action
+- **Range:** 10 feet
+- **Components:** V, S
+- **Duration:** 1 minute
 
 This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
 
@@ -12007,10 +12007,10 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 _Level 5 Conjuration (Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You gain the ability to enter a tree and move from inside it to inside another tree of the same kind within 500 feet. Both trees must be living and at least the same size as you. You must use 5 feet of movement to enter a tree. You instantly know the location of all other trees of the same kind within 500 feet and, as part of the move used to enter the tree, can either pass into one of those trees or step out of the tree you're in. You appear in a spot of your choice within 5 feet of the destination tree, using another 5 feet of movement. If you have no movement left, you appear within 5 feet of the tree you entered.
 
@@ -12020,10 +12020,10 @@ You can use this transportation ability only once on each of your turns. You mus
 
 _Level 9 Transmutation (Bard, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a drop of mercury, a dollop of gum arabic, and a wisp of smoke)
+- **Duration:** Concentration, up to 1 hour
 
 Choose one creature or nonmagical object that you can see within range. The creature shape-shifts into a different creature or a nonmagical object, or the object shape-shifts into a creature (the object must be neither worn nor carried). The transformation lasts for the duration or until the target dies or is destroyed, but if you maintain Concentration on this spell for the full duration, the spell lasts until dispelled.
 
@@ -12047,10 +12047,10 @@ _**Creature into Object.**_ If you turn a creature into an object, it transforms
 
 _Level 9 Necromancy (Cleric, Druid)_
 
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (diamonds worth 25,000+ GP, which the spell consumes)
-**Duration:** Instantaneous
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (diamonds worth 25,000+ GP, which the spell consumes)
+- **Duration:** Instantaneous
 
 You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. The creature is revived with all its Hit Points.
 
@@ -12062,10 +12062,10 @@ The spell can provide a new body if the original no longer exists, in which case
 
 _Level 6 Divination (Bard, Cleric, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (mushroom powder worth 25+ GP, which the spell consumes)
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (mushroom powder worth 25+ GP, which the spell consumes)
+- **Duration:** 1 hour
 
 For the duration, the willing creature you touch has Truesight with a range of 120 feet.
 
@@ -12073,10 +12073,10 @@ For the duration, the willing creature you touch has Truesight with a range of 1
 
 _Divination Cantrip (Bard, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** S, M (a weapon with which you have proficiency and that is worth 1+ CP)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** S, M (a weapon with which you have proficiency and that is worth 1+ CP)
+- **Duration:** Instantaneous
 
 Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using Strength or Dexterity. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice).
 
@@ -12086,10 +12086,10 @@ _**Cantrip Upgrade.**_ Whether you deal Radiant damage or the weapon's normal da
 
 _Level 8 Conjuration (Druid)_
 
-**Casting Time:** 1 minute
-**Range:** 1 mile
-**Components:** V, S
-**Duration:** Concentration, up to 6 rounds
+- **Casting Time:** 1 minute
+- **Range:** 1 mile
+- **Components:** V, S
+- **Duration:** Concentration, up to 6 rounds
 
 A wall of water springs into existence at a point you choose within range. You can make the wall up to 300 feet long, 300 feet high, and 50 feet thick. The wall lasts for the duration.
 
@@ -12103,10 +12103,10 @@ A creature caught in the wall can move by swimming. Because of the wave's force,
 
 _Level 1 Conjuration (Bard, Warlock, Wizard)_
 
-**Casting Time:** Action or Ritual
-**Range:** 60 feet
-**Components:** V, S, M (a bit of string and of wood)
-**Duration:** 1 hour
+- **Casting Time:** Action or Ritual
+- **Range:** 60 feet
+- **Components:** V, S, M (a bit of string and of wood)
+- **Duration:** 1 hour
 
 This spell creates an Invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 Hit Point, and a Strength of 2, and it can't attack. If it drops to 0 Hit Points, the spell ends.
 
@@ -12118,10 +12118,10 @@ If you command the servant to perform a task that would move it more than 60 fee
 
 _Level 3 Necromancy (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Make a melee spell attack against one creature within reach. On a hit, the target takes 3d6 Necrotic damage, and you regain Hit Points equal to half the amount of Necrotic damage dealt.
 
@@ -12133,10 +12133,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d6 for each spel
 
 _Enchantment Cantrip (Bard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a Wisdom saving throw or take 1d6 Psychic damage and have Disadvantage on the next attack roll it makes before the end of its next turn.
 
@@ -12146,10 +12146,10 @@ _**Cantrip Upgrade.**_ The damage increases by 1d6 when you reach levels 5 (2d6)
 
 _Level 4 Evocation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (a drop of bile)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a drop of bile)
+- **Duration:** Instantaneous
 
 You point at a location within range, and a glowing, 1-foot-diameter ball of acid streaks there and explodes in a 20-foot-radius Sphere. Each creature in that area makes a Dexterity saving throw. On a failed save, a creature takes 10d4 Acid damage and another 5d4 Acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage only.
 
@@ -12159,10 +12159,10 @@ _**Using a Higher-Level Spell Slot.**_ The initial damage increases by 2d4 for e
 
 _Level 4 Evocation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a piece of charcoal)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a piece of charcoal)
+- **Duration:** Concentration, up to 1 minute
 
 You create a wall of fire on a solid surface within range. You can make the wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque and lasts for the duration.
 
@@ -12176,10 +12176,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage increases by 1d8 for each spel
 
 _Level 5 Evocation (Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a shard of glass)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a shard of glass)
+- **Duration:** Concentration, up to 10 minutes
 
 An Invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick and lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side).
 
@@ -12189,10 +12189,10 @@ Nothing can physically pass through the wall. It is immune to all damage and can
 
 _Level 6 Evocation (Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a piece of quartz)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a piece of quartz)
+- **Duration:** Concentration, up to 10 minutes
 
 You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a globe with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-square panels. Each panel must be contiguous with another panel. In any form, the wall is 1 foot thick and lasts for the duration.
 
@@ -12208,10 +12208,10 @@ _**Using a Higher-Level Spell Slot.**_ The damage the wall deals when it appears
 
 _Level 5 Evocation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a cube of granite)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a cube of granite)
+- **Duration:** Concentration, up to 10 minutes
 
 A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10-footby-20-foot panels that are only 3 inches thick.
 
@@ -12229,10 +12229,10 @@ If you maintain your Concentration on this spell for its full duration, the wall
 
 _Level 6 Conjuration (Druid)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a handful of thorns)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a handful of thorns)
+- **Duration:** Concentration, up to 10 minutes
 
 You create a wall of tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick. The wall blocks line of sight.
 
@@ -12246,10 +12246,10 @@ _**Using a Higher-Level Spell Slot.**_ Both types of damage increase by 1d8 for 
 
 _Level 2 Abjuration (Cleric, Paladin)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration)
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration)
+- **Duration:** 1 hour
 
 You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to AC and saving throws, and it has Resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
 
@@ -12259,10 +12259,10 @@ The spell ends if you drop to 0 Hit Points or if you and the target become separ
 
 _Level 3 Transmutation (Druid, Ranger, Sorcerer, Wizard)_
 
-**Casting Time:** Action or Ritual
-**Range:** 30 feet
-**Components:** V, S, M (a short reed)
-**Duration:** 24 hours
+- **Casting Time:** Action or Ritual
+- **Range:** 30 feet
+- **Components:** V, S, M (a short reed)
+- **Duration:** 24 hours
 
 This spell grants up to ten willing creatures of your choice within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
 
@@ -12270,10 +12270,10 @@ This spell grants up to ten willing creatures of your choice within range the ab
 
 _Level 3 Transmutation (Cleric, Druid, Ranger, Sorcerer)_
 
-**Casting Time:** Action or Ritual
-**Range:** 30 feet
-**Components:** V, S, M (a piece of cork)
-**Duration:** 1 hour
+- **Casting Time:** Action or Ritual
+- **Range:** 30 feet
+- **Components:** V, S, M (a piece of cork)
+- **Duration:** 1 hour
 
 This spell grants the ability to move across any liquid surface — such as water, acid, mud, snow, quicksand, or lava — as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat). Up to ten willing creatures of your choice within range gain this ability for the duration.
 
@@ -12283,10 +12283,10 @@ An affected target must take a Bonus Action to pass from the liquid's surface in
 
 _Level 2 Conjuration (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a bit of spiderweb)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a bit of spiderweb)
+- **Duration:** Concentration, up to 1 hour
 
 You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot Cube there for the duration. The webs are Difficult Terrain, and the area within them is Lightly Obscured.
 
@@ -12302,10 +12302,10 @@ The webs are flammable. Any 5-foot Cube of webs exposed to fire burns away in 1 
 
 _Level 9 Illusion (Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius Sphere centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes 10d10 Psychic damage and has the Frightened condition for the duration. On a successful save, a target takes half as much damage only.
 
@@ -12315,10 +12315,10 @@ A Frightened target makes a Wisdom saving throw at the end of each of its turns.
 
 _Level 6 Transmutation (Druid)_
 
-**Casting Time:** 1 minute
-**Range:** 30 feet
-**Components:** V, S, M (a candle)
-**Duration:** 8 hours
+- **Casting Time:** 1 minute
+- **Range:** 30 feet
+- **Components:** V, S, M (a candle)
+- **Duration:** 8 hours
 
 You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a Fly Speed of 300 feet and can hover; it has Immunity to the Prone condition; and it has Resistance to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the Dash action or a Magic action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the Stunned condition. Until the spell ends, the target can revert to cloud form, which also requires a Magic action followed by a 1-minute transformation.
 
@@ -12328,10 +12328,10 @@ If a target is in cloud form and flying when the effect ends, the target descend
 
 _Level 3 Evocation (Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a fan and a feather)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a fan and a feather)
+- **Duration:** Concentration, up to 1 minute
 
 A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.
 
@@ -12343,10 +12343,10 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 
 _Level 9 Conjuration (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V
+- **Duration:** Instantaneous
 
 _Wish_ is the mightiest spell a mortal can cast. By simply speaking aloud, you can alter reality itself.
 
@@ -12368,10 +12368,10 @@ The stress of casting _Wish_ to produce any effect other than duplicating anothe
 
 _Level 6 Conjuration (Cleric)_
 
-**Casting Time:** Action
-**Range:** 5 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 5 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and any creatures that teleport with you appear in the nearest unoccupied space to the spot you designated when you prepared your sanctuary (see below). If you cast this spell without first preparing a sanctuary, the spell has no effect.
 
@@ -12381,10 +12381,10 @@ You must designate a location, such as a temple, as a sanctuary by casting this 
 
 _Level 2 Enchantment (Bard, Cleric, Paladin)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** 10 minutes
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 10 minutes
 
 You create a magical zone that guards against deception in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.
 
@@ -13938,8 +13938,8 @@ Traps are presented in alphabetical order.
 
 _Deadly Trap (Levels 1-4)_
 
-**Trigger:** A creature crosses a trip wire
-**Duration:** Instantaneous
+- **Trigger:** A creature crosses a trip wire
+- **Duration:** Instantaneous
 
 This trap uses a trip wire to collapse an unstable section of ceiling. The trip wire is 3 inches off the ground and stretches between two weak supports that topple when the trip wire is pulled.
 
@@ -13959,8 +13959,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing t
 
 _Nuisance Trap (Levels 1-4)_
 
-**Trigger:** A creature crosses a trip wire
-**Duration:** Instantaneous
+- **Trigger:** A creature crosses a trip wire
+- **Duration:** Instantaneous
 
 A falling net trap uses a trip wire to release a weighted, 10-foot-square Net suspended from the ceiling. The trip wire is 3 inches off the ground and stretches between two columns or trees.
 
@@ -13978,8 +13978,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing t
 
 _Deadly Trap (Levels 1-4)_
 
-**Trigger:** A creature moves onto a pressure plate
-**Duration:** Instantaneous, and the trap resets at the start of the next turn
+- **Trigger:** A creature moves onto a pressure plate
+- **Duration:** Instantaneous, and the trap resets at the start of the next turn
 
 When a creature moves onto this trap's pressure plate for the first time on a turn or starts its turn there, a nearby statue exhales a 15-foot Cone of magical flame. The statue can look like anything, such as a dragon or a wizard. Each creature in the Cone must succeed on a DC 15 Dexterity saving throw, taking 11 (2d10) Fire damage on a failed save or half as much damage on a successful one.
 
@@ -13999,8 +13999,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing t
 
 _Nuisance Trap (Levels 1-4)_
 
-**Trigger:** A creature moves onto the pit's lid
-**Duration:** Instantaneous
+- **Trigger:** A creature moves onto the pit's lid
+- **Duration:** Instantaneous
 
 This 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit. The lid remains open thereafter.
 
@@ -14022,8 +14022,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing t
 
 _Deadly Trap (Levels 1-4)_
 
-**Trigger:** A creature moves onto a pressure plate
-**Duration:** Instantaneous, and the trap resets at the start of the next turn if it has activated fewer than three times
+- **Trigger:** A creature moves onto a pressure plate
+- **Duration:** Instantaneous, and the trap resets at the start of the next turn if it has activated fewer than three times
 
 When a creature moves onto this trap's pressure plate for the first time on a turn, poisoned darts shoot from tubes embedded in the surrounding walls. The holes that house these tubes are obscured by dust and cobwebs or skillfully hidden amid bas-reliefs, murals, or frescoes.
 
@@ -14039,8 +14039,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing e
 
 _Nuisance Trap (Levels 1-4)_
 
-**Trigger:** A creature opens the trap's lock improperly or fails to disarm the trap
-**Duration:** Instantaneous
+- **Trigger:** A creature opens the trap's lock improperly or fails to disarm the trap
+- **Duration:** Instantaneous
 
 A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes 5 (1d10) Poison damage and has the Poisoned condition for 1 hour. On a successful save, the creature takes half as much damage only.
 
@@ -14060,8 +14060,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing t
 
 _Deadly Trap (Levels 11-16) or Nuisance Trap (Levels 17-20)_
 
-**Trigger:** A creature moves onto a pressure plate
-**Duration:** Until the stone stops rolling
+- **Trigger:** A creature moves onto a pressure plate
+- **Duration:** Until the stone stops rolling
 
 When a creature moves onto a hidden pressure plate, a 5-foot-radius orb of solid stone is released from a secret compartment and begins to roll. The stone and all creatures nearby roll Initiative; the stone gets a +8 bonus on its Initiative roll.
 
@@ -14079,8 +14079,8 @@ _**Slow the Stone.**_ As an action, a creature can try to slow down the stone wi
 
 _Deadly Trap (Levels 1-4)_
 
-**Trigger:** A creature moves onto the pit's lid
-**Duration:** Instantaneous
+- **Trigger:** A creature moves onto the pit's lid
+- **Duration:** Instantaneous
 
 A 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit, which has sharpened wooden or metal spikes at the bottom. The lid remains open thereafter.
 
@@ -15402,10 +15402,10 @@ _**Silver Raven (Uncommon).**_ This silver statuette of a raven can become a **R
 
 _Large Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 19 (3d10 + 3)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 19 (3d10 + 3)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -15413,9 +15413,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +2 |     +1 |     +1 |     -4 |     +0 |     -4 |
 | **Saving Throw** |     +2 |     +1 |     +1 |     -4 |     +0 |     -4 |
 
-**Senses** Darkvision 60 ft., Passive Perception 10
-**Languages** None
-**CR** 0 (XP 0; PB +2)
+- **Senses** Darkvision 60 ft., Passive Perception 10
+- **Languages** None
+- **CR** 0 (XP 0; PB +2)
 
 ### Flame Tongue
 
@@ -15963,10 +15963,10 @@ _**Void.**_ Your soul is drawn from your body and contained in an object in a pl
 
 _Medium Undead, Neutral evil_
 
-**AC** 20
-**Initiative** +3 (13)
-**HP** Half the HP maximum of its summoner
-**Speed** 60 ft., Fly 60 ft. (hover)
+- **AC** 20
+- **Initiative** +3 (13)
+- **HP** Half the HP maximum of its summoner
+- **Speed** 60 ft., Fly 60 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -15974,10 +15974,10 @@ _Medium Undead, Neutral evil_
 | **Modifier**     |     +3 |     +3 |     +3 |     +3 |     +3 |     +3 |
 | **Saving Throw** |     +3 |     +3 |     +3 |     +3 |     +3 |     +3 |
 
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned, Unconscious
-**Senses** Truesight 60 ft., Passive Perception 13
-**Languages** All languages known to its summoner
-**CR** None (XP 0; PB equals its summoner's)
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned, Unconscious
+- **Senses** Truesight 60 ft., Passive Perception 13
+- **Languages** All languages known to its summoner
+- **CR** None (XP 0; PB equals its summoner's)
 
 ##### Traits
 
@@ -17621,10 +17621,10 @@ To ensure a monster acts in accordance with its Challenge Rating, follow these r
 
 _Large Aberration, Lawful Evil_
 
-**AC** 17
-**Initiative** +7 (17)
-**HP** 150 (20d10 + 40)
-**Speed** 10 ft., Swim 40 ft.
+- **AC** 17
+- **Initiative** +7 (17)
+- **HP** 150 (20d10 + 40)
+- **Speed** 10 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17632,10 +17632,10 @@ _Large Aberration, Lawful Evil_
 | **Modifier**     |     +5 |     -1 |     +2 |     +4 |     +2 |     +4 |
 | **Saving Throw** |     +5 |     +3 |     +6 |     +8 |     +6 |     +4 |
 
-**Skills** History +12, Perception +10
-**Senses** Darkvision 120 ft.; Passive Perception 20
-**Languages** Deep Speech; telepathy 120 ft.
-**CR** 10 (XP 5,900, or 7,200 in lair; PB +4)
+- **Skills** History +12, Perception +10
+- **Senses** Darkvision 120 ft.; Passive Perception 20
+- **Languages** Deep Speech; telepathy 120 ft.
+- **CR** 10 (XP 5,900, or 7,200 in lair; PB +4)
 
 #### Traits
 
@@ -17677,10 +17677,10 @@ _**Psychic Drain.**_ If the aboleth has at least one creature Charmed or Grapple
 
 _Large Elemental, Neutral_
 
-**AC** 15
-**Initiative** +5 (15)
-**HP** 90 (12d10 + 24)
-**Speed** 10 ft., Fly 90 ft. (hover)
+- **AC** 15
+- **Initiative** +5 (15)
+- **HP** 90 (12d10 + 24)
+- **Speed** 10 ft., Fly 90 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17688,11 +17688,11 @@ _Large Elemental, Neutral_
 | **Modifier**     |     +2 |     +5 |     +2 |     -2 |     +0 |     -2 |
 | **Saving Throw** |     +2 |     +5 |     +2 |     -2 |     +0 |     -2 |
 
-**Resistances** Bludgeoning, Lightning, Piercing, Slashing
-**Immunities** Poison, Thunder; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Auran)
-**CR** 5 (XP 1,800; PB +3)
+- **Resistances** Bludgeoning, Lightning, Piercing, Slashing
+- **Immunities** Poison, Thunder; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Auran)
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -17712,10 +17712,10 @@ _**Whirlwind (Recharge 4-6).**_ _Strength Saving Throw:_ DC 13, one Medium or sm
 
 _Medium Construct, Unaligned_
 
-**AC** 18
-**Initiative** +2 (12)
-**HP** 33 (6d8 + 6)
-**Speed** 25 ft.
+- **AC** 18
+- **Initiative** +2 (12)
+- **HP** 33 (6d8 + 6)
+- **Speed** 25 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17723,10 +17723,10 @@ _Medium Construct, Unaligned_
 | **Modifier**     |     +2 |     +0 |     +1 |     -5 |     -4 |     -5 |
 | **Saving Throw** |     +2 |     +0 |     +1 |     -5 |     -4 |     -5 |
 
-**Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Blindsight 60 ft.; Passive Perception 6
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Blindsight 60 ft.; Passive Perception 6
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -17738,10 +17738,10 @@ _**Slam.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Bludgeoning 
 
 _Small Construct, Unaligned_
 
-**AC** 17
-**Initiative** +4 (14)
-**HP** 14 (4d6)
-**Speed** 5 ft., Fly 50 ft. (hover)
+- **AC** 17
+- **Initiative** +4 (14)
+- **HP** 14 (4d6)
+- **Speed** 5 ft., Fly 50 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17749,10 +17749,10 @@ _Small Construct, Unaligned_
 | **Modifier**     |     +1 |     +2 |     +0 |     -5 |     -3 |     -5 |
 | **Saving Throw** |     +1 |     +4 |     +0 |     -5 |     -3 |     -5 |
 
-**Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Blindsight 60 ft.; Passive Perception 7
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Blindsight 60 ft.; Passive Perception 7
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -17762,10 +17762,10 @@ _**Slash.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 6 (1d8 + 2) Slashing da
 
 _Large Construct, Unaligned_
 
-**AC** 12
-**Initiative** +4 (14)
-**HP** 27 (5d10)
-**Speed** 10 ft.
+- **AC** 12
+- **Initiative** +4 (14)
+- **HP** 27 (5d10)
+- **Speed** 10 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17773,10 +17773,10 @@ _Large Construct, Unaligned_
 | **Modifier**     |     +3 |     +2 |     +0 |     -5 |     -4 |     -5 |
 | **Saving Throw** |     +3 |     +2 |     +0 |     -5 |     -4 |     -5 |
 
-**Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Blindsight 60 ft.; Passive Perception 6
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Blindsight 60 ft.; Passive Perception 6
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -17790,10 +17790,10 @@ While grappling the target, the rug can't take this action, the rug halves the d
 
 _Large Monstrosity, Unaligned_
 
-**AC** 14
-**Initiative** +0 (10)
-**HP** 45 (6d10 + 12)
-**Speed** 30 ft., Burrow 10 ft.
+- **AC** 14
+- **Initiative** +0 (10)
+- **HP** 45 (6d10 + 12)
+- **Speed** 30 ft., Burrow 10 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17801,9 +17801,9 @@ _Large Monstrosity, Unaligned_
 | **Modifier**     |     +3 |     +0 |     +2 |     -5 |     +1 |     -2 |
 | **Saving Throw** |     +3 |     +0 |     +2 |     -5 |     +1 |     -2 |
 
-**Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 11
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -17821,10 +17821,10 @@ _**Acid Spray (Recharge 6).**_ _Dexterity Saving Throw:_ DC 12, each creature in
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 16
-**Initiative** +10 (20)
-**HP** 97 (15d8 + 30)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +10 (20)
+- **HP** 97 (15d8 + 30)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17832,12 +17832,12 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +4 |     +2 |     +3 |     +0 |     +0 |
 | **Saving Throw** |     +0 |     +7 |     +2 |     +6 |     +0 |     +0 |
 
-**Skills** Acrobatics +7, Perception +6, Stealth +10
-**Resistances** Poison
-**Gear** Light Crossbow, Shortsword, Studded Leather Armor
-**Senses** Passive Perception 16
-**Languages** Common, Thieves' Cant
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Acrobatics +7, Perception +6, Stealth +10
+- **Resistances** Poison
+- **Gear** Light Crossbow, Shortsword, Studded Leather Armor
+- **Senses** Passive Perception 16
+- **Languages** Common, Thieves' Cant
+- **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
 
@@ -17861,10 +17861,10 @@ _**Cunning Action.**_ The assassin takes the Dash, Disengage, or Hide action.
 
 _Small Plant, Neutral_
 
-**AC** 9
-**Initiative** -1 (9)
-**HP** 10 (3d6)
-**Speed** 20 ft.
+- **AC** 9
+- **Initiative** -1 (9)
+- **HP** 10 (3d6)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17872,11 +17872,11 @@ _Small Plant, Neutral_
 | **Modifier**     |     -4 |     -1 |     +0 |     +0 |     +0 |     -2 |
 | **Saving Throw** |     -4 |     -1 |     +0 |     +0 |     +0 |     -2 |
 
-**Vulnerabilities** Fire
-**Resistances** Piercing
-**Senses** Passive Perception 10
-**Languages** Common plus one other language
-**CR** 0 (XP 10; PB +2)
+- **Vulnerabilities** Fire
+- **Resistances** Piercing
+- **Senses** Passive Perception 10
+- **Languages** Common plus one other language
+- **CR** 0 (XP 10; PB +2)
 
 #### Actions
 
@@ -17886,10 +17886,10 @@ _**Rake.**_ _Melee Attack Roll:_ +1, reach 5 ft. _Hit:_ 1 Slashing damage.
 
 _Huge Plant, Neutral_
 
-**AC** 13
-**Initiative** -2 (8)
-**HP** 59 (7d12 + 14)
-**Speed** 20 ft.
+- **AC** 13
+- **Initiative** -2 (8)
+- **HP** 59 (7d12 + 14)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17897,11 +17897,11 @@ _Huge Plant, Neutral_
 | **Modifier**     |     +4 |     -2 |     +2 |     +0 |     +0 |     -2 |
 | **Saving Throw** |     +4 |     -2 |     +2 |     +0 |     +0 |     -2 |
 
-**Vulnerabilities** Fire
-**Resistances** Bludgeoning, Piercing
-**Senses** Passive Perception 10
-**Languages** Common plus one other language
-**CR** 2 (XP 450; PB +2)
+- **Vulnerabilities** Fire
+- **Resistances** Bludgeoning, Piercing
+- **Senses** Passive Perception 10
+- **Languages** Common plus one other language
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -17913,10 +17913,10 @@ _**Slam.**_ _Melee Attack Roll:_ +6, reach 10 ft. _Hit:_ 14 (3d6 + 4) Bludgeonin
 
 _Large Monstrosity, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 19 (3d10 + 3)
-**Speed** 50 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 19 (3d10 + 3)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17924,9 +17924,9 @@ _Large Monstrosity, Unaligned_
 | **Modifier**     |     +2 |     +1 |     +1 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +2 |     +1 |     +1 |     -4 |     +0 |     -3 |
 
-**Senses** Passive Perception 10
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Senses** Passive Perception 10
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -17938,10 +17938,10 @@ _**Beak.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 6 (1d8 + 2) Slashing dam
 
 _Medium Elemental, Lawful Neutral_
 
-**AC** 17
-**Initiative** +1 (11)
-**HP** 39 (6d8 + 12)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +1 (11)
+- **HP** 39 (6d8 + 12)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17949,10 +17949,10 @@ _Medium Elemental, Lawful Neutral_
 | **Modifier**     |     +3 |     +1 |     +2 |     +1 |     +1 |     +0 |
 | **Saving Throw** |     +3 |     +1 |     +4 |     +1 |     +1 |     +0 |
 
-**Immunities** Fire, Poison; Poisoned
-**Senses** Passive Perception 11
-**Languages** Primordial (Ignan)
-**CR** 2 (XP 450; PB +2)
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Passive Perception 11
+- **Languages** Primordial (Ignan)
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -17970,10 +17970,10 @@ _**Burning Hammer.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 8 (1d10 + 3) B
 
 _Huge Fiend (Demon), Chaotic Evil_
 
-**AC** 19
-**Initiative** +14 (24)
-**HP** 287 (23d12 + 138)
-**Speed** 40 ft., Fly 80 ft.
+- **AC** 19
+- **Initiative** +14 (24)
+- **HP** 287 (23d12 + 138)
+- **Speed** 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -17981,12 +17981,12 @@ _Huge Fiend (Demon), Chaotic Evil_
 | **Modifier**     |     +8 |     +2 |     +6 |     +5 |     +3 |     +6 |
 | **Saving Throw** |     +8 |     +2 |    +12 |     +5 |     +9 |     +6 |
 
-**Skills** Perception +9
-**Resistances** Cold, Lightning
-**Immunities** Fire, Poison; Charmed, Frightened, Poisoned
-**Senses** Truesight 120 ft.; Passive Perception 19
-**Languages** Abyssal; telepathy 120 ft.
-**CR** 19 (XP 22,000; PB +6)
+- **Skills** Perception +9
+- **Resistances** Cold, Lightning
+- **Immunities** Fire, Poison; Charmed, Frightened, Poisoned
+- **Senses** Truesight 120 ft.; Passive Perception 19
+- **Languages** Abyssal; telepathy 120 ft.
+- **CR** 19 (XP 22,000; PB +6)
 
 #### Traits
 
@@ -18016,10 +18016,10 @@ _**Teleport.**_ The balor teleports itself or a willing demon within 10 feet of 
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 12
-**Initiative** +1 (11)
-**HP** 11 (2d8 + 2)
-**Speed** 30 ft.
+- **AC** 12
+- **Initiative** +1 (11)
+- **HP** 11 (2d8 + 2)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18027,10 +18027,10 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +1 |     +1 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +0 |     +1 |     +1 |     +0 |     +0 |     +0 |
 
-**Gear** Leather Armor, Light Crossbow, Scimitar
-**Senses** Passive Perception 10
-**Languages** Common, Thieves' Cant
-**CR** 1/8 (XP 25; PB +2)
+- **Gear** Leather Armor, Light Crossbow, Scimitar
+- **Senses** Passive Perception 10
+- **Languages** Common, Thieves' Cant
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
 
@@ -18042,10 +18042,10 @@ _**Light Crossbow.**_ _Ranged Attack Roll:_ +3, range 80/320 ft. _Hit:_ 5 (1d8 +
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 15
-**Initiative** +3 (13)
-**HP** 52 (8d8 + 16)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +3 (13)
+- **HP** 52 (8d8 + 16)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18053,11 +18053,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +2 |     +3 |     +2 |     +2 |     +0 |     +2 |
 | **Saving Throw** |     +4 |     +5 |     +2 |     +2 |     +2 |     +2 |
 
-**Skills** Athletics +4, Deception +4
-**Gear** Pistol, Scimitar, Studded Leather Armor
-**Senses** Passive Perception 10
-**Languages** Common, Thieves' Cant
-**CR** 2 (XP 450; PB +2)
+- **Skills** Athletics +4, Deception +4
+- **Gear** Pistol, Scimitar, Studded Leather Armor
+- **Senses** Passive Perception 10
+- **Languages** Common, Thieves' Cant
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -18077,10 +18077,10 @@ _**Parry.**_ _Trigger:_ The bandit is hit by a melee attack roll while holding a
 
 _Medium Fiend (Devil), Lawful Evil_
 
-**AC** 15
-**Initiative** +3 (13)
-**HP** 110 (13d8 + 52)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 15
+- **Initiative** +3 (13)
+- **HP** 110 (13d8 + 52)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18088,12 +18088,12 @@ _Medium Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +3 |     +3 |     +4 |     +1 |     +2 |     +2 |
 | **Saving Throw** |     +6 |     +3 |     +7 |     +1 |     +5 |     +5 |
 
-**Skills** Deception +5, Insight +5, Perception +8
-**Resistances** Cold
-**Immunities** Fire, Poison; Poisoned
-**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 18
-**Languages** Infernal; telepathy 120 ft.
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Deception +5, Insight +5, Perception +8
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 18
+- **Languages** Infernal; telepathy 120 ft.
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -18119,10 +18119,10 @@ _**Hurl Flame.**_ _Ranged Attack Roll:_ +5, range 150 ft. _Hit:_ 17 (5d6) Fire d
 
 _Medium Monstrosity, Unaligned_
 
-**AC** 15
-**Initiative** -1 (9)
-**HP** 52 (8d8 + 16)
-**Speed** 20 ft.
+- **AC** 15
+- **Initiative** -1 (9)
+- **HP** 52 (8d8 + 16)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18130,9 +18130,9 @@ _Medium Monstrosity, Unaligned_
 | **Modifier**     |     +3 |     -1 |     +2 |     -4 |     -1 |     -2 |
 | **Saving Throw** |     +3 |     -1 |     +2 |     -4 |     -1 |     -2 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** None
-**CR** 3 (XP 700; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 3 (XP 700; PB +2)
 
 #### Actions
 
@@ -18148,10 +18148,10 @@ _**Petrifying Gaze (Recharge 4-6).**_ _Constitution Saving Throw:_ DC 12, each c
 
 _Medium Fiend (Devil), Lawful Evil_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 58 (9d8 + 18)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 58 (9d8 + 18)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18159,11 +18159,11 @@ _Medium Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +3 |     +2 |     +2 |     -1 |     +0 |     +2 |
 | **Saving Throw** |     +5 |     +2 |     +4 |     -1 |     +0 |     +4 |
 
-**Resistances** Cold
-**Immunities** Fire, Poison; Frightened, Poisoned
-**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 10
-**Languages** Infernal; telepathy 120 ft.
-**CR** 3 (XP 700; PB +2)
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Frightened, Poisoned
+- **Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 10
+- **Languages** Infernal; telepathy 120 ft.
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -18183,10 +18183,10 @@ _**Infernal Glaive.**_ _Melee Attack Roll:_ +5, reach 10 ft. _Hit:_ 8 (1d10 + 3)
 
 _Huge Monstrosity, Neutral Evil_
 
-**AC** 17
-**Initiative** +3 (13)
-**HP** 168 (16d12 + 64)
-**Speed** 50 ft., Climb 50 ft.
+- **AC** 17
+- **Initiative** +3 (13)
+- **HP** 168 (16d12 + 64)
+- **Speed** 50 ft., Climb 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18194,11 +18194,11 @@ _Huge Monstrosity, Neutral Evil_
 | **Modifier**     |     +6 |     +3 |     +4 |     -2 |     +2 |     +1 |
 | **Saving Throw** |     +6 |     +3 |     +4 |     -2 |     +2 |     +1 |
 
-**Skills** Perception +6, Stealth +7
-**Immunities** Lightning
-**Senses** Darkvision 90 ft.; Passive Perception 16
-**Languages** Draconic
-**CR** 11 (XP 7,200; PB +4)
+- **Skills** Perception +6, Stealth +7
+- **Immunities** Lightning
+- **Senses** Darkvision 90 ft.; Passive Perception 16
+- **Languages** Draconic
+- **CR** 11 (XP 7,200; PB +4)
 
 #### Actions
 
@@ -18222,10 +18222,10 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 67 (9d8 + 27)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 67 (9d8 + 27)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18233,10 +18233,10 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +3 |     +1 |     +3 |     -1 |     +0 |     -1 |
 | **Saving Throw** |     +3 |     +1 |     +3 |     -1 |     +0 |     -1 |
 
-**Gear** Greataxe, Hide Armor
-**Senses** Passive Perception 10
-**Languages** Common
-**CR** 2 (XP 450; PB +2)
+- **Gear** Greataxe, Hide Armor
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -18252,10 +18252,10 @@ _**Greataxe.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 9 (1d12 + 3) Slashin
 
 _Medium Dragon (Chromatic), Chaotic Evil_
 
-**AC** 17
-**Initiative** +4 (14)
-**HP** 33 (6d8 + 6)
-**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 17
+- **Initiative** +4 (14)
+- **HP** 33 (6d8 + 6)
+- **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18263,11 +18263,11 @@ _Medium Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +2 |     +2 |     +1 |     +0 |     +0 |     +1 |
 | **Saving Throw** |     +2 |     +4 |     +1 |     +0 |     +2 |     +1 |
 
-**Skills** Perception +4, Stealth +4
-**Immunities** Acid
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +4, Stealth +4
+- **Immunities** Acid
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -18285,10 +18285,10 @@ _**Acid Breath (Recharge 5-6).**_ _Dexterity Saving Throw:_ DC 11, each creature
 
 _Large Dragon (Chromatic), Chaotic Evil_
 
-**AC** 18
-**Initiative** +5 (15)
-**HP** 127 (15d10 + 45)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 18
+- **Initiative** +5 (15)
+- **HP** 127 (15d10 + 45)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18296,11 +18296,11 @@ _Large Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +4 |     +2 |     +3 |     +1 |     +0 |     +2 |
 | **Saving Throw** |     +4 |     +5 |     +3 |     +1 |     +3 |     +2 |
 
-**Skills** Perception +6, Stealth +5
-**Immunities** Acid
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 16
-**Languages** Common, Draconic
-**CR** 7 (XP 2,900; PB +3)
+- **Skills** Perception +6, Stealth +5
+- **Immunities** Acid
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 16
+- **Languages** Common, Draconic
+- **CR** 7 (XP 2,900; PB +3)
 
 #### Traits
 
@@ -18318,10 +18318,10 @@ _**Acid Breath (Recharge 5-6).**_ _Dexterity Saving Throw:_ DC 14, each creature
 
 _Huge Dragon (Chromatic), Chaotic Evil_
 
-**AC** 19
-**Initiative** +12 (22)
-**HP** 195 (17d12 + 85)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 19
+- **Initiative** +12 (22)
+- **HP** 195 (17d12 + 85)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18329,11 +18329,11 @@ _Huge Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +6 |     +2 |     +5 |     +2 |     +1 |     +4 |
 | **Saving Throw** |     +6 |     +7 |     +5 |     +2 |     +6 |     +4 |
 
-**Skills** Perception +11, Stealth +7
-**Immunities** Acid
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
-**Languages** Common, Draconic
-**CR** 14 (XP 11,500, or 13,000 in lair; PB +5)
+- **Skills** Perception +11, Stealth +7
+- **Immunities** Acid
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
+- **Languages** Common, Draconic
+- **CR** 14 (XP 11,500, or 13,000 in lair; PB +5)
 
 #### Traits
 
@@ -18368,10 +18368,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Gargantuan Dragon (Chromatic), Chaotic Evil_
 
-**AC** 22
-**Initiative** +16 (26)
-**HP** 367 (21d20 + 147)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 22
+- **Initiative** +16 (26)
+- **HP** 367 (21d20 + 147)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18379,11 +18379,11 @@ _Gargantuan Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +8 |     +2 |     +7 |     +3 |     +2 |     +6 |
 | **Saving Throw** |     +8 |     +9 |     +7 |     +3 |     +9 |     +6 |
 
-**Skills** Perception +16, Stealth +9
-**Immunities** Acid
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
-**Languages** Common, Draconic
-**CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
+- **Skills** Perception +16, Stealth +9
+- **Immunities** Acid
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
+- **Languages** Common, Draconic
+- **CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
 
 #### Traits
 
@@ -18420,10 +18420,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Large Ooze, Unaligned_
 
-**AC** 7
-**Initiative** -3 (7)
-**HP** 68 (8d10 + 24)
-**Speed** 20 ft., Climb 20 ft.
+- **AC** 7
+- **Initiative** -3 (7)
+- **HP** 68 (8d10 + 24)
+- **Speed** 20 ft., Climb 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18431,10 +18431,10 @@ _Large Ooze, Unaligned_
 | **Modifier**     |     +3 |     -3 |     +3 |     -5 |     -2 |     -5 |
 | **Saving Throw** |     +3 |     -3 |     +3 |     -5 |     -2 |     -5 |
 
-**Immunities** Acid, Cold, Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-**Senses** Blindsight 60 ft.; Passive Perception 8
-**Languages** None
-**CR** 4 (XP 1,100; PB +2)
+- **Immunities** Acid, Cold, Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+- **Senses** Blindsight 60 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
 
@@ -18462,10 +18462,10 @@ Points are divided evenly between the new puddings (round down).
 
 _Medium Fey, Lawful Good_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 22 (4d8 + 4)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 22 (4d8 + 4)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18473,10 +18473,10 @@ _Medium Fey, Lawful Good_
 | **Modifier**     |     +1 |     +3 |     +1 |     +0 |     +1 |     +0 |
 | **Saving Throw** |     +1 |     +3 |     +1 |     +0 |     +1 |     +0 |
 
-**Skills** Perception +5, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** Blink Dog; understands Elvish and Sylvan but can't speak them
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +5, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** Blink Dog; understands Elvish and Sylvan but can't speak them
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -18492,10 +18492,10 @@ _**Teleport (Recharge 4-6).**_ The dog teleports up to 40 feet to an unoccupied 
 
 _Medium Dragon (Chromatic), Lawful Evil_
 
-**AC** 17
-**Initiative** +2 (12)
-**HP** 65 (10d8 + 20)
-**Speed** 30 ft., Burrow 15 ft., Fly 60 ft.
+- **AC** 17
+- **Initiative** +2 (12)
+- **HP** 65 (10d8 + 20)
+- **Speed** 30 ft., Burrow 15 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18503,11 +18503,11 @@ _Medium Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +3 |     +0 |     +2 |     +1 |     +0 |     +2 |
 | **Saving Throw** |     +3 |     +2 |     +2 |     +1 |     +2 |     +2 |
 
-**Skills** Perception +4, Stealth +2
-**Immunities** Lightning
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +4, Stealth +2
+- **Immunities** Lightning
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 3 (XP 700; PB +2)
 
 #### Actions
 
@@ -18521,10 +18521,10 @@ _**Lightning Breath (Recharge 5-6).**_ _Dexterity Saving Throw:_ DC 12, each cre
 
 _Large Dragon (Chromatic), Lawful Evil_
 
-**AC** 18
-**Initiative** +4 (14)
-**HP** 152 (16d10 + 64)
-**Speed** 40 ft., Burrow 20 ft., Fly 80 ft.
+- **AC** 18
+- **Initiative** +4 (14)
+- **HP** 152 (16d10 + 64)
+- **Speed** 40 ft., Burrow 20 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18532,11 +18532,11 @@ _Large Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +5 |     +0 |     +4 |     +2 |     +1 |     +3 |
 | **Saving Throw** |     +5 |     +4 |     +4 |     +2 |     +5 |     +3 |
 
-**Skills** Perception +9, Stealth +4
-**Immunities** Lightning
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 19
-**Languages** Common, Draconic
-**CR** 9 (XP 5,000; PB +4)
+- **Skills** Perception +9, Stealth +4
+- **Immunities** Lightning
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 19
+- **Languages** Common, Draconic
+- **CR** 9 (XP 5,000; PB +4)
 
 #### Actions
 
@@ -18550,10 +18550,10 @@ _**Lightning Breath (Recharge 5-6).**_ _Dexterity Saving Throw:_ DC 16, each cre
 
 _Huge Dragon (Chromatic), Lawful Evil_
 
-**AC** 19
-**Initiative** +10 (20)
-**HP** 212 (17d12 + 102)
-**Speed** 40 ft., Burrow 30 ft., Fly 80 ft.
+- **AC** 19
+- **Initiative** +10 (20)
+- **HP** 212 (17d12 + 102)
+- **Speed** 40 ft., Burrow 30 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18561,11 +18561,11 @@ _Huge Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +7 |     +0 |     +6 |     +3 |     +2 |     +5 |
 | **Saving Throw** |     +7 |     +5 |     +6 |     +3 |     +7 |     +5 |
 
-**Skills** Perception +12, Stealth +5
-**Immunities** Lightning
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
-**Languages** Common, Draconic
-**CR** 16 (XP 15,000, or 18,000 in lair; PB +5)
+- **Skills** Perception +12, Stealth +5
+- **Immunities** Lightning
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
+- **Languages** Common, Draconic
+- **CR** 16 (XP 15,000, or 18,000 in lair; PB +5)
 
 #### Traits
 
@@ -18598,10 +18598,10 @@ _**Tail Swipe.**_ The dragon makes one Rend attack.
 
 _Gargantuan Dragon (Chromatic), Lawful Evil_
 
-**AC** 22
-**Initiative** +14 (24)
-**HP** 481 (26d20 + 208)
-**Speed** 40 ft., Burrow 40 ft., Fly 80 ft.
+- **AC** 22
+- **Initiative** +14 (24)
+- **HP** 481 (26d20 + 208)
+- **Speed** 40 ft., Burrow 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18609,11 +18609,11 @@ _Gargantuan Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +9 |     +0 |     +8 |     +4 |     +3 |     +7 |
 | **Saving Throw** |     +9 |     +7 |     +8 |     +4 |    +10 |     +7 |
 
-**Skills** Perception +17, Stealth +7
-**Immunities** Lightning
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
-**Languages** Common, Draconic
-**CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
+- **Skills** Perception +17, Stealth +7
+- **Immunities** Lightning
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
+- **Languages** Common, Draconic
+- **CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
 
 #### Traits
 
@@ -18648,10 +18648,10 @@ _**Tail Swipe.**_ The dragon makes one Rend attack.
 
 _Large Fiend (Devil), Lawful Evil_
 
-**AC** 16
-**Initiative** +7 (17)
-**HP** 161 (17d10 + 68)
-**Speed** 40 ft., Fly 40 ft.
+- **AC** 16
+- **Initiative** +7 (17)
+- **HP** 161 (17d10 + 68)
+- **Speed** 40 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18659,12 +18659,12 @@ _Large Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +4 |     +3 |     +4 |     +1 |     +2 |     +3 |
 | **Saving Throw** |     +8 |     +3 |     +4 |     +5 |     +6 |     +7 |
 
-**Skills** Deception +7, Insight +6
-**Resistances** Cold
-**Immunities** Fire, Poison; Poisoned
-**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 12
-**Languages** Infernal; telepathy 120 ft.
-**CR** 9 (XP 5,000; PB +4)
+- **Skills** Deception +7, Insight +6
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 12
+- **Languages** Infernal; telepathy 120 ft.
+- **CR** 9 (XP 5,000; PB +4)
 
 #### Traits
 
@@ -18686,10 +18686,10 @@ _**Infernal Sting.**_ _Melee Attack Roll:_ +8, reach 10 ft. _Hit:_  15 (2d10 + 4
 
 _Medium Dragon (Metallic), Chaotic Good_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 22 (4d8 + 4)
-**Speed** 30 ft., Burrow 15 ft., Fly 60 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 22 (4d8 + 4)
+- **Speed** 30 ft., Burrow 15 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18697,11 +18697,11 @@ _Medium Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +2 |     +0 |     +1 |     +0 |     +0 |     +1 |
 | **Saving Throw** |     +2 |     +2 |     +1 |     +0 |     +2 |     +1 |
 
-**Skills** Perception +4, Stealth +2
-**Immunities** Fire
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +4, Stealth +2
+- **Immunities** Fire
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -18715,10 +18715,10 @@ _**Sleep Breath.**_ _Constitution Saving Throw:_ DC 11, each creature in a 15-fo
 
 _Large Dragon (Metallic), Chaotic Good_
 
-**AC** 17
-**Initiative** +3 (13)
-**HP** 110 (13d10 + 39)
-**Speed** 40 ft., Burrow 20 ft., Fly 80 ft.
+- **AC** 17
+- **Initiative** +3 (13)
+- **HP** 110 (13d10 + 39)
+- **Speed** 40 ft., Burrow 20 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18726,11 +18726,11 @@ _Large Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +4 |     +0 |     +3 |     +1 |     +0 |     +2 |
 | **Saving Throw** |     +4 |     +3 |     +3 |     +1 |     +3 |     +2 |
 
-**Skills** Perception +6, Persuasion +5, Stealth +3
-**Immunities** Fire
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 16
-**Languages** Common, Draconic
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Perception +6, Persuasion +5, Stealth +3
+- **Immunities** Fire
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 16
+- **Languages** Common, Draconic
+- **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
 
@@ -18746,10 +18746,10 @@ _**Sleep Breath.**_ _Constitution Saving Throw:_ DC 14, each creature in a 30-fo
 
 _Huge Dragon (Metallic), Chaotic Good_
 
-**AC** 18
-**Initiative** +10 (20)
-**HP** 172 (15d12 + 75)
-**Speed** 40 ft., Burrow 30 ft., Fly 80 ft.
+- **AC** 18
+- **Initiative** +10 (20)
+- **HP** 172 (15d12 + 75)
+- **Speed** 40 ft., Burrow 30 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18757,11 +18757,11 @@ _Huge Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +6 |     +0 |     +5 |     +2 |     +1 |     +3 |
 | **Saving Throw** |     +6 |     +5 |     +5 |     +2 |     +6 |     +3 |
 
-**Skills** History +7, Perception +11, Persuasion +8, Stealth +5
-**Immunities** Fire
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
-**Languages** Common, Draconic
-**CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
+- **Skills** History +7, Perception +11, Persuasion +8, Stealth +5
+- **Immunities** Fire
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
+- **Languages** Common, Draconic
+- **CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
 
 #### Traits
 
@@ -18796,10 +18796,10 @@ _**Scorching Sands.**_ _Dexterity Saving Throw:_ DC 16, one creature the dragon 
 
 _Gargantuan Dragon (Metallic), Chaotic Good_
 
-**AC** 20
-**Initiative** +12 (22)
-**HP** 332 (19d20 + 133)
-**Speed** 40 ft., Burrow 40 ft., Fly 80 ft.
+- **AC** 20
+- **Initiative** +12 (22)
+- **HP** 332 (19d20 + 133)
+- **Speed** 40 ft., Burrow 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18807,11 +18807,11 @@ _Gargantuan Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +8 |     +0 |     +7 |     +3 |     +2 |     +6 |
 | **Saving Throw** |     +8 |     +6 |     +7 |     +3 |     +8 |     +6 |
 
-**Skills** History +9, Perception +14, Persuasion +12, Stealth +6
-**Immunities** Fire
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 24
-**Languages** Common, Draconic
-**CR** 20 (XP 25,000, or 33,000 in lair; PB +6)
+- **Skills** History +9, Perception +14, Persuasion +12, Stealth +6
+- **Immunities** Fire
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 24
+- **Languages** Common, Draconic
+- **CR** 20 (XP 25,000, or 33,000 in lair; PB +6)
 
 #### Traits
 
@@ -18848,10 +18848,10 @@ _**Scorching Sands.**_ _Dexterity Saving Throw:_ DC 20, one creature the dragon 
 
 _Medium Dragon (Metallic), Lawful Good_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 39 (6d8 + 12)
-**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 39 (6d8 + 12)
+- **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18859,11 +18859,11 @@ _Medium Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +3 |     +0 |     +2 |     +1 |     +0 |     +2 |
 | **Saving Throw** |     +3 |     +2 |     +2 |     +1 |     +2 |     +2 |
 
-**Skills** Perception +4, Stealth +2
-**Immunities** Lightning
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +4, Stealth +2
+- **Immunities** Lightning
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -18883,10 +18883,10 @@ _**Repulsion Breath.**_ _Strength Saving Throw:_ DC 12, each creature in a 30-fo
 
 _Large Dragon (Metallic), Lawful Good_
 
-**AC** 17
-**Initiative** +3 (13)
-**HP** 142 (15d10 + 60)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 17
+- **Initiative** +3 (13)
+- **HP** 142 (15d10 + 60)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18894,11 +18894,11 @@ _Large Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +5 |     +0 |     +4 |     +2 |     +1 |     +3 |
 | **Saving Throw** |     +5 |     +3 |     +4 |     +2 |     +4 |     +3 |
 
-**Skills** Insight +4, Perception +7, Stealth +3
-**Immunities** Lightning
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
-**Languages** Common, Draconic
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Insight +4, Perception +7, Stealth +3
+- **Immunities** Lightning
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
+- **Languages** Common, Draconic
+- **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
 
@@ -18918,10 +18918,10 @@ _**Repulsion Breath.**_ _Strength Saving Throw:_ DC 15, each creature in a 30-fo
 
 _Huge Dragon (Metallic), Lawful Good_
 
-**AC** 18
-**Initiative** +10 (20)
-**HP** 212 (17d12 + 102)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 18
+- **Initiative** +10 (20)
+- **HP** 212 (17d12 + 102)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18929,11 +18929,11 @@ _Huge Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +7 |     +0 |     +6 |     +3 |     +2 |     +5 |
 | **Saving Throw** |     +7 |     +5 |     +6 |     +3 |     +7 |     +5 |
 
-**Skills** Insight +7, Perception +12, Stealth +5
-**Immunities** Lightning
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
-**Languages** Common, Draconic
-**CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
+- **Skills** Insight +7, Perception +12, Stealth +5
+- **Immunities** Lightning
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
+- **Languages** Common, Draconic
+- **CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
 
 #### Traits
 
@@ -18970,10 +18970,10 @@ _**Thunderclap.**_ _Constitution Saving Throw:_ DC 17, each creature in a 20-foo
 
 _Gargantuan Dragon (Metallic), Lawful Good_
 
-**AC** 22
-**Initiative** +14 (24)
-**HP** 444 (24d20 + 192)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 22
+- **Initiative** +14 (24)
+- **HP** 444 (24d20 + 192)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -18981,11 +18981,11 @@ _Gargantuan Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +9 |     +0 |     +8 |     +4 |     +3 |     +7 |
 | **Saving Throw** |     +9 |     +7 |     +8 |     +4 |    +10 |     +7 |
 
-**Skills** Insight +10, Perception +17, Stealth +7
-**Immunities** Lightning
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
-**Languages** Common, Draconic
-**CR** 22 (XP 41,000, or 50,000 in lair; PB +7)
+- **Skills** Insight +10, Perception +17, Stealth +7
+- **Immunities** Lightning
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
+- **Languages** Common, Draconic
+- **CR** 22 (XP 41,000, or 50,000 in lair; PB +7)
 
 #### Traits
 
@@ -19024,10 +19024,10 @@ _**Thunderclap.**_ _Constitution Saving Throw:_ DC 22, each creature in a 20-foo
 
 _Medium Fey (Goblinoid), Chaotic Evil_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 65 (10d8 + 20)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 65 (10d8 + 20)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19035,11 +19035,11 @@ _Medium Fey (Goblinoid), Chaotic Evil_
 | **Modifier**     |     +3 |     +2 |     +2 |     +0 |     +1 |     +0 |
 | **Saving Throw** |     +3 |     +2 |     +4 |     +0 |     +3 |     +0 |
 
-**Skills** Stealth +6, Survival +3
-**Gear** Chain Shirt, Javelins (6), Morningstar
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common, Goblin
-**CR** 3 (XP 700; PB +2)
+- **Skills** Stealth +6, Survival +3
+- **Gear** Chain Shirt, Javelins (6), Morningstar
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common, Goblin
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -19061,10 +19061,10 @@ _**Quick Grapple.**_ _Dexterity Saving Throw:_ DC 13, one Medium or smaller crea
 
 _Medium Fey (Goblinoid), Chaotic Evil_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 33 (6d8 + 6)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 33 (6d8 + 6)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19072,11 +19072,11 @@ _Medium Fey (Goblinoid), Chaotic Evil_
 | **Modifier**     |     +2 |     +2 |     +1 |     -1 |     +0 |     -1 |
 | **Saving Throw** |     +2 |     +2 |     +1 |     -1 |     +0 |     -1 |
 
-**Skills** Stealth +6, Survival +2
-**Gear** Hide Armor, Light Hammers (3)
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Common, Goblin
-**CR** 1 (XP 200; PB +2)
+- **Skills** Stealth +6, Survival +2
+- **Gear** Hide Armor, Light Hammers (3)
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Common, Goblin
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -19094,10 +19094,10 @@ _**Light Hammer.**_ _Melee or Ranged Attack Roll:_ +4 (with Advantage if the tar
 
 _Large Monstrosity, Unaligned_
 
-**AC** 17
-**Initiative** +0 (10)
-**HP** 94 (9d10 + 45)
-**Speed** 40 ft., Burrow 40 ft.
+- **AC** 17
+- **Initiative** +0 (10)
+- **HP** 94 (9d10 + 45)
+- **Speed** 40 ft., Burrow 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19105,10 +19105,10 @@ _Large Monstrosity, Unaligned_
 | **Modifier**     |     +4 |     +0 |     +5 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +4 |     +0 |     +5 |     -4 |     +0 |     -3 |
 
-**Skills** Perception +6
-**Senses** Darkvision 60 ft., Tremorsense 120 ft.; Passive Perception 16
-**Languages** None
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +6
+- **Senses** Darkvision 60 ft., Tremorsense 120 ft.; Passive Perception 16
+- **Languages** None
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
 
@@ -19128,10 +19128,10 @@ _**Leap.**_ The bulette jumps up to 30 feet by spending 10 feet of movement.
 
 _Large Fey, Neutral Good_
 
-**AC** 16
-**Initiative** +2 (12)
-**HP** 45 (6d10 + 12)
-**Speed** 50 ft.
+- **AC** 16
+- **Initiative** +2 (12)
+- **HP** 45 (6d10 + 12)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19139,11 +19139,11 @@ _Large Fey, Neutral Good_
 | **Modifier**     |     +4 |     +2 |     +2 |     -1 |     +1 |     +0 |
 | **Saving Throw** |     +4 |     +2 |     +2 |     -1 |     +1 |     +0 |
 
-**Skills** Athletics +6, Perception +3
-**Gear** Breastplate, Longbow, Pike
-**Senses** Passive Perception 13
-**Languages** Elvish, Sylvan
-**CR** 2 (XP 450; PB +2)
+- **Skills** Athletics +6, Perception +3
+- **Gear** Breastplate, Longbow, Pike
+- **Senses** Passive Perception 13
+- **Languages** Elvish, Sylvan
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -19163,10 +19163,10 @@ _**Trampling Charge (Recharge 5-6).**_ The centaur moves up to its Speed without
 
 _Medium Fiend (Devil), Lawful Evil_
 
-**AC** 15
-**Initiative** +5 (15)
-**HP** 85 (10d8 + 40)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +5 (15)
+- **HP** 85 (10d8 + 40)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19174,11 +19174,11 @@ _Medium Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +4 |     +2 |     +4 |     +0 |     +1 |     +2 |
 | **Saving Throw** |     +4 |     +2 |     +7 |     +0 |     +4 |     +2 |
 
-**Resistances** Bludgeoning, Cold, Piercing, Slashing
-**Immunities** Fire, Poison; Poisoned
-**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 11
-**Languages** Infernal; telepathy 120 ft.
-**CR** 8 (XP 3,900; PB +3)
+- **Resistances** Bludgeoning, Cold, Piercing, Slashing
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 11
+- **Languages** Infernal; telepathy 120 ft.
+- **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
 
@@ -19204,10 +19204,10 @@ _**Unnerving Gaze.**_ _Trigger:_ A creature the devil can see starts its turn wi
 
 _Large Monstrosity, Chaotic Evil_
 
-**AC** 14
-**Initiative** +0 (10)
-**HP** 114 (12d10 + 48)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 14
+- **Initiative** +0 (10)
+- **HP** 114 (12d10 + 48)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19215,10 +19215,10 @@ _Large Monstrosity, Chaotic Evil_
 | **Modifier**     |     +4 |     +0 |     +4 |     -4 |     +2 |     +0 |
 | **Saving Throw** |     +4 |     +0 |     +4 |     -4 |     +2 |     +0 |
 
-**Skills** Perception +8
-**Senses** Darkvision 60 ft.; Passive Perception 18
-**Languages** Understands Draconic but can't speak
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Perception +8
+- **Senses** Darkvision 60 ft.; Passive Perception 18
+- **Languages** Understands Draconic but can't speak
+- **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
 
@@ -19238,10 +19238,10 @@ _**Fire Breath (Recharge 5-6).**_ _Dexterity Saving Throw:_ DC 15, each creature
 
 _Large Aberration, Chaotic Evil_
 
-**AC** 16
-**Initiative** +0 (10)
-**HP** 76 (9d10 + 27)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 16
+- **Initiative** +0 (10)
+- **HP** 76 (9d10 + 27)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19249,11 +19249,11 @@ _Large Aberration, Chaotic Evil_
 | **Modifier**     |     +4 |     +0 |     +3 |     -3 |     +0 |     -3 |
 | **Saving Throw** |     +4 |     +0 |     +3 |     -3 |     +0 |     -3 |
 
-**Skills** Perception +4
-**Immunities** Poison; Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Understands Deep Speech but can't speak
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Perception +4
+- **Immunities** Poison; Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Understands Deep Speech but can't speak
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
 
@@ -19275,10 +19275,10 @@ _**Paralyzing Tentacles.**_ _Constitution Saving Throw:_ DC 13, one creature Gra
 
 _Large Construct, Unaligned_
 
-**AC** 14
-**Initiative** +3 (13)
-**HP** 123 (13d10 + 52)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +3 (13)
+- **HP** 123 (13d10 + 52)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19286,11 +19286,11 @@ _Large Construct, Unaligned_
 | **Modifier**     |     +5 |     -1 |     +4 |     -4 |     -1 |     -5 |
 | **Saving Throw** |     +5 |     -1 |     +4 |     -4 |     -1 |     -5 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Acid, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** Common plus one other language
-**CR** 9 (XP 5,000; PB +4)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Acid, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** Common plus one other language
+- **CR** 9 (XP 5,000; PB +4)
 
 #### Traits
 
@@ -19318,10 +19318,10 @@ _**Hasten (Recharge 5-6).**_ The golem takes the Dash and Disengage actions.
 
 _Large Aberration, Chaotic Neutral_
 
-**AC** 14
-**Initiative** +5 (15)
-**HP** 91 (14d10 + 14)
-**Speed** 10 ft., Fly 40 ft.
+- **AC** 14
+- **Initiative** +5 (15)
+- **HP** 91 (14d10 + 14)
+- **Speed** 10 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19329,11 +19329,11 @@ _Large Aberration, Chaotic Neutral_
 | **Modifier**     |     +3 |     +2 |     +1 |     +1 |     +2 |     -2 |
 | **Saving Throw** |     +3 |     +2 |     +1 |     +1 |     +2 |     -2 |
 
-**Skills** Stealth +5
-**Immunities** Frightened
-**Senses** Darkvision 120 ft.; Passive Perception 12
-**Languages** Deep Speech, Undercommon
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Stealth +5
+- **Immunities** Frightened
+- **Senses** Darkvision 120 ft.; Passive Perception 12
+- **Languages** Deep Speech, Undercommon
+- **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
 
@@ -19361,10 +19361,10 @@ _**Phantasms (Recharge after a Short or Long Rest).**_ The cloaker casts the _Mi
 
 _Huge Giant, Neutral_
 
-**AC** 14
-**Initiative** +4 (14)
-**HP** 200 (16d12 + 96)
-**Speed** 40 ft., Fly 20 ft. (hover)
+- **AC** 14
+- **Initiative** +4 (14)
+- **HP** 200 (16d12 + 96)
+- **Speed** 40 ft., Fly 20 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19372,10 +19372,10 @@ _Huge Giant, Neutral_
 | **Modifier**     |     +8 |     +0 |     +6 |     +1 |     +3 |     +3 |
 | **Saving Throw** |     +8 |     +0 |    +10 |     +1 |     +7 |     +3 |
 
-**Skills** Insight +7, Perception +11
-**Senses** Passive Perception 21
-**Languages** Common, Giant
-**CR** 9 (XP 5,000; PB +4)
+- **Skills** Insight +7, Perception +11
+- **Senses** Passive Perception 21
+- **Languages** Common, Giant
+- **CR** 9 (XP 5,000; PB +4)
 
 #### Actions
 
@@ -19400,10 +19400,10 @@ _**Misty Step.**_ The giant casts the _Misty Step_ spell, using the same spellca
 
 _Small Monstrosity, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 22 (5d6 + 5)
-**Speed** 20 ft., Fly 40 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 22 (5d6 + 5)
+- **Speed** 20 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19411,10 +19411,10 @@ _Small Monstrosity, Unaligned_
 | **Modifier**     |     -2 |     +1 |     +1 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     -2 |     +1 |     +1 |     -4 |     +1 |     -3 |
 
-**Immunities** Petrified
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Immunities** Petrified
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
 
@@ -19426,10 +19426,10 @@ _**Petrifying Bite.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 3 (1d4 + 1) P
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 4 (1d8)
-**Speed** 30 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 4 (1d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19437,10 +19437,10 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +0 |     +0 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +0 |     +0 |     +0 |     +0 |     +0 |     +0 |
 
-**Gear** Club
-**Senses** Passive Perception 10
-**Languages** Common
-**CR** 0 (XP 10; PB +2)
+- **Gear** Club
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -19456,10 +19456,10 @@ _**Club.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 2 (1d4) Bludgeoning dama
 
 _Medium Dragon (Metallic), Chaotic Good_
 
-**AC** 16
-**Initiative** +3 (13)
-**HP** 22 (4d8 + 4)
-**Speed** 30 ft., Climb 30 ft., Fly 60 ft.
+- **AC** 16
+- **Initiative** +3 (13)
+- **HP** 22 (4d8 + 4)
+- **Speed** 30 ft., Climb 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19467,11 +19467,11 @@ _Medium Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +2 |     +1 |     +1 |     +2 |     +0 |     +1 |
 | **Saving Throw** |     +2 |     +3 |     +1 |     +2 |     +2 |     +1 |
 
-**Skills** Perception +4, Stealth +3
-**Immunities** Acid
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +4, Stealth +3
+- **Immunities** Acid
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -19485,10 +19485,10 @@ _**Slowing Breath.**_ _Constitution Saving Throw:_ DC 11, each creature in a 15-
 
 _Large Dragon (Metallic), Chaotic Good_
 
-**AC** 17
-**Initiative** +4 (14)
-**HP** 119 (14d10 + 42)
-**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+- **AC** 17
+- **Initiative** +4 (14)
+- **HP** 119 (14d10 + 42)
+- **Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19496,11 +19496,11 @@ _Large Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +4 |     +1 |     +3 |     +3 |     +1 |     +2 |
 | **Saving Throw** |     +4 |     +4 |     +3 |     +3 |     +4 |     +2 |
 
-**Skills** Deception +5, Perception +7, Stealth +4
-**Immunities** Acid
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
-**Languages** Common, Draconic
-**CR** 7 (XP 2,900; PB +3)
+- **Skills** Deception +5, Perception +7, Stealth +4
+- **Immunities** Acid
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
+- **Languages** Common, Draconic
+- **CR** 7 (XP 2,900; PB +3)
 
 #### Actions
 
@@ -19516,10 +19516,10 @@ _**Slowing Breath.**_ _Constitution Saving Throw:_ DC 14, each creature in a 30-
 
 _Huge Dragon (Metallic), Chaotic Good_
 
-**AC** 18
-**Initiative** +11 (21)
-**HP** 184 (16d12 + 80)
-**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+- **AC** 18
+- **Initiative** +11 (21)
+- **HP** 184 (16d12 + 80)
+- **Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19527,11 +19527,11 @@ _Huge Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +6 |     +1 |     +5 |     +4 |     +2 |     +4 |
 | **Saving Throw** |     +6 |     +6 |     +5 |     +4 |     +7 |     +4 |
 
-**Skills** Deception +9, Perception +12, Stealth +6
-**Immunities** Acid
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
-**Languages** Common, Draconic
-**CR** 14 (XP 11,500, or 13,000 in lair; PB +5)
+- **Skills** Deception +9, Perception +12, Stealth +6
+- **Immunities** Acid
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
+- **Languages** Common, Draconic
+- **CR** 14 (XP 11,500, or 13,000 in lair; PB +5)
 
 #### Traits
 
@@ -19566,10 +19566,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Gargantuan Dragon (Metallic), Chaotic Good_
 
-**AC** 21
-**Initiative** +15 (25)
-**HP** 367 (21d20 + 147)
-**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+- **AC** 21
+- **Initiative** +15 (25)
+- **HP** 367 (21d20 + 147)
+- **Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19577,11 +19577,11 @@ _Gargantuan Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +8 |     +1 |     +7 |     +5 |     +3 |     +6 |
 | **Saving Throw** |     +8 |     +8 |     +7 |     +5 |    +10 |     +6 |
 
-**Skills** Deception +13, Perception +17, Stealth +8
-**Immunities** Acid
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
-**Languages** Common, Draconic
-**CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
+- **Skills** Deception +13, Perception +17, Stealth +8
+- **Immunities** Acid
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
+- **Languages** Common, Draconic
+- **CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
 
 #### Traits
 
@@ -19618,10 +19618,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Medium Celestial, Lawful Good_
 
-**AC** 19
-**Initiative** +5 (15)
-**HP** 60 (8d8 + 24)
-**Speed** 30 ft., Fly 90 ft.
+- **AC** 19
+- **Initiative** +5 (15)
+- **HP** 60 (8d8 + 24)
+- **Speed** 30 ft., Fly 90 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19629,11 +19629,11 @@ _Medium Celestial, Lawful Good_
 | **Modifier**     |     +3 |     +5 |     +3 |     +4 |     +5 |     +4 |
 | **Saving Throw** |     +3 |     +5 |     +5 |     +4 |     +7 |     +4 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Psychic, Radiant
-**Senses** Truesight 120 ft.; Passive Perception 15
-**Languages** All; telepathy 120 ft.
-**CR** 4 (XP 1,100; PB +2)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Psychic, Radiant
+- **Senses** Truesight 120 ft.; Passive Perception 15
+- **Languages** All; telepathy 120 ft.
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
 
@@ -19660,10 +19660,10 @@ _**Divine Aid (2/Day).**_ The couatl casts _Bless_, _Lesser Restoration_, or _Sa
 
 _Medium Swarm of Tiny Undead, Neutral Evil_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 49 (11d8)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 49 (11d8)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19671,11 +19671,11 @@ _Medium Swarm of Tiny Undead, Neutral Evil_
 | **Modifier**     |     +2 |     +2 |     +0 |     -3 |     +0 |     -3 |
 | **Saving Throw** |     +2 |     +2 |     +0 |     -3 |     +0 |     -3 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
-**Senses** Blindsight 30 ft.; Passive Perception 10
-**Languages** Understands Common but can't speak
-**CR** 3 (XP 700; PB +2)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
+- **Senses** Blindsight 30 ft.; Passive Perception 10
+- **Languages** Understands Common but can't speak
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -19691,10 +19691,10 @@ _**Swarm of Grasping Hands.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 20 (4
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 12
-**Initiative** +1 (11)
-**HP** 9 (2d8)
-**Speed** 30 ft.
+- **AC** 12
+- **Initiative** +1 (11)
+- **HP** 9 (2d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19702,11 +19702,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +1 |     +0 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +0 |     +1 |     +0 |     +0 |     +2 |     +0 |
 
-**Skills** Deception +2, Religion +2
-**Gear** Leather Armor, Sickle
-**Senses** Passive Perception 10
-**Languages** Common
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Deception +2, Religion +2
+- **Gear** Leather Armor, Sickle
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
 
@@ -19716,10 +19716,10 @@ _**Ritual Sickle.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 3 (1d4 + 1) Sla
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 44 (8d8 + 8)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 44 (8d8 + 8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19727,11 +19727,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +2 |     +1 |     +0 |     +2 |     +1 |
 | **Saving Throw** |     +0 |     +2 |     +1 |     +0 |     +4 |     +1 |
 
-**Skills** Deception +3, Persuasion +3, Religion +2
-**Gear** Holy Symbol, Leather Armor
-**Senses** Passive Perception 12
-**Languages** Common
-**CR** 2 (XP 450; PB +2)
+- **Skills** Deception +3, Persuasion +3, Religion +2
+- **Gear** Holy Symbol, Leather Armor
+- **Senses** Passive Perception 12
+- **Languages** Common
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -19753,10 +19753,10 @@ _**Spiritual Weapon (2/Day).**_ The cultist casts the _Spiritual Weapon_ spell, 
 
 _Small Aberration, Unaligned_
 
-**AC** 11
-**Initiative** +3 (13)
-**HP** 22 (5d6 + 5)
-**Speed** 10 ft., Fly 30 ft.
+- **AC** 11
+- **Initiative** +3 (13)
+- **HP** 22 (5d6 + 5)
+- **Speed** 10 ft., Fly 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19764,10 +19764,10 @@ _Small Aberration, Unaligned_
 | **Modifier**     |     +3 |     +1 |     +1 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +3 |     +1 |     +1 |     -4 |     +0 |     -3 |
 
-**Skills** Stealth +3
-**Senses** Blindsight 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Stealth +3
+- **Senses** Blindsight 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
 
@@ -19785,10 +19785,10 @@ _**Darkness Aura (1/Day).**_ Magical Darkness fills a 15-foot Emanation originat
 
 _Medium Monstrosity, Neutral Evil_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 39 (6d8 + 12)
-**Speed** 40 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 39 (6d8 + 12)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19796,11 +19796,11 @@ _Medium Monstrosity, Neutral Evil_
 | **Modifier**     |     +2 |     +2 |     +2 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +2 |     +2 |     +2 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +5, Stealth +4
-**Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-**Senses** Darkvision 120 ft.; Passive Perception 15
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +5, Stealth +4
+- **Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+- **Senses** Darkvision 120 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -19814,10 +19814,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Piercing dam
 
 _Medium Celestial (Angel), Lawful Good_
 
-**AC** 17
-**Initiative** +4 (14)
-**HP** 229 (27d8 + 108)
-**Speed** 30 ft., Fly 90 ft. (hover)
+- **AC** 17
+- **Initiative** +4 (14)
+- **HP** 229 (27d8 + 108)
+- **Speed** 30 ft., Fly 90 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19825,12 +19825,12 @@ _Medium Celestial (Angel), Lawful Good_
 | **Modifier**     |     +4 |     +4 |     +4 |     +3 |     +5 |     +5 |
 | **Saving Throw** |     +4 |     +4 |     +4 |     +3 |     +9 |     +9 |
 
-**Skills** Insight +9, Perception +9
-**Resistances** Radiant
-**Immunities** Charmed, Exhaustion, Frightened
-**Senses** Darkvision 120 ft.; Passive Perception 19
-**Languages** All; telepathy 120 ft.
-**CR** 10 (XP 5,900; PB +4)
+- **Skills** Insight +9, Perception +9
+- **Resistances** Radiant
+- **Immunities** Charmed, Exhaustion, Frightened
+- **Senses** Darkvision 120 ft.; Passive Perception 19
+- **Languages** All; telepathy 120 ft.
+- **CR** 10 (XP 5,900; PB +4)
 
 #### Traits
 
@@ -19859,10 +19859,10 @@ _**Divine Aid (2/Day).**_ The deva casts _Cure Wounds_, _Lesser Restoration_, or
 
 _Large Elemental (Genie), Neutral_
 
-**AC** 17
-**Initiative** +2 (12)
-**HP** 218 (19d10 + 114)
-**Speed** 30 ft., Fly 90 ft. (hover)
+- **AC** 17
+- **Initiative** +2 (12)
+- **HP** 218 (19d10 + 114)
+- **Speed** 30 ft., Fly 90 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19870,10 +19870,10 @@ _Large Elemental (Genie), Neutral_
 | **Modifier**     |     +5 |     +2 |     +6 |     +2 |     +3 |     +5 |
 | **Saving Throw** |     +5 |     +6 |     +6 |     +2 |     +7 |     +5 |
 
-**Immunities** Lightning, Thunder
-**Senses** Darkvision 120 ft.; Passive Perception 13
-**Languages** Primordial (Auran)
-**CR** 11 (XP 7,200; PB +4)
+- **Immunities** Lightning, Thunder
+- **Senses** Darkvision 120 ft.; Passive Perception 13
+- **Languages** Primordial (Auran)
+- **CR** 11 (XP 7,200; PB +4)
 
 #### Traits
 
@@ -19907,10 +19907,10 @@ _**Spellcasting.**_ The djinni casts one of the following spells, requiring no M
 
 _Medium Monstrosity, Neutral_
 
-**AC** 14
-**Initiative** +4 (14)
-**HP** 52 (8d8 + 16)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +4 (14)
+- **HP** 52 (8d8 + 16)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19918,11 +19918,11 @@ _Medium Monstrosity, Neutral_
 | **Modifier**     |     +0 |     +4 |     +2 |     +0 |     +1 |     +2 |
 | **Saving Throw** |     +0 |     +4 |     +2 |     +0 |     +1 |     +2 |
 
-**Skills** Deception +6, Insight +3
-**Immunities** Charmed
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common plus three other languages
-**CR** 3 (XP 700; PB +2)
+- **Skills** Deception +6, Insight +3
+- **Immunities** Charmed
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common plus three other languages
+- **CR** 3 (XP 700; PB +2)
 
 #### Actions
 
@@ -19944,10 +19944,10 @@ _**Shape-Shift.**_ The doppelganger shape-shifts into a Medium or Small Humanoid
 
 _Gargantuan Dragon, Neutral_
 
-**AC** 20
-**Initiative** +6 (16)
-**HP** 356 (23d20 + 115)
-**Speed** 20 ft., Swim 50 ft.
+- **AC** 20
+- **Initiative** +6 (16)
+- **HP** 356 (23d20 + 115)
+- **Speed** 20 ft., Swim 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19955,10 +19955,10 @@ _Gargantuan Dragon, Neutral_
 | **Modifier**     |     +7 |     +0 |     +5 |     +0 |     +1 |     +1 |
 | **Saving Throw** |     +7 |     +0 |    +11 |     +0 |     +7 |     +1 |
 
-**Resistances** Fire
-**Senses** Darkvision 120 ft.; Passive Perception 11
-**Languages** Draconic, Primordial (Aquan)
-**CR** 17 (XP 18,000; PB +6)
+- **Resistances** Fire
+- **Senses** Darkvision 120 ft.; Passive Perception 11
+- **Languages** Draconic, Primordial (Aquan)
+- **CR** 17 (XP 18,000; PB +6)
 
 #### Traits
 
@@ -19980,10 +19980,10 @@ _**Steam Breath (Recharge 5-6).**_ _Constitution Saving Throw:_ DC 19, each crea
 
 _Small Fiend (Demon), Chaotic Evil_
 
-**AC** 11
-**Initiative** +0 (10)
-**HP** 18 (4d6 + 4)
-**Speed** 20 ft.
+- **AC** 11
+- **Initiative** +0 (10)
+- **HP** 18 (4d6 + 4)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -19991,11 +19991,11 @@ _Small Fiend (Demon), Chaotic Evil_
 | **Modifier**     |     +1 |     +0 |     +1 |     -3 |     -1 |     -4 |
 | **Saving Throw** |     +1 |     +0 |     +1 |     -3 |     -1 |     -4 |
 
-**Resistances** Cold, Fire, Lightning
-**Immunities** Poison; Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)
-**CR** 1/4 (XP 50; PB +2)
+- **Resistances** Cold, Fire, Lightning
+- **Immunities** Poison; Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -20009,10 +20009,10 @@ _**Fetid Cloud (1/Day).**_ _Constitution Saving Throw:_ DC 11, each creature in 
 
 _Large Monstrosity, Chaotic Evil_
 
-**AC** 19
-**Initiative** +4 (14)
-**HP** 123 (13d10 + 52)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 19
+- **Initiative** +4 (14)
+- **HP** 123 (13d10 + 52)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20020,10 +20020,10 @@ _Large Monstrosity, Chaotic Evil_
 | **Modifier**     |     +3 |     +4 |     +4 |     +1 |     +3 |     +1 |
 | **Saving Throw** |     +3 |     +4 |     +4 |     +1 |     +3 |     +1 |
 
-**Skills** Perception +6, Stealth +10
-**Senses** Darkvision 120 ft.; Passive Perception 16
-**Languages** Elvish, Undercommon
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Perception +6, Stealth +10
+- **Senses** Darkvision 120 ft.; Passive Perception 16
+- **Languages** Elvish, Undercommon
+- **CR** 6 (XP 2,300; PB +3)
 
 #### Traits
 
@@ -20051,10 +20051,10 @@ _**Magic of the Spider Queen (Recharge 5-6).**_ The drider casts _Darkness_, _Fa
 
 _Medium or Small Humanoid (Druid), Neutral_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 44 (8d8 + 8)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 44 (8d8 + 8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20062,11 +20062,11 @@ _Medium or Small Humanoid (Druid), Neutral_
 | **Modifier**     |     +0 |     +1 |     +1 |     +1 |     +3 |     +0 |
 | **Saving Throw** |     +0 |     +1 |     +1 |     +1 |     +3 |     +0 |
 
-**Skills** Medicine +5, Nature +3, Perception +5
-**Gear** Studded Leather Armor
-**Senses** Passive Perception 15
-**Languages** Common, Druidic, Sylvan
-**CR** 2 (XP 450; PB +2)
+- **Skills** Medicine +5, Nature +3, Perception +5
+- **Gear** Studded Leather Armor
+- **Senses** Passive Perception 15
+- **Languages** Common, Druidic, Sylvan
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -20088,10 +20088,10 @@ _**Spellcasting.**_ The druid casts one of the following spells, using Wisdom as
 
 _Medium Fey, Neutral_
 
-**AC** 16
-**Initiative** +1 (11)
-**HP** 22 (5d8)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +1 (11)
+- **HP** 22 (5d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20099,10 +20099,10 @@ _Medium Fey, Neutral_
 | **Modifier**     |     +0 |     +1 |     +0 |     +2 |     +2 |     +4 |
 | **Saving Throw** |     +0 |     +1 |     +0 |     +2 |     +2 |     +4 |
 
-**Skills** Perception +4, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Elvish, Sylvan
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +4, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Elvish, Sylvan
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -20133,10 +20133,10 @@ _**Tree Stride.**_ If within 5 feet of a Large or bigger tree, the dryad telepor
 
 _Large Elemental, Neutral_
 
-**AC** 17
-**Initiative** -1 (9)
-**HP** 147 (14d10 + 70)
-**Speed** 30 ft., Burrow 30 ft.
+- **AC** 17
+- **Initiative** -1 (9)
+- **HP** 147 (14d10 + 70)
+- **Speed** 30 ft., Burrow 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20144,11 +20144,11 @@ _Large Elemental, Neutral_
 | **Modifier**     |     +5 |     -1 |     +5 |     -3 |     +0 |     -3 |
 | **Saving Throw** |     +5 |     -1 |     +5 |     -3 |     +0 |     -3 |
 
-**Vulnerabilities** Thunder
-**Immunities** Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
-**Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10
-**Languages** Primordial (Terran)
-**CR** 5 (XP 1,800; PB +3)
+- **Vulnerabilities** Thunder
+- **Immunities** Poison; Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
+- **Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10
+- **Languages** Primordial (Terran)
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -20170,10 +20170,10 @@ _**Rock Launch.**_ _Ranged Attack Roll:_ +8, range 60 ft. _Hit:_ 8 (1d6 + 5) Blu
 
 _Large Elemental (Genie), Neutral_
 
-**AC** 17
-**Initiative** +1 (11)
-**HP** 212 (17d10 + 119)
-**Speed** 40 ft., Fly 60 ft. (hover)
+- **AC** 17
+- **Initiative** +1 (11)
+- **HP** 212 (17d10 + 119)
+- **Speed** 40 ft., Fly 60 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20181,10 +20181,10 @@ _Large Elemental (Genie), Neutral_
 | **Modifier**     |     +6 |     +1 |     +7 |     +3 |     +2 |     +4 |
 | **Saving Throw** |     +6 |     +1 |     +7 |     +3 |     +6 |     +8 |
 
-**Immunities** Fire
-**Senses** Darkvision 120 ft.; Passive Perception 12
-**Languages** Primordial (Ignan)
-**CR** 11 (XP 7,200; PB +4)
+- **Immunities** Fire
+- **Senses** Darkvision 120 ft.; Passive Perception 12
+- **Languages** Primordial (Ignan)
+- **CR** 11 (XP 7,200; PB +4)
 
 #### Traits
 
@@ -20213,10 +20213,10 @@ _**Spellcasting.**_ The efreeti casts one of the following spells, requiring no 
 
 _Medium Fiend (Devil), Lawful Evil_
 
-**AC** 18
-**Initiative** +7 (17)
-**HP** 178 (21d8 + 84)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 18
+- **Initiative** +7 (17)
+- **HP** 178 (21d8 + 84)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20224,12 +20224,12 @@ _Medium Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +4 |     +3 |     +4 |     +2 |     +2 |     +4 |
 | **Saving Throw** |     +4 |     +7 |     +8 |     +2 |     +2 |     +8 |
 
-**Skills** Perception +6, Persuasion +8
-**Resistances** Cold
-**Immunities** Fire, Poison; Poisoned
-**Senses** Truesight 120 ft.; Passive Perception 16
-**Languages** Infernal; telepathy 120 ft.
-**CR** 12 (XP 8,400; PB +4)
+- **Skills** Perception +6, Persuasion +8
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Truesight 120 ft.; Passive Perception 16
+- **Languages** Infernal; telepathy 120 ft.
+- **CR** 12 (XP 8,400; PB +4)
 
 #### Traits
 
@@ -20257,10 +20257,10 @@ _**Parry.**_ _Trigger:_ The erinyes is hit by a melee attack roll while holding 
 
 _Medium Monstrosity, Neutral Evil_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 44 (8d8 + 8)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 44 (8d8 + 8)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20268,10 +20268,10 @@ _Medium Monstrosity, Neutral Evil_
 | **Modifier**     |     +2 |     +2 |     +1 |     -2 |     +1 |     -1 |
 | **Saving Throw** |     +2 |     +2 |     +1 |     -2 |     +1 |     -1 |
 
-**Skills** Perception +3, Stealth +4, Survival +3
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +3, Stealth +4, Survival +3
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -20299,10 +20299,10 @@ _**Reel.**_ The ettercap pulls one creature within 30 feet of itself that is Res
 
 _Large Giant, Chaotic Evil_
 
-**AC** 12
-**Initiative** -1 (9)
-**HP** 85 (10d10 + 30)
-**Speed** 40 ft.
+- **AC** 12
+- **Initiative** -1 (9)
+- **HP** 85 (10d10 + 30)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20310,12 +20310,12 @@ _Large Giant, Chaotic Evil_
 | **Modifier**     |     +5 |     -1 |     +3 |     -2 |     +0 |     -1 |
 | **Saving Throw** |     +5 |     -1 |     +3 |     -2 |     +0 |     -1 |
 
-**Skills** Perception +4
-**Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-**Gear** Battleaxe, Morningstar
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Giant
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Perception +4
+- **Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+- **Gear** Battleaxe, Morningstar
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Giant
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
 
@@ -20331,10 +20331,10 @@ _**Morningstar.**_ _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 14 (2d8 + 5) Pier
 
 _Large Elemental, Neutral_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 93 (11d10 + 33)
-**Speed** 50 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 93 (11d10 + 33)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20342,11 +20342,11 @@ _Large Elemental, Neutral_
 | **Modifier**     |     +0 |     +3 |     +3 |     -2 |     +0 |     -2 |
 | **Saving Throw** |     +0 |     +3 |     +3 |     -2 |     +0 |     -2 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Fire, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Ignan)
-**CR** 5 (XP 1,800; PB +3)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Fire, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Ignan)
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -20370,10 +20370,10 @@ _**Burn.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 10 (2d6 + 3) Fire damage
 
 _Huge Giant, Lawful Evil_
 
-**AC** 18
-**Initiative** +3 (13)
-**HP** 162 (13d12 + 78)
-**Speed** 30 ft.
+- **AC** 18
+- **Initiative** +3 (13)
+- **HP** 162 (13d12 + 78)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20381,11 +20381,11 @@ _Huge Giant, Lawful Evil_
 | **Modifier**     |     +7 |     -1 |     +6 |     +0 |     +2 |     +1 |
 | **Saving Throw** |     +7 |     +3 |    +10 |     +0 |     +2 |     +5 |
 
-**Skills** Athletics +11, Perception +6
-**Immunities** Fire
-**Senses** Passive Perception 16
-**Languages** Giant
-**CR** 9 (XP 5,000; PB +4)
+- **Skills** Athletics +11, Perception +6
+- **Immunities** Fire
+- **Senses** Passive Perception 16
+- **Languages** Giant
+- **CR** 9 (XP 5,000; PB +4)
 
 #### Actions
 
@@ -20401,10 +20401,10 @@ _**Hammer Throw.**_ _Ranged Attack Roll:_ +11, range 60/240 ft. _Hit:_ 23 (3d10 
 
 _Medium Construct, Neutral_
 
-**AC** 9
-**Initiative** -1 (9)
-**HP** 127 (15d8 + 60)
-**Speed** 30 ft.
+- **AC** 9
+- **Initiative** -1 (9)
+- **HP** 127 (15d8 + 60)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20412,10 +20412,10 @@ _Medium Construct, Neutral_
 | **Modifier**     |     +4 |     -1 |     +4 |     -2 |     +0 |     -3 |
 | **Saving Throw** |     +4 |     -1 |     +4 |     -2 |     +0 |     -3 |
 
-**Immunities** Lightning, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Understands Common plus one other language but can't speak
-**CR** 5 (XP 1,800; PB +3)
+- **Immunities** Lightning, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Understands Common plus one other language but can't speak
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -20443,10 +20443,10 @@ _**Slam.**_ _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 13 (2d8 + 4) Bludgeoning
 
 _Huge Giant, Neutral Evil_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 149 (13d12 + 65)
-**Speed** 40 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 149 (13d12 + 65)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20454,11 +20454,11 @@ _Huge Giant, Neutral Evil_
 | **Modifier**     |     +6 |     -1 |     +5 |     -1 |     +0 |     +1 |
 | **Saving Throw** |     +6 |     -1 |     +8 |     -1 |     +3 |     +4 |
 
-**Skills** Athletics +9, Perception +3
-**Immunities** Cold
-**Senses** Passive Perception 13
-**Languages** Giant
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Athletics +9, Perception +3
+- **Immunities** Cold
+- **Senses** Passive Perception 13
+- **Languages** Giant
+- **CR** 8 (XP 3,900; PB +3)
 
 #### Actions
 
@@ -20478,10 +20478,10 @@ _**War Cry (Recharge 5-6).**_ The giant or one creature of its choice that can s
 
 _Medium Plant, Unaligned_
 
-**AC** 5
-**Initiative** -5 (5)
-**HP** 13 (3d8)
-**Speed** 5 ft.
+- **AC** 5
+- **Initiative** -5 (5)
+- **HP** 13 (3d8)
+- **Speed** 5 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20489,10 +20489,10 @@ _Medium Plant, Unaligned_
 | **Modifier**     |     -5 |     -5 |     +0 |     -5 |     -4 |     -5 |
 | **Saving Throw** |     -5 |     -5 |     +0 |     -5 |     -4 |     -5 |
 
-**Immunities** Blinded, Charmed, Deafened, Frightened
-**Senses** Blindsight 30 ft.; Passive Perception 6
-**Languages** None
-**CR** 0 (XP 0; PB +2)
+- **Immunities** Blinded, Charmed, Deafened, Frightened
+- **Senses** Blindsight 30 ft.; Passive Perception 6
+- **Languages** None
+- **CR** 0 (XP 0; PB +2)
 
 #### Reactions
 
@@ -20502,10 +20502,10 @@ _**Shriek.**_ _Trigger:_ A creature or a source of Bright Light moves within 30 
 
 _Medium Plant, Unaligned_
 
-**AC** 5
-**Initiative** -5 (5)
-**HP** 18 (4d8)
-**Speed** 5 ft.
+- **AC** 5
+- **Initiative** -5 (5)
+- **HP** 18 (4d8)
+- **Speed** 5 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20513,10 +20513,10 @@ _Medium Plant, Unaligned_
 | **Modifier**     |     -4 |     -5 |     +0 |     -5 |     -4 |     -5 |
 | **Saving Throw** |     -4 |     -5 |     +0 |     -5 |     -4 |     -5 |
 
-**Immunities** Blinded, Charmed, Deafened, Frightened
-**Senses** Blindsight 30 ft.; Passive Perception 6
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Immunities** Blinded, Charmed, Deafened, Frightened
+- **Senses** Blindsight 30 ft.; Passive Perception 6
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -20530,10 +20530,10 @@ _**Rotting Touch.**_ _Melee Attack Roll:_ +2, reach 10 ft. _Hit:_ 4 (1d8) Necrot
 
 _Medium Elemental, Chaotic Evil_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 67 (9d8 + 27)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 67 (9d8 + 27)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20541,11 +20541,11 @@ _Medium Elemental, Chaotic Evil_
 | **Modifier**     |     +2 |     +0 |     +3 |     -2 |     +0 |     -2 |
 | **Saving Throw** |     +2 |     +0 |     +3 |     -2 |     +0 |     -2 |
 
-**Skills** Stealth +4
-**Immunities** Poison; Exhaustion, Petrified, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Terran)
-**CR** 2 (XP 450; PB +2)
+- **Skills** Stealth +4
+- **Immunities** Poison; Exhaustion, Petrified, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Terran)
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -20563,10 +20563,10 @@ _**Claw.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 7 (2d4 + 2) Slashing dam
 
 _Large Ooze, Unaligned_
 
-**AC** 6
-**Initiative** -4 (6)
-**HP** 63 (6d10 + 30)
-**Speed** 15 ft.
+- **AC** 6
+- **Initiative** -4 (6)
+- **HP** 63 (6d10 + 30)
+- **Speed** 15 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20574,10 +20574,10 @@ _Large Ooze, Unaligned_
 | **Modifier**     |     +2 |     -4 |     +5 |     -5 |     -2 |     -5 |
 | **Saving Throw** |     +2 |     -4 |     +5 |     -5 |     -2 |     -5 |
 
-**Immunities** Acid; Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
-**Senses** Blindsight 60 ft.; Passive Perception 8
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Immunities** Acid; Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
+- **Senses** Blindsight 60 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -20601,10 +20601,10 @@ _**Engulf.**_ The cube moves up to its Speed without provoking Opportunity Attac
 
 _Medium Undead, Chaotic Evil_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 36 (8d8)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 36 (8d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20612,11 +20612,11 @@ _Medium Undead, Chaotic Evil_
 | **Modifier**     |     +3 |     +3 |     +0 |     +0 |     +0 |     -1 |
 | **Saving Throw** |     +3 |     +3 |     +0 |     +0 |     +2 |     -1 |
 
-**Resistances** Necrotic
-**Immunities** Poison; Charmed, Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Common
-**CR** 2 (XP 450; PB +2)
+- **Resistances** Necrotic
+- **Immunities** Poison; Charmed, Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Common
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -20634,10 +20634,10 @@ _**Claw.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Slashing da
 
 _Medium Undead, Neutral_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 45 (10d8)
-**Speed** 5 ft., Fly 40 ft. (hover)
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 45 (10d8)
+- **Speed** 5 ft., Fly 40 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20645,11 +20645,11 @@ _Medium Undead, Neutral_
 | **Modifier**     |     -2 |     +1 |     +0 |     +0 |     +1 |     +3 |
 | **Saving Throw** |     -2 |     +1 |     +0 |     +0 |     +1 |     +3 |
 
-**Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common plus one other language
-**CR** 4 (XP 1,100; PB +2)
+- **Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common plus one other language
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
 
@@ -20679,10 +20679,10 @@ _Success:_ The target is immune to this ghost's Possession for 24 hours.
 
 _Medium Undead, Chaotic Evil_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 22 (5d8)
-**Speed** 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 22 (5d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20690,10 +20690,10 @@ _Medium Undead, Chaotic Evil_
 | **Modifier**     |     +1 |     +2 |     +0 |     -2 |     +0 |     -2 |
 | **Saving Throw** |     +1 |     +2 |     +0 |     -2 |     +0 |     -2 |
 
-**Immunities** Poison; Charmed, Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Common
-**CR** 1 (XP 200; PB +2)
+- **Immunities** Poison; Charmed, Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Common
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -20709,10 +20709,10 @@ _**Claw.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Slashing dam
 
 _Medium Aberration, Chaotic Neutral_
 
-**AC** 9
-**Initiative** -1 (9)
-**HP** 52 (7d8 + 21)
-**Speed** 20 ft., Swim 20 ft.
+- **AC** 9
+- **Initiative** -1 (9)
+- **HP** 52 (7d8 + 21)
+- **Speed** 20 ft., Swim 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20720,10 +20720,10 @@ _Medium Aberration, Chaotic Neutral_
 | **Modifier**     |     +0 |     -1 |     +3 |     -4 |     +0 |     -2 |
 | **Saving Throw** |     +0 |     -1 |     +3 |     -4 |     +0 |     -2 |
 
-**Immunities** Prone
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Immunities** Prone
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -20747,10 +20747,10 @@ _**Blinding Spittle (Recharge 5-6).**_ _Dexterity Saving Throw:_ DC 10, each cre
 
 _Large Fiend (Demon), Chaotic Evil_
 
-**AC** 17
-**Initiative** +6 (16)
-**HP** 189 (18d10 + 90)
-**Speed** 40 ft.
+- **AC** 17
+- **Initiative** +6 (16)
+- **HP** 189 (18d10 + 90)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20758,12 +20758,12 @@ _Large Fiend (Demon), Chaotic Evil_
 | **Modifier**     |     +5 |     +2 |     +5 |     +4 |     +3 |     +3 |
 | **Saving Throw** |     +9 |     +2 |     +9 |     +4 |     +7 |     +7 |
 
-**Skills** Deception +7, Perception +7
-**Resistances** Cold, Fire, Lightning
-**Immunities** Poison; Poisoned
-**Senses** Truesight 120 ft.; Passive Perception 17
-**Languages** Abyssal; telepathy 120 ft.
-**CR** 9 (XP 5,000; PB +4)
+- **Skills** Deception +7, Perception +7
+- **Resistances** Cold, Fire, Lightning
+- **Immunities** Poison; Poisoned
+- **Senses** Truesight 120 ft.; Passive Perception 17
+- **Languages** Abyssal; telepathy 120 ft.
+- **CR** 9 (XP 5,000; PB +4)
 
 #### Traits
 
@@ -20790,10 +20790,10 @@ _**Spellcasting.**_ The glabrezu casts one of the following spells, requiring no
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 16
-**Initiative** +5 (15)
-**HP** 112 (15d8 + 45)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +5 (15)
+- **HP** 112 (15d8 + 45)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20801,11 +20801,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +4 |     +2 |     +3 |     +0 |     +1 |     +2 |
 | **Saving Throw** |     +7 |     +5 |     +6 |     +0 |     +4 |     +2 |
 
-**Skills** Athletics +10, Performance +5
-**Gear** Shield, Spears (3), Studded Leather Armor
-**Senses** Passive Perception 11
-**Languages** Common
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Athletics +10, Performance +5
+- **Gear** Shield, Spears (3), Studded Leather Armor
+- **Senses** Passive Perception 11
+- **Languages** Common
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
 
@@ -20825,10 +20825,10 @@ _**Parry.**_ _Trigger:_ The gladiator is hit by a melee attack roll while holdin
 
 _Medium Fiend, Chaotic Evil_
 
-**AC** 15
-**Initiative** +1 (11)
-**HP** 27 (6d8)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +1 (11)
+- **HP** 27 (6d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20836,9 +20836,9 @@ _Medium Fiend, Chaotic Evil_
 | **Modifier**     |     +2 |     +1 |     +0 |     -2 |     +0 |     -2 |
 | **Saving Throw** |     +2 |     +1 |     +0 |     -2 |     +0 |     -2 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Gnoll
-**CR** 1/2 (XP 100; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Gnoll
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
 
@@ -20856,10 +20856,10 @@ _**Rampage (1/Day).**_ Immediately after dealing damage to a creature that is al
 
 _Small Fey (Goblinoid), Chaotic Neutral_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 7 (2d6)
-**Speed** 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 7 (2d6)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20867,11 +20867,11 @@ _Small Fey (Goblinoid), Chaotic Neutral_
 | **Modifier**     |     -1 |     +2 |     +0 |     +0 |     -1 |     -1 |
 | **Saving Throw** |     -1 |     +2 |     +0 |     +0 |     -1 |     -1 |
 
-**Skills** Stealth +6
-**Gear** Daggers (3)
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** Common, Goblin
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Stealth +6
+- **Gear** Daggers (3)
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** Common, Goblin
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
 
@@ -20885,10 +20885,10 @@ _**Nimble Escape.**_ The goblin takes the Disengage or Hide action.
 
 _Small Fey (Goblinoid), Chaotic Neutral_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 10 (3d6)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 10 (3d6)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20896,11 +20896,11 @@ _Small Fey (Goblinoid), Chaotic Neutral_
 | **Modifier**     |     -1 |     +2 |     +0 |     +0 |     -1 |     -1 |
 | **Saving Throw** |     -1 |     +2 |     +0 |     +0 |     -1 |     -1 |
 
-**Skills** Stealth +6
-**Gear** Leather Armor, Scimitar, Shield, Shortbow
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** Common, Goblin
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Stealth +6
+- **Gear** Leather Armor, Scimitar, Shield, Shortbow
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** Common, Goblin
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -20916,9 +20916,9 @@ _**Nimble Escape.**_ The goblin takes the Disengage or Hide action.
 
 _Small Fey (Goblinoid), Chaotic Neutral_
 
-**AC** 17
-**HP** 21 (6d6)
-**Speed** 30 ft.
+- **AC** 17
+- **HP** 21 (6d6)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20926,11 +20926,11 @@ _Small Fey (Goblinoid), Chaotic Neutral_
 | **Modifier**     |     +0 |     +2 |     +0 |     +0 |     -1 |     +0 |
 | **Saving Throw** |     +0 |     +2 |     +0 |     +0 |     -1 |     +0 |
 
-**Skills** Stealth +6
-**Gear** Chain Shirt, Scimitar, Shield, Shortbow
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** Common, Goblin
-**CR** 1 (XP 200; PB +2)
+- **Skills** Stealth +6
+- **Gear** Chain Shirt, Scimitar, Shield, Shortbow
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** Common, Goblin
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -20954,10 +20954,10 @@ _**Redirect Attack.**_ _Trigger:_ A creature the goblin can see makes an attack 
 
 _Medium Dragon (Metallic), Lawful Good_
 
-**AC** 17
-**Initiative** +4 (14)
-**HP** 60 (8d8 + 24)
-**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 17
+- **Initiative** +4 (14)
+- **HP** 60 (8d8 + 24)
+- **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -20965,11 +20965,11 @@ _Medium Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +4 |     +2 |     +3 |     +2 |     +0 |     +3 |
 | **Saving Throw** |     +4 |     +4 |     +3 |     +2 |     +2 |     +3 |
 
-**Skills** Perception +4, Stealth +4
-**Immunities** Fire
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 3 (700 XP; PB +2)
+- **Skills** Perception +4, Stealth +4
+- **Immunities** Fire
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 3 (700 XP; PB +2)
 
 #### Traits
 
@@ -20989,10 +20989,10 @@ _**Weakening Breath.**_ _Strength Saving Throw:_ DC 13, each creature that isn't
 
 _Large Dragon (Metallic), Lawful Good_
 
-**AC** 18
-**Initiative** +6 (16)
-**HP** 178 (17d10 + 85)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 18
+- **Initiative** +6 (16)
+- **HP** 178 (17d10 + 85)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21000,11 +21000,11 @@ _Large Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +6 |     +2 |     +5 |     +3 |     +1 |     +5 |
 | **Saving Throw** |     +6 |     +6 |     +5 |     +3 |     +5 |     +5 |
 
-**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
-**Immunities** Fire
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 19
-**Languages** Common, Draconic
-**CR** 10 (XP 5,900; PB +4)
+- **Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
+- **Immunities** Fire
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 19
+- **Languages** Common, Draconic
+- **CR** 10 (XP 5,900; PB +4)
 
 #### Traits
 
@@ -21024,10 +21024,10 @@ _**Weakening Breath.**_ _Strength Saving Throw:_ DC 17, each creature that isn't
 
 _Huge Dragon (Metallic), Lawful Good_
 
-**AC** 19
-**Initiative** +14 (24)
-**HP** 243 (18d12 + 126)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 19
+- **Initiative** +14 (24)
+- **HP** 243 (18d12 + 126)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21035,11 +21035,11 @@ _Huge Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +8 |     +2 |     +7 |     +3 |     +2 |     +7 |
 | **Saving Throw** |     +8 |     +8 |     +7 |     +3 |     +8 |     +7 |
 
-**Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
-**Immunities** Fire
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 24
-**Languages** Common, Draconic
-**CR** 17 (XP 18,000, or 20,000 in lair; PB +6)
+- **Skills** Insight +8, Perception +14, Persuasion +13, Stealth +8
+- **Immunities** Fire
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 24
+- **Languages** Common, Draconic
+- **CR** 17 (XP 18,000, or 20,000 in lair; PB +6)
 
 #### Traits
 
@@ -21076,10 +21076,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Gargantuan Dragon (Metallic), Lawful Good_
 
-**AC** 22
-**Initiative** +16 (26)
-**HP** 546 (28d20 + 252)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 22
+- **Initiative** +16 (26)
+- **HP** 546 (28d20 + 252)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21087,11 +21087,11 @@ _Gargantuan Dragon (Metallic), Lawful Good_
 | **Modifier**     |    +10 |     +2 |     +9 |     +4 |     +3 |     +9 |
 | **Saving Throw** |    +10 |     +9 |     +9 |     +4 |    +10 |     +9 |
 
-**Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
-**Immunities** Fire
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
-**Languages** Common, Draconic
-**CR** 24 (XP 62,000, or 75,000 in lair; PB +7)
+- **Skills** Insight +10, Perception +17, Persuasion +16, Stealth +9
+- **Immunities** Fire
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
+- **Languages** Common, Draconic
+- **CR** 24 (XP 62,000, or 75,000 in lair; PB +7)
 
 #### Traits
 
@@ -21130,10 +21130,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Large Construct, Unaligned_
 
-**AC** 19
-**Initiative** +0 (10)
-**HP** 114 (12d10 + 48)
-**Speed** 40 ft.
+- **AC** 19
+- **Initiative** +0 (10)
+- **HP** 114 (12d10 + 48)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21141,11 +21141,11 @@ _Large Construct, Unaligned_
 | **Modifier**     |     +5 |     +0 |     +4 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +5 |     +0 |     +4 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +7
-**Immunities** Exhaustion, Petrified
-**Senses** Darkvision 60 ft.; Passive Perception 17
-**Languages** None
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +7
+- **Immunities** Exhaustion, Petrified
+- **Senses** Darkvision 60 ft.; Passive Perception 17
+- **Languages** None
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
 
@@ -21163,10 +21163,10 @@ _**Trample.**_ _Dexterity Saving Throw:_ DC 16, one creature within 5 feet that 
 
 _Medium Ooze, Unaligned_
 
-**AC** 9
-**Initiative** -2 (13)
-**HP** 22 (3d8 + 9)
-**Speed** 10 ft., Climb 10 ft.
+- **AC** 9
+- **Initiative** -2 (13)
+- **HP** 22 (3d8 + 9)
+- **Speed** 10 ft., Climb 10 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21174,12 +21174,12 @@ _Medium Ooze, Unaligned_
 | **Modifier**     |     +1 |     -2 |     +3 |     -5 |     -2 |     -4 |
 | **Saving Throw** |     +1 |     -2 |     +3 |     -5 |     -2 |     -4 |
 
-**Skills** Stealth +2
-**Resistances** Acid, Cold, Fire
-**Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-**Senses** Blindsight 60 ft.; Passive Perception 8
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Stealth +2
+- **Resistances** Acid, Cold, Fire
+- **Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+- **Senses** Blindsight 60 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -21199,10 +21199,10 @@ _**Pseudopod.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 10 (2d8 + 1) Acid d
 
 _Medium Dragon (Chromatic), Lawful Evil_
 
-**AC** 17
-**Initiative** +3 (13)
-**HP** 38 (7d8 + 7)
-**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 17
+- **Initiative** +3 (13)
+- **HP** 38 (7d8 + 7)
+- **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21210,11 +21210,11 @@ _Medium Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +2 |     +1 |     +1 |     +2 |     +0 |     +1 |
 | **Saving Throw** |     +2 |     +3 |     +1 |     +2 |     +2 |     +1 |
 
-**Skills** Perception +4, Stealth +3
-**Immunities** Poison; Poisoned
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +4, Stealth +3
+- **Immunities** Poison; Poisoned
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -21232,10 +21232,10 @@ _**Poison Breath (Recharge 5-6).**_ _Constitution Saving Throw:_ DC 11, each cre
 
 _Large Dragon (Chromatic), Lawful Evil_
 
-**AC** 18
-**Initiative** +4 (14)
-**HP** 136 (16d10 + 48)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 18
+- **Initiative** +4 (14)
+- **HP** 136 (16d10 + 48)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21243,11 +21243,11 @@ _Large Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +4 |     +1 |     +3 |     +3 |     +1 |     +2 |
 | **Saving Throw** |     +4 |     +4 |     +3 |     +3 |     +4 |     +2 |
 
-**Skills** Deception +5, Perception +7, Stealth +4
-**Immunities** Poison; Poisoned
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
-**Languages** Common, Draconic
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Deception +5, Perception +7, Stealth +4
+- **Immunities** Poison; Poisoned
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 17
+- **Languages** Common, Draconic
+- **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
 
@@ -21263,10 +21263,10 @@ _**Poison Breath (Recharge 5-6).**_ _Constitution Saving Throw:_ DC 14, each cre
 
 _Huge Dragon (Chromatic), Lawful Evil_
 
-**AC** 19
-**Initiative** +11 (21)
-**HP** 207 (18d12 + 90)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 19
+- **Initiative** +11 (21)
+- **HP** 207 (18d12 + 90)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21274,11 +21274,11 @@ _Huge Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +6 |     +1 |     +5 |     +4 |     +2 |     +4 |
 | **Saving Throw** |     +6 |     +6 |     +5 |     +4 |     +7 |     +4 |
 
-**Skills** Deception +9, Perception +12, Persuasion +9, Stealth +6
-**Immunities** Poison; Poisoned
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
-**Languages** Common, Draconic
-**CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
+- **Skills** Deception +9, Perception +12, Persuasion +9, Stealth +6
+- **Immunities** Poison; Poisoned
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
+- **Languages** Common, Draconic
+- **CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
 
 #### Traits
 
@@ -21313,10 +21313,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Gargantuan Dragon (Chromatic), Lawful Evil_
 
-**AC** 21
-**Initiative** +15 (25)
-**HP** 402 (23d20 + 161)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 21
+- **Initiative** +15 (25)
+- **HP** 402 (23d20 + 161)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21324,11 +21324,11 @@ _Gargantuan Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +8 |     +1 |     +7 |     +5 |     +3 |     +6 |
 | **Saving Throw** |     +8 |     +8 |     +7 |     +5 |    +10 |     +6 |
 
-**Skills** Deception +13, Perception +17, Persuasion +13, Stealth +8
-**Immunities** Poison; Poisoned
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
-**Languages** Common, Draconic
-**CR** 22 (XP 41,000, or 50,000 in lair; PB +7)
+- **Skills** Deception +13, Perception +17, Persuasion +13, Stealth +8
+- **Immunities** Poison; Poisoned
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 27
+- **Languages** Common, Draconic
+- **CR** 22 (XP 41,000, or 50,000 in lair; PB +7)
 
 #### Traits
 
@@ -21365,10 +21365,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Medium Fey, Neutral Evil_
 
-**AC** 17
-**Initiative** +1 (11)
-**HP** 82 (11d8 + 33)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 17
+- **Initiative** +1 (11)
+- **HP** 82 (11d8 + 33)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21376,10 +21376,10 @@ _Medium Fey, Neutral Evil_
 | **Modifier**     |     +4 |     +1 |     +3 |     +1 |     +2 |     +2 |
 | **Saving Throw** |     +4 |     +1 |     +3 |     +1 |     +2 |     +2 |
 
-**Skills** Arcana +5, Deception +4, Perception +4, Stealth +3
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Common, Elvish, Sylvan
-**CR** 3 (XP 700; PB +2)
+- **Skills** Arcana +5, Deception +4, Perception +4, Stealth +3
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Common, Elvish, Sylvan
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -21405,10 +21405,10 @@ _**Spellcasting.**_ The hag casts one of the following spells, requiring no Mate
 
 _Medium Aberration, Unaligned_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 54 (12d8)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 54 (12d8)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21416,10 +21416,10 @@ _Medium Aberration, Unaligned_
 | **Modifier**     |     +2 |     +2 |     +0 |     -4 |     +2 |     -3 |
 | **Saving Throw** |     +2 |     +2 |     +0 |     -4 |     +2 |     -3 |
 
-**Skills** Stealth +4
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Stealth +4
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -21435,10 +21435,10 @@ _**Tentacles.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 7 (1d10 + 2) Slashi
 
 _Large Monstrosity, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 59 (7d10 + 21)
-**Speed** 30 ft., Fly 80 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 59 (7d10 + 21)
+- **Speed** 30 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21446,10 +21446,10 @@ _Large Monstrosity, Unaligned_
 | **Modifier**     |     +4 |     +2 |     +3 |     -4 |     +1 |     -1 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     -4 |     +1 |     -1 |
 
-**Skills** Perception +5
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +5
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -21463,10 +21463,10 @@ _**Rend.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 8 (1d8 + 4) Piercing dam
 
 _Medium Aberration, Neutral Evil_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 11 (2d8 + 2)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 11 (2d8 + 2)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21474,10 +21474,10 @@ _Medium Aberration, Neutral Evil_
 | **Modifier**     |     +3 |     +1 |     +1 |     -1 |     -1 |     -2 |
 | **Saving Throw** |     +3 |     +1 |     +1 |     -1 |     -1 |     -2 |
 
-**Skills** Athletics +5, Perception +3, Stealth +5
-**Senses** Blindsight 30 ft.; Passive Perception 13
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Athletics +5, Perception +3, Stealth +5
+- **Senses** Blindsight 30 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -21489,10 +21489,10 @@ _**Bone Cudgel.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 6 (1d6 + 3) Bludg
 
 _Large Celestial, Lawful Good_
 
-**AC** 18
-**Initiative** +4 (14)
-**HP** 136 (16d10 + 48)
-**Speed** 40 ft., Climb 40 ft., Swim 40 ft.
+- **AC** 18
+- **Initiative** +4 (14)
+- **HP** 136 (16d10 + 48)
+- **Speed** 40 ft., Climb 40 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21500,11 +21500,11 @@ _Large Celestial, Lawful Good_
 | **Modifier**     |     +4 |     +4 |     +3 |     +3 |     +4 |     +4 |
 | **Saving Throw** |     +4 |     +8 |     +7 |     +7 |     +8 |     +8 |
 
-**Skills** Arcana +11, History +11, Religion +11
-**Immunities** Poison; Charmed, Paralyzed, Poisoned, Restrained
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Celestial, Common
-**CR** 10 (XP 5,900; PB +4)
+- **Skills** Arcana +11, History +11, Religion +11
+- **Immunities** Poison; Charmed, Paralyzed, Poisoned, Restrained
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Celestial, Common
+- **CR** 10 (XP 5,900; PB +4)
 
 #### Traits
 
@@ -21529,10 +21529,10 @@ _**Spellcasting.**_ The naga casts one of the following spells, requiring no Som
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 16
-**Initiative** +1 (11)
-**HP** 11 (2d8 + 2)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +1 (11)
+- **HP** 11 (2d8 + 2)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21540,11 +21540,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +1 |     +1 |     +1 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +1 |     +1 |     +1 |     +0 |     +0 |     +0 |
 
-**Skills** Perception +2
-**Gear** Chain Shirt, Shield, Spear
-**Senses** Passive Perception 12
-**Languages** Common
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Perception +2
+- **Gear** Chain Shirt, Shield, Spear
+- **Senses** Passive Perception 12
+- **Languages** Common
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
 
@@ -21554,10 +21554,10 @@ _**Spear.**_ _Melee or Ranged Attack Roll:_ +3, reach 5 ft. or range 20/60 ft. _
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 18
-**Initiative** +4 (14)
-**HP** 75 (10d8 + 30)
-**Speed** 30 ft.
+- **AC** 18
+- **Initiative** +4 (14)
+- **HP** 75 (10d8 + 30)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21565,11 +21565,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +4 |     +2 |     +3 |     +1 |     +2 |     +1 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     +1 |     +2 |     +1 |
 
-**Skills** Athletics +6, Perception +4
-**Gear** Breastplate, Javelins (6), Longsword, Shield
-**Senses** Passive Perception 14
-**Languages** Common
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Athletics +6, Perception +4
+- **Gear** Breastplate, Javelins (6), Longsword, Shield
+- **Senses** Passive Perception 14
+- **Languages** Common
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
 
@@ -21585,10 +21585,10 @@ _**Longsword.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 15 (2d10 + 4) Slash
 
 _Medium Dragon, Neutral_
 
-**AC** 18
-**Initiative** +5 (15)
-**HP** 105 (14d8 + 42)
-**Speed** 40 ft.
+- **AC** 18
+- **Initiative** +5 (15)
+- **HP** 105 (14d8 + 42)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21596,11 +21596,11 @@ _Medium Dragon, Neutral_
 | **Modifier**     |     +4 |     +2 |     +3 |     +0 |     +2 |     +2 |
 | **Saving Throw** |     +4 |     +5 |     +3 |     +0 |     +5 |     +2 |
 
-**Skills** Athletics +7, Perception +5, Stealth +5
-**Resistances** Damage type chosen for the Draconic Origin trait below
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 15
-**Languages** Common, Draconic
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Athletics +7, Perception +5, Stealth +5
+- **Resistances** Damage type chosen for the Draconic Origin trait below
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 15
+- **Languages** Common, Draconic
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -21624,10 +21624,10 @@ _**Leap.**_ The half-dragon jumps up to 30 feet by spending 10 feet of movement.
 
 _Medium Monstrosity, Chaotic Evil_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 38 (7d8 + 7)
-**Speed** 20 ft., Fly 40 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 38 (7d8 + 7)
+- **Speed** 20 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21635,9 +21635,9 @@ _Medium Monstrosity, Chaotic Evil_
 | **Modifier**     |     +1 |     +1 |     +1 |     -2 |     +0 |     +1 |
 | **Saving Throw** |     +1 |     +1 |     +1 |     -2 |     +0 |     +1 |
 
-**Senses** Passive Perception 10
-**Languages** Common
-**CR** 1 (XP 200; PB +2)
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -21651,10 +21651,10 @@ _**Luring Song.**_ The harpy sings a magical melody, which lasts until the harpy
 
 _Medium Fiend, Lawful Evil_
 
-**AC** 15
-**Initiative** +1 (11)
-**HP** 58 (9d8 + 18)
-**Speed** 50 ft.
+- **AC** 15
+- **Initiative** +1 (11)
+- **HP** 58 (9d8 + 18)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21662,11 +21662,11 @@ _Medium Fiend, Lawful Evil_
 | **Modifier**     |     +3 |     +1 |     +2 |     -2 |     +1 |     -2 |
 | **Saving Throw** |     +3 |     +1 |     +2 |     -2 |     +1 |     -2 |
 
-**Skills** Perception +5
-**Immunities** Fire
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** Understands Infernal but can't speak
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +5
+- **Immunities** Fire
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** Understands Infernal but can't speak
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -21686,10 +21686,10 @@ _**Fire Breath (Recharge 5-6).**_ _Dexterity Saving Throw:_ DC 12, each creature
 
 _Large Fiend (Demon), Chaotic Evil_
 
-**AC** 18
-**Initiative** +6 (16)
-**HP** 157 (15d10 + 75)
-**Speed** 30 ft.
+- **AC** 18
+- **Initiative** +6 (16)
+- **HP** 157 (15d10 + 75)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21697,11 +21697,11 @@ _Large Fiend (Demon), Chaotic Evil_
 | **Modifier**     |     +4 |     +3 |     +5 |     -3 |     +1 |     +1 |
 | **Saving Throw** |     +7 |     +3 |     +8 |     -3 |     +4 |     +1 |
 
-**Resistances** Cold, Fire, Lightning
-**Immunities** Poison; Poisoned
-**Senses** Darkvision 120 ft.; Passive Perception 11
-**Languages** Abyssal; telepathy 120 ft.
-**CR** 8 (XP 3,900; PB +3)
+- **Resistances** Cold, Fire, Lightning
+- **Immunities** Poison; Poisoned
+- **Senses** Darkvision 120 ft.; Passive Perception 11
+- **Languages** Abyssal; telepathy 120 ft.
+- **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
 
@@ -21727,10 +21727,10 @@ _**Leap.**_ The hezrou jumps up to 30 feet by spending 10 feet of movement.
 
 _Huge Giant, Chaotic Evil_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 105 (10d12 + 40)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 105 (10d12 + 40)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21738,10 +21738,10 @@ _Huge Giant, Chaotic Evil_
 | **Modifier**     |     +5 |     -1 |     +4 |     -3 |     -1 |     -2 |
 | **Saving Throw** |     +5 |     -1 |     +4 |     -3 |     -1 |     -2 |
 
-**Skills** Perception +2
-**Senses** Passive Perception 12
-**Languages** Giant
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +2
+- **Senses** Passive Perception 12
+- **Languages** Giant
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
 
@@ -21757,10 +21757,10 @@ _**Trash Lob.**_ _Ranged Attack Roll:_ +8, range 60/240 ft. _Hit:_ 16 (2d10 + 5)
 
 _Large Monstrosity, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 26 (4d10 + 4)
-**Speed** 40 ft., Fly 60 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 26 (4d10 + 4)
+- **Speed** 40 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21768,10 +21768,10 @@ _Large Monstrosity, Unaligned_
 | **Modifier**     |     +3 |     +1 |     +1 |     -4 |     +1 |     -1 |
 | **Saving Throw** |     +3 |     +1 |     +1 |     -4 |     +1 |     -1 |
 
-**Skills** Perception +5
-**Senses** Passive Perception 15
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +5
+- **Senses** Passive Perception 15
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -21789,10 +21789,10 @@ _**Rend.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Slashing dam
 
 _Medium Fey (Goblinoid), Lawful Evil_
 
-**AC** 18
-**Initiative** +3 (13)
-**HP** 11 (2d8 + 2)
-**Speed** 30 ft.
+- **AC** 18
+- **Initiative** +3 (13)
+- **HP** 11 (2d8 + 2)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21800,10 +21800,10 @@ _Medium Fey (Goblinoid), Lawful Evil_
 | **Modifier**     |     +1 |     +1 |     +1 |     +0 |     +0 |     -1 |
 | **Saving Throw** |     +1 |     +1 |     +1 |     +0 |     +0 |     -1 |
 
-**Gear** Half Plate Armor, Longbow, Longsword, Shield
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Common, Goblin
-**CR** 1/2 (XP 100; PB +2)
+- **Gear** Half Plate Armor, Longbow, Longsword, Shield
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Common, Goblin
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -21819,10 +21819,10 @@ _**Longbow.**_ _Ranged Attack Roll:_ +3, range 150/600 ft. _Hit:_ 5 (1d8 + 1) Pi
 
 _Medium Fey (Goblinoid), Lawful Evil_
 
-**AC** 17
-**Initiative** +4 (14)
-**HP** 58 (9d8 + 18)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +4 (14)
+- **HP** 58 (9d8 + 18)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21830,10 +21830,10 @@ _Medium Fey (Goblinoid), Lawful Evil_
 | **Modifier**     |     +2 |     +2 |     +2 |     +1 |     +0 |     +1 |
 | **Saving Throw** |     +2 |     +2 |     +2 |     +1 |     +0 |     +1 |
 
-**Gear** Greatsword, Half Plate Armor, Longbow
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Common, Goblin
-**CR** 3 (XP 700; PB +2)
+- **Gear** Greatsword, Half Plate Armor, Longbow
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Common, Goblin
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -21853,10 +21853,10 @@ _**Longbow.**_ _Ranged Attack Roll:_ +4, range 150/600 ft. _Hit:_ 6 (1d8 + 2) Pi
 
 _Tiny Construct, Neutral_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 4 (1d4 + 2)
-**Speed** 20 ft., Fly 40 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 4 (1d4 + 2)
+- **Speed** 20 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21864,10 +21864,10 @@ _Tiny Construct, Neutral_
 | **Modifier**     |     -3 |     +2 |     +2 |     +0 |     +0 |     -2 |
 | **Saving Throw** |     -3 |     +2 |     +2 |     +0 |     +2 |     +0 |
 
-**Immunities** Poison; Charmed, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Understands Common plus one other language but can't speak
-**CR** 0 (XP 10; PB +2)
+- **Immunities** Poison; Charmed, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Understands Common plus one other language but can't speak
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -21883,10 +21883,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1 Piercing damage, and t
 
 _Large Fiend (Devil), Lawful Evil_
 
-**AC** 18
-**Initiative** +7 (17)
-**HP** 199 (19d10 + 95)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 18
+- **Initiative** +7 (17)
+- **HP** 199 (19d10 + 95)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21894,11 +21894,11 @@ _Large Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +6 |     +3 |     +5 |     +1 |     +3 |     +4 |
 | **Saving Throw** |    +10 |     +7 |     +5 |     +1 |     +7 |     +8 |
 
-**Resistances** Cold
-**Immunities** Fire, Poison; Poisoned
-**Senses** Darkvision 150 ft. (unimpeded by magical Darkness); Passive Perception 13
-**Languages** Infernal; telepathy 120 ft.
-**CR** 11 (XP 7,200; PB +4)
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Darkvision 150 ft. (unimpeded by magical Darkness); Passive Perception 13
+- **Languages** Infernal; telepathy 120 ft.
+- **CR** 11 (XP 7,200; PB +4)
 
 #### Traits
 
@@ -21922,10 +21922,10 @@ _**Infernal Tail.**_ _Dexterity Saving Throw:_ DC 17, one creature the devil can
 
 _Huge Monstrosity, Unaligned_
 
-**AC** 15
-**Initiative** +4 (14)
-**HP** 184 (16d12 + 80)
-**Speed** 40 ft., Swim 40 ft.
+- **AC** 15
+- **Initiative** +4 (14)
+- **HP** 184 (16d12 + 80)
+- **Speed** 40 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21933,11 +21933,11 @@ _Huge Monstrosity, Unaligned_
 | **Modifier**     |     +5 |     +1 |     +5 |     -4 |     +0 |     -2 |
 | **Saving Throw** |     +5 |     +1 |     +5 |     -4 |     +0 |     -2 |
 
-**Skills** Perception +6
-**Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 16
-**Languages** None
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Perception +6
+- **Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 16
+- **Languages** None
+- **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
 
@@ -21959,10 +21959,10 @@ _**Bite.**_ _Melee Attack Roll:_ +8, reach 10 ft. _Hit:_ 10 (1d10 + 5) Piercing 
 
 _Large Fiend (Devil), Lawful Evil_
 
-**AC** 18
-**Initiative** +7 (17)
-**HP** 228 (24d10 + 96)
-**Speed** 40 ft.
+- **AC** 18
+- **Initiative** +7 (17)
+- **HP** 228 (24d10 + 96)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -21970,11 +21970,11 @@ _Large Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +5 |     +2 |     +4 |     +4 |     +2 |     +4 |
 | **Saving Throw** |     +5 |     +7 |     +9 |     +4 |     +7 |     +9 |
 
-**Skills** Insight +7, Perception +7, Persuasion +9
-**Immunities** Cold, Fire, Poison; Poisoned
-**Senses** Blindsight 120 ft.; Passive Perception 17
-**Languages** Infernal; telepathy 120 ft.
-**CR** 14 (XP 11,500; PB +5)
+- **Skills** Insight +7, Perception +7, Persuasion +9
+- **Immunities** Cold, Fire, Poison; Poisoned
+- **Senses** Blindsight 120 ft.; Passive Perception 17
+- **Languages** Infernal; telepathy 120 ft.
+- **CR** 14 (XP 11,500; PB +5)
 
 #### Traits
 
@@ -21998,10 +21998,10 @@ _**Ice Wall (Recharge 6).**_ The devil casts _Wall of Ice_ (level 8 version), re
 
 _Tiny Fiend (Devil), Lawful Evil_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 21 (6d4 + 6)
-**Speed** 20 ft., Fly 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 21 (6d4 + 6)
+- **Speed** 20 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22009,12 +22009,12 @@ _Tiny Fiend (Devil), Lawful Evil_
 | **Modifier**     |     -2 |     +3 |     +1 |     +0 |     +1 |     +2 |
 | **Saving Throw** |     -2 |     +3 |     +1 |     +0 |     +1 |     +2 |
 
-**Skills** Deception +4, Insight +3, Stealth +5
-**Resistances** Cold
-**Immunities** Fire, Poison; Poisoned
-**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 11
-**Languages** Common, Infernal
-**CR** 1 (XP 200; PB +2)
+- **Skills** Deception +4, Insight +3, Stealth +5
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 11
+- **Languages** Common, Infernal
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -22034,10 +22034,10 @@ _**Shape-Shift.**_ The imp shape-shifts to resemble a rat (Speed 20 ft.), a rave
 
 _Medium Fiend, Neutral Evil_
 
-**AC** 15
-**Initiative** +3 (13)
-**HP** 66 (12d8 + 12)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 15
+- **Initiative** +3 (13)
+- **HP** 66 (12d8 + 12)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22045,11 +22045,11 @@ _Medium Fiend, Neutral Evil_
 | **Modifier**     |     -1 |     +3 |     +1 |     +2 |     +1 |     +5 |
 | **Saving Throw** |     -1 |     +3 |     +1 |     +2 |     +1 |     +5 |
 
-**Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
-**Resistances** Cold, Fire, Poison, Psychic
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** Abyssal, Common, Infernal; telepathy 60 ft.
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+- **Resistances** Cold, Fire, Poison, Psychic
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** Abyssal, Common, Infernal; telepathy 60 ft.
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
 
@@ -22076,10 +22076,10 @@ _**Nightmare (Recharge 6).**_ _Wisdom Saving Throw:_ DC 15, one creature the inc
 
 _Large Elemental, Neutral_
 
-**AC** 14
-**Initiative** +7 (22)
-**HP** 97 (13d10 + 26)
-**Speed** 50 ft., Fly 50 ft. (hover)
+- **AC** 14
+- **Initiative** +7 (22)
+- **HP** 97 (13d10 + 26)
+- **Speed** 50 ft., Fly 50 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22087,12 +22087,12 @@ _Large Elemental, Neutral_
 | **Modifier**     |     +3 |     +4 |     +2 |     +0 |     +2 |     +0 |
 | **Saving Throw** |     +3 |     +4 |     +2 |     +0 |     +2 |     +0 |
 
-**Skills** Perception +8, Stealth +10
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 18
-**Languages** Common, Primordial (Auran)
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Perception +8, Stealth +10
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 18
+- **Languages** Common, Primordial (Auran)
+- **CR** 6 (XP 2,300; PB +3)
 
 #### Traits
 
@@ -22114,10 +22114,10 @@ _**Vortex.**_ _Constitution Saving Throw:_ DC 14, one Large or smaller creature 
 
 _Large Construct, Unaligned_
 
-**AC** 20
-**Initiative** +9 (19)
-**HP** 252 (24d10 + 120)
-**Speed** 30 ft.
+- **AC** 20
+- **Initiative** +9 (19)
+- **HP** 252 (24d10 + 120)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22125,10 +22125,10 @@ _Large Construct, Unaligned_
 | **Modifier**     |     +7 |     -1 |     +5 |     -4 |     +0 |     -5 |
 | **Saving Throw** |     +7 |     -1 |     +5 |     -4 |     +0 |     -5 |
 
-**Immunities** Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Darkvision 120 ft.; Passive Perception 10
-**Languages** Understands Common plus two other languages but can't speak
-**CR** 16 (XP 15,000; PB +5)
+- **Immunities** Fire, Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Darkvision 120 ft.; Passive Perception 10
+- **Languages** Understands Common plus two other languages but can't speak
+- **CR** 16 (XP 15,000; PB +5)
 
 #### Traits
 
@@ -22154,10 +22154,10 @@ _**Poison Breath (Recharge 6).**_ _Constitution Saving Throw:_ DC 18, each creat
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 18
-**Initiative** +0 (10)
-**HP** 52 (8d8 + 16)
-**Speed** 30 ft.
+- **AC** 18
+- **Initiative** +0 (10)
+- **HP** 52 (8d8 + 16)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22165,11 +22165,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +3 |     +0 |     +2 |     +0 |     +0 |     +2 |
 | **Saving Throw** |     +3 |     +0 |     +4 |     +0 |     +2 |     +2 |
 
-**Immunities** Frightened
-**Gear** Greatsword, Heavy Crossbow, Plate Armor
-**Senses** Passive Perception 10
-**Languages** Common plus one other language
-**CR** 3 (XP 700; PB +2)
+- **Immunities** Frightened
+- **Gear** Greatsword, Heavy Crossbow, Plate Armor
+- **Senses** Passive Perception 10
+- **Languages** Common plus one other language
+- **CR** 3 (XP 700; PB +2)
 
 #### Actions
 
@@ -22189,10 +22189,10 @@ _**Parry.**_ _Trigger:_ The knight is hit by a melee attack roll while holding a
 
 _Small Dragon, Neutral_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 7 (3d6 - 3)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 7 (3d6 - 3)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22200,10 +22200,10 @@ _Small Dragon, Neutral_
 | **Modifier**     |     -2 |     +2 |     -1 |     -1 |     -2 |     -1 |
 | **Saving Throw** |     -2 |     +2 |     -1 |     -1 |     -2 |     -1 |
 
-**Gear** Daggers (3)
-**Senses** Darkvision 60 ft.; Passive Perception 8
-**Languages** Common, Draconic
-**CR** 1/8 (XP 25; PB +2)
+- **Gear** Daggers (3)
+- **Senses** Darkvision 60 ft.; Passive Perception 8
+- **Languages** Common, Draconic
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
 
@@ -22221,10 +22221,10 @@ _**Dagger.**_ _Melee or Ranged Attack Roll:_ +4, reach 5 ft. or range 20/60 ft. 
 
 _Gargantuan Monstrosity (Titan), Chaotic Evil_
 
-**AC** 18
-**Initiative** +14 (24)
-**HP** 481 (26d20 + 208)
-**Speed** 30 ft., Swim 120 ft.
+- **AC** 18
+- **Initiative** +14 (24)
+- **HP** 481 (26d20 + 208)
+- **Speed** 30 ft., Swim 120 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22232,11 +22232,11 @@ _Gargantuan Monstrosity (Titan), Chaotic Evil_
 | **Modifier**     |    +10 |     +0 |     +8 |     +6 |     +4 |     +5 |
 | **Saving Throw** |    +17 |     +7 |    +15 |     +6 |    +11 |     +5 |
 
-**Skills** History +13, Perception +11
-**Immunities** Cold, Lightning; Frightened, Grappled, Paralyzed, Restrained
-**Senses** Truesight 120 ft.; Passive Perception 21
-**Languages** Understands Abyssal, Celestial, Infernal, and Primordial but can't speak; telepathy 120 ft.
-**CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
+- **Skills** History +13, Perception +11
+- **Immunities** Cold, Lightning; Frightened, Grappled, Paralyzed, Restrained
+- **Senses** Truesight 120 ft.; Passive Perception 21
+- **Languages** Understands Abyssal, Celestial, Infernal, and Primordial but can't speak; telepathy 120 ft.
+- **CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
 
 #### Traits
 
@@ -22274,10 +22274,10 @@ _**Toxic Ink.**_ _Constitution Saving Throw:_ DC 23, each creature in a 15-foot 
 
 _Large Fiend, Chaotic Evil_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 97 (13d10 + 26)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 97 (13d10 + 26)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22285,10 +22285,10 @@ _Large Fiend, Chaotic Evil_
 | **Modifier**     |     +3 |     +1 |     +2 |     +2 |     +2 |     +3 |
 | **Saving Throw** |     +3 |     +1 |     +2 |     +2 |     +2 |     +3 |
 
-**Skills** Deception +7, Insight +4, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** Abyssal, Common
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Deception +7, Insight +4, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** Abyssal, Common
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
 
@@ -22313,10 +22313,10 @@ _**Leap.**_ The lamia jumps up to 30 feet by spending 10 feet of movement.
 
 _Medium Fiend (Devil), Lawful Evil_
 
-**AC** 9
-**Initiative** -3 (7)
-**HP** 9 (2d8)
-**Speed** 20 ft.
+- **AC** 9
+- **Initiative** -3 (7)
+- **HP** 9 (2d8)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22324,11 +22324,11 @@ _Medium Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +0 |     -3 |     +0 |     -5 |     +0 |     -4 |
 | **Saving Throw** |     +0 |     -3 |     +0 |     -5 |     +0 |     -4 |
 
-**Resistances** Cold
-**Immunities** Fire, Poison; Charmed, Frightened, Poisoned
-**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 10
-**Languages** Understands Infernal but can't speak
-**CR** 0 (XP 10; PB +2)
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Charmed, Frightened, Poisoned
+- **Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 10
+- **Languages** Understands Infernal but can't speak
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -22344,10 +22344,10 @@ _**Vile Slime.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 2 (1d4) Poison dam
 
 _Medium Undead (Wizard), Neutral Evil_
 
-**AC** 20
-**Initiative** +17 (27)
-**HP** 315 (42d8 + 126)
-**Speed** 30 ft.
+- **AC** 20
+- **Initiative** +17 (27)
+- **HP** 315 (42d8 + 126)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22355,13 +22355,13 @@ _Medium Undead (Wizard), Neutral Evil_
 | **Modifier**     |     +0 |     +3 |     +3 |     +5 |     +2 |     +3 |
 | **Saving Throw** |     +0 |    +10 |    +10 |    +12 |     +9 |     +3 |
 
-**Skills** Arcana +19, History +12, Insight +9, Perception +9
-**Resistances** Cold, Lightning
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-**Gear** Component Pouch
-**Senses** Truesight 120 ft.; Passive Perception 19
-**Languages** All
-**CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
+- **Skills** Arcana +19, History +12, Insight +9, Perception +9
+- **Resistances** Cold, Lightning
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Gear** Component Pouch
+- **Senses** Truesight 120 ft.; Passive Perception 19
+- **Languages** All
+- **CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
 
 #### Traits
 
@@ -22403,10 +22403,10 @@ _**Frightening Gaze.**_ The lich casts _Fear_, using the same spellcasting abili
 
 _Medium or Small Humanoid (Wizard), Neutral_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 81 (18d8)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 81 (18d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22414,11 +22414,11 @@ _Medium or Small Humanoid (Wizard), Neutral_
 | **Modifier**     |     -1 |     +2 |     +0 |     +3 |     +1 |     +0 |
 | **Saving Throw** |     -1 |     +2 |     +0 |     +6 |     +4 |     +0 |
 
-**Skills** Arcana +6, History +6, Perception +4
-**Gear** Wand
-**Senses** Passive Perception 14
-**Languages** Common plus three other languages
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Arcana +6, History +6, Perception +4
+- **Gear** Wand
+- **Senses** Passive Perception 14
+- **Languages** Common plus three other languages
+- **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
 
@@ -22444,10 +22444,10 @@ _**Protective Magic (3/Day).**_ The mage casts _Counterspell_ or _Shield_ in res
 
 _Medium or Small Humanoid (Wizard), Neutral_
 
-**AC** 17
-**Initiative** +7 (17)
-**HP** 170 (31d8 + 31)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +7 (17)
+- **HP** 170 (31d8 + 31)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22455,12 +22455,12 @@ _Medium or Small Humanoid (Wizard), Neutral_
 | **Modifier**     |     +0 |     +2 |     +1 |     +5 |     +2 |     +3 |
 | **Saving Throw** |     +0 |     +2 |     +1 |     +9 |     +6 |     +3 |
 
-**Skills** Arcana +13, History +9, Perception +6
-**Immunities** Psychic; Charmed (with _Mind Blank_)
-**Gear** Wand
-**Senses** Passive Perception 16
-**Languages** Common plus five other languages
-**CR** 12 (XP 8,000; PB +4)
+- **Skills** Arcana +13, History +9, Perception +6
+- **Immunities** Psychic; Charmed (with _Mind Blank_)
+- **Gear** Wand
+- **Senses** Passive Perception 16
+- **Languages** Common plus five other languages
+- **CR** 12 (XP 8,000; PB +4)
 
 #### Traits
 
@@ -22492,10 +22492,10 @@ _**Protective Magic (3/Day).**_ The archmage casts _Counterspell_ or _Shield_ in
 
 _Small Elemental, Chaotic Neutral_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 13 (3d6 + 3)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 13 (3d6 + 3)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22503,10 +22503,10 @@ _Small Elemental, Chaotic Neutral_
 | **Modifier**     |     -2 |     +2 |     +1 |     -1 |     +0 |     +0 |
 | **Saving Throw** |     -2 |     +2 |     +1 |     -1 |     +0 |     +0 |
 
-**Immunities** Fire
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Ignan)
-**CR** 1/2 (XP 100; PB +2)
+- **Immunities** Fire
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Ignan)
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -22526,10 +22526,10 @@ _**Ignited Illumination.**_ The magmin sets itself ablaze or extinguishes its fl
 
 _Large Monstrosity, Lawful Evil_
 
-**AC** 14
-**Initiative** +3 (13)
-**HP** 68 (8d10 + 24)
-**Speed** 30 ft., Fly 50 ft.
+- **AC** 14
+- **Initiative** +3 (13)
+- **HP** 68 (8d10 + 24)
+- **Speed** 30 ft., Fly 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22537,9 +22537,9 @@ _Large Monstrosity, Lawful Evil_
 | **Modifier**     |     +3 |     +3 |     +3 |     -2 |     +1 |     -1 |
 | **Saving Throw** |     +3 |     +3 |     +3 |     -2 |     +1 |     -1 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common
-**CR** 3 (XP 700; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common
+- **CR** 3 (XP 700; PB +2)
 
 #### Actions
 
@@ -22555,10 +22555,10 @@ _**Tail Spike.**_ _Ranged Attack Roll:_ +5, range 100/200 ft. _Hit:_ 7 (1d8 + 3)
 
 _Large Fiend (Demon), Chaotic Evil_
 
-**AC** 16
-**Initiative** +10 (20)
-**HP** 220 (21d10 + 105)
-**Speed** 40 ft., Climb 40 ft.
+- **AC** 16
+- **Initiative** +10 (20)
+- **HP** 220 (21d10 + 105)
+- **Speed** 40 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22566,12 +22566,12 @@ _Large Fiend (Demon), Chaotic Evil_
 | **Modifier**     |     +4 |     +5 |     +5 |     +4 |     +3 |     +5 |
 | **Saving Throw** |     +9 |     +5 |    +10 |     +4 |     +8 |    +10 |
 
-**Skills** Perception +8
-**Resistances** Cold, Fire, Lightning
-**Immunities** Poison; Poisoned
-**Senses** Truesight 120 ft.; Passive Perception 18
-**Languages** Abyssal; telepathy 120 ft.
-**CR** 16 (XP 15,000; PB +5)
+- **Skills** Perception +8
+- **Resistances** Cold, Fire, Lightning
+- **Immunities** Poison; Poisoned
+- **Senses** Truesight 120 ft.; Passive Perception 18
+- **Languages** Abyssal; telepathy 120 ft.
+- **CR** 16 (XP 15,000; PB +5)
 
 #### Traits
 
@@ -22603,10 +22603,10 @@ _**Parry.**_ _Trigger:_ The marilith is hit by a melee attack roll while holding
 
 _Medium Monstrosity, Lawful Evil_
 
-**AC** 15
-**Initiative** +6 (16)
-**HP** 127 (17d8 + 51)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +6 (16)
+- **HP** 127 (17d8 + 51)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22614,10 +22614,10 @@ _Medium Monstrosity, Lawful Evil_
 | **Modifier**     |     +0 |     +3 |     +3 |     +1 |     +1 |     +2 |
 | **Saving Throw** |     +0 |     +3 |     +3 |     +1 |     +4 |     +2 |
 
-**Skills** Deception +5, Perception +4, Stealth +6
-**Senses** Darkvision 150 ft.; Passive Perception 14
-**Languages** Common plus one other language
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Deception +5, Perception +4, Stealth +6
+- **Senses** Darkvision 150 ft.; Passive Perception 14
+- **Languages** Common plus one other language
+- **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
 
@@ -22639,10 +22639,10 @@ _**Petrifying Gaze (Recharge 5-6).**_ _Constitution Saving Throw:_ DC 13, each c
 
 _Small Elemental, Neutral Evil_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 17 (5d6)
-**Speed** 30 ft., Fly 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 17 (5d6)
+- **Speed** 30 ft., Fly 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22650,12 +22650,12 @@ _Small Elemental, Neutral Evil_
 | **Modifier**     |     -3 |     +2 |     +0 |     -1 |     +0 |     +0 |
 | **Saving Throw** |     -3 |     +2 |     +0 |     -1 |     +0 |     +0 |
 
-**Skills** Perception +2, Stealth +4
-**Vulnerabilities** Fire
-**Immunities** Poison; Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** Primordial (Auran, Terran)
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +2, Stealth +4
+- **Vulnerabilities** Fire
+- **Immunities** Poison; Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** Primordial (Auran, Terran)
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -22673,10 +22673,10 @@ _**Sleep (1/Day).**_ The mephit casts the _Sleep_ spell, requiring no spell comp
 
 _Small Elemental, Neutral Evil_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 21 (6d6)
-**Speed** 30 ft., Fly 30 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 21 (6d6)
+- **Speed** 30 ft., Fly 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22684,12 +22684,12 @@ _Small Elemental, Neutral Evil_
 | **Modifier**     |     -2 |     +1 |     +0 |     -1 |     +0 |     +1 |
 | **Saving Throw** |     -2 |     +1 |     +0 |     -1 |     +0 |     +1 |
 
-**Skills** Perception +2, Stealth +3
-**Vulnerabilities** Fire
-**Immunities** Cold, Poison; Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** Primordial (Aquan, Auran)
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +2, Stealth +3
+- **Vulnerabilities** Fire
+- **Immunities** Cold, Poison; Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** Primordial (Aquan, Auran)
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -22707,10 +22707,10 @@ _**Frost Breath (Recharge 6).**_ _Constitution Saving Throw:_ DC 10, each creatu
 
 _Small Elemental, Neutral Evil_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 18 (4d6 + 4)
-**Speed** 30 ft., Fly 30 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 18 (4d6 + 4)
+- **Speed** 30 ft., Fly 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22718,12 +22718,12 @@ _Small Elemental, Neutral Evil_
 | **Modifier**     |     -1 |     +1 |     +1 |     -2 |     +0 |     +0 |
 | **Saving Throw** |     -1 |     +1 |     +1 |     -2 |     +0 |     +0 |
 
-**Skills** Stealth +3
-**Vulnerabilities** Cold
-**Immunities** Fire, Poison; Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Ignan, Terran)
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Stealth +3
+- **Vulnerabilities** Cold
+- **Immunities** Fire, Poison; Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Ignan, Terran)
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -22739,10 +22739,10 @@ _**Fire Breath (Recharge 6).**_ _Dexterity Saving Throw:_ DC 11, each creature i
 
 _Small Elemental, Neutral Evil_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 17 (5d6)
-**Speed** 30 ft., Fly 30 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 17 (5d6)
+- **Speed** 30 ft., Fly 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22750,11 +22750,11 @@ _Small Elemental, Neutral Evil_
 | **Modifier**     |     -3 |     +0 |     +0 |     +0 |     +0 |     +1 |
 | **Saving Throw** |     -3 |     +0 |     +0 |     +0 |     +0 |     +1 |
 
-**Skills** Stealth +2
-**Immunities** Fire, Poison; Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Aquan, Ignan)
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Stealth +2
+- **Immunities** Fire, Poison; Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Aquan, Ignan)
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -22774,10 +22774,10 @@ _**Steam Breath (Recharge 6).**_ _Constitution Saving Throw:_ DC 10, each creatu
 
 _Medium Elemental, Neutral_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 11 (2d8 + 2)
-**Speed** 10 ft., Swim 40 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 11 (2d8 + 2)
+- **Speed** 10 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22785,9 +22785,9 @@ _Medium Elemental, Neutral_
 | **Modifier**     |     +0 |     +1 |     +1 |     +0 |     +2 |     +1 |
 | **Saving Throw** |     +0 |     +1 |     +1 |     +0 |     +2 |     +1 |
 
-**Senses** Passive Perception 12
-**Languages** Common, Primordial (Aquan)
-**CR** 1/8 (XP 25; PB +2)
+- **Senses** Passive Perception 12
+- **Languages** Common, Primordial (Aquan)
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
 
@@ -22803,10 +22803,10 @@ _**Ocean Spear.**_ _Melee or Ranged Attack Roll:_ +2, reach 5 ft. or range 20/60
 
 _Large Monstrosity, Chaotic Evil_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 45 (6d10 + 12)
-**Speed** 10 ft., Swim 40 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 45 (6d10 + 12)
+- **Speed** 10 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22814,9 +22814,9 @@ _Large Monstrosity, Chaotic Evil_
 | **Modifier**     |     +4 |     +2 |     +2 |     -1 |     +0 |     -1 |
 | **Saving Throw** |     +4 |     +2 |     +2 |     -1 |     +0 |     -1 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Abyssal, Primordial (Aquan)
-**CR** 2 (XP 450; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Abyssal, Primordial (Aquan)
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -22838,10 +22838,10 @@ _**Harpoon.**_ _Melee or Ranged Attack Roll:_ +6, reach 5 ft. or range 20/60 ft.
 
 _Medium Monstrosity, Neutral_
 
-**AC** 12
-**Initiative** +3 (13)
-**HP** 58 (9d8 + 18)
-**Speed** 20 ft.
+- **AC** 12
+- **Initiative** +3 (13)
+- **HP** 58 (9d8 + 18)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22849,11 +22849,11 @@ _Medium Monstrosity, Neutral_
 | **Modifier**     |     +3 |     +1 |     +2 |     -3 |     +1 |     -1 |
 | **Saving Throw** |     +3 |     +1 |     +2 |     -3 |     +1 |     -1 |
 
-**Skills** Stealth +5
-**Immunities** Acid; Prone
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Stealth +5
+- **Immunities** Acid; Prone
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -22875,10 +22875,10 @@ _**Shape-Shift.**_ The mimic shape-shifts to resemble a Medium or Small object w
 
 _Large Monstrosity, Chaotic Evil_
 
-**AC** 14
-**Initiative** +0 (10)
-**HP** 85 (10d10 + 30)
-**Speed** 40 ft.
+- **AC** 14
+- **Initiative** +0 (10)
+- **HP** 85 (10d10 + 30)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22886,10 +22886,10 @@ _Large Monstrosity, Chaotic Evil_
 | **Modifier**     |     +4 |     +0 |     +3 |     -2 |     +3 |     -1 |
 | **Saving Throw** |     +4 |     +0 |     +3 |     -2 |     +3 |     -1 |
 
-**Skills** Perception +7, Survival +7
-**Senses** Darkvision 60 ft.; Passive Perception 17
-**Languages** Abyssal
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +7, Survival +7
+- **Senses** Darkvision 60 ft.; Passive Perception 17
+- **Languages** Abyssal
+- **CR** 3 (XP 700; PB +2)
 
 #### Actions
 
@@ -22903,10 +22903,10 @@ _**Gore (Recharge 5-6).**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 18 (4d6 +
 
 _Medium or Small Undead, Lawful Evil_
 
-**AC** 11
-**Initiative** -1 (9)
-**HP** 58 (9d8 + 18)
-**Speed** 20 ft.
+- **AC** 11
+- **Initiative** -1 (9)
+- **HP** 58 (9d8 + 18)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22914,11 +22914,11 @@ _Medium or Small Undead, Lawful Evil_
 | **Modifier**     |     +3 |     -1 |     +2 |     -2 |     +1 |     +1 |
 | **Saving Throw** |     +3 |     -1 |     +2 |     -2 |     +3 |     +1 |
 
-**Vulnerabilities** Fire
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common plus two other languages
-**CR** 3 (XP 700; PB +2)
+- **Vulnerabilities** Fire
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common plus two other languages
+- **CR** 3 (XP 700; PB +2)
 
 #### Actions
 
@@ -22932,10 +22932,10 @@ _**Dreadful Glare.**_ _Wisdom Saving Throw:_ DC 11, one creature the mummy can s
 
 _Medium or Small Undead (Cleric), Lawful Evil_
 
-**AC** 17
-**Initiative** +10 (20)
-**HP** 187 (25d8 + 75)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +10 (20)
+- **HP** 187 (25d8 + 75)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -22943,12 +22943,12 @@ _Medium or Small Undead (Cleric), Lawful Evil_
 | **Modifier**     |     +4 |     +0 |     +3 |     +0 |     +4 |     +3 |
 | **Saving Throw** |     +4 |     +0 |     +3 |     +5 |     +9 |     +3 |
 
-**Skills** History +5, Perception +9, Religion +5
-**Vulnerabilities** Fire
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-**Senses** Truesight 60 ft.; Passive Perception 19
-**Languages** Common plus three other languages
-**CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
+- **Skills** History +5, Perception +9, Religion +5
+- **Vulnerabilities** Fire
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Senses** Truesight 60 ft.; Passive Perception 19
+- **Languages** Common plus three other languages
+- **CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
 
 #### Traits
 
@@ -22993,10 +22993,10 @@ _**Necrotic Strike.**_ The mummy makes one Rotting Fist or Channel Negative Ener
 
 _Large Fiend (Demon), Chaotic Evil_
 
-**AC** 18
-**Initiative** +5 (15)
-**HP** 184 (16d10 + 96)
-**Speed** 20 ft., Fly 30 ft.
+- **AC** 18
+- **Initiative** +5 (15)
+- **HP** 184 (16d10 + 96)
+- **Speed** 20 ft., Fly 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23004,11 +23004,11 @@ _Large Fiend (Demon), Chaotic Evil_
 | **Modifier**     |     +5 |     +0 |     +6 |     +4 |     +1 |     +2 |
 | **Saving Throw** |     +5 |     +0 |    +11 |     +9 |     +6 |     +7 |
 
-**Resistances** Cold, Fire, Lightning
-**Immunities** Poison; Frightened, Poisoned
-**Senses** Truesight 120 ft.; Passive Perception 11
-**Languages** Abyssal; telepathy 120 ft.
-**CR** 13 (XP 10,000; PB +5)
+- **Resistances** Cold, Fire, Lightning
+- **Immunities** Poison; Frightened, Poisoned
+- **Senses** Truesight 120 ft.; Passive Perception 11
+- **Languages** Abyssal; telepathy 120 ft.
+- **CR** 13 (XP 10,000; PB +5)
 
 #### Traits
 
@@ -23038,10 +23038,10 @@ _**Pursuit.**_ _Trigger:_ Another creature the nalfeshnee can see ends its move 
 
 _Medium Fiend, Neutral Evil_
 
-**AC** 17
-**Initiative** +5 (15)
-**HP** 112 (15d8 + 45)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +5 (15)
+- **HP** 112 (15d8 + 45)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23049,12 +23049,12 @@ _Medium Fiend, Neutral Evil_
 | **Modifier**     |     +4 |     +2 |     +3 |     +3 |     +2 |     +3 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     +3 |     +2 |     +3 |
 
-**Skills** Deception +6, Insight +5, Perception +5, Stealth +5
-**Resistances** Cold, Fire
-**Immunities** Charmed
-**Senses** Darkvision 120 ft.; Passive Perception 15
-**Languages** Abyssal, Common, Infernal, Primordial
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Deception +6, Insight +5, Perception +5, Stealth +5
+- **Resistances** Cold, Fire
+- **Immunities** Charmed
+- **Senses** Darkvision 120 ft.; Passive Perception 15
+- **Languages** Abyssal, Common, Infernal, Primordial
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -23093,10 +23093,10 @@ _**Shape-Shift.**_ The hag shape-shifts into a Small or Medium Humanoid, or it r
 
 _Large Fiend, Neutral Evil_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 68 (8d10 + 24)
-**Speed** 60 ft., Fly 90 ft. (hover)
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 68 (8d10 + 24)
+- **Speed** 60 ft., Fly 90 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23104,10 +23104,10 @@ _Large Fiend, Neutral Evil_
 | **Modifier**     |     +4 |     +2 |     +3 |     +0 |     +1 |     +2 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     +0 |     +1 |     +2 |
 
-**Immunities** Fire
-**Senses** Passive Perception 11
-**Languages** Understands Abyssal, Common, and Infernal but can't speak
-**CR** 3 (XP 700; PB +2)
+- **Immunities** Fire
+- **Senses** Passive Perception 11
+- **Languages** Understands Abyssal, Common, and Infernal but can't speak
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -23127,10 +23127,10 @@ _**Ethereal Stride.**_ The nightmare and up to three willing creatures within 5 
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 15
-**Initiative** +1 (11)
-**HP** 9 (2d8)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +1 (11)
+- **HP** 9 (2d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23138,11 +23138,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +1 |     +0 |     +1 |     +2 |     +3 |
 | **Saving Throw** |     +0 |     +1 |     +0 |     +1 |     +2 |     +3 |
 
-**Skills** Deception +5, Insight +4, Persuasion +5
-**Gear** Breastplate, Rapier
-**Senses** Passive Perception 12
-**Languages** Common plus two other languages
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Deception +5, Insight +4, Persuasion +5
+- **Gear** Breastplate, Rapier
+- **Senses** Passive Perception 12
+- **Languages** Common plus two other languages
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
 
@@ -23158,10 +23158,10 @@ _**Parry.**_ _Trigger:_ The noble is hit by a melee attack roll while holding a 
 
 _Large Ooze, Unaligned_
 
-**AC** 8
-**Initiative** -2 (8)
-**HP** 52 (7d10 + 14)
-**Speed** 20 ft., Climb 20 ft.
+- **AC** 8
+- **Initiative** -2 (8)
+- **HP** 52 (7d10 + 14)
+- **Speed** 20 ft., Climb 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23169,11 +23169,11 @@ _Large Ooze, Unaligned_
 | **Modifier**     |     +2 |     -2 |     +2 |     -4 |     -2 |     -5 |
 | **Saving Throw** |     +2 |     -2 |     +2 |     -4 |     -2 |     -5 |
 
-**Resistances** Acid
-**Immunities** Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-**Senses** Blindsight 60 ft.; Passive Perception 8
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Resistances** Acid
+- **Immunities** Lightning, Slashing; Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+- **Senses** Blindsight 60 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -23195,10 +23195,10 @@ _**Split.**_ _Trigger:_ While the jelly is Large or Medium and has 10+ Hit Point
 
 _Large Giant, Chaotic Evil_
 
-**AC** 11
-**Initiative** -1 (9)
-**HP** 68 (8d10 + 24)
-**Speed** 40 ft.
+- **AC** 11
+- **Initiative** -1 (9)
+- **HP** 68 (8d10 + 24)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23206,10 +23206,10 @@ _Large Giant, Chaotic Evil_
 | **Modifier**     |     +4 |     -1 |     +3 |     -3 |     -2 |     -2 |
 | **Saving Throw** |     +4 |     -1 |     +3 |     -3 |     -2 |     -2 |
 
-**Gear** Greatclub, Javelins (3)
-**Senses** Darkvision 60 ft.; Passive Perception 8
-**Languages** Common, Giant
-**CR** 2 (XP 450; PB +2)
+- **Gear** Greatclub, Javelins (3)
+- **Senses** Darkvision 60 ft.; Passive Perception 8
+- **Languages** Common, Giant
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -23223,10 +23223,10 @@ _**Javelin.**_ _Melee or Ranged Attack Roll:_ +6, reach 5 ft. or range 30/120 ft
 
 _Large Fiend, Lawful Evil_
 
-**AC** 17
-**Initiative** +0 (10)
-**HP** 119 (14d10 + 42)
-**Speed** 30 ft., Fly 30 ft. (hover)
+- **AC** 17
+- **Initiative** +0 (10)
+- **HP** 119 (14d10 + 42)
+- **Speed** 30 ft., Fly 30 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23234,11 +23234,11 @@ _Large Fiend, Lawful Evil_
 | **Modifier**     |     +4 |     +0 |     +3 |     +2 |     +1 |     +2 |
 | **Saving Throw** |     +4 |     +3 |     +6 |     +2 |     +4 |     +5 |
 
-**Skills** Arcana +5, Deception +8, Perception +4
-**Resistances** Cold
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Common, Giant
-**CR** 7 (XP 2,900; PB +3)
+- **Skills** Arcana +5, Deception +8, Perception +4
+- **Resistances** Cold
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Common, Giant
+- **CR** 7 (XP 2,900; PB +3)
 
 #### Traits
 
@@ -23268,10 +23268,10 @@ _**Invisibility.**_ The oni casts _Invisibility_ on itself, requiring no spell c
 
 _Large Aberration, Neutral_
 
-**AC** 14
-**Initiative** +0 (10)
-**HP** 104 (11d10 + 44)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +0 (10)
+- **HP** 104 (11d10 + 44)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23279,9 +23279,9 @@ _Large Aberration, Neutral_
 | **Modifier**     |     +3 |     +0 |     +4 |     -2 |     +1 |     -2 |
 | **Saving Throw** |     +3 |     +0 |     +7 |     -2 |     +1 |     -2 |
 
-**Senses** Darkvision 120 ft.; Passive Perception 11
-**Languages** Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
-**CR** 5 (XP 1,800; PB +3)
+- **Senses** Darkvision 120 ft.; Passive Perception 11
+- **Languages** Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
 
@@ -23299,10 +23299,10 @@ _**Tentacle Slam.**_ _Constitution Saving Throw:_ DC 14, each creature Grappled 
 
 _Large Monstrosity, Unaligned_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 59 (7d10 + 21)
-**Speed** 40 ft., Climb 40 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 59 (7d10 + 21)
+- **Speed** 40 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23310,10 +23310,10 @@ _Large Monstrosity, Unaligned_
 | **Modifier**     |     +5 |     +1 |     +3 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +5 |     +1 |     +3 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +5
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** None
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +5
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 3 (XP 700; PB +2)
 
 #### Actions
 
@@ -23327,10 +23327,10 @@ _**Rend.**_ _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 14 (2d8 + 5) Slashing da
 
 _Large Celestial, Chaotic Good_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 59 (7d10 + 21)
-**Speed** 60 ft., Fly 90 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 59 (7d10 + 21)
+- **Speed** 60 ft., Fly 90 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23338,10 +23338,10 @@ _Large Celestial, Chaotic Good_
 | **Modifier**     |     +4 |     +2 |     +3 |     +0 |     +2 |     +1 |
 | **Saving Throw** |     +4 |     +4 |     +5 |     +0 |     +4 |     +3 |
 
-**Skills** Perception +6
-**Senses** Passive Perception 16
-**Languages** Understands Celestial, Common, Elvish, and Sylvan but can't speak
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +6
+- **Senses** Passive Perception 16
+- **Languages** Understands Celestial, Common, Elvish, and Sylvan but can't speak
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -23353,10 +23353,10 @@ _**Hooves.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 7 (1d6 + 4) Bludgeonin
 
 _Large Monstrosity, Unaligned_
 
-**AC** 14
-**Initiative** +3 (13)
-**HP** 45 (7d10 + 7)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 14
+- **Initiative** +3 (13)
+- **HP** 45 (7d10 + 7)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23364,10 +23364,10 @@ _Large Monstrosity, Unaligned_
 | **Modifier**     |     +2 |     +3 |     +1 |     -2 |     +0 |     -2 |
 | **Saving Throw** |     +2 |     +3 |     +1 |     -2 |     +0 |     -2 |
 
-**Skills** Stealth +7
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 3 (XP 700; PB +2)
+- **Skills** Stealth +7
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -23393,10 +23393,10 @@ _**Ethereal Jaunt.**_ The spider teleports from the Material Plane to the Ethere
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 14
-**Initiative** +5 (15)
-**HP** 33 (6d8 + 6)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +5 (15)
+- **HP** 33 (6d8 + 6)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23404,10 +23404,10 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +3 |     +1 |     -1 |     +1 |     +2 |
 | **Saving Throw** |     +0 |     +5 |     +1 |     -1 |     +1 |     +4 |
 
-**Gear** Daggers (6), Leather Armor
-**Senses** Passive Perception 11
-**Languages** Common plus one other language
-**CR** 1 (XP 200; PB +2)
+- **Gear** Daggers (6), Leather Armor
+- **Senses** Passive Perception 11
+- **Languages** Common plus one other language
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -23421,10 +23421,10 @@ _**Enthralling Panache.**_ _Wisdom Saving Throw:_ DC 12, one creature the pirate
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 17
-**Initiative** +7 (17)
-**HP** 84 (13d8 + 26)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +7 (17)
+- **HP** 84 (13d8 + 26)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23432,11 +23432,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +4 |     +2 |     +0 |     +2 |     +3 |
 | **Saving Throw** |     +3 |     +7 |     +2 |     +0 |     +5 |     +6 |
 
-**Skills** Acrobatics +7, Perception +5
-**Gear** Pistol, Rapier
-**Senses** Passive Perception 15
-**Languages** Common plus one other language
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Acrobatics +7, Perception +5
+- **Gear** Pistol, Rapier
+- **Senses** Passive Perception 15
+- **Languages** Common plus one other language
+- **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
 
@@ -23460,10 +23460,10 @@ _**Riposte.**_ _Trigger:_ The pirate is hit by a melee attack roll while holding
 
 _Large Fiend (Devil), Lawful Evil_
 
-**AC** 21
-**Initiative** +14 (24)
-**HP** 337 (27d10 + 189)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 21
+- **Initiative** +14 (24)
+- **HP** 337 (27d10 + 189)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23471,12 +23471,12 @@ _Large Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +8 |     +2 |     +7 |     +6 |     +4 |     +7 |
 | **Saving Throw** |     +8 |     +8 |     +7 |     +6 |    +10 |     +7 |
 
-**Skills** Perception +10, Persuasion +19
-**Resistances** Cold
-**Immunities** Fire, Poison; Poisoned
-**Senses** Truesight 120 ft.; Passive Perception 20
-**Languages** Infernal; telepathy 120 ft.
-**CR** 20 (XP 25,000; PB +6)
+- **Skills** Perception +10, Persuasion +19
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Truesight 120 ft.; Passive Perception 20
+- **Languages** Infernal; telepathy 120 ft.
+- **CR** 20 (XP 25,000; PB +6)
 
 #### Traits
 
@@ -23506,10 +23506,10 @@ _**Hellfire Spellcasting (Recharge 4-6).**_ The pit fiend casts _Fireball_ (leve
 
 _Large Celestial (Angel), Lawful Good_
 
-**AC** 19
-**Initiative** +10 (20)
-**HP** 262 (21d10 + 147)
-**Speed** 40 ft., Fly 120 ft. (hover)
+- **AC** 19
+- **Initiative** +10 (20)
+- **HP** 262 (21d10 + 147)
+- **Speed** 40 ft., Fly 120 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23517,12 +23517,12 @@ _Large Celestial (Angel), Lawful Good_
 | **Modifier**     |     +7 |     +5 |     +7 |     +4 |     +6 |     +7 |
 | **Saving Throw** |    +12 |     +5 |    +12 |     +4 |    +11 |    +12 |
 
-**Skills** Perception +11
-**Resistances** Radiant
-**Immunities** Charmed, Exhaustion, Frightened
-**Senses** Truesight 120 ft.; Passive Perception 21
-**Languages** All; telepathy 120 ft.
-**CR** 16 (XP 15,000; PB +5)
+- **Skills** Perception +11
+- **Resistances** Radiant
+- **Immunities** Charmed, Exhaustion, Frightened
+- **Senses** Truesight 120 ft.; Passive Perception 21
+- **Languages** All; telepathy 120 ft.
+- **CR** 16 (XP 15,000; PB +5)
 
 #### Traits
 
@@ -23555,10 +23555,10 @@ _**Divine Aid (2/Day).**_ The planetar casts _Cure Wounds_, _Invisibility_, _Les
 
 _Medium or Small Humanoid (Cleric), Neutral_
 
-**AC** 13
-**Initiative** +0 (10)
-**HP** 11 (2d8 + 2)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +0 (10)
+- **HP** 11 (2d8 + 2)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23566,11 +23566,11 @@ _Medium or Small Humanoid (Cleric), Neutral_
 | **Modifier**     |     +2 |     +0 |     +1 |     +0 |     +2 |     +0 |
 | **Saving Throw** |     +2 |     +0 |     +1 |     +0 |     +2 |     +0 |
 
-**Skills** Medicine +4, Religion +2
-**Gear** Chain Shirt, Holy Symbol, Mace
-**Senses** Passive Perception 12
-**Languages** Common
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Medicine +4, Religion +2
+- **Gear** Chain Shirt, Holy Symbol, Mace
+- **Senses** Passive Perception 12
+- **Languages** Common
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -23590,10 +23590,10 @@ _**Divine Aid (1/Day).**_ The priest casts _Bless_, _Healing Word_, or _Sanctuar
 
 _Medium or Small Humanoid (Cleric), Neutral_
 
-**AC** 13
-**Initiative** +0 (10)
-**HP** 38 (7d8 + 7)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +0 (10)
+- **HP** 38 (7d8 + 7)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23601,11 +23601,11 @@ _Medium or Small Humanoid (Cleric), Neutral_
 | **Modifier**     |     +3 |     +0 |     +1 |     +1 |     +3 |     +1 |
 | **Saving Throw** |     +3 |     +0 |     +1 |     +1 |     +3 |     +1 |
 
-**Skills** Medicine +7, Perception +5, Religion +5
-**Gear** Chain Shirt, Holy Symbol, Mace
-**Senses** Passive Perception 15
-**Languages** Common plus one other language
-**CR** 2 (XP 450; PB +2)
+- **Skills** Medicine +7, Perception +5, Religion +5
+- **Gear** Chain Shirt, Holy Symbol, Mace
+- **Senses** Passive Perception 15
+- **Languages** Common plus one other language
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -23630,10 +23630,10 @@ _**Divine Aid (3/Day).**_ The priest casts _Bless_, _Dispel Magic_, _Healing Wor
 
 _Tiny Dragon, Neutral Good_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 10 (3d4 + 3)
-**Speed** 15 ft., Fly 60 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 10 (3d4 + 3)
+- **Speed** 15 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23641,10 +23641,10 @@ _Tiny Dragon, Neutral Good_
 | **Modifier**     |     -2 |     +2 |     +1 |     +0 |     +1 |     +0 |
 | **Saving Throw** |     -2 |     +2 |     +1 |     +0 |     +1 |     +0 |
 
-**Skills** Perception +5, Stealth +4
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 15
-**Languages** Understands Common and Draconic but can't speak
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +5, Stealth +4
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 15
+- **Languages** Understands Common and Draconic but can't speak
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -23664,10 +23664,10 @@ _**Sting.**_ _Constitution Saving Throw:_ DC 12, one creature the pseudodragon c
 
 _Gargantuan Monstrosity, Unaligned_
 
-**AC** 18
-**Initiative** +3 (13)
-**HP** 247 (15d20 + 90)
-**Speed** 50 ft., Burrow 50 ft.
+- **AC** 18
+- **Initiative** +3 (13)
+- **HP** 247 (15d20 + 90)
+- **Speed** 50 ft., Burrow 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23675,9 +23675,9 @@ _Gargantuan Monstrosity, Unaligned_
 | **Modifier**     |     +9 |     -2 |     +6 |     -5 |     -1 |     -3 |
 | **Saving Throw** |     +9 |     -2 |    +11 |     -5 |     +4 |     -3 |
 
-**Senses** Blindsight 30 ft., Tremorsense 60 ft.; Passive Perception 9
-**Languages** None
-**CR** 15 (XP 13,000; PB +5)
+- **Senses** Blindsight 30 ft., Tremorsense 60 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 15 (XP 13,000; PB +5)
 
 #### Traits
 
@@ -23703,10 +23703,10 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 _Tiny Fiend (Demon), Chaotic Evil_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 25 (10d4)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 25 (10d4)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23714,12 +23714,12 @@ _Tiny Fiend (Demon), Chaotic Evil_
 | **Modifier**     |     -3 |     +3 |     +0 |     -2 |     +0 |     +0 |
 | **Saving Throw** |     -3 |     +3 |     +0 |     -2 |     +0 |     +0 |
 
-**Skills** Stealth +5
-**Resistances** Cold, Fire, Lightning
-**Immunities** Poison; Poisoned
-**Senses** Darkvision 120 ft.; Passive Perception 10
-**Languages** Abyssal, Common
-**CR** 1 (XP 200; PB +2)
+- **Skills** Stealth +5
+- **Resistances** Cold, Fire, Lightning
+- **Immunities** Poison; Poisoned
+- **Senses** Darkvision 120 ft.; Passive Perception 10
+- **Languages** Abyssal, Common
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -23741,10 +23741,10 @@ _**Shape-Shift.**_ The quasit shape-shifts to resemble a bat (Speed 10 ft., Fly 
 
 _Medium Fiend, Lawful Evil_
 
-**AC** 17
-**Initiative** +8 (18)
-**HP** 221 (26d8 + 104)
-**Speed** 40 ft.
+- **AC** 17
+- **Initiative** +8 (18)
+- **HP** 221 (26d8 + 104)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23752,12 +23752,12 @@ _Medium Fiend, Lawful Evil_
 | **Modifier**     |     +2 |     +3 |     +4 |     +1 |     +3 |     +5 |
 | **Saving Throw** |     +2 |     +3 |     +4 |     +1 |     +3 |     +5 |
 
-**Skills** Deception +10, Insight +8, Perception +8
-**Vulnerabilities** Piercing damage from weapons wielded by creatures under the effect of a _Bless_ spell
-**Immunities** Charmed, Frightened
-**Senses** Truesight 60 ft.; Passive Perception 18
-**Languages** Common, Infernal
-**CR** 13 (XP 10,000; PB +5)
+- **Skills** Deception +10, Insight +8, Perception +8
+- **Vulnerabilities** Piercing damage from weapons wielded by creatures under the effect of a _Bless_ spell
+- **Immunities** Charmed, Frightened
+- **Senses** Truesight 60 ft.; Passive Perception 18
+- **Languages** Common, Infernal
+- **CR** 13 (XP 10,000; PB +5)
 
 #### Traits
 
@@ -23784,10 +23784,10 @@ _**Spellcasting.**_ The rakshasa casts one of the following spells, requiring no
 
 _Medium Dragon (Chromatic), Chaotic Evil_
 
-**AC** 17
-**Initiative** +2 (12)
-**HP** 75 (10d8 + 30)
-**Speed** 30 ft., Climb 30 ft., Fly 60 ft.
+- **AC** 17
+- **Initiative** +2 (12)
+- **HP** 75 (10d8 + 30)
+- **Speed** 30 ft., Climb 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23795,11 +23795,11 @@ _Medium Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +4 |     +0 |     +3 |     +1 |     +0 |     +2 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     +1 |     +2 |     +2 |
 
-**Skills** Perception +4, Stealth +2
-**Immunities** Fire
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Perception +4, Stealth +2
+- **Immunities** Fire
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
 
@@ -23813,10 +23813,10 @@ _**Fire Breath (Recharge 5-6).**_ _Dexterity Saving Throw:_ DC 13, each creature
 
 _Large Dragon (Chromatic), Chaotic Evil_
 
-**AC** 18
-**Initiative** +4 (14)
-**HP** 178 (17d10 + 85)
-**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+- **AC** 18
+- **Initiative** +4 (14)
+- **HP** 178 (17d10 + 85)
+- **Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23824,11 +23824,11 @@ _Large Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +6 |     +0 |     +5 |     +2 |     +0 |     +4 |
 | **Saving Throw** |     +6 |     +4 |     +5 |     +2 |     +4 |     +4 |
 
-**Skills** Perception +8, Stealth +4
-**Immunities** Fire
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18
-**Languages** Common, Draconic
-**CR** 10 (XP 5,900; PB +4)
+- **Skills** Perception +8, Stealth +4
+- **Immunities** Fire
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18
+- **Languages** Common, Draconic
+- **CR** 10 (XP 5,900; PB +4)
 
 #### Actions
 
@@ -23842,10 +23842,10 @@ _**Fire Breath (Recharge 5-6).**_ _Dexterity Saving Throw:_ DC 17, each creature
 
 _Huge Dragon (Chromatic), Chaotic Evil_
 
-**AC** 19
-**Initiative** +12 (22)
-**HP** 256 (19d12 + 133)
-**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+- **AC** 19
+- **Initiative** +12 (22)
+- **HP** 256 (19d12 + 133)
+- **Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23853,11 +23853,11 @@ _Huge Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +8 |     +0 |     +7 |     +3 |     +1 |     +6 |
 | **Saving Throw** |     +8 |     +6 |     +7 |     +3 |     +7 |     +6 |
 
-**Skills** Perception +13, Stealth +6
-**Immunities** Fire
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 23
-**Languages** Common, Draconic
-**CR** 17 (XP 18,000, or 20,000 in lair; PB +6)
+- **Skills** Perception +13, Stealth +6
+- **Immunities** Fire
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 23
+- **Languages** Common, Draconic
+- **CR** 17 (XP 18,000, or 20,000 in lair; PB +6)
 
 #### Traits
 
@@ -23890,10 +23890,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Gargantuan Dragon (Chromatic), Chaotic Evil_
 
-**AC** 22
-**Initiative** +14 (24)
-**HP** 507 (26d20 + 234)
-**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+- **AC** 22
+- **Initiative** +14 (24)
+- **HP** 507 (26d20 + 234)
+- **Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23901,11 +23901,11 @@ _Gargantuan Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |    +10 |     +0 |     +9 |     +4 |     +2 |     +8 |
 | **Saving Throw** |    +10 |     +7 |     +9 |     +4 |     +9 |     +8 |
 
-**Skills** Perception +16, Stealth +7
-**Immunities** Fire
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
-**Languages** Common, Draconic
-**CR** 24 (XP 62,000, or 75,000 in lair; PB +7)
+- **Skills** Perception +16, Stealth +7
+- **Immunities** Fire
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
+- **Languages** Common, Draconic
+- **CR** 24 (XP 62,000, or 75,000 in lair; PB +7)
 
 #### Traits
 
@@ -23940,10 +23940,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Huge Monstrosity, Unaligned_
 
-**AC** 17
-**Initiative** +5 (15)
-**HP** 195 (17d12 + 85)
-**Speed** 40 ft., Burrow 30 ft.
+- **AC** 17
+- **Initiative** +5 (15)
+- **HP** 195 (17d12 + 85)
+- **Speed** 40 ft., Burrow 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23951,10 +23951,10 @@ _Huge Monstrosity, Unaligned_
 | **Modifier**     |     +7 |     +1 |     +5 |     -3 |     +0 |     -3 |
 | **Saving Throw** |     +7 |     +1 |     +5 |     -3 |     +0 |     -3 |
 
-**Immunities** Cold, Fire
-**Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 11 (XP 7,200; PB +4)
+- **Immunities** Cold, Fire
+- **Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 11 (XP 7,200; PB +4)
 
 #### Traits
 
@@ -23976,10 +23976,10 @@ If the remorhaz takes 30 damage or more on a single turn from a creature inside 
 
 _Gargantuan Monstrosity, Unaligned_
 
-**AC** 15
-**Initiative** +8 (18)
-**HP** 248 (16d20 + 80)
-**Speed** 20 ft., Fly 120 ft.
+- **AC** 15
+- **Initiative** +8 (18)
+- **HP** 248 (16d20 + 80)
+- **Speed** 20 ft., Fly 120 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -23987,10 +23987,10 @@ _Gargantuan Monstrosity, Unaligned_
 | **Modifier**     |     +9 |     +0 |     +5 |     -4 |     +0 |     -1 |
 | **Saving Throw** |     +9 |     +4 |     +5 |     -4 |     +4 |     -1 |
 
-**Skills** Perception +8
-**Senses** Passive Perception 18
-**Languages** None
-**CR** 11 (XP 7,200; PB +4)
+- **Skills** Perception +8
+- **Senses** Passive Perception 18
+- **Languages** None
+- **CR** 11 (XP 7,200; PB +4)
 
 #### Actions
 
@@ -24010,10 +24010,10 @@ _**Swoop (Recharge 5-6).**_ If the roc has a creature Grappled, the roc flies up
 
 _Large Aberration, Neutral Evil_
 
-**AC** 20
-**Initiative** +5 (15)
-**HP** 93 (11d10 + 33)
-**Speed** 10 ft., Climb 20 ft.
+- **AC** 20
+- **Initiative** +5 (15)
+- **HP** 93 (11d10 + 33)
+- **Speed** 10 ft., Climb 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24021,10 +24021,10 @@ _Large Aberration, Neutral Evil_
 | **Modifier**     |     +4 |     -1 |     +3 |     -2 |     +3 |     -2 |
 | **Saving Throw** |     +4 |     -1 |     +3 |     -2 |     +3 |     -2 |
 
-**Skills** Perception +6, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 16
-**Languages** None
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +6, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 16
+- **Languages** None
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -24048,10 +24048,10 @@ _**Reel.**_ The roper pulls each creature Grappled by it up to 30 feet straight 
 
 _Medium Monstrosity, Unaligned_
 
-**AC** 14
-**Initiative** +1 (11)
-**HP** 33 (6d8 + 6)
-**Speed** 40 ft.
+- **AC** 14
+- **Initiative** +1 (11)
+- **HP** 33 (6d8 + 6)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24059,9 +24059,9 @@ _Medium Monstrosity, Unaligned_
 | **Modifier**     |     +1 |     +1 |     +1 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +1 |     +1 |     +1 |     -4 |     +1 |     -2 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -24087,10 +24087,10 @@ _**Reflexive Antennae.**_ _Trigger:_ An attack roll hits the rust monster. _Resp
 
 _Medium Fiend, Lawful Evil_
 
-**AC** 12
-**Initiative** +0 (10)
-**HP** 22 (4d8 + 4)
-**Speed** 30 ft., Swim 40 ft.
+- **AC** 12
+- **Initiative** +0 (10)
+- **HP** 22 (4d8 + 4)
+- **Speed** 30 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24098,11 +24098,11 @@ _Medium Fiend, Lawful Evil_
 | **Modifier**     |     +1 |     +0 |     +1 |     +1 |     +1 |     -1 |
 | **Saving Throw** |     +1 |     +0 |     +1 |     +1 |     +1 |     -1 |
 
-**Skills** Perception +5
-**Resistances** Acid, Cold
-**Senses** Darkvision 120 ft.; Passive Perception 15
-**Languages** Sahuagin
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +5
+- **Resistances** Acid, Cold
+- **Senses** Darkvision 120 ft.; Passive Perception 15
+- **Languages** Sahuagin
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -24128,10 +24128,10 @@ _**Aquatic Charge.**_ The sahuagin swims up to its Swim Speed straight toward an
 
 _Large Elemental, Neutral Evil_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 90 (12d10 + 24)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 90 (12d10 + 24)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24139,11 +24139,11 @@ _Large Elemental, Neutral Evil_
 | **Modifier**     |     +4 |     +2 |     +2 |     +0 |     +0 |     +1 |
 | **Saving Throw** |     +4 |     +2 |     +2 |     +0 |     +0 |     +1 |
 
-**Vulnerabilities** Cold
-**Immunities** Fire
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Ignan)
-**CR** 5 (XP 1,800; PB +3)
+- **Vulnerabilities** Cold
+- **Immunities** Fire
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Ignan)
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -24163,10 +24163,10 @@ _**Constrict.**_ _Strength Saving Throw:_ DC 15, one Large or smaller creature t
 
 _Medium Fey, Chaotic Neutral_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 31 (7d8)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 31 (7d8)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24174,10 +24174,10 @@ _Medium Fey, Chaotic Neutral_
 | **Modifier**     |     +1 |     +3 |     +0 |     +1 |     +0 |     +2 |
 | **Saving Throw** |     +1 |     +3 |     +0 |     +1 |     +0 |     +2 |
 
-**Skills** Perception +2, Performance +6, Stealth +5
-**Senses** Passive Perception 12
-**Languages** Common, Elvish, Sylvan
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +2, Performance +6, Stealth +5
+- **Senses** Passive Perception 12
+- **Languages** Common, Elvish, Sylvan
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -24195,10 +24195,10 @@ _**Mockery.**_ _Wisdom Saving Throw:_ DC 12, one creature the satyr can see with
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 16 (3d8 + 3)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 16 (3d8 + 3)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24206,11 +24206,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +2 |     +1 |     +0 |     +1 |     +0 |
 | **Saving Throw** |     +0 |     +2 |     +1 |     +0 |     +1 |     +0 |
 
-**Skills** Nature +4, Perception +5, Stealth +6, Survival +5
-**Gear** Leather Armor, Longbow, Shortsword
-**Senses** Passive Perception 15
-**Languages** Common plus one other language
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Nature +4, Perception +5, Stealth +6, Survival +5
+- **Gear** Leather Armor, Longbow, Shortsword
+- **Senses** Passive Perception 15
+- **Languages** Common plus one other language
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
 
@@ -24226,10 +24226,10 @@ _**Longbow.**_ _Ranged Attack Roll:_ +4, range 150/600 ft. _Hit:_ 6 (1d8 + 2) Pi
 
 _Medium Fey, Chaotic Evil_
 
-**AC** 14
-**Initiative** +1 (11)
-**HP** 52 (7d8 + 21)
-**Speed** 30 ft., Swim 40 ft.
+- **AC** 14
+- **Initiative** +1 (11)
+- **HP** 52 (7d8 + 21)
+- **Speed** 30 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24237,9 +24237,9 @@ _Medium Fey, Chaotic Evil_
 | **Modifier**     |     +3 |     +1 |     +3 |     +1 |     +1 |     +1 |
 | **Saving Throw** |     +3 |     +1 |     +3 |     +1 |     +1 |     +1 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common, Giant, Primordial (Aquan)
-**CR** 2 (XP 450; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common, Giant, Primordial (Aquan)
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -24263,10 +24263,10 @@ _**Illusory Appearance.**_ The hag casts _Disguise Self_, using Constitution as 
 
 _Medium Undead, Chaotic Evil_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 27 (5d8 + 5)
-**Speed** 40 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 27 (5d8 + 5)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24274,13 +24274,13 @@ _Medium Undead, Chaotic Evil_
 | **Modifier**     |     -2 |     +2 |     +1 |     -2 |     +0 |     -1 |
 | **Saving Throw** |     -2 |     +2 |     +1 |     -2 |     +0 |     -1 |
 
-**Skills** Stealth +6
-**Vulnerabilities** Radiant
-**Resistances** Acid, Cold, Fire, Lightning, Thunder
-**Immunities** Necrotic, Poison; Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Stealth +6
+- **Vulnerabilities** Radiant
+- **Resistances** Acid, Cold, Fire, Lightning, Thunder
+- **Immunities** Necrotic, Poison; Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -24302,10 +24302,10 @@ _**Shadow Stealth.**_ While in Dim Light or Darkness, the shadow takes the Hide 
 
 _Large Plant, Unaligned_
 
-**AC** 15
-**Initiative** -1 (9)
-**HP** 110 (13d10 + 39)
-**Speed** 30 ft., Swim 20 ft.
+- **AC** 15
+- **Initiative** -1 (9)
+- **HP** 110 (13d10 + 39)
+- **Speed** 30 ft., Swim 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24313,12 +24313,12 @@ _Large Plant, Unaligned_
 | **Modifier**     |     +4 |     -1 |     +3 |     -3 |     +0 |     -3 |
 | **Saving Throw** |     +4 |     -1 |     +3 |     -3 |     +0 |     -3 |
 
-**Skills** Stealth +3
-**Resistances** Cold, Fire
-**Immunities** Lightning; Deafened, Exhaustion
-**Senses** Blindsight 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Stealth +3
+- **Resistances** Cold, Fire
+- **Immunities** Lightning; Deafened, Exhaustion
+- **Senses** Blindsight 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -24338,10 +24338,10 @@ _**Engulf.**_ _Strength Saving Throw:_ DC 15, one Medium or smaller creature wit
 
 _Large Construct, Unaligned_
 
-**AC** 17
-**Initiative** -1 (9)
-**HP** 142 (15d10 + 60)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** -1 (9)
+- **HP** 142 (15d10 + 60)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24349,10 +24349,10 @@ _Large Construct, Unaligned_
 | **Modifier**     |     +4 |     -1 |     +4 |     -2 |     +0 |     -4 |
 | **Saving Throw** |     +4 |     -1 |     +4 |     -2 |     +0 |     -4 |
 
-**Immunities** Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10
-**Languages** Understands commands given in any language but can't speak
-**CR** 7 (XP 2,900; PB +3)
+- **Immunities** Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 10
+- **Languages** Understands commands given in any language but can't speak
+- **CR** 7 (XP 2,900; PB +3)
 
 #### Traits
 
@@ -24378,10 +24378,10 @@ _**Protection.**_ _Trigger:_ An attack roll hits the wearer of the guardian's am
 
 _Medium Dragon (Metallic), Lawful Good_
 
-**AC** 17
-**Initiative** +2 (12)
-**HP** 45 (6d8 + 18)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 17
+- **Initiative** +2 (12)
+- **HP** 45 (6d8 + 18)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24389,11 +24389,11 @@ _Medium Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +4 |     +0 |     +3 |     +1 |     +0 |     +2 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     +1 |     +2 |     +2 |
 
-**Skills** Perception +4, Stealth +2
-**Immunities** Cold
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 2 (450 XP; PB +2)
+- **Skills** Perception +4, Stealth +2
+- **Immunities** Cold
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 2 (450 XP; PB +2)
 
 #### Actions
 
@@ -24409,10 +24409,10 @@ _**Paralyzing Breath.**_ _Constitution Saving Throw:_ DC 13, each creature in a 
 
 _Large Dragon (Metallic), Lawful Good_
 
-**AC** 18
-**Initiative** +4 (14)
-**HP** 168 (16d10 + 80)
-**Speed** 40 ft., Fly 80 ft.
+- **AC** 18
+- **Initiative** +4 (14)
+- **HP** 168 (16d10 + 80)
+- **Speed** 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24420,11 +24420,11 @@ _Large Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +6 |     +0 |     +5 |     +2 |     +0 |     +4 |
 | **Saving Throw** |     +6 |     +4 |     +5 |     +2 |     +4 |     +4 |
 
-**Skills** History +6, Perception +8, Stealth +4
-**Immunities** Cold
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18
-**Languages** Common, Draconic
-**CR** 9 (XP 5,000; PB +4)
+- **Skills** History +6, Perception +8, Stealth +4
+- **Immunities** Cold
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18
+- **Languages** Common, Draconic
+- **CR** 9 (XP 5,000; PB +4)
 
 #### Actions
 
@@ -24440,10 +24440,10 @@ _**Paralyzing Breath.**_ _Constitution Saving Throw:_ DC 17, each creature in a 
 
 _Huge Dragon (Metallic), Lawful Good_
 
-**AC** 19
-**Initiative** +10 (20)
-**HP** 216 (16d12 + 112)
-**Speed** 40 ft., Fly 80 ft.
+- **AC** 19
+- **Initiative** +10 (20)
+- **HP** 216 (16d12 + 112)
+- **Speed** 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24451,11 +24451,11 @@ _Huge Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +8 |     +0 |     +7 |     +3 |     +1 |     +6 |
 | **Saving Throw** |     +8 |     +5 |     +7 |     +3 |     +6 |     +6 |
 
-**Skills** History +8, Perception +11, Stealth +5
-**Immunities** Cold
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
-**Languages** Common, Draconic
-**CR** 16 (XP 15,000, or 18,000 in lair; PB +5)
+- **Skills** History +8, Perception +11, Stealth +5
+- **Immunities** Cold
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
+- **Languages** Common, Draconic
+- **CR** 16 (XP 15,000, or 18,000 in lair; PB +5)
 
 #### Traits
 
@@ -24490,10 +24490,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Gargantuan Dragon (Metallic), Lawful Good_
 
-**AC** 22
-**Initiative** +14 (24)
-**HP** 468 (24d20 + 216)
-**Speed** 40 ft., Fly 80 ft.
+- **AC** 22
+- **Initiative** +14 (24)
+- **HP** 468 (24d20 + 216)
+- **Speed** 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24501,11 +24501,11 @@ _Gargantuan Dragon (Metallic), Lawful Good_
 | **Modifier**     |    +10 |     +0 |     +9 |     +4 |     +2 |     +8 |
 | **Saving Throw** |    +10 |     +7 |     +9 |     +4 |     +9 |     +8 |
 
-**Skills** History +11, Perception +16, Stealth +7
-**Immunities** Cold
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
-**Languages** Common, Draconic
-**CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
+- **Skills** History +11, Perception +16, Stealth +7
+- **Immunities** Cold
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
+- **Languages** Common, Draconic
+- **CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
 
 #### Traits
 
@@ -24542,10 +24542,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Medium Undead, Lawful Evil_
 
-**AC** 14
-**Initiative** +3 (13)
-**HP** 13 (2d8 + 4)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +3 (13)
+- **HP** 13 (2d8 + 4)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24553,12 +24553,12 @@ _Medium Undead, Lawful Evil_
 | **Modifier**     |     +0 |     +3 |     +2 |     -2 |     -1 |     -3 |
 | **Saving Throw** |     +0 |     +3 |     +2 |     -2 |     -1 |     -3 |
 
-**Vulnerabilities** Bludgeoning
-**Immunities** Poison; Exhaustion, Poisoned
-**Gear** Shortbow, Shortsword
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** Understands Common plus one other language but can't speak
-**CR** 1/4 (XP 50; PB +2)
+- **Vulnerabilities** Bludgeoning
+- **Immunities** Poison; Exhaustion, Poisoned
+- **Gear** Shortbow, Shortsword
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** Understands Common plus one other language but can't speak
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -24570,10 +24570,10 @@ _**Shortbow.**_ _Ranged Attack Roll:_ +5, range 80/320 ft. _Hit:_ 6 (1d6 + 3) Pi
 
 _Large Undead, Lawful Evil_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 22 (3d10 + 6)
-**Speed** 60 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 22 (3d10 + 6)
+- **Speed** 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24581,11 +24581,11 @@ _Large Undead, Lawful Evil_
 | **Modifier**     |     +4 |     +1 |     +2 |     -4 |     -1 |     -3 |
 | **Saving Throw** |     +4 |     +1 |     +2 |     -4 |     -1 |     -3 |
 
-**Vulnerabilities** Bludgeoning
-**Immunities** Poison; Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Vulnerabilities** Bludgeoning
+- **Immunities** Poison; Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
 
@@ -24595,10 +24595,10 @@ _**Hooves.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 7 (1d6 + 4) Bludgeonin
 
 _Large Undead, Lawful Evil_
 
-**AC** 12
-**Initiative** +0 (10)
-**HP** 45 (6d10 + 12)
-**Speed** 40 ft.
+- **AC** 12
+- **Initiative** +0 (10)
+- **HP** 45 (6d10 + 12)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24606,11 +24606,11 @@ _Large Undead, Lawful Evil_
 | **Modifier**     |     +4 |     +0 |     +2 |     -2 |     -1 |     -3 |
 | **Saving Throw** |     +4 |     +0 |     +2 |     -2 |     -1 |     -3 |
 
-**Vulnerabilities** Bludgeoning
-**Immunities** Poison; Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** Understands Abyssal but can't speak
-**CR** 2 (XP 450; PB +2)
+- **Vulnerabilities** Bludgeoning
+- **Immunities** Poison; Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** Understands Abyssal but can't speak
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -24624,10 +24624,10 @@ _**Slam.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 15 (2d10 + 4) Bludgeonin
 
 _Large Celestial (Angel), Lawful Good_
 
-**AC** 21
-**Initiative** +20 (30)
-**HP** 297 (22d10 + 176)
-**Speed** 50 ft., Fly 150 ft. (hover)
+- **AC** 21
+- **Initiative** +20 (30)
+- **HP** 297 (22d10 + 176)
+- **Speed** 50 ft., Fly 150 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24635,11 +24635,11 @@ _Large Celestial (Angel), Lawful Good_
 | **Modifier**     |     +8 |     +6 |     +8 |     +7 |     +7 |    +10 |
 | **Saving Throw** |     +8 |     +6 |     +8 |     +7 |     +7 |    +10 |
 
-**Skills** Perception +14
-**Immunities** Poison, Radiant; Charmed, Exhaustion, Frightened, Poisoned
-**Senses** Truesight 120 ft.; Passive Perception 24
-**Languages** All; telepathy 120 ft.
-**CR** 21 (XP 33,000; PB +7)
+- **Skills** Perception +14
+- **Immunities** Poison, Radiant; Charmed, Exhaustion, Frightened, Poisoned
+- **Senses** Truesight 120 ft.; Passive Perception 24
+- **Languages** All; telepathy 120 ft.
+- **CR** 21 (XP 33,000; PB +7)
 
 #### Traits
 
@@ -24682,10 +24682,10 @@ _**Radiant Teleport.**_ The solar teleports up to 60 feet to an unoccupied space
 
 _Medium Undead, Chaotic Evil_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 22 (5d8)
-**Speed** 30 ft., Fly 50 ft. (hover)
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 22 (5d8)
+- **Speed** 30 ft., Fly 50 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24693,11 +24693,11 @@ _Medium Undead, Chaotic Evil_
 | **Modifier**     |     -5 |     +2 |     +0 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     -5 |     +2 |     +0 |     +0 |     +0 |     +0 |
 
-**Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Understands Common plus one other language but can't speak
-**CR** 1 (XP 200; PB +2)
+- **Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Understands Common plus one other language but can't speak
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -24715,10 +24715,10 @@ _**Life Drain.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 7 (2d6) Necrotic d
 
 _Tiny Celestial, Lawful Good_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 24 (7d4 + 7)
-**Speed** 20 ft., Fly 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 24 (7d4 + 7)
+- **Speed** 20 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24726,11 +24726,11 @@ _Tiny Celestial, Lawful Good_
 | **Modifier**     |     -2 |     +3 |     +1 |     +2 |     +1 |     +0 |
 | **Saving Throw** |     -2 |     +3 |     +1 |     +2 |     +1 |     +0 |
 
-**Skills** Arcana +4, Religion +4, Stealth +5
-**Resistances** Necrotic, Psychic, Radiant
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Celestial, Common
-**CR** 1 (XP 200; PB +2)
+- **Skills** Arcana +4, Religion +4, Stealth +5
+- **Resistances** Necrotic, Psychic, Radiant
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Celestial, Common
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -24748,10 +24748,10 @@ _**Burst of Ingenuity (2/Day).**_ _Trigger:_ The sphinx or another creature with
 
 _Large Celestial, Lawful Neutral_
 
-**AC** 17
-**Initiative** +10 (20)
-**HP** 170 (20d10 + 60)
-**Speed** 40 ft., Fly 60 ft.
+- **AC** 17
+- **Initiative** +10 (20)
+- **HP** 170 (20d10 + 60)
+- **Speed** 40 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24759,12 +24759,12 @@ _Large Celestial, Lawful Neutral_
 | **Modifier**     |     +4 |     +2 |     +3 |     +4 |     +4 |     +4 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     +4 |     +4 |     +4 |
 
-**Skills** Arcana +12, History +12, Perception +8, Religion +12
-**Resistances** Necrotic, Radiant
-**Immunities** Psychic; Charmed, Frightened
-**Senses** Truesight 120 ft.; Passive Perception 18
-**Languages** Celestial, Common
-**CR** 11 (XP 7,200, or 8,400 in lair; PB +4)
+- **Skills** Arcana +12, History +12, Perception +8, Religion +12
+- **Resistances** Necrotic, Radiant
+- **Immunities** Psychic; Charmed, Frightened
+- **Senses** Truesight 120 ft.; Passive Perception 18
+- **Languages** Celestial, Common
+- **CR** 11 (XP 7,200, or 8,400 in lair; PB +4)
 
 #### Traits
 
@@ -24797,10 +24797,10 @@ _**Weight of Years.**_ _Constitution Saving Throw:_ DC 16, one creature the sphi
 
 _Large Celestial, Lawful Neutral_
 
-**AC** 17
-**Initiative** +12 (22)
-**HP** 199 (19d10 + 95)
-**Speed** 40 ft., Fly 60 ft.
+- **AC** 17
+- **Initiative** +12 (22)
+- **HP** 199 (19d10 + 95)
+- **Speed** 40 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24808,12 +24808,12 @@ _Large Celestial, Lawful Neutral_
 | **Modifier**     |     +6 |     +0 |     +5 |     +3 |     +6 |     +4 |
 | **Saving Throw** |     +6 |     +6 |    +11 |     +9 |    +12 |     +4 |
 
-**Skills** Arcana +9, Perception +12, Religion +15
-**Resistances** Necrotic, Radiant
-**Immunities** Psychic; Charmed, Frightened
-**Senses** Truesight 120 ft.; Passive Perception 22
-**Languages** Celestial, Common
-**CR** 17 (XP 18,000, or 20,000 in lair; PB +6)
+- **Skills** Arcana +9, Perception +12, Religion +15
+- **Resistances** Necrotic, Radiant
+- **Immunities** Psychic; Charmed, Frightened
+- **Senses** Truesight 120 ft.; Passive Perception 22
+- **Languages** Celestial, Common
+- **CR** 17 (XP 18,000, or 20,000 in lair; PB +6)
 
 #### Traits
 
@@ -24852,10 +24852,10 @@ _**Weight of Years.**_ _Constitution Saving Throw:_ DC 16, one creature the sphi
 
 _Large Fiend, Chaotic Evil_
 
-**AC** 17
-**Initiative** +3 (13)
-**HP** 135 (18d10 + 36)
-**Speed** 40 ft.
+- **AC** 17
+- **Initiative** +3 (13)
+- **HP** 135 (18d10 + 36)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24863,10 +24863,10 @@ _Large Fiend, Chaotic Evil_
 | **Modifier**     |     +4 |     +3 |     +2 |     +3 |     +2 |     +3 |
 | **Saving Throw** |     +4 |     +6 |     +5 |     +3 |     +5 |     +6 |
 
-**Immunities** Poison; Charmed, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** Abyssal, Common
-**CR** 8 (XP 3,900; PB +3)
+- **Immunities** Poison; Charmed, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** Abyssal, Common
+- **CR** 8 (XP 3,900; PB +3)
 
 #### Traits
 
@@ -24891,10 +24891,10 @@ _**Spellcasting.**_ The naga casts one of the following spells, requiring no Som
 
 _Tiny Fey, Neutral Good_
 
-**AC** 15
-**Initiative** +4 (14)
-**HP** 10 (4d4)
-**Speed** 10 ft., Fly 40 ft.
+- **AC** 15
+- **Initiative** +4 (14)
+- **HP** 10 (4d4)
+- **Speed** 10 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24902,10 +24902,10 @@ _Tiny Fey, Neutral Good_
 | **Modifier**     |     -4 |     +4 |     +0 |     +2 |     +1 |     +0 |
 | **Saving Throw** |     -4 |     +4 |     +0 |     +2 |     +1 |     +0 |
 
-**Skills** Perception +3, Stealth +8
-**Senses** Passive Perception 13
-**Languages** Common, Elvish, Sylvan
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +3, Stealth +8
+- **Senses** Passive Perception 13
+- **Languages** Common, Elvish, Sylvan
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -24923,10 +24923,10 @@ _**Invisibility.**_ The sprite casts _Invisibility_ on itself, requiring no spel
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 12
-**Initiative** +4 (14)
-**HP** 27 (6d8)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 12
+- **Initiative** +4 (14)
+- **HP** 27 (6d8)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24934,11 +24934,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +2 |     +0 |     +1 |     +2 |     +3 |
 | **Saving Throw** |     +0 |     +2 |     +0 |     +1 |     +2 |     +3 |
 
-**Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Sleight of Hand +4, Stealth +6
-**Gear** Hand Crossbow, Shortsword, Thieves' Tools
-**Senses** Passive Perception 16
-**Languages** Common plus one other language
-**CR** 1 (XP 200; PB +2)
+- **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Sleight of Hand +4, Stealth +6
+- **Gear** Hand Crossbow, Shortsword, Thieves' Tools
+- **Senses** Passive Perception 16
+- **Languages** Common plus one other language
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -24956,10 +24956,10 @@ _**Cunning Action.**_ The spy takes the Dash, Disengage, or Hide action.
 
 _Tiny Monstrosity, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 5 (2d4)
-**Speed** 10 ft., Fly 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 5 (2d4)
+- **Speed** 10 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24967,9 +24967,9 @@ _Tiny Monstrosity, Unaligned_
 | **Modifier**     |     -3 |     +3 |     +0 |     -4 |     -1 |     -2 |
 | **Saving Throw** |     -3 |     +3 |     +0 |     -4 |     -1 |     -2 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
 
@@ -24983,10 +24983,10 @@ The stirge can detach itself by spending 5 feet of its movement. The target or a
 
 _Huge Giant, Neutral_
 
-**AC** 17
-**Initiative** +5 (15)
-**HP** 126 (11d12 + 55)
-**Speed** 40 ft.
+- **AC** 17
+- **Initiative** +5 (15)
+- **HP** 126 (11d12 + 55)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -24994,10 +24994,10 @@ _Huge Giant, Neutral_
 | **Modifier**     |     +6 |     +2 |     +5 |     +0 |     +1 |     -1 |
 | **Saving Throw** |     +6 |     +5 |     +8 |     +0 |     +4 |     -1 |
 
-**Skills** Athletics +12, Perception +4, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Giant
-**CR** 7 (XP 2,900; PB +3)
+- **Skills** Athletics +12, Perception +4, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Giant
+- **CR** 7 (XP 2,900; PB +3)
 
 #### Actions
 
@@ -25017,10 +25017,10 @@ _**Deflect Missile (Recharge 5-6).**_ _Trigger:_ The giant is hit by a ranged at
 
 _Large Construct, Unaligned_
 
-**AC** 18
-**Initiative** +3 (13)
-**HP** 220 (21d10 + 105)
-**Speed** 30 ft.
+- **AC** 18
+- **Initiative** +3 (13)
+- **HP** 220 (21d10 + 105)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25028,10 +25028,10 @@ _Large Construct, Unaligned_
 | **Modifier**     |     +6 |     -1 |     +5 |     -4 |     +0 |     -5 |
 | **Saving Throw** |     +6 |     -1 |     +5 |     -4 |     +0 |     -5 |
 
-**Immunities** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Darkvision 120 ft.; Passive Perception 10
-**Languages** Understands Common plus two other languages but can't speak
-**CR** 10 (XP 5,900; PB +4)
+- **Immunities** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Darkvision 120 ft.; Passive Perception 10
+- **Languages** Understands Common plus two other languages but can't speak
+- **CR** 10 (XP 5,900; PB +4)
 
 #### Traits
 
@@ -25057,10 +25057,10 @@ _**Slow (Recharge 5-6).**_ The golem casts the _Slow_ spell, requiring no spell 
 
 _Huge Giant, Chaotic Good_
 
-**AC** 16
-**Initiative** +7 (17)
-**HP** 230 (20d12 + 100)
-**Speed** 50 ft., Fly 25 ft. (hover), Swim 50 ft.
+- **AC** 16
+- **Initiative** +7 (17)
+- **HP** 230 (20d12 + 100)
+- **Speed** 50 ft., Fly 25 ft. (hover), Swim 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25068,12 +25068,12 @@ _Huge Giant, Chaotic Good_
 | **Modifier**     |     +9 |     +2 |     +5 |     +3 |     +5 |     +4 |
 | **Saving Throw** |    +14 |     +2 |    +10 |     +3 |    +10 |     +9 |
 
-**Skills** Arcana +8, Athletics +14, History +8, Perception +10
-**Resistances** Cold
-**Immunities** Lightning, Thunder
-**Senses** Darkvision 120 ft., Truesight 30 ft.; Passive Perception 20
-**Languages** Common, Giant
-**CR** 13 (XP 10,000; PB +5)
+- **Skills** Arcana +8, Athletics +14, History +8, Perception +10
+- **Resistances** Cold
+- **Immunities** Lightning, Thunder
+- **Senses** Darkvision 120 ft., Truesight 30 ft.; Passive Perception 20
+- **Languages** Common, Giant
+- **CR** 13 (XP 10,000; PB +5)
 
 #### Traits
 
@@ -25100,10 +25100,10 @@ _**Spellcasting.**_ The giant casts one of the following spells, requiring no Ma
 
 _Medium Fiend, Neutral Evil_
 
-**AC** 15
-**Initiative** +3 (13)
-**HP** 71 (13d8 + 13)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 15
+- **Initiative** +3 (13)
+- **HP** 71 (13d8 + 13)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25111,11 +25111,11 @@ _Medium Fiend, Neutral Evil_
 | **Modifier**     |     -1 |     +3 |     +1 |     +2 |     +1 |     +5 |
 | **Saving Throw** |     -1 |     +3 |     +1 |     +2 |     +1 |     +5 |
 
-**Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
-**Resistances** Cold, Fire, Poison, Psychic
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** Abyssal, Common, Infernal; telepathy 60 ft.
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
+- **Resistances** Cold, Fire, Poison, Psychic
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** Abyssal, Common, Infernal; telepathy 60 ft.
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
 
@@ -25141,10 +25141,10 @@ _**Shape-Shift.**_ The succubus shape-shifts into a Medium or Small Humanoid, or
 
 _Gargantuan Monstrosity (Titan), Unaligned_
 
-**AC** 25
-**Initiative** +18 (28)
-**HP** 697 (34d20 + 340)
-**Speed** 60 ft., Burrow 40 ft., Climb 60 ft.
+- **AC** 25
+- **Initiative** +18 (28)
+- **HP** 697 (34d20 + 340)
+- **Speed** 60 ft., Burrow 40 ft., Climb 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25152,12 +25152,12 @@ _Gargantuan Monstrosity (Titan), Unaligned_
 | **Modifier**     |    +10 |     +0 |    +10 |     -4 |     +0 |     +0 |
 | **Saving Throw** |    +10 |     +9 |    +10 |     +5 |     +9 |     +9 |
 
-**Skills** Perception +9
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Fire, Poison; Charmed, Deafened, Frightened, Paralyzed, Poisoned
-**Senses** Blindsight 120 ft.; Passive Perception 19
-**Languages** None
-**CR** 30 (XP 155,000; PB +9)
+- **Skills** Perception +9
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Fire, Poison; Charmed, Deafened, Frightened, Paralyzed, Poisoned
+- **Senses** Blindsight 120 ft.; Passive Perception 19
+- **Languages** None
+- **CR** 30 (XP 155,000; PB +9)
 
 #### Traits
 
@@ -25201,10 +25201,10 @@ _**World-Shaking Movement.**_ The tarrasque moves up to its Speed. At the end of
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 12
-**Initiative** +1 (11)
-**HP** 32 (5d8 + 10)
-**Speed** 30 ft.
+- **AC** 12
+- **Initiative** +1 (11)
+- **HP** 32 (5d8 + 10)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25212,10 +25212,10 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +2 |     +1 |     +2 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +2 |     +1 |     +2 |     +0 |     +0 |     +0 |
 
-**Gear** Heavy Crossbow, Leather Armor, Mace
-**Senses** Passive Perception 10
-**Languages** Common
-**CR** 1/2 (XP 100; PB +2)
+- **Gear** Heavy Crossbow, Leather Armor, Mace
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -25231,10 +25231,10 @@ _**Heavy Crossbow.**_ _Ranged Attack Roll:_ +3, range 100/400 ft. _Hit:_ 6 (1d10
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 16
-**Initiative** +2 (12)
-**HP** 82 (11d8 + 33)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +2 (12)
+- **HP** 82 (11d8 + 33)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25242,10 +25242,10 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +3 |     +2 |     +3 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +5 |     +2 |     +5 |     +0 |     +0 |     +2 |
 
-**Gear** Chain Mail, Heavy Crossbow, Warhammer
-**Senses** Passive Perception 10
-**Languages** Common plus one other language
-**CR** 4 (XP 1,100; PB +2)
+- **Gear** Chain Mail, Heavy Crossbow, Warhammer
+- **Senses** Passive Perception 10
+- **Languages** Common plus one other language
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
 
@@ -25265,10 +25265,10 @@ _**Heavy Crossbow.**_ _Ranged Attack Roll:_ +4, range 100/400 ft. _Hit:_ 13 (2d1
 
 _Huge Plant, Chaotic Good_
 
-**AC** 16
-**Initiative** +3 (13)
-**HP** 138 (12d12 + 60)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +3 (13)
+- **HP** 138 (12d12 + 60)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25276,11 +25276,11 @@ _Huge Plant, Chaotic Good_
 | **Modifier**     |     +6 |     -1 |     +5 |     +1 |     +3 |     +1 |
 | **Saving Throw** |     +6 |     -1 |     +5 |     +1 |     +3 |     +1 |
 
-**Vulnerabilities** Fire
-**Resistances** Bludgeoning, Piercing
-**Senses** Passive Perception 13
-**Languages** Common, Druidic, Elvish, Sylvan
-**CR** 9 (XP 5,000; PB +4)
+- **Vulnerabilities** Fire
+- **Resistances** Bludgeoning, Piercing
+- **Senses** Passive Perception 13
+- **Languages** Common, Druidic, Elvish, Sylvan
+- **CR** 9 (XP 5,000; PB +4)
 
 #### Traits
 
@@ -25302,10 +25302,10 @@ _**Animate Trees (1/Day).**_ The treant magically animates up to two trees it ca
 
 _Large Giant, Chaotic Evil_
 
-**AC** 15
-**Initiative** +1 (11)
-**HP** 94 (9d10 + 45)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +1 (11)
+- **HP** 94 (9d10 + 45)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25313,10 +25313,10 @@ _Large Giant, Chaotic Evil_
 | **Modifier**     |     +4 |     +1 |     +5 |     -2 |     -1 |     -2 |
 | **Saving Throw** |     +4 |     +1 |     +5 |     -2 |     -1 |     -2 |
 
-**Skills** Perception +5
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** Giant
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +5
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** Giant
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -25338,10 +25338,10 @@ _**Charge.**_ The troll moves up to half its Speed straight toward an enemy it c
 
 _Small Giant, Chaotic Evil_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 14 (4d6)
-**Speed** 20 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 14 (4d6)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25349,9 +25349,9 @@ _Small Giant, Chaotic Evil_
 | **Modifier**     |     +4 |     +1 |     +0 |     -5 |     -1 |     -5 |
 | **Saving Throw** |     +4 |     +1 |     +0 |     -5 |     -1 |     -5 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -25369,10 +25369,10 @@ _**Rend.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 9 (2d4 + 4) Slashing dam
 
 _Large Celestial, Lawful Good_
 
-**AC** 12
-**Initiative** +8 (18)
-**HP** 97 (13d10 + 26)
-**Speed** 50 ft.
+- **AC** 12
+- **Initiative** +8 (18)
+- **HP** 97 (13d10 + 26)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25380,10 +25380,10 @@ _Large Celestial, Lawful Good_
 | **Modifier**     |     +4 |     +2 |     +2 |     +0 |     +3 |     +3 |
 | **Saving Throw** |     +4 |     +2 |     +2 |     +0 |     +3 |     +3 |
 
-**Immunities** Poison; Charmed, Paralyzed, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** Celestial, Elvish, Sylvan; telepathy 120 ft.
-**CR** 5 (XP 1,800; PB +3)
+- **Immunities** Poison; Charmed, Paralyzed, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** Celestial, Elvish, Sylvan; telepathy 120 ft.
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -25422,10 +25422,10 @@ _**Shimmering Shield.**_ The unicorn targets itself or one creature it can see w
 
 _Medium or Small Humanoid, Neutral Evil_
 
-**AC** 15
-**Initiative** +5 (15)
-**HP** 65 (10d8 + 20)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 15
+- **Initiative** +5 (15)
+- **HP** 65 (10d8 + 20)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25433,13 +25433,13 @@ _Medium or Small Humanoid, Neutral Evil_
 | **Modifier**     |     +3 |     +3 |     +2 |     +0 |     +0 |     +2 |
 | **Saving Throw** |     +3 |     +5 |     +2 |     +0 |     +2 |     +2 |
 
-**Skills** Perception +4, Persuasion +4, Stealth +7
-**Resistances** Necrotic
-**Immunities** Charmed (except from its vampire master)
-**Gear** Daggers (10)
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Common plus one other language
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +4, Persuasion +4, Stealth +7
+- **Resistances** Necrotic
+- **Immunities** Charmed (except from its vampire master)
+- **Gear** Daggers (10)
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Common plus one other language
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -25459,10 +25459,10 @@ _**Deathless Agility.**_ The familiar takes the Dash or Disengage action.
 
 _Medium or Small Undead, Neutral Evil_
 
-**AC** 16
-**Initiative** +3 (13)
-**HP** 90 (12d8 + 36)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +3 (13)
+- **HP** 90 (12d8 + 36)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25470,11 +25470,11 @@ _Medium or Small Undead, Neutral Evil_
 | **Modifier**     |     +3 |     +3 |     +3 |     +0 |     +0 |     +1 |
 | **Saving Throw** |     +3 |     +6 |     +3 |     +0 |     +3 |     +1 |
 
-**Skills** Perception +3, Stealth +6
-**Resistances** Necrotic
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** Common plus one other language
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +3, Stealth +6
+- **Resistances** Necrotic
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** Common plus one other language
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -25503,10 +25503,10 @@ _**Deathless Agility.**_ The vampire takes the Dash or Disengage action.
 
 _Medium or Small Undead, Lawful Evil_
 
-**AC** 16
-**Initiative** +14 (24)
-**HP** 195 (23d8 + 92)
-**Speed** 40 ft., Climb 40 ft.
+- **AC** 16
+- **Initiative** +14 (24)
+- **HP** 195 (23d8 + 92)
+- **Speed** 40 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25514,11 +25514,11 @@ _Medium or Small Undead, Lawful Evil_
 | **Modifier**     |     +4 |     +4 |     +4 |     +3 |     +2 |     +4 |
 | **Saving Throw** |     +4 |     +9 |     +9 |     +3 |     +7 |     +9 |
 
-**Skills** Perception +7, Stealth +9
-**Resistances** Necrotic
-**Senses** Darkvision 120 ft.; Passive Perception 17
-**Languages** Common plus two other languages
-**CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
+- **Skills** Perception +7, Stealth +9
+- **Resistances** Necrotic
+- **Senses** Darkvision 120 ft.; Passive Perception 17
+- **Languages** Common plus two other languages
+- **CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
 
 #### Traits
 
@@ -25569,10 +25569,10 @@ _**Deathless Strike.**_ The vampire moves up to half its Speed, and it makes one
 
 _Large Fiend (Demon), Chaotic Evil_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 152 (16d10 + 64)
-**Speed** 40 ft., Fly 60 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 152 (16d10 + 64)
+- **Speed** 40 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25580,11 +25580,11 @@ _Large Fiend (Demon), Chaotic Evil_
 | **Modifier**     |     +3 |     +2 |     +4 |     -1 |     +1 |     -1 |
 | **Saving Throw** |     +3 |     +5 |     +4 |     -1 |     +4 |     +2 |
 
-**Resistances** Cold, Fire, Lightning
-**Immunities** Poison; Poisoned
-**Senses** Darkvision 120 ft.; Passive Perception 11
-**Languages** Abyssal; telepathy 120 ft.
-**CR** 6 (XP 2,300; PB +3)
+- **Resistances** Cold, Fire, Lightning
+- **Immunities** Poison; Poisoned
+- **Senses** Darkvision 120 ft.; Passive Perception 11
+- **Languages** Abyssal; telepathy 120 ft.
+- **CR** 6 (XP 2,300; PB +3)
 
 #### Traits
 
@@ -25608,10 +25608,10 @@ _**Stunning Screech (1/Day).**_ _Constitution Saving Throw:_ DC 15, each creatur
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 13
-**Initiative** +0 (10)
-**HP** 9 (2d8)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +0 (10)
+- **HP** 9 (2d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25619,10 +25619,10 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +1 |     +0 |     +0 |     -1 |     +0 |     -1 |
 | **Saving Throw** |     +1 |     +0 |     +0 |     -1 |     +0 |     -1 |
 
-**Gear** Chain Shirt, Spear
-**Senses** Passive Perception 10
-**Languages** Common
-**CR** 1/8 (XP 25; PB +2)
+- **Gear** Chain Shirt, Spear
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
 
@@ -25636,10 +25636,10 @@ _**Spear.**_ _Melee or Ranged Attack Roll:_ +3, reach 5 ft. or range 20/60 ft. _
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 17
-**Initiative** +3 (13)
-**HP** 65 (10d8 + 20)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +3 (13)
+- **HP** 65 (10d8 + 20)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25647,11 +25647,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +3 |     +1 |     +2 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +3 |     +1 |     +2 |     +0 |     +0 |     +0 |
 
-**Skills** Athletics +5, Perception +2
-**Gear** Greatsword, Heavy Crossbow, Splint Armor
-**Senses** Passive Perception 12
-**Languages** Common plus one other language
-**CR** 3 (XP 700; PB +2)
+- **Skills** Athletics +5, Perception +2
+- **Gear** Greatsword, Heavy Crossbow, Splint Armor
+- **Senses** Passive Perception 12
+- **Languages** Common plus one other language
+- **CR** 3 (XP 700; PB +2)
 
 #### Actions
 
@@ -25671,10 +25671,10 @@ _**Parry.**_ _Trigger:_ The warrior is hit by a melee attack roll while holding 
 
 _Large Elemental, Neutral_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 114 (12d10 + 48)
-**Speed** 30 ft., Swim 90 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 114 (12d10 + 48)
+- **Speed** 30 ft., Swim 90 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25682,11 +25682,11 @@ _Large Elemental, Neutral_
 | **Modifier**     |     +4 |     +2 |     +4 |     -3 |     +0 |     -1 |
 | **Saving Throw** |     +4 |     +2 |     +4 |     -3 |     +0 |     -1 |
 
-**Resistances** Acid, Fire
-**Immunities** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Aquan)
-**CR** 5 (XP 1,800; PB +3)
+- **Resistances** Acid, Fire
+- **Immunities** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Aquan)
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -25708,10 +25708,10 @@ _**Whelm (Recharge 4-6).**_ _Strength Saving Throw:_ DC 15, each creature in the
 
 _Medium or Small Monstrosity (Lycanthrope), Neutral Good_
 
-**AC** 15
-**Initiative** +3 (13)
-**HP** 135 (18d8 + 54)
-**Speed** 30 ft., 40 ft. (bear form only), Climb 30 ft. (bear form only)
+- **AC** 15
+- **Initiative** +3 (13)
+- **HP** 135 (18d8 + 54)
+- **Speed** 30 ft., 40 ft. (bear form only), Climb 30 ft. (bear form only)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25719,11 +25719,11 @@ _Medium or Small Monstrosity (Lycanthrope), Neutral Good_
 | **Modifier**     |     +4 |     +0 |     +3 |     +0 |     +1 |     +1 |
 | **Saving Throw** |     +4 |     +0 |     +3 |     +0 |     +1 |     +1 |
 
-**Skills** Perception +7
-**Gear** Handaxes (4)
-**Senses** Darkvision 60 ft.; Passive Perception 17
-**Languages** Common (can't speak in bear form)
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +7
+- **Gear** Handaxes (4)
+- **Senses** Darkvision 60 ft.; Passive Perception 17
+- **Languages** Common (can't speak in bear form)
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
 
@@ -25745,10 +25745,10 @@ _**Shape-Shift.**_ The werebear shape-shifts into a Large bear-humanoid hybrid f
 
 _Medium or Small Monstrosity (Lycanthrope), Neutral Evil_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 97 (15d8 + 30)
-**Speed** 30 ft., 40 ft. (boar form only)
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 97 (15d8 + 30)
+- **Speed** 30 ft., 40 ft. (boar form only)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25756,11 +25756,11 @@ _Medium or Small Monstrosity (Lycanthrope), Neutral Evil_
 | **Modifier**     |     +3 |     +0 |     +2 |     +0 |     +0 |     -1 |
 | **Saving Throw** |     +3 |     +0 |     +2 |     +0 |     +0 |     -1 |
 
-**Skills** Perception +2
-**Gear** Javelins (6)
-**Senses** Passive Perception 12
-**Languages** Common (can't speak in boar form)
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Perception +2
+- **Gear** Javelins (6)
+- **Senses** Passive Perception 12
+- **Languages** Common (can't speak in boar form)
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
 
@@ -25782,10 +25782,10 @@ _**Shape-Shift.**_ The wereboar shape-shifts into a Medium boar-humanoid hybrid 
 
 _Medium or Small Monstrosity (Lycanthrope), Lawful Evil_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 60 (11d8 + 11)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 60 (11d8 + 11)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25793,11 +25793,11 @@ _Medium or Small Monstrosity (Lycanthrope), Lawful Evil_
 | **Modifier**     |     +0 |     +3 |     +1 |     +0 |     +0 |     -1 |
 | **Saving Throw** |     +0 |     +3 |     +1 |     +0 |     +0 |     -1 |
 
-**Skills** Perception +4, Stealth +5
-**Gear** Hand Crossbow
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Common (can't speak in rat form)
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +4, Stealth +5
+- **Gear** Hand Crossbow
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Common (can't speak in rat form)
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -25819,10 +25819,10 @@ _**Shape-Shift.**_ The wererat shape-shifts into a Medium rat-humanoid hybrid or
 
 _Medium or Small Monstrosity (Lycanthrope), Neutral_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 120 (16d8 + 48)
-**Speed** 30 ft., 40 ft. (tiger form only)
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 120 (16d8 + 48)
+- **Speed** 30 ft., 40 ft. (tiger form only)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25830,11 +25830,11 @@ _Medium or Small Monstrosity (Lycanthrope), Neutral_
 | **Modifier**     |     +3 |     +2 |     +3 |     +0 |     +1 |     +0 |
 | **Saving Throw** |     +3 |     +2 |     +3 |     +0 |     +1 |     +0 |
 
-**Skills** Perception +5, Stealth +4
-**Gear** Longbow
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** Common (can't speak in tiger form)
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Perception +5, Stealth +4
+- **Gear** Longbow
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** Common (can't speak in tiger form)
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
 
@@ -25858,10 +25858,10 @@ _**Shape-Shift.**_ The weretiger shape-shifts into a Large tiger-humanoid hybrid
 
 _Medium or Small Monstrosity (Lycanthrope), Chaotic Evil_
 
-**AC** 15
-**Initiative** +4 (14)
-**HP** 71 (11d8 + 22)
-**Speed** 30 ft., 40 ft. (wolf form only)
+- **AC** 15
+- **Initiative** +4 (14)
+- **HP** 71 (11d8 + 22)
+- **Speed** 30 ft., 40 ft. (wolf form only)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25869,11 +25869,11 @@ _Medium or Small Monstrosity (Lycanthrope), Chaotic Evil_
 | **Modifier**     |     +3 |     +2 |     +2 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +3 |     +2 |     +2 |     +0 |     +0 |     +0 |
 
-**Skills** Perception +4, Stealth +4
-**Gear** Longbow
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Common (can't speak in wolf form)
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +4, Stealth +4
+- **Gear** Longbow
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Common (can't speak in wolf form)
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -25899,10 +25899,10 @@ _**Shape-Shift.**_ The werewolf shape-shifts into a Large wolf-humanoid hybrid o
 
 _Medium Dragon (Chromatic), Chaotic Evil_
 
-**AC** 16
-**Initiative** +2 (12)
-**HP** 32 (5d8 + 10)
-**Speed** 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 16
+- **Initiative** +2 (12)
+- **HP** 32 (5d8 + 10)
+- **Speed** 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25910,11 +25910,11 @@ _Medium Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +2 |     +0 |     +2 |     -3 |     +0 |     +0 |
 | **Saving Throw** |     +2 |     +2 |     +2 |     -3 |     +2 |     +0 |
 
-**Skills** Perception +4, Stealth +2
-**Immunities** Cold
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 2 (450 XP; PB +2)
+- **Skills** Perception +4, Stealth +2
+- **Immunities** Cold
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 2 (450 XP; PB +2)
 
 #### Traits
 
@@ -25932,10 +25932,10 @@ _**Cold Breath (Recharge 5-6).**_ _Constitution Saving Throw:_ DC 12, each creat
 
 _Large Dragon (Chromatic), Chaotic Evil_
 
-**AC** 17
-**Initiative** +3 (13)
-**HP** 123 (13d10 + 52)
-**Speed** 40 ft., Burrow 20 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 17
+- **Initiative** +3 (13)
+- **HP** 123 (13d10 + 52)
+- **Speed** 40 ft., Burrow 20 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25943,11 +25943,11 @@ _Large Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +4 |     +0 |     +4 |     -2 |     +0 |     +1 |
 | **Saving Throw** |     +4 |     +3 |     +4 |      2 |     +3 |     +1 |
 
-**Skills** Perception +6, Stealth +3
-**Immunities** Cold
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 16
-**Languages** Common, Draconic
-**CR** 6 (2,300 XP; PB +3)
+- **Skills** Perception +6, Stealth +3
+- **Immunities** Cold
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 16
+- **Languages** Common, Draconic
+- **CR** 6 (2,300 XP; PB +3)
 
 #### Traits
 
@@ -25965,10 +25965,10 @@ _**Cold Breath (Recharge 5-6).**_ _Constitution Saving Throw:_ DC 15, each creat
 
 _Huge Dragon (Chromatic), Chaotic Evil_
 
-**AC** 18
-**Initiative** +10 (20)
-**HP** 200 (16d12 + 96)
-**Speed** 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 18
+- **Initiative** +10 (20)
+- **HP** 200 (16d12 + 96)
+- **Speed** 40 ft., Burrow 30 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -25976,11 +25976,11 @@ _Huge Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +6 |     +0 |     +6 |     -1 |     +1 |     +1 |
 | **Saving Throw** |     +6 |     +5 |     +6 |     -1 |     +6 |     +1 |
 
-**Skills** Perception +11, Stealth +5
-**Immunities** Cold
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
-**Languages** Common, Draconic
-**CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
+- **Skills** Perception +11, Stealth +5
+- **Immunities** Cold
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
+- **Languages** Common, Draconic
+- **CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
 
 #### Traits
 
@@ -26010,10 +26010,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Gargantuan Dragon (Chromatic), Chaotic Evil_
 
-**AC** 20
-**Initiative** +12 (22)
-**HP** 333 (18d20 + 144)
-**Speed** 40 ft., Burrow 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 20
+- **Initiative** +12 (22)
+- **HP** 333 (18d20 + 144)
+- **Speed** 40 ft., Burrow 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26021,11 +26021,11 @@ _Gargantuan Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +8 |     +0 |     +8 |     +0 |     +2 |     +4 |
 | **Saving Throw** |     +8 |     +6 |     +8 |     +0 |     +7 |     +4 |
 
-**Skills** Perception +13, Stealth +6
-**Immunities** Cold
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 23
-**Languages** Common, Draconic
-**CR** 20 (XP 25,000, or 33,000 in lair; PB +6)
+- **Skills** Perception +13, Stealth +6
+- **Immunities** Cold
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 23
+- **Languages** Common, Draconic
+- **CR** 20 (XP 25,000, or 33,000 in lair; PB +6)
 
 #### Traits
 
@@ -26057,10 +26057,10 @@ _**Pounce.**_ The dragon moves up to half its Speed, and it makes one Rend attac
 
 _Medium Undead, Neutral Evil_
 
-**AC** 14
-**Initiative** +4 (14)
-**HP** 82 (11d8 + 33)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +4 (14)
+- **HP** 82 (11d8 + 33)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26068,13 +26068,13 @@ _Medium Undead, Neutral Evil_
 | **Modifier**     |     +2 |     +2 |     +3 |     +0 |     +1 |     +2 |
 | **Saving Throw** |     +2 |     +2 |     +3 |     +0 |     +1 |     +2 |
 
-**Skills** Perception +3, Stealth +4
-**Resistances** Necrotic
-**Immunities** Poison; Exhaustion, Poisoned
-**Gear** Studded Leather Armor
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** Common plus one other language
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +3, Stealth +4
+- **Resistances** Necrotic
+- **Immunities** Poison; Exhaustion, Poisoned
+- **Gear** Studded Leather Armor
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** Common plus one other language
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -26098,10 +26098,10 @@ A Humanoid slain by this attack rises 24 hours later as a **Zombie** under the w
 
 _Tiny Undead, Chaotic Evil_
 
-**AC** 19
-**Initiative** +9 (19)
-**HP** 27 (11d4)
-**Speed** 5 ft., Fly 50 ft. (hover)
+- **AC** 19
+- **Initiative** +9 (19)
+- **HP** 27 (11d4)
+- **Speed** 5 ft., Fly 50 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26109,11 +26109,11 @@ _Tiny Undead, Chaotic Evil_
 | **Modifier**     |     -5 |     +9 |     +0 |     +1 |     +2 |     +0 |
 | **Saving Throw** |     -5 |     +9 |     +0 |     +1 |     +2 |     +0 |
 
-**Resistances** Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing
-**Immunities** Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 120 ft.; Passive Perception 12
-**Languages** Common plus one other language
-**CR** 2 (XP 450; PB +2)
+- **Resistances** Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing
+- **Immunities** Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 120 ft.; Passive Perception 12
+- **Languages** Common plus one other language
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -26139,10 +26139,10 @@ _**Vanish.**_ The wisp and its light have the Invisible condition until the wisp
 
 _Large Monstrosity, Neutral Evil_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 75 (10d10 + 20)
-**Speed** 50 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 75 (10d10 + 20)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26150,11 +26150,11 @@ _Large Monstrosity, Neutral Evil_
 | **Modifier**     |     +4 |     +1 |     +2 |     -2 |     +1 |     -1 |
 | **Saving Throw** |     +4 |     +1 |     +2 |     -2 |     +1 |     -1 |
 
-**Skills** Perception +5, Stealth +5
-**Immunities** Cold
-**Senses** Passive Perception 15
-**Languages** Common, Giant
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +5, Stealth +5
+- **Immunities** Cold
+- **Senses** Passive Perception 15
+- **Languages** Common, Giant
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -26172,10 +26172,10 @@ _**Cold Breath (Recharge 5-6).**_ _Constitution Saving Throw:_ DC 12, each creat
 
 _Large Fey, Neutral Evil_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 26 (4d10 + 4)
-**Speed** 50 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 26 (4d10 + 4)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26183,10 +26183,10 @@ _Large Fey, Neutral Evil_
 | **Modifier**     |     +3 |     +1 |     +1 |     -2 |     +0 |     -1 |
 | **Saving Throw** |     +3 |     +1 |     +1 |     -2 |     +0 |     -1 |
 
-**Skills** Perception +4
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Goblin, Worg
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +4
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Goblin, Worg
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
 
@@ -26198,10 +26198,10 @@ _**Bite.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Piercing dam
 
 _Medium or Small Undead, Neutral Evil_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 67 (9d8 + 27)
-**Speed** 5 ft., Fly 60 ft. (hover)
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 67 (9d8 + 27)
+- **Speed** 5 ft., Fly 60 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26209,11 +26209,11 @@ _Medium or Small Undead, Neutral Evil_
 | **Modifier**     |     -2 |     +3 |     +3 |     +1 |     +2 |     +2 |
 | **Saving Throw** |     -2 |     +3 |     +3 |     +1 |     +2 |     +2 |
 
-**Resistances** Acid, Bludgeoning, Cold, Fire, Piercing, Slashing
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** Common plus two other languages
-**CR** 5 (XP 1,800; PB +3)
+- **Resistances** Acid, Bludgeoning, Cold, Fire, Piercing, Slashing
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** Common plus two other languages
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -26233,10 +26233,10 @@ _**Create Specter.**_ The wraith targets a Humanoid corpse within 10 feet of its
 
 _Large Dragon, Unaligned_
 
-**AC** 14
-**Initiative** +0 (10)
-**HP** 127 (15d10 + 45)
-**Speed** 30 ft., Fly 80 ft.
+- **AC** 14
+- **Initiative** +0 (10)
+- **HP** 127 (15d10 + 45)
+- **Speed** 30 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26244,10 +26244,10 @@ _Large Dragon, Unaligned_
 | **Modifier**     |     +4 |     +0 |     +3 |     -3 |     +1 |     -2 |
 | **Saving Throw** |     +4 |     +0 |     +3 |     -3 |     +1 |     -2 |
 
-**Skills** Perception +4
-**Senses** Darkvision 120 ft.; Passive Perception 14
-**Languages** None
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Perception +4
+- **Senses** Darkvision 120 ft.; Passive Perception 14
+- **Languages** None
+- **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
 
@@ -26263,10 +26263,10 @@ _**Sting.**_ _Melee Attack Roll:_ +7, reach 10 ft. _Hit:_ 11 (2d6 + 4) Piercing 
 
 _Medium Elemental, Neutral_
 
-**AC** 19
-**Initiative** +0 (10)
-**HP** 84 (8d8 + 48)
-**Speed** 20 ft., Burrow 20 ft.
+- **AC** 19
+- **Initiative** +0 (10)
+- **HP** 84 (8d8 + 48)
+- **Speed** 20 ft., Burrow 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26274,11 +26274,11 @@ _Medium Elemental, Neutral_
 | **Modifier**     |     +3 |     +0 |     +6 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +3 |     +0 |     +6 |     +0 |     +0 |     +0 |
 
-**Skills** Perception +6, Stealth +6
-**Immunities** Poison; Paralyzed, Petrified, Poisoned
-**Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 16
-**Languages** Primordial (Terran)
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +6, Stealth +6
+- **Immunities** Poison; Paralyzed, Petrified, Poisoned
+- **Senses** Darkvision 60 ft., Tremorsense 60 ft.; Passive Perception 16
+- **Languages** Primordial (Terran)
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -26304,10 +26304,10 @@ _**Charge.**_ The xorn moves up to its Speed or Burrow Speed straight toward an 
 
 _Medium Undead, Neutral Evil_
 
-**AC** 8
-**Initiative** -2 (8)
-**HP** 15 (2d8 + 6)
-**Speed** 20 ft.
+- **AC** 8
+- **Initiative** -2 (8)
+- **HP** 15 (2d8 + 6)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26315,10 +26315,10 @@ _Medium Undead, Neutral Evil_
 | **Modifier**     |     +1 |     -2 |     +3 |     -4 |     -2 |     -3 |
 | **Saving Throw** |     +1 |     -2 |     +3 |     -4 |     +0 |     -3 |
 
-**Immunities** Poison; Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 8
-**Languages** Understands Common plus one other language but can't speak
-**CR** 1/4 (XP 50; PB +2)
+- **Immunities** Poison; Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 8
+- **Languages** Understands Common plus one other language but can't speak
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -26332,10 +26332,10 @@ _**Slam.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 5 (1d8 + 1) Bludgeoning 
 
 _Large Undead, Neutral Evil_
 
-**AC** 8
-**Initiative** -2 (8)
-**HP** 85 (9d10 + 36)
-**Speed** 30 ft.
+- **AC** 8
+- **Initiative** -2 (8)
+- **HP** 85 (9d10 + 36)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26343,10 +26343,10 @@ _Large Undead, Neutral Evil_
 | **Modifier**     |     +4 |     -2 |     +4 |     -4 |     -2 |     -3 |
 | **Saving Throw** |     +4 |     -2 |     +4 |     -4 |     +0 |     -3 |
 
-**Immunities** Poison; Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 8
-**Languages** Understands Common and Giant but can't speak
-**CR** 2 (XP 450; PB +2)
+- **Immunities** Poison; Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 8
+- **Languages** Understands Common and Giant but can't speak
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -26362,10 +26362,10 @@ _**Slam.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 13 (2d8 + 4) Bludgeoning
 
 _Large Beast (Dinosaur), Unaligned_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 51 (6d10 + 18)
-**Speed** 60 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 51 (6d10 + 18)
+- **Speed** 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26373,10 +26373,10 @@ _Large Beast (Dinosaur), Unaligned_
 | **Modifier**     |     +4 |     +1 |     +3 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     +4 |     +1 |     +3 |     -4 |     +1 |     -3 |
 
-**Skills** Perception +5
-**Senses** Passive Perception 15
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +5
+- **Senses** Passive Perception 15
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -26388,10 +26388,10 @@ _**Claws.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 8 (1d8 + 4) Slashing da
 
 _Huge Beast (Dinosaur), Unaligned_
 
-**AC** 15
-**Initiative** +0 (10)
-**HP** 68 (8d12 + 16)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +0 (10)
+- **HP** 68 (8d12 + 16)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26399,9 +26399,9 @@ _Huge Beast (Dinosaur), Unaligned_
 | **Modifier**     |     +4 |     +0 |     +2 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     +6 |     +0 |     +2 |     -4 |     +1 |     -3 |
 
-**Senses** Passive Perception 11
-**Languages** None
-**CR** 3 (XP 700; PB +2)
+- **Senses** Passive Perception 11
+- **Languages** None
+- **CR** 3 (XP 700; PB +2)
 
 #### Actions
 
@@ -26413,10 +26413,10 @@ _**Tail.**_ _Melee Attack Roll:_ +6, reach 10 ft. _Hit:_ 9 (1d10 + 4) Bludgeonin
 
 _Medium Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 19 (3d8 + 6)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 19 (3d8 + 6)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26424,10 +26424,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +3 |     +2 |     +2 |     -2 |     +1 |     -2 |
 | **Saving Throw** |     +3 |     +2 |     +2 |     -2 |     +1 |     -2 |
 
-**Skills** Athletics +5, Perception +3
-**Senses** Passive Perception 13
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Athletics +5, Perception +3
+- **Senses** Passive Perception 13
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
 
@@ -26441,10 +26441,10 @@ _**Rock (Recharge 6).**_ _Ranged Attack Roll:_ +5, range 25/50 ft. _Hit:_ 10 (2d
 
 _Huge Beast (Dinosaur), Unaligned_
 
-**AC** 17
-**Initiative** +3 (13)
-**HP** 90 (12d12 + 12)
-**Speed** 20 ft., Swim 80 ft.
+- **AC** 17
+- **Initiative** +3 (13)
+- **HP** 90 (12d12 + 12)
+- **Speed** 20 ft., Swim 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26452,10 +26452,10 @@ _Huge Beast (Dinosaur), Unaligned_
 | **Modifier**     |     +4 |     +3 |     +1 |     -3 |     +2 |     -2 |
 | **Saving Throw** |     +4 |     +3 |     +1 |     -3 |     +2 |     -2 |
 
-**Skills** Stealth +5
-**Senses** Passive Perception 12
-**Languages** None
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Stealth +5
+- **Senses** Passive Perception 12
+- **Languages** None
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
 
@@ -26471,10 +26471,10 @@ _**Bite.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 14 (3d6 + 4) Piercing da
 
 _Small Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 3 (1d6)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 3 (1d6)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26482,9 +26482,9 @@ _Small Beast, Unaligned_
 | **Modifier**     |     -1 |     +2 |     +0 |     -3 |     +1 |     -2 |
 | **Saving Throw** |     -1 |     +2 |     +0 |     -3 |     +1 |     -2 |
 
-**Senses** Passive Perception 11
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Senses** Passive Perception 11
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -26498,10 +26498,10 @@ _**Bite.**_ _Melee Attack Roll:_ +1, reach 5 ft. _Hit:_ 1 (1d4 - 1) Piercing dam
 
 _Tiny Beast, Unaligned_
 
-**AC** 11
-**Initiative** +0 (10)
-**HP** 5 (1d4 + 3)
-**Speed** 20 ft., Burrow 5 ft.
+- **AC** 11
+- **Initiative** +0 (10)
+- **HP** 5 (1d4 + 3)
+- **Speed** 20 ft., Burrow 5 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26509,11 +26509,11 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     +0 |     +0 |     +3 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     +0 |     +0 |     +3 |     -4 |     +1 |     -3 |
 
-**Skills** Perception +3
-**Resistances** Poison
-**Senses** Darkvision 30 ft.; Passive Perception 13
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +3
+- **Resistances** Poison
+- **Senses** Darkvision 30 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Actions
 
@@ -26523,10 +26523,10 @@ _**Bite.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 1 Piercing damage.
 
 _Tiny Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 1 (1d4 - 1)
-**Speed** 5 ft., Fly 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 1 (1d4 - 1)
+- **Speed** 5 ft., Fly 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26534,9 +26534,9 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +2 |     -1 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     -4 |     +2 |     -1 |     -4 |     +1 |     -3 |
 
-**Senses** Blindsight 60 ft.; Passive Perception 11
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Senses** Blindsight 60 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Actions
 
@@ -26546,10 +26546,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1 Piercing damage.
 
 _Medium Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 19 (3d8 + 6)
-**Speed** 30 ft., Climb 30 ft., Swim 30 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 19 (3d8 + 6)
+- **Speed** 30 ft., Climb 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26557,10 +26557,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +2 |     +1 |     +2 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +2 |     +1 |     +2 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +5
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +5
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
 
@@ -26572,10 +26572,10 @@ _**Rend.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Slashing dam
 
 _Small Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 7 (2d6)
-**Speed** 10 ft., Fly 60 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 7 (2d6)
+- **Speed** 10 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26583,10 +26583,10 @@ _Small Beast, Unaligned_
 | **Modifier**     |     -2 |     +2 |     +0 |     -4 |     +2 |     -3 |
 | **Saving Throw** |     -2 |     +2 |     +0 |     -4 |     +2 |     -3 |
 
-**Skills** Perception +6
-**Senses** Passive Perception 16
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Perception +6
+- **Senses** Passive Perception 16
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
 
@@ -26600,10 +26600,10 @@ _**Beak.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Piercing dam
 
 _Medium Beast, Unaligned_
 
-**AC** 11
-**Initiative** +0 (10)
-**HP** 13 (2d8 + 4)
-**Speed** 40 ft.
+- **AC** 11
+- **Initiative** +0 (10)
+- **HP** 13 (2d8 + 4)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26611,9 +26611,9 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +1 |     +0 |     +2 |     -4 |     -1 |     -3 |
 | **Saving Throw** |     +1 |     +0 |     +2 |     -4 |     -1 |     -3 |
 
-**Senses** Passive Perception 9
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Senses** Passive Perception 9
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -26627,10 +26627,10 @@ _**Gore.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 4 (1d6 + 1) Piercing dam
 
 _Large Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 22 (3d10 + 6)
-**Speed** 40 ft., Climb 30 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 22 (3d10 + 6)
+- **Speed** 40 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26638,10 +26638,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +1 |     +2 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +3 |     +1 |     +2 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +3
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +3
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -26655,10 +26655,10 @@ _**Claw.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 5 (1d4 + 3) Slashing dam
 
 _Large Beast, Unaligned_
 
-**AC** 10
-**Initiative** -1 (9)
-**HP** 17 (2d10 + 6)
-**Speed** 50 ft.
+- **AC** 10
+- **Initiative** -1 (9)
+- **HP** 17 (2d10 + 6)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26666,9 +26666,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +2 |     -1 |     +3 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +2 |     -1 |     +5 |     -4 |     +0 |     -3 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
 
@@ -26678,10 +26678,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Bludgeoning 
 
 _Tiny Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 2 (1d4)
-**Speed** 40 ft., Climb 40 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 2 (1d4)
+- **Speed** 40 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26689,10 +26689,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +2 |     +0 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     -4 |     +4 |     +0 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +3, Stealth +4
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +3, Stealth +4
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -26706,10 +26706,10 @@ _**Scratch.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1 Slashing damage.
 
 _Large Beast, Unaligned_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 13 (2d10 + 2)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 13 (2d10 + 2)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26717,10 +26717,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +2 |     +2 |     +1 |     -5 |     +0 |     -4 |
 | **Saving Throw** |     +2 |     +2 |     +1 |     -5 |     +0 |     -4 |
 
-**Skills** Perception +2, Stealth +4
-**Senses** Blindsight 10 ft.; Passive Perception 12
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +2, Stealth +4
+- **Senses** Blindsight 10 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -26732,10 +26732,10 @@ _**Constrict.**_ _Strength Saving Throw:_ DC 12, one Medium or smaller creature 
 
 _Tiny Beast, Unaligned_
 
-**AC** 11
-**Initiative** +0 (10)
-**HP** 3 (1d4 + 1)
-**Speed** 20 ft., Swim 20 ft.
+- **AC** 11
+- **Initiative** +0 (10)
+- **HP** 3 (1d4 + 1)
+- **Speed** 20 ft., Swim 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26743,10 +26743,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -2 |     +0 |     +1 |     -5 |     -1 |     -4 |
 | **Saving Throw** |     -2 |     +0 |     +1 |     -5 |     -1 |     -4 |
 
-**Skills** Stealth +2
-**Senses** Blindsight 30 ft.; Passive Perception 9
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Stealth +2
+- **Senses** Blindsight 30 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -26760,10 +26760,10 @@ _**Claw.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 1 Bludgeoning damage.
 
 _Large Beast, Unaligned_
 
-**AC** 12
-**Initiative** +0 (10)
-**HP** 13 (2d10 + 2)
-**Speed** 20 ft., Swim 30 ft.
+- **AC** 12
+- **Initiative** +0 (10)
+- **HP** 13 (2d10 + 2)
+- **Speed** 20 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26771,10 +26771,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +2 |     +0 |     +1 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +2 |     +0 |     +3 |     -4 |     +0 |     -3 |
 
-**Skills** Stealth +2
-**Senses** Passive Perception 10
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Stealth +2
+- **Senses** Passive Perception 10
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -26788,10 +26788,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 6 (1d8 + 2) Piercing dam
 
 _Medium Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 4 (1d8)
-**Speed** 50 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 4 (1d8)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26799,10 +26799,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +0 |     +3 |     +0 |     -4 |     +2 |     -3 |
 | **Saving Throw** |     +0 |     +3 |     +0 |     -4 |     +2 |     -3 |
 
-**Skills** Perception +4
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +4
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -26816,10 +26816,10 @@ _**Ram.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 2 (1d4) Bludgeoning damag
 
 _Large Beast, Unaligned_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 22 (3d10 + 6)
-**Speed** 50 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 22 (3d10 + 6)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26827,10 +26827,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +2 |     +2 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +3 |     +2 |     +2 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +5, Stealth +4
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +5, Stealth +4
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -26844,10 +26844,10 @@ _**Bite.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 8 (1d10 + 3) Piercing da
 
 _Large Beast, Unaligned_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 15 (2d10 + 4)
-**Speed** 40 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 15 (2d10 + 4)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26855,9 +26855,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +4 |     +0 |     +2 |     -4 |     +0 |     -2 |
 | **Saving Throw** |     +4 |     +0 |     +2 |     -4 |     +0 |     -2 |
 
-**Senses** Passive Perception 10
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Senses** Passive Perception 10
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -26867,10 +26867,10 @@ _**Hooves.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 6 (1d4 + 4) Bludgeonin
 
 _Small Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 4 (1d6 + 1)
-**Speed** 10 ft., Fly 60 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 4 (1d6 + 1)
+- **Speed** 10 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26878,10 +26878,10 @@ _Small Beast, Unaligned_
 | **Modifier**     |     -2 |     +2 |     +1 |     -4 |     +2 |     -2 |
 | **Saving Throw** |     -2 |     +2 |     +1 |     -4 |     +2 |     -2 |
 
-**Skills** Perception +6
-**Senses** Passive Perception 16
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +6
+- **Senses** Passive Perception 16
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Actions
 
@@ -26891,10 +26891,10 @@ _**Talons.**_ _Melee Attack Roll:_ +4, reach 5 feet. _Hit:_ 4 (1d4 + 2) Slashing
 
 _Huge Beast, Unaligned_
 
-**AC** 12
-**Initiative** -1 (9)
-**HP** 76 (8d12 + 24)
-**Speed** 40 ft.
+- **AC** 12
+- **Initiative** -1 (9)
+- **HP** 76 (8d12 + 24)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26902,9 +26902,9 @@ _Huge Beast, Unaligned_
 | **Modifier**     |     +6 |     -1 |     +3 |     -4 |     +0 |     -2 |
 | **Saving Throw** |     +6 |     -1 |     +3 |     -4 |     +0 |     -2 |
 
-**Senses** Passive Perception 10
-**Languages** None
-**CR** 4 (XP 1,100; PB +2)
+- **Senses** Passive Perception 10
+- **Languages** None
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Actions
 
@@ -26920,10 +26920,10 @@ _**Trample.**_ _Dexterity Saving Throw:_ DC 16, one creature within 5 feet that 
 
 _Large Beast, Unaligned_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 11 (2d10)
-**Speed** 50 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 11 (2d10)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26931,10 +26931,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +0 |     +0 |     -4 |     +0 |     -2 |
 | **Saving Throw** |     +3 |     +0 |     +0 |     -4 |     +0 |     -2 |
 
-**Skills** Perception +2
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +2
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -26944,10 +26944,10 @@ _**Ram.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 6 (1d6 + 3) Bludgeoning d
 
 _Tiny Monstrosity, Unaligned_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 5 (2d4)
-**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 5 (2d4)
+- **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26955,9 +26955,9 @@ _Tiny Monstrosity, Unaligned_
 | **Modifier**     |     -3 |     +2 |     +0 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     -3 |     +2 |     +0 |     -4 |     +1 |     -3 |
 
-**Senses** Blindsight 10 ft.; Passive Perception 11
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Senses** Blindsight 10 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
 
@@ -26971,10 +26971,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1 Piercing damage plus 5
 
 _Tiny Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 1 (1d4 - 1)
-**Speed** 20 ft., Swim 20 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 1 (1d4 - 1)
+- **Speed** 20 ft., Swim 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -26982,10 +26982,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -5 |     +1 |     -1 |     -5 |     -1 |     -4 |
 | **Saving Throw** |     -5 |     +1 |     -1 |     -5 |     -1 |     -4 |
 
-**Skills** Perception +1, Stealth +3
-**Senses** Darkvision 30 ft.; Passive Perception 11
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +1, Stealth +3
+- **Senses** Darkvision 30 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -27001,10 +27001,10 @@ _**Bite.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 1 Piercing damage.
 
 _Huge Beast, Unaligned_
 
-**AC** 12
-**Initiative** +5 (15)
-**HP** 168 (16d12 + 64)
-**Speed** 40 ft., Climb 40 ft.
+- **AC** 12
+- **Initiative** +5 (15)
+- **HP** 168 (16d12 + 64)
+- **Speed** 40 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27012,10 +27012,10 @@ _Huge Beast, Unaligned_
 | **Modifier**     |     +6 |     +2 |     +4 |     -3 |     +1 |     -2 |
 | **Saving Throw** |     +6 |     +2 |     +4 |     -3 |     +1 |     -2 |
 
-**Skills** Athletics +9, Perception +4, Survival +4
-**Senses** Passive Perception 14
-**Languages** None
-**CR** 7 (XP 2,900; PB +3)
+- **Skills** Athletics +9, Perception +4, Survival +4
+- **Senses** Passive Perception 14
+- **Languages** None
+- **CR** 7 (XP 2,900; PB +3)
 
 #### Actions
 
@@ -27033,10 +27033,10 @@ _**Leap.**_ The ape jumps up to 30 feet by spending 10 feet of movement.
 
 _Medium Beast, Unaligned_
 
-**AC** 13
-**Initiative** +0 (10)
-**HP** 15 (2d8 + 6)
-**Speed** 30 ft., Burrow 10 ft.
+- **AC** 13
+- **Initiative** +0 (10)
+- **HP** 15 (2d8 + 6)
+- **Speed** 30 ft., Burrow 10 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27044,11 +27044,11 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +1 |     +0 |     +3 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     +1 |     +0 |     +3 |     -4 |     +1 |     -3 |
 
-**Skills** Perception +3
-**Resistances** Poison
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +3
+- **Resistances** Poison
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -27058,10 +27058,10 @@ _**Bite.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 6 (2d4 + 1) Piercing dam
 
 _Large Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 22 (4d10)
-**Speed** 10 ft., Fly 60 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 22 (4d10)
+- **Speed** 10 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27069,9 +27069,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +2 |     +3 |     +0 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +2 |     +3 |     +0 |     -4 |     +1 |     -2 |
 
-**Senses** Blindsight 120 ft.; Passive Perception 11
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Senses** Blindsight 120 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -27081,10 +27081,10 @@ _**Bite.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 6 (1d6 + 3) Piercing dam
 
 _Large Beast, Unaligned_
 
-**AC** 13
-**Initiative** +0 (10)
-**HP** 42 (5d10 + 15)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +0 (10)
+- **HP** 42 (5d10 + 15)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27092,9 +27092,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +0 |     +3 |     -4 |     -2 |     -3 |
 | **Saving Throw** |     +5 |     +0 |     +3 |     -4 |     -2 |     -3 |
 
-**Senses** Passive Perception 8
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Senses** Passive Perception 8
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -27108,10 +27108,10 @@ _**Gore.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 10 (2d6 + 3) Piercing da
 
 _Small Beast, Unaligned_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 9 (2d6 + 2)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 9 (2d6 + 2)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27119,9 +27119,9 @@ _Small Beast, Unaligned_
 | **Modifier**     |     -3 |     +2 |     +1 |     -5 |     -2 |     -4 |
 | **Saving Throw** |     -3 |     +2 |     +1 |     -5 |     -2 |     -4 |
 
-**Senses** Blindsight 30 ft.; Passive Perception 8
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Senses** Blindsight 30 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -27131,10 +27131,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Piercing dam
 
 _Huge Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 60 (8d12 + 8)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 60 (8d12 + 8)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27142,10 +27142,10 @@ _Huge Beast, Unaligned_
 | **Modifier**     |     +4 |     +2 |     +1 |     -5 |     +0 |     -4 |
 | **Saving Throw** |     +4 |     +2 |     +1 |     -5 |     +0 |     -4 |
 
-**Skills** Perception +2
-**Senses** Blindsight 10 ft.; Passive Perception 12
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +2
+- **Senses** Blindsight 10 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -27159,10 +27159,10 @@ _**Constrict.**_ _Strength Saving Throw:_ DC 14, one Large or smaller creature t
 
 _Medium Beast, Unaligned_
 
-**AC** 15
-**Initiative** +1 (11)
-**HP** 13 (3d8)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 15
+- **Initiative** +1 (11)
+- **HP** 13 (3d8)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27170,10 +27170,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +1 |     +1 |     +0 |     -5 |     -1 |     -4 |
 | **Saving Throw** |     +1 |     +1 |     +0 |     -5 |     -1 |     -4 |
 
-**Skills** Stealth +3
-**Senses** Blindsight 30 ft.; Passive Perception 9
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Stealth +3
+- **Senses** Blindsight 30 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
 
@@ -27187,10 +27187,10 @@ _**Claw.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 4 (1d6 + 1) Bludgeoning 
 
 _Huge Beast, Unaligned_
 
-**AC** 14
-**Initiative** -1 (9)
-**HP** 85 (9d12 + 27)
-**Speed** 30 ft., Swim 50 ft.
+- **AC** 14
+- **Initiative** -1 (9)
+- **HP** 85 (9d12 + 27)
+- **Speed** 30 ft., Swim 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27198,10 +27198,10 @@ _Huge Beast, Unaligned_
 | **Modifier**     |     +5 |     -1 |     +3 |     -4 |     +0 |     -2 |
 | **Saving Throw** |     +5 |     -1 |     +3 |     -4 |     +0 |     -2 |
 
-**Skills** Stealth +5
-**Senses** Passive Perception 10
-**Languages** None
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Stealth +5
+- **Senses** Passive Perception 10
+- **Languages** None
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -27219,10 +27219,10 @@ _**Tail.**_ _Melee Attack Roll:_ +8, reach 10 ft. _Hit:_ 18 (3d8 + 5) Bludgeonin
 
 _Large Celestial, Neutral Good_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 26 (4d10 + 4)
-**Speed** 10 ft., Fly 80 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 26 (4d10 + 4)
+- **Speed** 10 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27230,11 +27230,11 @@ _Large Celestial, Neutral Good_
 | **Modifier**     |     +3 |     +3 |     +1 |     -1 |     +2 |     +0 |
 | **Saving Throw** |     +3 |     +3 |     +1 |     -1 |     +2 |     +0 |
 
-**Skills** Perception +6
-**Resistances** Necrotic, Radiant
-**Senses** Passive Perception 16
-**Languages** Celestial; understands Common and Primordial (Auran) but can't speak them
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +6
+- **Resistances** Necrotic, Radiant
+- **Senses** Passive Perception 16
+- **Languages** Celestial; understands Common and Primordial (Auran) but can't speak them
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -27246,10 +27246,10 @@ _**Rend.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 5 (1d4 + 3) Slashing dam
 
 _Huge Celestial, Neutral Good_
 
-**AC** 14
-**Initiative** +6 (16)
-**HP** 42 (5d12 + 10)
-**Speed** 60 ft.
+- **AC** 14
+- **Initiative** +6 (16)
+- **HP** 42 (5d12 + 10)
+- **Speed** 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27257,11 +27257,11 @@ _Huge Celestial, Neutral Good_
 | **Modifier**     |     +4 |     +4 |     +2 |     -2 |     +2 |     +0 |
 | **Saving Throw** |     +6 |     +6 |     +2 |     -2 |     +2 |     +0 |
 
-**Skills** Perception +4
-**Resistances** Necrotic, Radiant
-**Senses** Darkvision 90 ft.; Passive Perception 14
-**Languages** Celestial; understands Common, Elvish, and Sylvan but can't speak them
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +4
+- **Resistances** Necrotic, Radiant
+- **Senses** Darkvision 90 ft.; Passive Perception 14
+- **Languages** Celestial; understands Common, Elvish, and Sylvan but can't speak them
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -27271,10 +27271,10 @@ _**Ram.**_ _Melee Attack Roll:_ +6, reach 10 ft. _Hit:_ 11 (2d6 + 4) Bludgeoning
 
 _Small Beast, Unaligned_
 
-**AC** 13
-**Initiative** +0 (10)
-**HP** 4 (1d6 + 1)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 13
+- **Initiative** +0 (10)
+- **HP** 4 (1d6 + 1)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27282,10 +27282,10 @@ _Small Beast, Unaligned_
 | **Modifier**     |     -1 |     +0 |     +1 |     -5 |     -2 |     -4 |
 | **Saving Throw** |     -1 |     +0 |     +1 |     -5 |     -2 |     -4 |
 
-**Resistances** Fire
-**Senses** Blindsight 30 ft.; Passive Perception 8
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Resistances** Fire
+- **Senses** Blindsight 30 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -27299,10 +27299,10 @@ _**Bite.**_ _Melee Attack Roll:_ +1, reach 5 ft. _Hit:_ 1 Fire damage.
 
 _Medium Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 18 (4d8)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 18 (4d8)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27310,10 +27310,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +1 |     +1 |     +0 |     -4 |     +0 |     -4 |
 | **Saving Throw** |     +1 |     +1 |     +0 |     -4 |     +0 |     -4 |
 
-**Skills** Perception +2, Stealth +4
-**Senses** Darkvision 30 ft.; Passive Perception 12
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +2, Stealth +4
+- **Senses** Darkvision 30 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -27333,10 +27333,10 @@ At the end of the frog's next turn, the swallowed target takes 5 (2d4) Acid dama
 
 _Large Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 19 (3d10 + 3)
-**Speed** 40 ft., Climb 30 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 19 (3d10 + 3)
+- **Speed** 40 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27344,10 +27344,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +1 |     +1 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +5 |     +1 |     +1 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +3
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +3
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
 
@@ -27357,10 +27357,10 @@ _**Ram.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 6 (1d6 + 3) Bludgeoning d
 
 _Large Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 45 (6d10 + 12)
-**Speed** 50 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 45 (6d10 + 12)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27368,10 +27368,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +2 |     +2 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +3 |     +2 |     +2 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +3
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +3
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -27385,10 +27385,10 @@ _**Rampage (1/Day).**_ Immediately after dealing damage to a creature that was a
 
 _Large Beast, Unaligned_
 
-**AC** 12
-**Initiative** +1 (11)
-**HP** 19 (3d10 + 3)
-**Speed** 40 ft., Climb 40 ft.
+- **AC** 12
+- **Initiative** +1 (11)
+- **HP** 19 (3d10 + 3)
+- **Speed** 40 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27396,9 +27396,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +2 |     +1 |     +1 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +2 |     +3 |     +1 |     -4 |     +0 |     -3 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -27412,10 +27412,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 6 (1d8 + 2) Piercing dam
 
 _Large Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 45 (7d10 + 7)
-**Speed** 10 ft., Swim 60 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 45 (7d10 + 7)
+- **Speed** 10 ft., Swim 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27423,10 +27423,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +1 |     +1 |     -3 |     +0 |     -3 |
 | **Saving Throw** |     +3 |     +1 |     +1 |     -3 |     +0 |     -3 |
 
-**Skills** Perception +4, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +4, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -27444,10 +27444,10 @@ _**Ink Cloud (1/Day).**_ _Trigger:_ The octopus takes damage while underwater. _
 
 _Large Celestial, Neutral_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 19 (3d10 + 3)
-**Speed** 5 ft., Fly 60 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 19 (3d10 + 3)
+- **Speed** 5 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27455,11 +27455,11 @@ _Large Celestial, Neutral_
 | **Modifier**     |     +1 |     +2 |     +1 |     +0 |     +2 |     +0 |
 | **Saving Throw** |     +1 |     +2 |     +1 |     +0 |     +4 |     +0 |
 
-**Skills** Perception +6, Stealth +6
-**Resistances** Necrotic, Radiant
-**Senses** Darkvision 120 ft.; Passive Perception 16
-**Languages** Celestial; understands Common, Elvish, and Sylvan but can't speak them
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +6, Stealth +6
+- **Resistances** Necrotic, Radiant
+- **Senses** Darkvision 120 ft.; Passive Perception 16
+- **Languages** Celestial; understands Common, Elvish, and Sylvan but can't speak them
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -27478,10 +27478,10 @@ _**Spellcasting.**_ The owl casts one of the following spells, requiring no spel
 
 _Small Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 7 (2d6)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 7 (2d6)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27489,10 +27489,10 @@ _Small Beast, Unaligned_
 | **Modifier**     |     -2 |     +3 |     +0 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     -2 |     +5 |     +0 |     -4 |     +0 |     -3 |
 
-**Skills** Perception +2
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Perception +2
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
 
@@ -27506,10 +27506,10 @@ _**Bite.**_ _Melee Attack Roll:_ +5, reach 5 feet. _Hit:_ 5 (1d4 + 3) Piercing d
 
 _Large Beast, Unaligned_
 
-**AC** 15
-**Initiative** +1 (11)
-**HP** 52 (7d10 + 14)
-**Speed** 40 ft.
+- **AC** 15
+- **Initiative** +1 (11)
+- **HP** 52 (7d10 + 14)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27517,9 +27517,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +1 |     +2 |     -5 |     -1 |     -4 |
 | **Saving Throw** |     +3 |     +1 |     +2 |     -5 |     -1 |     -4 |
 
-**Senses** Blindsight 60 ft.; Passive Perception 9
-**Languages** None
-**CR** 3 (XP 700; PB +2)
+- **Senses** Blindsight 60 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 3 (XP 700; PB +2)
 
 #### Actions
 
@@ -27533,10 +27533,10 @@ _**Sting.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Piercing da
 
 _Large Beast, Unaligned_
 
-**AC** 14
-**Initiative** +1 (11)
-**HP** 16 (3d10)
-**Speed** 5 ft., Swim 40 ft.
+- **AC** 14
+- **Initiative** +1 (11)
+- **HP** 16 (3d10)
+- **Speed** 5 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27544,9 +27544,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +2 |     +1 |     +0 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     +2 |     +1 |     +0 |     -4 |     +1 |     -3 |
 
-**Senses** Passive Perception 11
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Senses** Passive Perception 11
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -27564,10 +27564,10 @@ _**Bubble Dash.**_ While underwater, the seahorse moves up to half its Swim Spee
 
 _Huge Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 92 (8d12 + 40)
-**Speed** 5 ft., Swim 60 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 92 (8d12 + 40)
+- **Speed** 5 ft., Swim 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27575,10 +27575,10 @@ _Huge Beast, Unaligned_
 | **Modifier**     |     +6 |     +0 |     +5 |     -5 |     +0 |     -3 |
 | **Saving Throw** |     +6 |     +0 |     +5 |     -5 |     +0 |     -3 |
 
-**Skills** Perception +3
-**Senses** Blindsight 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +3
+- **Senses** Blindsight 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Traits
 
@@ -27594,10 +27594,10 @@ _**Bite.**_ _Melee Attack Roll:_ +9 (with Advantage if the target doesn't have a
 
 _Large Beast, Unaligned_
 
-**AC** 14
-**Initiative** +3 (13)
-**HP** 26 (4d10 + 4)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 14
+- **Initiative** +3 (13)
+- **HP** 26 (4d10 + 4)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27605,10 +27605,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +2 |     +3 |     +1 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +2 |     +3 |     +1 |     -4 |     +0 |     -3 |
 
-**Skills** Perception +4, Stealth +7
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +4, Stealth +7
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -27626,10 +27626,10 @@ _**Web (Recharge 5-6).**_ _Dexterity Saving Throw:_ DC 13, one creature the spid
 
 _Large Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 39 (6d10 + 6)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 39 (6d10 + 6)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27637,9 +27637,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +2 |     +1 |     +1 |     -4 |     +0 |     -4 |
 | **Saving Throw** |     +2 |     +1 |     +1 |     -4 |     +0 |     -4 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -27657,10 +27657,10 @@ _**Swallow.**_ The toad swallows a Medium or smaller target it is grappling. Whi
 
 _Medium Beast, Unaligned_
 
-**AC** 14
-**Initiative** +4 (14)
-**HP** 11 (2d8 + 2)
-**Speed** 40 ft., Swim 40 ft.
+- **AC** 14
+- **Initiative** +4 (14)
+- **HP** 11 (2d8 + 2)
+- **Speed** 40 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27668,10 +27668,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +0 |     +4 |     +1 |     -4 |     +0 |     -4 |
 | **Saving Throw** |     +0 |     +4 |     +1 |     -4 |     +0 |     -4 |
 
-**Skills** Perception +2
-**Senses** Blindsight 10 ft.; Passive Perception 12
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +2
+- **Senses** Blindsight 10 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -27681,10 +27681,10 @@ _**Bite.**_ _Melee Attack Roll:_ +6, reach 10 ft. _Hit:_ 6 (1d4 + 4) Piercing da
 
 _Large Monstrosity, Neutral Evil_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 25 (3d10 + 9)
-**Speed** 10 ft., Fly 60 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 25 (3d10 + 9)
+- **Speed** 10 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27692,11 +27692,11 @@ _Large Monstrosity, Neutral Evil_
 | **Modifier**     |     +2 |     +0 |     +3 |     -2 |     +1 |     -2 |
 | **Saving Throw** |     +2 |     +0 |     +3 |     -2 |     +1 |     -2 |
 
-**Skills** Perception +3
-**Resistances** Necrotic
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** Understands Common but can't speak
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +3
+- **Resistances** Necrotic
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** Understands Common but can't speak
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -27710,10 +27710,10 @@ _**Gouge.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 9 (2d6 + 2) Piercing da
 
 _Medium Beast, Unaligned_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 22 (5d8)
-**Speed** 10 ft., Fly 50 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 22 (5d8)
+- **Speed** 10 ft., Fly 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27721,9 +27721,9 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +0 |     +2 |     +0 |     -5 |     +0 |     -4 |
 | **Saving Throw** |     +0 |     +2 |     +0 |     -5 |     +0 |     -4 |
 
-**Senses** Passive Perception 10
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Senses** Passive Perception 10
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -27737,10 +27737,10 @@ _**Sting.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (1d6 + 2) Piercing da
 
 _Medium Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 9 (2d8)
-**Speed** 40 ft., Climb 30 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 9 (2d8)
+- **Speed** 40 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27748,10 +27748,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +0 |     +3 |     +0 |     -3 |     +1 |     -3 |
 | **Saving Throw** |     +0 |     +3 |     +0 |     -3 |     +1 |     -3 |
 
-**Skills** Acrobatics +5, Perception +3, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Acrobatics +5, Perception +3, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
 
@@ -27761,10 +27761,10 @@ _**Bite.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 5 (1d4 + 3) Piercing dam
 
 _Medium Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 11 (2d8 + 2)
-**Speed** 40 ft., Climb 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 11 (2d8 + 2)
+- **Speed** 40 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27772,10 +27772,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +1 |     +3 |     +1 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     +1 |     +3 |     +1 |     -4 |     +1 |     -3 |
 
-**Skills** Perception +3, Stealth +7
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +3, Stealth +7
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -27789,10 +27789,10 @@ _**Bite.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 5 (1d4 + 3) Piercing dam
 
 _Medium Beast, Unaligned_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 4 (1d8)
-**Speed** 40 ft., Climb 30 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 4 (1d8)
+- **Speed** 40 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27800,10 +27800,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +0 |     +0 |     +0 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +2 |     +0 |     +0 |     -4 |     +0 |     -3 |
 
-**Skills** Perception +2
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +2
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Actions
 
@@ -27813,10 +27813,10 @@ _**Ram.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 1 Bludgeoning damage, or 
 
 _Tiny Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 1 (1d4 - 1)
-**Speed** 10 ft., Fly 60 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 1 (1d4 - 1)
+- **Speed** 10 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27824,10 +27824,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -3 |     +3 |     -1 |     -4 |     +2 |     -2 |
 | **Saving Throw** |     -3 |     +3 |     -1 |     -4 |     +2 |     -2 |
 
-**Skills** Perception +6
-**Senses** Passive Perception 16
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +6
+- **Senses** Passive Perception 16
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Actions
 
@@ -27837,10 +27837,10 @@ _**Talons.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 1 Slashing damage.
 
 _Large Beast, Unaligned_
 
-**AC** 14
-**Initiative** -2 (8)
-**HP** 82 (11d10 + 22)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 14
+- **Initiative** -2 (8)
+- **HP** 82 (11d10 + 22)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27848,10 +27848,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +5 |     -2 |     +2 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     +7 |     -2 |     +2 |     -4 |     +1 |     -3 |
 
-**Skills** Perception +3
-**Senses** Passive Perception 13
-**Languages** None
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Perception +3
+- **Senses** Passive Perception 13
+- **Languages** None
+- **CR** 4 (XP 1,100; PB +2)
 
 #### Traits
 
@@ -27867,10 +27867,10 @@ _**Bite.**_ _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 16 (2d10 + 5) Piercing d
 
 _Large Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 45 (6d10 + 12)
-**Speed** 5 ft., Swim 40 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 45 (6d10 + 12)
+- **Speed** 5 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27878,10 +27878,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +4 |     +2 |     +2 |     -5 |     +0 |     -3 |
 | **Saving Throw** |     +4 |     +2 |     +2 |     -5 |     +0 |     -3 |
 
-**Skills** Perception +2
-**Senses** Blindsight 60 ft.; Passive Perception 12
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +2
+- **Senses** Blindsight 60 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -27895,10 +27895,10 @@ _**Bite.**_ _Melee Attack Roll:_ +6 (with Advantage if the target doesn't have a
 
 _Medium Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 5 (1d8 + 1)
-**Speed** 50 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 5 (1d8 + 1)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27906,10 +27906,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +0 |     +1 |     +1 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     +0 |     +1 |     +1 |     -4 |     +1 |     -3 |
 
-**Skills** Perception +3
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +3
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -27923,10 +27923,10 @@ _**Bite.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 3 (1d6) Piercing damage.
 
 _Small Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 3 (1d6)
-**Speed** 40 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 3 (1d6)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27934,10 +27934,10 @@ _Small Beast, Unaligned_
 | **Modifier**     |     -1 |     +2 |     +0 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     -1 |     +2 |     +0 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +5, Stealth +4
-**Senses** Darkvision 90 ft.; Passive Perception 15
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +5, Stealth +4
+- **Senses** Darkvision 90 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Actions
 
@@ -27947,10 +27947,10 @@ _**Bite.**_ _Melee Attack Roll:_ +1, reach 5 ft. _Hit:_ 1 (1d4 - 1) Piercing dam
 
 _Huge Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 90 (12d12 + 12)
-**Speed** 5 ft., Swim 60 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 90 (12d12 + 12)
+- **Speed** 5 ft., Swim 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27958,10 +27958,10 @@ _Huge Beast, Unaligned_
 | **Modifier**     |     +4 |     +2 |     +1 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +4 |     +2 |     +1 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +3, Stealth +4
-**Senses** Blindsight 120 ft.; Passive Perception 13
-**Languages** None
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +3, Stealth +4
+- **Senses** Blindsight 120 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 3 (XP 700; PB +2)
 
 #### Traits
 
@@ -27975,10 +27975,10 @@ _**Bite.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 21 (5d6 + 4) Piercing da
 
 _Large Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 22 (4d10)
-**Speed** 50 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 22 (4d10)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27986,10 +27986,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +2 |     +0 |     -4 |     +1 |     -1 |
 | **Saving Throw** |     +3 |     +2 |     +0 |     -4 |     +1 |     -1 |
 
-**Skills** Perception +3, Stealth +4
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +3, Stealth +4
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -28009,10 +28009,10 @@ _**Roar.**_ _Wisdom Saving Throw:_ DC 11, one creature within 15 feet. _Failure:
 
 _Tiny Beast, Unaligned_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 2 (1d4)
-**Speed** 20 ft., Climb 20 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 2 (1d4)
+- **Speed** 20 ft., Climb 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28020,9 +28020,9 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +0 |     +0 |     -5 |     -1 |     -4 |
 | **Saving Throw** |     -4 |     +0 |     +0 |     -5 |     -1 |     -4 |
 
-**Senses** Darkvision 30 ft.; Passive Perception 9
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Senses** Darkvision 30 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -28036,10 +28036,10 @@ _**Bite.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 1 Piercing damage.
 
 _Huge Beast, Unaligned_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 126 (11d12 + 55)
-**Speed** 50 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 126 (11d12 + 55)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28047,9 +28047,9 @@ _Huge Beast, Unaligned_
 | **Modifier**     |     +7 |     -1 |     +5 |     -4 |     +0 |     -2 |
 | **Saving Throw** |    +10 |     -1 |     +8 |     -4 |     +0 |     -2 |
 
-**Senses** Passive Perception 10
-**Languages** None
-**CR** 6 (XP 2,300; PB +3)
+- **Senses** Passive Perception 10
+- **Languages** None
+- **CR** 6 (XP 2,300; PB +3)
 
 #### Actions
 
@@ -28065,10 +28065,10 @@ _**Trample.**_ _Dexterity Saving Throw:_ DC 18, one creature within 5 feet that 
 
 _Medium Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 5 (1d8 + 1)
-**Speed** 40 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 5 (1d8 + 1)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28076,10 +28076,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +1 |     +2 |     +1 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +1 |     +2 |     +1 |     -4 |     +3 |     -2 |
 
-**Skills** Perception +5
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Perception +5
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
 
@@ -28089,10 +28089,10 @@ _**Bite.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 4 (1d6 + 1) Piercing dam
 
 _Medium Beast, Unaligned_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 11 (2d8 + 2)
-**Speed** 40 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 11 (2d8 + 2)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28100,9 +28100,9 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +2 |     +0 |     +1 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +4 |     +0 |     +1 |     -4 |     +0 |     -3 |
 
-**Senses** Passive Perception 10
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Senses** Passive Perception 10
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Traits
 
@@ -28116,10 +28116,10 @@ _**Hooves.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Bludgeonin
 
 _Small Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 3 (1d6)
-**Speed** 5 ft., Swim 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 3 (1d6)
+- **Speed** 5 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28127,10 +28127,10 @@ _Small Beast, Unaligned_
 | **Modifier**     |     -3 |     +2 |     +0 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     -3 |     +2 |     +0 |     -4 |     +0 |     -3 |
 
-**Skills** Perception +2, Stealth +6
-**Senses** Darkvision 30 ft.; Passive Perception 12
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +2, Stealth +6
+- **Senses** Darkvision 30 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -28150,10 +28150,10 @@ _**Ink Cloud (1/Day).**_ _Trigger:_ A creature ends its turn within 5 feet of th
 
 _Tiny Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 1 (1d4 - 1)
-**Speed** 5 ft., Fly 60 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 1 (1d4 - 1)
+- **Speed** 5 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28161,10 +28161,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +1 |     -1 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     -4 |     +1 |     -1 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +5, Stealth +5
-**Senses** Darkvision 120 ft.; Passive Perception 15
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +5, Stealth +5
+- **Senses** Darkvision 120 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -28178,10 +28178,10 @@ _**Talons.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 1 Slashing damage.
 
 _Medium Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 13 (3d8)
-**Speed** 50 ft., Climb 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 13 (3d8)
+- **Speed** 50 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28189,10 +28189,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +2 |     +3 |     +0 |     -4 |     +2 |     -2 |
 | **Saving Throw** |     +2 |     +3 |     +0 |     -4 |     +2 |     -2 |
 
-**Skills** Perception +4, Stealth +7
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +4, Stealth +7
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -28206,10 +28206,10 @@ _**Nimble Escape.**_ The panther takes the Disengage or Hide action.
 
 _Tiny Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 1 (1d4 - 1)
-**Speed** 5 ft., Swim 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 1 (1d4 - 1)
+- **Speed** 5 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28217,9 +28217,9 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +3 |     -1 |     -5 |     -2 |     -4 |
 | **Saving Throw** |     -4 |     +3 |     -1 |     -5 |     -2 |     -4 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 8
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -28233,10 +28233,10 @@ _**Bite.**_ _Melee Attack Roll:_ +5 (with Advantage if the target doesn't have a
 
 _Large Beast (Dinosaur), Unaligned_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 68 (8d10 + 24)
-**Speed** 20 ft., Swim 40 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 68 (8d10 + 24)
+- **Speed** 20 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28244,10 +28244,10 @@ _Large Beast (Dinosaur), Unaligned_
 | **Modifier**     |     +4 |     +2 |     +3 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     -4 |     +1 |     -3 |
 
-**Skills** Perception +3, Stealth +4
-**Senses** Passive Perception 13
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +3, Stealth +4
+- **Senses** Passive Perception 13
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -28261,10 +28261,10 @@ _**Bite.**_ _Melee Attack Roll:_ +6, reach 10 ft. _Hit:_ 11 (2d6 + 4) Piercing d
 
 _Large Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 42 (5d10 + 15)
-**Speed** 40 ft., Swim 40 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 42 (5d10 + 15)
+- **Speed** 40 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28272,11 +28272,11 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +5 |     +2 |     +3 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +5 |     +2 |     +3 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +5, Stealth +4
-**Resistances** Cold
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +5, Stealth +4
+- **Resistances** Cold
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -28288,10 +28288,10 @@ _**Rend.**_ _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 9 (1d8 + 5) Slashing dam
 
 _Medium Beast, Unaligned_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 11 (2d8 + 2)
-**Speed** 40 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 11 (2d8 + 2)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28299,9 +28299,9 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +2 |     +0 |     +1 |     -4 |     +0 |     -2 |
 | **Saving Throw** |     +4 |     +0 |     +1 |     -4 |     +0 |     -2 |
 
-**Senses** Passive Perception 10
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Senses** Passive Perception 10
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
 
@@ -28311,10 +28311,10 @@ _**Hooves.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Bludgeonin
 
 _Medium Beast (Dinosaur), Unaligned_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 13 (3d8)
-**Speed** 10 ft., Fly 60 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 13 (3d8)
+- **Speed** 10 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28322,10 +28322,10 @@ _Medium Beast (Dinosaur), Unaligned_
 | **Modifier**     |     +1 |     +2 |     +0 |     -4 |     -1 |     -3 |
 | **Saving Throw** |     +1 |     +2 |     +0 |     -4 |     -1 |     -3 |
 
-**Skills** Perception +1
-**Senses** Passive Perception 11
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +1
+- **Senses** Passive Perception 11
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -28339,10 +28339,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 6 (1d8 + 2) Piercing dam
 
 _Tiny Beast, Unaligned_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 1 (1d4 - 1)
-**Speed** 20 ft., Climb 20 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 1 (1d4 - 1)
+- **Speed** 20 ft., Climb 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28350,10 +28350,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +0 |     -1 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     -4 |     +0 |     -1 |     -4 |     +0 |     -3 |
 
-**Skills** Perception +2
-**Senses** Darkvision 30 ft.; Passive Perception 12
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +2
+- **Senses** Darkvision 30 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -28367,10 +28367,10 @@ _**Bite.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 1 Piercing damage.
 
 _Tiny Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 2 (1d4)
-**Speed** 10 ft., Fly 50 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 2 (1d4)
+- **Speed** 10 ft., Fly 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28378,10 +28378,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +2 |     +0 |     -3 |     +1 |     -2 |
 | **Saving Throw** |     -4 |     +2 |     +0 |     -3 |     +1 |     -2 |
 
-**Skills** Perception +3
-**Senses** Passive Perception 13
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +3
+- **Senses** Passive Perception 13
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -28395,10 +28395,10 @@ _**Beak.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1 Piercing damage.
 
 _Medium Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 22 (4d8 + 4)
-**Speed** 5 ft., Swim 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 22 (4d8 + 4)
+- **Speed** 5 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28406,10 +28406,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +2 |     +2 |     +1 |     -5 |     +0 |     -3 |
 | **Saving Throw** |     +2 |     +2 |     +1 |     -5 |     +0 |     -3 |
 
-**Skills** Perception +2
-**Senses** Blindsight 30 ft.; Passive Perception 12
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +2
+- **Senses** Blindsight 30 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -28425,10 +28425,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 7 (2d4 + 2) Piercing dam
 
 _Large Beast, Unaligned_
 
-**AC** 13
-**Initiative** -1 (9)
-**HP** 45 (6d10 + 12)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** -1 (9)
+- **HP** 45 (6d10 + 12)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28436,9 +28436,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +5 |     -1 |     +2 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +5 |     -1 |     +2 |     -4 |     +1 |     -2 |
 
-**Senses** Passive Perception 11
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Senses** Passive Perception 11
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Actions
 
@@ -28448,10 +28448,10 @@ _**Gore.**_ _Melee Attack Roll:_ +7, reach 5 ft. _Hit:_ 14 (2d8 + 5) Piercing da
 
 _Large Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 13 (2d10 + 2)
-**Speed** 60 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 13 (2d10 + 2)
+- **Speed** 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28459,9 +28459,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +1 |     +1 |     -4 |     +0 |     -2 |
 | **Saving Throw** |     +3 |     +1 |     +1 |     -4 |     +0 |     -2 |
 
-**Senses** Passive Perception 10
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Senses** Passive Perception 10
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Actions
 
@@ -28471,10 +28471,10 @@ _**Hooves.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 7 (1d8 + 3) Bludgeonin
 
 _Large Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 52 (7d10 + 14)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 52 (7d10 + 14)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28482,10 +28482,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +4 |     +3 |     +2 |     -4 |     +1 |     -1 |
 | **Saving Throw** |     +6 |     +5 |     +2 |     -4 |     +1 |     -1 |
 
-**Skills** Perception +5, Stealth +7
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +5, Stealth +7
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -28505,10 +28505,10 @@ _**Nimble Escape.**_ The tiger takes the Disengage or Hide action.
 
 _Tiny Beast, Unaligned_
 
-**AC** 11
-**Initiative** +0 (10)
-**HP** 1 (1d4 - 1)
-**Speed** 10 ft.
+- **AC** 11
+- **Initiative** +0 (10)
+- **HP** 1 (1d4 - 1)
+- **Speed** 10 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28516,9 +28516,9 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +0 |     -1 |     -5 |     -1 |     -4 |
 | **Saving Throw** |     -4 |     +0 |     -1 |     -5 |     -1 |     -4 |
 
-**Senses** Blindsight 10 ft.; Passive Perception 9
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Senses** Blindsight 10 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Actions
 
@@ -28528,10 +28528,10 @@ _**Sting.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 1 Piercing damage plus 
 
 _Tiny Beast, Unaligned_
 
-**AC** 12
-**Initiative** +1 (11)
-**HP** 1 (1d4 - 1)
-**Speed** 5 ft., Swim 20 ft.
+- **AC** 12
+- **Initiative** +1 (11)
+- **HP** 1 (1d4 - 1)
+- **Speed** 5 ft., Swim 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28539,10 +28539,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -5 |     +1 |     -1 |     -5 |     +0 |     -4 |
 | **Saving Throw** |     -5 |     +1 |     -1 |     -5 |     +0 |     -4 |
 
-**Skills** Perception +2, Stealth +5
-**Senses** Passive Perception 12
-**Languages** None
-**CR** 0 (XP 0; PB +2)
+- **Skills** Perception +2, Stealth +5
+- **Senses** Passive Perception 12
+- **Languages** None
+- **CR** 0 (XP 0; PB +2)
 
 #### Traits
 
@@ -28556,10 +28556,10 @@ _**Bubble Dash.**_ While underwater, the seahorse moves up to its Swim Speed wit
 
 _Tiny Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 1 (1d4 - 1)
-**Speed** 20 ft., Climb 20 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 1 (1d4 - 1)
+- **Speed** 20 ft., Climb 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28567,10 +28567,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +2 |     -1 |     -5 |     +0 |     -4 |
 | **Saving Throw** |     -4 |     +2 |     -1 |     -5 |     +0 |     -4 |
 
-**Skills** Stealth +4
-**Senses** Darkvision 30 ft.; Passive Perception 10
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Stealth +4
+- **Senses** Darkvision 30 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -28586,10 +28586,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 1 Piercing damage plus 2
 
 _Large Swarm of Tiny Beasts, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 11 (2d10)
-**Speed** 5 ft., Fly 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 11 (2d10)
+- **Speed** 5 ft., Fly 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28597,11 +28597,11 @@ _Large Swarm of Tiny Beasts, Unaligned_
 | **Modifier**     |     -3 |     +2 |     +0 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     -3 |     +2 |     +0 |     -4 |     +1 |     -3 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-**Senses** Blindsight 60 ft.; Passive Perception 11
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses** Blindsight 60 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -28615,10 +28615,10 @@ _**Bites.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 5 (2d4) Piercing damage
 
 _Medium Swarm of Tiny Beasts, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 19 (3d8 + 6)
-**Speed** 20 ft., Climb or Fly 20 ft. (GM's choice)
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 19 (3d8 + 6)
+- **Speed** 20 ft., Climb or Fly 20 ft. (GM's choice)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28626,11 +28626,11 @@ _Medium Swarm of Tiny Beasts, Unaligned_
 | **Modifier**     |     -4 |     +1 |     +2 |     -5 |     -2 |     -5 |
 | **Saving Throw** |     -4 |     +1 |     +2 |     -5 |     -2 |     -5 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-**Senses** Blindsight 30 ft.; Passive Perception 8
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses** Blindsight 30 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Traits
 
@@ -28646,10 +28646,10 @@ _**Bites.**_ _Melee Attack Roll:_ +3, reach 5 ft. _Hit:_ 6 (2d4 + 1) Poison dama
 
 _Medium Swarm of Tiny Beasts, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 28 (8d8 - 8)
-**Speed** 5 ft., Swim 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 28 (8d8 - 8)
+- **Speed** 5 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28657,11 +28657,11 @@ _Medium Swarm of Tiny Beasts, Unaligned_
 | **Modifier**     |     +1 |     +3 |     -1 |     -5 |     -2 |     -4 |
 | **Saving Throw** |     +1 |     +3 |     -1 |     -5 |     -2 |     -4 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-**Senses** Darkvision 60 ft.; Passive Perception 8
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses** Darkvision 60 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Traits
 
@@ -28677,10 +28677,10 @@ _**Bites.**_ _Melee Attack Roll:_ +5 (with Advantage if the target doesn't have 
 
 _Medium Swarm of Tiny Beasts, Unaligned_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 14 (4d8 - 4)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 14 (4d8 - 4)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28688,11 +28688,11 @@ _Medium Swarm of Tiny Beasts, Unaligned_
 | **Modifier**     |     -1 |     +0 |     -1 |     -4 |     +0 |     -4 |
 | **Saving Throw** |     -1 |     +2 |     -1 |     -4 |     +0 |     -4 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-**Senses** Darkvision 30 ft.; Passive Perception 10
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses** Darkvision 30 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -28706,10 +28706,10 @@ _**Bites.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 5 (2d4) Piercing damage
 
 _Medium Swarm of Tiny Beasts, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 11 (2d8 + 2)
-**Speed** 10 ft., Fly 50 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 11 (2d8 + 2)
+- **Speed** 10 ft., Fly 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28717,12 +28717,12 @@ _Medium Swarm of Tiny Beasts, Unaligned_
 | **Modifier**     |     -2 |     +2 |     +1 |     -3 |     +1 |     -2 |
 | **Saving Throw** |     -2 |     +2 |     +1 |     -3 |     +1 |     -2 |
 
-**Skills** Perception +5
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-**Senses** Passive Perception 15
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +5
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses** Passive Perception 15
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 
@@ -28738,10 +28738,10 @@ _**Cacophony (Recharge 6).**_ _Wisdom Saving Throw:_ DC 10, one creature in the 
 
 _Medium Swarm of Tiny Beasts, Unaligned_
 
-**AC** 14
-**Initiative** +4 (14)
-**HP** 36 (8d8)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 14
+- **Initiative** +4 (14)
+- **HP** 36 (8d8)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28749,11 +28749,11 @@ _Medium Swarm of Tiny Beasts, Unaligned_
 | **Modifier**     |     -1 |     +4 |     +0 |     -5 |     +0 |     -4 |
 | **Saving Throw** |     -1 |     +4 |     +0 |     -5 |     +0 |     -4 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-**Senses** Blindsight 10 ft.; Passive Perception 10
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses** Blindsight 10 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 #### Traits
 
@@ -28767,10 +28767,10 @@ _**Bites.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 8 (1d8 + 4) Piercing da
 
 _Large Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 30 (4d10 + 8)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 30 (4d10 + 8)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28778,10 +28778,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +3 |     +3 |     +2 |     -4 |     +1 |     -1 |
 | **Saving Throw** |     +3 |     +3 |     +2 |     -4 |     +1 |     -1 |
 
-**Skills** Perception +3, Stealth +7
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +3, Stealth +7
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 #### Actions
 
@@ -28795,10 +28795,10 @@ _**Nimble Escape.**_ The tiger takes the Disengage or Hide action.
 
 _Huge Beast (Dinosaur), Unaligned_
 
-**AC** 14
-**Initiative** -1 (9)
-**HP** 114 (12d12 + 36)
-**Speed** 50 ft.
+- **AC** 14
+- **Initiative** -1 (9)
+- **HP** 114 (12d12 + 36)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28806,9 +28806,9 @@ _Huge Beast (Dinosaur), Unaligned_
 | **Modifier**     |     +6 |     -1 |     +3 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +6 |     -1 |     +3 |     -4 |     +0 |     -3 |
 
-**Senses** Passive Perception 10
-**Languages** None
-**CR** 5 (XP 1,800; PB +3)
+- **Senses** Passive Perception 10
+- **Languages** None
+- **CR** 5 (XP 1,800; PB +3)
 
 #### Actions
 
@@ -28820,10 +28820,10 @@ _**Gore.**_ _Melee Attack Roll:_ +9, reach 5 ft. _Hit:_ 19 (2d12 + 6) Piercing d
 
 _Huge Beast (Dinosaur), Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 136 (13d12 + 52)
-**Speed** 50 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 136 (13d12 + 52)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28831,10 +28831,10 @@ _Huge Beast (Dinosaur), Unaligned_
 | **Modifier**     |     +7 |     +0 |     +4 |     -4 |     +1 |     -1 |
 | **Saving Throw** |    +10 |     +0 |     +4 |     -4 |     +4 |     -1 |
 
-**Skills** Perception +4
-**Senses** Passive Perception 14
-**Languages** None
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Perception +4
+- **Senses** Passive Perception 14
+- **Languages** None
+- **CR** 8 (XP 3,900; PB +3)
 
 #### Actions
 
@@ -28848,10 +28848,10 @@ _**Tail.**_ _Melee Attack Roll:_ +10, reach 15 ft. _Hit:_ 25 (4d8 + 7) Bludgeoni
 
 _Tiny Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 5 (2d4)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 5 (2d4)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28859,9 +28859,9 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +2 |     +0 |     -5 |     +0 |     -4 |
 | **Saving Throw** |     -4 |     +2 |     +0 |     -5 |     +0 |     -4 |
 
-**Senses** Blindsight 10 ft.; Passive Perception 10
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Senses** Blindsight 10 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 #### Actions
 
@@ -28871,10 +28871,10 @@ _**Bite.**_ _Melee Attack Roll:_ +4, reach 5 ft. _Hit:_ 4 (1d4 + 2) Piercing dam
 
 _Medium Beast, Unaligned_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 5 (1d8 + 1)
-**Speed** 10 ft., Fly 50 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 5 (1d8 + 1)
+- **Speed** 10 ft., Fly 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28882,10 +28882,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     -2 |     +0 |     +1 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     -2 |     +0 |     +1 |     -4 |     +1 |     -3 |
 
-**Skills** Perception +3
-**Senses** Passive Perception 13
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Perception +3
+- **Senses** Passive Perception 13
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Traits
 
@@ -28899,10 +28899,10 @@ _**Beak.**_ _Melee Attack Roll:_ +2, reach 5 ft. _Hit:_ 2 (1d4) Piercing damage.
 
 _Large Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 19 (3d10 + 3)
-**Speed** 60 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 19 (3d10 + 3)
+- **Speed** 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28910,9 +28910,9 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +4 |     +1 |     +1 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +4 |     +1 |     +1 |     -4 |     +3 |     -2 |
 
-**Senses** Passive Perception 11
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Senses** Passive Perception 11
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 #### Actions
 
@@ -28922,10 +28922,10 @@ _**Hooves.**_ _Melee Attack Roll:_ +6, reach 5 ft. _Hit:_ 9 (2d4 + 4) Bludgeonin
 
 _Tiny Beast, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 1 (1d4 - 1)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 1 (1d4 - 1)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28933,10 +28933,10 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +3 |     -1 |     -4 |     +1 |     -4 |
 | **Saving Throw** |     -4 |     +3 |     -1 |     -4 |     +1 |     -4 |
 
-**Skills** Acrobatics +5, Perception +3, Stealth +5
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Skills** Acrobatics +5, Perception +3, Stealth +5
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 #### Actions
 
@@ -28946,10 +28946,10 @@ _**Bite.**_ _Melee Attack Roll:_ +5, reach 5 ft. _Hit:_ 1 Piercing damage.
 
 _Medium Beast, Unaligned_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 11 (2d8 + 2)
-**Speed** 40 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 11 (2d8 + 2)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -28957,10 +28957,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +2 |     +2 |     +1 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +2 |     +2 |     +1 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +5, Stealth +4
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +5, Stealth +4
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 #### Traits
 

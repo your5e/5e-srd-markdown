@@ -2,10 +2,10 @@
 
 _Level 3 Transmutation (Bard, Druid, Ranger)_
 
-**Casting Time:** Action (Overgrowth) or 8 hours (Enrichment)
-**Range:** 150 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action (Overgrowth) or 8 hours (Enrichment)
+- **Range:** 150 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below.
 

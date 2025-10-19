@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 12
-**Initiative** +4 (14)
-**HP** 27 (6d8)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 12
+- **Initiative** +4 (14)
+- **HP** 27 (6d8)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +2 |     +0 |     +1 |     +2 |     +3 |
 | **Saving Throw** |     +0 |     +2 |     +0 |     +1 |     +2 |     +3 |
 
-**Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Sleight of Hand +4, Stealth +6
-**Gear** Hand Crossbow, Shortsword, Thieves' Tools
-**Senses** Passive Perception 16
-**Languages** Common plus one other language
-**CR** 1 (XP 200; PB +2)
+- **Skills** Deception +5, Insight +4, Investigation +5, Perception +6, Sleight of Hand +4, Stealth +6
+- **Gear** Hand Crossbow, Shortsword, Thieves' Tools
+- **Senses** Passive Perception 16
+- **Languages** Common plus one other language
+- **CR** 1 (XP 200; PB +2)
 
 ## Actions
 

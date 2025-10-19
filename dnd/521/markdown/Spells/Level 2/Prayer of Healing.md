@@ -2,10 +2,10 @@
 
 _Level 2 Abjuration (Cleric, Paladin)_
 
-**Casting Time:** 10 minutes
-**Range:** 30 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** 10 minutes
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a Short Rest and also regain 2d8 Hit Points. A creature can't be affected by this spell again until that creature finishes a Long Rest.
 

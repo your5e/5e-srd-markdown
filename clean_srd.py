@@ -12,13 +12,44 @@ spell_list = get_spell_list()
 spell_matcher = get_next_unemphasised_spell(spell_list)
 
 ABILITIES = ['Str', 'Dex', 'Con', 'Int', 'Wis', 'Cha']
-NUMERIC_PROPERTIES = ['AC', 'Initiative', 'HP', 'Speed', 'CR']
+ABILITY_MODIFIER_CHARS = '+-−0123456789'
 PROPERTIES = [
-    'Skills', 'Resistances', 'Immunities', 'Senses', 'Languages',
-    'Vulnerabilities'
+    'Gear',
+    'Immunities',
+    'Languages',
+    'Resistances',
+    'Senses',
+    'Skills',
+    'Vulnerabilities',
 ]
-ALL_PROPERTIES = NUMERIC_PROPERTIES + PROPERTIES + ABILITIES
-MODIFIER_CHARS = '+-−0123456789'
+NUMERIC_PROPERTIES = [
+    # first four are in the specific order needed by clean_reorder_stats
+    'AC',
+    'Initiative',
+    'HP',
+    'Speed',
+
+    'CR',
+]
+STATBLOCK_PROPERTIES = ABILITIES + PROPERTIES + NUMERIC_PROPERTIES
+BACKGROUND_PROPERTIES = [
+    'Ability Scores',
+    'Equipment',
+    'Feat',
+    'Skill Proficiencies',
+    'Tool Proficiency',
+]
+ITEM_PROPERTIES = [
+    'Ability',
+    'Cost',
+    'Craft',
+    'Trigger',
+    'Utilize',
+    'Variants',
+    'Weight',
+]
+SPECIES_PROPERTIES = ['Creature Type', 'Size']
+SPELL_PROPERTIES = ['Casting Time', 'Components', 'Duration', 'Range']
 
 
 def get_table_headers(lines, index):
@@ -393,7 +424,7 @@ def clean_detabulate_mixed_stats(lines, index):
             if prop in NUMERIC_PROPERTIES:
                 if (
                     prop_index + 1 < len(words)
-                    and words[prop_index + 1][0] in MODIFIER_CHARS
+                    and words[prop_index + 1][0] in ABILITY_MODIFIER_CHARS
                 ):
                     properties_present += 1
             else:
@@ -413,7 +444,7 @@ def clean_detabulate_mixed_stats(lines, index):
         word = words[word_index]
         matched = False
 
-        for keyword in ALL_PROPERTIES:
+        for keyword in STATBLOCK_PROPERTIES:
             if word == keyword:
                 matched = True
                 parts = [word]
@@ -424,7 +455,7 @@ def clean_detabulate_mixed_stats(lines, index):
                     # properties consume everything until next keyword
                     while (
                         word_index < len(words)
-                        and words[word_index] not in (ALL_PROPERTIES)
+                        and words[word_index] not in (STATBLOCK_PROPERTIES)
                     ):
                         parts.append(words[word_index])
                         word_index += 1
@@ -433,7 +464,7 @@ def clean_detabulate_mixed_stats(lines, index):
                     # "Str 29 +9 +14" -- abilities consume numeric values
                     while (
                         word_index < len(words)
-                        and words[word_index][0] in MODIFIER_CHARS
+                        and words[word_index][0] in ABILITY_MODIFIER_CHARS
                     ):
                         parts.append(words[word_index])
                         word_index += 1
@@ -628,6 +659,41 @@ def clean_decost_headers(lines, index):
     return None
 
 
+def clean_enbullet_statlists(lines, index):
+    # "**AC** 17\n**Initiative** +7 (17)" -> "- **AC** 17\n- **Initiative** +7 (17)"
+    if lines[index].startswith('- ') or lines[index].startswith('|'):
+        return None
+
+    prop_pattern = (
+        r'^(- )?\*\*('
+        + '|'.join(
+            re.escape(p) for p in (
+                PROPERTIES
+                + NUMERIC_PROPERTIES
+                + SPELL_PROPERTIES
+                + ITEM_PROPERTIES
+                + BACKGROUND_PROPERTIES
+                + SPECIES_PROPERTIES
+            )
+        )
+        + r'):?\*\*'
+    )
+
+    if not re.match(prop_pattern, lines[index]):
+        return None
+
+    has_adjacent = False
+    if index > 0 and re.match(prop_pattern, lines[index - 1]):
+        has_adjacent = True
+    if index + 1 < len(lines) and re.match(prop_pattern, lines[index + 1]):
+        has_adjacent = True
+    if has_adjacent:
+        lines[index] = '- ' + lines[index]
+        return 0
+
+    return None
+
+
 def clean_srd(
     lines,
     breakdown_data,
@@ -714,6 +780,7 @@ def clean_srd(
         clean_italic_emphasis_markers,
         clean_italic_to_bold_italic,
         clean_collapse_adjacent_items,
+        clean_enbullet_statlists,
         clean_wrap_blank_lines,
     ]
 

@@ -2,10 +2,10 @@
 
 _Level 3 Evocation (Bard, Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Self
-**Components:** V, S, M (a crystal bead)
-**Duration:** 8 hours
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Self
+- **Components:** V, S, M (a crystal bead)
+- **Duration:** 8 hours
 
 A 10-foot Emanation springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the Emanation isn't big enough to fully encapsulate all creatures in its area.
 

@@ -2,10 +2,10 @@
 
 _Tiny Monstrosity, Unaligned_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 5 (2d4)
-**Speed** 10 ft., Fly 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 5 (2d4)
+- **Speed** 10 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Tiny Monstrosity, Unaligned_
 | **Modifier**     |     -3 |     +3 |     +0 |     -4 |     -1 |     -2 |
 | **Saving Throw** |     -3 |     +3 |     +0 |     -4 |     -1 |     -2 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 ## Actions
 

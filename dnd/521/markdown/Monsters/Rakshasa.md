@@ -2,10 +2,10 @@
 
 _Medium Fiend, Lawful Evil_
 
-**AC** 17
-**Initiative** +8 (18)
-**HP** 221 (26d8 + 104)
-**Speed** 40 ft.
+- **AC** 17
+- **Initiative** +8 (18)
+- **HP** 221 (26d8 + 104)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Medium Fiend, Lawful Evil_
 | **Modifier**     |     +2 |     +3 |     +4 |     +1 |     +3 |     +5 |
 | **Saving Throw** |     +2 |     +3 |     +4 |     +1 |     +3 |     +5 |
 
-**Skills** Deception +10, Insight +8, Perception +8
-**Vulnerabilities** Piercing damage from weapons wielded by creatures under the effect of a _Bless_ spell
-**Immunities** Charmed, Frightened
-**Senses** Truesight 60 ft.; Passive Perception 18
-**Languages** Common, Infernal
-**CR** 13 (XP 10,000; PB +5)
+- **Skills** Deception +10, Insight +8, Perception +8
+- **Vulnerabilities** Piercing damage from weapons wielded by creatures under the effect of a _Bless_ spell
+- **Immunities** Charmed, Frightened
+- **Senses** Truesight 60 ft.; Passive Perception 18
+- **Languages** Common, Infernal
+- **CR** 13 (XP 10,000; PB +5)
 
 ## Traits
 

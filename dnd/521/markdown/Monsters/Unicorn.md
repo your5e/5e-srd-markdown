@@ -2,10 +2,10 @@
 
 _Large Celestial, Lawful Good_
 
-**AC** 12
-**Initiative** +8 (18)
-**HP** 97 (13d10 + 26)
-**Speed** 50 ft.
+- **AC** 12
+- **Initiative** +8 (18)
+- **HP** 97 (13d10 + 26)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Celestial, Lawful Good_
 | **Modifier**     |     +4 |     +2 |     +2 |     +0 |     +3 |     +3 |
 | **Saving Throw** |     +4 |     +2 |     +2 |     +0 |     +3 |     +3 |
 
-**Immunities** Poison; Charmed, Paralyzed, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** Celestial, Elvish, Sylvan; telepathy 120 ft.
-**CR** 5 (XP 1,800; PB +3)
+- **Immunities** Poison; Charmed, Paralyzed, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** Celestial, Elvish, Sylvan; telepathy 120 ft.
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

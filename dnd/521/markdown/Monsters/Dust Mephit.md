@@ -2,10 +2,10 @@
 
 _Small Elemental, Neutral Evil_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 17 (5d6)
-**Speed** 30 ft., Fly 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 17 (5d6)
+- **Speed** 30 ft., Fly 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Small Elemental, Neutral Evil_
 | **Modifier**     |     -3 |     +2 |     +0 |     -1 |     +0 |     +0 |
 | **Saving Throw** |     -3 |     +2 |     +0 |     -1 |     +0 |     +0 |
 
-**Skills** Perception +2, Stealth +4
-**Vulnerabilities** Fire
-**Immunities** Poison; Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** Primordial (Auran, Terran)
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +2, Stealth +4
+- **Vulnerabilities** Fire
+- **Immunities** Poison; Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** Primordial (Auran, Terran)
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

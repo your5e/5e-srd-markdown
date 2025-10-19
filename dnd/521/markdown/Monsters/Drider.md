@@ -2,10 +2,10 @@
 
 _Large Monstrosity, Chaotic Evil_
 
-**AC** 19
-**Initiative** +4 (14)
-**HP** 123 (13d10 + 52)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 19
+- **Initiative** +4 (14)
+- **HP** 123 (13d10 + 52)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Monstrosity, Chaotic Evil_
 | **Modifier**     |     +3 |     +4 |     +4 |     +1 |     +3 |     +1 |
 | **Saving Throw** |     +3 |     +4 |     +4 |     +1 |     +3 |     +1 |
 
-**Skills** Perception +6, Stealth +10
-**Senses** Darkvision 120 ft.; Passive Perception 16
-**Languages** Elvish, Undercommon
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Perception +6, Stealth +10
+- **Senses** Darkvision 120 ft.; Passive Perception 16
+- **Languages** Elvish, Undercommon
+- **CR** 6 (XP 2,300; PB +3)
 
 ## Traits
 

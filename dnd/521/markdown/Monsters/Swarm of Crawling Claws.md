@@ -2,10 +2,10 @@
 
 _Medium Swarm of Tiny Undead, Neutral Evil_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 49 (11d8)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 49 (11d8)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Swarm of Tiny Undead, Neutral Evil_
 | **Modifier**     |     +2 |     +2 |     +0 |     -3 |     +0 |     -3 |
 | **Saving Throw** |     +2 |     +2 |     +0 |     -3 |     +0 |     -3 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
-**Senses** Blindsight 30 ft.; Passive Perception 10
-**Languages** Understands Common but can't speak
-**CR** 3 (XP 700; PB +2)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Grappled, Incapacitated, Paralyzed, Petrified, Poisoned, Prone, Restrained, Stunned
+- **Senses** Blindsight 30 ft.; Passive Perception 10
+- **Languages** Understands Common but can't speak
+- **CR** 3 (XP 700; PB +2)
 
 ## Traits
 

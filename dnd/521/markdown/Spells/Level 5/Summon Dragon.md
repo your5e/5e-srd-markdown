@@ -2,10 +2,10 @@
 
 _Level 5 Conjuration (Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (an object with the image of a dragon engraved on it worth 500+ GP)
+- **Duration:** Concentration, up to 1 hour
 
 You call forth a Dragon spirit. It manifests in an unoccupied space that you can see within range and uses the **Draconic Spirit** stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
 
@@ -17,9 +17,9 @@ _**Using a Higher-Level Spell Slot.**_ Use the spell slot's level for the spell'
 
 _Large Dragon, Neutral_
 
-**AC** 14 + the spell's level
-**HP** 50 + 10 for each spell level above 5
-**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 14 + the spell's level
+- **HP** 50 + 10 for each spell level above 5
+- **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -27,14 +27,14 @@ _Large Dragon, Neutral_
 | **Modifier**     |     +4 |     +2 |     +3 |     +0 |     +2 |     +2 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     +0 |     +2 |     +2 |
 
-**Resistances** Acid, Cold, Fire, Lightning, Poison
-**Immunities** Charmed, Frightened, Poisoned
-**Senses** Blindsight 30 ft., Darkvision 60 ft.;
+- **Resistances** Acid, Cold, Fire, Lightning, Poison
+- **Immunities** Charmed, Frightened, Poisoned
+- **Senses** Blindsight 30 ft., Darkvision 60 ft.;
 
 Passive Perception 12
 
-**Languages** Draconic, understands the languages you know
-**CR** None (XP 0; PB equals your Proficiency Bonus)
+- **Languages** Draconic, understands the languages you know
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ### Traits
 

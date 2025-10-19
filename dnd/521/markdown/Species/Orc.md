@@ -1,8 +1,8 @@
 # Orc
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 6-7 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 6-7 feet tall)
+- **Speed:** 30 feet
 
 As an Orc, you have these special traits.
 

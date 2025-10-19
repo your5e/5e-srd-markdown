@@ -2,10 +2,10 @@
 
 _Medium Monstrosity, Lawful Evil_
 
-**AC** 15
-**Initiative** +6 (16)
-**HP** 127 (17d8 + 51)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +6 (16)
+- **HP** 127 (17d8 + 51)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Monstrosity, Lawful Evil_
 | **Modifier**     |     +0 |     +3 |     +3 |     +1 |     +1 |     +2 |
 | **Saving Throw** |     +0 |     +3 |     +3 |     +1 |     +4 |     +2 |
 
-**Skills** Deception +5, Perception +4, Stealth +6
-**Senses** Darkvision 150 ft.; Passive Perception 14
-**Languages** Common plus one other language
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Deception +5, Perception +4, Stealth +6
+- **Senses** Darkvision 150 ft.; Passive Perception 14
+- **Languages** Common plus one other language
+- **CR** 6 (XP 2,300; PB +3)
 
 ## Actions
 

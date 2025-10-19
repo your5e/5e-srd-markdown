@@ -2,10 +2,10 @@
 
 _Huge Plant, Neutral_
 
-**AC** 13
-**Initiative** -2 (8)
-**HP** 59 (7d12 + 14)
-**Speed** 20 ft.
+- **AC** 13
+- **Initiative** -2 (8)
+- **HP** 59 (7d12 + 14)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Huge Plant, Neutral_
 | **Modifier**     |     +4 |     -2 |     +2 |     +0 |     +0 |     -2 |
 | **Saving Throw** |     +4 |     -2 |     +2 |     +0 |     +0 |     -2 |
 
-**Vulnerabilities** Fire
-**Resistances** Bludgeoning, Piercing
-**Senses** Passive Perception 10
-**Languages** Common plus one other language
-**CR** 2 (XP 450; PB +2)
+- **Vulnerabilities** Fire
+- **Resistances** Bludgeoning, Piercing
+- **Senses** Passive Perception 10
+- **Languages** Common plus one other language
+- **CR** 2 (XP 450; PB +2)
 
 ## Actions
 

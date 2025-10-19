@@ -2,10 +2,10 @@
 
 _Level 9 Conjuration (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V
+- **Duration:** Instantaneous
 
 _Wish_ is the mightiest spell a mortal can cast. By simply speaking aloud, you can alter reality itself.
 

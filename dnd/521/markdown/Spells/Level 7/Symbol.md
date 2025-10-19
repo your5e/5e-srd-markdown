@@ -2,10 +2,10 @@
 
 _Level 7 Abjuration (Bard, Cleric, Druid, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** Touch
-**Components:** V, S, M (powdered diamond worth 1,000+ GP, which the spell consumes)
-**Duration:** Until dispelled or triggered
+- **Casting Time:** 1 minute
+- **Range:** Touch
+- **Components:** V, S, M (powdered diamond worth 1,000+ GP, which the spell consumes)
+- **Duration:** Until dispelled or triggered
 
 You inscribe a harmful glyph either on a surface (such as a section of floor or wall) or within an object that can be closed (such as a book or chest). The glyph can cover an area no larger than 10 feet in diameter. If you choose an object, it must remain in place; if it is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 

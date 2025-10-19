@@ -2,10 +2,10 @@
 
 _Level 1 Enchantment (Warlock)_
 
-**Casting Time:** Bonus Action
-**Range:** 90 feet
-**Components:** V, S, M (the petrified eye of a newt)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Bonus Action
+- **Range:** 90 feet
+- **Components:** V, S, M (the petrified eye of a newt)
+- **Duration:** Concentration, up to 1 hour
 
 You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has Disadvantage on ability checks made with the chosen ability.
 

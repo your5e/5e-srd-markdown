@@ -2,10 +2,10 @@
 
 _Level 2 Divination (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (1 Copper Piece)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (1 Copper Piece)
+- **Duration:** Concentration, up to 1 minute
 
 You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns.
 

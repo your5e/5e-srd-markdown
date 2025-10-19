@@ -2,10 +2,10 @@
 
 _Large Monstrosity, Chaotic Evil_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 45 (6d10 + 12)
-**Speed** 10 ft., Swim 40 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 45 (6d10 + 12)
+- **Speed** 10 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Large Monstrosity, Chaotic Evil_
 | **Modifier**     |     +4 |     +2 |     +2 |     -1 |     +0 |     -1 |
 | **Saving Throw** |     +4 |     +2 |     +2 |     -1 |     +0 |     -1 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Abyssal, Primordial (Aquan)
-**CR** 2 (XP 450; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Abyssal, Primordial (Aquan)
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

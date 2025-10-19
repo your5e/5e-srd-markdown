@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 67 (9d8 + 27)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 67 (9d8 + 27)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +3 |     +1 |     +3 |     -1 |     +0 |     -1 |
 | **Saving Throw** |     +3 |     +1 |     +3 |     -1 |     +0 |     -1 |
 
-**Gear** Greataxe, Hide Armor
-**Senses** Passive Perception 10
-**Languages** Common
-**CR** 2 (XP 450; PB +2)
+- **Gear** Greataxe, Hide Armor
+- **Senses** Passive Perception 10
+- **Languages** Common
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

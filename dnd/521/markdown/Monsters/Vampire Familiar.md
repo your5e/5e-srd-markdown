@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral Evil_
 
-**AC** 15
-**Initiative** +5 (15)
-**HP** 65 (10d8 + 20)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 15
+- **Initiative** +5 (15)
+- **HP** 65 (10d8 + 20)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,13 +13,13 @@ _Medium or Small Humanoid, Neutral Evil_
 | **Modifier**     |     +3 |     +3 |     +2 |     +0 |     +0 |     +2 |
 | **Saving Throw** |     +3 |     +5 |     +2 |     +0 |     +2 |     +2 |
 
-**Skills** Perception +4, Persuasion +4, Stealth +7
-**Resistances** Necrotic
-**Immunities** Charmed (except from its vampire master)
-**Gear** Daggers (10)
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Common plus one other language
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +4, Persuasion +4, Stealth +7
+- **Resistances** Necrotic
+- **Immunities** Charmed (except from its vampire master)
+- **Gear** Daggers (10)
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Common plus one other language
+- **CR** 3 (XP 700; PB +2)
 
 ## Traits
 

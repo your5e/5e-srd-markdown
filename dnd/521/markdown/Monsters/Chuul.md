@@ -2,10 +2,10 @@
 
 _Large Aberration, Chaotic Evil_
 
-**AC** 16
-**Initiative** +0 (10)
-**HP** 76 (9d10 + 27)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 16
+- **Initiative** +0 (10)
+- **HP** 76 (9d10 + 27)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Aberration, Chaotic Evil_
 | **Modifier**     |     +4 |     +0 |     +3 |     -3 |     +0 |     -3 |
 | **Saving Throw** |     +4 |     +0 |     +3 |     -3 |     +0 |     -3 |
 
-**Skills** Perception +4
-**Immunities** Poison; Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Understands Deep Speech but can't speak
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Perception +4
+- **Immunities** Poison; Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Understands Deep Speech but can't speak
+- **CR** 4 (XP 1,100; PB +2)
 
 ## Traits
 

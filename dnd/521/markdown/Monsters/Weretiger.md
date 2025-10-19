@@ -2,10 +2,10 @@
 
 _Medium or Small Monstrosity (Lycanthrope), Neutral_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 120 (16d8 + 48)
-**Speed** 30 ft., 40 ft. (tiger form only)
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 120 (16d8 + 48)
+- **Speed** 30 ft., 40 ft. (tiger form only)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Monstrosity (Lycanthrope), Neutral_
 | **Modifier**     |     +3 |     +2 |     +3 |     +0 |     +1 |     +0 |
 | **Saving Throw** |     +3 |     +2 |     +3 |     +0 |     +1 |     +0 |
 
-**Skills** Perception +5, Stealth +4
-**Gear** Longbow
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** Common (can't speak in tiger form)
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Perception +5, Stealth +4
+- **Gear** Longbow
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** Common (can't speak in tiger form)
+- **CR** 4 (XP 1,100; PB +2)
 
 ## Actions
 

@@ -2,10 +2,10 @@
 
 _Huge Giant, Neutral_
 
-**AC** 14
-**Initiative** +4 (14)
-**HP** 200 (16d12 + 96)
-**Speed** 40 ft., Fly 20 ft. (hover)
+- **AC** 14
+- **Initiative** +4 (14)
+- **HP** 200 (16d12 + 96)
+- **Speed** 40 ft., Fly 20 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Huge Giant, Neutral_
 | **Modifier**     |     +8 |     +0 |     +6 |     +1 |     +3 |     +3 |
 | **Saving Throw** |     +8 |     +0 |    +10 |     +1 |     +7 |     +3 |
 
-**Skills** Insight +7, Perception +11
-**Senses** Passive Perception 21
-**Languages** Common, Giant
-**CR** 9 (XP 5,000; PB +4)
+- **Skills** Insight +7, Perception +11
+- **Senses** Passive Perception 21
+- **Languages** Common, Giant
+- **CR** 9 (XP 5,000; PB +4)
 
 ## Actions
 

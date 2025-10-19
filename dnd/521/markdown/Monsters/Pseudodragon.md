@@ -2,10 +2,10 @@
 
 _Tiny Dragon, Neutral Good_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 10 (3d4 + 3)
-**Speed** 15 ft., Fly 60 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 10 (3d4 + 3)
+- **Speed** 15 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Tiny Dragon, Neutral Good_
 | **Modifier**     |     -2 |     +2 |     +1 |     +0 |     +1 |     +0 |
 | **Saving Throw** |     -2 |     +2 |     +1 |     +0 |     +1 |     +0 |
 
-**Skills** Perception +5, Stealth +4
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 15
-**Languages** Understands Common and Draconic but can't speak
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +5, Stealth +4
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 15
+- **Languages** Understands Common and Draconic but can't speak
+- **CR** 1/4 (XP 50; PB +2)
 
 ## Traits
 

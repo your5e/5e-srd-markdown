@@ -2,10 +2,10 @@
 
 _Level 3 Necromancy (Cleric, Wizard)_
 
-**Casting Time:** 1 minute
-**Range:** 10 feet
-**Components:** V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
-**Duration:** Instantaneous
+- **Casting Time:** 1 minute
+- **Range:** 10 feet
+- **Components:** V, S, M (a drop of blood, a piece of flesh, and a pinch of bone dust)
+- **Duration:** Instantaneous
 
 Choose a pile of bones or a corpse of a Medium or Small Humanoid within range. The target becomes an Undead creature: a **Skeleton** if you chose bones or a **Zombie** if you chose a corpse (see "Monsters" for the stat blocks).
 

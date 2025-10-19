@@ -32,32 +32,32 @@ Each background offers a choice between a package of equipment and 50 GP.
 
 #### Acolyte
 
-**Ability Scores:** Intelligence, Wisdom, Charisma
-**Feat:** Magic Initiate (Cleric) (see "Feats")
-**Skill Proficiencies:** Insight and Religion
-**Tool Proficiency:** Calligrapher's Supplies
-**Equipment:** _Choose A or B:_ (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP
+- **Ability Scores:** Intelligence, Wisdom, Charisma
+- **Feat:** Magic Initiate (Cleric) (see "Feats")
+- **Skill Proficiencies:** Insight and Religion
+- **Tool Proficiency:** Calligrapher's Supplies
+- **Equipment:** _Choose A or B:_ (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP
 
 #### Criminal
 
-**Ability Scores:** Dexterity, Constitution, Intelligence
-**Feat:** Alert (see "Feats")
-**Skill Proficiencies:** Sleight of Hand and Stealth
-**Tool Proficiency:** Thieves' Tools
-**Equipment:** _Choose A or B:_ (A) 2 Daggers, Thieves' Tools, Crowbar, 2 Pouches, Traveler's Clothes, 16 GP; or (B) 50 GP
+- **Ability Scores:** Dexterity, Constitution, Intelligence
+- **Feat:** Alert (see "Feats")
+- **Skill Proficiencies:** Sleight of Hand and Stealth
+- **Tool Proficiency:** Thieves' Tools
+- **Equipment:** _Choose A or B:_ (A) 2 Daggers, Thieves' Tools, Crowbar, 2 Pouches, Traveler's Clothes, 16 GP; or (B) 50 GP
 
 #### Sage
 
-**Ability Scores:** Constitution, Intelligence, Wisdom
-**Feat:** Magic Initiate (Wizard) (see "Feats")
-**Skill Proficiencies:** Arcana and History
-**Tool Proficiency:** Calligrapher's Supplies
-**Equipment:** _Choose A or B:_ (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
+- **Ability Scores:** Constitution, Intelligence, Wisdom
+- **Feat:** Magic Initiate (Wizard) (see "Feats")
+- **Skill Proficiencies:** Arcana and History
+- **Tool Proficiency:** Calligrapher's Supplies
+- **Equipment:** _Choose A or B:_ (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
 
 #### Soldier
 
-**Ability Scores:** Strength, Dexterity, Constitution
-**Feat:** Savage Attacker (see "Feats")
-**Skill Proficiencies:** Athletics and Intimidation
-**Tool Proficiency:** _Choose one kind of Gaming Set_ (see "Equipment")
-**Equipment:** _Choose A or B:_ (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; or (B) 50 GP
+- **Ability Scores:** Strength, Dexterity, Constitution
+- **Feat:** Savage Attacker (see "Feats")
+- **Skill Proficiencies:** Athletics and Intimidation
+- **Tool Proficiency:** _Choose one kind of Gaming Set_ (see "Equipment")
+- **Equipment:** _Choose A or B:_ (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; or (B) 50 GP

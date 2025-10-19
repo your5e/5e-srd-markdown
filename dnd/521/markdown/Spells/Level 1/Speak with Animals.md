@@ -2,10 +2,10 @@
 
 _Level 1 Divination (Bard, Druid, Ranger, Warlock)_
 
-**Casting Time:** Action or Ritual
-**Range:** Self
-**Components:** V, S
-**Duration:** 10 minutes
+- **Casting Time:** Action or Ritual
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 10 minutes
 
 For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them.
 

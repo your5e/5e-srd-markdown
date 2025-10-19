@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 16
-**Initiative** +2 (12)
-**HP** 82 (11d8 + 33)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +2 (12)
+- **HP** 82 (11d8 + 33)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +3 |     +2 |     +3 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +5 |     +2 |     +5 |     +0 |     +0 |     +2 |
 
-**Gear** Chain Mail, Heavy Crossbow, Warhammer
-**Senses** Passive Perception 10
-**Languages** Common plus one other language
-**CR** 4 (XP 1,100; PB +2)
+- **Gear** Chain Mail, Heavy Crossbow, Warhammer
+- **Senses** Passive Perception 10
+- **Languages** Common plus one other language
+- **CR** 4 (XP 1,100; PB +2)
 
 ## Traits
 

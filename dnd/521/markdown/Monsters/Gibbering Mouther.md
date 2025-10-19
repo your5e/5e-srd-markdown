@@ -2,10 +2,10 @@
 
 _Medium Aberration, Chaotic Neutral_
 
-**AC** 9
-**Initiative** -1 (9)
-**HP** 52 (7d8 + 21)
-**Speed** 20 ft., Swim 20 ft.
+- **AC** 9
+- **Initiative** -1 (9)
+- **HP** 52 (7d8 + 21)
+- **Speed** 20 ft., Swim 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Aberration, Chaotic Neutral_
 | **Modifier**     |     +0 |     -1 |     +3 |     -4 |     +0 |     -2 |
 | **Saving Throw** |     +0 |     -1 |     +3 |     -4 |     +0 |     -2 |
 
-**Immunities** Prone
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Immunities** Prone
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Large Monstrosity, Neutral Evil_
 
-**AC** 10
-**Initiative** +0 (10)
-**HP** 25 (3d10 + 9)
-**Speed** 10 ft., Fly 60 ft.
+- **AC** 10
+- **Initiative** +0 (10)
+- **HP** 25 (3d10 + 9)
+- **Speed** 10 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Monstrosity, Neutral Evil_
 | **Modifier**     |     +2 |     +0 |     +3 |     -2 |     +1 |     -2 |
 | **Saving Throw** |     +2 |     +0 |     +3 |     -2 |     +1 |     -2 |
 
-**Skills** Perception +3
-**Resistances** Necrotic
-**Senses** Darkvision 60 ft.; Passive Perception 13
-**Languages** Understands Common but can't speak
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +3
+- **Resistances** Necrotic
+- **Senses** Darkvision 60 ft.; Passive Perception 13
+- **Languages** Understands Common but can't speak
+- **CR** 1 (XP 200; PB +2)
 
 ## Traits
 

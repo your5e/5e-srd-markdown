@@ -1,8 +1,8 @@
 # Goliath
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 7-8 feet tall)
-**Speed:** 35 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 7-8 feet tall)
+- **Speed:** 35 feet
 
 As a Goliath, you have these special traits.
 

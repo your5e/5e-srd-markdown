@@ -2,10 +2,10 @@
 
 _Tiny Celestial, Lawful Good_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 24 (7d4 + 7)
-**Speed** 20 ft., Fly 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 24 (7d4 + 7)
+- **Speed** 20 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Tiny Celestial, Lawful Good_
 | **Modifier**     |     -2 |     +3 |     +1 |     +2 |     +1 |     +0 |
 | **Saving Throw** |     -2 |     +3 |     +1 |     +2 |     +1 |     +0 |
 
-**Skills** Arcana +4, Religion +4, Stealth +5
-**Resistances** Necrotic, Psychic, Radiant
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Celestial, Common
-**CR** 1 (XP 200; PB +2)
+- **Skills** Arcana +4, Religion +4, Stealth +5
+- **Resistances** Necrotic, Psychic, Radiant
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Celestial, Common
+- **CR** 1 (XP 200; PB +2)
 
 ## Traits
 

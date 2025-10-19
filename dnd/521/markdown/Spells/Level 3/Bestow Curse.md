@@ -2,10 +2,10 @@
 
 _Level 3 Necromancy (Bard, Cleric, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 You touch a creature, which must succeed on a Wisdom saving throw or become cursed for the duration. Until the curse ends, the target suffers one of the following effects of your choice:
 

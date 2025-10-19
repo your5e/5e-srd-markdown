@@ -2,10 +2,10 @@
 
 _Level 4 Abjuration (Cleric, Paladin)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S
-**Duration:** 8 hours
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 8 hours
 
 You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 Hit Points before the spell ends, the target instead drops to 1 Hit Point, and the spell ends.
 

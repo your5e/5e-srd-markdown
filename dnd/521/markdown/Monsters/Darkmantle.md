@@ -2,10 +2,10 @@
 
 _Small Aberration, Unaligned_
 
-**AC** 11
-**Initiative** +3 (13)
-**HP** 22 (5d6 + 5)
-**Speed** 10 ft., Fly 30 ft.
+- **AC** 11
+- **Initiative** +3 (13)
+- **HP** 22 (5d6 + 5)
+- **Speed** 10 ft., Fly 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Small Aberration, Unaligned_
 | **Modifier**     |     +3 |     +1 |     +1 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +3 |     +1 |     +1 |     -4 |     +0 |     -3 |
 
-**Skills** Stealth +3
-**Senses** Blindsight 60 ft.; Passive Perception 10
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Stealth +3
+- **Senses** Blindsight 60 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

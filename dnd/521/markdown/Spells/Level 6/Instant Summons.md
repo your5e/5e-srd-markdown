@@ -2,10 +2,10 @@
 
 _Level 6 Conjuration (Wizard)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Touch
-**Components:** V, S, M (a sapphire worth 1,000+ GP)
-**Duration:** Until dispelled
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Touch
+- **Components:** V, S, M (a sapphire worth 1,000+ GP)
+- **Duration:** Until dispelled
 
 You touch the sapphire used in the casting and an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an Invisible mark on that object and invisibly inscribes the object's name on the sapphire. Each time you cast this spell, you must use a different sapphire.
 

@@ -2,10 +2,10 @@
 
 _Huge Dragon (Chromatic), Chaotic Evil_
 
-**AC** 19
-**Initiative** +12 (22)
-**HP** 195 (17d12 + 85)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 19
+- **Initiative** +12 (22)
+- **HP** 195 (17d12 + 85)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Huge Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +6 |     +2 |     +5 |     +2 |     +1 |     +4 |
 | **Saving Throw** |     +6 |     +7 |     +5 |     +2 |     +6 |     +4 |
 
-**Skills** Perception +11, Stealth +7
-**Immunities** Acid
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
-**Languages** Common, Draconic
-**CR** 14 (XP 11,500, or 13,000 in lair; PB +5)
+- **Skills** Perception +11, Stealth +7
+- **Immunities** Acid
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 21
+- **Languages** Common, Draconic
+- **CR** 14 (XP 11,500, or 13,000 in lair; PB +5)
 
 ## Traits
 

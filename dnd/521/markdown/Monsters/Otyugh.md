@@ -2,10 +2,10 @@
 
 _Large Aberration, Neutral_
 
-**AC** 14
-**Initiative** +0 (10)
-**HP** 104 (11d10 + 44)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +0 (10)
+- **HP** 104 (11d10 + 44)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Large Aberration, Neutral_
 | **Modifier**     |     +3 |     +0 |     +4 |     -2 |     +1 |     -2 |
 | **Saving Throw** |     +3 |     +0 |     +7 |     -2 |     +1 |     -2 |
 
-**Senses** Darkvision 120 ft.; Passive Perception 11
-**Languages** Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
-**CR** 5 (XP 1,800; PB +3)
+- **Senses** Darkvision 120 ft.; Passive Perception 11
+- **Languages** Otyugh; telepathy 120 ft. (doesn't allow the receiving creature to respond telepathically)
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 

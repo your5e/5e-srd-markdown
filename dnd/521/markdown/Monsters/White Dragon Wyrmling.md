@@ -2,10 +2,10 @@
 
 _Medium Dragon (Chromatic), Chaotic Evil_
 
-**AC** 16
-**Initiative** +2 (12)
-**HP** 32 (5d8 + 10)
-**Speed** 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 16
+- **Initiative** +2 (12)
+- **HP** 32 (5d8 + 10)
+- **Speed** 30 ft., Burrow 15 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +2 |     +0 |     +2 |     -3 |     +0 |     +0 |
 | **Saving Throw** |     +2 |     +2 |     +2 |     -3 |     +2 |     +0 |
 
-**Skills** Perception +4, Stealth +2
-**Immunities** Cold
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 2 (450 XP; PB +2)
+- **Skills** Perception +4, Stealth +2
+- **Immunities** Cold
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 2 (450 XP; PB +2)
 
 ## Traits
 

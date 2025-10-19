@@ -2,10 +2,10 @@
 
 _Level 4 Abjuration (Cleric, Paladin, Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a pentacle)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a pentacle)
+- **Duration:** Concentration, up to 1 minute
 
 One creature that you can see within range must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the Incapacitated condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 

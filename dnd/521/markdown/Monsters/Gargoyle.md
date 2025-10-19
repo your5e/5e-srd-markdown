@@ -2,10 +2,10 @@
 
 _Medium Elemental, Chaotic Evil_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 67 (9d8 + 27)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 67 (9d8 + 27)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Elemental, Chaotic Evil_
 | **Modifier**     |     +2 |     +0 |     +3 |     -2 |     +0 |     -2 |
 | **Saving Throw** |     +2 |     +0 |     +3 |     -2 |     +0 |     -2 |
 
-**Skills** Stealth +4
-**Immunities** Poison; Exhaustion, Petrified, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Terran)
-**CR** 2 (XP 450; PB +2)
+- **Skills** Stealth +4
+- **Immunities** Poison; Exhaustion, Petrified, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Terran)
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

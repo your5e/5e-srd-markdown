@@ -2,10 +2,10 @@
 
 _Level 8 Enchantment (Bard, Druid, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (a key ring with no keys)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a key ring with no keys)
+- **Duration:** Instantaneous
 
 You blast the mind of a creature that you can see within range. The target makes an Intelligence saving throw.
 

@@ -2,10 +2,10 @@
 
 _Transmutation Cantrip (Bard, Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** S, M (a copper wire)
-**Duration:** 1 round
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** S, M (a copper wire)
+- **Duration:** 1 round
 
 You point toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
 

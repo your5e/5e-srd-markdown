@@ -2,10 +2,10 @@
 
 _Large Fey, Neutral Good_
 
-**AC** 16
-**Initiative** +2 (12)
-**HP** 45 (6d10 + 12)
-**Speed** 50 ft.
+- **AC** 16
+- **Initiative** +2 (12)
+- **HP** 45 (6d10 + 12)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Fey, Neutral Good_
 | **Modifier**     |     +4 |     +2 |     +2 |     -1 |     +1 |     +0 |
 | **Saving Throw** |     +4 |     +2 |     +2 |     -1 |     +1 |     +0 |
 
-**Skills** Athletics +6, Perception +3
-**Gear** Breastplate, Longbow, Pike
-**Senses** Passive Perception 13
-**Languages** Elvish, Sylvan
-**CR** 2 (XP 450; PB +2)
+- **Skills** Athletics +6, Perception +3
+- **Gear** Breastplate, Longbow, Pike
+- **Senses** Passive Perception 13
+- **Languages** Elvish, Sylvan
+- **CR** 2 (XP 450; PB +2)
 
 ## Actions
 

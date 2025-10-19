@@ -2,10 +2,10 @@
 
 _Medium or Small Monstrosity (Lycanthrope), Lawful Evil_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 60 (11d8 + 11)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 60 (11d8 + 11)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Monstrosity (Lycanthrope), Lawful Evil_
 | **Modifier**     |     +0 |     +3 |     +1 |     +0 |     +0 |     -1 |
 | **Saving Throw** |     +0 |     +3 |     +1 |     +0 |     +0 |     -1 |
 
-**Skills** Perception +4, Stealth +5
-**Gear** Hand Crossbow
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Common (can't speak in rat form)
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +4, Stealth +5
+- **Gear** Hand Crossbow
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Common (can't speak in rat form)
+- **CR** 2 (XP 450; PB +2)
 
 ## Actions
 

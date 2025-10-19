@@ -2,10 +2,10 @@
 
 _Level 3 Abjuration (Bard, Cleric)_
 
-**Casting Time:** Bonus Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Bonus Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 Up to six creatures of your choice that you can see within range regain Hit Points equal to 2d4 plus your spellcasting ability modifier.
 

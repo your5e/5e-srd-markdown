@@ -2,10 +2,10 @@
 
 _Tiny Fey, Neutral Good_
 
-**AC** 15
-**Initiative** +4 (14)
-**HP** 10 (4d4)
-**Speed** 10 ft., Fly 40 ft.
+- **AC** 15
+- **Initiative** +4 (14)
+- **HP** 10 (4d4)
+- **Speed** 10 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Tiny Fey, Neutral Good_
 | **Modifier**     |     -4 |     +4 |     +0 |     +2 |     +1 |     +0 |
 | **Saving Throw** |     -4 |     +4 |     +0 |     +2 |     +1 |     +0 |
 
-**Skills** Perception +3, Stealth +8
-**Senses** Passive Perception 13
-**Languages** Common, Elvish, Sylvan
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +3, Stealth +8
+- **Senses** Passive Perception 13
+- **Languages** Common, Elvish, Sylvan
+- **CR** 1/4 (XP 50; PB +2)
 
 ## Actions
 

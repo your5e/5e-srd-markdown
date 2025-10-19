@@ -2,10 +2,10 @@
 
 _Large Dragon (Chromatic), Chaotic Evil_
 
-**AC** 18
-**Initiative** +4 (14)
-**HP** 178 (17d10 + 85)
-**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+- **AC** 18
+- **Initiative** +4 (14)
+- **HP** 178 (17d10 + 85)
+- **Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |     +6 |     +0 |     +5 |     +2 |     +0 |     +4 |
 | **Saving Throw** |     +6 |     +4 |     +5 |     +2 |     +4 |     +4 |
 
-**Skills** Perception +8, Stealth +4
-**Immunities** Fire
-**Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18
-**Languages** Common, Draconic
-**CR** 10 (XP 5,900; PB +4)
+- **Skills** Perception +8, Stealth +4
+- **Immunities** Fire
+- **Senses** Blindsight 30 ft., Darkvision 120 ft.; Passive Perception 18
+- **Languages** Common, Draconic
+- **CR** 10 (XP 5,900; PB +4)
 
 ## Actions
 

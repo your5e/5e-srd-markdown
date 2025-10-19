@@ -2,10 +2,10 @@
 
 _Small Monstrosity, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 22 (5d6 + 5)
-**Speed** 20 ft., Fly 40 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 22 (5d6 + 5)
+- **Speed** 20 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Small Monstrosity, Unaligned_
 | **Modifier**     |     -2 |     +1 |     +1 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     -2 |     +1 |     +1 |     -4 |     +1 |     -3 |
 
-**Immunities** Petrified
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Immunities** Petrified
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

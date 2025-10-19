@@ -2,10 +2,10 @@
 
 _Level 4 Conjuration (Wizard)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S, M (a tentacle)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S, M (a tentacle)
+- **Duration:** Concentration, up to 1 minute
 
 Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into Difficult Terrain.
 

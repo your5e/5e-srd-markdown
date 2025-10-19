@@ -2,10 +2,10 @@
 
 _Medium Monstrosity, Neutral_
 
-**AC** 12
-**Initiative** +3 (13)
-**HP** 58 (9d8 + 18)
-**Speed** 20 ft.
+- **AC** 12
+- **Initiative** +3 (13)
+- **HP** 58 (9d8 + 18)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Monstrosity, Neutral_
 | **Modifier**     |     +3 |     +1 |     +2 |     -3 |     +1 |     -1 |
 | **Saving Throw** |     +3 |     +1 |     +2 |     -3 |     +1 |     -1 |
 
-**Skills** Stealth +5
-**Immunities** Acid; Prone
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Stealth +5
+- **Immunities** Acid; Prone
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

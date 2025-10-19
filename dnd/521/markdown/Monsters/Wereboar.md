@@ -2,10 +2,10 @@
 
 _Medium or Small Monstrosity (Lycanthrope), Neutral Evil_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 97 (15d8 + 30)
-**Speed** 30 ft., 40 ft. (boar form only)
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 97 (15d8 + 30)
+- **Speed** 30 ft., 40 ft. (boar form only)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Monstrosity (Lycanthrope), Neutral Evil_
 | **Modifier**     |     +3 |     +0 |     +2 |     +0 |     +0 |     -1 |
 | **Saving Throw** |     +3 |     +0 |     +2 |     +0 |     +0 |     -1 |
 
-**Skills** Perception +2
-**Gear** Javelins (6)
-**Senses** Passive Perception 12
-**Languages** Common (can't speak in boar form)
-**CR** 4 (XP 1,100; PB +2)
+- **Skills** Perception +2
+- **Gear** Javelins (6)
+- **Senses** Passive Perception 12
+- **Languages** Common (can't speak in boar form)
+- **CR** 4 (XP 1,100; PB +2)
 
 ## Actions
 

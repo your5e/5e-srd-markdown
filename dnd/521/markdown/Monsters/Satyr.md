@@ -2,10 +2,10 @@
 
 _Medium Fey, Chaotic Neutral_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 31 (7d8)
-**Speed** 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 31 (7d8)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Fey, Chaotic Neutral_
 | **Modifier**     |     +1 |     +3 |     +0 |     +1 |     +0 |     +2 |
 | **Saving Throw** |     +1 |     +3 |     +0 |     +1 |     +0 |     +2 |
 
-**Skills** Perception +2, Performance +6, Stealth +5
-**Senses** Passive Perception 12
-**Languages** Common, Elvish, Sylvan
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +2, Performance +6, Stealth +5
+- **Senses** Passive Perception 12
+- **Languages** Common, Elvish, Sylvan
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

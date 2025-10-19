@@ -2,10 +2,10 @@
 
 _Medium Dragon (Chromatic), Lawful Evil_
 
-**AC** 17
-**Initiative** +2 (12)
-**HP** 65 (10d8 + 20)
-**Speed** 30 ft., Burrow 15 ft., Fly 60 ft.
+- **AC** 17
+- **Initiative** +2 (12)
+- **HP** 65 (10d8 + 20)
+- **Speed** 30 ft., Burrow 15 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +3 |     +0 |     +2 |     +1 |     +0 |     +2 |
 | **Saving Throw** |     +3 |     +2 |     +2 |     +1 |     +2 |     +2 |
 
-**Skills** Perception +4, Stealth +2
-**Immunities** Lightning
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +4, Stealth +2
+- **Immunities** Lightning
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 3 (XP 700; PB +2)
 
 ## Actions
 

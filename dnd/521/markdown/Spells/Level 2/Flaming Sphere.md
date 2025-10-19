@@ -2,10 +2,10 @@
 
 _Level 2 Conjuration (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a ball of wax)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a ball of wax)
+- **Duration:** Concentration, up to 1 minute
 
 You create a 5-foot-diameter sphere of fire in an unoccupied space on the ground within range. It lasts for the duration. Any creature that ends its turn within 5 feet of the sphere makes a Dexterity saving throw, taking 2d6 Fire damage on a failed save or half as much damage on a successful one.
 

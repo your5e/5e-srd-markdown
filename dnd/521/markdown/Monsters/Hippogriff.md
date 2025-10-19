@@ -2,10 +2,10 @@
 
 _Large Monstrosity, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 26 (4d10 + 4)
-**Speed** 40 ft., Fly 60 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 26 (4d10 + 4)
+- **Speed** 40 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Monstrosity, Unaligned_
 | **Modifier**     |     +3 |     +1 |     +1 |     -4 |     +1 |     -1 |
 | **Saving Throw** |     +3 |     +1 |     +1 |     -4 |     +1 |     -1 |
 
-**Skills** Perception +5
-**Senses** Passive Perception 15
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +5
+- **Senses** Passive Perception 15
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 ## Traits
 

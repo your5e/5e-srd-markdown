@@ -1,8 +1,8 @@
 # Dragonborn
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 5-7 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 5-7 feet tall)
+- **Speed:** 30 feet
 
 As a Dragonborn, you have these special traits.
 

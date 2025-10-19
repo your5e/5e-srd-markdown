@@ -2,10 +2,10 @@
 
 _Large Elemental, Neutral_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 93 (11d10 + 33)
-**Speed** 50 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 93 (11d10 + 33)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Elemental, Neutral_
 | **Modifier**     |     +0 |     +3 |     +3 |     -2 |     +0 |     -2 |
 | **Saving Throw** |     +0 |     +3 |     +3 |     -2 |     +0 |     -2 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Fire, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Ignan)
-**CR** 5 (XP 1,800; PB +3)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Fire, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Ignan)
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

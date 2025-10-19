@@ -2,10 +2,10 @@
 
 _Tiny Monstrosity, Unaligned_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 5 (2d4)
-**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 5 (2d4)
+- **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Tiny Monstrosity, Unaligned_
 | **Modifier**     |     -3 |     +2 |     +0 |     -4 |     +1 |     -3 |
 | **Saving Throw** |     -3 |     +2 |     +0 |     -4 |     +1 |     -3 |
 
-**Senses** Blindsight 10 ft.; Passive Perception 11
-**Languages** None
-**CR** 1/8 (XP 25; PB +2)
+- **Senses** Blindsight 10 ft.; Passive Perception 11
+- **Languages** None
+- **CR** 1/8 (XP 25; PB +2)
 
 ## Traits
 

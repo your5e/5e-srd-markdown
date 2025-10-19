@@ -2,10 +2,10 @@
 
 _Medium or Small Monstrosity (Lycanthrope), Neutral Good_
 
-**AC** 15
-**Initiative** +3 (13)
-**HP** 135 (18d8 + 54)
-**Speed** 30 ft., 40 ft. (bear form only), Climb 30 ft. (bear form only)
+- **AC** 15
+- **Initiative** +3 (13)
+- **HP** 135 (18d8 + 54)
+- **Speed** 30 ft., 40 ft. (bear form only), Climb 30 ft. (bear form only)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Monstrosity (Lycanthrope), Neutral Good_
 | **Modifier**     |     +4 |     +0 |     +3 |     +0 |     +1 |     +1 |
 | **Saving Throw** |     +4 |     +0 |     +3 |     +0 |     +1 |     +1 |
 
-**Skills** Perception +7
-**Gear** Handaxes (4)
-**Senses** Darkvision 60 ft.; Passive Perception 17
-**Languages** Common (can't speak in bear form)
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +7
+- **Gear** Handaxes (4)
+- **Senses** Darkvision 60 ft.; Passive Perception 17
+- **Languages** Common (can't speak in bear form)
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 

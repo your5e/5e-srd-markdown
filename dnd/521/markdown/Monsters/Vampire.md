@@ -2,10 +2,10 @@
 
 _Medium or Small Undead, Lawful Evil_
 
-**AC** 16
-**Initiative** +14 (24)
-**HP** 195 (23d8 + 92)
-**Speed** 40 ft., Climb 40 ft.
+- **AC** 16
+- **Initiative** +14 (24)
+- **HP** 195 (23d8 + 92)
+- **Speed** 40 ft., Climb 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Undead, Lawful Evil_
 | **Modifier**     |     +4 |     +4 |     +4 |     +3 |     +2 |     +4 |
 | **Saving Throw** |     +4 |     +9 |     +9 |     +3 |     +7 |     +9 |
 
-**Skills** Perception +7, Stealth +9
-**Resistances** Necrotic
-**Senses** Darkvision 120 ft.; Passive Perception 17
-**Languages** Common plus two other languages
-**CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
+- **Skills** Perception +7, Stealth +9
+- **Resistances** Necrotic
+- **Senses** Darkvision 120 ft.; Passive Perception 17
+- **Languages** Common plus two other languages
+- **CR** 13 (XP 10,000, or 11,500 in lair; PB +5)
 
 ## Traits
 

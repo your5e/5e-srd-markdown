@@ -2,10 +2,10 @@
 
 _Large Fey, Neutral Evil_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 26 (4d10 + 4)
-**Speed** 50 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 26 (4d10 + 4)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Fey, Neutral Evil_
 | **Modifier**     |     +3 |     +1 |     +1 |     -2 |     +0 |     -1 |
 | **Saving Throw** |     +3 |     +1 |     +1 |     -2 |     +0 |     -1 |
 
-**Skills** Perception +4
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Goblin, Worg
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +4
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Goblin, Worg
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

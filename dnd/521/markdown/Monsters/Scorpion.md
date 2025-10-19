@@ -2,10 +2,10 @@
 
 _Tiny Beast, Unaligned_
 
-**AC** 11
-**Initiative** +0 (10)
-**HP** 1 (1d4 - 1)
-**Speed** 10 ft.
+- **AC** 11
+- **Initiative** +0 (10)
+- **HP** 1 (1d4 - 1)
+- **Speed** 10 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Tiny Beast, Unaligned_
 | **Modifier**     |     -4 |     +0 |     -1 |     -5 |     -1 |     -4 |
 | **Saving Throw** |     -4 |     +0 |     -1 |     -5 |     -1 |     -4 |
 
-**Senses** Blindsight 10 ft.; Passive Perception 9
-**Languages** None
-**CR** 0 (XP 10; PB +2)
+- **Senses** Blindsight 10 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 0 (XP 10; PB +2)
 
 ## Actions
 

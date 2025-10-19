@@ -2,10 +2,10 @@
 
 _Medium Fiend, Neutral Evil_
 
-**AC** 17
-**Initiative** +5 (15)
-**HP** 112 (15d8 + 45)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +5 (15)
+- **HP** 112 (15d8 + 45)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Medium Fiend, Neutral Evil_
 | **Modifier**     |     +4 |     +2 |     +3 |     +3 |     +2 |     +3 |
 | **Saving Throw** |     +4 |     +2 |     +3 |     +3 |     +2 |     +3 |
 
-**Skills** Deception +6, Insight +5, Perception +5, Stealth +5
-**Resistances** Cold, Fire
-**Immunities** Charmed
-**Senses** Darkvision 120 ft.; Passive Perception 15
-**Languages** Abyssal, Common, Infernal, Primordial
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Deception +6, Insight +5, Perception +5, Stealth +5
+- **Resistances** Cold, Fire
+- **Immunities** Charmed
+- **Senses** Darkvision 120 ft.; Passive Perception 15
+- **Languages** Abyssal, Common, Infernal, Primordial
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

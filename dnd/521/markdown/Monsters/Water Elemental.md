@@ -2,10 +2,10 @@
 
 _Large Elemental, Neutral_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 114 (12d10 + 48)
-**Speed** 30 ft., Swim 90 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 114 (12d10 + 48)
+- **Speed** 30 ft., Swim 90 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Elemental, Neutral_
 | **Modifier**     |     +4 |     +2 |     +4 |     -3 |     +0 |     -1 |
 | **Saving Throw** |     +4 |     +2 |     +4 |     -3 |     +0 |     -1 |
 
-**Resistances** Acid, Fire
-**Immunities** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Aquan)
-**CR** 5 (XP 1,800; PB +3)
+- **Resistances** Acid, Fire
+- **Immunities** Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Aquan)
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

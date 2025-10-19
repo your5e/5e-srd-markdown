@@ -2,10 +2,10 @@
 
 _Medium Swarm of Tiny Beasts, Unaligned_
 
-**AC** 14
-**Initiative** +4 (14)
-**HP** 36 (8d8)
-**Speed** 30 ft., Swim 30 ft.
+- **AC** 14
+- **Initiative** +4 (14)
+- **HP** 36 (8d8)
+- **Speed** 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Swarm of Tiny Beasts, Unaligned_
 | **Modifier**     |     -1 |     +4 |     +0 |     -5 |     +0 |     -4 |
 | **Saving Throw** |     -1 |     +4 |     +0 |     -5 |     +0 |     -4 |
 
-**Resistances** Bludgeoning, Piercing, Slashing
-**Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-**Senses** Blindsight 10 ft.; Passive Perception 10
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Resistances** Bludgeoning, Piercing, Slashing
+- **Immunities** Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
+- **Senses** Blindsight 10 ft.; Passive Perception 10
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

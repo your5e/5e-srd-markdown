@@ -2,10 +2,10 @@
 
 _Huge Monstrosity, Neutral Evil_
 
-**AC** 17
-**Initiative** +3 (13)
-**HP** 168 (16d12 + 64)
-**Speed** 50 ft., Climb 50 ft.
+- **AC** 17
+- **Initiative** +3 (13)
+- **HP** 168 (16d12 + 64)
+- **Speed** 50 ft., Climb 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Huge Monstrosity, Neutral Evil_
 | **Modifier**     |     +6 |     +3 |     +4 |     -2 |     +2 |     +1 |
 | **Saving Throw** |     +6 |     +3 |     +4 |     -2 |     +2 |     +1 |
 
-**Skills** Perception +6, Stealth +7
-**Immunities** Lightning
-**Senses** Darkvision 90 ft.; Passive Perception 16
-**Languages** Draconic
-**CR** 11 (XP 7,200; PB +4)
+- **Skills** Perception +6, Stealth +7
+- **Immunities** Lightning
+- **Senses** Darkvision 90 ft.; Passive Perception 16
+- **Languages** Draconic
+- **CR** 11 (XP 7,200; PB +4)
 
 ## Actions
 

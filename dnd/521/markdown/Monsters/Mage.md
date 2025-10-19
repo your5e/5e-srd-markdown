@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid (Wizard), Neutral_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 81 (18d8)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 81 (18d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Humanoid (Wizard), Neutral_
 | **Modifier**     |     -1 |     +2 |     +0 |     +3 |     +1 |     +0 |
 | **Saving Throw** |     -1 |     +2 |     +0 |     +6 |     +4 |     +0 |
 
-**Skills** Arcana +6, History +6, Perception +4
-**Gear** Wand
-**Senses** Passive Perception 14
-**Languages** Common plus three other languages
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Arcana +6, History +6, Perception +4
+- **Gear** Wand
+- **Senses** Passive Perception 14
+- **Languages** Common plus three other languages
+- **CR** 6 (XP 2,300; PB +3)
 
 ## Actions
 

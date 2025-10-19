@@ -2,10 +2,10 @@
 
 _Large Celestial (Angel), Lawful Good_
 
-**AC** 19
-**Initiative** +10 (20)
-**HP** 262 (21d10 + 147)
-**Speed** 40 ft., Fly 120 ft. (hover)
+- **AC** 19
+- **Initiative** +10 (20)
+- **HP** 262 (21d10 + 147)
+- **Speed** 40 ft., Fly 120 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Large Celestial (Angel), Lawful Good_
 | **Modifier**     |     +7 |     +5 |     +7 |     +4 |     +6 |     +7 |
 | **Saving Throw** |    +12 |     +5 |    +12 |     +4 |    +11 |    +12 |
 
-**Skills** Perception +11
-**Resistances** Radiant
-**Immunities** Charmed, Exhaustion, Frightened
-**Senses** Truesight 120 ft.; Passive Perception 21
-**Languages** All; telepathy 120 ft.
-**CR** 16 (XP 15,000; PB +5)
+- **Skills** Perception +11
+- **Resistances** Radiant
+- **Immunities** Charmed, Exhaustion, Frightened
+- **Senses** Truesight 120 ft.; Passive Perception 21
+- **Languages** All; telepathy 120 ft.
+- **CR** 16 (XP 15,000; PB +5)
 
 ## Traits
 

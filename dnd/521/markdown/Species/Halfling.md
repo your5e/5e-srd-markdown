@@ -1,8 +1,8 @@
 # Halfling
 
-**Creature Type:** Humanoid
-**Size:** Small (about 2-3 feet tall)
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Small (about 2-3 feet tall)
+- **Speed:** 30 feet
 
 As a Halfling, you have these special traits.
 

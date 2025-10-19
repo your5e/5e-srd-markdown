@@ -2,10 +2,10 @@
 
 _Large Celestial, Neutral Good_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 26 (4d10 + 4)
-**Speed** 10 ft., Fly 80 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 26 (4d10 + 4)
+- **Speed** 10 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Celestial, Neutral Good_
 | **Modifier**     |     +3 |     +3 |     +1 |     -1 |     +2 |     +0 |
 | **Saving Throw** |     +3 |     +3 |     +1 |     -1 |     +2 |     +0 |
 
-**Skills** Perception +6
-**Resistances** Necrotic, Radiant
-**Senses** Passive Perception 16
-**Languages** Celestial; understands Common and Primordial (Auran) but can't speak them
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +6
+- **Resistances** Necrotic, Radiant
+- **Senses** Passive Perception 16
+- **Languages** Celestial; understands Common and Primordial (Auran) but can't speak them
+- **CR** 1 (XP 200; PB +2)
 
 ## Actions
 

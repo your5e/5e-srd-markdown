@@ -2,10 +2,10 @@
 
 _Level 1 Illusion (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 hour
 
 You make yourself — including your clothing, armor, weapons, and other belongings on your person look different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the illusion is up to you.
 

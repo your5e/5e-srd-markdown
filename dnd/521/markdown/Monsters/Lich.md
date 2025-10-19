@@ -2,10 +2,10 @@
 
 _Medium Undead (Wizard), Neutral Evil_
 
-**AC** 20
-**Initiative** +17 (27)
-**HP** 315 (42d8 + 126)
-**Speed** 30 ft.
+- **AC** 20
+- **Initiative** +17 (27)
+- **HP** 315 (42d8 + 126)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,13 +13,13 @@ _Medium Undead (Wizard), Neutral Evil_
 | **Modifier**     |     +0 |     +3 |     +3 |     +5 |     +2 |     +3 |
 | **Saving Throw** |     +0 |    +10 |    +10 |    +12 |     +9 |     +3 |
 
-**Skills** Arcana +19, History +12, Insight +9, Perception +9
-**Resistances** Cold, Lightning
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-**Gear** Component Pouch
-**Senses** Truesight 120 ft.; Passive Perception 19
-**Languages** All
-**CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
+- **Skills** Arcana +19, History +12, Insight +9, Perception +9
+- **Resistances** Cold, Lightning
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Gear** Component Pouch
+- **Senses** Truesight 120 ft.; Passive Perception 19
+- **Languages** All
+- **CR** 21 (XP 33,000, or 41,000 in lair; PB +7)
 
 ## Traits
 

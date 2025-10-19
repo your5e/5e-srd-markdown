@@ -2,10 +2,10 @@
 
 _Level 8 Transmutation (Cleric, Druid, Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** Self
-**Components:** V, S, M (burning incense)
-**Duration:** Concentration, up to 8 hours
+- **Casting Time:** 10 minutes
+- **Range:** Self
+- **Components:** V, S, M (burning incense)
+- **Duration:** Concentration, up to 8 hours
 
 You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell, and it ends early if you go indoors.
 

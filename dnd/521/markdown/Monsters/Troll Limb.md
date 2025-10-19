@@ -2,10 +2,10 @@
 
 _Small Giant, Chaotic Evil_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 14 (4d6)
-**Speed** 20 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 14 (4d6)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Small Giant, Chaotic Evil_
 | **Modifier**     |     +4 |     +1 |     +0 |     -5 |     -1 |     -5 |
 | **Saving Throw** |     +4 |     +1 |     +0 |     -5 |     -1 |     -5 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

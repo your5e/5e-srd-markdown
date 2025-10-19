@@ -2,10 +2,10 @@
 
 _Medium or Small Undead, Lawful Evil_
 
-**AC** 11
-**Initiative** -1 (9)
-**HP** 58 (9d8 + 18)
-**Speed** 20 ft.
+- **AC** 11
+- **Initiative** -1 (9)
+- **HP** 58 (9d8 + 18)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Undead, Lawful Evil_
 | **Modifier**     |     +3 |     -1 |     +2 |     -2 |     +1 |     +1 |
 | **Saving Throw** |     +3 |     -1 |     +2 |     -2 |     +3 |     +1 |
 
-**Vulnerabilities** Fire
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common plus two other languages
-**CR** 3 (XP 700; PB +2)
+- **Vulnerabilities** Fire
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common plus two other languages
+- **CR** 3 (XP 700; PB +2)
 
 ## Actions
 

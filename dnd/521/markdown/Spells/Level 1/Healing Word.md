@@ -2,10 +2,10 @@
 
 _Level 1 Abjuration (Bard, Cleric, Druid)_
 
-**Casting Time:** Bonus Action
-**Range:** 60 feet
-**Components:** V
-**Duration:** Instantaneous
+- **Casting Time:** Bonus Action
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
 
 A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
 

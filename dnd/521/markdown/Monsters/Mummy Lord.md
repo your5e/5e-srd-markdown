@@ -2,10 +2,10 @@
 
 _Medium or Small Undead (Cleric), Lawful Evil_
 
-**AC** 17
-**Initiative** +10 (20)
-**HP** 187 (25d8 + 75)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +10 (20)
+- **HP** 187 (25d8 + 75)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Medium or Small Undead (Cleric), Lawful Evil_
 | **Modifier**     |     +4 |     +0 |     +3 |     +0 |     +4 |     +3 |
 | **Saving Throw** |     +4 |     +0 |     +3 |     +5 |     +9 |     +3 |
 
-**Skills** History +5, Perception +9, Religion +5
-**Vulnerabilities** Fire
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-**Senses** Truesight 60 ft.; Passive Perception 19
-**Languages** Common plus three other languages
-**CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
+- **Skills** History +5, Perception +9, Religion +5
+- **Vulnerabilities** Fire
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Senses** Truesight 60 ft.; Passive Perception 19
+- **Languages** Common plus three other languages
+- **CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
 
 ## Traits
 

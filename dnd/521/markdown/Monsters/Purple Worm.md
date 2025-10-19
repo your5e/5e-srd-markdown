@@ -2,10 +2,10 @@
 
 _Gargantuan Monstrosity, Unaligned_
 
-**AC** 18
-**Initiative** +3 (13)
-**HP** 247 (15d20 + 90)
-**Speed** 50 ft., Burrow 50 ft.
+- **AC** 18
+- **Initiative** +3 (13)
+- **HP** 247 (15d20 + 90)
+- **Speed** 50 ft., Burrow 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Gargantuan Monstrosity, Unaligned_
 | **Modifier**     |     +9 |     -2 |     +6 |     -5 |     -1 |     -3 |
 | **Saving Throw** |     +9 |     -2 |    +11 |     -5 |     +4 |     -3 |
 
-**Senses** Blindsight 30 ft., Tremorsense 60 ft.; Passive Perception 9
-**Languages** None
-**CR** 15 (XP 13,000; PB +5)
+- **Senses** Blindsight 30 ft., Tremorsense 60 ft.; Passive Perception 9
+- **Languages** None
+- **CR** 15 (XP 13,000; PB +5)
 
 ## Traits
 

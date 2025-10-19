@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid (Wizard), Neutral_
 
-**AC** 17
-**Initiative** +7 (17)
-**HP** 170 (31d8 + 31)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +7 (17)
+- **HP** 170 (31d8 + 31)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Medium or Small Humanoid (Wizard), Neutral_
 | **Modifier**     |     +0 |     +2 |     +1 |     +5 |     +2 |     +3 |
 | **Saving Throw** |     +0 |     +2 |     +1 |     +9 |     +6 |     +3 |
 
-**Skills** Arcana +13, History +9, Perception +6
-**Immunities** Psychic; Charmed (with _Mind Blank_)
-**Gear** Wand
-**Senses** Passive Perception 16
-**Languages** Common plus five other languages
-**CR** 12 (XP 8,000; PB +4)
+- **Skills** Arcana +13, History +9, Perception +6
+- **Immunities** Psychic; Charmed (with _Mind Blank_)
+- **Gear** Wand
+- **Senses** Passive Perception 16
+- **Languages** Common plus five other languages
+- **CR** 12 (XP 8,000; PB +4)
 
 ## Traits
 

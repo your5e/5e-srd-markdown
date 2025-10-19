@@ -2,10 +2,10 @@
 
 _Medium Fey (Goblinoid), Chaotic Evil_
 
-**AC** 15
-**Initiative** +2 (12)
-**HP** 65 (10d8 + 20)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +2 (12)
+- **HP** 65 (10d8 + 20)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Fey (Goblinoid), Chaotic Evil_
 | **Modifier**     |     +3 |     +2 |     +2 |     +0 |     +1 |     +0 |
 | **Saving Throw** |     +3 |     +2 |     +4 |     +0 |     +3 |     +0 |
 
-**Skills** Stealth +6, Survival +3
-**Gear** Chain Shirt, Javelins (6), Morningstar
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common, Goblin
-**CR** 3 (XP 700; PB +2)
+- **Skills** Stealth +6, Survival +3
+- **Gear** Chain Shirt, Javelins (6), Morningstar
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common, Goblin
+- **CR** 3 (XP 700; PB +2)
 
 ## Traits
 

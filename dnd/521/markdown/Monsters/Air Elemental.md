@@ -2,10 +2,10 @@
 
 _Large Elemental, Neutral_
 
-**AC** 15
-**Initiative** +5 (15)
-**HP** 90 (12d10 + 24)
-**Speed** 10 ft., Fly 90 ft. (hover)
+- **AC** 15
+- **Initiative** +5 (15)
+- **HP** 90 (12d10 + 24)
+- **Speed** 10 ft., Fly 90 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Elemental, Neutral_
 | **Modifier**     |     +2 |     +5 |     +2 |     -2 |     +0 |     -2 |
 | **Saving Throw** |     +2 |     +5 |     +2 |     -2 |     +0 |     -2 |
 
-**Resistances** Bludgeoning, Lightning, Piercing, Slashing
-**Immunities** Poison, Thunder; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Auran)
-**CR** 5 (XP 1,800; PB +3)
+- **Resistances** Bludgeoning, Lightning, Piercing, Slashing
+- **Immunities** Poison, Thunder; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Auran)
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Traits
 

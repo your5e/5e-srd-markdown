@@ -83,10 +83,10 @@ _**Void.**_ Your soul is drawn from your body and contained in an object in a pl
 
 _Medium Undead, Neutral evil_
 
-**AC** 20
-**Initiative** +3 (13)
-**HP** Half the HP maximum of its summoner
-**Speed** 60 ft., Fly 60 ft. (hover)
+- **AC** 20
+- **Initiative** +3 (13)
+- **HP** Half the HP maximum of its summoner
+- **Speed** 60 ft., Fly 60 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -94,10 +94,10 @@ _Medium Undead, Neutral evil_
 | **Modifier**     |     +3 |     +3 |     +3 |     +3 |     +3 |     +3 |
 | **Saving Throw** |     +3 |     +3 |     +3 |     +3 |     +3 |     +3 |
 
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned, Unconscious
-**Senses** Truesight 60 ft., Passive Perception 13
-**Languages** All languages known to its summoner
-**CR** None (XP 0; PB equals its summoner's)
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned, Unconscious
+- **Senses** Truesight 60 ft., Passive Perception 13
+- **Languages** All languages known to its summoner
+- **CR** None (XP 0; PB equals its summoner's)
 
 ### Traits
 

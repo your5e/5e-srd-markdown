@@ -2,10 +2,10 @@
 
 _Huge Monstrosity, Unaligned_
 
-**AC** 15
-**Initiative** +4 (14)
-**HP** 184 (16d12 + 80)
-**Speed** 40 ft., Swim 40 ft.
+- **AC** 15
+- **Initiative** +4 (14)
+- **HP** 184 (16d12 + 80)
+- **Speed** 40 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Huge Monstrosity, Unaligned_
 | **Modifier**     |     +5 |     +1 |     +5 |     -4 |     +0 |     -2 |
 | **Saving Throw** |     +5 |     +1 |     +5 |     -4 |     +0 |     -2 |
 
-**Skills** Perception +6
-**Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 16
-**Languages** None
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Perception +6
+- **Immunities** Blinded, Charmed, Deafened, Frightened, Stunned, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 16
+- **Languages** None
+- **CR** 8 (XP 3,900; PB +3)
 
 ## Traits
 

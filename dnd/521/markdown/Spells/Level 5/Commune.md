@@ -2,10 +2,10 @@
 
 _Level 5 Divination (Cleric)_
 
-**Casting Time:** 1 minute or Ritual
-**Range:** Self
-**Components:** V, S, M (incense)
-**Duration:** 1 minute
+- **Casting Time:** 1 minute or Ritual
+- **Range:** Self
+- **Components:** V, S, M (incense)
+- **Duration:** 1 minute
 
 You contact a deity or a divine proxy and ask up to three questions that can be answered with yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.
 

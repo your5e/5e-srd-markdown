@@ -2,10 +2,10 @@
 
 _Level 3 Necromancy (Bard, Cleric, Wizard)_
 
-**Casting Time:** Action
-**Range:** 10 feet
-**Components:** V, S, M (burning incense)
-**Duration:** 10 minutes
+- **Casting Time:** Action
+- **Range:** 10 feet
+- **Components:** V, S, M (burning incense)
+- **Duration:** 10 minutes
 
 You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days.
 

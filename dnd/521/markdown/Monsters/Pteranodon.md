@@ -2,10 +2,10 @@
 
 _Medium Beast (Dinosaur), Unaligned_
 
-**AC** 13
-**Initiative** +2 (12)
-**HP** 13 (3d8)
-**Speed** 10 ft., Fly 60 ft.
+- **AC** 13
+- **Initiative** +2 (12)
+- **HP** 13 (3d8)
+- **Speed** 10 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Beast (Dinosaur), Unaligned_
 | **Modifier**     |     +1 |     +2 |     +0 |     -4 |     -1 |     -3 |
 | **Saving Throw** |     +1 |     +2 |     +0 |     -4 |     -1 |     -3 |
 
-**Skills** Perception +1
-**Senses** Passive Perception 11
-**Languages** None
-**CR** 1/4 (XP 50; PB +2)
+- **Skills** Perception +1
+- **Senses** Passive Perception 11
+- **Languages** None
+- **CR** 1/4 (XP 50; PB +2)
 
 ## Traits
 

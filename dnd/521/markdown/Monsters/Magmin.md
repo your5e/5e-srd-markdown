@@ -2,10 +2,10 @@
 
 _Small Elemental, Chaotic Neutral_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 13 (3d6 + 3)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 13 (3d6 + 3)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Small Elemental, Chaotic Neutral_
 | **Modifier**     |     -2 |     +2 |     +1 |     -1 |     +0 |     +0 |
 | **Saving Throw** |     -2 |     +2 |     +1 |     -1 |     +0 |     +0 |
 
-**Immunities** Fire
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Primordial (Ignan)
-**CR** 1/2 (XP 100; PB +2)
+- **Immunities** Fire
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Primordial (Ignan)
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Large Beast, Unaligned_
 
-**AC** 14
-**Initiative** +3 (13)
-**HP** 26 (4d10 + 4)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 14
+- **Initiative** +3 (13)
+- **HP** 26 (4d10 + 4)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +2 |     +3 |     +1 |     -4 |     +0 |     -3 |
 | **Saving Throw** |     +2 |     +3 |     +1 |     -4 |     +0 |     -3 |
 
-**Skills** Perception +4, Stealth +7
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +4, Stealth +7
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 ## Traits
 

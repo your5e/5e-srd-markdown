@@ -2,10 +2,10 @@
 
 _Level 5 Evocation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S, M (a cube of granite)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S, M (a cube of granite)
+- **Duration:** Concentration, up to 10 minutes
 
 A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. Alternatively, you can create 10-footby-20-foot panels that are only 3 inches thick.
 

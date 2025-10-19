@@ -2,10 +2,10 @@
 
 _Tiny Fiend (Devil), Lawful Evil_
 
-**AC** 13
-**Initiative** +3 (13)
-**HP** 21 (6d4 + 6)
-**Speed** 20 ft., Fly 40 ft.
+- **AC** 13
+- **Initiative** +3 (13)
+- **HP** 21 (6d4 + 6)
+- **Speed** 20 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Tiny Fiend (Devil), Lawful Evil_
 | **Modifier**     |     -2 |     +3 |     +1 |     +0 |     +1 |     +2 |
 | **Saving Throw** |     -2 |     +3 |     +1 |     +0 |     +1 |     +2 |
 
-**Skills** Deception +4, Insight +3, Stealth +5
-**Resistances** Cold
-**Immunities** Fire, Poison; Poisoned
-**Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 11
-**Languages** Common, Infernal
-**CR** 1 (XP 200; PB +2)
+- **Skills** Deception +4, Insight +3, Stealth +5
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Darkvision 120 ft. (unimpeded by magical Darkness); Passive Perception 11
+- **Languages** Common, Infernal
+- **CR** 1 (XP 200; PB +2)
 
 ## Traits
 

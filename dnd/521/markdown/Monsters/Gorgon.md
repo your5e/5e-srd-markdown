@@ -2,10 +2,10 @@
 
 _Large Construct, Unaligned_
 
-**AC** 19
-**Initiative** +0 (10)
-**HP** 114 (12d10 + 48)
-**Speed** 40 ft.
+- **AC** 19
+- **Initiative** +0 (10)
+- **HP** 114 (12d10 + 48)
+- **Speed** 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Construct, Unaligned_
 | **Modifier**     |     +5 |     +0 |     +4 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +5 |     +0 |     +4 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +7
-**Immunities** Exhaustion, Petrified
-**Senses** Darkvision 60 ft.; Passive Perception 17
-**Languages** None
-**CR** 5 (XP 1,800; PB +3)
+- **Skills** Perception +7
+- **Immunities** Exhaustion, Petrified
+- **Senses** Darkvision 60 ft.; Passive Perception 17
+- **Languages** None
+- **CR** 5 (XP 1,800; PB +3)
 
 ## Actions
 

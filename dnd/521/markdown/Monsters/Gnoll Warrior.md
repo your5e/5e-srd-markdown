@@ -2,10 +2,10 @@
 
 _Medium Fiend, Chaotic Evil_
 
-**AC** 15
-**Initiative** +1 (11)
-**HP** 27 (6d8)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +1 (11)
+- **HP** 27 (6d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,9 +13,9 @@ _Medium Fiend, Chaotic Evil_
 | **Modifier**     |     +2 |     +1 |     +0 |     -2 |     +0 |     -2 |
 | **Saving Throw** |     +2 |     +1 |     +0 |     -2 |     +0 |     -2 |
 
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Gnoll
-**CR** 1/2 (XP 100; PB +2)
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Gnoll
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

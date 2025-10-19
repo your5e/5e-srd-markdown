@@ -2,10 +2,10 @@
 
 _Huge Giant, Chaotic Good_
 
-**AC** 16
-**Initiative** +7 (17)
-**HP** 230 (20d12 + 100)
-**Speed** 50 ft., Fly 25 ft. (hover), Swim 50 ft.
+- **AC** 16
+- **Initiative** +7 (17)
+- **HP** 230 (20d12 + 100)
+- **Speed** 50 ft., Fly 25 ft. (hover), Swim 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Huge Giant, Chaotic Good_
 | **Modifier**     |     +9 |     +2 |     +5 |     +3 |     +5 |     +4 |
 | **Saving Throw** |    +14 |     +2 |    +10 |     +3 |    +10 |     +9 |
 
-**Skills** Arcana +8, Athletics +14, History +8, Perception +10
-**Resistances** Cold
-**Immunities** Lightning, Thunder
-**Senses** Darkvision 120 ft., Truesight 30 ft.; Passive Perception 20
-**Languages** Common, Giant
-**CR** 13 (XP 10,000; PB +5)
+- **Skills** Arcana +8, Athletics +14, History +8, Perception +10
+- **Resistances** Cold
+- **Immunities** Lightning, Thunder
+- **Senses** Darkvision 120 ft., Truesight 30 ft.; Passive Perception 20
+- **Languages** Common, Giant
+- **CR** 13 (XP 10,000; PB +5)
 
 ## Traits
 

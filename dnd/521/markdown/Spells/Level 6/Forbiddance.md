@@ -2,10 +2,10 @@
 
 _Level 6 Abjuration (Cleric)_
 
-**Casting Time:** 10 minutes or Ritual
-**Range:** Touch
-**Components:** V, S, M (ruby dust worth 1,000+ GP)
-**Duration:** 1 day
+- **Casting Time:** 10 minutes or Ritual
+- **Range:** Touch
+- **Components:** V, S, M (ruby dust worth 1,000+ GP)
+- **Duration:** 1 day
 
 You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can't teleport into the area or use portals, such as those created by the _Gate_ spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, the Ethereal Plane, the Feywild, the Shadowfell, or the _Plane Shift_ spell.
 

@@ -2,10 +2,10 @@
 
 _Huge Dragon (Chromatic), Lawful Evil_
 
-**AC** 19
-**Initiative** +11 (21)
-**HP** 207 (18d12 + 90)
-**Speed** 40 ft., Fly 80 ft., Swim 40 ft.
+- **AC** 19
+- **Initiative** +11 (21)
+- **HP** 207 (18d12 + 90)
+- **Speed** 40 ft., Fly 80 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Huge Dragon (Chromatic), Lawful Evil_
 | **Modifier**     |     +6 |     +1 |     +5 |     +4 |     +2 |     +4 |
 | **Saving Throw** |     +6 |     +6 |     +5 |     +4 |     +7 |     +4 |
 
-**Skills** Deception +9, Perception +12, Persuasion +9, Stealth +6
-**Immunities** Poison; Poisoned
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
-**Languages** Common, Draconic
-**CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
+- **Skills** Deception +9, Perception +12, Persuasion +9, Stealth +6
+- **Immunities** Poison; Poisoned
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 22
+- **Languages** Common, Draconic
+- **CR** 15 (XP 13,000, or 15,000 in lair; PB +5)
 
 ## Traits
 

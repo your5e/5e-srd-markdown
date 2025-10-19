@@ -2,10 +2,10 @@
 
 _Medium Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 19 (3d8 + 6)
-**Speed** 30 ft., Climb 30 ft., Swim 30 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 19 (3d8 + 6)
+- **Speed** 30 ft., Climb 30 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Beast, Unaligned_
 | **Modifier**     |     +2 |     +1 |     +2 |     -4 |     +1 |     -2 |
 | **Saving Throw** |     +2 |     +1 |     +2 |     -4 |     +1 |     -2 |
 
-**Skills** Perception +5
-**Senses** Darkvision 60 ft.; Passive Perception 15
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +5
+- **Senses** Darkvision 60 ft.; Passive Perception 15
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Actions
 

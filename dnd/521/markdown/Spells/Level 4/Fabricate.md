@@ -2,10 +2,10 @@
 
 _Level 4 Transmutation (Wizard)_
 
-**Casting Time:** 10 minutes
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** 10 minutes
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, or clothes from flax or wool.
 

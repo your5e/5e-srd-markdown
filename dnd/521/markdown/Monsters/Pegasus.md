@@ -2,10 +2,10 @@
 
 _Large Celestial, Chaotic Good_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 59 (7d10 + 21)
-**Speed** 60 ft., Fly 90 ft.
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 59 (7d10 + 21)
+- **Speed** 60 ft., Fly 90 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Celestial, Chaotic Good_
 | **Modifier**     |     +4 |     +2 |     +3 |     +0 |     +2 |     +1 |
 | **Saving Throw** |     +4 |     +4 |     +5 |     +0 |     +4 |     +3 |
 
-**Skills** Perception +6
-**Senses** Passive Perception 16
-**Languages** Understands Celestial, Common, Elvish, and Sylvan but can't speak
-**CR** 2 (XP 450; PB +2)
+- **Skills** Perception +6
+- **Senses** Passive Perception 16
+- **Languages** Understands Celestial, Common, Elvish, and Sylvan but can't speak
+- **CR** 2 (XP 450; PB +2)
 
 ## Actions
 

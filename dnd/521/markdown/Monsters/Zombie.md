@@ -2,10 +2,10 @@
 
 _Medium Undead, Neutral Evil_
 
-**AC** 8
-**Initiative** -2 (8)
-**HP** 15 (2d8 + 6)
-**Speed** 20 ft.
+- **AC** 8
+- **Initiative** -2 (8)
+- **HP** 15 (2d8 + 6)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Undead, Neutral Evil_
 | **Modifier**     |     +1 |     -2 |     +3 |     -4 |     -2 |     -3 |
 | **Saving Throw** |     +1 |     -2 |     +3 |     -4 |     +0 |     -3 |
 
-**Immunities** Poison; Exhaustion, Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 8
-**Languages** Understands Common plus one other language but can't speak
-**CR** 1/4 (XP 50; PB +2)
+- **Immunities** Poison; Exhaustion, Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 8
+- **Languages** Understands Common plus one other language but can't speak
+- **CR** 1/4 (XP 50; PB +2)
 
 ## Traits
 

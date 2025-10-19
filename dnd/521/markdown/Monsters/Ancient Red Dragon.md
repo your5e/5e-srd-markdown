@@ -2,10 +2,10 @@
 
 _Gargantuan Dragon (Chromatic), Chaotic Evil_
 
-**AC** 22
-**Initiative** +14 (24)
-**HP** 507 (26d20 + 234)
-**Speed** 40 ft., Climb 40 ft., Fly 80 ft.
+- **AC** 22
+- **Initiative** +14 (24)
+- **HP** 507 (26d20 + 234)
+- **Speed** 40 ft., Climb 40 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Gargantuan Dragon (Chromatic), Chaotic Evil_
 | **Modifier**     |    +10 |     +0 |     +9 |     +4 |     +2 |     +8 |
 | **Saving Throw** |    +10 |     +7 |     +9 |     +4 |     +9 |     +8 |
 
-**Skills** Perception +16, Stealth +7
-**Immunities** Fire
-**Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
-**Languages** Common, Draconic
-**CR** 24 (XP 62,000, or 75,000 in lair; PB +7)
+- **Skills** Perception +16, Stealth +7
+- **Immunities** Fire
+- **Senses** Blindsight 60 ft., Darkvision 120 ft.; Passive Perception 26
+- **Languages** Common, Draconic
+- **CR** 24 (XP 62,000, or 75,000 in lair; PB +7)
 
 ## Traits
 

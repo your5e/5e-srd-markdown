@@ -36,10 +36,10 @@ _**Silver Raven (Uncommon).**_ This silver statuette of a raven can become a **R
 
 _Large Beast, Unaligned_
 
-**AC** 11
-**Initiative** +1 (11)
-**HP** 19 (3d10 + 3)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 11
+- **Initiative** +1 (11)
+- **HP** 19 (3d10 + 3)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -47,6 +47,6 @@ _Large Beast, Unaligned_
 | **Modifier**     |     +2 |     +1 |     +1 |     -4 |     +0 |     -4 |
 | **Saving Throw** |     +2 |     +1 |     +1 |     -4 |     +0 |     -4 |
 
-**Senses** Darkvision 60 ft., Passive Perception 10
-**Languages** None
-**CR** 0 (XP 0; PB +2)
+- **Senses** Darkvision 60 ft., Passive Perception 10
+- **Languages** None
+- **CR** 0 (XP 0; PB +2)

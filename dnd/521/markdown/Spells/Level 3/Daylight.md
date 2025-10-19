@@ -2,10 +2,10 @@
 
 _Level 3 Evocation (Cleric, Druid, Paladin, Ranger, Sorcerer)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S
-**Duration:** 1 hour
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 1 hour
 
 For the duration, sunlight spreads from a point within range and fills a 60-foot-radius Sphere. The sunlight's area is Bright Light and sheds Dim Light for an additional 60 feet.
 

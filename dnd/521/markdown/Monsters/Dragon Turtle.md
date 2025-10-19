@@ -2,10 +2,10 @@
 
 _Gargantuan Dragon, Neutral_
 
-**AC** 20
-**Initiative** +6 (16)
-**HP** 356 (23d20 + 115)
-**Speed** 20 ft., Swim 50 ft.
+- **AC** 20
+- **Initiative** +6 (16)
+- **HP** 356 (23d20 + 115)
+- **Speed** 20 ft., Swim 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Gargantuan Dragon, Neutral_
 | **Modifier**     |     +7 |     +0 |     +5 |     +0 |     +1 |     +1 |
 | **Saving Throw** |     +7 |     +0 |    +11 |     +0 |     +7 |     +1 |
 
-**Resistances** Fire
-**Senses** Darkvision 120 ft.; Passive Perception 11
-**Languages** Draconic, Primordial (Aquan)
-**CR** 17 (XP 18,000; PB +6)
+- **Resistances** Fire
+- **Senses** Darkvision 120 ft.; Passive Perception 11
+- **Languages** Draconic, Primordial (Aquan)
+- **CR** 17 (XP 18,000; PB +6)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Level 1 Conjuration (Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** 90 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 90 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 Grasping plants sprout from the ground in a 20-foot square within range. For the duration, these plants turn the ground in the area into Difficult Terrain. They disappear when the spell ends.
 

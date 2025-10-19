@@ -2,10 +2,10 @@
 
 _Level 4 Evocation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 300 feet
-**Components:** V, S, M (a mitten)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 300 feet
+- **Components:** V, S, M (a mitten)
+- **Duration:** Instantaneous
 
 Hail falls in a 20-foot-radius, 40-foot-high Cylinder centered on a point within range. Each creature in the Cylinder makes a Dexterity saving throw. A creature takes 2d10 Bludgeoning damage and 4d6 Cold damage on a failed save or half as much damage on a successful one.
 

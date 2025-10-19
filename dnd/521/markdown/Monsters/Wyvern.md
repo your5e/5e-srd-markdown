@@ -2,10 +2,10 @@
 
 _Large Dragon, Unaligned_
 
-**AC** 14
-**Initiative** +0 (10)
-**HP** 127 (15d10 + 45)
-**Speed** 30 ft., Fly 80 ft.
+- **AC** 14
+- **Initiative** +0 (10)
+- **HP** 127 (15d10 + 45)
+- **Speed** 30 ft., Fly 80 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Dragon, Unaligned_
 | **Modifier**     |     +4 |     +0 |     +3 |     -3 |     +1 |     -2 |
 | **Saving Throw** |     +4 |     +0 |     +3 |     -3 |     +1 |     -2 |
 
-**Skills** Perception +4
-**Senses** Darkvision 120 ft.; Passive Perception 14
-**Languages** None
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Perception +4
+- **Senses** Darkvision 120 ft.; Passive Perception 14
+- **Languages** None
+- **CR** 6 (XP 2,300; PB +3)
 
 ## Actions
 

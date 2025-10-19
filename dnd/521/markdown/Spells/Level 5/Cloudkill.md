@@ -2,10 +2,10 @@
 
 _Level 5 Conjuration (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
 
 You create a 20-foot-radius Sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by _Gust of Wind_) disperses it, ending the spell. Its area is Heavily Obscured.
 

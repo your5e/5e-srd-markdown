@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid (Druid), Neutral_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 44 (8d8 + 8)
-**Speed** 30 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 44 (8d8 + 8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Humanoid (Druid), Neutral_
 | **Modifier**     |     +0 |     +1 |     +1 |     +1 |     +3 |     +0 |
 | **Saving Throw** |     +0 |     +1 |     +1 |     +1 |     +3 |     +0 |
 
-**Skills** Medicine +5, Nature +3, Perception +5
-**Gear** Studded Leather Armor
-**Senses** Passive Perception 15
-**Languages** Common, Druidic, Sylvan
-**CR** 2 (XP 450; PB +2)
+- **Skills** Medicine +5, Nature +3, Perception +5
+- **Gear** Studded Leather Armor
+- **Senses** Passive Perception 15
+- **Languages** Common, Druidic, Sylvan
+- **CR** 2 (XP 450; PB +2)
 
 ## Actions
 

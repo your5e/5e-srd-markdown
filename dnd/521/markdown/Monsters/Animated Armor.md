@@ -2,10 +2,10 @@
 
 _Medium Construct, Unaligned_
 
-**AC** 18
-**Initiative** +2 (12)
-**HP** 33 (6d8 + 6)
-**Speed** 25 ft.
+- **AC** 18
+- **Initiative** +2 (12)
+- **HP** 33 (6d8 + 6)
+- **Speed** 25 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Construct, Unaligned_
 | **Modifier**     |     +2 |     +0 |     +1 |     -5 |     -4 |     -5 |
 | **Saving Throw** |     +2 |     +0 |     +1 |     -5 |     -4 |     -5 |
 
-**Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
-**Senses** Blindsight 60 ft.; Passive Perception 6
-**Languages** None
-**CR** 1 (XP 200; PB +2)
+- **Immunities** Poison, Psychic; Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
+- **Senses** Blindsight 60 ft.; Passive Perception 6
+- **Languages** None
+- **CR** 1 (XP 200; PB +2)
 
 ## Actions
 

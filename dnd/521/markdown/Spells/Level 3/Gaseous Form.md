@@ -2,10 +2,10 @@
 
 _Level 3 Transmutation (Sorcerer, Warlock, Wizard)_
 
-**Casting Time:** Action
-**Range:** Touch
-**Components:** V, S, M (a bit of gauze)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Touch
+- **Components:** V, S, M (a bit of gauze)
+- **Duration:** Concentration, up to 1 hour
 
 A willing creature you touch shape-shifts, along with everything it's wearing and carrying, into a misty cloud for the duration. The spell ends on the target if it drops to 0 Hit Points or if it takes a Magic action to end the spell on itself.
 

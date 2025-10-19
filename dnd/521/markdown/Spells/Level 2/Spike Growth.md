@@ -2,10 +2,10 @@
 
 _Level 2 Transmutation (Druid, Ranger)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (seven thorns)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (seven thorns)
+- **Duration:** Concentration, up to 10 minutes
 
 The ground in a 20-foot-radius Sphere centered on a point within range sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature moves into or within the area, it takes 2d4 Piercing damage for every 5 feet it travels.
 

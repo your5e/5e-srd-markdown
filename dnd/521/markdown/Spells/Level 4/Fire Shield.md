@@ -2,10 +2,10 @@
 
 _Level 4 Evocation (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a bit of phosphorus or a firefly)
-**Duration:** 10 minutes
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a bit of phosphorus or a firefly)
+- **Duration:** 10 minutes
 
 Wispy flames wreathe your body for the duration, shedding Bright Light in a 10-foot radius and Dim Light for an additional 10 feet.
 

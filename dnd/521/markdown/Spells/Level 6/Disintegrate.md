@@ -2,10 +2,10 @@
 
 _Level 6 Transmutation (Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 60 feet
-**Components:** V, S, M (a lodestone and dust)
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a lodestone and dust)
+- **Duration:** Instantaneous
 
 You launch a green ray at a target you can see within range. The target can be a creature, a nonmagical object, or a creation of magical force, such as the wall created by _Wall of Force_.
 

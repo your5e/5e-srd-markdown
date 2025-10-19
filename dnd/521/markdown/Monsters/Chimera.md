@@ -2,10 +2,10 @@
 
 _Large Monstrosity, Chaotic Evil_
 
-**AC** 14
-**Initiative** +0 (10)
-**HP** 114 (12d10 + 48)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 14
+- **Initiative** +0 (10)
+- **HP** 114 (12d10 + 48)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Monstrosity, Chaotic Evil_
 | **Modifier**     |     +4 |     +0 |     +4 |     -4 |     +2 |     +0 |
 | **Saving Throw** |     +4 |     +0 |     +4 |     -4 |     +2 |     +0 |
 
-**Skills** Perception +8
-**Senses** Darkvision 60 ft.; Passive Perception 18
-**Languages** Understands Draconic but can't speak
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Perception +8
+- **Senses** Darkvision 60 ft.; Passive Perception 18
+- **Languages** Understands Draconic but can't speak
+- **CR** 6 (XP 2,300; PB +3)
 
 ## Actions
 

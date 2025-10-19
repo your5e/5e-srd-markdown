@@ -2,10 +2,10 @@
 
 _Small Fiend (Demon), Chaotic Evil_
 
-**AC** 11
-**Initiative** +0 (10)
-**HP** 18 (4d6 + 4)
-**Speed** 20 ft.
+- **AC** 11
+- **Initiative** +0 (10)
+- **HP** 18 (4d6 + 4)
+- **Speed** 20 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Small Fiend (Demon), Chaotic Evil_
 | **Modifier**     |     +1 |     +0 |     +1 |     -3 |     -1 |     -4 |
 | **Saving Throw** |     +1 |     +0 |     +1 |     -3 |     -1 |     -4 |
 
-**Resistances** Cold, Fire, Lightning
-**Immunities** Poison; Poisoned
-**Senses** Darkvision 60 ft.; Passive Perception 9
-**Languages** Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)
-**CR** 1/4 (XP 50; PB +2)
+- **Resistances** Cold, Fire, Lightning
+- **Immunities** Poison; Poisoned
+- **Senses** Darkvision 60 ft.; Passive Perception 9
+- **Languages** Abyssal; telepathy 60 ft. (works only with creatures that understand Abyssal)
+- **CR** 1/4 (XP 50; PB +2)
 
 ## Actions
 

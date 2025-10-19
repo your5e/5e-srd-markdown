@@ -1,8 +1,8 @@
 # Human
 
-**Creature Type:** Humanoid
-**Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall), chosen when you select this species
-**Speed:** 30 feet
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 4-7 feet tall) or Small (about 2-4 feet tall), chosen when you select this species
+- **Speed:** 30 feet
 
 As a Human, you have these special traits.
 

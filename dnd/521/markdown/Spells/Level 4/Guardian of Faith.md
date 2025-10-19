@@ -2,10 +2,10 @@
 
 _Level 4 Conjuration (Cleric)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V
-**Duration:** 8 hours
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V
+- **Duration:** 8 hours
 
 A Large spectral guardian appears and hovers for the duration in an unoccupied space that you can see within range. The guardian occupies that space and is invulnerable, and it appears in a form appropriate for your deity or pantheon.
 

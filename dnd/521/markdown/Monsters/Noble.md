@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 15
-**Initiative** +1 (11)
-**HP** 9 (2d8)
-**Speed** 30 ft.
+- **AC** 15
+- **Initiative** +1 (11)
+- **HP** 9 (2d8)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +1 |     +0 |     +1 |     +2 |     +3 |
 | **Saving Throw** |     +0 |     +1 |     +0 |     +1 |     +2 |     +3 |
 
-**Skills** Deception +5, Insight +4, Persuasion +5
-**Gear** Breastplate, Rapier
-**Senses** Passive Perception 12
-**Languages** Common plus two other languages
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Deception +5, Insight +4, Persuasion +5
+- **Gear** Breastplate, Rapier
+- **Senses** Passive Perception 12
+- **Languages** Common plus two other languages
+- **CR** 1/8 (XP 25; PB +2)
 
 ## Actions
 

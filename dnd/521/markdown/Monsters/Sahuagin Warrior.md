@@ -2,10 +2,10 @@
 
 _Medium Fiend, Lawful Evil_
 
-**AC** 12
-**Initiative** +0 (10)
-**HP** 22 (4d8 + 4)
-**Speed** 30 ft., Swim 40 ft.
+- **AC** 12
+- **Initiative** +0 (10)
+- **HP** 22 (4d8 + 4)
+- **Speed** 30 ft., Swim 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Fiend, Lawful Evil_
 | **Modifier**     |     +1 |     +0 |     +1 |     +1 |     +1 |     -1 |
 | **Saving Throw** |     +1 |     +0 |     +1 |     +1 |     +1 |     -1 |
 
-**Skills** Perception +5
-**Resistances** Acid, Cold
-**Senses** Darkvision 120 ft.; Passive Perception 15
-**Languages** Sahuagin
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Perception +5
+- **Resistances** Acid, Cold
+- **Senses** Darkvision 120 ft.; Passive Perception 15
+- **Languages** Sahuagin
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

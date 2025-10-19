@@ -2,10 +2,10 @@
 
 _Large Fiend, Lawful Evil_
 
-**AC** 17
-**Initiative** +0 (10)
-**HP** 119 (14d10 + 42)
-**Speed** 30 ft., Fly 30 ft. (hover)
+- **AC** 17
+- **Initiative** +0 (10)
+- **HP** 119 (14d10 + 42)
+- **Speed** 30 ft., Fly 30 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Fiend, Lawful Evil_
 | **Modifier**     |     +4 |     +0 |     +3 |     +2 |     +1 |     +2 |
 | **Saving Throw** |     +4 |     +3 |     +6 |     +2 |     +4 |     +5 |
 
-**Skills** Arcana +5, Deception +8, Perception +4
-**Resistances** Cold
-**Senses** Darkvision 60 ft.; Passive Perception 14
-**Languages** Common, Giant
-**CR** 7 (XP 2,900; PB +3)
+- **Skills** Arcana +5, Deception +8, Perception +4
+- **Resistances** Cold
+- **Senses** Darkvision 60 ft.; Passive Perception 14
+- **Languages** Common, Giant
+- **CR** 7 (XP 2,900; PB +3)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Level 2 Abjuration (Bard, Cleric, Druid, Paladin, Ranger)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S, M (a strip of white cloth)
-**Duration:** 8 hours
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S, M (a strip of white cloth)
+- **Duration:** 8 hours
 
 Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
 

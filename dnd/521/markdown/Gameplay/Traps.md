@@ -22,8 +22,8 @@ Traps are presented in alphabetical order.
 
 _Deadly Trap (Levels 1-4)_
 
-**Trigger:** A creature crosses a trip wire
-**Duration:** Instantaneous
+- **Trigger:** A creature crosses a trip wire
+- **Duration:** Instantaneous
 
 This trap uses a trip wire to collapse an unstable section of ceiling. The trip wire is 3 inches off the ground and stretches between two weak supports that topple when the trip wire is pulled.
 
@@ -43,8 +43,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing t
 
 _Nuisance Trap (Levels 1-4)_
 
-**Trigger:** A creature crosses a trip wire
-**Duration:** Instantaneous
+- **Trigger:** A creature crosses a trip wire
+- **Duration:** Instantaneous
 
 A falling net trap uses a trip wire to release a weighted, 10-foot-square Net suspended from the ceiling. The trip wire is 3 inches off the ground and stretches between two columns or trees.
 
@@ -62,8 +62,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing t
 
 _Deadly Trap (Levels 1-4)_
 
-**Trigger:** A creature moves onto a pressure plate
-**Duration:** Instantaneous, and the trap resets at the start of the next turn
+- **Trigger:** A creature moves onto a pressure plate
+- **Duration:** Instantaneous, and the trap resets at the start of the next turn
 
 When a creature moves onto this trap's pressure plate for the first time on a turn or starts its turn there, a nearby statue exhales a 15-foot Cone of magical flame. The statue can look like anything, such as a dragon or a wizard. Each creature in the Cone must succeed on a DC 15 Dexterity saving throw, taking 11 (2d10) Fire damage on a failed save or half as much damage on a successful one.
 
@@ -83,8 +83,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing t
 
 _Nuisance Trap (Levels 1-4)_
 
-**Trigger:** A creature moves onto the pit's lid
-**Duration:** Instantaneous
+- **Trigger:** A creature moves onto the pit's lid
+- **Duration:** Instantaneous
 
 This 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit. The lid remains open thereafter.
 
@@ -106,8 +106,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing t
 
 _Deadly Trap (Levels 1-4)_
 
-**Trigger:** A creature moves onto a pressure plate
-**Duration:** Instantaneous, and the trap resets at the start of the next turn if it has activated fewer than three times
+- **Trigger:** A creature moves onto a pressure plate
+- **Duration:** Instantaneous, and the trap resets at the start of the next turn if it has activated fewer than three times
 
 When a creature moves onto this trap's pressure plate for the first time on a turn, poisoned darts shoot from tubes embedded in the surrounding walls. The holes that house these tubes are obscured by dust and cobwebs or skillfully hidden amid bas-reliefs, murals, or frescoes.
 
@@ -123,8 +123,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing e
 
 _Nuisance Trap (Levels 1-4)_
 
-**Trigger:** A creature opens the trap's lock improperly or fails to disarm the trap
-**Duration:** Instantaneous
+- **Trigger:** A creature opens the trap's lock improperly or fails to disarm the trap
+- **Duration:** Instantaneous
 
 A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes 5 (1d10) Poison damage and has the Poisoned condition for 1 hour. On a successful save, the creature takes half as much damage only.
 
@@ -144,8 +144,8 @@ _**At Higher Levels.**_ You can scale the trap for higher levels by increasing t
 
 _Deadly Trap (Levels 11-16) or Nuisance Trap (Levels 17-20)_
 
-**Trigger:** A creature moves onto a pressure plate
-**Duration:** Until the stone stops rolling
+- **Trigger:** A creature moves onto a pressure plate
+- **Duration:** Until the stone stops rolling
 
 When a creature moves onto a hidden pressure plate, a 5-foot-radius orb of solid stone is released from a secret compartment and begins to roll. The stone and all creatures nearby roll Initiative; the stone gets a +8 bonus on its Initiative roll.
 
@@ -163,8 +163,8 @@ _**Slow the Stone.**_ As an action, a creature can try to slow down the stone wi
 
 _Deadly Trap (Levels 1-4)_
 
-**Trigger:** A creature moves onto the pit's lid
-**Duration:** Instantaneous
+- **Trigger:** A creature moves onto the pit's lid
+- **Duration:** Instantaneous
 
 A 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit, which has sharpened wooden or metal spikes at the bottom. The lid remains open thereafter.
 

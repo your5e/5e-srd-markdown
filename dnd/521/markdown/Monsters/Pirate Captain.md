@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 17
-**Initiative** +7 (17)
-**HP** 84 (13d8 + 26)
-**Speed** 30 ft.
+- **AC** 17
+- **Initiative** +7 (17)
+- **HP** 84 (13d8 + 26)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +0 |     +4 |     +2 |     +0 |     +2 |     +3 |
 | **Saving Throw** |     +3 |     +7 |     +2 |     +0 |     +5 |     +6 |
 
-**Skills** Acrobatics +7, Perception +5
-**Gear** Pistol, Rapier
-**Senses** Passive Perception 15
-**Languages** Common plus one other language
-**CR** 6 (XP 2,300; PB +3)
+- **Skills** Acrobatics +7, Perception +5
+- **Gear** Pistol, Rapier
+- **Senses** Passive Perception 15
+- **Languages** Common plus one other language
+- **CR** 6 (XP 2,300; PB +3)
 
 ## Actions
 

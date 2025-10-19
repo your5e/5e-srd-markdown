@@ -2,10 +2,10 @@
 
 _Level 2 Evocation (Druid, Ranger, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a legume seed)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a legume seed)
+- **Duration:** Concentration, up to 1 minute
 
 A Line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the duration. Each creature in the Line must succeed on a Strength saving throw or be pushed 15 feet away from you in a direction following the Line. A creature that ends its turn in the Line must make the same save.
 

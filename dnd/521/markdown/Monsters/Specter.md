@@ -2,10 +2,10 @@
 
 _Medium Undead, Chaotic Evil_
 
-**AC** 12
-**Initiative** +2 (12)
-**HP** 22 (5d8)
-**Speed** 30 ft., Fly 50 ft. (hover)
+- **AC** 12
+- **Initiative** +2 (12)
+- **HP** 22 (5d8)
+- **Speed** 30 ft., Fly 50 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Undead, Chaotic Evil_
 | **Modifier**     |     -5 |     +2 |     +0 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     -5 |     +2 |     +0 |     +0 |     +0 |     +0 |
 
-**Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
-**Immunities** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 60 ft.; Passive Perception 10
-**Languages** Understands Common plus one other language but can't speak
-**CR** 1 (XP 200; PB +2)
+- **Resistances** Acid, Bludgeoning, Cold, Fire, Lightning, Piercing, Slashing, Thunder
+- **Immunities** Necrotic, Poison; Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 60 ft.; Passive Perception 10
+- **Languages** Understands Common plus one other language but can't speak
+- **CR** 1 (XP 200; PB +2)
 
 ## Traits
 

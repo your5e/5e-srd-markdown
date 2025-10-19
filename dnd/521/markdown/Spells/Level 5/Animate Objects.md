@@ -2,10 +2,10 @@
 
 _Level 5 Transmutation (Bard, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 120 feet
-**Components:** V, S
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
 
 Objects animate at your command. Choose a number of nonmagical objects within range that aren't being worn or carried, aren't fixed to a surface, and aren't Gargantuan. The maximum number of objects is equal to your spellcasting ability modifier; for this number, a Medium or smaller target counts as one object, a Large target counts as two, and a Huge target counts as three.
 
@@ -19,9 +19,9 @@ _**Using a Higher-Level Spell Slot.**_ The creature's Slam damage increases by 1
 
 _Huge or Smaller Construct, Unaligned_
 
-**AC** 15
-**HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)
-**Speed** 30 ft.
+- **AC** 15
+- **HP** 10 (Medium or smaller), 20 (Large), 40 (Huge)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -29,10 +29,10 @@ _Huge or Smaller Construct, Unaligned_
 | **Modifier**     |     +3 |     +0 |     +0 |     -4 |     -4 |     -5 |
 | **Saving Throw** |     +3 |     +0 |     +0 |     -4 |     -4 |     -5 |
 
-**Immunities** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
-**Senses** Blindsight 30 ft.; Passive Perception 6
-**Languages** Understands the languages you know
-**CR** None (XP 0; PB equals your Proficiency Bonus)
+- **Immunities** Poison, Psychic; Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
+- **Senses** Blindsight 30 ft.; Passive Perception 6
+- **Languages** Understands the languages you know
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ### Actions
 

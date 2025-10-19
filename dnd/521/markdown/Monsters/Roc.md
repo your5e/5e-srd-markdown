@@ -2,10 +2,10 @@
 
 _Gargantuan Monstrosity, Unaligned_
 
-**AC** 15
-**Initiative** +8 (18)
-**HP** 248 (16d20 + 80)
-**Speed** 20 ft., Fly 120 ft.
+- **AC** 15
+- **Initiative** +8 (18)
+- **HP** 248 (16d20 + 80)
+- **Speed** 20 ft., Fly 120 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Gargantuan Monstrosity, Unaligned_
 | **Modifier**     |     +9 |     +0 |     +5 |     -4 |     +0 |     -1 |
 | **Saving Throw** |     +9 |     +4 |     +5 |     -4 |     +4 |     -1 |
 
-**Skills** Perception +8
-**Senses** Passive Perception 18
-**Languages** None
-**CR** 11 (XP 7,200; PB +4)
+- **Skills** Perception +8
+- **Senses** Passive Perception 18
+- **Languages** None
+- **CR** 11 (XP 7,200; PB +4)
 
 ## Actions
 

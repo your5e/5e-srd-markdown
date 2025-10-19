@@ -2,10 +2,10 @@
 
 _Medium Monstrosity, Neutral_
 
-**AC** 14
-**Initiative** +4 (14)
-**HP** 52 (8d8 + 16)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +4 (14)
+- **HP** 52 (8d8 + 16)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Monstrosity, Neutral_
 | **Modifier**     |     +0 |     +4 |     +2 |     +0 |     +1 |     +2 |
 | **Saving Throw** |     +0 |     +4 |     +2 |     +0 |     +1 |     +2 |
 
-**Skills** Deception +6, Insight +3
-**Immunities** Charmed
-**Senses** Darkvision 60 ft.; Passive Perception 11
-**Languages** Common plus three other languages
-**CR** 3 (XP 700; PB +2)
+- **Skills** Deception +6, Insight +3
+- **Immunities** Charmed
+- **Senses** Darkvision 60 ft.; Passive Perception 11
+- **Languages** Common plus three other languages
+- **CR** 3 (XP 700; PB +2)
 
 ## Actions
 

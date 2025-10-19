@@ -2,10 +2,10 @@
 
 _Huge Giant, Lawful Evil_
 
-**AC** 18
-**Initiative** +3 (13)
-**HP** 162 (13d12 + 78)
-**Speed** 30 ft.
+- **AC** 18
+- **Initiative** +3 (13)
+- **HP** 162 (13d12 + 78)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Huge Giant, Lawful Evil_
 | **Modifier**     |     +7 |     -1 |     +6 |     +0 |     +2 |     +1 |
 | **Saving Throw** |     +7 |     +3 |    +10 |     +0 |     +2 |     +5 |
 
-**Skills** Athletics +11, Perception +6
-**Immunities** Fire
-**Senses** Passive Perception 16
-**Languages** Giant
-**CR** 9 (XP 5,000; PB +4)
+- **Skills** Athletics +11, Perception +6
+- **Immunities** Fire
+- **Senses** Passive Perception 16
+- **Languages** Giant
+- **CR** 9 (XP 5,000; PB +4)
 
 ## Actions
 

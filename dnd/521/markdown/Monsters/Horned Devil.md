@@ -2,10 +2,10 @@
 
 _Large Fiend (Devil), Lawful Evil_
 
-**AC** 18
-**Initiative** +7 (17)
-**HP** 199 (19d10 + 95)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 18
+- **Initiative** +7 (17)
+- **HP** 199 (19d10 + 95)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +6 |     +3 |     +5 |     +1 |     +3 |     +4 |
 | **Saving Throw** |    +10 |     +7 |     +5 |     +1 |     +7 |     +8 |
 
-**Resistances** Cold
-**Immunities** Fire, Poison; Poisoned
-**Senses** Darkvision 150 ft. (unimpeded by magical Darkness); Passive Perception 13
-**Languages** Infernal; telepathy 120 ft.
-**CR** 11 (XP 7,200; PB +4)
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Darkvision 150 ft. (unimpeded by magical Darkness); Passive Perception 13
+- **Languages** Infernal; telepathy 120 ft.
+- **CR** 11 (XP 7,200; PB +4)
 
 ## Traits
 

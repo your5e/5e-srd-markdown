@@ -2,10 +2,10 @@
 
 _Tiny Undead, Chaotic Evil_
 
-**AC** 19
-**Initiative** +9 (19)
-**HP** 27 (11d4)
-**Speed** 5 ft., Fly 50 ft. (hover)
+- **AC** 19
+- **Initiative** +9 (19)
+- **HP** 27 (11d4)
+- **Speed** 5 ft., Fly 50 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Tiny Undead, Chaotic Evil_
 | **Modifier**     |     -5 |     +9 |     +0 |     +1 |     +2 |     +0 |
 | **Saving Throw** |     -5 |     +9 |     +0 |     +1 |     +2 |     +0 |
 
-**Resistances** Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing
-**Immunities** Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
-**Senses** Darkvision 120 ft.; Passive Perception 12
-**Languages** Common plus one other language
-**CR** 2 (XP 450; PB +2)
+- **Resistances** Acid, Bludgeoning, Cold, Fire, Necrotic, Piercing, Slashing
+- **Immunities** Lightning, Poison; Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+- **Senses** Darkvision 120 ft.; Passive Perception 12
+- **Languages** Common plus one other language
+- **CR** 2 (XP 450; PB +2)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Level 2 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (a forked twig)
-**Duration:** Concentration, up to 10 minutes
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (a forked twig)
+- **Duration:** Concentration, up to 10 minutes
 
 Describe or name an object that is familiar to you. You sense the direction to the object's location if that object is within 1,000 feet of you. If the object is in motion, you know the direction of its movement.
 

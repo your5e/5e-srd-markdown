@@ -2,10 +2,10 @@
 
 _Gargantuan Monstrosity (Titan), Chaotic Evil_
 
-**AC** 18
-**Initiative** +14 (24)
-**HP** 481 (26d20 + 208)
-**Speed** 30 ft., Swim 120 ft.
+- **AC** 18
+- **Initiative** +14 (24)
+- **HP** 481 (26d20 + 208)
+- **Speed** 30 ft., Swim 120 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Gargantuan Monstrosity (Titan), Chaotic Evil_
 | **Modifier**     |    +10 |     +0 |     +8 |     +6 |     +4 |     +5 |
 | **Saving Throw** |    +17 |     +7 |    +15 |     +6 |    +11 |     +5 |
 
-**Skills** History +13, Perception +11
-**Immunities** Cold, Lightning; Frightened, Grappled, Paralyzed, Restrained
-**Senses** Truesight 120 ft.; Passive Perception 21
-**Languages** Understands Abyssal, Celestial, Infernal, and Primordial but can't speak; telepathy 120 ft.
-**CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
+- **Skills** History +13, Perception +11
+- **Immunities** Cold, Lightning; Frightened, Grappled, Paralyzed, Restrained
+- **Senses** Truesight 120 ft.; Passive Perception 21
+- **Languages** Understands Abyssal, Celestial, Infernal, and Primordial but can't speak; telepathy 120 ft.
+- **CR** 23 (XP 50,000, or 62,000 in lair; PB +7)
 
 ## Traits
 

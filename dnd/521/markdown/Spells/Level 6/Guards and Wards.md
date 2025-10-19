@@ -2,10 +2,10 @@
 
 _Level 6 Abjuration (Bard, Wizard)_
 
-**Casting Time:** 1 hour
-**Range:** Touch
-**Components:** V, S, M (a silver rod worth 10+ GP)
-**Duration:** 24 hours
+- **Casting Time:** 1 hour
+- **Range:** Touch
+- **Components:** V, S, M (a silver rod worth 10+ GP)
+- **Duration:** 24 hours
 
 You create a ward that protects up to 2,500 square feet of floor space. The warded area can be up to 20 feet tall, and you shape it as one 50-foot square, one hundred 5-foot squares that are contiguous, or twenty-five 10-foot squares that are contiguous.
 

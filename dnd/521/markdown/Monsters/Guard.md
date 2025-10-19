@@ -2,10 +2,10 @@
 
 _Medium or Small Humanoid, Neutral_
 
-**AC** 16
-**Initiative** +1 (11)
-**HP** 11 (2d8 + 2)
-**Speed** 30 ft.
+- **AC** 16
+- **Initiative** +1 (11)
+- **HP** 11 (2d8 + 2)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium or Small Humanoid, Neutral_
 | **Modifier**     |     +1 |     +1 |     +1 |     +0 |     +0 |     +0 |
 | **Saving Throw** |     +1 |     +1 |     +1 |     +0 |     +0 |     +0 |
 
-**Skills** Perception +2
-**Gear** Chain Shirt, Shield, Spear
-**Senses** Passive Perception 12
-**Languages** Common
-**CR** 1/8 (XP 25; PB +2)
+- **Skills** Perception +2
+- **Gear** Chain Shirt, Shield, Spear
+- **Senses** Passive Perception 12
+- **Languages** Common
+- **CR** 1/8 (XP 25; PB +2)
 
 ## Actions
 

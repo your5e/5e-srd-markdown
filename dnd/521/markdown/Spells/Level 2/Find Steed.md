@@ -2,10 +2,10 @@
 
 _Level 2 Conjuration (Paladin)_
 
-**Casting Time:** Action
-**Range:** 30 feet
-**Components:** V, S
-**Duration:** Instantaneous
+- **Casting Time:** Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
 
 You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the **Otherworldly Steed** stat block. If you already have a steed from this spell, the steed is replaced by the new one.
 
@@ -21,9 +21,9 @@ _**Using a Higher-Level Spell Slot.**_ Use the spell slot's level for the spell'
 
 _Large Celestial, Fey, or Fiend (Your Choice), Neutral_
 
-**AC** 10 + 1 per spell level
-**HP** 5 + 10 per spell level (the steed has a number of Hit Dice (d10s) equal to the spell's level)
-**Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
+- **AC** 10 + 1 per spell level
+- **HP** 5 + 10 per spell level (the steed has a number of Hit Dice (d10s) equal to the spell's level)
+- **Speed** 60 ft., Fly 60 ft. (requires level 4+ spell)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -31,9 +31,9 @@ _Large Celestial, Fey, or Fiend (Your Choice), Neutral_
 | **Modifier**     |     +4 |     +1 |     +2 |     -2 |     +1 |     -1 |
 | **Saving Throw** |     +4 |     +1 |     +2 |     -2 |     +1 |     -1 |
 
-**Senses** Passive Perception 11
-**Languages** Telepathy 1 mile (works only with you)
-**CR** None (XP 0; PB equals your Proficiency Bonus)
+- **Senses** Passive Perception 11
+- **Languages** Telepathy 1 mile (works only with you)
+- **CR** None (XP 0; PB equals your Proficiency Bonus)
 
 ### Traits
 

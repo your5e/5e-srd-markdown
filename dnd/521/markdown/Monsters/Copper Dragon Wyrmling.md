@@ -2,10 +2,10 @@
 
 _Medium Dragon (Metallic), Chaotic Good_
 
-**AC** 16
-**Initiative** +3 (13)
-**HP** 22 (4d8 + 4)
-**Speed** 30 ft., Climb 30 ft., Fly 60 ft.
+- **AC** 16
+- **Initiative** +3 (13)
+- **HP** 22 (4d8 + 4)
+- **Speed** 30 ft., Climb 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Dragon (Metallic), Chaotic Good_
 | **Modifier**     |     +2 |     +1 |     +1 |     +2 |     +0 |     +1 |
 | **Saving Throw** |     +2 |     +3 |     +1 |     +2 |     +2 |     +1 |
 
-**Skills** Perception +4, Stealth +3
-**Immunities** Acid
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 1 (XP 200; PB +2)
+- **Skills** Perception +4, Stealth +3
+- **Immunities** Acid
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 1 (XP 200; PB +2)
 
 ## Actions
 

@@ -2,10 +2,10 @@
 
 _Medium Ooze, Unaligned_
 
-**AC** 9
-**Initiative** -2 (13)
-**HP** 22 (3d8 + 9)
-**Speed** 10 ft., Climb 10 ft.
+- **AC** 9
+- **Initiative** -2 (13)
+- **HP** 22 (3d8 + 9)
+- **Speed** 10 ft., Climb 10 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Medium Ooze, Unaligned_
 | **Modifier**     |     +1 |     -2 |     +3 |     -5 |     -2 |     -4 |
 | **Saving Throw** |     +1 |     -2 |     +3 |     -5 |     -2 |     -4 |
 
-**Skills** Stealth +2
-**Resistances** Acid, Cold, Fire
-**Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
-**Senses** Blindsight 60 ft.; Passive Perception 8
-**Languages** None
-**CR** 1/2 (XP 100; PB +2)
+- **Skills** Stealth +2
+- **Resistances** Acid, Cold, Fire
+- **Immunities** Blinded, Charmed, Deafened, Exhaustion, Frightened, Grappled, Prone, Restrained
+- **Senses** Blindsight 60 ft.; Passive Perception 8
+- **Languages** None
+- **CR** 1/2 (XP 100; PB +2)
 
 ## Traits
 

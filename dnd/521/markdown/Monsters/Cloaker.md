@@ -2,10 +2,10 @@
 
 _Large Aberration, Chaotic Neutral_
 
-**AC** 14
-**Initiative** +5 (15)
-**HP** 91 (14d10 + 14)
-**Speed** 10 ft., Fly 40 ft.
+- **AC** 14
+- **Initiative** +5 (15)
+- **HP** 91 (14d10 + 14)
+- **Speed** 10 ft., Fly 40 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Aberration, Chaotic Neutral_
 | **Modifier**     |     +3 |     +2 |     +1 |     +1 |     +2 |     -2 |
 | **Saving Throw** |     +3 |     +2 |     +1 |     +1 |     +2 |     -2 |
 
-**Skills** Stealth +5
-**Immunities** Frightened
-**Senses** Darkvision 120 ft.; Passive Perception 12
-**Languages** Deep Speech, Undercommon
-**CR** 8 (XP 3,900; PB +3)
+- **Skills** Stealth +5
+- **Immunities** Frightened
+- **Senses** Darkvision 120 ft.; Passive Perception 12
+- **Languages** Deep Speech, Undercommon
+- **CR** 8 (XP 3,900; PB +3)
 
 ## Traits
 

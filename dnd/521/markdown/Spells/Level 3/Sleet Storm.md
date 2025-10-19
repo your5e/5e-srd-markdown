@@ -2,10 +2,10 @@
 
 _Level 3 Conjuration (Druid, Sorcerer, Wizard)_
 
-**Casting Time:** Action
-**Range:** 150 feet
-**Components:** V, S, M (a miniature umbrella)
-**Duration:** Concentration, up to 1 minute
+- **Casting Time:** Action
+- **Range:** 150 feet
+- **Components:** V, S, M (a miniature umbrella)
+- **Duration:** Concentration, up to 1 minute
 
 Until the spell ends, sleet falls in a 40-foot-tall, 20-foot-radius Cylinder centered on a point you choose within range. The area is Heavily Obscured, and exposed flames in the area are doused.
 

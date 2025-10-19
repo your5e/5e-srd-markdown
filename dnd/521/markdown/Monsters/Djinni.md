@@ -2,10 +2,10 @@
 
 _Large Elemental (Genie), Neutral_
 
-**AC** 17
-**Initiative** +2 (12)
-**HP** 218 (19d10 + 114)
-**Speed** 30 ft., Fly 90 ft. (hover)
+- **AC** 17
+- **Initiative** +2 (12)
+- **HP** 218 (19d10 + 114)
+- **Speed** 30 ft., Fly 90 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Large Elemental (Genie), Neutral_
 | **Modifier**     |     +5 |     +2 |     +6 |     +2 |     +3 |     +5 |
 | **Saving Throw** |     +5 |     +6 |     +6 |     +2 |     +7 |     +5 |
 
-**Immunities** Lightning, Thunder
-**Senses** Darkvision 120 ft.; Passive Perception 13
-**Languages** Primordial (Auran)
-**CR** 11 (XP 7,200; PB +4)
+- **Immunities** Lightning, Thunder
+- **Senses** Darkvision 120 ft.; Passive Perception 13
+- **Languages** Primordial (Auran)
+- **CR** 11 (XP 7,200; PB +4)
 
 ## Traits
 

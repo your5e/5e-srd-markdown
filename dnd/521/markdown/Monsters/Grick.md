@@ -2,10 +2,10 @@
 
 _Medium Aberration, Unaligned_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 54 (12d8)
-**Speed** 30 ft., Climb 30 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 54 (12d8)
+- **Speed** 30 ft., Climb 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Medium Aberration, Unaligned_
 | **Modifier**     |     +2 |     +2 |     +0 |     -4 |     +2 |     -3 |
 | **Saving Throw** |     +2 |     +2 |     +0 |     -4 |     +2 |     -3 |
 
-**Skills** Stealth +4
-**Senses** Darkvision 60 ft.; Passive Perception 12
-**Languages** None
-**CR** 2 (XP 450; PB +2)
+- **Skills** Stealth +4
+- **Senses** Darkvision 60 ft.; Passive Perception 12
+- **Languages** None
+- **CR** 2 (XP 450; PB +2)
 
 ## Actions
 

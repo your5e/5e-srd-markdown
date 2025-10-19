@@ -2,10 +2,10 @@
 
 _Large Monstrosity, Neutral Evil_
 
-**AC** 13
-**Initiative** +1 (11)
-**HP** 75 (10d10 + 20)
-**Speed** 50 ft.
+- **AC** 13
+- **Initiative** +1 (11)
+- **HP** 75 (10d10 + 20)
+- **Speed** 50 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Monstrosity, Neutral Evil_
 | **Modifier**     |     +4 |     +1 |     +2 |     -2 |     +1 |     -1 |
 | **Saving Throw** |     +4 |     +1 |     +2 |     -2 |     +1 |     -1 |
 
-**Skills** Perception +5, Stealth +5
-**Immunities** Cold
-**Senses** Passive Perception 15
-**Languages** Common, Giant
-**CR** 3 (XP 700; PB +2)
+- **Skills** Perception +5, Stealth +5
+- **Immunities** Cold
+- **Senses** Passive Perception 15
+- **Languages** Common, Giant
+- **CR** 3 (XP 700; PB +2)
 
 ## Traits
 

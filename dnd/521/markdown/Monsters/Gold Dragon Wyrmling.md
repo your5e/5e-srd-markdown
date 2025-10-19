@@ -2,10 +2,10 @@
 
 _Medium Dragon (Metallic), Lawful Good_
 
-**AC** 17
-**Initiative** +4 (14)
-**HP** 60 (8d8 + 24)
-**Speed** 30 ft., Fly 60 ft., Swim 30 ft.
+- **AC** 17
+- **Initiative** +4 (14)
+- **HP** 60 (8d8 + 24)
+- **Speed** 30 ft., Fly 60 ft., Swim 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Medium Dragon (Metallic), Lawful Good_
 | **Modifier**     |     +4 |     +2 |     +3 |     +2 |     +0 |     +3 |
 | **Saving Throw** |     +4 |     +4 |     +3 |     +2 |     +2 |     +3 |
 
-**Skills** Perception +4, Stealth +4
-**Immunities** Fire
-**Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
-**Languages** Draconic
-**CR** 3 (700 XP; PB +2)
+- **Skills** Perception +4, Stealth +4
+- **Immunities** Fire
+- **Senses** Blindsight 10 ft., Darkvision 60 ft.; Passive Perception 14
+- **Languages** Draconic
+- **CR** 3 (700 XP; PB +2)
 
 ## Traits
 

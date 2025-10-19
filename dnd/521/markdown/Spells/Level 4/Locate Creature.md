@@ -2,10 +2,10 @@
 
 _Level 4 Divination (Bard, Cleric, Druid, Paladin, Ranger, Wizard)_
 
-**Casting Time:** Action
-**Range:** Self
-**Components:** V, S, M (fur from a bloodhound)
-**Duration:** Concentration, up to 1 hour
+- **Casting Time:** Action
+- **Range:** Self
+- **Components:** V, S, M (fur from a bloodhound)
+- **Duration:** Concentration, up to 1 hour
 
 Describe or name a creature that is familiar to you. You sense the direction to the creature's location if that creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
 

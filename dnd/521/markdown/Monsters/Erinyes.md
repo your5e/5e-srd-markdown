@@ -2,10 +2,10 @@
 
 _Medium Fiend (Devil), Lawful Evil_
 
-**AC** 18
-**Initiative** +7 (17)
-**HP** 178 (21d8 + 84)
-**Speed** 30 ft., Fly 60 ft.
+- **AC** 18
+- **Initiative** +7 (17)
+- **HP** 178 (21d8 + 84)
+- **Speed** 30 ft., Fly 60 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,12 +13,12 @@ _Medium Fiend (Devil), Lawful Evil_
 | **Modifier**     |     +4 |     +3 |     +4 |     +2 |     +2 |     +4 |
 | **Saving Throw** |     +4 |     +7 |     +8 |     +2 |     +2 |     +8 |
 
-**Skills** Perception +6, Persuasion +8
-**Resistances** Cold
-**Immunities** Fire, Poison; Poisoned
-**Senses** Truesight 120 ft.; Passive Perception 16
-**Languages** Infernal; telepathy 120 ft.
-**CR** 12 (XP 8,400; PB +4)
+- **Skills** Perception +6, Persuasion +8
+- **Resistances** Cold
+- **Immunities** Fire, Poison; Poisoned
+- **Senses** Truesight 120 ft.; Passive Perception 16
+- **Languages** Infernal; telepathy 120 ft.
+- **CR** 12 (XP 8,400; PB +4)
 
 ## Traits
 

@@ -2,10 +2,10 @@
 
 _Small Dragon, Neutral_
 
-**AC** 14
-**Initiative** +2 (12)
-**HP** 7 (3d6 - 3)
-**Speed** 30 ft.
+- **AC** 14
+- **Initiative** +2 (12)
+- **HP** 7 (3d6 - 3)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,10 +13,10 @@ _Small Dragon, Neutral_
 | **Modifier**     |     -2 |     +2 |     -1 |     -1 |     -2 |     -1 |
 | **Saving Throw** |     -2 |     +2 |     -1 |     -1 |     -2 |     -1 |
 
-**Gear** Daggers (3)
-**Senses** Darkvision 60 ft.; Passive Perception 8
-**Languages** Common, Draconic
-**CR** 1/8 (XP 25; PB +2)
+- **Gear** Daggers (3)
+- **Senses** Darkvision 60 ft.; Passive Perception 8
+- **Languages** Common, Draconic
+- **CR** 1/8 (XP 25; PB +2)
 
 ## Traits
 

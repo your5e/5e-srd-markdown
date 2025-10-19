@@ -2,10 +2,10 @@
 
 _Large Fiend (Demon), Chaotic Evil_
 
-**AC** 18
-**Initiative** +6 (16)
-**HP** 157 (15d10 + 75)
-**Speed** 30 ft.
+- **AC** 18
+- **Initiative** +6 (16)
+- **HP** 157 (15d10 + 75)
+- **Speed** 30 ft.
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
 |------------------|--------|--------|--------|--------|--------|--------|
@@ -13,11 +13,11 @@ _Large Fiend (Demon), Chaotic Evil_
 | **Modifier**     |     +4 |     +3 |     +5 |     -3 |     +1 |     +1 |
 | **Saving Throw** |     +7 |     +3 |     +8 |     -3 |     +4 |     +1 |
 
-**Resistances** Cold, Fire, Lightning
-**Immunities** Poison; Poisoned
-**Senses** Darkvision 120 ft.; Passive Perception 11
-**Languages** Abyssal; telepathy 120 ft.
-**CR** 8 (XP 3,900; PB +3)
+- **Resistances** Cold, Fire, Lightning
+- **Immunities** Poison; Poisoned
+- **Senses** Darkvision 120 ft.; Passive Perception 11
+- **Languages** Abyssal; telepathy 120 ft.
+- **CR** 8 (XP 3,900; PB +3)
 
 ## Traits
 
