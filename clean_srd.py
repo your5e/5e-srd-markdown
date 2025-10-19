@@ -994,6 +994,30 @@ def warn_repeated_table_headers(lines, index):
     return None
 
 
+def warn_missing_linebreaks(lines, index):
+    if index == 0:
+        return None
+
+    current = lines[index]
+    previous = lines[index - 1]
+    if (
+        # a blank line separating things
+        (not current or not previous)
+        # table
+        or (current.startswith('|') and previous.startswith('|'))
+        # unordered list
+        or (re.match(r'^\s*- ', current) and re.match(r'^\s*- ', previous))
+        # ordered list
+        or (re.match(r'^\s*\d+\.\s', current) and re.match(r'^\s*\d+\.\s', previous))
+        # mix-n-matched list types
+        or (re.match(r'^\s*- ', current) and re.match(r'^\s*\d+\.\s', previous))
+        or (re.match(r'^\s*\d+\.\s', current) and re.match(r'^\s*- ', previous))
+    ):
+        return None
+
+    return "lines without linebreaks"
+
+
 def warn_srd(lines, ignore_file=None):
     WARN_TABLE = [
         warn_table_runon,
@@ -1007,6 +1031,7 @@ def warn_srd(lines, ignore_file=None):
         warn_empty_table_cells,
         warn_duration_length,
         warn_repeated_table_headers,
+        warn_missing_linebreaks,
     ]
 
     ignore_patterns = []

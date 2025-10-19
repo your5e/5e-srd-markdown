@@ -22,3 +22,12 @@ class TestFilter:
         if text.endswith('\n'):
             result += '\n'
         return result
+
+    def check_text_for_warning(self, warn_function, text):
+        lines = text.splitlines()
+
+        for index, line in enumerate(lines):
+            message = warn_function(lines, index)
+            if message:
+                return True
+        return False
