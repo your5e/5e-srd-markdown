@@ -996,6 +996,12 @@ def warn_missing_linebreaks(lines, index):
     return "lines without linebreaks"
 
 
+def warn_lowercase_start(lines, index):
+    if lines[index] and lines[index][0].islower():
+        return "line starts with lowercase letter"
+    return None
+
+
 def warn_srd(lines, ignore_file=None):
     WARN_TABLE = [
         warn_table_runon,
@@ -1008,6 +1014,7 @@ def warn_srd(lines, ignore_file=None):
         warn_duration_length,
         warn_repeated_table_headers,
         warn_missing_linebreaks,
+        warn_lowercase_start,
     ]
 
     ignore_patterns = []
