@@ -6025,7 +6025,9 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 - **Weight:** 5 lb.
 - **Utilize:** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)
 
-#### Gaming Set (Varies)
+#### Gaming Set
+
+**Cost:** Varies
 
 - **Ability:** Wisdom
 - **Weight:** —
@@ -6040,7 +6042,9 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 - **Utilize:** Identify a plant (DC 10)
 - **Craft:** Antitoxin, Candle, Healer's Kit, _Potion of Healing_
 
-#### Musical Instrument (Varies)
+#### Musical Instrument
+
+**Cost:** Varies
 
 - **Ability:** Charisma
 - **Weight:** Varies
@@ -6170,7 +6174,9 @@ When you take the Attack action, you can replace one of your attacks with throwi
 
 When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see "Rules Glossary").
 
-### Ammunition (Varies)
+### Ammunition
+
+**Cost:** Varies
 
 Ammunition is required by a weapon that has the Ammunition property. A weapon's description specifies the type of ammunition used by the weapon. The table lists the different types and the amount you get when you buy them. The table also lists the item that is typically used to store each type; storage must be bought separately.
 
@@ -6188,7 +6194,9 @@ Ammunition is required by a weapon that has the Ammunition property. A weapon's 
 
 As a Bonus Action, you can drink a vial of Antitoxin to gain Advantage on saving throws to avoid or end the Poisoned condition for 1 hour.
 
-### Arcane Focus (Varies)
+### Arcane Focus
+
+**Cost:** Varies
 
 An Arcane Focus takes one of the forms in the table and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Wizard can use such an item as a Spellcasting Focus.
 
@@ -6350,7 +6358,9 @@ Using a Crowbar gives you Advantage on Strength checks where the Crowbar's lever
 
 A Diplomat's Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.
 
-### Druidic Focus (Varies)
+### Druidic Focus
+
+**Cost:** Varies
 
 A Druidic Focus takes one of the forms in the table and is carved, tied with ribbon, or painted to channel primal magic. A Druid or Ranger can use such an object as a Spellcasting Focus.
 
@@ -6398,7 +6408,9 @@ As a Utilize action, you can throw the Grappling Hook at a railing, a ledge, or 
 
 A Healer's Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
 
-### Holy Symbol (Varies)
+### Holy Symbol
+
+**Cost:** Varies
 
 A Holy Symbol takes one of the forms in the table and is bejeweled or painted to channel divine magic. A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus.
 

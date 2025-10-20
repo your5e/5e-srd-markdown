@@ -1,4 +1,6 @@
-# Arcane Focus (Varies)
+# Arcane Focus
+
+**Cost:** Varies
 
 An Arcane Focus takes one of the forms in the table and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Wizard can use such an item as a Spellcasting Focus.
 

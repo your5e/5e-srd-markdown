@@ -26,6 +26,13 @@ class TestCleanDecostHeaders(TestFilter):
 
             When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see "Rules Glossary").
 
+            # Gaming Set (Varies)
+
+            - **Ability:** Wisdom
+            - **Weight:** —
+            - **Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20)
+            - **Variants:** Dice (1 SP), dragonchess (1 GP), playing cards (5 SP), three-dragon ante (1 GP)
+
             ### Spell Scroll (Cantrip, 30 GP; Level 1, 50 GP)
 
             A _Spell Scroll_ (Cantrip) or _Spell Scroll_ (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll's creator. If the spell is on your class's spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
@@ -48,6 +55,14 @@ class TestCleanDecostHeaders(TestFilter):
             **Cost:** 50 GP
 
             When you take the Attack action, you can replace one of your attacks with throwing a flask of Alchemist's Fire. Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 1d4 Fire damage and start burning (see "Rules Glossary").
+
+            # Gaming Set
+
+            - **Cost:** Varies
+            - **Ability:** Wisdom
+            - **Weight:** —
+            - **Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20)
+            - **Variants:** Dice (1 SP), dragonchess (1 GP), playing cards (5 SP), three-dragon ante (1 GP)
 
             ### Spell Scroll
 

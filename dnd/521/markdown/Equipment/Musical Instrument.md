@@ -1,4 +1,6 @@
-# Musical Instrument (Varies)
+# Musical Instrument
+
+**Cost:** Varies
 
 - **Ability:** Charisma
 - **Weight:** Varies

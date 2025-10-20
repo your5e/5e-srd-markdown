@@ -1,4 +1,6 @@
-# Gaming Set (Varies)
+# Gaming Set
+
+**Cost:** Varies
 
 - **Ability:** Wisdom
 - **Weight:** —

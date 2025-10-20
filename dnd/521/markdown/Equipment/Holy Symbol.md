@@ -1,4 +1,6 @@
-# Holy Symbol (Varies)
+# Holy Symbol
+
+**Cost:** Varies
 
 A Holy Symbol takes one of the forms in the table and is bejeweled or painted to channel divine magic. A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus.
 

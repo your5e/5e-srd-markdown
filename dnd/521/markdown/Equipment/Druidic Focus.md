@@ -1,4 +1,6 @@
-# Druidic Focus (Varies)
+# Druidic Focus
+
+**Cost:** Varies
 
 A Druidic Focus takes one of the forms in the table and is carved, tied with ribbon, or painted to channel primal magic. A Druid or Ranger can use such an object as a Spellcasting Focus.
 
