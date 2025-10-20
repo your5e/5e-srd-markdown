@@ -901,36 +901,16 @@ def warn_table_after_header(lines, index):
     return None
 
 
-def warn_bullet_characters(lines, index):
-    bullets = [
-        '•', '▪', '▫', '‣', '⁃', '◦', '∙',  # alternative bullet-like markers
-        '‒', '–', '—', '―', '⁻', '−',       # other types of hyphens
-    ]
-
-    line = lines[index].lstrip()
-    if line and any(line.startswith(char) for char in bullets):
-        return "bullet (instead of Markdown list?)"
-    return None
-
-
-def warn_em_dash_spacing(lines, index):
-    line = lines[index]
-    if '—' in line:
-        # Check for em-dash not surrounded by spaces
-        for i, char in enumerate(line):
-            if char == '—':
-                has_space_before = i == 0 or line[i-1] == ' '
-                has_space_after = i == len(line)-1 or line[i+1] == ' '
-                if not (has_space_before and has_space_after):
-                    return "em-dash not surrounded by spaces"
-    return None
-
-
 def warn_unusual_unicode(lines, index):
     # let's not be too clever
+    allowed_chars = {
+        '\u2014',  # em-dash (converted by clean_unicode_chars)
+        '\u2020',  # dagger (footnote marker)
+        '\u2026',  # ellipsis (allowed as-is)
+    }
     unusual_chars = set()
     for char in lines[index]:
-        if ord(char) >= 0x2070:
+        if ord(char) >= 0x2000 and char not in allowed_chars:
             unusual_chars.add(f"U+{ord(char):04X}")
     if unusual_chars:
         return f"unusual Unicode characters: {', '.join(sorted(unusual_chars))}"
@@ -938,20 +918,17 @@ def warn_unusual_unicode(lines, index):
 
 def warn_empty_table_header(lines, index):
     # "|   | Bonus |  |  |" - likely has headers spread across lines
-    if (
-        lines[index].startswith('|')
-        and index > 0
-        and not lines[index - 1].startswith('|')
-    ):
-        cells = [cell.strip() for cell in lines[index].split('|')[1:-1]]
-        if any(not cell for cell in cells):
-            # ignore empty first cell on statblocks header
-            if cells[0] == '' and all(
-                f'{ability}.' in lines[index]
-                    for ability in ABILITIES
-            ):
-                return None
-            return "table has empty header cells"
+    if lines[index].startswith('|'):
+        if index == 0 or not lines[index - 1].startswith('|'):
+            cells = [cell.strip() for cell in lines[index].split('|')[1:-1]]
+            if any(not cell for cell in cells):
+                # ignore empty first cell on statblocks header
+                if cells[0] == '' and all(
+                    f'{ability}.' in lines[index]
+                        for ability in ABILITIES
+                ):
+                    return None
+                return "table has empty header cells"
     return None
 
 
@@ -970,27 +947,26 @@ def warn_empty_table_cells(lines, index):
 
 def warn_duration_length(lines, index):
     # "**Duration:** Concentration, up to 1 minute Squirming, ebony tentacles..."
-    if lines[index].startswith('**Duration:**'):
-        if len(lines[index].split()) > 6:
+    line = lines[index]
+    if '**Duration:**' in line:
+        after_duration = line.split('**Duration:**')[1]
+        if len(after_duration.split()) > 5:
             return "duration has more than 5 words"
     return None
 
 
 def warn_repeated_table_headers(lines, index):
     # "| Spell | Charge Cost | Spell | Charge Cost |"
-    if (
-        lines[index].startswith('|')
-        and index > 0
-        and not lines[index - 1].startswith('|')
-    ):
-        cells = [cell.strip() for cell in lines[index].split('|')[1:-1]]
-        if len(cells) >= 2:
-            seen = set()
-            for cell in cells:
-                if cell and cell in seen:
-                    return f"table has repeated header: '{cell}'"
-                if cell:
-                    seen.add(cell)
+    if lines[index].startswith('|'):
+        if index == 0 or not lines[index - 1].startswith('|'):
+            cells = [cell.strip() for cell in lines[index].split('|')[1:-1]]
+            if len(cells) >= 2:
+                seen = set()
+                for cell in cells:
+                    if cell and cell in seen:
+                        return f"table has repeated header: '{cell}'"
+                    if cell:
+                        seen.add(cell)
     return None
 
 
@@ -1024,8 +1000,6 @@ def warn_srd(lines, ignore_file=None):
         warn_midparagraph_italics,
         warn_inconsistent_list_formatting,
         warn_table_after_header,
-        warn_bullet_characters,
-        warn_em_dash_spacing,
         warn_unusual_unicode,
         warn_empty_table_header,
         warn_empty_table_cells,

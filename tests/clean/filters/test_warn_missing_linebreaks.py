@@ -1,5 +1,5 @@
 from textwrap import dedent
-from clean_srd import warn_linebreaks
+from clean_srd import warn_missing_linebreaks
 from . import TestFilter
 
 
@@ -30,14 +30,14 @@ class TestWarnLinebreaks(TestFilter):
 
         """)
 
-        assert not self.check_text_for_warning(warn_linebreaks, text)
+        assert not self.check_text_for_warning(warn_missing_linebreaks, text)
 
     def test_warning(self):
         text = dedent("""\
             A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take 2d6 Thunder damage and have the Deafened condition for the duration.
             At the start of each of your later turns, the storm produces different effects, as detailed below.
         """)
-        assert self.check_text_for_warning(warn_linebreaks, text)
+        assert self.check_text_for_warning(warn_missing_linebreaks, text)
 
         text = dedent("""\
             **AC** 13
@@ -45,7 +45,7 @@ class TestWarnLinebreaks(TestFilter):
             **HP** 67 (9d8 + 27)
             **Speed** 30 ft.
         """)
-        assert self.check_text_for_warning(warn_linebreaks, text)
+        assert self.check_text_for_warning(warn_missing_linebreaks, text)
 
         text = dedent("""\
             The three main pillars of D&D play are social interaction, exploration, and combat. Whichever one you're experiencing, the game unfolds according to this basic pattern:
@@ -53,7 +53,7 @@ class TestWarnLinebreaks(TestFilter):
             2. **The Players Describe What Their Characters Do.** Typically, the characters stick together as they travel through a dungeon or another environment. Sometimes different adventurers do different things: one adventurer might search a treasure chest while a second examines a mysterious symbol engraved on a wall and a third keeps watch for monsters. Outside combat, the GM ensures that every character has a chance to act and decides how to resolve their activity. In combat, the characters take turns.
             3. **The GM Narrates the Results of the Adventurers' Actions.** Sometimes resolving a task is easy. If an adventurer walks across a room and tries to open a door, the GM might say the door opens and describe what lies beyond. But the door might be locked, the floor might hide a trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the GM might ask the player to roll a die to help determine what happens. Describing the results often leads to another decision point, which brings the game back to step 1.
         """)
-        assert self.check_text_for_warning(warn_linebreaks, text)
+        assert self.check_text_for_warning(warn_missing_linebreaks, text)
 
         text = dedent("""\
             - **Skills** Athletics +10, Performance +5
@@ -62,4 +62,4 @@ class TestWarnLinebreaks(TestFilter):
             - **Languages** Common
             - **CR** 5 (XP 1,800; PB +3)
         """)
-        assert self.check_text_for_warning(warn_linebreaks, text)
+        assert self.check_text_for_warning(warn_missing_linebreaks, text)
