@@ -647,6 +647,7 @@ def clean_spell_list_emphasis(lines, index):
 
 
 def clean_decost_headers(lines, index):
+    # "Alchemist's Supplies (50 GP)" -> "Alchemist's Supplies\n\n**Cost:** 50 GP""
     if match := re.match(r'^(#.*?)\s+\(([^)]*(?:[GCSEP]P|Free)[^)]*)\)$', lines[index]):
         lines[index] = match.group(1)
         if lines[index+2].startswith('**'):
