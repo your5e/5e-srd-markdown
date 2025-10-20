@@ -820,7 +820,7 @@ If a magic item description capitalizes a creature's name and presents it in **b
 @include    1-11 "markdown/Magic Items/Legendary/Cubic Gate.md"
 @include    1-7 "markdown/Magic Items/Rare/Dagger of Venom.md"
 @include    1-9 "markdown/Magic Items/Very Rare/Dancing Sword.md"
-@include    1-12 "markdown/Magic Items/Uncommon/Decanter of Endless Water.md"
+@include    1-11 "markdown/Magic Items/Uncommon/Decanter of Endless Water.md"
 @include    1-47 "markdown/Magic Items/Uncommon/Deck of Illusions.md"
 @include    1-7 "markdown/Magic Items/Legendary/Defender.md"
 @include    1-7 "markdown/Magic Items/Very Rare/Demon Armor.md"

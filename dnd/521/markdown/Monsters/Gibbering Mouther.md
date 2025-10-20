@@ -24,9 +24,9 @@ _**Aberrant Ground.**_ The ground in a 10-foot Emanation originating from the mo
 
 _**Gibbering.**_ The mouther babbles incoherently while it doesn't have the Incapacitated condition. _Wisdom Saving Throw:_ DC 10, any creature that starts its turn within 20 feet of the mouther while it is babbling. _Failure:_ The target rolls 1d8 to determine what it does during the current turn:
 
-**1-4.** The target does nothing.
-**5-6.** The target takes no action or Bonus Action and uses all its movement to move in a random direction.
-**7-8.** The target makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
+- **1-4.** The target does nothing.
+- **5-6.** The target takes no action or Bonus Action and uses all its movement to move in a random direction.
+- **7-8.** The target makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
 
 ## Actions
 

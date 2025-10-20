@@ -16,8 +16,8 @@ A group of characters can travel overland at a Normal, Fast, or Slow pace, as de
 | Urban      | Normal         | 2d6 × 10 feet        |            20 |              15 |          15 |
 | Waterborne | Special†       | 6d6 × 10 feet        |            15 |              10 |          15 |
 
-\* Appropriate equipment (such as skis) is necessary to keep up a Fast pace in Arctic terrain.
-† Characters' rate of travel while waterborne depends on the vehicle carrying them; see "Vehicles."
+- \* Appropriate equipment (such as skis) is necessary to keep up a Fast pace in Arctic terrain.
+- † Characters' rate of travel while waterborne depends on the vehicle carrying them; see "Vehicles."
 
 ## Good Roads
 

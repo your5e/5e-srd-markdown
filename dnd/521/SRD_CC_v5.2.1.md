@@ -13539,8 +13539,8 @@ A group of characters can travel overland at a Normal, Fast, or Slow pace, as de
 | Urban      | Normal         | 2d6 × 10 feet        |            20 |              15 |          15 |
 | Waterborne | Special†       | 6d6 × 10 feet        |            15 |              10 |          15 |
 
-\* Appropriate equipment (such as skis) is necessary to keep up a Fast pace in Arctic terrain.
-† Characters' rate of travel while waterborne depends on the vehicle carrying them; see "Vehicles."
+- \* Appropriate equipment (such as skis) is necessary to keep up a Fast pace in Arctic terrain.
+- † Characters' rate of travel while waterborne depends on the vehicle carrying them; see "Vehicles."
 
 ### Good Roads
 
@@ -15074,10 +15074,9 @@ This stoppered flask sloshes when shaken, as if it contains water. The decanter 
 
 You can take a Magic action to remove the stopper and issue one of three command words, whereupon an amount of fresh water or salt water (your choice) pours out of the flask. The water stops pouring out at the start of your next turn. Choose from the following command words:
 
-**Splash.** The decanter produces 1 gallon of water.
-**Fountain.** The decanter produces 5 gallons of water.
-
-**Geyser.** The decanter produces 30 gallons of water that gushes forth in a Line 30 feet long and 1 foot wide. If you're holding the decanter, you can aim the geyser in one direction (no action required). One creature of your choice in the Line must succeed on a DC 13 Strength saving throw or take 1d4 Bludgeoning damage and have the Prone condition. Instead of a creature, you can target one object in the Line that isn't being worn or carried and that weighs no more than 200 pounds. The object is knocked over by the geyser.
+- **Splash.** The decanter produces 1 gallon of water.
+- **Fountain.** The decanter produces 5 gallons of water.
+- **Geyser.** The decanter produces 30 gallons of water that gushes forth in a Line 30 feet long and 1 foot wide. If you're holding the decanter, you can aim the geyser in one direction (no action required). One creature of your choice in the Line must succeed on a DC 13 Strength saving throw or take 1d4 Bludgeoning damage and have the Prone condition. Instead of a creature, you can target one object in the Line that isn't being worn or carried and that weighs no more than 200 pounds. The object is knocked over by the geyser.
 
 ### Deck of Illusions
 
@@ -16549,8 +16548,8 @@ _Wondrous Item, Rare (Requires Attunement)_
 
 This robe is adorned with eyelike patterns. While you wear the robe, you gain the following benefits:
 
-**All-Around Vision.** The robe gives you Advantage on Wisdom (Perception) checks that rely on sight.
-**Special Senses.** You have Darkvision and Truesight, both with a range of 120 feet.
+- **All-Around Vision.** The robe gives you Advantage on Wisdom (Perception) checks that rely on sight.
+- **Special Senses.** You have Darkvision and Truesight, both with a range of 120 feet.
 
 _**Drawbacks.**_ A _Light_ spell cast on the robe or a _Daylight_ spell cast within 5 feet of the robe gives you the Blinded condition for 1 minute. At the end of each of your turns, you make a Constitution saving throw (DC 11 for _Light_ or DC 15 for _Daylight_), ending the condition on yourself on a success.
 
@@ -20731,9 +20730,9 @@ _**Aberrant Ground.**_ The ground in a 10-foot Emanation originating from the mo
 
 _**Gibbering.**_ The mouther babbles incoherently while it doesn't have the Incapacitated condition. _Wisdom Saving Throw:_ DC 10, any creature that starts its turn within 20 feet of the mouther while it is babbling. _Failure:_ The target rolls 1d8 to determine what it does during the current turn:
 
-**1-4.** The target does nothing.
-**5-6.** The target takes no action or Bonus Action and uses all its movement to move in a random direction.
-**7-8.** The target makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
+- **1-4.** The target does nothing.
+- **5-6.** The target takes no action or Bonus Action and uses all its movement to move in a random direction.
+- **7-8.** The target makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
 
 #### Actions
 

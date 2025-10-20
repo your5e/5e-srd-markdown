@@ -1,3 +1,5 @@
+Warning: #### Fill In Numbers, 1090: lines without linebreaks
+Warning: #### Fill In Numbers, 1097: lines without linebreaks
 Warning: ##### Life Domain Spells, 2247: table immediately after header
 Warning: ##### Arid Land, 2628: table immediately after header
 Warning: ##### Polar Land, 2637: table immediately after header
