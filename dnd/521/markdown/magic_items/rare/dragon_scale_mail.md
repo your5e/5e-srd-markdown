@@ -1,6 +1,8 @@
 # Dragon Scale Mail
 
-_Armor (Scale Mail), Very Rare (Requires Attunement) Dragon Scale Mail_ is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them. Other times, hunters carefully preserve the hide of a dead dragon. In either case, _Dragon Scale Mail_ is highly valued.
+_Armor (Scale Mail), Very Rare (Requires Attunement)_
+
+_Dragon Scale Mail_ is made of the scales of one kind of dragon. Sometimes dragons collect their cast-off scales and gift them. Other times, hunters carefully preserve the hide of a dead dragon. In either case, _Dragon Scale Mail_ is highly valued.
 
 While wearing this armor, you gain a +1 bonus to Armor Class, you have Advantage on saving throws against the breath weapons of Dragons, and you have Resistance to one damage type determined by the kind of dragon that provided the scales (see the table).
 

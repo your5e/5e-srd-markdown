@@ -85,8 +85,7 @@ _Medium Undead, Neutral evil_
 
 **AC** 20
 **Initiative** +3 (13)
-**HP** Half the
-**HP** maximum of its summoner
+**HP** Half the HP maximum of its summoner
 **Speed** 60 ft., Fly 60 ft. (hover)
 
 |                  |   Str. |   Dex. |   Con. |   Int. |   Wis. |   Cha. |
