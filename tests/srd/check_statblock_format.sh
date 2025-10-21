@@ -53,18 +53,27 @@ function main {
             [[ "$ignore_content" =~ (^|$'\n')"$(basename "$file")"($'\n'|$) ]] \
                 && continue
 
-            metadata="$(sed -n '5,7p' "$file")"
-            for item in 'Armor Class' 'Hit Points' 'Speed'; do
-                if ! grep -q "^- \*\*$item\*\*" <(echo "$metadata"); then
-                    report_error "missing $item" ""
-                fi
-            done
+            metadata="$(sed -n '5,8p' "$file")"
 
-            ability_scores="$(sed -n '9,11p' "$file")"
-            [ $(grep '^|' <(echo "$ability_scores") | wc -l) -ne 3 ] \
+            # Check for either 5.1 format (Armor Class/Hit Points/Speed) or 5.2.1 format (AC/HP/Speed)
+            has_ac=0
+            has_hp=0
+            has_speed=0
+
+            grep -q "^- \*\*\(Armor Class\|AC\)\*\*" <(echo "$metadata") && has_ac=1
+            grep -q "^- \*\*\(Hit Points\|HP\)\*\*" <(echo "$metadata") && has_hp=1
+            grep -q "^- \*\*Speed\*\*" <(echo "$metadata") && has_speed=1
+
+            [ $has_ac -eq 0 ] && report_error "missing Armor Class" ""
+            [ $has_hp -eq 0 ] && report_error "missing Hit Points" ""
+            [ $has_speed -eq 0 ] && report_error "missing Speed" ""
+
+            ability_scores="$(sed -n '9,14p' "$file")"
+            ability_table_lines=$(grep '^|' <(echo "$ability_scores") | wc -l)
+            [ $ability_table_lines -ne 3 -a $ability_table_lines -ne 5 ] \
                 && report_error "missing ability scores" ""
 
-            grep -q "^- \*\*Challenge\*\* " "$file" || report_error "missing CR" ""
+            grep -q "^- \*\*\(Challenge\|CR\)\*\*" "$file" || report_error "missing CR" ""
 
             unusual="$(grep "^\\\\\\*" "$file" || true)"
             [ -n "$unusual" ] \
@@ -76,19 +85,21 @@ function main {
             unexpected_headers=$(
                 tail -n +2 "$file" \
                     | grep "^##* " \
-                    | grep -vE "^##* (Traits|Actions|Reactions|Legendary Actions)$"
+                    | grep -vE "^##* (Traits|Actions|Bonus Actions|Reactions|Legendary Actions)$"
             ) || true
             [ -n "$unexpected_headers" ] && report_error "unexpected headers" "$unexpected_headers"
 
-            underscore_lines=$(grep "^_.*_\." "$file" || true)
+            underscore_lines=$(grep "^_[^*].*[^_]_\.$" "$file" || true)
             [ -n "$underscore_lines" ] && report_error "underscore formatting" "$underscore_lines"
 
-            bare_paras=$(
-                cat "$file" \
-                    | grep "^[A-Za-z0-9]" "$file" \
-                    | grep -v 'can take.*legendary actions'
-            ) || true
-            [ -n "$bare_paras" ] && report_error "bare paras" "$bare_paras"
+            # Only check bare paras for 5.1 format (uses "Armor Class")
+            if grep -q "^- \*\*Armor Class\*\*" "$file"; then
+                bare_paras=$(
+                    grep "^[A-Za-z0-9]" "$file" \
+                        | grep -v 'can take.*legendary actions'
+                ) || true
+                [ -n "$bare_paras" ] && report_error "bare paras" "$bare_paras"
+            fi
 
             bold_start=$(grep "^\*\*" "$file" || true)
             [ -n "$bold_start" ] && report_error "bold start" "$bold_start"

@@ -648,7 +648,8 @@ def clean_spell_list_emphasis(lines, index):
 
 def clean_decost_headers(lines, index):
     # "Alchemist's Supplies (50 GP)" -> "Alchemist's Supplies\n\n**Cost:** 50 GP""
-    if match := re.match(r'^(#.*?)\s+\(([^)]*(?:[GCSEP]P|Free|Varies)[^)]*)\)$', lines[index]):
+    pattern = r'^(#.*?)\s+\(([^)]*(?:[GCSEP]P|Free|Varies)[^)]*)\)$'
+    if match := re.match(pattern, lines[index]):
         lines[index] = match.group(1)
         if match2 := re.match(r'^(- )?\*\*', lines[index+2]):
             prefix = match2.group(1) or ''

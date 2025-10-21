@@ -12,10 +12,10 @@ function main {
             fi
         done
 
-        current_dir=$(dirname "$file" | sed "s|.*/spells/||")
+        current_dir=$(dirname "$file" | sed -e "s|.*/Spells/||" -e "s|.*/spells/||")
         spell_level=$(extract_spell_level "$file")
 
-        if [[ -n "$spell_level" && "$current_dir" != "$spell_level" ]]; then
+        if [[ -n "$spell_level" && "${current_dir,,}" != "${spell_level,,}" ]]; then
             echo "$file: '$spell_level' doesn't match directory"
             exit_code=1
         fi
@@ -30,8 +30,8 @@ function extract_spell_level {
     # "_1st-level abjuration (ritual)_"
     local level_line=$(sed -n '3p' "$file")
 
-    if [[ "$level_line" =~ _.*cantrip.* ]]; then
-        echo "cantrip"
+    if [[ "$level_line" =~ _.*[Cc]antrip.* ]]; then
+        echo "Cantrip"
     elif [[ "$level_line" =~ _([0-9]+)(st|nd|rd|th)-level ]]; then
         echo "${BASH_REMATCH[1]}${BASH_REMATCH[2]}_level"
     else

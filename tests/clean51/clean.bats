@@ -7,7 +7,8 @@ setup() {
 }
 
 @test "processes clean SRD content without errors" {
-    skip "SRD formatting has changed, this test needs updating"
+    skip "FIXME: the 5.1 SRD needs to be updated to use proper filenames"
+
     expected_output=$(sed -e 's/^        //' <<'        EOF'
         Warning: # The Barbarian, 12: table immediately after header
         Warning: # The Barbarian, 12: table has empty header cells
@@ -26,14 +27,15 @@ setup() {
             --clean-lines "$BATS_TEST_TMPDIR/clean.txt" \
             "$BATS_TEST_TMPDIR/srd.md" \
             "$BATS_TEST_TMPDIR/breakdown.txt"
-    diff -u tests/clean/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
-    diff -u tests/clean/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
+    diff -u tests/clean51/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
+    diff -u tests/clean51/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "$expected_output") <(echo "$output")
     [ "$status" -eq 0 ]
 }
 
 @test "clean can be run twice with no extraneous changes" {
-    skip "SRD formatting has changed, this test needs updating"
+    skip "FIXME: the 5.1 SRD needs to be updated to use proper filenames"
+
     expected_output=$(sed -e 's/^        //' <<'        EOF'
         Warning: # The Barbarian, 12: table immediately after header
         Warning: # The Barbarian, 12: table has empty header cells
@@ -52,8 +54,8 @@ setup() {
             --clean-lines "$BATS_TEST_TMPDIR/clean.txt" \
             "$BATS_TEST_TMPDIR/srd.md" \
             "$BATS_TEST_TMPDIR/breakdown.txt"
-    diff -u tests/clean/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
-    diff -u tests/clean/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
+    diff -u tests/clean51/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
+    diff -u tests/clean51/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "$expected_output") <(echo "$output")
     [ "$status" -eq 0 ]
 
@@ -63,9 +65,8 @@ setup() {
             --clean-lines "$BATS_TEST_TMPDIR/clean.txt" \
             "$BATS_TEST_TMPDIR/srd.md" \
             "$BATS_TEST_TMPDIR/breakdown.txt"
-    diff -u tests/clean/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
-    diff -u tests/clean/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
+    diff -u tests/clean51/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
+    diff -u tests/clean51/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u <(echo "$expected_output") <(echo "$output")
     [ "$status" -eq 0 ]
 }
-

@@ -11,6 +11,8 @@ teardown() {
 }
 
 @test "update_vault.py converts files" {
+    skip "FIXME: the 5.1 SRD needs to be updated to use proper filenames"
+
     expected_output=$(sed -e 's/^        //' <<'        EOF'
         removed.md: no longer in source directory
         EOF

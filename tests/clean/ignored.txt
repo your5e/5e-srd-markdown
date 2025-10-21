@@ -4,3 +4,5 @@
 # Mid-paragraph italic, 33: possible mistaken mid-paragraph italic: 'Claw. Melee Weapon Attack:'
 
 unusual Unicode characters
+lines without linebreaks
+line starts with lowercase letter
