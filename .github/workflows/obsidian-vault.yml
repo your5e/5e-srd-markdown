@@ -12,7 +12,7 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
     - name: Install tabulate
       run: |
@@ -35,8 +35,9 @@ jobs:
         path: /tmp/dnd_521_srd.zip
 
     - name: Create Release
-      uses: softprops/action-gh-release@v1
+      uses: softprops/action-gh-release@v2
       if: github.ref_type == 'tag'
       with:
         files: |
           /tmp/dnd_51_srd.zip
+          /tmp/dnd_521_srd.zip
