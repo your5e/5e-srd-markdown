@@ -18,7 +18,7 @@ function main {
 function run_tests {
     echo "$1:"
 
-    bats "$1" \
+    bats --print-output-on-failure "$1" \
         || failed=1
 
     echo ''
