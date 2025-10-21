@@ -9,6 +9,8 @@ on:
 jobs:
   build-vault:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
     - name: Checkout
