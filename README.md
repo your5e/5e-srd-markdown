@@ -11,6 +11,12 @@ Other than as needed during the conversion from PDF to Markdown, no changes
 have been made to the text, tables, or details. Any changes are noted with
 the SRD in question.
 
+Each is available as a whole Markdown file, smaller segments broken up in a
+(hopefully) useful manner, and as a packaged Obsidian vault.
+
+![screenshot of an Obsidian window, showing the 5.2.1 SRD](srd.jpg)
+
+## Available SRDs
 
 - D&D 5th edition 5.1 SRD (2014 rules)
 
@@ -18,7 +24,7 @@ the SRD in question.
     - [Markdown (untouched)](dnd/51/SRD_CC_v5.1.untouched.md)
     - [Markdown (cleaned, one file)](dnd/51/SRD_CC_v5.1.md)
     - [Markdown (broken into sections)](dnd/51/markdown)
-    - [Obsidian vault (.zip)](https://github.com/your5e/5e-srd-markdown/releases/download/v0.1/dnd_51_srd.zip)
+    - [Obsidian vault (.zip)](https://github.com/your5e/5e-srd-markdown/releases/download/v0.2.3/dnd_51_srd.zip)
 
     > This work includes material taken from the System Reference Document 5.1
     > ("SRD 5.1") by Wizards of the Coast LLC and available at
@@ -52,6 +58,7 @@ the SRD in question.
     - [Markdown (untouched)](dnd/521/SRD_CC_v5.2.1.untouched.md)
     - [Markdown (cleaned, one file)](dnd/521/SRD_CC_v5.2.1.md)
     - [Markdown (broken into sections)](dnd/521/markdown)
+    - [Obsidiant vault (.zip)](https://github.com/your5e/5e-srd-markdown/releases/download/v0.2.3/dnd_521_srd.zip)
 
     > This work includes material from the System Reference Document 5.2.1
     > ("SRD 5.2.1") by Wizards of the Coast LLC, available at

@@ -20,7 +20,7 @@ jobs:
       run: |
         pip install tabulate
 
-    - name: Create zip
+    - name: Create zips
       run: |
         make vaults
 
