@@ -61,7 +61,9 @@ the SRD in question.
 
     Conversion notes:
 
-    - removed the table of contents (makes no sense in Markdown)
+    - removed the table of contents from the Markdown (where it makes no sense)
+    - created a version of the table of contents along with lists of spells,
+      magic items, monsters, and animals in the Obsidian vault
     - fixed numbering of steps in D20 tests (its 4, 5, 6 in the PDF, which
       seems to be an accidental continuation from Rhythm of Play)
     - Tables and sidebars have been repositioned in the source to where they

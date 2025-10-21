@@ -16,15 +16,20 @@ jobs:
 
     - name: Create zip
       run: |
-        rsync -av dnd/51/obsidian_vault/ /tmp/dnd_51_srd/
-        (cd /tmp && zip -r dnd_51_srd.zip dnd_51_srd/)
+        make vaults
 
-    - name: Upload zip
+    - name: Upload 51 zip
       uses: actions/upload-artifact@v4
       with:
         name: dnd_51_srd
         path: /tmp/dnd_51_srd.zip
         
+    - name: Upload 521 zip
+      uses: actions/upload-artifact@v4
+      with:
+        name: dnd_521_srd
+        path: /tmp/dnd_521_srd.zip
+
     - name: Create Release
       uses: softprops/action-gh-release@v1
       if: github.ref_type == 'tag'
