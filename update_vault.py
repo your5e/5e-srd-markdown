@@ -345,7 +345,7 @@ def update_vault(
     # report files no longer in source
     source_files = {f.relative_to(source_path) for f in files}
     dest_files = {f.relative_to(dest_path) for f in dest_path.rglob('*.md')}
-    for removed_file in dest_files - source_files:
+    for removed_file in sorted(dest_files - source_files):
         print(f"{removed_file}: no longer in source directory")
 
 
