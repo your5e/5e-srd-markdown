@@ -11,18 +11,18 @@ Warning: ## Weapons, 5685: possible table run-on
 Warning: ## Weapons, 5706: possible table run-on
 Warning: ## Armor, 5819: possible table run-on
 Warning: ## Armor, 5827: possible table run-on
-Warning: ## Food, Drink, and Lodging, 6833: possible table run-on
-Warning: ## Food, Drink, and Lodging, 6842: possible table run-on
-Warning: #### Precipitation, 8179: table immediately after header
-Warning: #### Temperature, 8189: table immediately after header
-Warning: #### Wind, 8200: table immediately after header
-Warning: ### Scrying, 11235: possible table run-on
-Warning: #### Fire-Casting Statue, 13990: duration has more than 5 words
-Warning: #### Poisoned Darts, 14034: duration has more than 5 words
-Warning: #### Gray Bag of Tricks, 14708: table immediately after header
-Warning: #### Rust Bag of Tricks, 14721: table immediately after header
-Warning: #### Tan Bag of Tricks, 14734: table immediately after header
-Warning: #### Reactions, 19204: possible mistaken mid-paragraph italic: 'Response — Wisdom Saving Throw:'
-Warning: #### Actions, 19814: possible mistaken mid-paragraph italic: 'Subsequent Failures:'
-Warning: #### Actions, 21883: possible mistaken mid-paragraph italic: 'Failure by 5 or More:'
-Warning: #### Actions, 23664: possible mistaken mid-paragraph italic: 'Failure by 5 or More:'
+Warning: ## Food, Drink, and Lodging, 6831: possible table run-on
+Warning: ## Food, Drink, and Lodging, 6840: possible table run-on
+Warning: #### Precipitation, 8177: table immediately after header
+Warning: #### Temperature, 8187: table immediately after header
+Warning: #### Wind, 8198: table immediately after header
+Warning: ### Scrying, 11233: possible table run-on
+Warning: #### Fire-Casting Statue, 13988: duration has more than 5 words
+Warning: #### Poisoned Darts, 14032: duration has more than 5 words
+Warning: #### Gray Bag of Tricks, 14706: table immediately after header
+Warning: #### Rust Bag of Tricks, 14719: table immediately after header
+Warning: #### Tan Bag of Tricks, 14732: table immediately after header
+Warning: #### Reactions, 19202: possible mistaken mid-paragraph italic: 'Response — Wisdom Saving Throw:'
+Warning: #### Actions, 19812: possible mistaken mid-paragraph italic: 'Subsequent Failures:'
+Warning: #### Actions, 21881: possible mistaken mid-paragraph italic: 'Failure by 5 or More:'
+Warning: #### Actions, 23662: possible mistaken mid-paragraph italic: 'Failure by 5 or More:'

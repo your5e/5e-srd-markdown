@@ -1,7 +1,6 @@
 # Musical Instrument
 
-**Cost:** Varies
-
+- **Cost:** Varies
 - **Ability:** Charisma
 - **Weight:** Varies
 - **Utilize:** Play a known tune (DC 10), or improvise a song (DC 15)

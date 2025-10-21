@@ -132,9 +132,9 @@ Section 5 of CC-BY-4.0 includes a Disclaimer of Warranties and Limitation of Lia
 
 @include    1-7 "markdown/Equipment/Disguise Kit.md"
 @include    1-6 "markdown/Equipment/Forgery Kit.md"
-@include    1-8 "markdown/Equipment/Gaming Set.md"
+@include    1-7 "markdown/Equipment/Gaming Set.md"
 @include    1-7 "markdown/Equipment/Herbalism Kit.md"
-@include    1-8 "markdown/Equipment/Musical Instrument.md"
+@include    1-7 "markdown/Equipment/Musical Instrument.md"
 @include    1-6 "markdown/Equipment/Navigator's Tools.md"
 @include    1-7 "markdown/Equipment/Poisoner's Kit.md"
 @include    1-6 "markdown/Equipment/Thieves' Tools.md"

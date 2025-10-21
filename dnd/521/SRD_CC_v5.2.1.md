@@ -6025,8 +6025,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 #### Gaming Set
 
-**Cost:** Varies
-
+- **Cost:** Varies
 - **Ability:** Wisdom
 - **Weight:** —
 - **Utilize:** Discern whether someone is cheating (DC 10), or win the game (DC 20)
@@ -6042,8 +6041,7 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 #### Musical Instrument
 
-**Cost:** Varies
-
+- **Cost:** Varies
 - **Ability:** Charisma
 - **Weight:** Varies
 - **Utilize:** Play a known tune (DC 10), or improvise a song (DC 15)
@@ -13916,9 +13914,9 @@ A creature subjected to Truth Serum must succeed on a DC 11 Constitution saving 
 
 #### Wyvern Poison
 
-**Cost:** 1,200 GP
-
 _Injury Poison_
+
+**Cost:** 1,200 GP
 
 A creature subjected to Wyvern Poison makes a DC 14 Constitution saving throw, taking 24 (7d6) Poison damage on a failed save or half as much damage on a successful one.
 
