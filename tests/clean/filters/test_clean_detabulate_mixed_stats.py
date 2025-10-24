@@ -121,6 +121,14 @@ class TestCleanDetabulateMixedStats(TestFilter):
             | Str 19 |    | +4 | +4       | Dex 14    | +2 | +4       | Con 17 | +3       | +3 |
             | Int    | 14 | +2 | +2       | Wis 11 | +0 | +2       | Cha 16 | +3       | +3 |
 
+            - **Speed** 0 ft., fly 50 ft. (hover)
+
+            | STR     | DEX     | CON     | INT    | WIS    | CHA    |
+            |---------|---------|---------|--------|--------|--------|
+            | 12 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 5 (-3) | 1 (-5) |
+
+            - **Saving Throws** Dex +4
+            - **Damage Immunities** poison, psychic
         """)
         expected = dedent("""\
             **Str** 19 +4 +4
@@ -167,6 +175,17 @@ class TestCleanDetabulateMixedStats(TestFilter):
             **Wis** 11 +0 +2
             **Cha** 16 +3 +3
 
+            - **Speed** 0 ft., fly 50 ft. (hover)
+
+            **Str** 12 +1 +1
+            **Dex** 15 +2 +2
+            **Con** 11 +0 +0
+            **Int** 1 -5 -5
+            **Wis** 5 -3 -3
+            **Cha** 1 -5 -5
+
+            - **Saving Throws** Dex +4
+            - **Damage Immunities** poison, psychic
         """)
 
         assert expected == self.run_text_through_filter(clean_detabulate_mixed_stats, text)
