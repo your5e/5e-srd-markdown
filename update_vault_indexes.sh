@@ -1,9 +1,14 @@
 #!/usr/bin/env -S bash -euo pipefail
 
 function main {
-    local version="${1:-521}"
-    local vault_dir="dnd/$version/obsidian_vault"
-    local markdown_dir="dnd/$version/markdown"
+    if [ $# -eq 0 ]; then
+        echo "Usage: $0 <version>" >&2
+        exit 1
+    fi
+
+    local version="$1"
+    local vault_dir="$version/obsidian_vault"
+    local markdown_dir="$version/markdown"
 
     if [ ! -d "$vault_dir" ]; then
         echo "Error: '$vault_dir' not found" >&2
@@ -14,8 +19,14 @@ function main {
     list_spells_by_level "$markdown_dir/Spells" > "$vault_dir/Spells/List of Spells by Level.md"
     list_magic_items "$markdown_dir/Magic Items" > "$vault_dir/Magic Items/List of Magic Items by A-Z.md"
     list_magic_items_by_rarity "$markdown_dir/Magic Items" > "$vault_dir/Magic Items/List of Magic Items by Rarity.md"
-    list_monsters "$markdown_dir/Monsters" > "$vault_dir/Monsters/List of Monsters by A-Z.md"
-    list_animals "$markdown_dir/Monsters" > "$vault_dir/Monsters/List of Animals by A-Z.md"
+
+    if [ "$version" = "dnd/51" ]; then
+        list_animals "$markdown_dir/Monsters" > "$vault_dir/Monsters/List of Animals by A-Z.md"
+        list_npcs "$markdown_dir/Monsters" > "$vault_dir/Monsters/List of NPCs by A-Z.md"
+    else
+        list_monsters "$markdown_dir/Monsters" > "$vault_dir/Monsters/List of Monsters by A-Z.md"
+        list_animals "$markdown_dir/Monsters" > "$vault_dir/Monsters/List of Animals by A-Z.md"
+    fi
 }
 
 function list_spells {
@@ -49,11 +60,19 @@ function list_spells_by_level {
     echo ""
 
     # Sort spell levels in specific order
-    for level in "Cantrip" "Level 1" "Level 2" "Level 3" "Level 4" "Level 5" "Level 6" "Level 7" "Level 8" "Level 9"; do
+    for level in "Cantrip" "1st Level" "2nd Level" "3rd Level" "4th Level" "5th Level" "6th Level" "7th Level" "8th Level" "9th Level"; do
         level_dir="$dir/$level"
 
         if [ ! -d "$level_dir" ]; then
-            continue
+            level="${level/st Level/Level }"
+            level="${level/nd Level/Level }"
+            level="${level/rd Level/Level }"
+            level="${level/th Level/Level }"
+            level_dir="$dir/$level"
+
+            if [ ! -d "$level_dir" ]; then
+                continue
+            fi
         fi
 
         # Print level header
@@ -148,16 +167,24 @@ function list_monsters {
 
 function list_animals {
     local dir="$1"
+    local breakdown="${version}/breakdown.md"
 
     echo "# Animals A-Z"
 
     current_letter=""
 
-    find "$dir" -name "*.md" -type f | while read -r file; do
-        if grep -q "^_.*Beast" "$file"; then
-            basename "$file" .md
-        fi
-    done | sort | while read -r animal; do
+    if [ -f "$breakdown" ] && grep -q "^# Appendix MM-A: Miscellaneous Creatures" "$breakdown"; then
+        sed -n '/^# Appendix MM-A: Miscellaneous Creatures/,/^# Appendix MM-B: Nonplayer Characters/p' "$breakdown" | \
+            grep '@include' | \
+            sed -E 's/.*".*\/([^/]+)\.md"/\1/' | \
+            sort
+    else
+        find "$dir" -name "*.md" -type f | while read -r file; do
+            if grep -q "^_.*Beast" "$file"; then
+                basename "$file" .md
+            fi
+        done | sort
+    fi | while read -r animal; do
         first_letter="${animal:0:1}"
         first_letter_upper="${first_letter^^}"
 
@@ -169,6 +196,32 @@ function list_animals {
         fi
 
         echo "- [[$animal]]"
+    done
+}
+
+function list_npcs {
+    local dir="$1"
+    local breakdown="${version}/breakdown.md"
+
+    echo "# NPCs A-Z"
+
+    current_letter=""
+
+    sed -n '/^# Appendix MM-B: Nonplayer Characters/,$p' "$breakdown" | \
+        grep '@include' | \
+        sed -E 's/.*".*\/([^/]+)\.md"/\1/' | \
+        sort | while read -r npc; do
+        first_letter="${npc:0:1}"
+        first_letter_upper="${first_letter^^}"
+
+        if [ "$first_letter_upper" != "$current_letter" ]; then
+            current_letter="$first_letter_upper"
+            echo ""
+            echo "## $current_letter"
+            echo ""
+        fi
+
+        echo "- [[$npc]]"
     done
 }
 

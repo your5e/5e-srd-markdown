@@ -51,6 +51,9 @@ Each is available as a whole Markdown file, smaller segments broken up in a
     - Re-arranged the order of the Fantasy-Historical Pantheons so that the
       table of deities appears in the description of that pantheon
     - Subclass introduction headers added to Barbarian, Bard, Cleric & Druid
+    - The monster ability tables have been reformatted to be in a different
+      layout -- score/modifier/saving throw -- and the "Saving Throw" line
+      underneath removed now it is incorporated into the table
 
 - D&D 5th edition 5.2.1 SRD (2024 rules)
 
@@ -85,6 +88,8 @@ Each is available as a whole Markdown file, smaller segments broken up in a
           including rotating statblock tables to have the abilities in the
           first column
         - split tables using mid-table headers into multiple tables
+        - monster ability tables have been reformatted to be in the format
+          score/modifier/saving throw
 
 ## Workflow for breaking the whole SRD into sections
 

@@ -120,14 +120,17 @@ def process_condition_wikilinks(lines, index, filename):
             for condition in conditions:
                 if condition not in seen:
                     # skip if condition matches filename
-                    if condition == filename:
+                    if filename and f'{condition.capitalize()}.md' == filename:
                         continue
 
                     pattern = r'\b' + re.escape(condition) + r'\b'
-                    if re.search(pattern, part, flags=re.IGNORECASE):
+                    match = re.search(pattern, part, flags=re.IGNORECASE)
+                    if match:
+                        matched_text = match.group(0)
+                        capitalized = matched_text.capitalize()
                         part = re.sub(
                             pattern,
-                            f'[[{condition}]]',
+                            f'[[{capitalized}]]',
                             part,
                             flags=re.IGNORECASE,
                             count=1,
