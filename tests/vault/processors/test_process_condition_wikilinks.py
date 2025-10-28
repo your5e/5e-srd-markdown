@@ -25,7 +25,7 @@ class TestProcessConditionWikilinks(TestFilter):
         assert text == self.run_text_through_processor(
             process_condition_wikilinks,
             text,
-            'Poisoned.md',
+            'Conditions/Poisoned.md',
         )
 
     def test_processed_text(self):
@@ -57,5 +57,5 @@ class TestProcessConditionWikilinks(TestFilter):
         assert text == self.run_text_through_processor(
             process_condition_wikilinks,
             text,
-            'Grappled.md',
+            'Conditions/Grappled.md',
         )

@@ -1,4 +1,4 @@
-name: Zip Obsidian vault
+name: Zip Obsidian vaults
 
 on:
   push:
@@ -22,7 +22,7 @@ jobs:
 
     - name: Create zips
       run: |
-        make vaults
+        make assets
 
     - name: Upload 51 zip
       uses: actions/upload-artifact@v4

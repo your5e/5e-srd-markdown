@@ -1,6 +1,6 @@
 # About the vault
 
-A conversion of the 5.1 SRD PDF to Markdown, then converted to an Obsidian vault.
+A conversion of the 5.2.1 SRD PDF to Markdown, then converted to an Obsidian vault.
 
 The [original PDF used](https://github.com/your5e/5e-srd-markdown/blob/main/dnd/521/SRD_CC_v5.2.1.pdf) and the resulting [unbroken large Markdown file](https://github.com/your5e/5e-srd-markdown/blob/main/dnd/521/SRD_CC_v5.2.1.md) are available on [GitHub](https://github.com/your5e/5e-srd-markdown).
 

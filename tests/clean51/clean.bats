@@ -82,7 +82,6 @@ setup() {
         Warning: ## Equipment, 74: table has empty header cells
         Warning: #### Traits, 293: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
         Warning: ##### Arctic, 325: table immediately after header
-        Warning: ## Luck Blade, 340: unusual Unicode characters: U+2013
         EOF
     )
 

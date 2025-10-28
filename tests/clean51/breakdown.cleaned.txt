@@ -1,0 +1,13 @@
+     1      8  "high_elf.md"
+    10     37  "barbarian.md"
+    39     93  "bard.md"
+    95    103  "berserker_axe.md"
+   105    116  "magic_missile.md"
+   118    151  "black_pudding.md"
+   153    182  "druid.md"
+   184    210  "flying sword.md"     # add saving throws to new table
+   212    230  "giant_centipede.md"
+   232    255  "hyena.md"
+   257    284  "wereboar.md"
+   286    290  "solvent.md"
+   292    299  "customising.md"

@@ -120,7 +120,9 @@ def process_condition_wikilinks(lines, index, filename):
             for condition in conditions:
                 if condition not in seen:
                     # skip if condition matches filename
-                    if filename and f'{condition.capitalize()}.md' == filename:
+                    if filename and filename.endswith(
+                        f'{condition.capitalize()}.md'
+                    ):
                         continue
 
                     pattern = r'\b' + re.escape(condition) + r'\b'

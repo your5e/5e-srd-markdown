@@ -112,42 +112,57 @@ A draft breakdown is made with
 ```
 
 and then refined by hand (as either `marker` detects far too many lines as
-headers, or the PDF was styled poorly). While refining the breakdown, this is
-run repeatedly to spot mistakes:
+headers, or the PDF was styled poorly). While refining the breakdown, this
+can be run repeatedly to spot mistakes:
 
 ```bash
 cp dnd/51/SRD_CC_v5.1.md dnd/51/breakdown.md \
-    && ./breakdown.sh -f dnd/51/breakdown.md \
+    && ./breakdown.sh -fh dnd/51/breakdown.md \
     && diff -u dnd/51/SRD_CC_v5.1.md <(./rebuild.sh dnd/51/breakdown.md)
 ```
 
+
 ### Clean the Markdown
 
-Run the cleaning script:
+Once the breakdown has been created, start looping over refinement and repair
+of the SRD Markdown using `./reprocess.sh`:
 
 ```bash
-python clean_srd.py --progress dnd/51/SRD_CC_v5.1.md
+./reprocess.sh dnd/51/SRD_CC_v5.1.md
 ```
 
-If it detects any errors it cannot fix automatically, it will issue errors and
-not process the file further. After reformatting the document, it will also
-scan for problems that might need human intervention. Any automatic changes
-will have updated the breakdown file as necessary.
+Without other arguments, it will:
 
-If warnings are emitted during cleaning that can be safely ignored, they
-can be added to an ignore file. Similarly, if any source would be modified
-in an unwanted manner, those lines can be added to a file declaring them
-already cleaned:
+- `git restore` the files being cleaned, to always be working with a
+  predictable starting base (this can be skipped with `-b`)
 
-```bash
-python clean_srd.py \
-    --progress \
-    --ignore-warnings dnd/51/ignore_warnings.txt \
-    --clean-lines dnd/51/clean_lines.txt \
-        dnd/51/SRD_CC_v5.1.md
-```
+- run the clean script, which reformats the document to remove PDF decoding
+  errors, change formatting to the preferred format, and scan for errors
+  that are hard to fix programmatically (this can be skipped with `-c`)
 
-When changing the source by hand and lines are added/removed, use
+    ```bash
+    python clean_srd.py \
+        --progress \
+        --profile "$profile" \
+        $ignore_warnings \
+            "$srd_path" "$breakdown_txt"
+    ```
+- break down the content to individual files (this can be skipped with `-b`)
+
+- rebuild the SRD from the broken down content to compare with the original,
+  to spot breakdown.txt problems, header level issues and more (this can
+  be skipped with `-d`)
+
+- filter the content again to create a cross-linked Obsidian vault (which is
+  also often the easiest way to examine individual sections in isolation to
+  find problems; this can be skipped with `-v`)
+
+If warnings are emitted during cleaning that can be safely ignored, they can
+be added to an `ignore_warnings.txt` file. Similarly, if any source would be
+modified in an unwanted manner, those lines can be added to a
+`clean_lines.txt` file.
+
+When changing the original SRD Markdown by hand and lines are added/removed, use
 `alter_lines.sh` to change the line numbers in `breakdown.txt` and
 `ignore_warnings.txt` from a specific point in the breakdown onwards:
 
@@ -155,74 +170,53 @@ When changing the source by hand and lines are added/removed, use
 ./alter_lines.sh -d dnd/51/ /black_tentacles -2
 ```
 
-### Fix header progression
+### Fixing header progression
 
 The broken down fragments of the SRD should start with a first level header.
-To help this, `breakdown.sh` will fix easy segments, and warn on any where the
-headers skip around too much. This can be suppressed with the `-f` argument.
+To help this, `breakdown.sh` fixes easy segments, and warns on any where the
+headers skip around too much. Fixing can be turned off using the `-h` option
+to `reprocess.sh`, or `-f` to `breakdown.sh` if using it directly. Likewise,
+warnings can be supressed with `-h` to `reprocess.sh`, or `-c` when using
+`breakdown.sh` directly.
 
-To look for general problems in header progression, use:
-
-```bash
-./check_headers.sh dnd/51/markdown
-```
-
-If there are warnings from `check_headers.sh` or `breakdown.sh` where they
-can't fix things automatically, they can be piped to `edit_warnings.sh` to
-open the file at the right line (in Sublime Text):
+Any warnings can be piped to `edit_warnings.sh` to open the file at the right
+line (in Sublime Text):
 
 ```bash
-./check_headers.sh dnd/51/markdown | ./edit_warnings.sh
+./breakdown.sh | ./edit_warnings.sh
+
+# or using the clipboard...
+pbpaste | ./edit_warnings.sh
 ```
 
-### Confirming the source
+### Patching content
 
-To check the SRD master file against the broken down fragments, use:
+It can be helpful to add/alter content from the SRD to improve the state of
+the vault content, by adding links etc. From a clean git state, edit the files
+then run
 
 ```bash
-diff -u dnd/51/SRD_CC_v5.1.md <(./rebuild.sh dnd/51/breakdown.md)
+# to patch the breakdown files
+./patches.sh dnd/51/markdown create
+
+# to patch only the vault
+./patches.sh dnd/51/obsidian_vault create
 ```
 
-### Create an Obsidian vault
+In general, patch the original Markdown files if you want to add more content
+so the vault filters apply, and patch the vault if the filters are doing the
+wrong thing (such as linking to the condition Invisible when referring to the
+Invisible Stalker).
 
-Once the SRD is edited, create a copy to use as an Obsidian vault.
+Patches are kept rather than changing the content so that automated tests
+still pass when comparing the Markdown fragments to the original document.
 
-```bash
-python update_vault.py \
-    --progress \
-        dnd/51/markdown \
-        dnd/51/obsidian_vault
-```
-
-Some words that are also conditions (eg invisible) may be incorrectly linked.
-The lines that they are on can be added to `ignore_vault.txt` so that they
-won't be re-created when re-running the script:
-
-```bash
-python update_vault.py \
-    --progress \
-    --ignore dnd/51/ignore_vault.txt \
-        dnd/51/markdown \
-        dnd/51/obsidian_vault
-```
-
-And where files need to be altered after the script has run in a way that
-would be overwritten (eg creating more wikilinks that would be removed again),
-after editing the files, create patches:
-
-```bash
-./vault_patches.sh create dnd/51
-```
-
-that can then be restored later:
-
-```bash
-./vault_patches.sh apply dnd/51
-```
 
 ## Changing the code
 
-Every script should have a test suite.
+Every script should have a test suite. Every filter in the `clean_srd.py`
+and `update_vault.py` scripts should be individally tested, as well as having
+whole-document integration tests.
 
 - `make test` runs all the code tests
 - `make ci` runs all the code tests, and a couple more

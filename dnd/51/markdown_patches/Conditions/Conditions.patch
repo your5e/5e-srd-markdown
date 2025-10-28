@@ -1,0 +1,22 @@
+--- Conditions/Conditions.md
++++ Conditions/Conditions.md
+@@ -7,3 +7,19 @@ A condition lasts either until it is countered (the prone condition is countered
+ If multiple effects impose the same condition on a creature, each instance of the condition has its own duration, but the condition's effects don't get worse. A creature either has a condition or doesn't.
+ 
+ The following definitions specify what happens to a creature while it is subjected to a condition.
++
++- [[Blinded]]
++- [[Charmed]]
++- [[Deafened]]
++- [[Exhaustion]]
++- [[Frightened]]
++- [[Grappled]]
++- [[Incapacitated]]
++- [[Invisible]]
++- [[Paralyzed]]
++- [[Petrified]]
++- [[Poisoned]]
++- [[Prone]]
++- [[Restrained]]
++- [[Stunned]]
++- [[Unconscious]]
