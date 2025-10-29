@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 
 - nothing
 
-## [v0.3] — 2025-10-29
+## [v0.3.1] — 2025-10-29
 
 - Renamed files in the 5.1 vault so linking is easier
 - Included "About the vault" and index pages (that include the legal info),
