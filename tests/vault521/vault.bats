@@ -11,7 +11,6 @@ teardown() {
 
 @test "update_vault.py converts files" {
     run python update_vault.py \
-        --profile dnd521 \
         "$BATS_TEST_TMPDIR/source" "$BATS_TEST_TMPDIR/vault"
 
     while IFS= read -r -d '' original; do

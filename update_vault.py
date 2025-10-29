@@ -382,7 +382,12 @@ def main():
     )
     args = parser.parse_args()
 
-    update_vault(args.source, args.vault, args.progress, args.ignore, args.profile)
+    profile = args.profile
+    if not profile:
+        parts = Path(args.source).parts
+        profile = parts[0] + parts[1]
+
+    update_vault(args.source, args.vault, args.progress, args.ignore, profile)
 
 
 if __name__ == "__main__":

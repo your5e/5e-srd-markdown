@@ -143,7 +143,6 @@ Without other arguments, it will:
     ```bash
     python clean_srd.py \
         --progress \
-        --profile "$profile" \
         $ignore_warnings \
             "$srd_path" "$breakdown_txt"
     ```

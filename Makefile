@@ -17,7 +17,7 @@ assets: vault-dnd51-zip vault-dnd521-zip
 
 vault-dnd51:
 	./patches.sh dnd/51/markdown apply
-	python update_vault.py --profile dnd51 dnd/51/markdown dnd/51/obsidian_vault
+	python update_vault.py dnd/51/markdown dnd/51/obsidian_vault
 	./update_vault_indexes.sh dnd/51
 	./patches.sh dnd/51/obsidian_vault apply
 
@@ -27,7 +27,7 @@ vault-dnd51-zip: vault-dnd51
 
 vault-dnd521:
 	./patches.sh dnd/521/markdown apply
-	python update_vault.py --profile dnd521 dnd/521/markdown dnd/521/obsidian_vault
+	python update_vault.py dnd/521/markdown dnd/521/obsidian_vault
 	./update_vault_indexes.sh dnd/521
 	./patches.sh dnd/521/obsidian_vault apply
 
