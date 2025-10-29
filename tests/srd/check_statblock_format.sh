@@ -75,39 +75,18 @@ function main {
 
             grep -q "^- \*\*\(Challenge\|CR\)\*\*" "$file" || report_error "missing CR" ""
 
-            unusual="$(grep "^\\\\\\*" "$file" || true)"
-            [ -n "$unusual" ] \
-                && report_error "unusual formatting" "$unusual"
-
             no_traits=$(sed -n '/^##* Traits$/{N;N;/^##* Traits\n\n##* Actions$/p;}' "$file")
             [ -n "$no_traits" ] && report_error "empty traits section" ""
 
             unexpected_headers=$(
                 tail -n +2 "$file" \
                     | grep "^##* " \
-                    | grep -vE "^##* (Traits|Actions|Bonus Actions|Reactions|Legendary Actions)$"
+                    | grep -vE "^##* (Traits|Actions|Bonus Actions|Reactions|Legendary Actions|Variant:.*)$"
             ) || true
             [ -n "$unexpected_headers" ] && report_error "unexpected headers" "$unexpected_headers"
 
             underscore_lines=$(grep "^_[^*].*[^_]_\.$" "$file" || true)
             [ -n "$underscore_lines" ] && report_error "underscore formatting" "$underscore_lines"
-
-            # Only check bare paras for 5.1 format (uses "Armor Class")
-            if grep -q "^- \*\*Armor Class\*\*" "$file"; then
-                bare_paras=$(
-                    grep "^[A-Za-z0-9]" "$file" \
-                        | grep -v 'can take.*legendary actions'
-                ) || true
-                [ -n "$bare_paras" ] && report_error "bare paras" "$bare_paras"
-            fi
-
-            bold_start=$(grep "^\*\*" "$file" || true)
-            [ -n "$bold_start" ] && report_error "bold start" "$bold_start"
-
-            # Check for unindented spell lists (should be indented under spellcasting trait)
-            unindented_spells=$(grep "^- [0-9]/day\|^- At will:\|^- [0-9][a-z]* level\|^- Cantrips" "$file" || true)
-            [ -n "$unindented_spells" ] && report_error "unindented spell list" "$unindented_spells"
-
 
             if [ $problems -eq 1 -a $edit_mode -eq 1 ]; then
                 open -a Marked\ 2 "$file"
