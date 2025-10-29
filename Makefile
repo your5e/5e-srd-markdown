@@ -1,3 +1,5 @@
+MAKEFLAGS += --no-print-directory
+
 .PHONY: flake8 test ci vaults vault-dnd51 vault-dnd51-zip vault-dnd521 vault-dnd521-zip assets push pull
 
 flake8:
