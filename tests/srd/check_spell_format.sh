@@ -31,9 +31,9 @@ function extract_spell_level {
     local level_line=$(sed -n '3p' "$file")
 
     if [[ "$level_line" =~ _.*[Cc]antrip.* ]]; then
-        echo "Cantrip"
+        echo "cantrip"
     elif [[ "$level_line" =~ _([0-9]+)(st|nd|rd|th)-level ]]; then
-        echo "${BASH_REMATCH[1]}${BASH_REMATCH[2]}_level"
+        echo "${BASH_REMATCH[1]}${BASH_REMATCH[2]} Level"
     else
         echo "unknown_level"
     fi

@@ -10,6 +10,11 @@ teardown() {
     rm -rf "$BATS_TEST_TMPDIR/vault" "$BATS_TEST_TMPDIR/source"
 }
 
+@test "filter tests pass" {
+    run python -m pytest tests/vault/processors
+    [ "$status" -eq 0 ]
+}
+
 @test "update_vault.py converts files" {
     skip "FIXME: the 5.1 SRD needs to be updated to use proper filenames"
 
@@ -19,6 +24,7 @@ teardown() {
     )
 
     run python update_vault.py \
+        --profile dnd51 \
         --ignore $BATS_TEST_TMPDIR/source/ignore.txt \
             "$BATS_TEST_TMPDIR/source" \
             "$BATS_TEST_TMPDIR/vault"

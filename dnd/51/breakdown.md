@@ -1,6 +1,6 @@
 # Legal Information
 
-The System Reference Document 5.1 is provided to you free of charge under the terms of the Creative Commons [Attribution 4.0 International License \("CC-BY-4.0"\). You are free](https://creativecommons.org/licenses/by/4.0/legalcode) to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
+The System Reference Document 5.1 is provided to you free of charge under the terms of the Creative Commons [Attribution 4.0 International License \("CC-BY-4.0"\)](https://creativecommons.org/licenses/by/4.0/legalcode). You are free to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
 
 > This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at [https://creativecommons.org/licenses/by/4.0/legalcode.](https://creativecommons.org/licenses/by/4.0/legalcode)
 
@@ -10,1233 +10,1233 @@ Section 5 of CC-BY-4.0 includes a Disclaimer of Warranties and Limitation of Lia
 
 If you note any errors in this document, please let us know by emailing askdnd@wizards.com.
 
-@include    markdown/races/races.md
+@include    1-33 "markdown/Races/Races.md"
 @adjust 1
-@include    markdown/races/dwarf.md
-@include    markdown/races/elf.md
-@include    markdown/races/halfling.md
-@include    markdown/races/human.md
-@include    markdown/races/dragonborn.md
-@include    markdown/races/gnome.md
-@include    markdown/races/half_elf.md
-@include    markdown/races/half_orc.md
-@include-   markdown/races/tiefling.md
+@include    1-35 "markdown/Races/Dwarf.md"
+@include    1-37 "markdown/Races/Elf.md"
+@include    1-33 "markdown/Races/Halfling.md"
+@include    1-17 "markdown/Races/Human.md"
+@include    1-42 "markdown/Races/Dragonborn.md"
+@include    1-37 "markdown/Races/Gnome.md"
+@include    1-21 "markdown/Races/Half-Elf.md"
+@include    1-25 "markdown/Races/Half-Orc.md"
+@include-   1-23 "markdown/Races/Tiefling.md"
 @adjust 0
 
-@include    markdown/classes/barbarian/barbarian.md
-@include    markdown/classes/bard/bard.md
-@include    markdown/classes/cleric/cleric.md
-@include    markdown/classes/druid/druid.md
-@include    markdown/classes/fighter/fighter.md
-@include    markdown/classes/monk/monk.md
-@include    markdown/classes/paladin/paladin.md
-@include    markdown/classes/ranger/ranger.md
-@include    markdown/classes/rogue/rogue.md
-@include    markdown/classes/sorcerer/sorcerer.md
-@include    markdown/classes/warlock/warlock.md
-@include-   markdown/classes/wizard/wizard.md
+@include    1-152 "markdown/Classes/Barbarian/Barbarian.md"
+@include    1-172 "markdown/Classes/Bard/Bard.md"
+@include    1-183 "markdown/Classes/Cleric/Cleric.md"
+@include    1-249 "markdown/Classes/Druid/Druid.md"
+@include    1-141 "markdown/Classes/Fighter/Fighter.md"
+@include    1-194 "markdown/Classes/Monk/Monk.md"
+@include    1-248 "markdown/Classes/Paladin/Paladin.md"
+@include    1-213 "markdown/Classes/Ranger/Ranger.md"
+@include    1-145 "markdown/Classes/Rogue/Rogue.md"
+@include    1-221 "markdown/Classes/Sorcerer/Sorcerer.md"
+@include    1-372 "markdown/Classes/Warlock/Warlock.md"
+@include-   1-170 "markdown/Classes/Wizard/Wizard.md"
 
-@include    markdown/character/advancement.md
-@include    markdown/character/multiclassing.md
-@include    markdown/character/alignment.md
-@include    markdown/character/languages.md
-@include    markdown/character/inspiration.md
-@include    markdown/character/backgrounds.md
-@include    markdown/backgrounds/acolyte.md
-@include    markdown/equipment/equipment.md
-@include    markdown/equipment/armor.md
-@include    markdown/equipment/weapons.md
-@include    markdown/equipment/adventuring_gear.md
-@include    markdown/equipment/tools.md
-@include    markdown/equipment/mounts_and_vehicles.md
-@include    markdown/equipment/trade_goods.md
-@include    markdown/equipment/expenses.md
-@include    markdown/feats/feats.md
-@include    markdown/feats/grappler.md
-@include-   markdown/abilities/ability_scores.md
+@include    1-36 "markdown/Character/Beyond 1st Level.md"
+@include    1-120 "markdown/Character/Multiclassing.md"
+@include    1-25 "markdown/Character/Alignment.md"
+@include    1-33 "markdown/Character/Languages.md"
+@include    1-15 "markdown/Character/Inspiration.md"
+@include    1-31 "markdown/Character/Backgrounds.md"
+@include    1-57 "markdown/Backgrounds/Acolyte.md"
+@include    1-35 "markdown/Equipment/Equipment.md"
+@include    1-97 "markdown/Equipment/Armor.md"
+@include    1-112 "markdown/Equipment/Weapons.md"
+@include    1-230 "markdown/Equipment/Adventuring Gear.md"
+@include    1-73 "markdown/Equipment/Tools.md"
+@include    1-61 "markdown/Equipment/Mounts and Vehicles.md"
+@include    1-23 "markdown/Equipment/Trade Goods.md"
+@include    1-100 "markdown/Equipment/Expenses.md"
+@include    1-7 "markdown/Feats/Feats.md"
+@include    1-8 "markdown/Feats/Grappler.md"
+@include-   1-175 "markdown/Abilities/Using Ability Scores.md"
+@adjust 1
 
 # Using Each Ability
 
 Every task that a character or monster might attempt in the game is covered by one of the six abilities. This section explains in more detail what those abilities mean and the ways they are used in the game.
 
-@adjust 1
-@include    markdown/abilities/strength.md
-@include    markdown/abilities/dexterity.md
-@include    markdown/abilities/constitution.md
-@include    markdown/abilities/intelligence.md
-@include    markdown/abilities/wisdom.md
-@include    markdown/abilities/charisma.md
+@include    1-44 "markdown/Abilities/Strength.md"
+@include    1-48 "markdown/Abilities/Dexterity.md"
+@include    1-21 "markdown/Abilities/Constitution.md"
+@include    1-30 "markdown/Abilities/Intelligence.md"
+@include    1-26 "markdown/Abilities/Wisdom.md"
+@include    1-24 "markdown/Abilities/Charisma.md"
 @adjust 0
-@include-   markdown/abilities/saving_throws.md
+@include-   1-13 "markdown/Abilities/Saving Throws.md"
 
-@include-   markdown/time/time.md
+@include-   1-9 "markdown/Time/Time.md"
 
-@include-   markdown/movement/movement.md
+@include-   1-63 "markdown/Movement/Movement.md"
 
-@include-   markdown/environment/environment.md
+@include-   1-71 "markdown/Environment/The Environment.md"
 
-@include    markdown/resting/resting.md
-@include  1 markdown/resting/short_rest.md
-@include- 1 markdown/resting/long_rest.md
+@include    1-5 "markdown/Resting/Resting.md"
+@include  1 1-5 "markdown/Resting/Short Rest.md"
+@include- 1 1-7 "markdown/Resting/Long Rest.md"
 
-@include-   markdown/between_adventures/between_adventures.md
+@include-   1-60 "markdown/Between Adventures/Between Adventures.md"
 
-@include    markdown/combat/the_order_of_combat.md
-@include    markdown/combat/movement_and_position.md
-@include    markdown/combat/actions_in_combat.md
-@include    markdown/combat/making_an_attack.md
-@include    markdown/combat/cover.md
-@include    markdown/combat/damage_and_healing.md
-@include    markdown/combat/mounted_combat.md
-@include-   markdown/combat/underwater_combat.md
-
+@include    1-63 "markdown/Combat/The Order of Combat.md"
+@include    1-104 "markdown/Combat/Movement and Position.md"
+@include    1-59 "markdown/Combat/Actions in Combat.md"
+@include    1-97 "markdown/Combat/Making an Attack.md"
+@include    1-11 "markdown/Combat/Cover.md"
+@include    1-131 "markdown/Combat/Damage and Healing.md"
+@include    1-23 "markdown/Combat/Mounted Combat.md"
+@include-   1-9 "markdown/Combat/Underwater Combat.md"
 @adjust 1
-@include  0 markdown/spellcasting/spellcasting.md
-@include    markdown/spellcasting/casting.md
-@include  2 markdown/spellcasting/schools_of_magic.md
-@include-   markdown/spellcasting/combining.md
+
+@include  0 1-55 "markdown/Spellcasting/Spellcasting.md"
+@include    1-139 "markdown/Spellcasting/Casting a Spell.md"
+@include  2 1-17 "markdown/Spellcasting/The Schools of Magic.md"
+@include-   1-5 "markdown/Spellcasting/Combining Magical Effects.md"
 
 # Spell Lists
 
-@include    markdown/classes/bard/bard_spells.md
-@include    markdown/classes/cleric/cleric_spells.md
-@include    markdown/classes/druid/druid_spells.md
-@include    markdown/classes/paladin/paladin_spells.md
-@include    markdown/classes/ranger/ranger_spells.md
-@include    markdown/classes/sorcerer/sorcerer_spells.md
-@include    markdown/classes/warlock/warlock_spells.md
-@include-   markdown/classes/wizard/wizard_spells.md
+@include    1-143 "markdown/Classes/Bard/Bard Spells.md"
+@include    1-135 "markdown/Classes/Cleric/Cleric Spells.md"
+@include    1-135 "markdown/Classes/Druid/Druid Spells.md"
+@include    1-47 "markdown/Classes/Paladin/Paladin Spells.md"
+@include    1-52 "markdown/Classes/Ranger/Ranger Spells.md"
+@include    1-150 "markdown/Classes/Sorcerer/Sorcerer Spells.md"
+@include    1-95 "markdown/Classes/Warlock/Warlock Spells.md"
+@include-   1-232 "markdown/Classes/Wizard/Wizard Spells.md"
 
 # Spell Descriptions
 
-@include    markdown/spells/2nd_level/acid_arrow.md
-@include    markdown/spells/cantrip/acid_splash.md
-@include    markdown/spells/2nd_level/aid.md
-@include    markdown/spells/1st_level/alarm.md
-@include    markdown/spells/2nd_level/alter_self.md
-@include    markdown/spells/1st_level/animal_friendship.md
-@include    markdown/spells/2nd_level/animal_messenger.md
-@include    markdown/spells/8th_level/animal_shapes.md
-@include    markdown/spells/3rd_level/animate_dead.md
-@include    markdown/spells/5th_level/animate_objects.md
-@include    markdown/spells/5th_level/antilife_shell.md
-@include    markdown/spells/8th_level/antimagic_field.md
-@include    markdown/spells/8th_level/antipathy_sympathy.md
-@include    markdown/spells/4th_level/arcane_eye.md
-@include    markdown/spells/5th_level/arcane_hand.md
-@include    markdown/spells/2nd_level/arcane_lock.md
-@include    markdown/spells/7th_level/arcane_sword.md
-@include    markdown/spells/2nd_level/arcanists_magic_aura.md
-@include    markdown/spells/9th_level/astral_projection.md
-@include    markdown/spells/2nd_level/augury.md
-@include    markdown/spells/5th_level/awaken.md
-@include    markdown/spells/1st_level/bane.md
-@include    markdown/spells/4th_level/banishment.md
-@include    markdown/spells/2nd_level/barkskin.md
-@include    markdown/spells/3rd_level/beacon_of_hope.md
-@include    markdown/spells/3rd_level/bestow_curse.md
-@include    markdown/spells/4th_level/black_tentacles.md
-@include    markdown/spells/6th_level/blade_barrier.md
-@include    markdown/spells/1st_level/bless.md
-@include    markdown/spells/4th_level/blight.md
-@include    markdown/spells/2nd_level/blindness_deafness.md
-@include    markdown/spells/3rd_level/blink.md
-@include    markdown/spells/2nd_level/blur.md
-@include    markdown/spells/2nd_level/branding_smite.md
-@include    markdown/spells/1st_level/burning_hands.md
-@include    markdown/spells/3rd_level/call_lightning.md
-@include    markdown/spells/2nd_level/calm_emotions.md
-@include    markdown/spells/6th_level/chain_lightning.md
-@include    markdown/spells/1st_level/charm_person.md
-@include    markdown/spells/cantrip/chill_touch.md
-@include    markdown/spells/6th_level/circle_of_death.md
-@include    markdown/spells/3rd_level/clairvoyance.md
-@include    markdown/spells/8th_level/clone.md
-@include    markdown/spells/5th_level/cloudkill.md
-@include    markdown/spells/1st_level/color_spray.md
-@include    markdown/spells/1st_level/command.md
-@include    markdown/spells/5th_level/commune.md
-@include    markdown/spells/5th_level/commune_with_nature.md
-@include    markdown/spells/1st_level/comprehend_languages.md
-@include    markdown/spells/4th_level/compulsion.md
-@include    markdown/spells/5th_level/cone_of_cold.md
-@include    markdown/spells/4th_level/confusion.md
-@include    markdown/spells/3rd_level/conjure_animals.md
-@include    markdown/spells/7th_level/conjure_celestial.md
-@include    markdown/spells/5th_level/conjure_elemental.md
-@include    markdown/spells/6th_level/conjure_fey.md
-@include    markdown/spells/4th_level/conjure_minor_elementals.md
-@include    markdown/spells/4th_level/conjure_woodland_beings.md
-@include    markdown/spells/5th_level/contact_other_plane.md
-@include    markdown/spells/5th_level/contagion.md
-@include    markdown/spells/6th_level/contingency.md
-@include    markdown/spells/2nd_level/continual_flame.md
-@include    markdown/spells/4th_level/control_water.md
-@include    markdown/spells/8th_level/control_weather.md
-@include    markdown/spells/3rd_level/counterspell.md
-@include    markdown/spells/3rd_level/create_food_and_water.md
-@include    markdown/spells/1st_level/create_or_destroy_water.md
-@include    markdown/spells/6th_level/create_undead.md
-@include    markdown/spells/5th_level/creation.md
-@include    markdown/spells/1st_level/cure_wounds.md
-@include    markdown/spells/cantrip/dancing_lights.md
-@include    markdown/spells/2nd_level/darkness.md
-@include    markdown/spells/2nd_level/darkvision.md
-@include    markdown/spells/3rd_level/daylight.md
-@include    markdown/spells/4th_level/death_ward.md
-@include    markdown/spells/7th_level/delayed_blast_fireball.md
-@include    markdown/spells/8th_level/demiplane.md
-@include    markdown/spells/1st_level/detect_evil_and_good.md
-@include    markdown/spells/1st_level/detect_magic.md
-@include    markdown/spells/1st_level/detect_poison_and_disease.md
-@include    markdown/spells/2nd_level/detect_thoughts.md
-@include    markdown/spells/4th_level/dimension_door.md
-@include    markdown/spells/1st_level/disguise_self.md
-@include    markdown/spells/6th_level/disintegrate.md
-@include    markdown/spells/5th_level/dispel_evil_and_good.md
-@include    markdown/spells/3rd_level/dispel_magic.md
-@include    markdown/spells/4th_level/divination.md
-@include    markdown/spells/1st_level/divine_favor.md
-@include    markdown/spells/7th_level/divine_word.md
-@include    markdown/spells/4th_level/dominate_beast.md
-@include    markdown/spells/8th_level/dominate_monster.md
-@include    markdown/spells/5th_level/dominate_person.md
-@include    markdown/spells/5th_level/dream.md
-@include    markdown/spells/cantrip/druidcraft.md
-@include    markdown/spells/8th_level/earthquake.md
-@include    markdown/spells/cantrip/eldritch_blast.md
-@include    markdown/spells/2nd_level/enhance_ability.md
-@include    markdown/spells/2nd_level/enlarge_reduce.md
-@include    markdown/spells/1st_level/entangle.md
-@include    markdown/spells/2nd_level/enthrall.md
-@include    markdown/spells/7th_level/etherealness.md
-@include    markdown/spells/1st_level/expeditious_retreat.md
-@include    markdown/spells/6th_level/eyebite.md
-@include    markdown/spells/4th_level/fabricate.md
-@include    markdown/spells/1st_level/faerie_fire.md
-@include    markdown/spells/4th_level/faithful_hound.md
-@include    markdown/spells/1st_level/false_life.md
-@include    markdown/spells/3rd_level/fear.md
-@include    markdown/spells/1st_level/feather_fall.md
-@include    markdown/spells/8th_level/feeblemind.md
-@include    markdown/spells/1st_level/find_familiar.md
-@include    markdown/spells/2nd_level/find_steed.md
-@include    markdown/spells/6th_level/find_the_path.md
-@include    markdown/spells/2nd_level/find_traps.md
-@include    markdown/spells/7th_level/finger_of_death.md
-@include    markdown/spells/3rd_level/fireball.md
-@include    markdown/spells/cantrip/fire_bolt.md
-@include    markdown/spells/4th_level/fire_shield.md
-@include    markdown/spells/7th_level/fire_storm.md
-@include    markdown/spells/2nd_level/flame_blade.md
-@include    markdown/spells/5th_level/flame_strike.md
-@include    markdown/spells/2nd_level/flaming_sphere.md
-@include    markdown/spells/6th_level/flesh_to_stone.md
-@include    markdown/spells/1st_level/floating_disk.md
-@include    markdown/spells/3rd_level/fly.md
-@include    markdown/spells/1st_level/fog_cloud.md
-@include    markdown/spells/6th_level/forbiddance.md
-@include    markdown/spells/7th_level/forcecage.md
-@include    markdown/spells/9th_level/foresight.md
-@include    markdown/spells/4th_level/freedom_of_movement.md
-@include    markdown/spells/6th_level/freezing_sphere.md
-@include    markdown/spells/3rd_level/gaseous_form.md
-@include    markdown/spells/9th_level/gate.md
-@include    markdown/spells/5th_level/geas.md
-@include    markdown/spells/2nd_level/gentle_repose.md
-@include    markdown/spells/4th_level/giant_insect.md
-@include    markdown/spells/8th_level/glibness.md
-@include    markdown/spells/6th_level/globe_of_invulnerability.md
-@include    markdown/spells/3rd_level/glyph_of_warding.md
-@include    markdown/spells/1st_level/goodberry.md
-@include    markdown/spells/1st_level/grease.md
-@include    markdown/spells/4th_level/greater_invisibility.md
-@include    markdown/spells/5th_level/greater_restoration.md
-@include    markdown/spells/4th_level/guardian_of_faith.md
-@include    markdown/spells/6th_level/guards_and_wards.md
-@include    markdown/spells/cantrip/guidance.md
-@include    markdown/spells/1st_level/guiding_bolt.md
-@include    markdown/spells/2nd_level/gust_of_wind.md
-@include    markdown/spells/5th_level/hallow.md
-@include    markdown/spells/4th_level/hallucinatory_terrain.md
-@include    markdown/spells/6th_level/harm.md
-@include    markdown/spells/3rd_level/haste.md
-@include    markdown/spells/6th_level/heal.md
-@include    markdown/spells/1st_level/healing_word.md
-@include    markdown/spells/2nd_level/heat_metal.md
-@include    markdown/spells/1st_level/hellish_rebuke.md
-@include    markdown/spells/6th_level/heroes_feast.md
-@include    markdown/spells/1st_level/heroism.md
-@include    markdown/spells/1st_level/hideous_laughter.md
-@include    markdown/spells/5th_level/hold_monster.md
-@include    markdown/spells/2nd_level/hold_person.md
-@include    markdown/spells/8th_level/holy_aura.md
-@include    markdown/spells/1st_level/hunters_mark.md
-@include    markdown/spells/3rd_level/hypnotic_pattern.md
-@include    markdown/spells/4th_level/ice_storm.md
-@include    markdown/spells/1st_level/identify.md
-@include    markdown/spells/1st_level/illusory_script.md
-@include    markdown/spells/9th_level/imprisonment.md
-@include    markdown/spells/8th_level/incendiary_cloud.md
-@include    markdown/spells/1st_level/inflict_wounds.md
-@include    markdown/spells/5th_level/insect_plague.md
-@include    markdown/spells/6th_level/instant_summons.md
-@include    markdown/spells/2nd_level/invisibility.md
-@include    markdown/spells/6th_level/irresistible_dance.md
-@include    markdown/spells/1st_level/jump.md
-@include    markdown/spells/2nd_level/knock.md
-@include    markdown/spells/5th_level/legend_lore.md
-@include    markdown/spells/2nd_level/lesser_restoration.md
-@include    markdown/spells/2nd_level/levitate.md
-@include    markdown/spells/cantrip/light.md
-@include    markdown/spells/3rd_level/lightning_bolt.md
-@include    markdown/spells/2nd_level/locate_animals_or_plants.md
-@include    markdown/spells/4th_level/locate_creature.md
-@include    markdown/spells/2nd_level/locate_object.md
-@include    markdown/spells/1st_level/longstrider.md
-@include    markdown/spells/1st_level/mage_armor.md
-@include    markdown/spells/cantrip/mage_hand.md
-@include    markdown/spells/3rd_level/magic_circle.md
-@include    markdown/spells/6th_level/magic_jar.md
-@include    markdown/spells/1st_level/magic_missile.md
-@include    markdown/spells/2nd_level/magic_mouth.md
-@include    markdown/spells/2nd_level/magic_weapon.md
-@include    markdown/spells/7th_level/magnificent_mansion.md
-@include    markdown/spells/3rd_level/major_image.md
-@include    markdown/spells/5th_level/mass_cure_wounds.md
-@include    markdown/spells/9th_level/mass_heal.md
-@include    markdown/spells/3rd_level/mass_healing_word.md
-@include    markdown/spells/6th_level/mass_suggestion.md
-@include    markdown/spells/8th_level/maze.md
-@include    markdown/spells/3rd_level/meld_into_stone.md
-@include    markdown/spells/cantrip/mending.md
-@include    markdown/spells/cantrip/message.md
-@include    markdown/spells/9th_level/meteor_swarm.md
-@include    markdown/spells/8th_level/mind_blank.md
-@include    markdown/spells/cantrip/minor_illusion.md
-@include    markdown/spells/7th_level/mirage_arcane.md
-@include    markdown/spells/2nd_level/mirror_image.md
-@include    markdown/spells/5th_level/mislead.md
-@include    markdown/spells/2nd_level/misty_step.md
-@include    markdown/spells/5th_level/modify_memory.md
-@include    markdown/spells/2nd_level/moonbeam.md
-@include    markdown/spells/6th_level/move_earth.md
-@include    markdown/spells/3rd_level/nondetection.md
-@include    markdown/spells/2nd_level/pass_without_trace.md
-@include    markdown/spells/5th_level/passwall.md
-@include    markdown/spells/4th_level/phantasmal_killer.md
-@include    markdown/spells/3rd_level/phantom_steed.md
-@include    markdown/spells/6th_level/planar_ally.md
-@include    markdown/spells/5th_level/planar_binding.md
-@include    markdown/spells/7th_level/plane_shift.md
-@include    markdown/spells/3rd_level/plant_growth.md
-@include    markdown/spells/cantrip/poison_spray.md
-@include    markdown/spells/4th_level/polymorph.md
-@include    markdown/spells/9th_level/power_word_kill.md
-@include    markdown/spells/8th_level/power_word_stun.md
-@include    markdown/spells/2nd_level/prayer_of_healing.md
-@include    markdown/spells/cantrip/prestidigitation.md
-@include    markdown/spells/7th_level/prismatic_spray.md
-@include    markdown/spells/9th_level/prismatic_wall.md
-@include    markdown/spells/4th_level/private_sanctum.md
-@include    markdown/spells/cantrip/produce_flame.md
-@include    markdown/spells/6th_level/programmed_illusion.md
-@include    markdown/spells/7th_level/project_image.md
-@include    markdown/spells/3rd_level/protection_from_energy.md
-@include    markdown/spells/1st_level/protection_from_evil_and_good.md
-@include    markdown/spells/2nd_level/protection_from_poison.md
-@include    markdown/spells/1st_level/purify_food_and_drink.md
-@include    markdown/spells/5th_level/raise_dead.md
-@include    markdown/spells/2nd_level/ray_of_enfeeblement.md
-@include    markdown/spells/cantrip/ray_of_frost.md
-@include    markdown/spells/7th_level/regenerate.md
-@include    markdown/spells/5th_level/reincarnate.md
-@include    markdown/spells/3rd_level/remove_curse.md
-@include    markdown/spells/4th_level/resilient_sphere.md
-@include    markdown/spells/cantrip/resistance.md
-@include    markdown/spells/7th_level/resurrection.md
-@include    markdown/spells/7th_level/reverse_gravity.md
-@include    markdown/spells/3rd_level/revivify.md
-@include    markdown/spells/2nd_level/rope_trick.md
-@include    markdown/spells/cantrip/sacred_flame.md
-@include    markdown/spells/1st_level/sanctuary.md
-@include    markdown/spells/2nd_level/scorching_ray.md
-@include    markdown/spells/5th_level/scrying.md
-@include    markdown/spells/4th_level/secret_chest.md
-@include    markdown/spells/2nd_level/see_invisibility.md
-@include    markdown/spells/5th_level/seeming.md
-@include    markdown/spells/3rd_level/sending.md
-@include    markdown/spells/7th_level/sequester.md
-@include    markdown/spells/9th_level/shapechange.md
-@include    markdown/spells/2nd_level/shatter.md
-@include    markdown/spells/1st_level/shield.md
-@include    markdown/spells/1st_level/shield_of_faith.md
-@include    markdown/spells/cantrip/shillelagh.md
-@include    markdown/spells/cantrip/shocking_grasp.md
-@include    markdown/spells/2nd_level/silence.md
-@include    markdown/spells/1st_level/silent_image.md
-@include    markdown/spells/7th_level/simulacrum.md
-@include    markdown/spells/1st_level/sleep.md
-@include    markdown/spells/3rd_level/sleet_storm.md
-@include    markdown/spells/3rd_level/slow.md
-@include    markdown/spells/cantrip/spare_the_dying.md
-@include    markdown/spells/1st_level/speak_with_animals.md
-@include    markdown/spells/3rd_level/speak_with_dead.md
-@include    markdown/spells/3rd_level/speak_with_plants.md
-@include    markdown/spells/2nd_level/spider_climb.md
-@include    markdown/spells/2nd_level/spike_growth.md
-@include    markdown/spells/3rd_level/spirit_guardians.md
-@include    markdown/spells/2nd_level/spiritual_weapon.md
-@include    markdown/spells/3rd_level/stinking_cloud.md
-@include    markdown/spells/4th_level/stone_shape.md
-@include    markdown/spells/4th_level/stoneskin.md
-@include    markdown/spells/9th_level/storm_of_vengeance.md
-@include    markdown/spells/2nd_level/suggestion.md
-@include    markdown/spells/6th_level/sunbeam.md
-@include    markdown/spells/8th_level/sunburst.md
-@include    markdown/spells/7th_level/symbol.md
-@include    markdown/spells/5th_level/telekinesis.md
-@include    markdown/spells/5th_level/telepathic_bond.md
-@include    markdown/spells/7th_level/teleport.md
-@include    markdown/spells/5th_level/teleportation_circle.md
-@include    markdown/spells/cantrip/thaumaturgy.md
-@include    markdown/spells/1st_level/thunderwave.md
-@include    markdown/spells/9th_level/time_stop.md
-@include    markdown/spells/3rd_level/tiny_hut.md
-@include    markdown/spells/3rd_level/tongues.md
-@include    markdown/spells/6th_level/transport_via_plants.md
-@include    markdown/spells/5th_level/tree_stride.md
-@include    markdown/spells/9th_level/true_polymorph.md
-@include    markdown/spells/9th_level/true_resurrection.md
-@include    markdown/spells/6th_level/true_seeing.md
-@include    markdown/spells/cantrip/true_strike.md
-@include    markdown/spells/1st_level/unseen_servant.md
-@include    markdown/spells/3rd_level/vampiric_touch.md
-@include    markdown/spells/cantrip/vicious_mockery.md
-@include    markdown/spells/4th_level/wall_of_fire.md
-@include    markdown/spells/5th_level/wall_of_force.md
-@include    markdown/spells/6th_level/wall_of_ice.md
-@include    markdown/spells/5th_level/wall_of_stone.md
-@include    markdown/spells/6th_level/wall_of_thorns.md
-@include    markdown/spells/2nd_level/warding_bond.md
-@include    markdown/spells/3rd_level/water_breathing.md
-@include    markdown/spells/3rd_level/water_walk.md
-@include    markdown/spells/2nd_level/web.md
-@include    markdown/spells/9th_level/weird.md
-@include    markdown/spells/6th_level/wind_walk.md
-@include    markdown/spells/3rd_level/wind_wall.md
-@include    markdown/spells/9th_level/wish.md
-@include    markdown/spells/6th_level/word_of_recall.md
-@include-   markdown/spells/2nd_level/zone_of_truth.md
+@include    1-12 "markdown/Spells/2nd Level/Acid Arrow.md"
+@include    1-12 "markdown/Spells/Cantrip/Acid Splash.md"
+@include    1-12 "markdown/Spells/2nd Level/Aid.md"
+@include    1-14 "markdown/Spells/1st Level/Alarm.md"
+@include    1-16 "markdown/Spells/2nd Level/Alter Self.md"
+@include    1-12 "markdown/Spells/1st Level/Animal Friendship.md"
+@include    1-14 "markdown/Spells/2nd Level/Animal Messenger.md"
+@include    1-14 "markdown/Spells/8th Level/Animal Shapes.md"
+@include    1-16 "markdown/Spells/3rd Level/Animate Dead.md"
+@include    1-28 "markdown/Spells/5th Level/Animate Objects.md"
+@include    1-14 "markdown/Spells/5th Level/Antilife Shell.md"
+@include    1-28 "markdown/Spells/8th Level/Antimagic Field.md"
+@include    1-22 "markdown/Spells/8th Level/Antipathy Sympathy.md"
+@include    1-14 "markdown/Spells/4th Level/Arcane Eye.md"
+@include    1-24 "markdown/Spells/5th Level/Arcane Hand.md"
+@include    1-12 "markdown/Spells/2nd Level/Arcane Lock.md"
+@include    1-12 "markdown/Spells/7th Level/Arcane Sword.md"
+@include    1-16 "markdown/Spells/2nd Level/Arcanist's Magic Aura.md"
+@include    1-20 "markdown/Spells/9th Level/Astral Projection.md"
+@include    1-19 "markdown/Spells/2nd Level/Augury.md"
+@include    1-12 "markdown/Spells/5th Level/Awaken.md"
+@include    1-12 "markdown/Spells/1st Level/Bane.md"
+@include    1-16 "markdown/Spells/4th Level/Banishment.md"
+@include    1-10 "markdown/Spells/2nd Level/Barkskin.md"
+@include    1-10 "markdown/Spells/3rd Level/Beacon of Hope.md"
+@include    1-19 "markdown/Spells/3rd Level/Bestow Curse.md"
+@include    1-14 "markdown/Spells/4th Level/Black Tentacles.md"
+@include    1-12 "markdown/Spells/6th Level/Blade Barrier.md"
+@include    1-12 "markdown/Spells/1st Level/Bless.md"
+@include    1-16 "markdown/Spells/4th Level/Blight.md"
+@include    1-12 "markdown/Spells/2nd Level/Blindness Deafness.md"
+@include    1-14 "markdown/Spells/3rd Level/Blink.md"
+@include    1-10 "markdown/Spells/2nd Level/Blur.md"
+@include    1-12 "markdown/Spells/2nd Level/Branding Smite.md"
+@include    1-14 "markdown/Spells/1st Level/Burning Hands.md"
+@include    1-16 "markdown/Spells/3rd Level/Call Lightning.md"
+@include    1-14 "markdown/Spells/2nd Level/Calm Emotions.md"
+@include    1-14 "markdown/Spells/6th Level/Chain Lightning.md"
+@include    1-12 "markdown/Spells/1st Level/Charm Person.md"
+@include    1-14 "markdown/Spells/Cantrip/Chill Touch.md"
+@include    1-12 "markdown/Spells/6th Level/Circle of Death.md"
+@include    1-14 "markdown/Spells/3rd Level/Clairvoyance.md"
+@include    1-12 "markdown/Spells/8th Level/Clone.md"
+@include    1-18 "markdown/Spells/5th Level/Cloudkill.md"
+@include    1-14 "markdown/Spells/1st Level/Color Spray.md"
+@include    1-24 "markdown/Spells/1st Level/Command.md"
+@include    1-14 "markdown/Spells/5th Level/Commune.md"
+@include    1-20 "markdown/Spells/5th Level/Commune with Nature.md"
+@include    1-12 "markdown/Spells/1st Level/Comprehend Languages.md"
+@include    1-12 "markdown/Spells/4th Level/Compulsion.md"
+@include    1-14 "markdown/Spells/5th Level/Cone of Cold.md"
+@include    1-23 "markdown/Spells/4th Level/Confusion.md"
+@include    1-23 "markdown/Spells/3rd Level/Conjure Animals.md"
+@include    1-16 "markdown/Spells/7th Level/Conjure Celestial.md"
+@include    1-18 "markdown/Spells/5th Level/Conjure Elemental.md"
+@include    1-18 "markdown/Spells/6th Level/Conjure Fey.md"
+@include    1-23 "markdown/Spells/4th Level/Conjure Minor Elementals.md"
+@include    1-23 "markdown/Spells/4th Level/Conjure Woodland Beings.md"
+@include    1-12 "markdown/Spells/5th Level/Contact Other Plane.md"
+@include    1-26 "markdown/Spells/5th Level/Contagion.md"
+@include    1-14 "markdown/Spells/6th Level/Contingency.md"
+@include    1-10 "markdown/Spells/2nd Level/Continual Flame.md"
+@include    1-26 "markdown/Spells/4th Level/Control Water.md"
+@include    1-45 "markdown/Spells/8th Level/Control Weather.md"
+@include    1-12 "markdown/Spells/3rd Level/Counterspell.md"
+@include    1-10 "markdown/Spells/3rd Level/Create Food and Water.md"
+@include    1-16 "markdown/Spells/1st Level/Create or Destroy Water.md"
+@include    1-16 "markdown/Spells/6th Level/Create Undead.md"
+@include    1-24 "markdown/Spells/5th Level/Creation.md"
+@include    1-12 "markdown/Spells/1st Level/Cure Wounds.md"
+@include    1-12 "markdown/Spells/Cantrip/Dancing Lights.md"
+@include    1-14 "markdown/Spells/2nd Level/Darkness.md"
+@include    1-10 "markdown/Spells/2nd Level/Darkvision.md"
+@include    1-14 "markdown/Spells/3rd Level/Daylight.md"
+@include    1-14 "markdown/Spells/4th Level/Death Ward.md"
+@include    1-18 "markdown/Spells/7th Level/Delayed Blast Fireball.md"
+@include    1-12 "markdown/Spells/8th Level/Demiplane.md"
+@include    1-12 "markdown/Spells/1st Level/Detect Evil and Good.md"
+@include    1-12 "markdown/Spells/1st Level/Detect Magic.md"
+@include    1-12 "markdown/Spells/1st Level/Detect Poison and Disease.md"
+@include    1-18 "markdown/Spells/2nd Level/Detect Thoughts.md"
+@include    1-14 "markdown/Spells/4th Level/Dimension Door.md"
+@include    1-14 "markdown/Spells/1st Level/Disguise Self.md"
+@include    1-18 "markdown/Spells/6th Level/Disintegrate.md"
+@include    1-16 "markdown/Spells/5th Level/Dispel Evil and Good.md"
+@include    1-12 "markdown/Spells/3rd Level/Dispel Magic.md"
+@include    1-14 "markdown/Spells/4th Level/Divination.md"
+@include    1-10 "markdown/Spells/1st Level/Divine Favor.md"
+@include    1-17 "markdown/Spells/7th Level/Divine Word.md"
+@include    1-18 "markdown/Spells/4th Level/Dominate Beast.md"
+@include    1-18 "markdown/Spells/8th Level/Dominate Monster.md"
+@include    1-18 "markdown/Spells/5th Level/Dominate Person.md"
+@include    1-16 "markdown/Spells/5th Level/Dream.md"
+@include    1-15 "markdown/Spells/Cantrip/Druidcraft.md"
+@include    1-22 "markdown/Spells/8th Level/Earthquake.md"
+@include    1-12 "markdown/Spells/Cantrip/Eldritch Blast.md"
+@include    1-24 "markdown/Spells/2nd Level/Enhance Ability.md"
+@include    1-16 "markdown/Spells/2nd Level/Enlarge Reduce.md"
+@include    1-14 "markdown/Spells/1st Level/Entangle.md"
+@include    1-10 "markdown/Spells/2nd Level/Enthrall.md"
+@include    1-20 "markdown/Spells/7th Level/Etherealness.md"
+@include    1-10 "markdown/Spells/1st Level/Expeditious Retreat.md"
+@include    1-16 "markdown/Spells/6th Level/Eyebite.md"
+@include    1-14 "markdown/Spells/4th Level/Fabricate.md"
+@include    1-12 "markdown/Spells/1st Level/Faerie Fire.md"
+@include    1-14 "markdown/Spells/4th Level/Faithful Hound.md"
+@include    1-12 "markdown/Spells/1st Level/False Life.md"
+@include    1-12 "markdown/Spells/3rd Level/Fear.md"
+@include    1-10 "markdown/Spells/1st Level/Feather Fall.md"
+@include    1-16 "markdown/Spells/8th Level/Feeblemind.md"
+@include    1-22 "markdown/Spells/1st Level/Find Familiar.md"
+@include    1-18 "markdown/Spells/2nd Level/Find Steed.md"
+@include    1-12 "markdown/Spells/6th Level/Find the Path.md"
+@include    1-12 "markdown/Spells/2nd Level/Find Traps.md"
+@include    1-12 "markdown/Spells/7th Level/Finger of Death.md"
+@include    1-14 "markdown/Spells/3rd Level/Fireball.md"
+@include    1-12 "markdown/Spells/Cantrip/Fire Bolt.md"
+@include    1-14 "markdown/Spells/4th Level/Fire Shield.md"
+@include    1-12 "markdown/Spells/7th Level/Fire Storm.md"
+@include    1-16 "markdown/Spells/2nd Level/Flame Blade.md"
+@include    1-12 "markdown/Spells/5th Level/Flame Strike.md"
+@include    1-16 "markdown/Spells/2nd Level/Flaming Sphere.md"
+@include    1-16 "markdown/Spells/6th Level/Flesh to Stone.md"
+@include    1-14 "markdown/Spells/1st Level/Floating Disk.md"
+@include    1-12 "markdown/Spells/3rd Level/Fly.md"
+@include    1-12 "markdown/Spells/1st Level/Fog Cloud.md"
+@include    1-16 "markdown/Spells/6th Level/Forbiddance.md"
+@include    1-20 "markdown/Spells/7th Level/Forcecage.md"
+@include    1-12 "markdown/Spells/9th Level/Foresight.md"
+@include    1-12 "markdown/Spells/4th Level/Freedom of Movement.md"
+@include    1-16 "markdown/Spells/6th Level/Freezing Sphere.md"
+@include    1-14 "markdown/Spells/3rd Level/Gaseous Form.md"
+@include    1-16 "markdown/Spells/9th Level/Gate.md"
+@include    1-16 "markdown/Spells/5th Level/Geas.md"
+@include    1-12 "markdown/Spells/2nd Level/Gentle Repose.md"
+@include    1-16 "markdown/Spells/4th Level/Giant Insect.md"
+@include    1-10 "markdown/Spells/8th Level/Glibness.md"
+@include    1-14 "markdown/Spells/6th Level/Globe of Invulnerability.md"
+@include    1-24 "markdown/Spells/3rd Level/Glyph of Warding.md"
+@include    1-12 "markdown/Spells/1st Level/Goodberry.md"
+@include    1-12 "markdown/Spells/1st Level/Grease.md"
+@include    1-10 "markdown/Spells/4th Level/Greater Invisibility.md"
+@include    1-15 "markdown/Spells/5th Level/Greater Restoration.md"
+@include    1-12 "markdown/Spells/4th Level/Guardian of Faith.md"
+@include    1-32 "markdown/Spells/6th Level/Guards and Wards.md"
+@include    1-10 "markdown/Spells/Cantrip/Guidance.md"
+@include    1-12 "markdown/Spells/1st Level/Guiding Bolt.md"
+@include    1-16 "markdown/Spells/2nd Level/Gust of Wind.md"
+@include    1-34 "markdown/Spells/5th Level/Hallow.md"
+@include    1-12 "markdown/Spells/4th Level/Hallucinatory Terrain.md"
+@include    1-10 "markdown/Spells/6th Level/Harm.md"
+@include    1-12 "markdown/Spells/3rd Level/Haste.md"
+@include    1-12 "markdown/Spells/6th Level/Heal.md"
+@include    1-12 "markdown/Spells/1st Level/Healing Word.md"
+@include    1-14 "markdown/Spells/2nd Level/Heat Metal.md"
+@include    1-12 "markdown/Spells/1st Level/Hellish Rebuke.md"
+@include    1-12 "markdown/Spells/6th Level/Heroes' Feast.md"
+@include    1-12 "markdown/Spells/1st Level/Heroism.md"
+@include    1-12 "markdown/Spells/1st Level/Hideous Laughter.md"
+@include    1-12 "markdown/Spells/5th Level/Hold Monster.md"
+@include    1-12 "markdown/Spells/2nd Level/Hold Person.md"
+@include    1-10 "markdown/Spells/8th Level/Holy Aura.md"
+@include    1-12 "markdown/Spells/1st Level/Hunter's Mark.md"
+@include    1-12 "markdown/Spells/3rd Level/Hypnotic Pattern.md"
+@include    1-14 "markdown/Spells/4th Level/Ice Storm.md"
+@include    1-12 "markdown/Spells/1st Level/Identify.md"
+@include    1-16 "markdown/Spells/1st Level/Illusory Script.md"
+@include    1-38 "markdown/Spells/9th Level/Imprisonment.md"
+@include    1-14 "markdown/Spells/8th Level/Incendiary Cloud.md"
+@include    1-12 "markdown/Spells/1st Level/Inflict Wounds.md"
+@include    1-14 "markdown/Spells/5th Level/Insect Plague.md"
+@include    1-16 "markdown/Spells/6th Level/Instant Summons.md"
+@include    1-12 "markdown/Spells/2nd Level/Invisibility.md"
+@include    1-12 "markdown/Spells/6th Level/Irresistible Dance.md"
+@include    1-10 "markdown/Spells/1st Level/Jump.md"
+@include    1-16 "markdown/Spells/2nd Level/Knock.md"
+@include    1-12 "markdown/Spells/5th Level/Legend Lore.md"
+@include    1-10 "markdown/Spells/2nd Level/Lesser Restoration.md"
+@include    1-14 "markdown/Spells/2nd Level/Levitate.md"
+@include    1-12 "markdown/Spells/Cantrip/Light.md"
+@include    1-14 "markdown/Spells/3rd Level/Lightning Bolt.md"
+@include    1-10 "markdown/Spells/2nd Level/Locate Animals or Plants.md"
+@include    1-14 "markdown/Spells/4th Level/Locate Creature.md"
+@include    1-14 "markdown/Spells/2nd Level/Locate Object.md"
+@include    1-12 "markdown/Spells/1st Level/Longstrider.md"
+@include    1-10 "markdown/Spells/1st Level/Mage Armor.md"
+@include    1-14 "markdown/Spells/Cantrip/Mage Hand.md"
+@include    1-20 "markdown/Spells/3rd Level/Magic Circle.md"
+@include    1-22 "markdown/Spells/6th Level/Magic Jar.md"
+@include    1-12 "markdown/Spells/1st Level/Magic Missile.md"
+@include    1-14 "markdown/Spells/2nd Level/Magic Mouth.md"
+@include    1-12 "markdown/Spells/2nd Level/Magic Weapon.md"
+@include    1-14 "markdown/Spells/7th Level/Magnificent Mansion.md"
+@include    1-16 "markdown/Spells/3rd Level/Major Image.md"
+@include    1-12 "markdown/Spells/5th Level/Mass Cure Wounds.md"
+@include    1-10 "markdown/Spells/9th Level/Mass Heal.md"
+@include    1-12 "markdown/Spells/3rd Level/Mass Healing Word.md"
+@include    1-18 "markdown/Spells/6th Level/Mass Suggestion.md"
+@include    1-14 "markdown/Spells/8th Level/Maze.md"
+@include    1-14 "markdown/Spells/3rd Level/Meld into Stone.md"
+@include    1-12 "markdown/Spells/Cantrip/Mending.md"
+@include    1-12 "markdown/Spells/Cantrip/Message.md"
+@include    1-12 "markdown/Spells/9th Level/Meteor Swarm.md"
+@include    1-10 "markdown/Spells/8th Level/Mind Blank.md"
+@include    1-16 "markdown/Spells/Cantrip/Minor Illusion.md"
+@include    1-16 "markdown/Spells/7th Level/Mirage Arcane.md"
+@include    1-18 "markdown/Spells/2nd Level/Mirror Image.md"
+@include    1-14 "markdown/Spells/5th Level/Mislead.md"
+@include    1-10 "markdown/Spells/2nd Level/Misty Step.md"
+@include    1-20 "markdown/Spells/5th Level/Modify Memory.md"
+@include    1-18 "markdown/Spells/2nd Level/Moonbeam.md"
+@include    1-18 "markdown/Spells/6th Level/Move Earth.md"
+@include    1-10 "markdown/Spells/3rd Level/Nondetection.md"
+@include    1-10 "markdown/Spells/2nd Level/Pass without Trace.md"
+@include    1-12 "markdown/Spells/5th Level/Passwall.md"
+@include    1-12 "markdown/Spells/4th Level/Phantasmal Killer.md"
+@include    1-12 "markdown/Spells/3rd Level/Phantom Steed.md"
+@include    1-20 "markdown/Spells/6th Level/Planar Ally.md"
+@include    1-14 "markdown/Spells/5th Level/Planar Binding.md"
+@include    1-14 "markdown/Spells/7th Level/Plane Shift.md"
+@include    1-16 "markdown/Spells/3rd Level/Plant Growth.md"
+@include    1-12 "markdown/Spells/Cantrip/Poison Spray.md"
+@include    1-18 "markdown/Spells/4th Level/Polymorph.md"
+@include    1-10 "markdown/Spells/9th Level/Power Word Kill.md"
+@include    1-12 "markdown/Spells/8th Level/Power Word Stun.md"
+@include    1-12 "markdown/Spells/2nd Level/Prayer of Healing.md"
+@include    1-19 "markdown/Spells/Cantrip/Prestidigitation.md"
+@include    1-19 "markdown/Spells/7th Level/Prismatic Spray.md"
+@include    1-27 "markdown/Spells/9th Level/Prismatic Wall.md"
+@include    1-23 "markdown/Spells/4th Level/Private Sanctum.md"
+@include    1-14 "markdown/Spells/Cantrip/Produce Flame.md"
+@include    1-16 "markdown/Spells/6th Level/Programmed Illusion.md"
+@include    1-16 "markdown/Spells/7th Level/Project Image.md"
+@include    1-10 "markdown/Spells/3rd Level/Protection from Energy.md"
+@include    1-12 "markdown/Spells/1st Level/Protection from Evil and Good.md"
+@include    1-12 "markdown/Spells/2nd Level/Protection from Poison.md"
+@include    1-10 "markdown/Spells/1st Level/Purify Food and Drink.md"
+@include    1-16 "markdown/Spells/5th Level/Raise Dead.md"
+@include    1-12 "markdown/Spells/2nd Level/Ray of Enfeeblement.md"
+@include    1-12 "markdown/Spells/Cantrip/Ray of Frost.md"
+@include    1-12 "markdown/Spells/7th Level/Regenerate.md"
+@include    1-31 "markdown/Spells/5th Level/Reincarnate.md"
+@include    1-10 "markdown/Spells/3rd Level/Remove Curse.md"
+@include    1-16 "markdown/Spells/4th Level/Resilient Sphere.md"
+@include    1-10 "markdown/Spells/Cantrip/Resistance.md"
+@include    1-18 "markdown/Spells/7th Level/Resurrection.md"
+@include    1-14 "markdown/Spells/7th Level/Reverse Gravity.md"
+@include    1-10 "markdown/Spells/3rd Level/Revivify.md"
+@include    1-16 "markdown/Spells/2nd Level/Rope Trick.md"
+@include    1-12 "markdown/Spells/Cantrip/Sacred Flame.md"
+@include    1-12 "markdown/Spells/1st Level/Sanctuary.md"
+@include    1-14 "markdown/Spells/2nd Level/Scorching Ray.md"
+@include    1-28 "markdown/Spells/5th Level/Scrying.md"
+@include    1-14 "markdown/Spells/4th Level/Secret Chest.md"
+@include    1-10 "markdown/Spells/2nd Level/See Invisibility.md"
+@include    1-16 "markdown/Spells/5th Level/Seeming.md"
+@include    1-12 "markdown/Spells/3rd Level/Sending.md"
+@include    1-14 "markdown/Spells/7th Level/Sequester.md"
+@include    1-20 "markdown/Spells/9th Level/Shapechange.md"
+@include    1-14 "markdown/Spells/2nd Level/Shatter.md"
+@include    1-10 "markdown/Spells/1st Level/Shield.md"
+@include    1-10 "markdown/Spells/1st Level/Shield of Faith.md"
+@include    1-10 "markdown/Spells/Cantrip/Shillelagh.md"
+@include    1-12 "markdown/Spells/Cantrip/Shocking Grasp.md"
+@include    1-10 "markdown/Spells/2nd Level/Silence.md"
+@include    1-14 "markdown/Spells/1st Level/Silent Image.md"
+@include    1-16 "markdown/Spells/7th Level/Simulacrum.md"
+@include    1-16 "markdown/Spells/1st Level/Sleep.md"
+@include    1-14 "markdown/Spells/3rd Level/Sleet Storm.md"
+@include    1-16 "markdown/Spells/3rd Level/Slow.md"
+@include    1-10 "markdown/Spells/Cantrip/Spare the Dying.md"
+@include    1-10 "markdown/Spells/1st Level/Speak with Animals.md"
+@include    1-12 "markdown/Spells/3rd Level/Speak with Dead.md"
+@include    1-18 "markdown/Spells/3rd Level/Speak with Plants.md"
+@include    1-10 "markdown/Spells/2nd Level/Spider Climb.md"
+@include    1-12 "markdown/Spells/2nd Level/Spike Growth.md"
+@include    1-14 "markdown/Spells/3rd Level/Spirit Guardians.md"
+@include    1-16 "markdown/Spells/2nd Level/Spiritual Weapon.md"
+@include    1-14 "markdown/Spells/3rd Level/Stinking Cloud.md"
+@include    1-10 "markdown/Spells/4th Level/Stone Shape.md"
+@include    1-10 "markdown/Spells/4th Level/Stoneskin.md"
+@include    1-20 "markdown/Spells/9th Level/Storm of Vengeance.md"
+@include    1-16 "markdown/Spells/2nd Level/Suggestion.md"
+@include    1-14 "markdown/Spells/6th Level/Sunbeam.md"
+@include    1-14 "markdown/Spells/8th Level/Sunburst.md"
+@include    1-34 "markdown/Spells/7th Level/Symbol.md"
+@include    1-20 "markdown/Spells/5th Level/Telekinesis.md"
+@include    1-12 "markdown/Spells/5th Level/Telepathic Bond.md"
+@include    1-36 "markdown/Spells/7th Level/Teleport.md"
+@include    1-14 "markdown/Spells/5th Level/Teleportation Circle.md"
+@include    1-19 "markdown/Spells/Cantrip/Thaumaturgy.md"
+@include    1-14 "markdown/Spells/1st Level/Thunderwave.md"
+@include    1-12 "markdown/Spells/9th Level/Time Stop.md"
+@include    1-14 "markdown/Spells/3rd Level/Tiny Hut.md"
+@include    1-10 "markdown/Spells/3rd Level/Tongues.md"
+@include    1-10 "markdown/Spells/6th Level/Transport via Plants.md"
+@include    1-12 "markdown/Spells/5th Level/Tree Stride.md"
+@include    1-26 "markdown/Spells/9th Level/True Polymorph.md"
+@include    1-14 "markdown/Spells/9th Level/True Resurrection.md"
+@include    1-10 "markdown/Spells/6th Level/True Seeing.md"
+@include    1-10 "markdown/Spells/Cantrip/True Strike.md"
+@include    1-14 "markdown/Spells/1st Level/Unseen Servant.md"
+@include    1-12 "markdown/Spells/3rd Level/Vampiric Touch.md"
+@include    1-12 "markdown/Spells/Cantrip/Vicious Mockery.md"
+@include    1-16 "markdown/Spells/4th Level/Wall of Fire.md"
+@include    1-12 "markdown/Spells/5th Level/Wall of Force.md"
+@include    1-16 "markdown/Spells/6th Level/Wall of Ice.md"
+@include    1-20 "markdown/Spells/5th Level/Wall of Stone.md"
+@include    1-16 "markdown/Spells/6th Level/Wall of Thorns.md"
+@include    1-12 "markdown/Spells/2nd Level/Warding Bond.md"
+@include    1-10 "markdown/Spells/3rd Level/Water Breathing.md"
+@include    1-12 "markdown/Spells/3rd Level/Water Walk.md"
+@include    1-18 "markdown/Spells/2nd Level/Web.md"
+@include    1-10 "markdown/Spells/9th Level/Weird.md"
+@include    1-12 "markdown/Spells/6th Level/Wind Walk.md"
+@include    1-14 "markdown/Spells/3rd Level/Wind Wall.md"
+@include    1-24 "markdown/Spells/9th Level/Wish.md"
+@include    1-12 "markdown/Spells/6th Level/Word of Recall.md"
+@include-   1-12 "markdown/Spells/2nd Level/Zone of Truth.md"
 
-@include- 0 markdown/traps/traps.md
+@include- 0 1-62 "markdown/Traps/Traps.md"
 
 ## Sample Traps
 
 The magical and mechanical traps presented here vary in deadliness and are presented in alphabetical order.
 
+@include  2 1-13 "markdown/Traps/Collapsing Roof.md"
 @adjust 2
-@include    markdown/traps/collapsing_roof.md
-@include    markdown/traps/falling_net.md
-@include    markdown/traps/fire_breathing_statue.md
-@include    markdown/traps/pits.md
-@include    markdown/traps/poison_darts.md
-@include    markdown/traps/poison_needle.md
-@include    markdown/traps/rolling_sphere.md
-@include-   markdown/traps/sphere_of_annihilation.md
+@include    1-9 "markdown/Traps/Falling Net.md"
+@include    1-11 "markdown/Traps/Fire-Breathing Statue.md"
+@include    1-23 "markdown/Traps/Pits.md"
+@include    1-9 "markdown/Traps/Poison Darts.md"
+@include    1-9 "markdown/Traps/Poison Needle.md"
+@include    1-13 "markdown/Traps/Rolling Sphere.md"
+@include-   1-9 "markdown/Traps/Sphere of Annihilation.md"
 
-@include  0 markdown/diseases/diseases.md
-@include    markdown/diseases/cackle_fever.md
-@include    markdown/diseases/sewer_plague.md
-@include-   markdown/diseases/sight_rot.md
+@include  0 1-11 "markdown/Diseases/Diseases.md"
+@include    1-11 "markdown/Diseases/Cackle Fever.md"
+@include    1-9 "markdown/Diseases/Sewer Plague.md"
+@include-   1-7 "markdown/Diseases/Sight Rot.md"
 
-@include- 0 markdown/madness/madness.md
+@include- 0 1-72 "markdown/Madness/Madness.md"
 
-@include- 0 markdown/objects/objects.md
+@include- 0 1-40 "markdown/Objects/Objects.md"
 
-@include- 0 markdown/poisons/poisons.md
+@include- 0 1-64 "markdown/Poisons/Poisons.md"
 
-@include- 0 markdown/magic_items/magic_items.md
+@include- 0 1-55 "markdown/Magic Items/Magic Items.md"
 @adjust 1
 
 # Magic Items A-Z
 
 Magic items are presented in alphabetical order. A magic item's description gives the item's name, its category, its rarity, and its magical properties.
 
-@include    markdown/magic_items/uncommon/adamantine_armor.md
-@include    markdown/magic_items/ammunition_1_2_or_3.md
-@include    markdown/magic_items/rare/amulet_of_health.md
-@include    markdown/magic_items/uncommon/amulet_of_proof_against_detection_and_location.md
-@include    markdown/magic_items/very_rare/amulet_of_the_planes.md
-@include    markdown/magic_items/very_rare/animated_shield.md
-@include    markdown/magic_items/legendary/apparatus_of_the_crab.md
-@include    markdown/magic_items/armor_1_2_or_3.md
-@include    markdown/magic_items/legendary/armor_of_invulnerability.md
-@include    markdown/magic_items/rare/armor_of_resistance.md
-@include    markdown/magic_items/rare/armor_of_vulnerability.md
-@include    markdown/magic_items/rare/arrow_catching_shield.md
-@include    markdown/magic_items/very_rare/arrow_of_slaying.md
-@include    markdown/magic_items/rare/bag_of_beans.md
-@include    markdown/magic_items/very_rare/bag_of_devouring.md
-@include    markdown/magic_items/uncommon/bag_of_holding.md
-@include    markdown/magic_items/uncommon/bag_of_tricks.md
-@include    markdown/magic_items/rare/bead_of_force.md
-@include    markdown/magic_items/rare/belt_of_dwarvenkind.md
-@include    markdown/magic_items/belt_of_giant_strength.md
-@include    markdown/magic_items/rare/berserker_axe.md
-@include    markdown/magic_items/uncommon/boots_of_elvenkind.md
-@include    markdown/magic_items/rare/boots_of_levitation.md
-@include    markdown/magic_items/rare/boots_of_speed.md
-@include    markdown/magic_items/uncommon/boots_of_striding_and_springing.md
-@include    markdown/magic_items/uncommon/boots_of_the_winterlands.md
-@include    markdown/magic_items/rare/bowl_of_commanding_water_elementals.md
-@include    markdown/magic_items/uncommon/bracers_of_archery.md
-@include    markdown/magic_items/rare/bracers_of_defense.md
-@include    markdown/magic_items/rare/brazier_of_commanding_fire_elementals.md
-@include    markdown/magic_items/uncommon/brooch_of_shielding.md
-@include    markdown/magic_items/uncommon/broom_of_flying.md
-@include    markdown/magic_items/very_rare/candle_of_invocation.md
-@include    markdown/magic_items/rare/cape_of_the_mountebank.md
-@include    markdown/magic_items/very_rare/carpet_of_flying.md
-@include    markdown/magic_items/rare/censer_of_controlling_air_elementals.md
-@include    markdown/magic_items/rare/chime_of_opening.md
-@include    markdown/magic_items/uncommon/circlet_of_blasting.md
-@include    markdown/magic_items/very_rare/cloak_of_arachnida.md
-@include    markdown/magic_items/rare/cloak_of_displacement.md
-@include    markdown/magic_items/uncommon/cloak_of_elvenkind.md
-@include    markdown/magic_items/uncommon/cloak_of_protection.md
-@include    markdown/magic_items/rare/cloak_of_the_bat.md
-@include    markdown/magic_items/uncommon/cloak_of_the_manta_ray.md
-@include    markdown/magic_items/crystal_ball.md
-@include    markdown/magic_items/rare/cube_of_force.md
-@include    markdown/magic_items/legendary/cubic_gate.md
-@include    markdown/magic_items/rare/dagger_of_venom.md
-@include    markdown/magic_items/very_rare/dancing_sword.md
-@include    markdown/magic_items/uncommon/decanter_of_endless_water.md
-@include    markdown/magic_items/uncommon/deck_of_illusions.md
-@include    markdown/magic_items/legendary/deck_of_many_things.md
-@include    markdown/magic_items/legendary/defender.md
-@include    markdown/magic_items/very_rare/demon_armor.md
-@include    markdown/magic_items/rare/dimensional_shackles.md
-@include    markdown/magic_items/very_rare/dragon_scale_mail.md
-@include    markdown/magic_items/rare/dragon_slayer.md
-@include    markdown/magic_items/uncommon/dust_of_disappearance.md
-@include    markdown/magic_items/uncommon/dust_of_dryness.md
-@include    markdown/magic_items/uncommon/dust_of_sneezing_and_choking.md
-@include    markdown/magic_items/very_rare/dwarven_plate.md
-@include    markdown/magic_items/very_rare/dwarven_thrower.md
-@include    markdown/magic_items/uncommon/efficient_quiver.md
-@include    markdown/magic_items/very_rare/efreeti_bottle.md
-@include    markdown/magic_items/uncommon/elemental_gem.md
-@include    markdown/magic_items/rare/elven_chain.md
-@include    markdown/magic_items/uncommon/eversmoking_bottle.md
-@include    markdown/magic_items/uncommon/eyes_of_charming.md
-@include    markdown/magic_items/uncommon/eyes_of_minute_seeing.md
-@include    markdown/magic_items/uncommon/eyes_of_the_eagle.md
-@include    markdown/magic_items/rare/feather_token.md
-@include    markdown/magic_items/figurine_of_wondrous_power.md
-@include    markdown/magic_items/rare/flame_tongue.md
-@include    markdown/magic_items/rare/folding_boat.md
-@include    markdown/magic_items/very_rare/frost_brand.md
-@include    markdown/magic_items/uncommon/gauntlets_of_ogre_power.md
-@include    markdown/magic_items/uncommon/gem_of_brightness.md
-@include    markdown/magic_items/rare/gem_of_seeing.md
-@include    markdown/magic_items/rare/giant_slayer.md
-@include    markdown/magic_items/rare/glamoured_studded_leather.md
-@include    markdown/magic_items/uncommon/gloves_of_missile_snaring.md
-@include    markdown/magic_items/uncommon/gloves_of_swimming_and_climbing.md
-@include    markdown/magic_items/uncommon/goggles_of_night.md
-@include    markdown/magic_items/legendary/hammer_of_thunderbolts.md
-@include    markdown/magic_items/rare/handy_haversack.md
-@include    markdown/magic_items/uncommon/hat_of_disguise.md
-@include    markdown/magic_items/uncommon/headband_of_intellect.md
-@include    markdown/magic_items/very_rare/helm_of_brilliance.md
-@include    markdown/magic_items/uncommon/helm_of_comprehending_languages.md
-@include    markdown/magic_items/uncommon/helm_of_telepathy.md
-@include    markdown/magic_items/rare/helm_of_teleportation.md
-@include    markdown/magic_items/legendary/holy_avenger.md
-@include    markdown/magic_items/rare/horn_of_blasting.md
-@include    markdown/magic_items/horn_of_valhalla.md
-@include    markdown/magic_items/very_rare/horseshoes_of_a_zephyr.md
-@include    markdown/magic_items/rare/horseshoes_of_speed.md
-@include    markdown/magic_items/uncommon/immovable_rod.md
-@include    markdown/magic_items/rare/instant_fortress.md
-@include    markdown/magic_items/ioun_stone.md
-@include    markdown/magic_items/rare/iron_bands_of_binding.md
-@include    markdown/magic_items/legendary/iron_flask.md
-@include    markdown/magic_items/uncommon/javelin_of_lightning.md
-@include    markdown/magic_items/uncommon/lantern_of_revealing.md
-@include    markdown/magic_items/legendary/luck_blade.md
-@include    markdown/magic_items/rare/mace_of_disruption.md
-@include    markdown/magic_items/rare/mace_of_smiting.md
-@include    markdown/magic_items/rare/mace_of_terror.md
-@include    markdown/magic_items/rare/mantle_of_spell_resistance.md
-@include    markdown/magic_items/very_rare/manual_of_bodily_health.md
-@include    markdown/magic_items/very_rare/manual_of_gainful_exercise.md
-@include    markdown/magic_items/very_rare/manual_of_golems.md
-@include    markdown/magic_items/very_rare/manual_of_quickness_of_action.md
-@include    markdown/magic_items/very_rare/marvelous_pigments.md
-@include    markdown/magic_items/uncommon/medallion_of_thoughts.md
-@include    markdown/magic_items/very_rare/mirror_of_life_trapping.md
-@include    markdown/magic_items/uncommon/mithral_armor.md
-@include    markdown/magic_items/uncommon/necklace_of_adaptation.md
-@include    markdown/magic_items/rare/necklace_of_fireballs.md
-@include    markdown/magic_items/rare/necklace_of_prayer_beads.md
-@include    markdown/magic_items/very_rare/nine_lives_stealer.md
-@include    markdown/magic_items/very_rare/oathbow.md
-@include    markdown/magic_items/rare/oil_of_etherealness.md
-@include    markdown/magic_items/very_rare/oil_of_sharpness.md
-@include    markdown/magic_items/uncommon/oil_of_slipperiness.md
-@include    markdown/magic_items/uncommon/pearl_of_power.md
-@include    markdown/magic_items/uncommon/periapt_of_health.md
-@include    markdown/magic_items/rare/periapt_of_proof_against_poison.md
-@include    markdown/magic_items/uncommon/periapt_of_wound_closure.md
-@include    markdown/magic_items/uncommon/philter_of_love.md
-@include    markdown/magic_items/uncommon/pipes_of_haunting.md
-@include    markdown/magic_items/uncommon/pipes_of_the_sewers.md
-@include    markdown/magic_items/legendary/plate_armor_of_etherealness.md
-@include    markdown/magic_items/rare/portable_hole.md
-@include    markdown/magic_items/uncommon/potion_of_animal_friendship.md
-@include    markdown/magic_items/rare/potion_of_clairvoyance.md
-@include    markdown/magic_items/common/potion_of_climbing.md
-@include    markdown/magic_items/rare/potion_of_diminution.md
-@include    markdown/magic_items/very_rare/potion_of_flying.md
-@include    markdown/magic_items/rare/potion_of_gaseous_form.md
-@include    markdown/magic_items/potion_of_giant_strength.md
-@include    markdown/magic_items/uncommon/potion_of_growth.md
-@include    markdown/magic_items/potion_of_healing.md
-@include    markdown/magic_items/rare/potion_of_heroism.md
-@include    markdown/magic_items/very_rare/potion_of_invisibility.md
-@include    markdown/magic_items/rare/potion_of_mind_reading.md
-@include    markdown/magic_items/uncommon/potion_of_poison.md
-@include    markdown/magic_items/uncommon/potion_of_resistance.md
-@include    markdown/magic_items/very_rare/potion_of_speed.md
-@include    markdown/magic_items/uncommon/potion_of_water_breathing.md
-@include    markdown/magic_items/uncommon/restorative_ointment.md
-@include    markdown/magic_items/rare/ring_of_animal_influence.md
-@include    markdown/magic_items/legendary/ring_of_djinni_summoning.md
-@include    markdown/magic_items/legendary/ring_of_elemental_command.md
-@include    markdown/magic_items/rare/ring_of_evasion.md
-@include    markdown/magic_items/rare/ring_of_feather_falling.md
-@include    markdown/magic_items/rare/ring_of_free_action.md
-@include    markdown/magic_items/legendary/ring_of_invisibility.md
-@include    markdown/magic_items/uncommon/ring_of_jumping.md
-@include    markdown/magic_items/uncommon/ring_of_mind_shielding.md
-@include    markdown/magic_items/rare/ring_of_protection.md
-@include    markdown/magic_items/very_rare/ring_of_regeneration.md
-@include    markdown/magic_items/rare/ring_of_resistance.md
-@include    markdown/magic_items/very_rare/ring_of_shooting_stars.md
-@include    markdown/magic_items/rare/ring_of_spell_storing.md
-@include    markdown/magic_items/legendary/ring_of_spell_turning.md
-@include    markdown/magic_items/uncommon/ring_of_swimming.md
-@include    markdown/magic_items/very_rare/ring_of_telekinesis.md
-@include    markdown/magic_items/rare/ring_of_the_ram.md
-@include    markdown/magic_items/legendary/ring_of_three_wishes.md
-@include    markdown/magic_items/uncommon/ring_of_warmth.md
-@include    markdown/magic_items/uncommon/ring_of_water_walking.md
-@include    markdown/magic_items/rare/ring_of_x_ray_vision.md
-@include    markdown/magic_items/rare/robe_of_eyes.md
-@include    markdown/magic_items/very_rare/robe_of_scintillating_colors.md
-@include    markdown/magic_items/very_rare/robe_of_stars.md
-@include    markdown/magic_items/legendary/robe_of_the_archmagi.md
-@include    markdown/magic_items/uncommon/robe_of_useful_items.md
-@include    markdown/magic_items/very_rare/rod_of_absorption.md
-@include    markdown/magic_items/very_rare/rod_of_alertness.md
-@include    markdown/magic_items/legendary/rod_of_lordly_might.md
-@include    markdown/magic_items/rare/rod_of_rulership.md
-@include    markdown/magic_items/very_rare/rod_of_security.md
-@include    markdown/magic_items/uncommon/rope_of_climbing.md
-@include    markdown/magic_items/rare/rope_of_entanglement.md
-@include    markdown/magic_items/legendary/scarab_of_protection.md
-@include    markdown/magic_items/very_rare/scimitar_of_speed.md
-@include    markdown/magic_items/shield_1_2_or_3.md
-@include    markdown/magic_items/rare/shield_of_missile_attraction.md
-@include    markdown/magic_items/uncommon/slippers_of_spider_climbing.md
-@include    markdown/magic_items/legendary/sovereign_glue.md
-@include    markdown/magic_items/spell_scroll.md
-@include    markdown/magic_items/very_rare/spellguard_shield.md
-@include    markdown/magic_items/legendary/sphere_of_annihilation.md
-@include    markdown/magic_items/rare/staff_of_charming.md
-@include    markdown/magic_items/very_rare/staff_of_fire.md
-@include    markdown/magic_items/very_rare/staff_of_frost.md
-@include    markdown/magic_items/rare/staff_of_healing.md
-@include    markdown/magic_items/very_rare/staff_of_power.md
-@include    markdown/magic_items/very_rare/staff_of_striking.md
-@include    markdown/magic_items/rare/staff_of_swarming_insects.md
-@include    markdown/magic_items/legendary/staff_of_the_magi.md
-@include    markdown/magic_items/uncommon/staff_of_the_python.md
-@include    markdown/magic_items/rare/staff_of_the_woodlands.md
-@include    markdown/magic_items/very_rare/staff_of_thunder_and_lightning.md
-@include    markdown/magic_items/rare/staff_of_withering.md
-@include    markdown/magic_items/rare/stone_of_controlling_earth_elementals.md
-@include    markdown/magic_items/uncommon/stone_of_good_luck_luckstone.md
-@include    markdown/magic_items/rare/sun_blade.md
-@include    markdown/magic_items/rare/sword_of_life_stealing.md
-@include    markdown/magic_items/very_rare/sword_of_sharpness.md
-@include    markdown/magic_items/rare/sword_of_wounding.md
-@include    markdown/magic_items/legendary/talisman_of_pure_good.md
-@include    markdown/magic_items/legendary/talisman_of_the_sphere.md
-@include    markdown/magic_items/legendary/talisman_of_ultimate_evil.md
-@include    markdown/magic_items/very_rare/tome_of_clear_thought.md
-@include    markdown/magic_items/very_rare/tome_of_leadership_and_influence.md
-@include    markdown/magic_items/very_rare/tome_of_understanding.md
-@include    markdown/magic_items/uncommon/trident_of_fish_command.md
-@include    markdown/magic_items/legendary/universal_solvent.md
-@include    markdown/magic_items/rare/vicious_weapon.md
-@include    markdown/magic_items/legendary/vorpal_sword.md
-@include    markdown/magic_items/rare/wand_of_binding.md
-@include    markdown/magic_items/rare/wand_of_enemy_detection.md
-@include    markdown/magic_items/rare/wand_of_fear.md
-@include    markdown/magic_items/rare/wand_of_fireballs.md
-@include    markdown/magic_items/rare/wand_of_lightning_bolts.md
-@include    markdown/magic_items/uncommon/wand_of_magic_detection.md
-@include    markdown/magic_items/uncommon/wand_of_magic_missiles.md
-@include    markdown/magic_items/rare/wand_of_paralysis.md
-@include    markdown/magic_items/very_rare/wand_of_polymorph.md
-@include    markdown/magic_items/uncommon/wand_of_secrets.md
-@include    markdown/magic_items/wand_of_the_war_mage_1_2_or_3.md
-@include    markdown/magic_items/uncommon/wand_of_web.md
-@include    markdown/magic_items/rare/wand_of_wonder.md
-@include    markdown/magic_items/weapon_1_2_or_3.md
-@include    markdown/magic_items/legendary/well_of_many_worlds.md
-@include    markdown/magic_items/uncommon/wind_fan.md
-@include    markdown/magic_items/uncommon/winged_boots.md
-@include    markdown/magic_items/rare/wings_of_flying.md
-@include- 0 markdown/magic_items/sentient_magic_items.md
+@include    1-5 "markdown/Magic Items/Uncommon/Adamantine Armor.md"
+@include    1-5 "markdown/Magic Items/Varies/Ammunition, +1, +2, or +3.md"
+@include    1-5 "markdown/Magic Items/Rare/Amulet of Health.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Amulet of Proof against Detection and Location.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Amulet of the Planes.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Animated Shield.md"
+@include    1-33 "markdown/Magic Items/Legendary/Apparatus of the Crab.md"
+@include    1-5 "markdown/Magic Items/Varies/Armor, +1, +2, or +3.md"
+@include    1-5 "markdown/Magic Items/Legendary/Armor of Invulnerability.md"
+@include    1-18 "markdown/Magic Items/Rare/Armor of Resistance.md"
+@include    1-7 "markdown/Magic Items/Rare/Armor of Vulnerability.md"
+@include    1-5 "markdown/Magic Items/Rare/Arrow-Catching Shield.md"
+@include    1-9 "markdown/Magic Items/Very Rare/Arrow of Slaying.md"
+@include    1-24 "markdown/Magic Items/Rare/Bag of Beans.md"
+@include    1-11 "markdown/Magic Items/Very Rare/Bag of Devouring.md"
+@include    1-9 "markdown/Magic Items/Uncommon/Bag of Holding.md"
+@include    1-50 "markdown/Magic Items/Uncommon/Bag of Tricks.md"
+@include    1-9 "markdown/Magic Items/Rare/Bead of Force.md"
+@include    1-16 "markdown/Magic Items/Rare/Belt of Dwarvenkind.md"
+@include    1-15 "markdown/Magic Items/Varies/Belt of Giant Strength.md"
+@include    1-9 "markdown/Magic Items/Rare/Berserker Axe.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Boots of Elvenkind.md"
+@include    1-5 "markdown/Magic Items/Rare/Boots of Levitation.md"
+@include    1-7 "markdown/Magic Items/Rare/Boots of Speed.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Boots of Striding and Springing.md"
+@include    1-9 "markdown/Magic Items/Uncommon/Boots of the Winterlands.md"
+@include    1-7 "markdown/Magic Items/Rare/Bowl of Commanding Water Elementals.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Bracers of Archery.md"
+@include    1-5 "markdown/Magic Items/Rare/Bracers of Defense.md"
+@include    1-7 "markdown/Magic Items/Rare/Brazier of Commanding Fire Elementals.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Brooch of Shielding.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Broom of Flying.md"
+@include    1-23 "markdown/Magic Items/Very Rare/Candle of Invocation.md"
+@include    1-7 "markdown/Magic Items/Rare/Cape of the Mountebank.md"
+@include    1-16 "markdown/Magic Items/Very Rare/Carpet of Flying.md"
+@include    1-7 "markdown/Magic Items/Rare/Censer of Controlling Air Elementals.md"
+@include    1-7 "markdown/Magic Items/Rare/Chime of Opening.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Circlet of Blasting.md"
+@include    1-11 "markdown/Magic Items/Very Rare/Cloak of Arachnida.md"
+@include    1-5 "markdown/Magic Items/Rare/Cloak of Displacement.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Cloak of Elvenkind.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Cloak of Protection.md"
+@include    1-7 "markdown/Magic Items/Rare/Cloak of the Bat.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Cloak of the Manta Ray.md"
+@include    1-13 "markdown/Magic Items/Varies/Crystal Ball.md"
+@include    1-30 "markdown/Magic Items/Rare/Cube of Force.md"
+@include    1-9 "markdown/Magic Items/Legendary/Cubic Gate.md"
+@include    1-7 "markdown/Magic Items/Rare/Dagger of Venom.md"
+@include    1-9 "markdown/Magic Items/Very Rare/Dancing Sword.md"
+@include    1-11 "markdown/Magic Items/Uncommon/Decanter of Endless Water.md"
+@include    1-46 "markdown/Magic Items/Uncommon/Deck of Illusions.md"
+@include    1-110 "markdown/Magic Items/Legendary/Deck of Many Things.md"
+@include    1-7 "markdown/Magic Items/Legendary/Defender.md"
+@include    1-7 "markdown/Magic Items/Very Rare/Demon Armor.md"
+@include    1-7 "markdown/Magic Items/Rare/Dimensional Shackles.md"
+@include    1-22 "markdown/Magic Items/Very Rare/Dragon Scale Mail.md"
+@include    1-7 "markdown/Magic Items/Rare/Dragon Slayer.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Dust of Disappearance.md"
+@include    1-9 "markdown/Magic Items/Uncommon/Dust of Dryness.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Dust of Sneezing and Choking.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Dwarven Plate.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Dwarven Thrower.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Efficient Quiver.md"
+@include    1-13 "markdown/Magic Items/Very Rare/Efreeti Bottle.md"
+@include    1-12 "markdown/Magic Items/Uncommon/Elemental Gem.md"
+@include    1-5 "markdown/Magic Items/Rare/Elven Chain.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Eversmoking Bottle.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Eyes of Charming.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Eyes of Minute Seeing.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Eyes of the Eagle.md"
+@include    1-28 "markdown/Magic Items/Rare/Feather Token.md"
+@include    1-50 "markdown/Magic Items/Varies/Figurine of Wondrous Power.md"
+@include    1-5 "markdown/Magic Items/Rare/Flame Tongue.md"
+@include    1-13 "markdown/Magic Items/Rare/Folding Boat.md"
+@include    1-9 "markdown/Magic Items/Very Rare/Frost Brand.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Gauntlets of Ogre Power.md"
+@include    1-11 "markdown/Magic Items/Uncommon/Gem of Brightness.md"
+@include    1-7 "markdown/Magic Items/Rare/Gem of Seeing.md"
+@include    1-7 "markdown/Magic Items/Rare/Giant Slayer.md"
+@include    1-5 "markdown/Magic Items/Rare/Glamoured Studded Leather.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Gloves of Missile Snaring.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Gloves of Swimming and Climbing.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Goggles of Night.md"
+@include    1-9 "markdown/Magic Items/Legendary/Hammer of Thunderbolts.md"
+@include    1-11 "markdown/Magic Items/Rare/Handy Haversack.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Hat of Disguise.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Headband of Intellect.md"
+@include    1-14 "markdown/Magic Items/Very Rare/Helm of Brilliance.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Helm of Comprehending Languages.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Helm of Telepathy.md"
+@include    1-5 "markdown/Magic Items/Rare/Helm of Teleportation.md"
+@include    1-7 "markdown/Magic Items/Legendary/Holy Avenger.md"
+@include    1-7 "markdown/Magic Items/Rare/Horn of Blasting.md"
+@include    1-16 "markdown/Magic Items/Varies/Horn of Valhalla.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Horseshoes of a Zephyr.md"
+@include    1-5 "markdown/Magic Items/Rare/Horseshoes of Speed.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Immovable Rod.md"
+@include    1-11 "markdown/Magic Items/Rare/Instant Fortress.md"
+@include    1-45 "markdown/Magic Items/Varies/Ioun Stone.md"
+@include    1-11 "markdown/Magic Items/Rare/Iron Bands of Binding.md"
+@include    1-32 "markdown/Magic Items/Legendary/Iron Flask.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Javelin of Lightning.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Lantern of Revealing.md"
+@include    1-9 "markdown/Magic Items/Legendary/Luck Blade.md"
+@include    1-7 "markdown/Magic Items/Rare/Mace of Disruption.md"
+@include    1-7 "markdown/Magic Items/Rare/Mace of Smiting.md"
+@include    1-7 "markdown/Magic Items/Rare/Mace of Terror.md"
+@include    1-5 "markdown/Magic Items/Rare/Mantle of Spell Resistance.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Manual of Bodily Health.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Manual of Gainful Exercise.md"
+@include    1-16 "markdown/Magic Items/Very Rare/Manual of Golems.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Manual of Quickness of Action.md"
+@include    1-13 "markdown/Magic Items/Very Rare/Marvelous Pigments.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Medallion of Thoughts.md"
+@include    1-17 "markdown/Magic Items/Very Rare/Mirror of Life Trapping.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Mithral Armor.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Necklace of Adaptation.md"
+@include    1-7 "markdown/Magic Items/Rare/Necklace of Fireballs.md"
+@include    1-16 "markdown/Magic Items/Rare/Necklace of Prayer Beads.md"
+@include    1-7 "markdown/Magic Items/Very Rare/Nine Lives Stealer.md"
+@include    1-9 "markdown/Magic Items/Very Rare/Oathbow.md"
+@include    1-5 "markdown/Magic Items/Rare/Oil of Etherealness.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Oil of Sharpness.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Oil of Slipperiness.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Pearl of Power.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Periapt of Health.md"
+@include    1-5 "markdown/Magic Items/Rare/Periapt of Proof against Poison.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Periapt of Wound Closure.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Philter of Love.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Pipes of Haunting.md"
+@include    1-9 "markdown/Magic Items/Uncommon/Pipes of the Sewers.md"
+@include    1-5 "markdown/Magic Items/Legendary/Plate Armor of Etherealness.md"
+@include    1-13 "markdown/Magic Items/Rare/Portable Hole.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Potion of Animal Friendship.md"
+@include    1-5 "markdown/Magic Items/Rare/Potion of Clairvoyance.md"
+@include    1-5 "markdown/Magic Items/Common/Potion of Climbing.md"
+@include    1-5 "markdown/Magic Items/Rare/Potion of Diminution.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Potion of Flying.md"
+@include    1-5 "markdown/Magic Items/Rare/Potion of Gaseous Form.md"
+@include    1-15 "markdown/Magic Items/Varies/Potion of Giant Strength.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Potion of Growth.md"
+@include    1-16 "markdown/Magic Items/Varies/Potion of Healing.md"
+@include    1-5 "markdown/Magic Items/Rare/Potion of Heroism.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Potion of Invisibility.md"
+@include    1-5 "markdown/Magic Items/Rare/Potion of Mind Reading.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Potion of Poison.md"
+@include    1-18 "markdown/Magic Items/Uncommon/Potion of Resistance.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Potion of Speed.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Potion of Water Breathing.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Restorative Ointment.md"
+@include    1-9 "markdown/Magic Items/Rare/Ring of Animal Influence.md"
+@include    1-9 "markdown/Magic Items/Legendary/Ring of Djinni Summoning.md"
+@include    1-39 "markdown/Magic Items/Legendary/Ring of Elemental Command.md"
+@include    1-5 "markdown/Magic Items/Rare/Ring of Evasion.md"
+@include    1-5 "markdown/Magic Items/Rare/Ring of Feather Falling.md"
+@include    1-5 "markdown/Magic Items/Rare/Ring of Free Action.md"
+@include    1-5 "markdown/Magic Items/Legendary/Ring of Invisibility.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Ring of Jumping.md"
+@include    1-9 "markdown/Magic Items/Uncommon/Ring of Mind Shielding.md"
+@include    1-5 "markdown/Magic Items/Rare/Ring of Protection.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Ring of Regeneration.md"
+@include    1-18 "markdown/Magic Items/Rare/Ring of Resistance.md"
+@include    1-24 "markdown/Magic Items/Very Rare/Ring of Shooting Stars.md"
+@include    1-9 "markdown/Magic Items/Rare/Ring of Spell Storing.md"
+@include    1-5 "markdown/Magic Items/Legendary/Ring of Spell Turning.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Ring of Swimming.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Ring of Telekinesis.md"
+@include    1-7 "markdown/Magic Items/Rare/Ring of the Ram.md"
+@include    1-5 "markdown/Magic Items/Legendary/Ring of Three Wishes.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Ring of Warmth.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Ring of Water Walking.md"
+@include    1-7 "markdown/Magic Items/Rare/Ring of X-ray Vision.md"
+@include    1-13 "markdown/Magic Items/Rare/Robe of Eyes.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Robe of Scintillating Colors.md"
+@include    1-9 "markdown/Magic Items/Very Rare/Robe of Stars.md"
+@include    1-11 "markdown/Magic Items/Legendary/Robe of the Archmagi.md"
+@include    1-32 "markdown/Magic Items/Uncommon/Robe of Useful Items.md"
+@include    1-11 "markdown/Magic Items/Very Rare/Rod of Absorption.md"
+@include    1-13 "markdown/Magic Items/Very Rare/Rod of Alertness.md"
+@include    1-25 "markdown/Magic Items/Legendary/Rod of Lordly Might.md"
+@include    1-5 "markdown/Magic Items/Rare/Rod of Rulership.md"
+@include    1-9 "markdown/Magic Items/Very Rare/Rod of Security.md"
+@include    1-9 "markdown/Magic Items/Uncommon/Rope of Climbing.md"
+@include    1-9 "markdown/Magic Items/Rare/Rope of Entanglement.md"
+@include    1-8 "markdown/Magic Items/Legendary/Scarab of Protection.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Scimitar of Speed.md"
+@include    1-5 "markdown/Magic Items/Varies/Shield, +1, +2, or +3.md"
+@include    1-7 "markdown/Magic Items/Rare/Shield of Missile Attraction.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Slippers of Spider Climbing.md"
+@include    1-7 "markdown/Magic Items/Legendary/Sovereign Glue.md"
+@include    1-26 "markdown/Magic Items/Varies/Spell Scroll.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Spellguard Shield.md"
+@include    1-19 "markdown/Magic Items/Legendary/Sphere of Annihilation.md"
+@include    1-9 "markdown/Magic Items/Rare/Staff of Charming.md"
+@include    1-9 "markdown/Magic Items/Very Rare/Staff of Fire.md"
+@include    1-9 "markdown/Magic Items/Very Rare/Staff of Frost.md"
+@include    1-7 "markdown/Magic Items/Rare/Staff of Healing.md"
+@include    1-21 "markdown/Magic Items/Very Rare/Staff of Power.md"
+@include    1-7 "markdown/Magic Items/Very Rare/Staff of Striking.md"
+@include    1-9 "markdown/Magic Items/Rare/Staff of Swarming Insects.md"
+@include    1-23 "markdown/Magic Items/Legendary/Staff of the Magi.md"
+@include    1-9 "markdown/Magic Items/Uncommon/Staff of the Python.md"
+@include    1-13 "markdown/Magic Items/Rare/Staff of the Woodlands.md"
+@include    1-15 "markdown/Magic Items/Very Rare/Staff of Thunder and Lightning.md"
+@include    1-7 "markdown/Magic Items/Rare/Staff of Withering.md"
+@include    1-5 "markdown/Magic Items/Rare/Stone of Controlling Earth Elementals.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Stone of Good Luck (Luckstone).md"
+@include    1-9 "markdown/Magic Items/Rare/Sun Blade.md"
+@include    1-5 "markdown/Magic Items/Rare/Sword of Life Stealing.md"
+@include    1-9 "markdown/Magic Items/Very Rare/Sword of Sharpness.md"
+@include    1-7 "markdown/Magic Items/Rare/Sword of Wounding.md"
+@include    1-9 "markdown/Magic Items/Legendary/Talisman of Pure Good.md"
+@include    1-5 "markdown/Magic Items/Legendary/Talisman of the Sphere.md"
+@include    1-9 "markdown/Magic Items/Legendary/Talisman of Ultimate Evil.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Tome of Clear Thought.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Tome of Leadership and Influence.md"
+@include    1-5 "markdown/Magic Items/Very Rare/Tome of Understanding.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Trident of Fish Command.md"
+@include    1-5 "markdown/Magic Items/Legendary/Universal Solvent.md"
+@include    1-5 "markdown/Magic Items/Rare/Vicious Weapon.md"
+@include    1-7 "markdown/Magic Items/Legendary/Vorpal Sword.md"
+@include    1-9 "markdown/Magic Items/Rare/Wand of Binding.md"
+@include    1-7 "markdown/Magic Items/Rare/Wand of Enemy Detection.md"
+@include    1-9 "markdown/Magic Items/Rare/Wand of Fear.md"
+@include    1-7 "markdown/Magic Items/Rare/Wand of Fireballs.md"
+@include    1-7 "markdown/Magic Items/Rare/Wand of Lightning Bolts.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Wand of Magic Detection.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Wand of Magic Missiles.md"
+@include    1-7 "markdown/Magic Items/Rare/Wand of Paralysis.md"
+@include    1-7 "markdown/Magic Items/Very Rare/Wand of Polymorph.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Wand of Secrets.md"
+@include    1-5 "markdown/Magic Items/Varies/Wand of the War Mage, +1, +2, or +3.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Wand of Web.md"
+@include    1-36 "markdown/Magic Items/Rare/Wand of Wonder.md"
+@include    1-5 "markdown/Magic Items/Varies/Weapon, +1, +2, or +3.md"
+@include    1-7 "markdown/Magic Items/Legendary/Well of Many Worlds.md"
+@include    1-5 "markdown/Magic Items/Uncommon/Wind Fan.md"
+@include    1-7 "markdown/Magic Items/Uncommon/Winged Boots.md"
+@include    1-5 "markdown/Magic Items/Rare/Wings of Flying.md"
+@include- 0 1-86 "markdown/Magic Items/Sentient Magic Items.md"
 
 # Artifacts
 
-@include-   markdown/magic_items/artifact/orb_of_dragonkind.md
+@include-   1-29 "markdown/Magic Items/Artifact/Orb of Dragonkind.md"
 
-@include  0 markdown/statblocks/monsters.md
-@include-   markdown/statblocks/legendary.md
+@include  0 1-340 "markdown/Monsters/Monsters.md"
+@include-   1-21 "markdown/Monsters/Legendary Creatures.md"
 @adjust 2
 
 # Monsters (A)
 
-@include-   markdown/statblocks/aboleth.md
+@include-   1-46 "markdown/Monsters/Aboleth.md"
 
 ## Angels
 
-@include    markdown/statblocks/deva.md
-@include    markdown/statblocks/planetar.md
-@include-   markdown/statblocks/solar.md
+@include    1-43 "markdown/Monsters/Deva.md"
+@include    1-42 "markdown/Monsters/Planetar.md"
+@include-   1-55 "markdown/Monsters/Solar.md"
 
 ## Animated Objects
 
-@include    markdown/statblocks/animated_armor.md
-@include    markdown/statblocks/flying_sword.md
-@include-   markdown/statblocks/rug_of_smothering.md
+@include    1-31 "markdown/Monsters/Animated Armor.md"
+@include    1-29 "markdown/Monsters/Flying Sword.md"
+@include-   1-31 "markdown/Monsters/Rug of Smothering.md"
 
-@include    markdown/statblocks/ankheg.md
-@include-   markdown/statblocks/azer.md
+@include    1-23 "markdown/Monsters/Ankheg.md"
+@include-   1-31 "markdown/Monsters/Azer.md"
 
 # Monsters (B)
 
-@include    markdown/statblocks/basilisk.md
-@include    markdown/statblocks/behir.md
-@include    markdown/statblocks/bugbear.md
-@include-   markdown/statblocks/bulette.md
+@include    1-29 "markdown/Monsters/Basilisk.md"
+@include    1-33 "markdown/Monsters/Behir.md"
+@include    1-30 "markdown/Monsters/Bugbear.md"
+@include-   1-28 "markdown/Monsters/Bulette.md"
 
 # Monsters (C)
 
-@include    markdown/statblocks/centaur.md
-@include    markdown/statblocks/chimera.md
-@include    markdown/statblocks/chuul.md
-@include    markdown/statblocks/cloaker.md
-@include    markdown/statblocks/cockatrice.md
-@include-   markdown/statblocks/couatl.md
+@include    1-32 "markdown/Monsters/Centaur.md"
+@include    1-30 "markdown/Monsters/Chimera.md"
+@include    1-34 "markdown/Monsters/Chuul.md"
+@include    1-42 "markdown/Monsters/Cloaker.md"
+@include    1-21 "markdown/Monsters/Cockatrice.md"
+@include-   1-41 "markdown/Monsters/Couatl.md"
 
 # Monsters (D)
 
-@include-   markdown/statblocks/darkmantle.md
+@include-   1-34 "markdown/Monsters/Darkmantle.md"
 
 ## Demons
 
-@include    markdown/statblocks/balor.md
-@include    markdown/statblocks/dretch.md
-@include    markdown/statblocks/glabrezu.md
-@include    markdown/statblocks/hezrou.md
-@include    markdown/statblocks/marilith.md
-@include    markdown/statblocks/nalfeshnee.md
-@include    markdown/statblocks/quasit.md
-@include-   markdown/statblocks/vrock.md
+@include    1-40 "markdown/Monsters/Balor.md"
+@include    1-30 "markdown/Monsters/Dretch.md"
+@include    1-37 "markdown/Monsters/Glabrezu.md"
+@include    1-34 "markdown/Monsters/Hezrou.md"
+@include    1-42 "markdown/Monsters/Marilith.md"
+@include    1-36 "markdown/Monsters/Nalfeshnee.md"
+@include    1-35 "markdown/Monsters/Quasit.md"
+@include-   1-36 "markdown/Monsters/Vrock.md"
 
 ## Devils
 
-@include    markdown/statblocks/barbed_devil.md
-@include    markdown/statblocks/bearded_devil.md
-@include    markdown/statblocks/bone_devil.md
-@include    markdown/statblocks/chain_devil.md
-@include    markdown/statblocks/erinyes.md
-@include    markdown/statblocks/horned_devil.md
-@include    markdown/statblocks/ice_devil.md
-@include    markdown/statblocks/imp.md
-@include    markdown/statblocks/lemure.md
-@include-   markdown/statblocks/pit_fiend.md
+@include    1-39 "markdown/Monsters/Barbed Devil.md"
+@include    1-36 "markdown/Monsters/Bearded Devil.md"
+@include    1-35 "markdown/Monsters/Bone Devil.md"
+@include    1-40 "markdown/Monsters/Chain Devil.md"
+@include    1-38 "markdown/Monsters/Erinyes.md"
+@include    1-36 "markdown/Monsters/Horned Devil.md"
+@include    1-42 "markdown/Monsters/Ice Devil.md"
+@include    1-35 "markdown/Monsters/Imp.md"
+@include    1-30 "markdown/Monsters/Lemure.md"
+@include-   1-45 "markdown/Monsters/Pit Fiend.md"
 
 ## Dinosaurs
 
-@include    markdown/statblocks/plesiosaurus.md
-@include    markdown/statblocks/triceratops.md
-@include-   markdown/statblocks/tyrannosaurus_rex.md
+@include    1-26 "markdown/Monsters/Plesiosaurus.md"
+@include    1-27 "markdown/Monsters/Triceratops.md"
+@include-   1-26 "markdown/Monsters/Tyrannosaurus Rex.md"
 
-@include-   markdown/statblocks/doppelganger.md
+@include-   1-35 "markdown/Monsters/Doppelganger.md"
 
 ## Dragons, Chromatic
 
 ## Black Dragon
 
-@include    markdown/statblocks/ancient_black_dragon.md
-@include    markdown/statblocks/adult_black_dragon.md
-@include    markdown/statblocks/young_black_dragon.md
-@include-   markdown/statblocks/black_dragon_wyrmling.md
+@include    1-47 "markdown/Monsters/Ancient Black Dragon.md"
+@include    1-47 "markdown/Monsters/Adult Black Dragon.md"
+@include    1-33 "markdown/Monsters/Young Black Dragon.md"
+@include-   1-29 "markdown/Monsters/Black Dragon Wyrmling.md"
 
 ## Blue Dragon
 
-@include    markdown/statblocks/ancient_blue_dragon.md
-@include    markdown/statblocks/adult_blue_dragon.md
-@include    markdown/statblocks/young_blue_dragon.md
-@include-   markdown/statblocks/blue_dragon_wyrmling.md
+@include    1-45 "markdown/Monsters/Ancient Blue Dragon.md"
+@include    1-45 "markdown/Monsters/Adult Blue Dragon.md"
+@include    1-29 "markdown/Monsters/Young Blue Dragon.md"
+@include-   1-25 "markdown/Monsters/Blue Dragon Wyrmling.md"
 
 ## Green Dragon
 
-@include    markdown/statblocks/ancient_green_dragon.md
-@include    markdown/statblocks/adult_green_dragon.md
-@include    markdown/statblocks/young_green_dragon.md
-@include-   markdown/statblocks/green_dragon_wyrmling.md
+@include    1-48 "markdown/Monsters/Ancient Green Dragon.md"
+@include    1-48 "markdown/Monsters/Adult Green Dragon.md"
+@include    1-34 "markdown/Monsters/Young Green Dragon.md"
+@include-   1-30 "markdown/Monsters/Green Dragon Wyrmling.md"
 
 ## Red Dragon
 
-@include    markdown/statblocks/ancient_red_dragon.md
-@include    markdown/statblocks/adult_red_dragon.md
-@include    markdown/statblocks/young_red_dragon.md
-@include-   markdown/statblocks/red_dragon_wyrmling.md
+@include    1-45 "markdown/Monsters/Ancient Red Dragon.md"
+@include    1-45 "markdown/Monsters/Adult Red Dragon.md"
+@include    1-29 "markdown/Monsters/Young Red Dragon.md"
+@include-   1-25 "markdown/Monsters/Red Dragon Wyrmling.md"
 
 ## White Dragon
 
-@include    markdown/statblocks/ancient_white_dragon.md
-@include    markdown/statblocks/adult_white_dragon.md
-@include    markdown/statblocks/young_white_dragon.md
-@include-   markdown/statblocks/white_dragon_wyrmling.md
+@include    1-47 "markdown/Monsters/Ancient White Dragon.md"
+@include    1-47 "markdown/Monsters/Adult White Dragon.md"
+@include    1-33 "markdown/Monsters/Young White Dragon.md"
+@include-   1-25 "markdown/Monsters/White Dragon Wyrmling.md"
 
 ## Dragons, Metallic
 
 ## Brass Dragon
 
-@include    markdown/statblocks/ancient_brass_dragon.md
-@include    markdown/statblocks/adult_brass_dragon.md
-@include    markdown/statblocks/young_brass_dragon.md
-@include-   markdown/statblocks/brass_dragon_wyrmling.md
+@include    1-52 "markdown/Monsters/Ancient Brass Dragon.md"
+@include    1-48 "markdown/Monsters/Adult Brass Dragon.md"
+@include    1-32 "markdown/Monsters/Young Brass Dragon.md"
+@include-   1-28 "markdown/Monsters/Brass Dragon Wyrmling.md"
 
 ## Bronze Dragon
 
-@include    markdown/statblocks/ancient_bronze_dragon.md
-@include    markdown/statblocks/adult_bronze_dragon.md
-@include    markdown/statblocks/young_bronze_dragon.md
-@include-   markdown/statblocks/bronze_dragon_wyrmling.md
+@include    1-54 "markdown/Monsters/Ancient Bronze Dragon.md"
+@include    1-54 "markdown/Monsters/Adult Bronze Dragon.md"
+@include    1-36 "markdown/Monsters/Young Bronze Dragon.md"
+@include-   1-32 "markdown/Monsters/Bronze Dragon Wyrmling.md"
 
 ## Copper Dragon
 
-@include    markdown/statblocks/ancient_copper_dragon.md
-@include    markdown/statblocks/adult_copper_dragon.md
-@include    markdown/statblocks/young_copper_dragon.md
-@include-   markdown/statblocks/copper_dragon_wyrmling.md
+@include    1-52 "markdown/Monsters/Ancient Copper Dragon.md"
+@include    1-48 "markdown/Monsters/Adult Copper Dragon.md"
+@include    1-32 "markdown/Monsters/Young Copper Dragon.md"
+@include-   1-28 "markdown/Monsters/Copper Dragon Wyrmling.md"
 
 ## Gold Dragon
 
-@include    markdown/statblocks/ancient_gold_dragon.md
-@include    markdown/statblocks/adult_gold_dragon.md
-@include    markdown/statblocks/young_gold_dragon.md
-@include-   markdown/statblocks/gold_dragon_wyrmling.md
+@include    1-54 "markdown/Monsters/Ancient Gold Dragon.md"
+@include    1-54 "markdown/Monsters/Adult Gold Dragon.md"
+@include    1-36 "markdown/Monsters/Young Gold Dragon.md"
+@include-   1-32 "markdown/Monsters/Gold Dragon Wyrmling.md"
 
 ## Silver Dragon
 
-@include    markdown/statblocks/ancient_silver_dragon.md
-@include    markdown/statblocks/adult_silver_dragon.md
-@include    markdown/statblocks/young_silver_dragon.md
-@include-   markdown/statblocks/silver_dragon_wyrmling.md
+@include    1-52 "markdown/Monsters/Ancient Silver Dragon.md"
+@include    1-52 "markdown/Monsters/Adult Silver Dragon.md"
+@include    1-32 "markdown/Monsters/Young Silver Dragon.md"
+@include-   1-28 "markdown/Monsters/Silver Dragon Wyrmling.md"
 
-@include-   markdown/statblocks/dragon_turtle.md
+@include-   1-34 "markdown/Monsters/Dragon Turtle.md"
 
-@include    markdown/statblocks/drider.md
-@include    markdown/statblocks/dryad.md
-@include-   markdown/statblocks/duergar.md
+@include    1-43 "markdown/Monsters/Drider.md"
+@include    1-42 "markdown/Monsters/Dryad.md"
+@include-   1-34 "markdown/Monsters/Duergar.md"
 
 # Monsters (E)
 
 ## Elementals
 
-@include    markdown/statblocks/air_elemental.md
-@include    markdown/statblocks/earth_elemental.md
-@include    markdown/statblocks/fire_elemental.md
-@include-   markdown/statblocks/water_elemental.md
+@include    1-34 "markdown/Monsters/Air Elemental.md"
+@include    1-33 "markdown/Monsters/Earth Elemental.md"
+@include    1-34 "markdown/Monsters/Fire Elemental.md"
+@include-   1-36 "markdown/Monsters/Water Elemental.md"
 
-@include    markdown/statblocks/elf_drow.md
-@include    markdown/statblocks/ettercap.md
-@include-   markdown/statblocks/ettin.md
+@include    1-35 "markdown/Monsters/Elf, Drow.md"
+@include    1-36 "markdown/Monsters/Ettercap.md"
+@include-   1-32 "markdown/Monsters/Ettin.md"
 
 # Monsters (F)
 
 ## Fungi
 
-@include    markdown/statblocks/shrieker.md
-@include-   markdown/statblocks/violet_fungus.md
+@include    1-26 "markdown/Monsters/Shrieker.md"
+@include-   1-28 "markdown/Monsters/Violet Fungus.md"
 
 # Monsters (G)
 
-@include-   markdown/statblocks/gargoyle.md
+@include-   1-32 "markdown/Monsters/Gargoyle.md"
 
 ## Genies
 
-@include    markdown/statblocks/djinni.md
-@include-   markdown/statblocks/efreeti.md
+@include    1-38 "markdown/Monsters/Djinni.md"
+@include-   1-36 "markdown/Monsters/Efreeti.md"
 
-@include-   markdown/statblocks/ghost.md
+@include-   1-38 "markdown/Monsters/Ghost.md"
 
 ## Ghouls
 
-@include    markdown/statblocks/ghast.md
-@include-   markdown/statblocks/ghoul.md
+@include    1-32 "markdown/Monsters/Ghast.md"
+@include-   1-25 "markdown/Monsters/Ghoul.md"
 
 ## Giants
 
-@include    markdown/statblocks/cloud_giant.md
-@include    markdown/statblocks/fire_giant.md
-@include    markdown/statblocks/frost_giant.md
-@include    markdown/statblocks/hill_giant.md
-@include    markdown/statblocks/stone_giant.md
-@include-   markdown/statblocks/storm_giant.md
+@include    1-36 "markdown/Monsters/Cloud Giant.md"
+@include    1-27 "markdown/Monsters/Fire Giant.md"
+@include    1-27 "markdown/Monsters/Frost Giant.md"
+@include    1-26 "markdown/Monsters/Hill Giant.md"
+@include    1-34 "markdown/Monsters/Stone Giant.md"
+@include-   1-39 "markdown/Monsters/Storm Giant.md"
 
-@include    markdown/statblocks/gibbering_mouther.md
-@include    markdown/statblocks/gnoll.md
-@include    markdown/statblocks/gnome_deep_svirfneblin.md
-@include-   markdown/statblocks/goblin.md
+@include    1-32 "markdown/Monsters/Gibbering Mouther.md"
+@include    1-29 "markdown/Monsters/Gnoll.md"
+@include    1-35 "markdown/Monsters/Gnome, Deep (Svirfneblin).md"
+@include-   1-28 "markdown/Monsters/Goblin.md"
 
 ## Golems
 
-@include    markdown/statblocks/clay_golem.md
-@include    markdown/statblocks/flesh_golem.md
-@include    markdown/statblocks/iron_golem.md
-@include-   markdown/statblocks/stone_golem.md
+@include    1-39 "markdown/Monsters/Clay Golem.md"
+@include    1-41 "markdown/Monsters/Flesh Golem.md"
+@include    1-39 "markdown/Monsters/Iron Golem.md"
+@include-   1-35 "markdown/Monsters/Stone Golem.md"
 
-@include    markdown/statblocks/gorgon.md
-@include    markdown/statblocks/grick.md
-@include    markdown/statblocks/griffon.md
-@include-   markdown/statblocks/grimlock.md
+@include    1-31 "markdown/Monsters/Gorgon.md"
+@include    1-30 "markdown/Monsters/Grick.md"
+@include    1-30 "markdown/Monsters/Griffon.md"
+@include-   1-29 "markdown/Monsters/Grimlock.md"
 
 # Monsters (H)
 
 ## Hags
 
-@include    markdown/statblocks/green_hag.md
-@include    markdown/statblocks/night_hag.md
-@include-   markdown/statblocks/sea_hag.md
+@include    1-38 "markdown/Monsters/Green Hag.md"
+@include    1-39 "markdown/Monsters/Night Hag.md"
+@include-   1-35 "markdown/Monsters/Sea Hag.md"
 
-@include    markdown/statblocks/half_dragon.md
-@include    markdown/statblocks/harpy.md
-@include    markdown/statblocks/hell_hound.md
-@include    markdown/statblocks/hippogriff.md
-@include    markdown/statblocks/hobgoblin.md
-@include    markdown/statblocks/homunculus.md
-@include-   markdown/statblocks/hydra.md
+@include    1-59 "markdown/Monsters/Half-Dragon Template.md"
+@include    1-31 "markdown/Monsters/Harpy.md"
+@include    1-31 "markdown/Monsters/Hell Hound.md"
+@include    1-30 "markdown/Monsters/Hippogriff.md"
+@include    1-27 "markdown/Monsters/Hobgoblin.md"
+@include    1-27 "markdown/Monsters/Homunculus.md"
+@include-   1-38 "markdown/Monsters/Hydra.md"
 
 # Monsters (I)
 
-@include-   markdown/statblocks/invisible_stalker.md
+@include-   1-33 "markdown/Monsters/Invisible Stalker.md"
 
 # Monsters (K)
 
-@include    markdown/statblocks/kobold.md
-@include-   markdown/statblocks/kraken.md
+@include    1-29 "markdown/Monsters/Kobold.md"
+@include-   1-49 "markdown/Monsters/Kraken.md"
 
 # Monsters (L)
 
-@include    markdown/statblocks/lamia.md
-@include    markdown/statblocks/lich.md
-@include-   markdown/statblocks/lizardfolk.md
+@include    1-36 "markdown/Monsters/Lamia.md"
+@include    1-55 "markdown/Monsters/Lich.md"
+@include-   1-34 "markdown/Monsters/Lizardfolk.md"
 
 ## Lycanthropes
 
-@include    markdown/statblocks/werebear.md
-@include    markdown/statblocks/wereboar.md
-@include    markdown/statblocks/wererat.md
-@include    markdown/statblocks/weretiger.md
-@include-   markdown/statblocks/werewolf.md
+@include    1-35 "markdown/Monsters/Werebear.md"
+@include    1-35 "markdown/Monsters/Wereboar.md"
+@include    1-33 "markdown/Monsters/Wererat.md"
+@include    1-39 "markdown/Monsters/Weretiger.md"
+@include-   1-35 "markdown/Monsters/Werewolf.md"
 
 # Monsters (M)
 
-@include    markdown/statblocks/magmin.md
-@include    markdown/statblocks/manticore.md
-@include-   markdown/statblocks/medusa.md
+@include    1-29 "markdown/Monsters/Magmin.md"
+@include    1-31 "markdown/Monsters/Manticore.md"
+@include-   1-36 "markdown/Monsters/Medusa.md"
 
 ## Mephits
 
-@include    markdown/statblocks/dust_mephit.md
-@include    markdown/statblocks/ice_mephit.md
-@include    markdown/statblocks/magma_mephit.md
-@include-   markdown/statblocks/steam_mephit.md
+@include    1-33 "markdown/Monsters/Dust Mephit.md"
+@include    1-35 "markdown/Monsters/Ice Mephit.md"
+@include    1-35 "markdown/Monsters/Magma Mephit.md"
+@include-   1-31 "markdown/Monsters/Steam Mephit.md"
 
-@include    markdown/statblocks/merfolk.md
-@include    markdown/statblocks/merrow.md
-@include    markdown/statblocks/mimic.md
-@include-   markdown/statblocks/minotaur.md
+@include    1-26 "markdown/Monsters/Merfolk.md"
+@include    1-31 "markdown/Monsters/Merrow.md"
+@include    1-36 "markdown/Monsters/Mimic.md"
+@include-   1-32 "markdown/Monsters/Minotaur.md"
 
 ## Mummies
 
-@include    markdown/statblocks/mummy.md
-@include-   markdown/statblocks/mummy_lord.md
+@include    1-29 "markdown/Monsters/Mummy.md"
+@include-   1-55 "markdown/Monsters/Mummy Lord.md"
 
 # Monsters (N)
 
 ## Nagas
 
-@include    markdown/statblocks/guardian_naga.md
-@include-   markdown/statblocks/spirit_naga.md
+@include    1-39 "markdown/Monsters/Guardian Naga.md"
+@include-   1-36 "markdown/Monsters/Spirit Naga.md"
 
-@include-   markdown/statblocks/nightmare.md
+@include-   1-30 "markdown/Monsters/Nightmare.md"
 
 # Monsters (O)
 
-@include    markdown/statblocks/ogre.md
-@include-   markdown/statblocks/oni.md
+@include    1-23 "markdown/Monsters/Ogre.md"
+@include-   1-39 "markdown/Monsters/Oni.md"
 
 ## Oozes
 
-@include    markdown/statblocks/black_pudding.md
-@include    markdown/statblocks/gelatinous_cube.md
-@include    markdown/statblocks/gray_ooze.md
-@include-   markdown/statblocks/ochre_jelly.md
+@include    1-37 "markdown/Monsters/Black Pudding.md"
+@include    1-42 "markdown/Monsters/Gelatinous Cube.md"
+@include    1-34 "markdown/Monsters/Gray Ooze.md"
+@include-   1-34 "markdown/Monsters/Ochre Jelly.md"
 
-@include    markdown/statblocks/orc.md
-@include    markdown/statblocks/otyugh.md
-@include-   markdown/statblocks/owlbear.md
+@include    1-28 "markdown/Monsters/Orc.md"
+@include    1-31 "markdown/Monsters/Otyugh.md"
+@include-   1-30 "markdown/Monsters/Owlbear.md"
 
 # Monsters (P)
 
-@include    markdown/statblocks/pegasus.md
-@include    markdown/statblocks/pseudodragon.md
-@include-   markdown/statblocks/purple_worm.md
+@include    1-22 "markdown/Monsters/Pegasus.md"
+@include    1-32 "markdown/Monsters/Pseudodragon.md"
+@include-   1-31 "markdown/Monsters/Purple Worm.md"
 
 # Monsters (R)
 
-@include    markdown/statblocks/rakshasa.md
-@include    markdown/statblocks/remorhaz.md
-@include    markdown/statblocks/roc.md
-@include    markdown/statblocks/roper.md
-@include-   markdown/statblocks/rust_monster.md
+@include    1-36 "markdown/Monsters/Rakshasa.md"
+@include    1-30 "markdown/Monsters/Remorhaz.md"
+@include    1-30 "markdown/Monsters/Roc.md"
+@include    1-36 "markdown/Monsters/Roper.md"
+@include-   1-31 "markdown/Monsters/Rust Monster.md"
 
 # Monsters (S)
 
-@include    markdown/statblocks/sahuagin.md
-@include    markdown/statblocks/salamander.md
-@include    markdown/statblocks/satyr.md
-@include    markdown/statblocks/shadow.md
-@include    markdown/statblocks/shambling_mound.md
-@include-   markdown/statblocks/shield_guardian.md
+@include    1-36 "markdown/Monsters/Sahuagin.md"
+@include    1-34 "markdown/Monsters/Salamander.md"
+@include    1-30 "markdown/Monsters/Satyr.md"
+@include    1-36 "markdown/Monsters/Shadow.md"
+@include    1-33 "markdown/Monsters/Shambling Mound.md"
+@include-   1-37 "markdown/Monsters/Shield Guardian.md"
 
 ## Skeletons
 
-@include    markdown/statblocks/skeleton.md
-@include    markdown/statblocks/minotaur_skeleton.md
-@include-   markdown/statblocks/warhorse_skeleton.md
+@include    1-26 "markdown/Monsters/Skeleton.md"
+@include    1-30 "markdown/Monsters/Minotaur Skeleton.md"
+@include-   1-24 "markdown/Monsters/Warhorse Skeleton.md"
 
-@include-   markdown/statblocks/specter.md
+@include-   1-30 "markdown/Monsters/Specter.md"
 
 ## Sphinxes
 
-@include    markdown/statblocks/androsphinx.md
-@include-   markdown/statblocks/gynosphinx.md
+@include    1-56 "markdown/Monsters/Androsphinx.md"
+@include-   1-50 "markdown/Monsters/Gynosphinx.md"
 
-@include    markdown/statblocks/sprite.md
-@include    markdown/statblocks/stirge.md
-@include-   markdown/statblocks/succubus_incubus.md
+@include    1-28 "markdown/Monsters/Sprite.md"
+@include    1-23 "markdown/Monsters/Stirge.md"
+@include-   1-37 "markdown/Monsters/Succubus Incubus.md"
 
 # Monsters (T)
 
-@include    markdown/statblocks/tarrasque.md
-@include    markdown/statblocks/treant.md
-@include-   markdown/statblocks/troll.md
+@include    1-55 "markdown/Monsters/Tarrasque.md"
+@include    1-35 "markdown/Monsters/Treant.md"
+@include-   1-32 "markdown/Monsters/Troll.md"
 
 # Monsters (U)
 
-@include-   markdown/statblocks/unicorn.md
+@include-   1-52 "markdown/Monsters/Unicorn.md"
 
 # Monsters (V)
 
 ## Vampires
 
-@include    markdown/statblocks/vampire.md
-@include-   markdown/statblocks/vampire_spawn.md
+@include    1-69 "markdown/Monsters/Vampire.md"
+@include-   1-43 "markdown/Monsters/Vampire Spawn.md"
 
 # Monsters (W)
 
-@include    markdown/statblocks/wight.md
-@include    markdown/statblocks/will_o_wisp.md
-@include    markdown/statblocks/wraith.md
-@include-   markdown/statblocks/wyvern.md
+@include    1-37 "markdown/Monsters/Wight.md"
+@include    1-36 "markdown/Monsters/Will-o'-Wisp.md"
+@include    1-32 "markdown/Monsters/Wraith.md"
+@include-   1-28 "markdown/Monsters/Wyvern.md"
 
 # Monsters (X)
 
-@include-   markdown/statblocks/xorn.md
+@include-   1-35 "markdown/Monsters/Xorn.md"
 
 # Monsters (Z)
 
 ## Zombies
 
-@include    markdown/statblocks/zombie.md
-@include-   markdown/statblocks/ogre_zombie.md
-
+@include    1-27 "markdown/Monsters/Zombie.md"
+@include-   1-27 "markdown/Monsters/Ogre Zombie.md"
 @adjust 1
-@include  0 markdown/conditions/conditions.md
-@include    markdown/conditions/blinded.md
-@include    markdown/conditions/charmed.md
-@include    markdown/conditions/deafened.md
-@include    markdown/conditions/exhaustion.md
-@include    markdown/conditions/frightened.md
-@include    markdown/conditions/grappled.md
-@include    markdown/conditions/incapacitated.md
-@include    markdown/conditions/invisible.md
-@include    markdown/conditions/paralyzed.md
-@include    markdown/conditions/petrified.md
-@include    markdown/conditions/poisoned.md
-@include    markdown/conditions/prone.md
-@include    markdown/conditions/restrained.md
-@include    markdown/conditions/stunned.md
-@include-   markdown/conditions/unconscious.md
 
-@include  0 markdown/gods/pantheons.md
-@include    markdown/gods/celtic_pantheon.md
-@include    markdown/gods/greek_pantheon.md
-@include    markdown/gods/egyptian_pantheon.md
-@include    markdown/gods/norse_pantheon.md
-@include- 0 markdown/planes/the_planes_of_existence.md
+@include  0 1-9 "markdown/Conditions/Conditions.md"
+@include    1-4 "markdown/Conditions/Blinded.md"
+@include    1-4 "markdown/Conditions/Charmed.md"
+@include    1-3 "markdown/Conditions/Deafened.md"
+@include    1-20 "markdown/Conditions/Exhaustion.md"
+@include    1-4 "markdown/Conditions/Frightened.md"
+@include    1-5 "markdown/Conditions/Grappled.md"
+@include    1-3 "markdown/Conditions/Incapacitated.md"
+@include    1-4 "markdown/Conditions/Invisible.md"
+@include    1-6 "markdown/Conditions/Paralyzed.md"
+@include    1-8 "markdown/Conditions/Petrified.md"
+@include    1-3 "markdown/Conditions/Poisoned.md"
+@include    1-5 "markdown/Conditions/Prone.md"
+@include    1-5 "markdown/Conditions/Restrained.md"
+@include    1-5 "markdown/Conditions/Stunned.md"
+@include-   1-7 "markdown/Conditions/Unconscious.md"
+
+@include  0 1-3 "markdown/Gods/Fantasy-Historical Pantheons.md"
+@include    1-22 "markdown/Gods/The Celtic Pantheon.md"
+@include    1-25 "markdown/Gods/The Greek Pantheon.md"
+@include    1-22 "markdown/Gods/The Egyptian Pantheon.md"
+@include    1-28 "markdown/Gods/The Norse Pantheon.md"
+@include- 0 1-59 "markdown/Planes/The Planes of Existence.md"
 
 # Appendix MM-A: Miscellaneous Creatures
 
 This appendix contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
 
-@include    markdown/statblocks/ape.md
-@include    markdown/statblocks/awakened_shrub.md
-@include    markdown/statblocks/awakened_tree.md
-@include    markdown/statblocks/axe_beak.md
-@include    markdown/statblocks/baboon.md
-@include    markdown/statblocks/badger.md
-@include    markdown/statblocks/bat.md
-@include    markdown/statblocks/black_bear.md
-@include    markdown/statblocks/blink_dog.md
-@include    markdown/statblocks/blood_hawk.md
-@include    markdown/statblocks/boar.md
-@include    markdown/statblocks/brown_bear.md
-@include    markdown/statblocks/camel.md
-@include    markdown/statblocks/cat.md
-@include    markdown/statblocks/constrictor_snake.md
-@include    markdown/statblocks/crab.md
-@include    markdown/statblocks/crocodile.md
-@include    markdown/statblocks/death_dog.md
-@include    markdown/statblocks/deer.md
-@include    markdown/statblocks/dire_wolf.md
-@include    markdown/statblocks/draft_horse.md
-@include    markdown/statblocks/eagle.md
-@include    markdown/statblocks/elephant.md
-@include    markdown/statblocks/elk.md
-@include    markdown/statblocks/flying_snake.md
-@include    markdown/statblocks/frog.md
-@include    markdown/statblocks/giant_ape.md
-@include    markdown/statblocks/giant_badger.md
-@include    markdown/statblocks/giant_bat.md
-@include    markdown/statblocks/giant_boar.md
-@include    markdown/statblocks/giant_centipede.md
-@include    markdown/statblocks/giant_constrictor_snake.md
-@include    markdown/statblocks/giant_crab.md
-@include    markdown/statblocks/giant_crocodile.md
-@include    markdown/statblocks/giant_eagle.md
-@include    markdown/statblocks/giant_elk.md
-@include    markdown/statblocks/giant_fire_beetle.md
-@include    markdown/statblocks/giant_frog.md
-@include    markdown/statblocks/giant_goat.md
-@include    markdown/statblocks/giant_hyena.md
-@include    markdown/statblocks/giant_lizard.md
-@include    markdown/statblocks/giant_octopus.md
-@include    markdown/statblocks/giant_owl.md
-@include    markdown/statblocks/giant_poisonous_snake.md
-@include    markdown/statblocks/giant_rat.md
-@include    markdown/statblocks/giant_scorpion.md
-@include    markdown/statblocks/giant_sea_horse.md
-@include    markdown/statblocks/giant_shark.md
-@include    markdown/statblocks/giant_spider.md
-@include    markdown/statblocks/giant_toad.md
-@include    markdown/statblocks/giant_vulture.md
-@include    markdown/statblocks/giant_wasp.md
-@include    markdown/statblocks/giant_weasel.md
-@include    markdown/statblocks/giant_wolf_spider.md
-@include    markdown/statblocks/goat.md
-@include    markdown/statblocks/hawk.md
-@include    markdown/statblocks/hunter_shark.md
-@include    markdown/statblocks/hyena.md
-@include    markdown/statblocks/jackal.md
-@include    markdown/statblocks/killer_whale.md
-@include    markdown/statblocks/lion.md
-@include    markdown/statblocks/lizard.md
-@include    markdown/statblocks/mammoth.md
-@include    markdown/statblocks/mastiff.md
-@include    markdown/statblocks/mule.md
-@include    markdown/statblocks/octopus.md
-@include    markdown/statblocks/owl.md
-@include    markdown/statblocks/panther.md
-@include    markdown/statblocks/phase_spider.md
-@include    markdown/statblocks/poisonous_snake.md
-@include    markdown/statblocks/polar_bear.md
-@include    markdown/statblocks/pony.md
-@include    markdown/statblocks/quipper.md
-@include    markdown/statblocks/rat.md
-@include    markdown/statblocks/raven.md
-@include    markdown/statblocks/reef_shark.md
-@include    markdown/statblocks/rhinoceros.md
-@include    markdown/statblocks/riding_horse.md
-@include    markdown/statblocks/saber_toothed_tiger.md
-@include    markdown/statblocks/scorpion.md
-@include    markdown/statblocks/sea_horse.md
-@include    markdown/statblocks/spider.md
-@include    markdown/statblocks/swarm_of_bats.md
-@include    markdown/statblocks/swarm_of_insects.md
-@include    markdown/statblocks/swarm_of_poisonous_snakes.md
-@include    markdown/statblocks/swarm_of_quippers.md
-@include    markdown/statblocks/swarm_of_rats.md
-@include    markdown/statblocks/swarm_of_ravens.md
-@include    markdown/statblocks/variant_insect_swarms.md
-@include    markdown/statblocks/tiger.md
-@include    markdown/statblocks/vulture.md
-@include    markdown/statblocks/warhorse.md
-@include    markdown/statblocks/weasel.md
-@include    markdown/statblocks/winter_wolf.md
-@include    markdown/statblocks/wolf.md
-@include-   markdown/statblocks/worg.md
+@include    1-26 "markdown/Monsters/Ape.md"
+@include    1-29 "markdown/Monsters/Awakened Shrub.md"
+@include    1-29 "markdown/Monsters/Awakened Tree.md"
+@include    1-23 "markdown/Monsters/Axe Beak.md"
+@include    1-25 "markdown/Monsters/Baboon.md"
+@include    1-25 "markdown/Monsters/Badger.md"
+@include    1-27 "markdown/Monsters/Bat.md"
+@include    1-30 "markdown/Monsters/Black Bear.md"
+@include    1-30 "markdown/Monsters/Blink Dog.md"
+@include    1-30 "markdown/Monsters/Blood Hawk.md"
+@include    1-27 "markdown/Monsters/Boar.md"
+@include    1-30 "markdown/Monsters/Brown Bear.md"
+@include    1-21 "markdown/Monsters/Camel.md"
+@include    1-26 "markdown/Monsters/Cat.md"
+@include    1-23 "markdown/Monsters/Constrictor Snake.md"
+@include    1-26 "markdown/Monsters/Crab.md"
+@include    1-26 "markdown/Monsters/Crocodile.md"
+@include    1-30 "markdown/Monsters/Death Dog.md"
+@include    1-21 "markdown/Monsters/Deer.md"
+@include    1-28 "markdown/Monsters/Dire Wolf.md"
+@include    1-21 "markdown/Monsters/Draft Horse.md"
+@include    1-26 "markdown/Monsters/Eagle.md"
+@include    1-27 "markdown/Monsters/Elephant.md"
+@include    1-27 "markdown/Monsters/Elk.md"
+@include    1-27 "markdown/Monsters/Flying Snake.md"
+@include    1-26 "markdown/Monsters/Frog.md"
+@include    1-26 "markdown/Monsters/Giant Ape.md"
+@include    1-29 "markdown/Monsters/Giant Badger.md"
+@include    1-27 "markdown/Monsters/Giant Bat.md"
+@include    1-27 "markdown/Monsters/Giant Boar.md"
+@include    1-21 "markdown/Monsters/Giant Centipede.md"
+@include    1-24 "markdown/Monsters/Giant Constrictor Snake.md"
+@include    1-26 "markdown/Monsters/Giant Crab.md"
+@include    1-30 "markdown/Monsters/Giant Crocodile.md"
+@include    1-32 "markdown/Monsters/Giant Eagle.md"
+@include    1-30 "markdown/Monsters/Giant Elk.md"
+@include    1-27 "markdown/Monsters/Giant Fire Beetle.md"
+@include    1-32 "markdown/Monsters/Giant Frog.md"
+@include    1-27 "markdown/Monsters/Giant Goat.md"
+@include    1-26 "markdown/Monsters/Giant Hyena.md"
+@include    1-23 "markdown/Monsters/Giant Lizard.md"
+@include    1-32 "markdown/Monsters/Giant Octopus.md"
+@include    1-30 "markdown/Monsters/Giant Owl.md"
+@include    1-22 "markdown/Monsters/Giant Poisonous Snake.md"
+@include    1-33 "markdown/Monsters/Giant Rat.md"
+@include    1-25 "markdown/Monsters/Giant Scorpion.md"
+@include    1-29 "markdown/Monsters/Giant Sea Horse.md"
+@include    1-30 "markdown/Monsters/Giant Shark.md"
+@include    1-34 "markdown/Monsters/Giant Spider.md"
+@include    1-31 "markdown/Monsters/Giant Toad.md"
+@include    1-34 "markdown/Monsters/Giant Vulture.md"
+@include    1-21 "markdown/Monsters/Giant Wasp.md"
+@include    1-26 "markdown/Monsters/Giant Weasel.md"
+@include    1-32 "markdown/Monsters/Giant Wolf Spider.md"
+@include    1-27 "markdown/Monsters/Goat.md"
+@include    1-26 "markdown/Monsters/Hawk.md"
+@include    1-30 "markdown/Monsters/Hunter Shark.md"
+@include    1-26 "markdown/Monsters/Hyena.md"
+@include    1-28 "markdown/Monsters/Jackal.md"
+@include    1-30 "markdown/Monsters/Killer Whale.md"
+@include    1-34 "markdown/Monsters/Lion.md"
+@include    1-21 "markdown/Monsters/Lizard.md"
+@include    1-29 "markdown/Monsters/Mammoth.md"
+@include    1-28 "markdown/Monsters/Mastiff.md"
+@include    1-27 "markdown/Monsters/Mule.md"
+@include    1-32 "markdown/Monsters/Octopus.md"
+@include    1-28 "markdown/Monsters/Owl.md"
+@include    1-30 "markdown/Monsters/Panther.md"
+@include    1-32 "markdown/Monsters/Phase Spider.md"
+@include    1-21 "markdown/Monsters/Poisonous Snake.md"
+@include    1-30 "markdown/Monsters/Polar Bear.md"
+@include    1-21 "markdown/Monsters/Pony.md"
+@include    1-29 "markdown/Monsters/Quipper.md"
+@include    1-25 "markdown/Monsters/Rat.md"
+@include    1-26 "markdown/Monsters/Raven.md"
+@include    1-30 "markdown/Monsters/Reef Shark.md"
+@include    1-25 "markdown/Monsters/Rhinoceros.md"
+@include    1-21 "markdown/Monsters/Riding Horse.md"
+@include    1-30 "markdown/Monsters/Saber-Toothed Tiger.md"
+@include    1-21 "markdown/Monsters/Scorpion.md"
+@include    1-21 "markdown/Monsters/Sea Horse.md"
+@include    1-30 "markdown/Monsters/Spider.md"
+@include    1-31 "markdown/Monsters/Swarm of Bats.md"
+@include    1-27 "markdown/Monsters/Swarm of Insects.md"
+@include    1-27 "markdown/Monsters/Swarm of Poisonous Snakes.md"
+@include    1-31 "markdown/Monsters/Swarm of Quippers.md"
+@include    1-29 "markdown/Monsters/Swarm of Rats.md"
+@include    1-28 "markdown/Monsters/Swarm of Ravens.md"
+@include    1-17 "markdown/Monsters/Variant Insect Swarms.md"
+@include    1-30 "markdown/Monsters/Tiger.md"
+@include    1-28 "markdown/Monsters/Vulture.md"
+@include    1-25 "markdown/Monsters/Warhorse.md"
+@include    1-26 "markdown/Monsters/Weasel.md"
+@include    1-35 "markdown/Monsters/Winter Wolf.md"
+@include    1-28 "markdown/Monsters/Wolf.md"
+@include-   1-28 "markdown/Monsters/Worg.md"
 
 # Appendix MM-B: Nonplayer Characters
 
 This appendix contains statistics for various humanoid nonplayer characters (NPCs) that adventurers might encounter during a campaign, including lowly commoners and mighty archmages. These stat blocks can be used to represent both human and nonhuman NPCs.
 
-@include-   markdown/npcs/customizing_npcs.md
+@include-   1-11 "markdown/NPCs/Customizing NPCs.md"
 
-@include    markdown/statblocks/acolyte.md
-@include    markdown/statblocks/archmage.md
-@include    markdown/statblocks/assassin.md
-@include    markdown/statblocks/bandit.md
-@include    markdown/statblocks/bandit_captain.md
-@include    markdown/statblocks/berserker.md
-@include    markdown/statblocks/commoner.md
-@include    markdown/statblocks/cultist.md
-@include    markdown/statblocks/cult_fanatic.md
-@include    markdown/statblocks/druid.md
-@include    markdown/statblocks/gladiator.md
-@include    markdown/statblocks/guard.md
-@include    markdown/statblocks/knight.md
-@include    markdown/statblocks/mage.md
-@include    markdown/statblocks/noble.md
-@include    markdown/statblocks/priest.md
-@include    markdown/statblocks/scout.md
-@include    markdown/statblocks/spy.md
-@include    markdown/statblocks/thug.md
-@include    markdown/statblocks/tribal_warrior.md
-@include-   markdown/statblocks/veteran.md
+@include    1-31 "markdown/Monsters/Acolyte.md"
+@include    1-46 "markdown/Monsters/Archmage.md"
+@include    1-37 "markdown/Monsters/Assassin.md"
+@include    1-27 "markdown/Monsters/Bandit.md"
+@include    1-36 "markdown/Monsters/Bandit Captain.md"
+@include    1-27 "markdown/Monsters/Berserker.md"
+@include    1-23 "markdown/Monsters/Commoner.md"
+@include    1-28 "markdown/Monsters/Cultist.md"
+@include    1-36 "markdown/Monsters/Cult Fanatic.md"
+@include    1-32 "markdown/Monsters/Druid.md"
+@include    1-38 "markdown/Monsters/Gladiator.md"
+@include    1-24 "markdown/Monsters/Guard.md"
+@include    1-37 "markdown/Monsters/Knight.md"
+@include    1-35 "markdown/Monsters/Mage.md"
+@include    1-30 "markdown/Monsters/Noble.md"
+@include    1-37 "markdown/Monsters/Priest.md"
+@include    1-32 "markdown/Monsters/Scout.md"
+@include    1-34 "markdown/Monsters/Spy.md"
+@include    1-32 "markdown/Monsters/Thug.md"
+@include    1-27 "markdown/Monsters/Tribal Warrior.md"
+@include-   1-30 "markdown/Monsters/Veteran.md"

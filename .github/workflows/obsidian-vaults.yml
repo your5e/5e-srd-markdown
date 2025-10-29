@@ -1,0 +1,52 @@
+name: Zip Obsidian vaults
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+jobs:
+  build-vault:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v5
+
+    - name: Install tabulate
+      run: |
+        pip install tabulate
+
+    - name: Create zips
+      run: |
+        make assets
+
+    - name: Upload 51 zip
+      uses: actions/upload-artifact@v4
+      with:
+        name: dnd_51_srd
+        path: /tmp/dnd_51_srd.zip
+        
+    - name: Upload 521 zip
+      uses: actions/upload-artifact@v4
+      with:
+        name: dnd_521_srd
+        path: /tmp/dnd_521_srd.zip
+
+    - name: Extract changelog
+      if: github.ref_type == 'tag'
+      run: |
+        tag="${GITHUB_REF_NAME}"
+        awk "/^## \[$tag\]/{flag=1;next}/^## \[/{flag=0}flag" CHANGELOG.md > /tmp/release_notes.md
+
+    - name: Create Release
+      uses: softprops/action-gh-release@v2
+      if: github.ref_type == 'tag'
+      with:
+        body_path: /tmp/release_notes.md
+        files: |
+          /tmp/dnd_51_srd.zip
+          /tmp/dnd_521_srd.zip

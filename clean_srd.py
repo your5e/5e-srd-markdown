@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 
 import argparse
+from pathlib import Path
 import re
 import sys
 
-from lib.spells import get_spell_list, get_next_unemphasised_spell
 from lib.magic_items import magic_items
+from lib.spells import get_spell_list, get_next_unemphasised_spell
 from lib.tables import realign_table
 
 spell_list = get_spell_list()
@@ -97,8 +98,9 @@ def clean_unicode_chars(lines, index):
     # usable characters over clever typographic characters
     replacements = {
         '\u0336': '—',  # "combining long stroke overlay" to em-dash
-        '\u2212': '-',  # "minus sign" to hyphen
+        '\u2012': '-',  # "figure dash" to hyphen
         '\u2013': '-',  # "en-dash" to hyphen
+        '\u2212': '-',  # "minus sign" to hyphen
         '•': '-',       # bullet to hyphen
         '½': ' 1/2',    # vulgar fractions
         '⅓': ' 1/3',
@@ -403,17 +405,36 @@ def clean_detabulate_mixed_stats(lines, index):
     ):
         return None
 
-    table_rows = [lines[index]]
-    current_index = separator_index + 1
-    while current_index < len(lines) and lines[current_index].startswith('|'):
-        table_rows.append(lines[current_index])
-        current_index += 1
+    header_cells = [cell.strip().upper() for cell in lines[index].split('|')[1:-1]]
+    is_clean_header = all(
+        cell in [ability.upper() for ability in ABILITIES]
+            for cell in header_cells
+    )
 
-    abilities_pattern = r'\b(' + '|'.join(ABILITIES) + r')(\d)'
-    table_text = ' '.join(table_rows)
-    table_text = table_text.replace('|', ' ')
-    table_text = re.sub(abilities_pattern, r'\1 \2', table_text)
-    table_text = table_text.replace('MOD SAVE', '')
+    if len(header_cells) == 6 and is_clean_header:
+        # 5.1 format "STR DEX CON INT WIS CHA" abilities table
+        data_row = lines[separator_index + 1]
+        cells = [cell.strip() for cell in data_row.split('|')[1:-1]]
+        parenthesis_pattern = r'(?<![+-])(\d+)\s*\(([+-]?\d+)\)'
+        values = [re.sub(parenthesis_pattern, r'\1 \2 \2', cell) for cell in cells]
+        table_text = ' '.join(
+            f'{ABILITIES[i]} {values[i]}' for i in range(len(values))
+        )
+        current_index = separator_index + 2
+    else:
+        # 5.2.1 style big jumbled mess
+        table_rows = [lines[index]]
+        current_index = separator_index + 1
+        while current_index < len(lines) and lines[current_index].startswith('|'):
+            table_rows.append(lines[current_index])
+            current_index += 1
+
+        abilities_pattern = r'\b(' + '|'.join(ABILITIES) + r')(\d)'
+        table_text = ' '.join(table_rows)
+        table_text = table_text.replace('|', ' ')
+        table_text = re.sub(abilities_pattern, r'\1 \2', table_text)
+        table_text = table_text.replace('MOD SAVE', '')
+
     table_text = re.sub(r'\s+', ' ', table_text).strip()
     words = table_text.split()
 
@@ -478,6 +499,92 @@ def clean_detabulate_mixed_stats(lines, index):
 
     lines[index:current_index] = output_lines
     return len(output_lines) - (current_index - index)
+
+
+def clean_delistify_actions(lines, index):
+    if lines[index].startswith('- _**'):
+        lines[index] = lines[index][2:]
+        if index + 1 < len(lines) and lines[index + 1].startswith('- _**'):
+            lines.insert(index + 1, '')
+            return 1
+        return 0
+    return None
+
+
+def clean_reitalicise_attack_actions(lines, index):
+    pattern = (
+        r'^(_\*\*[^*]+\.\*\*) '
+        r'((?:Melee|Ranged|Melee or Ranged) (?:Weapon )?Attack:_)'
+    )
+    match = re.match(pattern, lines[index])
+    if match:
+        lines[index] = (
+            f'{match.group(1)}_ _{match.group(2)}'
+            + lines[index][match.end():]
+        )
+        return 0
+    return None
+
+
+def clean_deindent(lines, index):
+    if lines[index].startswith('    '):
+        lines[index] = lines[index][4:]
+        return 0
+    return None
+
+
+def clean_respace_lists(lines, index):
+    if index + 1 == len(lines):
+        return None
+
+    this_line = re.match(r'^\s*- ', lines[index])
+    next_line = re.match(r'^\s*- ', lines[index + 1])
+    if this_line and next_line:
+        if this_line.group() != next_line.group():
+            lines.insert(index + 1, '')
+            return 1
+
+    return None
+
+
+def clean_recalculate_saving_throws(lines, index):
+    ability_pattern = (
+        r'^\*\*(' + '|'.join(ABILITIES) + r')\*\* (\d+) ([+-]?\d+) ([+-]?\d+)'
+    )
+    match = re.match(ability_pattern, lines[index])
+    if not match or match.group(1) != 'Str':
+        return None
+
+    saving_throws_index = index + 7
+    if (
+        saving_throws_index >= len(lines)
+        or not lines[saving_throws_index].startswith('- **Saving Throws**')
+    ):
+        return None
+
+    saving_throws_text = lines[saving_throws_index].replace(
+        '- **Saving Throws**', ''
+    ).strip()
+    saving_throws = {}
+    for pair in saving_throws_text.split(','):
+        parts = pair.strip().split()
+        if len(parts) >= 2:
+            for ability in ABILITIES:
+                if ability.lower().startswith(parts[0].lower()):
+                    saving_throws[ability] = parts[1]
+                    break
+
+    for line_index in range(index, saving_throws_index):
+        match = re.match(ability_pattern, lines[line_index])
+        if match and match.group(1) in saving_throws:
+            ability = match.group(1)
+            lines[line_index] = (
+                f'**{ability}** {match.group(2)} {match.group(3)} '
+                f'{saving_throws[ability]}'
+            )
+
+    del lines[saving_throws_index]
+    return -1
 
 
 def clean_retabulate_ability_scores(lines, index):
@@ -719,7 +826,7 @@ def clean_srd(
             )
             print(f"- {cleaner.__name__:40} {index:6} [{bar}]", end=end)
 
-    DND_51_CONVERSIONS_TABLE = [        # noqa: F841
+    DND_51_ORIGINAL_CONVERSIONS_TABLE = [        # noqa: F841
         # common problems
         clean_whitespace,
         clean_wrap_blank_lines,
@@ -750,7 +857,24 @@ def clean_srd(
         clean_italic_emphasis_markers,
     ]
 
-    CONVERSIONS_TABLE = [
+    DND_51_CONVERSIONS_TABLE = [
+        # more aggressive now
+        clean_unicode_chars,
+
+        # rethink some earlier formatting choices
+        clean_respace_lists,
+        clean_deindent,
+        clean_delistify_actions,
+        clean_reitalicise_attack_actions,
+
+        # reformat the monster ability table
+        clean_detabulate_mixed_stats,
+        clean_recalculate_saving_throws,
+        clean_retabulate_ability_scores,
+        clean_table_alignment,
+    ]
+
+    DND_521_CONVERSIONS_TABLE = [
         # basic cleanliness
         clean_whitespace,
         clean_unicode_chars,
@@ -787,8 +911,31 @@ def clean_srd(
         clean_wrap_blank_lines,
     ]
 
+    CONVERSIONS_TABLE = [
+        # basic cleanliness
+        clean_whitespace,
+        clean_unicode_chars,
+        clean_midsentence_pagebreak,
+        clean_pluralise_component,
+        clean_space_out_emdashes,
+        clean_escape_square_brackets,
+
+        # final formatting pass
+        clean_table_alignment,
+        clean_italic_emphasis_markers,
+        clean_collapse_adjacent_items,
+        clean_wrap_blank_lines,
+    ]
+
+    if profile == 'dnd51':
+        conversion_table = DND_51_CONVERSIONS_TABLE
+    elif profile == 'dnd521':
+        conversion_table = DND_521_CONVERSIONS_TABLE
+    else:
+        conversion_table = CONVERSIONS_TABLE
+
     changes = 0
-    for cleaner in CONVERSIONS_TABLE:
+    for cleaner in conversion_table:
         # changing the lines array necessitates restart, so track line
         last_index = -1
 
@@ -848,6 +995,9 @@ def warn_midparagraph_italics(lines, index):
         "Melee Attack Roll:",
         "Ranged Attack Roll:",
         "Melee or Ranged Attack Roll:",
+        "Melee Weapon Attack:",
+        "Ranged Weapon Attack:",
+        "Melee or Ranged Weapon Attack:",
         "Trigger:",
         "Response:",
         "Failure:",
@@ -1127,8 +1277,7 @@ def main():
     )
     parser.add_argument(
         '--profile',
-        default='dnd521',
-        help='SRD profile to use (dnd51, dnd521)',
+        help='SRD profile to use',
     )
     args = parser.parse_args()
 
@@ -1148,12 +1297,21 @@ def main():
             if args.clean_lines:
                 clean_lines = load_clean_lines(args.clean_lines)
 
+            profile = args.profile
+            if not profile:
+                if args.markdown == '-':
+                    print("--profile required when reading from stdin")
+                    sys.exit(1)
+
+                parts = Path(args.markdown).parts
+                profile = parts[0] + parts[1]
+
             cleaned = clean_srd(
                 lines,
                 breakdown_data,
                 args.progress,
                 clean_lines,
-                args.profile,
+                profile,
             )
 
         warn_srd(lines, args.ignore_warnings)

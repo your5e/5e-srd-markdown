@@ -1,14 +1,15 @@
 #!/usr/bin/env python
 
 import argparse
-import re
 from pathlib import Path
+import re
+import sys
 
-from lib.spells import get_spell_list
-from lib.magic_items import magic_items
 from lib.conditions import conditions
-from lib.monsters import monsters
 from lib.glossary import get_glossary_terms
+from lib.magic_items import magic_items
+from lib.monsters import monsters
+from lib.spells import get_spell_list
 from lib.tables import realign_table
 
 spell_list = get_spell_list()
@@ -120,14 +121,19 @@ def process_condition_wikilinks(lines, index, filename):
             for condition in conditions:
                 if condition not in seen:
                     # skip if condition matches filename
-                    if condition == filename:
+                    if filename and filename.endswith(
+                        f'{condition.capitalize()}.md'
+                    ):
                         continue
 
                     pattern = r'\b' + re.escape(condition) + r'\b'
-                    if re.search(pattern, part, flags=re.IGNORECASE):
+                    match = re.search(pattern, part, flags=re.IGNORECASE)
+                    if match:
+                        matched_text = match.group(0)
+                        capitalized = matched_text.capitalize()
                         part = re.sub(
                             pattern,
-                            f'[[{condition}]]',
+                            f'[[{capitalized}]]',
                             part,
                             flags=re.IGNORECASE,
                             count=1,
@@ -243,7 +249,7 @@ def process_table_alignment(lines, index, filename):
 
 
 def update_vault(
-    source_dir, dest_dir, show_progress=False, ignore_file=None, profile='dnd51'
+    source_dir, dest_dir, show_progress=False, ignore_file=None, profile=None
 ):
     global spell_list, glossary_terms
 
@@ -265,10 +271,13 @@ def update_vault(
         process_table_alignment,
     ]
 
-    if profile == 'dnd521':
+    if profile == 'dnd51':
+        processors = DND51_PROCESSORS
+    elif profile == 'dnd521':
         processors = DND521_PROCESSORS
     else:
-        processors = DND51_PROCESSORS
+        print(f"Unknown profile: {profile}")
+        sys.exit(1)
 
     def _progress_bar(filename, index, end='\r'):
         if show_progress:
@@ -377,7 +386,12 @@ def main():
     )
     args = parser.parse_args()
 
-    update_vault(args.source, args.vault, args.progress, args.ignore, args.profile)
+    profile = args.profile
+    if not profile:
+        parts = Path(args.source).parts
+        profile = parts[0] + parts[1]
+
+    update_vault(args.source, args.vault, args.progress, args.ignore, profile)
 
 
 if __name__ == "__main__":

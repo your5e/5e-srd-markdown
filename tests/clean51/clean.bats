@@ -2,7 +2,9 @@
 
 setup() {
     cp tests/clean51/srd.md "$BATS_TEST_TMPDIR/"
+    cp tests/clean51/cleaned.md "$BATS_TEST_TMPDIR/"
     cp tests/clean51/breakdown.txt "$BATS_TEST_TMPDIR/"
+    cp tests/clean51/breakdown.cleaned.txt "$BATS_TEST_TMPDIR/"
     cp tests/clean51/clean.txt "$BATS_TEST_TMPDIR/"
 }
 
@@ -67,6 +69,26 @@ setup() {
             "$BATS_TEST_TMPDIR/breakdown.txt"
     diff -u tests/clean51/expected/srd.md "$BATS_TEST_TMPDIR/srd.md"
     diff -u tests/clean51/expected/breakdown.txt "$BATS_TEST_TMPDIR/breakdown.txt"
+    diff -u <(echo "$expected_output") <(echo "$output")
+    [ "$status" -eq 0 ]
+}
+
+@test "cleans already cleaned to new standard" {
+    expected_output=$(sed -e 's/^        //' <<'        EOF'
+        Warning: # The Barbarian, 15: table immediately after header
+        Warning: # The Barbarian, 15: table has empty header cells
+        Warning: # The Barbarian, 30: possible table run-on
+        Warning: # The Barbarian, 30: table has empty header cells
+        Warning: ## Equipment, 74: table has empty header cells
+        Warning: #### Traits, 293: possible mistaken mid-paragraph italic: 'Charge (Boar or Hybrid Form Only).'
+        Warning: ##### Arctic, 325: table immediately after header
+        EOF
+    )
+
+    run python clean_srd.py \
+            --profile dnd51 \
+            "$BATS_TEST_TMPDIR/cleaned.md"
+    diff -u tests/clean51/expected/v2.md "$BATS_TEST_TMPDIR/cleaned.md"
     diff -u <(echo "$expected_output") <(echo "$output")
     [ "$status" -eq 0 ]
 }
