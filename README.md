@@ -24,7 +24,7 @@ Each is available as a whole Markdown file, smaller segments broken up in a
     - [Markdown (untouched)](dnd/51/SRD_CC_v5.1.untouched.md)
     - [Markdown (cleaned, one file)](dnd/51/SRD_CC_v5.1.md)
     - [Markdown (broken into sections)](dnd/51/markdown)
-    - [Obsidian vault (.zip)](https://github.com/your5e/5e-srd-markdown/releases/download/v0.2.3/dnd_51_srd.zip)
+    - [Obsidian vault (.zip)](https://github.com/your5e/5e-srd-markdown/releases/download/v0.3/dnd_51_srd.zip)
 
     > This work includes material taken from the System Reference Document 5.1
     > ("SRD 5.1") by Wizards of the Coast LLC and available at
@@ -61,7 +61,7 @@ Each is available as a whole Markdown file, smaller segments broken up in a
     - [Markdown (untouched)](dnd/521/SRD_CC_v5.2.1.untouched.md)
     - [Markdown (cleaned, one file)](dnd/521/SRD_CC_v5.2.1.md)
     - [Markdown (broken into sections)](dnd/521/markdown)
-    - [Obsidiant vault (.zip)](https://github.com/your5e/5e-srd-markdown/releases/download/v0.2.3/dnd_521_srd.zip)
+    - [Obsidiant vault (.zip)](https://github.com/your5e/5e-srd-markdown/releases/download/v0.3/dnd_521_srd.zip)
 
     > This work includes material from the System Reference Document 5.2.1
     > ("SRD 5.2.1") by Wizards of the Coast LLC, available at
