@@ -18,6 +18,7 @@
 
 @test "check for 5.1 vault changes" {
     expected_output=$(sed -e 's/^        //' <<'        EOF'
+        == Conditions/Conditions.md
         About the vault.md: no longer in source directory
         Magic Items/List of Magic Items by A-Z.md: no longer in source directory
         Magic Items/List of Magic Items by Rarity.md: no longer in source directory
@@ -29,9 +30,7 @@
         EOF
     )
 
-    run python update_vault.py \
-            dnd/51/markdown \
-            dnd/51/obsidian_vault
+    run make vault-dnd51
     diff -u <(echo "$expected_output") <(echo "$output")
     [ "$status" -eq 0 ]
 
@@ -67,9 +66,8 @@
         EOF
     )
 
-    run python update_vault.py \
-            dnd/521/markdown \
-            dnd/521/obsidian_vault
+
+    run make vault-dnd521
     diff -u <(echo "$expected_output") <(echo "$output")
     [ "$status" -eq 0 ]
 
@@ -78,7 +76,16 @@
 }
 
 @test "zero files changed" {
-    run git status --porcelain
-    diff -u <(echo "") <(echo "$output")
-    [ "$status" -eq 0 ]
+    status_output=$(git status --porcelain)
+    diff_output=$(git diff)
+
+    combined_output="$status_output"
+    if [ -n "$status_output" ]; then
+        combined_output="$status_output
+
+Diff:
+$diff_output"
+    fi
+
+    diff -u <(echo "") <(echo "$combined_output")
 }
