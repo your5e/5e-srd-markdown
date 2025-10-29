@@ -86,7 +86,7 @@ setup() {
     )
 
     run python clean_srd.py \
-            --profile dnd51post \
+            --profile dnd51 \
             "$BATS_TEST_TMPDIR/cleaned.md"
     diff -u tests/clean51/expected/v2.md "$BATS_TEST_TMPDIR/cleaned.md"
     diff -u <(echo "$expected_output") <(echo "$output")

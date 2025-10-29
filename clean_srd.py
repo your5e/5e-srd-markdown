@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 
 import argparse
+from pathlib import Path
 import re
 import sys
 
-from lib.spells import get_spell_list, get_next_unemphasised_spell
 from lib.magic_items import magic_items
+from lib.spells import get_spell_list, get_next_unemphasised_spell
 from lib.tables import realign_table
 
 spell_list = get_spell_list()
@@ -825,7 +826,7 @@ def clean_srd(
             )
             print(f"- {cleaner.__name__:40} {index:6} [{bar}]", end=end)
 
-    DND_51_CONVERSIONS_TABLE = [        # noqa: F841
+    DND_51_ORIGINAL_CONVERSIONS_TABLE = [        # noqa: F841
         # common problems
         clean_whitespace,
         clean_wrap_blank_lines,
@@ -856,7 +857,7 @@ def clean_srd(
         clean_italic_emphasis_markers,
     ]
 
-    DND_51_POST_CONVERSIONS_TABLE = [
+    DND_51_CONVERSIONS_TABLE = [
         # more aggressive now
         clean_unicode_chars,
 
@@ -873,7 +874,7 @@ def clean_srd(
         clean_table_alignment,
     ]
 
-    CONVERSIONS_TABLE = [
+    DND_521_CONVERSIONS_TABLE = [
         # basic cleanliness
         clean_whitespace,
         clean_unicode_chars,
@@ -910,9 +911,29 @@ def clean_srd(
         clean_wrap_blank_lines,
     ]
 
-    conversion_table = CONVERSIONS_TABLE
-    if profile == 'dnd51post':
-        conversion_table = DND_51_POST_CONVERSIONS_TABLE
+    CONVERSIONS_TABLE = [
+        # basic cleanliness
+        clean_whitespace,
+        clean_unicode_chars,
+        clean_midsentence_pagebreak,
+        clean_pluralise_component,
+        clean_space_out_emdashes,
+        clean_escape_square_brackets,
+
+        # final formatting pass
+        clean_table_alignment,
+        clean_italic_emphasis_markers,
+        clean_collapse_adjacent_items,
+        clean_wrap_blank_lines,
+    ]
+
+    if profile == 'dnd51':
+        conversion_table = DND_51_CONVERSIONS_TABLE
+    elif profile == 'dnd521':
+        conversion_table = DND_521_CONVERSIONS_TABLE
+    else:
+        conversion_table = CONVERSIONS_TABLE
+
     changes = 0
     for cleaner in conversion_table:
         # changing the lines array necessitates restart, so track line
@@ -1256,8 +1277,7 @@ def main():
     )
     parser.add_argument(
         '--profile',
-        default='dnd521',
-        help='SRD profile to use (dnd51, dnd521)',
+        help='SRD profile to use',
     )
     args = parser.parse_args()
 
@@ -1277,12 +1297,21 @@ def main():
             if args.clean_lines:
                 clean_lines = load_clean_lines(args.clean_lines)
 
+            profile = args.profile
+            if not profile:
+                if args.markdown == '-':
+                    print("--profile required when reading from stdin")
+                    sys.exit(1)
+
+                parts = Path(args.markdown).parts
+                profile = parts[0] + parts[1]
+
             cleaned = clean_srd(
                 lines,
                 breakdown_data,
                 args.progress,
                 clean_lines,
-                args.profile,
+                profile,
             )
 
         warn_srd(lines, args.ignore_warnings)

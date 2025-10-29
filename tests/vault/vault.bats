@@ -24,6 +24,7 @@ teardown() {
     )
 
     run python update_vault.py \
+        --profile dnd51 \
         --ignore $BATS_TEST_TMPDIR/source/ignore.txt \
             "$BATS_TEST_TMPDIR/source" \
             "$BATS_TEST_TMPDIR/vault"
